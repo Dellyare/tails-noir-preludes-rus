@@ -46,8 +46,8 @@ function findAllTextProperties(obj, path = []) {
 // Получаем аргумент из командной строки: 'extract' или 'inject'
 const mode = process.argv[2] || 'extract';
 
-const inputPath = './patch.json';
-const outputPath = './translations.json';
+const inputPath = '../../Json-TailsRUS_P/BackboneStories/Content/Data/Dialogues/Act_I/ClarissaGrandpa_1-1.json';
+const outputPath = '../../Json-TailsRUS_P/BackboneStories/Content/Data/Dialogues/Act_I/TRANSLATE-ClarissaGrandpa_1-1.json';
 
 if (mode === 'extract') {
     const input = readJsonFile(inputPath);
