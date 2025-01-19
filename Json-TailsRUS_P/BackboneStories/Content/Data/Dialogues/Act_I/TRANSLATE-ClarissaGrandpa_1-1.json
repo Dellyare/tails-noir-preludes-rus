@@ -1,0 +1,4272 @@
+[
+  {
+    "path": "Exports.317.Data.3.Value.0.Value.5",
+    "key": "edge_next",
+    "text": "Next"
+  },
+  {
+    "path": "Exports.318.Data.0",
+    "key": "09FD3E8D4016F834EEEA3F98CFB40944",
+    "text": "The years passing by, bella. Time itself, I suppose. Tell me - what will you be when you're older? Who do you want to be?"
+  },
+  {
+    "path": "Exports.318.Data.6.Value.0.Value.5",
+    "key": "82DADE5849AEF789DF0CBE951066EB1E",
+    "text": "(GAIN TRAIT: CUNNING) I want to be really smart. Really clever."
+  },
+  {
+    "path": "Exports.318.Data.6.Value.1.Value.5",
+    "key": "38A5713E4A6E841917D185890C18A49B",
+    "text": "(GAIN TRAIT: AMBITIOUS) I want to be like you, Grandpa. I'll be a big boss."
+  },
+  {
+    "path": "Exports.318.Data.6.Value.2.Value.5",
+    "key": "80360F044265584A5C2B9280966BFEE4",
+    "text": "(GAIN TRAIT: POWERFUL) I want people to listen to me!"
+  },
+  {
+    "path": "Exports.319.Data.0",
+    "key": "6E836EF74FC4789F150374814B7C44C1",
+    "text": "I suppose they are, Clarissa! A little silly, too."
+  },
+  {
+    "path": "Exports.319.Data.6.Value.0.Value.5",
+    "key": "24B8DC46499948AC04BD66A73C524E45",
+    "text": "Like me. I'm silly."
+  },
+  {
+    "path": "Exports.319.Data.6.Value.1.Value.5",
+    "key": "86FF3E1040A6B181D2FB56830EE43B02",
+    "text": "Like you. You're silly."
+  },
+  {
+    "path": "Exports.319.Data.6.Value.2.Value.5",
+    "key": "D3A911364F58CC19F22091903B8771E1",
+    "text": "Can I go feed them?"
+  },
+  {
+    "path": "Exports.320.Data.0",
+    "key": "C50D49D7458B4210060E5BB229AB278B",
+    "text": "That's good! You can't spend all your time worrying about what other people think. There's a lot of people in this city, and they all have opinions on everything!"
+  },
+  {
+    "path": "Exports.320.Data.6.Value.0.Value.5",
+    "key": "BCD5081C413D17B1B1D55B9CC47246E0",
+    "text": "Do people like you, Grandpa?"
+  },
+  {
+    "path": "Exports.320.Data.6.Value.1.Value.5",
+    "key": "34EAFA514ACB50AE64016988D3D37D1D",
+    "text": "Do people like us, Grandpa? Our family?"
+  },
+  {
+    "path": "Exports.320.Data.6.Value.2.Value.5",
+    "key": "B5A4A86D46C2DDBD3B4E7E8E8AC0D945",
+    "text": "Is there anyone nobody likes?"
+  },
+  {
+    "path": "Exports.321.Data.0",
+    "key": "68825CA840DCADF9434709BCFFF9A546",
+    "text": "Would you want all those geezers around? With their honking and their pecking?"
+  },
+  {
+    "path": "Exports.321.Data.5.Value.0.Value.5",
+    "key": "EC3303104BC48BFFAE20299CF9A1BA36",
+    "text": "I don't mind it. I'm used to loud noises."
+  },
+  {
+    "path": "Exports.321.Data.5.Value.1.Value.5",
+    "key": "82DFF3144E1A4CE75EF0869474A6BE27",
+    "text": "They have to promise to be quiet."
+  },
+  {
+    "path": "Exports.322.Data.0",
+    "key": "249DB20D43516020C30414904F805453",
+    "text": "A great choice, I'm sure. Nothing quite like it."
+  },
+  {
+    "path": "Exports.322.Data.6.Value.0.Value.5",
+    "key": "19703A144F89BC4F04825385E2C1C1B8",
+    "text": "[Nod]"
+  },
+  {
+    "path": "Exports.322.Data.6.Value.1.Value.5",
+    "key": "A35183F74EF1C1EF195E7B9A25F0A133",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.323.Data.0",
+    "key": "0E154C9B45453475C600EF9852B83F0D",
+    "text": "Of course, I should have known! Well, regardless of how big you become, I hope I'll be around to see it."
+  },
+  {
+    "path": "Exports.323.Data.6.Value.0.Value.5",
+    "key": "030F111542831268932F7B84CE2F61F2",
+    "text": "You will be!"
+  },
+  {
+    "path": "Exports.323.Data.6.Value.1.Value.5",
+    "key": "B9549DFF49E213D72B1D3A9F1C13CC68",
+    "text": "I hope so too."
+  },
+  {
+    "path": "Exports.323.Data.6.Value.2.Value.5",
+    "key": "18B5D25341F657A14575858CC6FD6A89",
+    "text": "Of course you will! I'll visit you every day."
+  },
+  {
+    "path": "Exports.324.Data.0",
+    "key": "1F83719E4A4DDDCD554277879982C39E",
+    "text": "I know, Clarissa. Me too."
+  },
+  {
+    "path": "Exports.324.Data.6.Value.0.Value.5",
+    "key": "6280389B44DF1F24F6E3CA8EA5D71432",
+    "text": "Do you think she would have liked me?"
+  },
+  {
+    "path": "Exports.324.Data.6.Value.1.Value.5",
+    "key": "FE2AB62F4154B080072CE68C492CBA6C",
+    "text": "Is it something I'll learn while growing up?"
+  },
+  {
+    "path": "Exports.324.Data.6.Value.2.Value.5",
+    "key": "BEF0C1B24E75BADFDC872F96E86CF237",
+    "text": "Is it weird that I miss Grandma, even though we never talked?"
+  },
+  {
+    "path": "Exports.325.Data.0",
+    "key": "56A92D9547EC9ED095A7F386C1EE7F68",
+    "text": "I don't think so. Geezers are interesting creatures. They're not like us - not quite - but they still have instinct. They're not stupid, not at all."
+  },
+  {
+    "path": "Exports.325.Data.6.Value.0.Value.5",
+    "key": "C8F024D64E6F21C06C3057AA457B52BD",
+    "text": "So why are they in the street?"
+  },
+  {
+    "path": "Exports.325.Data.6.Value.1.Value.5",
+    "key": "4001CED441322B1EDD19E091FFF6E503",
+    "text": "I think they look stupid."
+  },
+  {
+    "path": "Exports.325.Data.6.Value.2.Value.5",
+    "key": "6F804FF943668E3D38B1769C5E990E93",
+    "text": "Maybe they could live in the big house with me and mom? And dad?"
+  },
+  {
+    "path": "Exports.326.Data.0",
+    "key": "9815165842126B2E7806C9B0EFCA391B",
+    "text": "He was, wasn't he? Sputtering and spattering, so worked up and angry. But we talked some sense into him, didn't we?"
+  },
+  {
+    "path": "Exports.326.Data.5.Value.0.Value.5",
+    "key": "90302A91481CE42E2AC1D496AD342B62",
+    "text": "How come people always listen to you, Grandpa?"
+  },
+  {
+    "path": "Exports.326.Data.5.Value.1.Value.5",
+    "key": "1D4EF11E45A0A6B2A656ADB24B47C3FA",
+    "text": "Did you know him, Grandpa?"
+  },
+  {
+    "path": "Exports.326.Data.5.Value.2.Value.5",
+    "key": "CA7709924DC320E8E3A646B0F1E1BC81",
+    "text": "What did you tell him, Grandpa?"
+  },
+  {
+    "path": "Exports.327.Data.0",
+    "key": "FE0A03A4496BE001681E03A6E391EEE8",
+    "text": "He was furious! Hooting and hollering, all worked up. And you didn't even flinch. It's almost like you knew I'd be able to talk him down."
+  },
+  {
+    "path": "Exports.327.Data.5.Value.0.Value.5",
+    "key": "DD0672D746B871F63AD7B6B5126AE8C6",
+    "text": "How come people always listen to you, Grandpa?"
+  },
+  {
+    "path": "Exports.327.Data.5.Value.1.Value.5",
+    "key": "D544108049845F13B48E77A70990CAD4",
+    "text": "Did you know him, Grandpa?"
+  },
+  {
+    "path": "Exports.327.Data.5.Value.2.Value.5",
+    "key": "1CD75C694E606675B13E94B78A653204",
+    "text": "What did you tell him, Grandpa?"
+  },
+  {
+    "path": "Exports.328.Data.0",
+    "key": "EBA163B04FE8F737D4B99591B2FCBFB2",
+    "text": "They're looking for food. They're always hungry, you see. It's all the waddling they do."
+  },
+  {
+    "path": "Exports.328.Data.5.Value.0.Value.5",
+    "key": "0073C31A4995FFEF289DD3843F78ED0B",
+    "text": "I'd be hungry, too. If I was a gooser."
+  },
+  {
+    "path": "Exports.328.Data.5.Value.1.Value.5",
+    "key": "F9D054BE4B1EF0CE72DB0CB55D96126C",
+    "text": "How come they're out on the street, Grandpa? Don't they have houses to go to?"
+  },
+  {
+    "path": "Exports.328.Data.5.Value.2.Value.5",
+    "key": "314C674E4203FF4F41A7278971E404A1",
+    "text": "Can I go feed them?"
+  },
+  {
+    "path": "Exports.329.Data.0",
+    "key": "15C5C2304BA701612034B187FD0F9EE7",
+    "text": "No, you're right. Sometimes you have to grow up - but it's important to not lose all of that silliness. "
+  },
+  {
+    "path": "Exports.329.Data.5.Value.0.Value.5",
+    "key": "CB64B4044F7728FF7CC3EAA7A6A03A87",
+    "text": "I won't! It's too easy to be funny."
+  },
+  {
+    "path": "Exports.329.Data.5.Value.1.Value.5",
+    "key": "96B6E80F4F41E0E513D84FAEFE836569",
+    "text": "Is it because it's hard to grow up?"
+  },
+  {
+    "path": "Exports.330.Data.0",
+    "key": "CAD6A0A5485219DE6BBF3F90E44FDB56",
+    "text": "Oh? What makes you think that?"
+  },
+  {
+    "path": "Exports.330.Data.5.Value.0.Value.5",
+    "key": "D662BCE1421D085F99A4D3AD629D2229",
+    "text": "[Shrug] I just know."
+  },
+  {
+    "path": "Exports.330.Data.5.Value.1.Value.5",
+    "key": "EB8070E3466D815FB2DF55985F811B63",
+    "text": "[Point at the ground] Geezers are on the ground. That's where the worms are."
+  },
+  {
+    "path": "Exports.330.Data.5.Value.2.Value.5",
+    "key": "A971E4A64CFDE6737DF0298A812A3749",
+    "text": "I think geezers eat worms."
+  },
+  {
+    "path": "Exports.331.Data.0",
+    "key": "46B4DEEA4199BE95A425A99D800E9568",
+    "text": "They do? I suppose that's right. You see, Clarissa...Grandpa has a lot of friends, all over the city. All sorts of people, big and small. In fact, many of them live here in Gastown!"
+  },
+  {
+    "path": "Exports.331.Data.6.Value.0.Value.5",
+    "key": "AD63B5724391E27FF177EE8E44318205",
+    "text": "Do you work here too?"
+  },
+  {
+    "path": "Exports.331.Data.6.Value.1.Value.5",
+    "key": "E8359EA4490758A8961556A0B53B1282",
+    "text": "And the angry man? Did you know him, too?"
+  },
+  {
+    "path": "Exports.332.Data.0",
+    "key": "473952704F8A8728A3BBF8B635A53904",
+    "text": "Ah, I see. You're something of a worm expert, aren't you?"
+  },
+  {
+    "path": "Exports.332.Data.5.Value.0.Value.5",
+    "key": "FE1A5499481318F3CDB82B919C491CDF",
+    "text": "One time, I found a worm that was bigger than my biggest finger."
+  },
+  {
+    "path": "Exports.332.Data.5.Value.1.Value.5",
+    "key": "121D79A6443F157AEDA12EB28B95BD84",
+    "text": "Yeah. Some worms get really, really big."
+  },
+  {
+    "path": "Exports.333.Data.0",
+    "key": "D8C70DBB498150AE18C64B88C5A69E32",
+    "text": "Know him? No, no. He knew me, however, and he...well, we have some mutual friends - oh, mutual means people that I know, who know him. Do you understand, bella?"
+  },
+  {
+    "path": "Exports.333.Data.6.Value.0.Value.5",
+    "key": "1C4CF1CD496F25C95163B380E438CA7B",
+    "text": "[Nod]"
+  },
+  {
+    "path": "Exports.333.Data.6.Value.1.Value.5",
+    "key": "E5DEC5DF4C2C7A620EF4FF8F29617DEB",
+    "text": "[Shake your head]"
+  },
+  {
+    "path": "Exports.333.Data.6.Value.2.Value.5",
+    "key": "6BAAA84D4DCE37E8CDDEA5B31960D443",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.334.Data.0",
+    "key": "DF000CC1435AC3B9EE625CBD02B1B974",
+    "text": "Did you? Go on, let me see your biggest finger."
+  },
+  {
+    "path": "Exports.334.Data.6.Value.0.Value.5",
+    "key": "A1B806694C876B0E8547EAB1E20A7204",
+    "text": "[Show off your biggest finger]"
+  },
+  {
+    "path": "Exports.335.Data.0",
+    "key": "10C9884446961AEB698EAEB81FBB060F",
+    "text": "Oh, you're right! There they are, waddling around. "
+  },
+  {
+    "path": "Exports.335.Data.6.Value.0.Value.5",
+    "key": "0C413ACB42B7777A036607ACFFEE4D8A",
+    "text": "They look stupid."
+  },
+  {
+    "path": "Exports.335.Data.6.Value.1.Value.5",
+    "key": "F967ACFD44341B5FE27B7AA11371DBDE",
+    "text": "How come they're out on the street, Grandpa? Don't they have houses to go to?"
+  },
+  {
+    "path": "Exports.335.Data.6.Value.2.Value.5",
+    "key": "CC9DBCA44095858DADFE4B98EF3BDC82",
+    "text": "I wanna go feed them. Can I?"
+  },
+  {
+    "path": "Exports.336.Data.0",
+    "key": "3E048EF8450688F1583F41BA0EDCC372",
+    "text": "I think I introduced myself, not much else. After that, we were fast friends. It's always good to have a way with words, Clarissa."
+  },
+  {
+    "path": "Exports.336.Data.6.Value.0.Value.5",
+    "key": "BEC134004ADE84BFBF4DACBAE3254432",
+    "text": "I'm not surprised. Everyone wants to be your friend!"
+  },
+  {
+    "path": "Exports.336.Data.6.Value.1.Value.5",
+    "key": "4EDE0DEF4C78F8D42575B7997652FDB9",
+    "text": "I wish I had a way with words."
+  },
+  {
+    "path": "Exports.336.Data.6.Value.2.Value.5",
+    "key": "9BD9AB2B48E4AB14DD3317842D0DA62E",
+    "text": "You're sure good at making friends, Grandpa."
+  },
+  {
+    "path": "Exports.337.Data.0",
+    "key": "C8E7AE8746AF5F1AD08176AECB1D8958",
+    "text": "That's a big worm."
+  },
+  {
+    "path": "Exports.337.Data.5.Value.0.Value.5",
+    "key": "4C07187F462F20B510DA7F9CA152EC18",
+    "text": "[Nod]"
+  },
+  {
+    "path": "Exports.337.Data.5.Value.1.Value.5",
+    "key": "FCEA0B5D4F5B339514C712B46B480109",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.338.Data.0",
+    "key": "E36207754F606C22D3A17C8D88815E18",
+    "text": "No, no. I work with everything, all over the city, but people mostly come to me. "
+  },
+  {
+    "path": "Exports.338.Data.5.Value.0.Value.5",
+    "key": "1F6CB2D24A425E8915A99EB097F599DF",
+    "text": "Why?"
+  },
+  {
+    "path": "Exports.338.Data.5.Value.1.Value.5",
+    "key": "94AB3AE94AE10C67F64041AE00F13907",
+    "text": "Do you make friends with them, too?"
+  },
+  {
+    "path": "Exports.338.Data.5.Value.2.Value.5",
+    "key": "7F3E02304D676C7F4144FC90AAA2F73A",
+    "text": "To your office! I knew that."
+  },
+  {
+    "path": "Exports.339.Data.0",
+    "key": "23E2D4E44C4353995812459552C44E79",
+    "text": "You are now, but back then? Why, if you'd have caught one you would have gone flying!"
+  },
+  {
+    "path": "Exports.339.Data.5.Value.0.Value.5",
+    "key": "C0EF57FE4DEFFF259D7C19A0A14C9688",
+    "text": "Really? Aw!"
+  },
+  {
+    "path": "Exports.339.Data.5.Value.1.Value.5",
+    "key": "A350B1604114DE3D52BA02BB1F345363",
+    "text": "That's what I was trying to do!"
+  },
+  {
+    "path": "Exports.340.Data.0",
+    "key": "4F71D7D74F3C3D1AA44DFC9BC7F6B712",
+    "text": "It might have happened, too, if that shopkeeper hadn't caught you first."
+  },
+  {
+    "path": "Exports.340.Data.6.Value.0.Value.5",
+    "key": "AC55D3B24E29D975E2FDEAA08B6D1B19",
+    "text": "Maybe he was jealous that he was too big to ride a gooser."
+  },
+  {
+    "path": "Exports.340.Data.6.Value.1.Value.5",
+    "key": "AEDA89C241DC07697AA0CDBF09BE9EA3",
+    "text": "I remember him. He was so upset!"
+  },
+  {
+    "path": "Exports.340.Data.6.Value.2.Value.5",
+    "key": "CCEE0ABA458124387F1F12A9C1C79C89",
+    "text": "I don't like him. He grabbed me."
+  },
+  {
+    "path": "Exports.341.Data.0",
+    "key": "344C406843FDA18F5E8088B1E342042B",
+    "text": "Hah! Who knows? Maybe you would have been successful, if that shopkeeper hadn't caught you."
+  },
+  {
+    "path": "Exports.341.Data.6.Value.0.Value.5",
+    "key": "F28963F94D45646E719B209CFBD8E010",
+    "text": "He was probably jealous. He's too big to ride a gooser."
+  },
+  {
+    "path": "Exports.341.Data.6.Value.1.Value.5",
+    "key": "90F3BDBD4757E18ED642F18D22DB8F0B",
+    "text": "I remember him. He was so upset!"
+  },
+  {
+    "path": "Exports.341.Data.6.Value.2.Value.5",
+    "key": "4314005C44F02DC687554694B67478D5",
+    "text": "Yeah... He was scary."
+  },
+  {
+    "path": "Exports.342.Data.0",
+    "key": "F91B2F4542AFEBDA9A549B967D93A366",
+    "text": "Well, she always stood up for herself, I suppose. Didn't matter if it was a snide comment or an earth-shattering injustice. She never hestitated to tell you if you were out of line."
+  },
+  {
+    "path": "Exports.342.Data.6.Value.0.Value.5",
+    "key": "820F52AD4D8A2C70EDBB65AD208FCBD6",
+    "text": "Grandma sounds pretty cool."
+  },
+  {
+    "path": "Exports.342.Data.6.Value.1.Value.5",
+    "key": "AB92C56A4E30160E5F25EC9F3F00DAB2",
+    "text": "That sounds good."
+  },
+  {
+    "path": "Exports.342.Data.6.Value.2.Value.5",
+    "key": "7EE4EF5C46C08E13D523698D0A246FE6",
+    "text": "Is it weird that I miss Grandma, even though we never talked?"
+  },
+  {
+    "path": "Exports.343.Data.0",
+    "key": "4E9AF9464C6617F6E09B479DAD95B9A6",
+    "text": "I was sitting on a bench—might even have been this one—when I heard a man shouting. I looked over and I saw a shopkeeper talking to you. He was pointing at his windows, shouting, so I hurried over."
+  },
+  {
+    "path": "Exports.343.Data.6.Value.0.Value.5",
+    "key": "72D6B4854FA518BAD173FA915BE3549A",
+    "text": "I think I remember. He was really mad."
+  },
+  {
+    "path": "Exports.343.Data.6.Value.1.Value.5",
+    "key": "85B92642484E491E36F2ECB290C5024B",
+    "text": "Why was he shouting?"
+  },
+  {
+    "path": "Exports.343.Data.6.Value.2.Value.5",
+    "key": "3DCCD0F945E0EDB6569AFD8083A15BBC",
+    "text": "What happened next? Tell me, tell me!"
+  },
+  {
+    "path": "Exports.344.Data.0",
+    "key": "AA3E28BB4DD86F0F085A9EB1C20E7812",
+    "text": "Maybe so, maybe so. All I know is that he was furious - something about smudges on his windows. But we had a chat, and he calmed down, didn't he?"
+  },
+  {
+    "path": "Exports.344.Data.5.Value.0.Value.5",
+    "key": "D16F2B374781B7B8BE243186D7CB4854",
+    "text": "People always listen to you, Grandpa."
+  },
+  {
+    "path": "Exports.344.Data.5.Value.1.Value.5",
+    "key": "9C7295A44D3E6F0C2FEFAD93478628F3",
+    "text": "Did you know him, Grandpa?"
+  },
+  {
+    "path": "Exports.344.Data.5.Value.2.Value.5",
+    "key": "8E645FE64F8CD7A1A229AC92DE27424D",
+    "text": "What did you tell him, Grandpa?"
+  },
+  {
+    "path": "Exports.345.Data.0",
+    "key": "B85B4A804BE2D9D5BB26469445C27C55",
+    "text": "Well, I introduced myself and told him he was making a big fuss. Didn't take long for him to calm down after that. He even apologized to you!"
+  },
+  {
+    "path": "Exports.345.Data.5.Value.0.Value.5",
+    "key": "D517D1F846D6539FB39869BAD26EE2A1",
+    "text": "Everyone always listens to you, don't they?"
+  },
+  {
+    "path": "Exports.345.Data.5.Value.1.Value.5",
+    "key": "B12C60C34CE4D1DE4846F09899634B53",
+    "text": "Did you know him, Grandpa?"
+  },
+  {
+    "path": "Exports.345.Data.5.Value.2.Value.5",
+    "key": "2CAF75CD4DA2955367BF25ACD5E5E943",
+    "text": "So what did you tell him, Grandpa?"
+  },
+  {
+    "path": "Exports.346.Data.0",
+    "key": "4E55544C47000E335ACD59BA344C9CA5",
+    "text": "That's alright, bella. There's plenty of time to learn all sorts of words. And I'll be sure to teach you the best ones I know."
+  },
+  {
+    "path": "Exports.346.Data.6.Value.0.Value.5",
+    "key": "8E7439CD42B2F48ADD9CB29CEE38DF29",
+    "text": "Does that mean I won't need to go to school?"
+  },
+  {
+    "path": "Exports.346.Data.6.Value.1.Value.5",
+    "key": "34FA3A374F31CE1556F64D9EFBD59F30",
+    "text": "Who taught you all those words, Grandpa?"
+  },
+  {
+    "path": "Exports.347.Data.0",
+    "key": "2583D0A54F5BD79947A168A891087285",
+    "text": "Hah! I think the two of you would have been great friends. I'm sure she would have loved to see you grow into who you are now."
+  },
+  {
+    "path": "Exports.347.Data.6.Value.0.Value.5",
+    "key": "C70B58EE4C9A84AD1490B393D8C5CB1E",
+    "text": "Why? Is it hard to grow up?"
+  },
+  {
+    "path": "Exports.347.Data.6.Value.1.Value.5",
+    "key": "219AB8474C03BEAD8F476AA00EE04B22",
+    "text": "And then, I could do whatever I wanted. Because I'd be all grown up!"
+  },
+  {
+    "path": "Exports.347.Data.6.Value.2.Value.5",
+    "key": "9B574E3B4135D5B5D999438D6EF2016E",
+    "text": "Yeah! Me and Grandma would have told everyone what's what."
+  },
+  {
+    "path": "Exports.348.Data.0",
+    "key": "86B761E34FC8E926580911BCA60775D8",
+    "text": "Yes, of course. You've always been a sharp little girl, haven't you? Only the Shepherd knows who you get it from!"
+  },
+  {
+    "path": "Exports.348.Data.5.Value.0.Value.5",
+    "key": "1045ECB14533BD59475D9D991C66A3CC",
+    "text": "No one! I'm just Clarissa! The only Clarissa there is."
+  },
+  {
+    "path": "Exports.348.Data.5.Value.1.Value.5",
+    "key": "8CA07A5F4275D4B27C1140875E586923",
+    "text": "School, maybe. Maybe it's actually good for me, like my teacher says."
+  },
+  {
+    "path": "Exports.348.Data.5.Value.2.Value.5",
+    "key": "7D21F7AA47788700E9CB299A1C571541",
+    "text": "Maybe from Grandma. Was Grandma smart, Grandpa?"
+  },
+  {
+    "path": "Exports.349.Data.0",
+    "key": "01DCFEF44875676732CEC3B0BECE6D1F",
+    "text": "Ah, your nonna. Clementa. Shepherd bless her soul. "
+  },
+  {
+    "path": "Exports.349.Data.6.Value.0.Value.5",
+    "key": "756B25A24D7103EE2542CD95045B0B2F",
+    "text": "What was Grandma like?"
+  },
+  {
+    "path": "Exports.349.Data.6.Value.1.Value.5",
+    "key": "526156E146F79E4AF692E7ABC3145D6F",
+    "text": "Do you miss her?"
+  },
+  {
+    "path": "Exports.349.Data.6.Value.2.Value.5",
+    "key": "1AED563441C5429D36925A890239B3C6",
+    "text": "What happened to her, Grandpa?"
+  },
+  {
+    "path": "Exports.350.Data.0",
+    "key": "FF178EA34472A3281BD8CE88909A3A4E",
+    "text": "There are certainly a lot of people who want to be my friend. You're right about that. I'm sure the same is true for you, Clarissa! I'm sure you get along well with your classmates."
+  },
+  {
+    "path": "Exports.350.Data.5.Value.0.Value.5",
+    "key": "EF4090D04F3B5B96E0C18DB6F3F6B47E",
+    "text": "Yeah. I don't mind being by myself, though."
+  },
+  {
+    "path": "Exports.350.Data.5.Value.1.Value.5",
+    "key": "B80E4CA34418C3D5D688A39A11766719",
+    "text": "[Shrug] I guess."
+  },
+  {
+    "path": "Exports.350.Data.5.Value.2.Value.5",
+    "key": "AADA81DB49EAA7817C8809850E078CAA",
+    "text": "I'm good at making them laugh, I think."
+  },
+  {
+    "path": "Exports.351.Data.0",
+    "key": "A7F100794060FAA5ADEC609A60CB4030",
+    "text": "Yes. But you have to keep learning those things, even when you're an adult. You never understand them completely."
+  },
+  {
+    "path": "Exports.351.Data.6.Value.0.Value.5",
+    "key": "72FF4A0443F74B496B55B88ED530D4BA",
+    "text": "That sounds like it'll take ages!"
+  },
+  {
+    "path": "Exports.351.Data.6.Value.1.Value.5",
+    "key": "340B2C1E494C3E025CA923858ECBAEC4",
+    "text": "Sounds like it's hard to grow up. Is it?"
+  },
+  {
+    "path": "Exports.351.Data.6.Value.2.Value.5",
+    "key": "478D23ED4ED1D63F710F8089402B5E2E",
+    "text": "I think a lot of people don't."
+  },
+  {
+    "path": "Exports.352.Data.0",
+    "key": "7A2AF4864B6377958DF5E49980B059BA",
+    "text": "No! No, not at all. In fact, I think it speaks volumes to what kind of person she was - and what kind of person you are."
+  },
+  {
+    "path": "Exports.352.Data.6.Value.0.Value.5",
+    "key": "976E8D804E3574AEF4BECC8D2C934716",
+    "text": "So you think she would have liked me?"
+  },
+  {
+    "path": "Exports.352.Data.6.Value.1.Value.5",
+    "key": "DF375F414CC162A006D2EDB50CB52411",
+    "text": "The best person. Grandma, I mean."
+  },
+  {
+    "path": "Exports.353.Data.0",
+    "key": "26553A884EBC5CC956423D82DF36DD39",
+    "text": "You'll just have to try your hardest. You don't just make a decision and change - it's slow, and gradual. You'll often be the last one to know that you've changed."
+  },
+  {
+    "path": "Exports.353.Data.6.Value.0.Value.5",
+    "key": "537D72DC476F4C33EA357DBFDA0B54D1",
+    "text": "Ugh. That sounds like it'll take ages."
+  },
+  {
+    "path": "Exports.353.Data.6.Value.1.Value.5",
+    "key": "8BB0CE1C47851D3788291C8E64026310",
+    "text": "Does that mean it's hard to grow up?"
+  },
+  {
+    "path": "Exports.354.Data.0",
+    "key": "3443B0024EC0148921EBF7A06E296EE6",
+    "text": "I agree, bella. There's no greater treasure in the world than having people close to you that trust you and love you. Loyal, kind, clever people."
+  },
+  {
+    "path": "Exports.354.Data.6.Value.0.Value.5",
+    "key": "633E8200410EC51E7C8FF2822A398D77",
+    "text": "Which one is the most important?"
+  },
+  {
+    "path": "Exports.354.Data.6.Value.1.Value.5",
+    "key": "AB31BC49469A2783E14FFDB7427A3D9C",
+    "text": "That sounds like my friends."
+  },
+  {
+    "path": "Exports.355.Data.0",
+    "key": "4AE5D6C741D58A4280A4B796C50B48C2",
+    "text": "Ah, I suppose you wouldn't remember. You were just a little girl back then. Not that you aren't now! You used to chase the geezers. Do you remember that?"
+  },
+  {
+    "path": "Exports.355.Data.5.Value.0.Value.5",
+    "key": "199E056344C80F082758329F8F6729AB",
+    "text": "I still do!"
+  },
+  {
+    "path": "Exports.355.Data.5.Value.1.Value.5",
+    "key": "A6ACDD10464B2B29920B2C853C14D9FC",
+    "text": "I don't remember..."
+  },
+  {
+    "path": "Exports.355.Data.5.Value.2.Value.5",
+    "key": "5A86269B49387E9070C69CA814BC6C61",
+    "text": "I'm not sure. What happened then?"
+  },
+  {
+    "path": "Exports.356.Data.0",
+    "key": "DAB31DEB40990928BA796A8493C7CCC3",
+    "text": "Oh? What's wrong with school? Why don't you like it?"
+  },
+  {
+    "path": "Exports.356.Data.6.Value.0.Value.5",
+    "key": "03F8431942DB3A1EFC82099A6A7E65BD",
+    "text": "It's okay, I guess."
+  },
+  {
+    "path": "Exports.356.Data.6.Value.1.Value.5",
+    "key": "0A8C76734BB8B266C2C587AEE94E0CEB",
+    "text": "There are some mean kids there. Meanies."
+  },
+  {
+    "path": "Exports.356.Data.6.Value.2.Value.5",
+    "key": "BE82AC984E2F5A6E9C794697C496BAE9",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.357.Data.0",
+    "key": "A3F7E9394836CFCE186CD392CB33E952",
+    "text": "Is that so? And who is this Clarissa, exactly?"
+  },
+  {
+    "path": "Exports.357.Data.6.Value.0.Value.5",
+    "key": "BA7C3440412F4B04FE178C896B4C11D6",
+    "text": "It's me! Didn't you know?"
+  },
+  {
+    "path": "Exports.357.Data.6.Value.1.Value.5",
+    "key": "F9DC208C4E6057B40FF32D9B02642555",
+    "text": "Don't be silly, Grandpa. I'm Clarissa!"
+  },
+  {
+    "path": "Exports.357.Data.6.Value.2.Value.5",
+    "key": "D8839C3A466E848AF311348FF7511DAE",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.358.Data.0",
+    "key": "010CFE824A124CB0476660890EB2B28F",
+    "text": "Ah, of course - but what is she like? And what does she like?"
+  },
+  {
+    "path": "Exports.358.Data.6.Value.0.Value.5",
+    "key": "213578634C844BFA3CB1F89F44CD4593",
+    "text": "[Shrug] Big worms."
+  },
+  {
+    "path": "Exports.358.Data.6.Value.1.Value.5",
+    "key": "FE6B8DAB4754D0E54E50B78ABCBE6B07",
+    "text": "She likes her friends. "
+  },
+  {
+    "path": "Exports.358.Data.6.Value.2.Value.5",
+    "key": "6F0FA36C4602AFF7A7574BB6F488FD69",
+    "text": "She's really fast."
+  },
+  {
+    "path": "Exports.359.Data.0",
+    "key": "614BCCFF4AED22D40B0133ACBFE11982",
+    "text": "Oh, well...I was thinking of a faraway place. One that doesn't exist, bella. Beyond the mountains. Green leaves...rolling hills."
+  },
+  {
+    "path": "Exports.359.Data.6.Value.0.Value.5",
+    "key": "B651B8914DDEE60A1C0E599015C65CF1",
+    "text": "If it isn't real, how are you thinking of it?"
+  },
+  {
+    "path": "Exports.359.Data.6.Value.1.Value.5",
+    "key": "8811F3BE430BEA64F1F82B8F3F2A7BD4",
+    "text": "How could a hill roll?"
+  },
+  {
+    "path": "Exports.359.Data.6.Value.2.Value.5",
+    "key": "4A9FC74D4D27CA055732B885679449CF",
+    "text": "[Keep listening]"
+  },
+  {
+    "path": "Exports.360.Data.0",
+    "key": "AD9CAF5E4ECB4A1CBABD8993DFC903DA",
+    "text": "Some do. And there are some who don't. But luckily, we don't need to worry too much about them. And neither should you."
+  },
+  {
+    "path": "Exports.360.Data.6.Value.0.Value.5",
+    "key": "A38303194E08743E7D0D2C918713620D",
+    "text": "[Grumble to yourself] What a bunch of crappy meanies."
+  },
+  {
+    "path": "Exports.360.Data.6.Value.1.Value.5",
+    "key": "5BD04D3449A0995D33CF1CBCDA2B604E",
+    "text": "I won't, Grandpa."
+  },
+  {
+    "path": "Exports.360.Data.6.Value.2.Value.5",
+    "key": "065F8AA84A19E057BF09B6BCCCF1E3F5",
+    "text": "[Say nothing]"
+  },
+  {
+    "path": "Exports.361.Data.0",
+    "key": "EA3AFF7D4DCF48AE9791858F02092FBD",
+    "text": "Oh-ho! Why not? There's nothing wrong with being silly every once in a while. In fact, it's a good thing."
+  },
+  {
+    "path": "Exports.361.Data.5.Value.0.Value.5",
+    "key": "A93D200D4DFAAA2FC5C5F59B705CF146",
+    "text": "Really? I like making my friends laugh."
+  },
+  {
+    "path": "Exports.361.Data.5.Value.1.Value.5",
+    "key": "16F8159F4BC77F01BA23BA8C7C9A452C",
+    "text": "I'm not silly! I'm Clarissa!"
+  },
+  {
+    "path": "Exports.361.Data.5.Value.2.Value.5",
+    "key": "4FE27F3C46FE00FD0CEF179CD6217835",
+    "text": "I'm not sure about that, Grandpa."
+  },
+  {
+    "path": "Exports.362.Data.0",
+    "key": "BF9429E24B73370F145C23A8E886F15F",
+    "text": "It's not hard, bella. Not in the way you might be thinking. It's just slow. So slow you don't even know it's happening."
+  },
+  {
+    "path": "Exports.362.Data.6.Value.0.Value.5",
+    "key": "258D33354694B29F31C5B9AE7AF63B8A",
+    "text": "Do I get to choose how fast I grow up?"
+  },
+  {
+    "path": "Exports.362.Data.6.Value.1.Value.5",
+    "key": "1CB63F98457CF8FBC4C239A13578C1FA",
+    "text": "So how will I know I've grown up?"
+  },
+  {
+    "path": "Exports.362.Data.6.Value.2.Value.5",
+    "key": "B3CE4F154A8B45951DCEB5A298419F22",
+    "text": "That doesn't sound right, Grandpa."
+  },
+  {
+    "path": "Exports.363.Data.0",
+    "key": "D430B7214A036223E8178181ECB936C5",
+    "text": "Is it? Hah! I seem to remember you being the one who threw the first stone, Clarissa!"
+  },
+  {
+    "path": "Exports.363.Data.6.Value.0.Value.5",
+    "key": "A6CAFE5B44C7E22C53205FBDFAA4E94B",
+    "text": "Yeah...sorry, goosies."
+  },
+  {
+    "path": "Exports.363.Data.6.Value.1.Value.5",
+    "key": "6783B1434150674582447FA0EFFA7594",
+    "text": "I don't care! I'm ready to fight them for it."
+  },
+  {
+    "path": "Exports.364.Data.0",
+    "key": "780B6B1E4E51E7063A8EF58471510DB6",
+    "text": "Ah, in Gastown? Well, there's certainly lots to see here. Do you remember the last time we came here?"
+  },
+  {
+    "path": "Exports.364.Data.6.Value.0.Value.5",
+    "key": "36F056574583A32E9A37148F830E3E52",
+    "text": "[Nod]"
+  },
+  {
+    "path": "Exports.364.Data.6.Value.1.Value.5",
+    "key": "DFDF7ABA4C90DF13FA808597C1274372",
+    "text": "[Shake your head]"
+  },
+  {
+    "path": "Exports.364.Data.6.Value.2.Value.5",
+    "key": "C6ED20DF451C42527276608D02F693EB",
+    "text": "I've been here before?"
+  },
+  {
+    "path": "Exports.365.Data.0",
+    "key": "D051AD224DE2BB9A58536BA893DDE9DF",
+    "text": "It's geezer, Clarissa. Not gooser."
+  },
+  {
+    "path": "Exports.365.Data.6.Value.0.Value.5",
+    "key": "FA51C70D414C8B7BB653EA8508F0D254",
+    "text": "A geezer."
+  },
+  {
+    "path": "Exports.365.Data.6.Value.1.Value.5",
+    "key": "5E0B9ADE401E160D2531C7B1758421DB",
+    "text": "A gooser."
+  },
+  {
+    "path": "Exports.366.Data.0",
+    "key": "B1F316D74A165C1E5146818C6C0507BB",
+    "text": "Do you think they can be?"
+  },
+  {
+    "path": "Exports.366.Data.5.Value.0.Value.5",
+    "key": "C3E84BEC4F4D78C7A29461B5AB3C8A02",
+    "text": "No, you're right...I hope they won't be upset they're not invited any more."
+  },
+  {
+    "path": "Exports.366.Data.5.Value.1.Value.5",
+    "key": "111A9D224D974A5F116FCCB24412D298",
+    "text": "Yeah!"
+  },
+  {
+    "path": "Exports.367.Data.0",
+    "key": "6059131C404D8B42DB15E881C6D6AE27",
+    "text": "It's silly, isn't it? Gaggle!"
+  },
+  {
+    "path": "Exports.367.Data.6.Value.0.Value.5",
+    "key": "2417836D4A779AC2C36FEFA4D8364F12",
+    "text": "It sounds like giggle."
+  },
+  {
+    "path": "Exports.367.Data.6.Value.1.Value.5",
+    "key": "56976C4445A434980383138889C89BB1",
+    "text": "I wonder if they can hear us."
+  },
+  {
+    "path": "Exports.367.Data.6.Value.2.Value.5",
+    "key": "48982C994ADF6812D0D23BBAFA9EBC51",
+    "text": "Do you think we sound the same, Grandpa? That we sound stupid?"
+  },
+  {
+    "path": "Exports.368.Data.0",
+    "key": "419929CE459A5E324F4BA18C96F5F227",
+    "text": "Good! It's important to laugh. Far more important than most people realize."
+  },
+  {
+    "path": "Exports.368.Data.5.Value.0.Value.5",
+    "key": "CCD9FC3D4168398E9561FB800F9173DF",
+    "text": "What do you mean?"
+  },
+  {
+    "path": "Exports.368.Data.5.Value.1.Value.5",
+    "key": "D62DCF784A9316975B6D5BB337D39EB2",
+    "text": "I know! We can be silly together, Grandpa."
+  },
+  {
+    "path": "Exports.369.Data.0",
+    "key": "43D6B6B747829C7CD31789BDCDDD8E3C",
+    "text": "It takes time, that's for certain. But that's the thing, you see: time passes all the time. Even when you aren't looking."
+  },
+  {
+    "path": "Exports.369.Data.6.Value.0.Value.5",
+    "key": "AB17BA0840275947DE53DDAD22B05CA7",
+    "text": "That doesn't sound right. That sounds weird."
+  },
+  {
+    "path": "Exports.369.Data.6.Value.1.Value.5",
+    "key": "3984AB9B4C71AC0AC8E06C98827275FB",
+    "text": "How do you mean, Grandpa?"
+  },
+  {
+    "path": "Exports.369.Data.6.Value.2.Value.5",
+    "key": "FF78EEA04A3D25909A9A318390C04D61",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.370.Data.0",
+    "key": "BA99E41F45DD03A1CFB58B9351268608",
+    "text": "There's always someone, Clarissa. But luckily, that someone is usually different for everyone."
+  },
+  {
+    "path": "Exports.370.Data.6.Value.0.Value.5",
+    "key": "82A01BC0418DA69BFA91BC90C22EE7DF",
+    "text": "Do some people not like us?"
+  },
+  {
+    "path": "Exports.371.Data.0",
+    "key": "6E437B3A4C8E15A9C3742CBFA4024E31",
+    "text": "No? You don't want to talk about it? You can tell me anything, bella."
+  },
+  {
+    "path": "Exports.371.Data.6.Value.0.Value.5",
+    "key": "67AD4B0740DC37BE2D0DD1B4AB2EBB2C",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.371.Data.6.Value.1.Value.5",
+    "key": "036E709C480F29E71522A2BC3524B0D1",
+    "text": "I just don't like it. Did you do well in school, Grandpa?"
+  },
+  {
+    "path": "Exports.371.Data.6.Value.2.Value.5",
+    "key": "527B2C994D3E4807EE8AB28D8FFBD49B",
+    "text": "I don't like the bullies. The meanies."
+  },
+  {
+    "path": "Exports.372.Data.0",
+    "key": "78A18A104BCEBDDFB08608B33CB2C9DA",
+    "text": "Meanies? Are there people who tease you? Who would do that?"
+  },
+  {
+    "path": "Exports.372.Data.5.Value.0.Value.5",
+    "key": "9B29CE9649A9A097E4C0849491479B91",
+    "text": "There's a boy who tries to pull my hair sometimes. And calls me names."
+  },
+  {
+    "path": "Exports.372.Data.5.Value.1.Value.5",
+    "key": "4F43CD63460497DC16CB36A3A967F2C4",
+    "text": "There's a girl who whispers mean things about me. And my family."
+  },
+  {
+    "path": "Exports.372.Data.5.Value.2.Value.5",
+    "key": "7B1673554AB63282FAAEBBB91B90117A",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.373.Data.0",
+    "key": "DD361D584865C8ECA817789ED93C5F9C",
+    "text": "Ah, that's alright. I didn't enjoy school much either, to be honest. Are there any classes you like? That you're really interested in?"
+  },
+  {
+    "path": "Exports.373.Data.6.Value.0.Value.5",
+    "key": "3C7309324688A4DCBC2106BF3F4433F0",
+    "text": "I like...mathematics."
+  },
+  {
+    "path": "Exports.373.Data.6.Value.1.Value.5",
+    "key": "041A53984B43B28F3A4ADCA9009514CA",
+    "text": "I like...writing."
+  },
+  {
+    "path": "Exports.373.Data.6.Value.2.Value.5",
+    "key": "50F72A2E4429AEE632B8C7AF84ABE4FC",
+    "text": "I like...nothing. They're all boring."
+  },
+  {
+    "path": "Exports.374.Data.0",
+    "key": "9814A973488C986FFF15298E2BFE47DA",
+    "text": "Not now, Clarissa. I was hoping to spend time with you for a little longer! Maybe we'll do it a little later. Is that alright?"
+  },
+  {
+    "path": "Exports.374.Data.5.Value.0.Value.5",
+    "key": "3A516586407FDC9A89AC198D93D43F04",
+    "text": "Okay. Goodbye, goosers."
+  },
+  {
+    "path": "Exports.374.Data.5.Value.1.Value.5",
+    "key": "F9F2BAC3404FA261B4F814AF96C549E0",
+    "text": "What if the goosers come with us? Then we could feed them all the time!"
+  },
+  {
+    "path": "Exports.374.Data.5.Value.2.Value.5",
+    "key": "55674B0E45AF1E5DEFF1ACB969FC274A",
+    "text": "Okay. What do we do instead?"
+  },
+  {
+    "path": "Exports.375.Data.0",
+    "key": "5227617941B05B05040190A9FC6E372D",
+    "text": "I'm sure you will. It'll be fun. for the both of us."
+  },
+  {
+    "path": "Exports.375.Data.6.Value.0.Value.5",
+    "key": "6FB4CF5C445DF65A82709F988898F0D7",
+    "text": "Yeah. It'll be amazing."
+  },
+  {
+    "path": "Exports.375.Data.6.Value.1.Value.5",
+    "key": "ECB68202466E71F9275949B5BE237D1E",
+    "text": "We'll have time, right?"
+  },
+  {
+    "path": "Exports.376.Data.0",
+    "key": "09DFF4D3439479D32CF683A35D6821F0",
+    "text": "Who? I don't know. They just sort of appeared...one after another. What do you think?"
+  },
+  {
+    "path": "Exports.376.Data.6.Value.0.Value.5",
+    "key": "058861B6413C0C828F912A83C6796190",
+    "text": "You probably learned them in school. Ew."
+  },
+  {
+    "path": "Exports.376.Data.6.Value.1.Value.5",
+    "key": "29FBDB6F45C4DB5AD6C3B3B812A19A72",
+    "text": "I think it was Grandma. I think she read books to you."
+  },
+  {
+    "path": "Exports.377.Data.0",
+    "key": "9572B3DB41E7DA1D33C3E7A3EA6D3F32",
+    "text": "I'm not as sure! Maybe, when you're all grown up,. you can have a whole family of geezers living in your house."
+  },
+  {
+    "path": "Exports.377.Data.6.Value.0.Value.5",
+    "key": "DA28EE8A4502EC71BBED8CA9BDC67309",
+    "text": "Pssh. That would be silly."
+  },
+  {
+    "path": "Exports.377.Data.6.Value.1.Value.5",
+    "key": "CE1AD1D44F7BACFA01C8A1A5B2C4E580",
+    "text": "PERFECT. That would be so funny."
+  },
+  {
+    "path": "Exports.378.Data.0",
+    "key": "03CE15E64A04000BD7A3BD82117F55AF",
+    "text": "Tell me about Clarissa, then! What does she do? What does she like?"
+  },
+  {
+    "path": "Exports.378.Data.6.Value.0.Value.5",
+    "key": "3F5719594D5BB999C2FD27A9015C12D4",
+    "text": "[Shrug] Big worms."
+  },
+  {
+    "path": "Exports.378.Data.6.Value.1.Value.5",
+    "key": "AD13472B474E4D8D3D8EE39401733C11",
+    "text": "I like my friends."
+  },
+  {
+    "path": "Exports.378.Data.6.Value.2.Value.5",
+    "key": "E5D09EF040D4ADB223732899A0288BB3",
+    "text": "She runs. She's really fast."
+  },
+  {
+    "path": "Exports.379.Data.0",
+    "key": "AD146DE547AFA93858D8D5989E2016C5",
+    "text": "I don't think so, Clarissa."
+  },
+  {
+    "path": "Exports.379.Data.5.Value.0.Value.5",
+    "key": "C74E5EAE422C163165CEBAB0DBAE4E9E",
+    "text": "Okay."
+  },
+  {
+    "path": "Exports.379.Data.5.Value.1.Value.5",
+    "key": "8D1BEA344B9F9A5B7B9B3DA306FD611F",
+    "text": "[Whisper] I knew it."
+  },
+  {
+    "path": "Exports.380.Data.0",
+    "key": "D2F631DD4683E90E77541ABF60D2BFE3",
+    "text": "Do they, now? How big do they get?"
+  },
+  {
+    "path": "Exports.380.Data.5.Value.0.Value.5",
+    "key": "E4C840D04F96A37FF82EEE9EB3A4F6E9",
+    "text": "[Extend your arms]"
+  },
+  {
+    "path": "Exports.381.Data.0",
+    "key": "7CFCF9AB482DF815C6000BA65B1A4577",
+    "text": "You don't want to?"
+  },
+  {
+    "path": "Exports.381.Data.6.Value.0.Value.5",
+    "key": "8B53C496492406B1A5E0B7BAC2CCFCAC",
+    "text": "I don't know if I should be big or strong, though. Aren't they different?"
+  },
+  {
+    "path": "Exports.381.Data.6.Value.1.Value.5",
+    "key": "511CFDB54D3D775B62CE1982DD19673F",
+    "text": "As big as you? You're huge, Grandpa."
+  },
+  {
+    "path": "Exports.381.Data.6.Value.2.Value.5",
+    "key": "DD93DAC74DB5CFAF9D6D9F87EC244036",
+    "text": "No, I do. I want to be very big."
+  },
+  {
+    "path": "Exports.382.Data.0",
+    "key": "E3FAFDB14C847AA60814EB9A3C74659E",
+    "text": "Who knows? Maybe we'll find some more on the way back home. Oh, it's a beautiful day today, isn't it? It's days like this you have to cherish, make no mistake. If you don't, they'll pass you by in a flash and all you'll remember are rainclouds."
+  },
+  {
+    "path": "Exports.382.Data.6.Value.0.Value.5",
+    "key": "551D7A074AE5F07822DAABBC01491249",
+    "text": "In a flash? What do you mean, Grandpa?"
+  },
+  {
+    "path": "Exports.382.Data.6.Value.1.Value.5",
+    "key": "EA3EFFAC44363996FB517980D676AEC6",
+    "text": "Hey Grandpa, do you have friends?"
+  },
+  {
+    "path": "Exports.382.Data.6.Value.2.Value.5",
+    "key": "ABFB03FE4102F5946C63039A7A0348C5",
+    "text": "...I can't wait to grow up, so I get to do whatever I want."
+  },
+  {
+    "path": "Exports.383.Data.0",
+    "key": "0CC4A7164E24F995CA5FEF89E33ACDA9",
+    "text": "\"Come end of fall, the winds will grow, then twisting branches cusp the snow - but spring will free what cold held dear; give way, give way, for one more year.\""
+  },
+  {
+    "path": "Exports.383.Data.6.Value.0.Value.5",
+    "key": "CBDC5906400E0D2E552D29A75F375441",
+    "text": "What was that, Grandpa? It was pretty."
+  },
+  {
+    "path": "Exports.383.Data.6.Value.1.Value.5",
+    "key": "46194B1749CA423D26358D80579313BE",
+    "text": "[Look at Clarence with confusion]"
+  },
+  {
+    "path": "Exports.384.Data.0",
+    "key": "C2FD798F4CFFAA895024BDAD7C7C2287",
+    "text": "..."
+  },
+  {
+    "path": "Exports.384.Data.5.Value.0.Value.5",
+    "key": "8DBCB36A40BE63181983B1852D75C7B6",
+    "text": "Grandpa?"
+  },
+  {
+    "path": "Exports.385.Data.0",
+    "key": "FD07717442C3F3D38B0A81BADA66D3DE",
+    "text": "It couldn't, I suppose. But there'd be many. Hills as far as the eye could see!"
+  },
+  {
+    "path": "Exports.385.Data.5.Value.0.Value.5",
+    "key": "864D306845475C8577A3D9983E198AB8",
+    "text": "How could you tell? Wouldn't the buildings be in the way?"
+  },
+  {
+    "path": "Exports.385.Data.5.Value.1.Value.5",
+    "key": "F5E1398943BDEC58AA8E6DA01363CD5B",
+    "text": "Are the roads on the hills, or between them?"
+  },
+  {
+    "path": "Exports.385.Data.5.Value.2.Value.5",
+    "key": "859EE4E4410F74E4CCE496B1D947F24B",
+    "text": "[Keep listening]"
+  },
+  {
+    "path": "Exports.386.Data.0",
+    "key": "70CC70E745C1D9AB207D948AC94853A3",
+    "text": "Air so clean you could taste it. A place that smells of grass and water. Where your lungs are more full than anywhere else."
+  },
+  {
+    "path": "Exports.386.Data.5.Value.0.Value.5",
+    "key": "DE37DA394A95781687B07ABC831DB2C0",
+    "text": "Grandpa. That sounds horrible."
+  },
+  {
+    "path": "Exports.386.Data.5.Value.1.Value.5",
+    "key": "4BCC97A24D058C78FFA9ACBBB28C7E18",
+    "text": "Even inside? Would my room smell like grass, too?"
+  },
+  {
+    "path": "Exports.386.Data.5.Value.2.Value.5",
+    "key": "3E8A5F344CC5D13D8475BB9E959B435E",
+    "text": "That sounds nice."
+  },
+  {
+    "path": "Exports.387.Data.0",
+    "key": "A547F3594111F90E87DAEEA36B177821",
+    "text": "Oh, I'm just imagining it. Do you ever imagine things?"
+  },
+  {
+    "path": "Exports.387.Data.5.Value.0.Value.5",
+    "key": "A84E48934F1C108FBDEB9EADFAA79CA8",
+    "text": "Sometimes."
+  },
+  {
+    "path": "Exports.387.Data.5.Value.1.Value.5",
+    "key": "57C9B6FB434500987FC99E97AC51E406",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.387.Data.5.Value.2.Value.5",
+    "key": "794048CD4776169C25B50CBA2F8532CB",
+    "text": "Like what?"
+  },
+  {
+    "path": "Exports.388.Data.0",
+    "key": "B15AB2834260A8DAA5C3E4A96A3526D7",
+    "text": "Anything! That's the beauty of it, you see. You can imagine anything you want, anytime, anywhere. All the time and everywhere."
+  },
+  {
+    "path": "Exports.388.Data.5.Value.0.Value.5",
+    "key": "D4E94C344FB598DEE96DA4A5A4F8DE21",
+    "text": "In that case I'll imagine a world without school. Yeah."
+  },
+  {
+    "path": "Exports.388.Data.5.Value.1.Value.5",
+    "key": "BDD0B6E04F42814E2E636CB790F5ACBE",
+    "text": "In that case, I'll imagine my own world."
+  },
+  {
+    "path": "Exports.389.Data.0",
+    "key": "A0455F8F4E9E599E05186A80677861EC",
+    "text": "Oh, bella. Don't you ever play and pretend you're somewhere else? Everyone does, sometimes."
+  },
+  {
+    "path": "Exports.389.Data.6.Value.0.Value.5",
+    "key": "3BC1ACB64E44D9C6FFAB84B3883B8F1D",
+    "text": "Oh! Me too. Sometimes."
+  },
+  {
+    "path": "Exports.389.Data.6.Value.1.Value.5",
+    "key": "251729E746070C1FE18730A2486B2E23",
+    "text": "What can I imagine?"
+  },
+  {
+    "path": "Exports.389.Data.6.Value.2.Value.5",
+    "key": "E7C859A7454B3FEA91492CAB29227B92",
+    "text": "[Shrug] I'm not very good at it. I don't know why."
+  },
+  {
+    "path": "Exports.390.Data.0",
+    "key": "41C8934C45E18110F6F642A53B2C5567",
+    "text": "That's good. You can always imagine the world as something better than it is. So, what do you like to imagine, bella?"
+  },
+  {
+    "path": "Exports.390.Data.5.Value.0.Value.5",
+    "key": "4EB7FFF646223B7C09A246894C79C5B7",
+    "text": "A world where Clarissas are free. With no school."
+  },
+  {
+    "path": "Exports.390.Data.5.Value.1.Value.5",
+    "key": "1718C353426363449DBAE88A7D3A3EB5",
+    "text": "Sometimes, I imagine that Grandma is still around."
+  },
+  {
+    "path": "Exports.390.Data.5.Value.2.Value.5",
+    "key": "E287C7BD4EF9C74B6DB6ECADFA975623",
+    "text": "A special world. Clarissa's special world."
+  },
+  {
+    "path": "Exports.391.Data.0",
+    "key": "222AA0524E80759DFF00829FB60852A2",
+    "text": "Don't worry, Clarissa. It's all going to be alright."
+  },
+  {
+    "path": "Exports.391.Data.6.Value.0.Value.5",
+    "key": "A33946DB46A2ACA30DC3569CD775FF2A",
+    "text": "[Nod]"
+  },
+  {
+    "path": "Exports.391.Data.6.Value.1.Value.5",
+    "key": "B1821B644B64D9D46F9386AFFFA9664B",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.392.Data.0",
+    "key": "FC9DF5D5465DA8E6540ACBB398D50620",
+    "text": "Mathematics? How come?"
+  },
+  {
+    "path": "Exports.392.Data.6.Value.0.Value.5",
+    "key": "7356F3184E267A8F6C829C93173DE28B",
+    "text": "There's lots of things that don't make sense. Math always does."
+  },
+  {
+    "path": "Exports.392.Data.6.Value.1.Value.5",
+    "key": "730AB0774D04F5AD455CFD9D039C308E",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.392.Data.6.Value.2.Value.5",
+    "key": "685820CD48119CE4F065CA82E13735B3",
+    "text": "It's easy."
+  },
+  {
+    "path": "Exports.393.Data.0",
+    "key": "3C1DE9A84E965C3C806953BAB328B6F9",
+    "text": "There wouldn't be any buildings, you see. No houses, no traffic lights, no cars."
+  },
+  {
+    "path": "Exports.393.Data.6.Value.0.Value.5",
+    "key": "C275A6F142EDDA779F26909A2A5BF87B",
+    "text": "Then where would people live?"
+  },
+  {
+    "path": "Exports.393.Data.6.Value.1.Value.5",
+    "key": "1D8860274236512744077BBBB881067F",
+    "text": "That's really weird. What about roads?"
+  },
+  {
+    "path": "Exports.394.Data.0",
+    "key": "944ADD0B497D79FB51646BA986F05901",
+    "text": "Hm...hmm? Oh! What is it, Clarissa?"
+  },
+  {
+    "path": "Exports.394.Data.6.Value.0.Value.5",
+    "key": "1C5EDE00459D5609392AFE8988A127F6",
+    "text": "Are you okay, Grandpa?"
+  },
+  {
+    "path": "Exports.394.Data.6.Value.1.Value.5",
+    "key": "15BEDAC941C230AE5750E1BEAA51FA9C",
+    "text": "Did you hear what I said?"
+  },
+  {
+    "path": "Exports.394.Data.6.Value.2.Value.5",
+    "key": "4A77680346A9D6B30FA0BD8419E80F3C",
+    "text": "What were you thinking of?"
+  },
+  {
+    "path": "Exports.395.Data.0",
+    "key": "7C3277014FC3D439DA15D3A703C435CF",
+    "text": "There wouldn't be any roads."
+  },
+  {
+    "path": "Exports.395.Data.6.Value.0.Value.5",
+    "key": "07E06E8F4964B06C0CB4B3AFCC75CA9B",
+    "text": "Can cars drive on hills?"
+  },
+  {
+    "path": "Exports.395.Data.6.Value.1.Value.5",
+    "key": "D2F3E961472710F2156EEA971697BC15",
+    "text": "What about cars?"
+  },
+  {
+    "path": "Exports.396.Data.0",
+    "key": "4567882343EF9034E5EC78BAB3CA3C83",
+    "text": "I don't rightly know, Clarissa. I'm only imagining things. They don't have to make sense. Do you ever imagine things, Clarissa?"
+  },
+  {
+    "path": "Exports.396.Data.6.Value.0.Value.5",
+    "key": "9D47FE8A48EB46C50947C89E9ED33F4D",
+    "text": "Sometimes I do."
+  },
+  {
+    "path": "Exports.396.Data.6.Value.1.Value.5",
+    "key": "C5B53A014450B04EFE78D48650120C1B",
+    "text": "Like what?"
+  },
+  {
+    "path": "Exports.397.Data.0",
+    "key": "F5ABE6A74F67C8C56714DF811183A4C0",
+    "text": "Hah! I'm sure if you would have said the same thing if you had asked me when I was your age."
+  },
+  {
+    "path": "Exports.397.Data.5.Value.0.Value.5",
+    "key": "DD245BF242584A303A589F92EDC89759",
+    "text": "Were you good in school, Grandpa?"
+  },
+  {
+    "path": "Exports.397.Data.5.Value.1.Value.5",
+    "key": "235C4EB849F26D67565AC48511427E45",
+    "text": "Did you have to deal with meanies, too?"
+  },
+  {
+    "path": "Exports.398.Data.0",
+    "key": "941C4980499EA928F5D55082E8CF5DD2",
+    "text": "Writing, eh? Think you'll become a writer some day? You're certainly clever enough for it."
+  },
+  {
+    "path": "Exports.398.Data.6.Value.0.Value.5",
+    "key": "B927CCDF4EB066FFE20090B5B567B136",
+    "text": "[Shrug] I like it because it's easy."
+  },
+  {
+    "path": "Exports.398.Data.6.Value.1.Value.5",
+    "key": "D57D080941AE3BEFB498AE90C0BFBDA9",
+    "text": "Maybe. I like telling stories."
+  },
+  {
+    "path": "Exports.398.Data.6.Value.2.Value.5",
+    "key": "FD20A68C4D4683FCC5C91EB3D990B3FD",
+    "text": "[Shrug] Were you good at being in school, Grandpa?"
+  },
+  {
+    "path": "Exports.399.Data.0",
+    "key": "392E0D744F4CC4F2067AF696D1BC7405",
+    "text": "Is that right? What's so special about it? What makes it yours?"
+  },
+  {
+    "path": "Exports.399.Data.5.Value.0.Value.5",
+    "key": "1AD3C7AD466EB262A7AC8E8592DCE7AC",
+    "text": "No school. None."
+  },
+  {
+    "path": "Exports.399.Data.5.Value.1.Value.5",
+    "key": "D83DCE02492344B42432C091AB0CF03A",
+    "text": "Everyone is there. Me, you, all my friends...and Grandma, too!"
+  },
+  {
+    "path": "Exports.399.Data.5.Value.2.Value.5",
+    "key": "49C6B1E249CE1FFD1671F08A69DD89E5",
+    "text": "It's for everyone! It's a place where anyone can be anything."
+  },
+  {
+    "path": "Exports.400.Data.0",
+    "key": "F68733FF401E81E0140567B727D1F2D3",
+    "text": "No cars either. Just open spaces, open air. Fields, stretching into a warm horizon."
+  },
+  {
+    "path": "Exports.400.Data.5.Value.0.Value.5",
+    "key": "598631F2456D09DF0E7A5585583677A3",
+    "text": "And what's after the horizon?"
+  },
+  {
+    "path": "Exports.400.Data.5.Value.1.Value.5",
+    "key": "D7A4A5634EE455CAB27D229F2DFFFE4F",
+    "text": "That sounds pretty."
+  },
+  {
+    "path": "Exports.401.Data.0",
+    "key": "EAFF2A5D441252F53FAE44B79DDFE633",
+    "text": "It does, doesn't it? It's nice to dream, sometimes. You can always imagine the world better than it is now. Some day, you might be able to make it real."
+  },
+  {
+    "path": "Exports.401.Data.5.Value.0.Value.5",
+    "key": "2F66A34F4AE97AF4D81A5DB6D6D19FA7",
+    "text": "And what if you can't?"
+  },
+  {
+    "path": "Exports.401.Data.5.Value.1.Value.5",
+    "key": "02EA42E94320D2EAEDA2A9ABB689C5F8",
+    "text": "Okay. I'll try, Grandpa."
+  },
+  {
+    "path": "Exports.402.Data.0",
+    "key": "C1B52CBD4B4A6C62223598AAB5E82E18",
+    "text": "That's fine, too. You don't have to dream about big things or magical worlds - all you have to to is be yourself. The rest is secondary."
+  },
+  {
+    "path": "Exports.402.Data.6.Value.0.Value.5",
+    "key": "3A3499424A2C392B79A27CB1A9F8ED60",
+    "text": "Sometimes I'll dream about Grandma. Do you dream of her too?"
+  },
+  {
+    "path": "Exports.402.Data.6.Value.1.Value.5",
+    "key": "1324D1E749E328A7790213B4B5E4B6F1",
+    "text": "And be nice to people. That's important too. I'm good at it, too"
+  },
+  {
+    "path": "Exports.402.Data.6.Value.2.Value.5",
+    "key": "C941B7DD4EAD7F3B48E793B2A30F1358",
+    "text": "That's easy. I'm good at being Clarissa."
+  },
+  {
+    "path": "Exports.403.Data.0",
+    "key": "906BA47747CF594D79F8CF946CF1E0CA",
+    "text": "Is that right? How come?"
+  },
+  {
+    "path": "Exports.403.Data.6.Value.0.Value.5",
+    "key": "9E9CBA8C445FAB0231BBAE99FDF5E501",
+    "text": "[Shrug] I just like them."
+  },
+  {
+    "path": "Exports.403.Data.6.Value.1.Value.5",
+    "key": "C07C844D47FB281257B6DF92E171910C",
+    "text": "They're cool. And gross. But cool!"
+  },
+  {
+    "path": "Exports.404.Data.0",
+    "key": "1C4797EA45ABE424F58D369D8176F854",
+    "text": "Are they, now? Are you sure that's not just Clarissa?"
+  },
+  {
+    "path": "Exports.404.Data.5.Value.0.Value.5",
+    "key": "34E499744BA6EA33C858099F355F26F0",
+    "text": "No, it's the worms. They're bad in school. They can't count, because they don't have fingers."
+  },
+  {
+    "path": "Exports.404.Data.5.Value.1.Value.5",
+    "key": "EC245F0347A0D2CAFAC37BAB8707100D",
+    "text": "It's Clarissa also. No one likes school."
+  },
+  {
+    "path": "Exports.405.Data.0",
+    "key": "CF3CF23C456D47C2EF4DD5BE313CCB2E",
+    "text": "Not sure, are you? That's fine, too. It's a beautiful day. And on a day like this, it's alright to just be."
+  },
+  {
+    "path": "Exports.405.Data.6.Value.0.Value.5",
+    "key": "04109F644F851E7028BF249F06BD4ACF",
+    "text": "Just be what?"
+  },
+  {
+    "path": "Exports.405.Data.6.Value.1.Value.5",
+    "key": "3EDDE0DC4885220DAE5F5E87127E7301",
+    "text": "Oh. I like that."
+  },
+  {
+    "path": "Exports.406.Data.0",
+    "key": "8072014E49FD13CDA070639C1718E736",
+    "text": "Then it was a wonderful dream to have had. Do you dream a lot, bella?"
+  },
+  {
+    "path": "Exports.406.Data.6.Value.0.Value.5",
+    "key": "5A956A2A4AFC6E4C66EC179FDB5C2433",
+    "text": "Sometimes I dream about Grandma."
+  },
+  {
+    "path": "Exports.406.Data.6.Value.1.Value.5",
+    "key": "EAE3BA884C4146514B898F8AE696094C",
+    "text": "Last night, I dreamt about a special world. A Clarissa world."
+  },
+  {
+    "path": "Exports.406.Data.6.Value.2.Value.5",
+    "key": "CC6E1CAE45632FEFEEE5FB80FF7BE8DA",
+    "text": "No, I don't have time to dream. I'm very busy, grandpa."
+  },
+  {
+    "path": "Exports.407.Data.0",
+    "key": "753211E449606B539BDE74A22EB64CD8",
+    "text": "I have no doubts. You'll grow up to be a very special person, you know? I'm sure of it."
+  },
+  {
+    "path": "Exports.407.Data.6.Value.0.Value.5",
+    "key": "460AA11346B84C144ED327AAC5DF4DA8",
+    "text": "Like Grandma?"
+  },
+  {
+    "path": "Exports.407.Data.6.Value.1.Value.5",
+    "key": "BC158E504AD90E848F15A086E3E70C74",
+    "text": "I don't think so. I'm too silly. I'm really funny, Grandpa! Everyone says so."
+  },
+  {
+    "path": "Exports.407.Data.6.Value.2.Value.5",
+    "key": "7AC610194C30FDF7685903AFFC7B260C",
+    "text": "I'm already a special person! I'm Clarissa!"
+  },
+  {
+    "path": "Exports.408.Data.0",
+    "key": "BD126A89456226C0DB4F3FAE2DCBE64B",
+    "text": "Hah! Alright, then. Well, as long as school isn't too much of an issue for you, I'm happy."
+  },
+  {
+    "path": "Exports.408.Data.6.Value.0.Value.5",
+    "key": "3D7DFDCA4A4BEF4FC0613D880370A9B4",
+    "text": "I just want to be done with school. Grow up, so I can do what I want every day."
+  },
+  {
+    "path": "Exports.408.Data.6.Value.1.Value.5",
+    "key": "3147AF4F478A8406A04126BEA7DD66F5",
+    "text": "It's okay. At least I get to see my friends."
+  },
+  {
+    "path": "Exports.408.Data.6.Value.2.Value.5",
+    "key": "DA0295A740E2DB292075169D3E2E5C8B",
+    "text": "Yeah, school is okay! There's just a lot of weird people there."
+  },
+  {
+    "path": "Exports.409.Data.0",
+    "key": "D85F0EF447B5B1127D207D857EFC3D22",
+    "text": "Ah, I'm not sure! Anything we want - all I know is that it's a beautiful day. A nice, slow day."
+  },
+  {
+    "path": "Exports.409.Data.6.Value.0.Value.5",
+    "key": "E48FB9DE40EC3FCDC530B0B0092661B4",
+    "text": "It could be a fast, goosey day, too."
+  },
+  {
+    "path": "Exports.409.Data.6.Value.1.Value.5",
+    "key": "51DFC0044FF42C01409F5285A4C59602",
+    "text": "What's nice about slow days?"
+  },
+  {
+    "path": "Exports.410.Data.0",
+    "key": "1D78F99249AFB7768AE0599689AFE93E",
+    "text": "I suppose. I only did what I had to, though. Most of what I've learned - and most of what's important - I learned outside of school."
+  },
+  {
+    "path": "Exports.410.Data.5.Value.0.Value.5",
+    "key": "CBBFB6D84E5A0F1DEE3AB29C7C94C63F",
+    "text": "From being with your friends?"
+  },
+  {
+    "path": "Exports.410.Data.5.Value.1.Value.5",
+    "key": "F548001F4A91697C0D129883D815DA4A",
+    "text": "By meeting different people?"
+  },
+  {
+    "path": "Exports.411.Data.0",
+    "key": "C223CCAA4225925DB248439FBB4D50AD",
+    "text": "You may be, bella, but I'm much too old for it. I enjoy my peace and quiet, especially on beautiful days like this. Nice, worriless, and slow."
+  },
+  {
+    "path": "Exports.411.Data.6.Value.0.Value.5",
+    "key": "D1FEEF6440D594138948B99DAAB9D6DB",
+    "text": "I need action. I'm Action Clarissa."
+  },
+  {
+    "path": "Exports.411.Data.6.Value.1.Value.5",
+    "key": "E22F061341FCCCDE5F2614A8F00CD994",
+    "text": "What's so nice about slow days?"
+  },
+  {
+    "path": "Exports.412.Data.0",
+    "key": "5A8D063947F65C2081D6FFA496C66649",
+    "text": "\"Action Clarissa\"? I'll say, I hope your teachers know how to handle her! Do you see a lot of action in school?"
+  },
+  {
+    "path": "Exports.412.Data.5.Value.0.Value.5",
+    "key": "E6435C38423F72DD834F108A87CA4458",
+    "text": "I'm not JUST action Clarissa. I'm many things!"
+  },
+  {
+    "path": "Exports.412.Data.5.Value.1.Value.5",
+    "key": "AF6BDA6444406DD3372CB981E2B7B069",
+    "text": "[Shrug] I don't know."
+  },
+  {
+    "path": "Exports.413.Data.0",
+    "key": "425F67F045C373332868299B778FFBFA",
+    "text": "That's alright. I don't think they heard you, anyway."
+  },
+  {
+    "path": "Exports.413.Data.5.Value.0.Value.5",
+    "key": "2C499D194A80DD5B1F8C868F99EE5A80",
+    "text": "Yeah. Maybe they're busy."
+  },
+  {
+    "path": "Exports.414.Data.0",
+    "key": "0CBEB565439A4212A32B0C92CCAD0AD4",
+    "text": "I suppose you don't remember much of her, do you? She was the kindest soul in the world. Always helpful, always understanding. Always knew exactly what to say."
+  },
+  {
+    "path": "Exports.414.Data.6.Value.0.Value.5",
+    "key": "13F9A1D743575F12040932BD5DEE9F0C",
+    "text": "So what would she say?"
+  },
+  {
+    "path": "Exports.414.Data.6.Value.1.Value.5",
+    "key": "54520D9E4FA29B5A3EC26BADA96563BD",
+    "text": "I still wish she wasn't gone. It's not fair."
+  },
+  {
+    "path": "Exports.414.Data.6.Value.2.Value.5",
+    "key": "3B601F664495FC037D5EBFB89394FAD0",
+    "text": "I wish she wasn't gone."
+  },
+  {
+    "path": "Exports.415.Data.0",
+    "key": "A47D5DAD4A30DD4C963447A5A9C48435",
+    "text": "You don't need to be someone else, bella. You can just be a better version of yourself. In some ways, that's what it means to grow up."
+  },
+  {
+    "path": "Exports.415.Data.6.Value.0.Value.5",
+    "key": "F197ED5E45A0C8E566A2748C7954D03F",
+    "text": "Will that take long?"
+  },
+  {
+    "path": "Exports.415.Data.6.Value.1.Value.5",
+    "key": "A6B2ED3B412CAF2D7BC9A2BC2D7429D6",
+    "text": "That sounds hard. Is it?"
+  },
+  {
+    "path": "Exports.416.Data.0",
+    "key": "E6F0463B4128F6D33E88EF8A9CC6B02A",
+    "text": "Growing up can be...difficult. It's easy to lose track of that imagination along the way."
+  },
+  {
+    "path": "Exports.416.Data.6.Value.0.Value.5",
+    "key": "7BB13DD741C72C8920A444BCFC822192",
+    "text": "We'll be okay, Grandpa."
+  },
+  {
+    "path": "Exports.416.Data.6.Value.1.Value.5",
+    "key": "387361F040483B9D784F44BF96AED8E1",
+    "text": "I'm Clarissa Bloodworth, and I'm not losing track of that!"
+  },
+  {
+    "path": "Exports.417.Data.0",
+    "key": "10B2743047C99EA3DE0C7E98113336BA",
+    "text": "She passed, Clarissa. We can fight it and turn the odds in our favor, but in the end, we all have to go."
+  },
+  {
+    "path": "Exports.417.Data.5.Value.0.Value.5",
+    "key": "9486D51447CFD209BA4EB08EDFEBD955",
+    "text": "That's sad."
+  },
+  {
+    "path": "Exports.417.Data.5.Value.1.Value.5",
+    "key": "EF7E7C584F10CE002E78779B6F37C883",
+    "text": "I don't want to."
+  },
+  {
+    "path": "Exports.417.Data.5.Value.2.Value.5",
+    "key": "1D3B691147AC7F89B05A78927A681D0B",
+    "text": "So did Grandma fight it?"
+  },
+  {
+    "path": "Exports.418.Data.0",
+    "key": "209FEE254C0808A63C2EA78357E9456B",
+    "text": "Oh, every day. Her smile, her little chunks of wisdom. And her sass. Heh."
+  },
+  {
+    "path": "Exports.418.Data.5.Value.0.Value.5",
+    "key": "A8FD474C4FB6A22B1FA9EC88AD42004F",
+    "text": "What kind of wisdom?"
+  },
+  {
+    "path": "Exports.418.Data.5.Value.1.Value.5",
+    "key": "4AD942B1463299A344DAB1A4EB91F0B8",
+    "text": "I think it's unfair that she's gone. She never did anything wrong!"
+  },
+  {
+    "path": "Exports.418.Data.5.Value.2.Value.5",
+    "key": "388A47944A83EC8EAF04129B134FE8FF",
+    "text": "Sass?"
+  },
+  {
+    "path": "Exports.419.Data.0",
+    "key": "DC44B1304C6E495B45FF92BFEEAED575",
+    "text": "Friends? Me? Hah - I think so! A few really good ones, too. Why do you ask?"
+  },
+  {
+    "path": "Exports.419.Data.6.Value.0.Value.5",
+    "key": "82FA8E0449907FCB4127AC962AF70F8B",
+    "text": "I dunno. I've never seen your friends! What are they like?"
+  },
+  {
+    "path": "Exports.419.Data.6.Value.1.Value.5",
+    "key": "E5E77A8545D78E368B8058B1A4C397C8",
+    "text": "I was just thinking about people. People stuff."
+  },
+  {
+    "path": "Exports.420.Data.0",
+    "key": "2776241C464172DFB9D249A838C3B545",
+    "text": "That's not very nice. Maybe your old grandpa can do something about it. I'll talk to your teachers. Have you got into trouble because of this boy?"
+  },
+  {
+    "path": "Exports.420.Data.5.Value.0.Value.5",
+    "key": "5DB2BDD943336B84918DA8840E9991D1",
+    "text": "[Nod]"
+  },
+  {
+    "path": "Exports.420.Data.5.Value.1.Value.5",
+    "key": "4D7C156E4D6355ADF890F7A581C71626",
+    "text": "[Shake your head]"
+  },
+  {
+    "path": "Exports.421.Data.0",
+    "key": "9DAF92704EE350D91DC257848E0C6EA7",
+    "text": "What happened?"
+  },
+  {
+    "path": "Exports.421.Data.6.Value.0.Value.5",
+    "key": "A8403B7F42D51B5014F3AEBF59D4B846",
+    "text": "...I punched him."
+  },
+  {
+    "path": "Exports.421.Data.6.Value.1.Value.5",
+    "key": "30B7F792479E17D77F187CA5E349B6BA",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.421.Data.6.Value.2.Value.5",
+    "key": "DD1F66A04894A53632CEE0B5D7E09488",
+    "text": "We got in a fight and the teacher came to break us up."
+  },
+  {
+    "path": "Exports.422.Data.0",
+    "key": "DB33AD2B4823350754A82A9D47E06754",
+    "text": "Hah! Well, there's a lot of people out there, Clarissa. Lots of people who are good, but lots of people who are not."
+  },
+  {
+    "path": "Exports.422.Data.6.Value.0.Value.5",
+    "key": "EE47DA9F480790D79410D5A5AB65BA3A",
+    "text": "How can you tell someone is good?"
+  },
+  {
+    "path": "Exports.422.Data.6.Value.1.Value.5",
+    "key": "D95917774DB42B8A1EF5A4BAE1B3508D",
+    "text": "How can you tell someone is bad?"
+  },
+  {
+    "path": "Exports.422.Data.6.Value.2.Value.5",
+    "key": "4EB3208E40A4EFA908444E9928A76A6B",
+    "text": "How can I tell the difference?"
+  },
+  {
+    "path": "Exports.423.Data.0",
+    "key": "E9DC72A24B47522EC4102D862507037D",
+    "text": "Well, they're good people. Clever, kind...loyal. Those are important qualities to have."
+  },
+  {
+    "path": "Exports.423.Data.6.Value.0.Value.5",
+    "key": "EC615DB8404C9961DDD0D28F671FC484",
+    "text": "Which one is the most important, though?"
+  },
+  {
+    "path": "Exports.423.Data.6.Value.1.Value.5",
+    "key": "BCD8CCFD47B2657722014191B8D62B74",
+    "text": "That sounds like my friends!"
+  },
+  {
+    "path": "Exports.424.Data.0",
+    "key": "92AE71CA4ADBA7D309465B8524235735",
+    "text": "There are many ways. You can see it in the way they smile, the way they talk, and even more: in the way they listen. "
+  },
+  {
+    "path": "Exports.424.Data.6.Value.0.Value.5",
+    "key": "1D6317D14CB89D4F6925A8BE722C355D",
+    "text": "What about me? Do I do that?"
+  },
+  {
+    "path": "Exports.424.Data.6.Value.1.Value.5",
+    "key": "B87C25DA4772118BC777B79A671C1C3A",
+    "text": "What if I don't see it?"
+  },
+  {
+    "path": "Exports.424.Data.6.Value.2.Value.5",
+    "key": "586CDFF0433CA1E972FAD1917348B1E9",
+    "text": "I'll make sure to pay attention, then."
+  },
+  {
+    "path": "Exports.425.Data.0",
+    "key": "25BD395E43F65F9F29B9718D6639B4BA",
+    "text": "It's not always so easy. Oftentimes, you just know. But sometimes? The ones who seem nicest are the ones who'll stab you in the back."
+  },
+  {
+    "path": "Exports.425.Data.6.Value.0.Value.5",
+    "key": "E56163714C541267AFCD96849B7BF551",
+    "text": "What if I can't tell the difference?"
+  },
+  {
+    "path": "Exports.425.Data.6.Value.1.Value.5",
+    "key": "F4F08ACD4A3D127A9764A38F0AA71272",
+    "text": "I'll make sure to pay attention, then."
+  },
+  {
+    "path": "Exports.425.Data.6.Value.2.Value.5",
+    "key": "F6EC81494B4EBEBD147D4598342DC39B",
+    "text": "...With a knife?"
+  },
+  {
+    "path": "Exports.426.Data.0",
+    "key": "8FD0A05C43F0F185DFEBE59C678310E0",
+    "text": "Hah! That's not what I meant, bella. Although, I'm sure you are really fast. I'm talking about you: Clarissa Bloodworth, the one and only."
+  },
+  {
+    "path": "Exports.426.Data.6.Value.0.Value.5",
+    "key": "8A205B3146EA680E64D98C9CE4FB719E",
+    "text": "[Shrug] I like my friends, I guess?"
+  },
+  {
+    "path": "Exports.426.Data.6.Value.1.Value.5",
+    "key": "A05A4F2F44D49F97D94A3580700A028C",
+    "text": "I don't know, Grandpa. Maybe it would be easier to be someone else?"
+  },
+  {
+    "path": "Exports.426.Data.6.Value.2.Value.5",
+    "key": "6F00248B4F25E7CE50A3148F30058F6D",
+    "text": "I'm not sure. Is it hard to figure that out?"
+  },
+  {
+    "path": "Exports.427.Data.0",
+    "key": "2C82046741B5EFACA795B69AC8542EC0",
+    "text": "Just be you, Clarissa! You can just be, and not worry about a thing."
+  },
+  {
+    "path": "Exports.427.Data.5.Value.0.Value.5",
+    "key": "DEE816974C4152796DA74CAAA02783CF",
+    "text": "I'll just be Clarissa, then. That's what I'm best at."
+  },
+  {
+    "path": "Exports.427.Data.5.Value.1.Value.5",
+    "key": "DEE2CBC5422D03825C9B2E894B7E6DA8",
+    "text": "What if I want to be someone else, though?"
+  },
+  {
+    "path": "Exports.428.Data.0",
+    "key": "B8F3AD7441576DA9BD6561A1F0170404",
+    "text": "Hm. Don't feel bad about starting trouble, bella. Your grandma, rest her soul, would never let anyone push her around. I know you've got that same spirit in you."
+  },
+  {
+    "path": "Exports.428.Data.6.Value.0.Value.5",
+    "key": "BB6FA6E14AF182CB2CB916A4C186E1A5",
+    "text": "How did she do that?"
+  },
+  {
+    "path": "Exports.428.Data.6.Value.1.Value.5",
+    "key": "20713EF949924C69678EB9A5B69D1715",
+    "text": "[Nod]"
+  },
+  {
+    "path": "Exports.428.Data.6.Value.2.Value.5",
+    "key": "089694714F41E42325E43FBF9A6CFAE3",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.429.Data.0",
+    "key": "62ACA2E54BF9A3461C916BB375E12E82",
+    "text": "Hard?"
+  },
+  {
+    "path": "Exports.429.Data.6.Value.0.Value.5",
+    "key": "9A2699FF4D9B14829D8127B2BE585090",
+    "text": "[Nod]"
+  },
+  {
+    "path": "Exports.429.Data.6.Value.1.Value.5",
+    "key": "3119778246DA6179EF39879DDA37C849",
+    "text": "Maybe."
+  },
+  {
+    "path": "Exports.430.Data.0",
+    "key": "E1AAD4D047000DB74F48B7AEC9E2A6FC",
+    "text": "That's great, Clarissa. Tell me, then - what are your friends like? "
+  },
+  {
+    "path": "Exports.430.Data.6.Value.0.Value.5",
+    "key": "A2D64BCF4EA128E5DCD61A8C064F3CBC",
+    "text": "They're funny! And they always make me laugh."
+  },
+  {
+    "path": "Exports.430.Data.6.Value.1.Value.5",
+    "key": "1C415C9E45E4480912152DB600BCCDAC",
+    "text": "We're all really close. We all trust each other!"
+  },
+  {
+    "path": "Exports.430.Data.6.Value.2.Value.5",
+    "key": "5CD641FD4F4A170F2B05F3870ED8D18F",
+    "text": "I don't know. They're just themselves, and that's what I like."
+  },
+  {
+    "path": "Exports.430.Data.6.Value.3.Value.5",
+    "key": "65851E994F2FDDB1F72FCDBC956AC9ED",
+    "text": "They're nice. And kind."
+  },
+  {
+    "path": "Exports.431.Data.0",
+    "key": "D249493B4613CC13B73E47AA76F1C17E",
+    "text": "No, not at all. In fact, it all goes by very quickly, in the end. Even the boring parts. The waiting, the sleeping...the rains and the clouds."
+  },
+  {
+    "path": "Exports.431.Data.5.Value.0.Value.5",
+    "key": "B5B44CF74427950285382DA0F76F08D3",
+    "text": "I'm sure I'll just be me. Clarissa."
+  },
+  {
+    "path": "Exports.431.Data.5.Value.1.Value.5",
+    "key": "62A6000347D22F6A6CE0DEACC13987DC",
+    "text": "What if I just stay the same? What if I don't change at all?"
+  },
+  {
+    "path": "Exports.431.Data.5.Value.2.Value.5",
+    "key": "1F29D9F447A5B146B23816AA42CB0E44",
+    "text": "Maybe I could become someone else, then?"
+  },
+  {
+    "path": "Exports.432.Data.0",
+    "key": "CAC5EF2C495F3FB9ABF79292FCAE1EB1",
+    "text": "You won't - not for a while, at least. But there'll be a moment, years and years from now, when you'll take a deep breath, look out at the city, and realize who you are."
+  },
+  {
+    "path": "Exports.432.Data.5.Value.0.Value.5",
+    "key": "2E92E2134D592C978D0F93A55E560766",
+    "text": "But I know who I am. I'm Clarissa."
+  },
+  {
+    "path": "Exports.432.Data.5.Value.1.Value.5",
+    "key": "4AFEB21B43F2087FC346CA9210B1E76A",
+    "text": "What if I never change?"
+  },
+  {
+    "path": "Exports.432.Data.5.Value.2.Value.5",
+    "key": "8F942A8A4174CF0E1F49EE8092236F6C",
+    "text": "I can't wait to be someone else."
+  },
+  {
+    "path": "Exports.433.Data.0",
+    "key": "BA4E1B0A49D6680AEE3F62AFDBA65318",
+    "text": "Even Clarissa can change. In fact, I'd be worried if she didn't. It's one of the best parts of life, you know? Changing. Becoming something new, and something better than before."
+  },
+  {
+    "path": "Exports.433.Data.6.Value.0.Value.5",
+    "key": "A2F995D646A11CF484D814B6E7E18488",
+    "text": "I think I understand, Grandpa."
+  },
+  {
+    "path": "Exports.433.Data.6.Value.1.Value.5",
+    "key": "3665D89A406F99C05E24F3B91EB558A4",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.433.Data.6.Value.2.Value.5",
+    "key": "BBD8DCED4F0390664428489FA8557FF2",
+    "text": "I don't think I understand, Grandpa."
+  },
+  {
+    "path": "Exports.434.Data.0",
+    "key": "E32638BC44B2DE77F1C4EDB53E33EC98",
+    "text": "Don't worry. You will. And even if you change, you might not change at all. Young or old, you'll eat, sleep, and think. Every day. But what you eat, where you sleep, and how you think? Those are the things that change: the things you can change."
+  },
+  {
+    "path": "Exports.434.Data.6.Value.0.Value.5",
+    "key": "55506EA649B6486D9F906390AEEF8A16",
+    "text": "I think I understand, Grandpa."
+  },
+  {
+    "path": "Exports.434.Data.6.Value.1.Value.5",
+    "key": "E24F0D574FB5B1ED4E1C05A912724449",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.434.Data.6.Value.2.Value.5",
+    "key": "E793674941F9AAB1C955E98E50206960",
+    "text": "I don't think I understand, Grandpa."
+  },
+  {
+    "path": "Exports.435.Data.0",
+    "key": "3AD78BDE45C6817FCE352BACBBB1768C",
+    "text": "Don't worry, bella. You will. With time."
+  },
+  {
+    "path": "Exports.435.Data.6.Value.0.Value.5",
+    "key": "98F48B4C46B5725D4B041FACF249F4F8",
+    "text": "[Nod] Okay. I believe you."
+  },
+  {
+    "path": "Exports.435.Data.6.Value.1.Value.5",
+    "key": "8F8C377E4FFD1D76DCCA4CA0C320AD11",
+    "text": "But how much time?"
+  },
+  {
+    "path": "Exports.436.Data.0",
+    "key": "A2F25FCB4A34638D4F6015ADF2F231C9",
+    "text": "Good. You should always be yourself, Clarissa! There's no one else you can be, and no one else that can be you."
+  },
+  {
+    "path": "Exports.436.Data.6.Value.0.Value.5",
+    "key": "C90D2F534719683D712DA0AE4A27968D",
+    "text": "I better do it, then. If no one else can."
+  },
+  {
+    "path": "Exports.436.Data.6.Value.1.Value.5",
+    "key": "3264C1354C5229894A11D189AAE5ABAC",
+    "text": "What if I want to be someone else, though?"
+  },
+  {
+    "path": "Exports.437.Data.0",
+    "key": "9A1DA98748D837D3AD95DEA2B93AF141",
+    "text": "I knew you would, Clarissa."
+  },
+  {
+    "path": "Exports.437.Data.6.Value.0.Value.5",
+    "key": "71C1B5654144EACD7394A18C9280B039",
+    "text": "[Nod]"
+  },
+  {
+    "path": "Exports.437.Data.6.Value.1.Value.5",
+    "key": "3E669031484D29C4D5EA09B18F06067B",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.438.Data.0",
+    "key": "1760D31644278F13BB68269B1275EF97",
+    "text": "You will never be someone else, Clarissa! You'll just be different versions of yourself. You'll change some things, but others won't change at all."
+  },
+  {
+    "path": "Exports.438.Data.6.Value.0.Value.5",
+    "key": "941562D6432529663C7C299190A576DA",
+    "text": "I think I understand, Grandpa."
+  },
+  {
+    "path": "Exports.438.Data.6.Value.1.Value.5",
+    "key": "B7433B02454B7F13417C90964445F705",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.438.Data.6.Value.2.Value.5",
+    "key": "D7C8A6EA40491E5FDC75489EA29CF8CF",
+    "text": "I don't think I understand, Grandpa."
+  },
+  {
+    "path": "Exports.439.Data.0",
+    "key": "FE605DAC4196D262235A2EB706DA70D7",
+    "text": "Mostly, they have problems that they hope I can solve. They ask for favours. Or money. And I try to help out in any way I can."
+  },
+  {
+    "path": "Exports.439.Data.5.Value.0.Value.5",
+    "key": "11CF347741A6B4D60D7F5284D4EECCF1",
+    "text": "Is that enough?"
+  },
+  {
+    "path": "Exports.439.Data.5.Value.1.Value.5",
+    "key": "17106C7D4E3B40F7145F5EB1174260A6",
+    "text": "So you help them?"
+  },
+  {
+    "path": "Exports.439.Data.5.Value.2.Value.5",
+    "key": "7CB987904944B70F7C827695EE7A07A7",
+    "text": "And then you become friends with them?"
+  },
+  {
+    "path": "Exports.440.Data.0",
+    "key": "F8ED614A41B8C0503A758788B812E18E",
+    "text": "In some cases, I do. Sometimes I don't. But I always prefer making a friend over an enemy. I'm sure you're the same, aren't you?"
+  },
+  {
+    "path": "Exports.440.Data.5.Value.0.Value.5",
+    "key": "CE11E071496C5FE33A18158E18710967",
+    "text": "[Nod]"
+  },
+  {
+    "path": "Exports.440.Data.5.Value.1.Value.5",
+    "key": "7E001379433C514501C412B2DF865949",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.441.Data.0",
+    "key": "FE717F614CDDA6E6570213B07A96A345",
+    "text": "I do my best, Clarissa. That's all anyone can do. Be true to yourself and do their best."
+  },
+  {
+    "path": "Exports.441.Data.6.Value.0.Value.5",
+    "key": "1FC77BD9436549CEE480D18D266B9275",
+    "text": "That's easy! I'm great at being Clarissa."
+  },
+  {
+    "path": "Exports.441.Data.6.Value.1.Value.5",
+    "key": "4F53841148F34B9F507184B32F463CBD",
+    "text": "And be nice to people. That's important too. Making them laugh."
+  },
+  {
+    "path": "Exports.442.Data.0",
+    "key": "08D7CD324A986397CB2E698D043BB345",
+    "text": "Well, mean people like that are usually very unsure of themselves. They'll only tease you if they think you'll take it. Which is why you have to show them you won't."
+  },
+  {
+    "path": "Exports.442.Data.6.Value.0.Value.5",
+    "key": "CDEFE3CF466FBFDAA38E1AB66C974456",
+    "text": "So I tell them to stop?"
+  },
+  {
+    "path": "Exports.442.Data.6.Value.1.Value.5",
+    "key": "2B84D98B4096ECF57D5940AAA48DA5E9",
+    "text": "So I...punch them?"
+  },
+  {
+    "path": "Exports.443.Data.0",
+    "key": "C98FD80942F6B1AFA776B89CE1E3248B",
+    "text": "That sounds like a wonderful world, bella. You'll have to let me visit someday, while you can still lead the way."
+  },
+  {
+    "path": "Exports.443.Data.6.Value.0.Value.5",
+    "key": "4E2F33E84944D961AE190E99FD815A85",
+    "text": "Of course you can visit!"
+  },
+  {
+    "path": "Exports.443.Data.6.Value.1.Value.5",
+    "key": "27DDAC264DB51A747AD78F952385B8D1",
+    "text": "What do you mean, Grandpa?"
+  },
+  {
+    "path": "Exports.444.Data.0",
+    "key": "15CB1D31491238B7531AD9AA9EE70311",
+    "text": "Once. You give them one chance to back off. If they don't? Well...that's on them. "
+  },
+  {
+    "path": "Exports.444.Data.5.Value.0.Value.5",
+    "key": "0632156243E5614FE5DD999BCCF08526",
+    "text": "I think I understand."
+  },
+  {
+    "path": "Exports.444.Data.5.Value.1.Value.5",
+    "key": "8E4EEB7A400C087EAFB9FCAC04FE0B93",
+    "text": "I'm not sure I understand."
+  },
+  {
+    "path": "Exports.445.Data.0",
+    "key": "BFBE4B69428F40D8A725828A0E905E92",
+    "text": "I won't say you shouldn't, because sometimes that's the only way out. But getting into a fight doesn't show people that you're tough - staying out of them does."
+  },
+  {
+    "path": "Exports.445.Data.6.Value.0.Value.5",
+    "key": "7C1BFEC64806039E83F6C89BCD70C4EB",
+    "text": "Okay! In that case, I'll just stay with my friends. They won't mess with all of us."
+  },
+  {
+    "path": "Exports.445.Data.6.Value.1.Value.5",
+    "key": "1DE0BF2840B3129C289BC7B1CA9BDBA4",
+    "text": "I'm just worried there's going to be a lot of mean people out there."
+  },
+  {
+    "path": "Exports.446.Data.0",
+    "key": "925D00F54584CA7A3F1CAD8B45EFA701",
+    "text": "Me? Why, of course! I'm more than fine - I'm spending time with my little girl. How could I not be?"
+  },
+  {
+    "path": "Exports.446.Data.5.Value.0.Value.5",
+    "key": "DEE1DF064F9C5A1AAA831DA3A0D9EB35",
+    "text": "Did you see the goosers?"
+  },
+  {
+    "path": "Exports.446.Data.5.Value.1.Value.5",
+    "key": "70B6330340B147FF63DE968EBE93606D",
+    "text": "Okay! What are we doing here, Grandpa?"
+  },
+  {
+    "path": "Exports.446.Data.5.Value.2.Value.5",
+    "key": "46AD8E3F46085E08DD1FC99CBCB1A322",
+    "text": "But you were thinking about something else, weren't you?"
+  },
+  {
+    "path": "Exports.447.Data.0",
+    "key": "3AC9F0E640A743D24C98399F6869CC7B",
+    "text": "That's not very nice. Maybe your old grandpa can do something about it. I'll talk to your teachers. Has this girl ever got you into trouble?"
+  },
+  {
+    "path": "Exports.447.Data.6.Value.0.Value.5",
+    "key": "C68824834B581547A0AD9593245DFDFC",
+    "text": "[Nod]"
+  },
+  {
+    "path": "Exports.447.Data.6.Value.1.Value.5",
+    "key": "AEA9245B40D428F3C0FA7DABDFC2C6E1",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.448.Data.0",
+    "key": "4B14F18A42AA71E3FE121094E4A86D97",
+    "text": "Easy, eh? Maybe for people as clever as you! I was certainly no wiz at it - nor am I now!"
+  },
+  {
+    "path": "Exports.448.Data.5.Value.0.Value.5",
+    "key": "2D14BDFE41D9EDC1F569439823C82908",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.448.Data.5.Value.1.Value.5",
+    "key": "D8CBA2004B9A760C624E40988ABAAD14",
+    "text": "It's okay, Grandpa. I can teach you."
+  },
+  {
+    "path": "Exports.449.Data.0",
+    "key": "1F4FCC36415FFDCA7F0890BA8DAEE2EF",
+    "text": "I never saw it like that, Clarissa. But you might just be right. I'm not very good at math, either way - I can count, but that's about it."
+  },
+  {
+    "path": "Exports.449.Data.5.Value.0.Value.5",
+    "key": "B529FBEB4AD2FEDEF85315A2215149AC",
+    "text": "You're old, though. You don't have to. You get to do whatever you want!"
+  },
+  {
+    "path": "Exports.449.Data.5.Value.1.Value.5",
+    "key": "070858974CD075E777BCF5BBFAE1545E",
+    "text": "But it's so easy!"
+  },
+  {
+    "path": "Exports.449.Data.5.Value.2.Value.5",
+    "key": "F911485D43207CA1101B6C8483A44983",
+    "text": "Yeah. Counting is easy."
+  },
+  {
+    "path": "Exports.450.Data.0",
+    "key": "54B1A09D4C4FC63CA5D2D697EFCA732F",
+    "text": "Partially, yes. You can learn a great deal from the people you surround yourself with. You just need to listen to them, in every way."
+  },
+  {
+    "path": "Exports.450.Data.6.Value.0.Value.5",
+    "key": "A5E1AC7C4C4813796E3320877CF1F908",
+    "text": "I do. I listen to my friends a lot."
+  },
+  {
+    "path": "Exports.450.Data.6.Value.1.Value.5",
+    "key": "664EBE034EE7E5D5FA902298FCDBA7AB",
+    "text": "Thanks, Grandpa. I think I understand."
+  },
+  {
+    "path": "Exports.450.Data.6.Value.2.Value.5",
+    "key": "9BA144D94F03264C609C7FB211AE9A69",
+    "text": "But how do I know which ones to listen to? And which ways?"
+  },
+  {
+    "path": "Exports.451.Data.0",
+    "key": "FC3E3DCD4DFEE1A9036BF5B07F837703",
+    "text": "There you go. And not just one - a whole bunch of them. It's called a gaggle. Did you know that?"
+  },
+  {
+    "path": "Exports.451.Data.5.Value.0.Value.5",
+    "key": "CF3D3460404DBE35B8575094F46B06C7",
+    "text": "How come they're looking for food here?"
+  },
+  {
+    "path": "Exports.451.Data.5.Value.1.Value.5",
+    "key": "03DE71694ED1F29B27CB92BDC4D3F3DF",
+    "text": "That's a dumb word."
+  },
+  {
+    "path": "Exports.451.Data.5.Value.2.Value.5",
+    "key": "84F6B1934FD81DAE7967C4BA45508F17",
+    "text": "Grandpa, do geezers have houses? How come they're always on the streets?"
+  },
+  {
+    "path": "Exports.452.Data.0",
+    "key": "50FDFFD64C443F1E9882B18A918C6AD9",
+    "text": "Well - I, for one, can't wait to hear them. You'll read them to me, won't you?"
+  },
+  {
+    "path": "Exports.452.Data.5.Value.0.Value.5",
+    "key": "F8A1DEC3436BA23731B1C2B8965797C9",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.452.Data.5.Value.1.Value.5",
+    "key": "AE8E709542A2495941F15BA5FD4A73A7",
+    "text": "Of course I will!"
+  },
+  {
+    "path": "Exports.453.Data.0",
+    "key": "66DBD9464A06F37D77506296DE29CEE8",
+    "text": "Alright, alright. No more talk of school. Deal?"
+  },
+  {
+    "path": "Exports.453.Data.6.Value.0.Value.5",
+    "key": "C35B92E6474C3D77CC025C96DAD48D1C",
+    "text": "I just want to be done with school! Grow up, so I can do what I want every day."
+  },
+  {
+    "path": "Exports.453.Data.6.Value.1.Value.5",
+    "key": "3E3EE03D427A779FFD823191E2F3010E",
+    "text": "Deal! I prefer just being with you, Grandpa. And my friends."
+  },
+  {
+    "path": "Exports.453.Data.6.Value.2.Value.5",
+    "key": "26F332434D8D43B1D72723A3AA0197AF",
+    "text": "I wish my classes were over, but it's taking so long."
+  },
+  {
+    "path": "Exports.454.Data.0",
+    "key": "B6ACEA4F4CEFDCF0359CF39E7F4B8B3F",
+    "text": "You shouldn't be fighting, Clarissa. But I'm glad to hear you're standing up for yourself. Sometimes, you're the only one who can. You need to understand, though, that words carry more weight than fists ever could."
+  },
+  {
+    "path": "Exports.454.Data.6.Value.0.Value.5",
+    "key": "90E1A03F438038A00897C7A5F4E8568D",
+    "text": "I think I understand, Grandpa."
+  },
+  {
+    "path": "Exports.454.Data.6.Value.1.Value.5",
+    "key": "10C2A6A04443CFA54684449B47451B43",
+    "text": "So I tell them to stop?"
+  },
+  {
+    "path": "Exports.454.Data.6.Value.2.Value.5",
+    "key": "9584A39C4B471748B3AA0EA1138D0580",
+    "text": "So no punching?"
+  },
+  {
+    "path": "Exports.455.Data.0",
+    "key": "C0A3D59D43D0C9D796D82DA4B3DC8969",
+    "text": "I knew you would, Clarissa. You'll grow up, and soon enough it'll be a little simpler to grasp."
+  },
+  {
+    "path": "Exports.455.Data.6.Value.0.Value.5",
+    "key": "3414A7094AED6521D16CFFA8AE3D00D6",
+    "text": "Will it take long, do you think?"
+  },
+  {
+    "path": "Exports.455.Data.6.Value.1.Value.5",
+    "key": "F5672B4F489B44F49408059DBE24AD34",
+    "text": "Is it hard? To grow up, I mean?"
+  },
+  {
+    "path": "Exports.456.Data.0",
+    "key": "813FDF03476D3EACE595D58F629F3B68",
+    "text": "As you grow up, that part will become a lot clearer. The way you are? No I don't think you'll have any problem with that."
+  },
+  {
+    "path": "Exports.456.Data.6.Value.0.Value.5",
+    "key": "3BD3E50A4890F712B22A5EB2E57E5EF8",
+    "text": "How long will that take?"
+  },
+  {
+    "path": "Exports.456.Data.6.Value.1.Value.5",
+    "key": "A477D6094435555470992AB2EC114D58",
+    "text": "Is it hard? To grow up, I mean?"
+  },
+  {
+    "path": "Exports.457.Data.0",
+    "key": "DEA501284B9F9475BB011E910E1F70F8",
+    "text": "No, not literally! But some people will act sweet and gently, only to lie to you through crooked smiles. Sometimes, you won't know until a very long time has passed."
+  },
+  {
+    "path": "Exports.457.Data.6.Value.0.Value.5",
+    "key": "80063889464920209EE743B42B5733B0",
+    "text": "Will they ever change their minds?"
+  },
+  {
+    "path": "Exports.457.Data.6.Value.1.Value.5",
+    "key": "EC1C287447CA4C1EDEB4619C09D62BE4",
+    "text": "So what do I do if someone nice suddenly starts being mean?"
+  },
+  {
+    "path": "Exports.457.Data.6.Value.2.Value.5",
+    "key": "671807124439C9BB8020B4B16655F952",
+    "text": "They sound really crappy."
+  },
+  {
+    "path": "Exports.458.Data.0",
+    "key": "5A856ED54E9D9E21D4CEE6BD847C3BB3",
+    "text": "That should be more than enough. A lot of people don't. Some will take a split second to decide how they feel about you, and that's that. "
+  },
+  {
+    "path": "Exports.458.Data.5.Value.0.Value.5",
+    "key": "5559E8BC495CC312585D2E8330BA5CAD",
+    "text": "It's hard not to worry about how people think of me, Grandpa."
+  },
+  {
+    "path": "Exports.458.Data.5.Value.1.Value.5",
+    "key": "373D1DCE45B2059572804F84B7686812",
+    "text": "They'll never change their minds?"
+  },
+  {
+    "path": "Exports.458.Data.5.Value.2.Value.5",
+    "key": "90FF690A4F5697042C0E6DA7991651F1",
+    "text": "That's okay. I don't care what people think about me."
+  },
+  {
+    "path": "Exports.459.Data.0",
+    "key": "9F164C774DA0BF6985784DB1CEA4FE48",
+    "text": "Ha! Alright, why not? A gooser. More than one: a bunch of them. When they're all together like this, it's called a gaggle. Did you know that?"
+  },
+  {
+    "path": "Exports.459.Data.5.Value.0.Value.5",
+    "key": "BC25ED2649D76D7B2E61229A17C473C1",
+    "text": "How come they're looking for food here?"
+  },
+  {
+    "path": "Exports.459.Data.5.Value.1.Value.5",
+    "key": "3A9F7C2046EEC1468FD6A18CEB9B7029",
+    "text": "That's a dumb word."
+  },
+  {
+    "path": "Exports.459.Data.5.Value.2.Value.5",
+    "key": "449FC47D4B43CB6A93602E8AC420B360",
+    "text": "Grandpa, do goosers have houses? How come they're always on the streets?"
+  },
+  {
+    "path": "Exports.460.Data.0",
+    "key": "C74D705C4A92C21317AB4CAC9850F964",
+    "text": "Ah, it takes time. Knowing someone isn't a single experience - same as you, people change. And it's okay to change your mind about those people."
+  },
+  {
+    "path": "Exports.460.Data.5.Value.0.Value.5",
+    "key": "31D184594F564B6F9093DAA5DEAA93B3",
+    "text": "Will they change their minds about me, too?"
+  },
+  {
+    "path": "Exports.460.Data.5.Value.1.Value.5",
+    "key": "D7CE581F402575A07EA64DA6FF0FDB30",
+    "text": "What do I do if someone nice suddenly starts being mean?"
+  },
+  {
+    "path": "Exports.460.Data.5.Value.2.Value.5",
+    "key": "CC6CBD4947D3AFA5025897863A47E1EC",
+    "text": "That's alright. I don't care what people think about me!"
+  },
+  {
+    "path": "Exports.461.Data.0",
+    "key": "E158E65E4CDDD06B678EC689D19AC2BE",
+    "text": "Well, let me take a look at you! Yes, yes I think so. I know so."
+  },
+  {
+    "path": "Exports.461.Data.5.Value.0.Value.5",
+    "key": "6A4479274EAE864BD4DAA6817B6039AE",
+    "text": "I think you're a good person too, Grandpa."
+  },
+  {
+    "path": "Exports.461.Data.5.Value.1.Value.5",
+    "key": "7D0CF59F487F7ADF1478AC9190C9CF00",
+    "text": "What if someone thinks I'm a bad person anyway?"
+  },
+  {
+    "path": "Exports.462.Data.0",
+    "key": "EFA956F94C2F1A2F6BE9C59C7B469A15",
+    "text": "Some might, but you can't control that. Regardless of how highly or lowly you think of someone, you can't make them change their perception of you."
+  },
+  {
+    "path": "Exports.462.Data.6.Value.0.Value.5",
+    "key": "5F23C4B8401FB19052CFC7B31F0BB248",
+    "text": "It's hard not to worry about how people think of me, Grandpa."
+  },
+  {
+    "path": "Exports.462.Data.6.Value.1.Value.5",
+    "key": "1F0D3ACA452AF07C423B21B2D184EB6A",
+    "text": "Okay. I won't! I don't care what people think about me."
+  },
+  {
+    "path": "Exports.463.Data.0",
+    "key": "0AB695A04EC1D797112E69BACD5568DA",
+    "text": "I know it's hard, bella. The first few times it'll sting, but after a while, you start seeing that it doesn't matter. All that matters is that you're happy with yourself."
+  },
+  {
+    "path": "Exports.463.Data.6.Value.0.Value.5",
+    "key": "EFE7C205406F8165B964998FDD041D8D",
+    "text": "I'll remember that, Grandpa."
+  },
+  {
+    "path": "Exports.463.Data.6.Value.1.Value.5",
+    "key": "8AC6F3DA4128F36DB04A0FA581C29E41",
+    "text": "[Nod]"
+  },
+  {
+    "path": "Exports.463.Data.6.Value.2.Value.5",
+    "key": "CE0AE9D74FAEDCEC68228FB51DF84413",
+    "text": "[Say nothing]"
+  },
+  {
+    "path": "Exports.464.Data.0",
+    "key": "DC0011AE47018A0A40DEABA69E7823B8",
+    "text": "You take a step back, reassess, and make up your mind again. Never believe something to always be true, just because it has been so far. People change, and their views along with them."
+  },
+  {
+    "path": "Exports.464.Data.6.Value.0.Value.5",
+    "key": "9881C5F141F412C2A7BC088EFF1C8AA7",
+    "text": "I hope people don't stop liking me."
+  },
+  {
+    "path": "Exports.464.Data.6.Value.1.Value.5",
+    "key": "B8304608489E234A0B2780A8654AE3EB",
+    "text": "I won't. I don't care what people think about me."
+  },
+  {
+    "path": "Exports.465.Data.0",
+    "key": "512CDD79414627A7ABD2C6A11D2BF8FC",
+    "text": "I'm glad to hear that, bella. Very glad. Not everyone would agree with you, you know."
+  },
+  {
+    "path": "Exports.465.Data.6.Value.0.Value.5",
+    "key": "A8091F8D44795C294C95798D3EB86BC1",
+    "text": "Really? I'm sorry, Grandpa."
+  },
+  {
+    "path": "Exports.465.Data.6.Value.1.Value.5",
+    "key": "63F36EF744CB7F3FD61805BF5E74A71E",
+    "text": "Can I convince them you are? Will they listen to me?"
+  },
+  {
+    "path": "Exports.465.Data.6.Value.2.Value.5",
+    "key": "A6CF65E2427A43273B9161B8EE482D95",
+    "text": "I don't care what those people think! I know what I know."
+  },
+  {
+    "path": "Exports.466.Data.0",
+    "key": "F67917DE453B293D054B5D988DD5D692",
+    "text": "Hah! They are, bella. Very crappy. You can't give them your time of day, you see. Those people will judge you, regardless of what you do."
+  },
+  {
+    "path": "Exports.466.Data.5.Value.0.Value.5",
+    "key": "C2A460F942509FDDB08756B243A7E7DC",
+    "text": "It still makes me sad that someone wouldn't like me."
+  },
+  {
+    "path": "Exports.466.Data.5.Value.1.Value.5",
+    "key": "F34E9CE4419F3E982799FAAA809230E6",
+    "text": "Yeah. I don't care what a bunch of crappy people think."
+  },
+  {
+    "path": "Exports.467.Data.0",
+    "key": "3C3AE7EF483A7B53872CDCB76D95BD26",
+    "text": "Why, I'm not sure I know. You tell me, Clarissa: what's most important in a friend?"
+  },
+  {
+    "path": "Exports.467.Data.5.Value.0.Value.5",
+    "key": "4037D9894135DEC9F26AD083DF7FD4FB",
+    "text": "Hmm. Being funny. Making others laugh."
+  },
+  {
+    "path": "Exports.467.Data.5.Value.1.Value.5",
+    "key": "BDA552BD4FD805E25C5CE4861947E8EC",
+    "text": "Trusting each other!"
+  },
+  {
+    "path": "Exports.467.Data.5.Value.2.Value.5",
+    "key": "B277888940559D3875FF72A980BDFA0C",
+    "text": "I don't know. They're just friends. That's what I like about them."
+  },
+  {
+    "path": "Exports.467.Data.5.Value.3.Value.5",
+    "key": "F9D0562B4A3211245F84BEA8085C0D5C",
+    "text": "They're kind. And nice. "
+  },
+  {
+    "path": "Exports.468.Data.0",
+    "key": "9129AECA4DBC3FB9FBD123927031C92E",
+    "text": "Good, good. It's always nice to be surrounded by people who can lift you up when you're down. Do you do the same for them?"
+  },
+  {
+    "path": "Exports.468.Data.6.Value.0.Value.5",
+    "key": "B12C6E3A4CA463BDF69F7BBB27F51394",
+    "text": "Yeah! I'm even funnier."
+  },
+  {
+    "path": "Exports.468.Data.6.Value.1.Value.5",
+    "key": "449A2BAB49CAA44B72D9669A5D3AA232",
+    "text": "Sometimes."
+  },
+  {
+    "path": "Exports.468.Data.6.Value.2.Value.5",
+    "key": "FE0AFDEE42ECCA3826726E98B276F122",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.469.Data.0",
+    "key": "6A2E9F384B3BC5E0FFE4808628CBC09E",
+    "text": "Maybe I'm just getting too old, but it feels like the days pass so quickly now. Yesterday already seems like a week ago."
+  },
+  {
+    "path": "Exports.469.Data.6.Value.0.Value.5",
+    "key": "E1F19F5D49580847B4609EA8EFED8F0D",
+    "text": "That's not how it works, Grandpa."
+  },
+  {
+    "path": "Exports.469.Data.6.Value.1.Value.5",
+    "key": "664599EE496229841688CF969B7ED664",
+    "text": "Mhm, and I'm growing every day. Everyone says so."
+  },
+  {
+    "path": "Exports.469.Data.6.Value.2.Value.5",
+    "key": "E9EED1F0436AA44680E46CB119F47995",
+    "text": "Does time go faster when you're old?"
+  },
+  {
+    "path": "Exports.470.Data.0",
+    "key": "8DC4B77E4B9AE6AB551DA7B25E485B50",
+    "text": "You hold on to that, then. It's not always easy to find people you can trust. You give them reason to trust you as well. "
+  },
+  {
+    "path": "Exports.470.Data.6.Value.0.Value.5",
+    "key": "C4801A9B4B0FADF65E8FDB9565817FC0",
+    "text": "I do!"
+  },
+  {
+    "path": "Exports.470.Data.6.Value.1.Value.5",
+    "key": "58CF70124D37F22A2A897CBC0F6C851F",
+    "text": "I think so."
+  },
+  {
+    "path": "Exports.470.Data.6.Value.2.Value.5",
+    "key": "A1D0A3E64F115B0ED2597EA82ACBF896",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.471.Data.0",
+    "key": "D26387BB403024A75D79EDBE4BC6D47E",
+    "text": "Ah-ha! Very good. And they like you for who you are as well, I hope?"
+  },
+  {
+    "path": "Exports.471.Data.6.Value.0.Value.5",
+    "key": "92B3F93C496E954A1578168CE4B13D87",
+    "text": "Yeah! I'm sure of it."
+  },
+  {
+    "path": "Exports.471.Data.6.Value.1.Value.5",
+    "key": "5D97FE76405BF640ADB3EEBDAF1D8983",
+    "text": "I think so."
+  },
+  {
+    "path": "Exports.471.Data.6.Value.2.Value.5",
+    "key": "D3CD77A54D568836E3C364866704781E",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.472.Data.0",
+    "key": "A90932C848392D3ED7CE2FACEF956134",
+    "text": "Make sure you tell them that, too. Nothing gets taken for granted as much as kindness, bella. You'll tell them next time you see them, won't you?"
+  },
+  {
+    "path": "Exports.472.Data.6.Value.0.Value.5",
+    "key": "EC165F9C493D4A5E159A258F2E6BD1C2",
+    "text": "Of course! I'll tell them every day!"
+  },
+  {
+    "path": "Exports.472.Data.6.Value.1.Value.5",
+    "key": "6C52D81A4FAA39B1C9226A9DF7C26C93",
+    "text": "I'll try."
+  },
+  {
+    "path": "Exports.472.Data.6.Value.2.Value.5",
+    "key": "55E0EF2648EAFE68B69C8482565E3636",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.473.Data.0",
+    "key": "32A369CD46469B6F15E681A258013F1E",
+    "text": "Well, then. All I know is that I'm happy you have friends, Clarissa. Everyone needs that, and yet it's such a rare thing to have. Never take them for granted. You understand?"
+  },
+  {
+    "path": "Exports.473.Data.6.Value.0.Value.5",
+    "key": "07DF9AF54A33645817A45F9B8A5C7131",
+    "text": "[Nod]"
+  },
+  {
+    "path": "Exports.473.Data.6.Value.1.Value.5",
+    "key": "299550AA4E338BC843AE14948598CA9B",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.474.Data.0",
+    "key": "278633A1475B50719CFFE09E45A81664",
+    "text": "Good, good. Be a decent friend, and decent people will befriend you. I guarantee it, Clarisssa."
+  },
+  {
+    "path": "Exports.474.Data.6.Value.0.Value.5",
+    "key": "55E4A5C647EEEE332B4E46BD4A7CC3D7",
+    "text": "[Nod]"
+  },
+  {
+    "path": "Exports.474.Data.6.Value.1.Value.5",
+    "key": "621A92BE44D3C3A2B5406AA7D6DBDD97",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.475.Data.0",
+    "key": "49E4606F4777B1AA94E8768716F4404D",
+    "text": "I'm not worried. I'm sure you all are thick as thieves. Isn't that right, bella?"
+  },
+  {
+    "path": "Exports.475.Data.6.Value.0.Value.5",
+    "key": "3A417D9140B213B9AB7F50B316C6DD9D",
+    "text": "[Nod]"
+  },
+  {
+    "path": "Exports.475.Data.6.Value.1.Value.5",
+    "key": "3A286CCA4D76D3D7A6A390A91FF2CECA",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.476.Data.0",
+    "key": "8096F92642138CA57CF7C6AE69F256A4",
+    "text": "A poem, Clarissa. One I remembered, just now. I read it a long time ago, but it appears it has stuck with me."
+  },
+  {
+    "path": "Exports.476.Data.5.Value.0.Value.5",
+    "key": "863B6BB5441BBB1A986A099C8A9A89DC",
+    "text": "Why?"
+  },
+  {
+    "path": "Exports.476.Data.5.Value.1.Value.5",
+    "key": "A52B74214A28787B8BEC17A88B87F128",
+    "text": "What made you think of it?"
+  },
+  {
+    "path": "Exports.477.Data.0",
+    "key": "5FF6AEC745A1C3AC5976AF8E041B8CC6",
+    "text": "Hah - forgive me, Clarissa! I just remembered something. A poem. I read it a long, long time ago - but it just came back to me. Just like that."
+  },
+  {
+    "path": "Exports.477.Data.5.Value.0.Value.5",
+    "key": "3C3BB5D04745610338A948809CDC5A14",
+    "text": "Why?"
+  },
+  {
+    "path": "Exports.477.Data.5.Value.1.Value.5",
+    "key": "E5B376534FE077F636D7888ED1BC5161",
+    "text": "What made you think of it?"
+  },
+  {
+    "path": "Exports.478.Data.0",
+    "key": "9F20283141FA12F297E4F98670EDFF1D",
+    "text": "If you say so, Clarissa. And I'll do all in my power to help you. How does that sound?"
+  },
+  {
+    "path": "Exports.478.Data.6.Value.0.Value.5",
+    "key": "4CA61A814BE50626FBCEDA84DB5E3A9B",
+    "text": "Sounds good. Thanks, Grandpa. "
+  },
+  {
+    "path": "Exports.478.Data.6.Value.1.Value.5",
+    "key": "C06D4B9C4368A9DA18970096D26672E9",
+    "text": "That's perfect. I love you, Grandpa."
+  },
+  {
+    "path": "Exports.478.Data.6.Value.2.Value.5",
+    "key": "279D3A3F48ED117D461AFC8D83249043",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.479.Data.0",
+    "key": "CAD576CA44391492D57145A19EB5B7F5",
+    "text": "It's difficult, I'll tell you that much. Maybe you'll figure it out, though. You've got a good head on your shoulders. "
+  },
+  {
+    "path": "Exports.479.Data.5.Value.0.Value.5",
+    "key": "7D62A750457C271A2FC3EBB14D3CDE33",
+    "text": "Thanks, Grandpa! You too. Even if it's big."
+  },
+  {
+    "path": "Exports.479.Data.5.Value.1.Value.5",
+    "key": "EF6F8F7A4BD1EEB8991A17BE4D34F6B0",
+    "text": "Thanks, Grandpa. I love you."
+  },
+  {
+    "path": "Exports.479.Data.5.Value.2.Value.5",
+    "key": "5E3A2DD14B0A8DA812FE669EEAA9402D",
+    "text": "Will you help me, Grandpa?"
+  },
+  {
+    "path": "Exports.480.Data.0",
+    "key": "B4C6D1A3455CFCFAA9146E870B091159",
+    "text": "Hah! Well if it isn't, it certainly seems like it. One day you'll wake up, and you'll be all grown. Just like your grandfather!"
+  },
+  {
+    "path": "Exports.480.Data.6.Value.0.Value.5",
+    "key": "47842D314C950FB052CF328C89D10377",
+    "text": "[Nod] I'll need to become really big. It's an important thing to be."
+  },
+  {
+    "path": "Exports.480.Data.6.Value.1.Value.5",
+    "key": "46B12E9B4DB98054EAEF51BA60C93927",
+    "text": "Aw. Do I have to?"
+  },
+  {
+    "path": "Exports.480.Data.6.Value.2.Value.5",
+    "key": "B6C9B9734DC5224811A8679C0C5E2617",
+    "text": "Will I be old like you, too?"
+  },
+  {
+    "path": "Exports.481.Data.0",
+    "key": "501B91DD405B305BD63DB59BEFA98DBA",
+    "text": "I do, but not as much as I'd like. Or you'd like, for that matter."
+  },
+  {
+    "path": "Exports.481.Data.5.Value.0.Value.5",
+    "key": "C7A6F9454D769E63C71622BE519257C8",
+    "text": "I can help you with that! I'll come visit more often. Deal?"
+  },
+  {
+    "path": "Exports.481.Data.5.Value.1.Value.5",
+    "key": "2F8B86244F5F8946959F8597BF81A64F",
+    "text": "Is it hard?"
+  },
+  {
+    "path": "Exports.482.Data.0",
+    "key": "29351D63466F25A569294499535D9FDC",
+    "text": "I'm not sure, Clarissa - maybe it's sitting here with you, time and people passing by. Tell me - what will you be when you're older? Who do you want to be?"
+  },
+  {
+    "path": "Exports.482.Data.6.Value.0.Value.5",
+    "key": "498BA531441F1311DB99E1880E7FFE86",
+    "text": "(GAIN TRAIT: CUNNING) I want to be really smart. Really clever."
+  },
+  {
+    "path": "Exports.482.Data.6.Value.1.Value.5",
+    "key": "6FFECF8F4E6AF26D447F36BF9C1F8D30",
+    "text": "(GAIN TRAIT: AMBITIOUS) I want to be like you, Grandpa. I'll be a big boss."
+  },
+  {
+    "path": "Exports.482.Data.6.Value.2.Value.5",
+    "key": "A23F0B4C4FC5E3619EAE82A8EC3D74DF",
+    "text": "(GAIN TRAIT: POWERFUL) I want people to listen to me!"
+  },
+  {
+    "path": "Exports.483.Data.0",
+    "key": "CFDD7E314D76D09C88C6539B7765E723",
+    "text": "Of course, Clarissa. I'll do everything in my power to help you. How does that sound?"
+  },
+  {
+    "path": "Exports.483.Data.6.Value.0.Value.5",
+    "key": "88624B9E4F16CDD2A22C47BB0481B0D6",
+    "text": "That sounds really good. Thanks, Grandpa. "
+  },
+  {
+    "path": "Exports.483.Data.6.Value.1.Value.5",
+    "key": "9115391A49FBF78C7C0F4CA637E671A5",
+    "text": "That's perfect. I love you, Grandpa."
+  },
+  {
+    "path": "Exports.483.Data.6.Value.2.Value.5",
+    "key": "F7FFD89D47408224BD6ADF9485B22F8F",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.484.Data.0",
+    "key": "1E5C653C44A3C9184E602C98EB785A8B",
+    "text": "No, Clarissa bella. Thank you. Now come on - I think it's time for dinner. Shall we?"
+  },
+  {
+    "path": "Exports.484.Data.6.Value.0.Value.5",
+    "key": "AE812F164ADBB4493E4256ACC042DD28",
+    "text": "Okay."
+  },
+  {
+    "path": "Exports.484.Data.6.Value.1.Value.5",
+    "key": "A8491AEE429990CE5D31F7A8AB88F573",
+    "text": "[Shrug one last time]"
+  },
+  {
+    "path": "Exports.485.Data.0",
+    "key": "6AFEE1514B07F9DE9B8F1B9A59EFF968",
+    "text": "Oh, Clarissa bella. You may be shy, but you're the sweetest grandchild I could ever have hoped for. Now - if I'm not mistaken, it's dinnertime. Shall we?"
+  },
+  {
+    "path": "Exports.485.Data.6.Value.0.Value.5",
+    "key": "5CF89E834617B60048CB61B0DB831DAF",
+    "text": "Okay."
+  },
+  {
+    "path": "Exports.485.Data.6.Value.1.Value.5",
+    "key": "0D99A1E9489956EA648A35AF5F6F9B9B",
+    "text": "[Shrug one last time]"
+  },
+  {
+    "path": "Exports.486.Data.0",
+    "key": "1DB744474544CDBC52696580ABD58B68",
+    "text": "I love you too, Clarissa bella. I couldn't ask for a better grandchild. Now, come on. I think it's time for dinner. Shall we?"
+  },
+  {
+    "path": "Exports.486.Data.6.Value.0.Value.5",
+    "key": "5B0A489342BAC75EDFB09097EA1DDF24",
+    "text": "Okay."
+  },
+  {
+    "path": "Exports.486.Data.6.Value.1.Value.5",
+    "key": "AECBA19148DDA27D70413FA4A1260C51",
+    "text": "[Shrug one last time]"
+  },
+  {
+    "path": "Exports.487.Data.0",
+    "key": "03A148164FFE6558E7BAD4AC5FE7DAC2",
+    "text": "Well of course I do! That's what family does - what family should do. I know Carlo works a lot. Is he not home often? Does he tuck you in at night?"
+  },
+  {
+    "path": "Exports.487.Data.5.Value.0.Value.5",
+    "key": "E14A5C10486A608B893FA8A4C4260830",
+    "text": "[Shake your head]"
+  },
+  {
+    "path": "Exports.487.Data.5.Value.1.Value.5",
+    "key": "CE852F9B46781526BBC3EA926467F348",
+    "text": "...Grandpa, can I come live with you?"
+  },
+  {
+    "path": "Exports.488.Data.0",
+    "key": "9F8C524747BBAE41BB0C66A673977165",
+    "text": "Oh, Clarissa, you and your father are more alike than I thought! How is Carlo? Is he home enough? Does he still tuck you in at night?"
+  },
+  {
+    "path": "Exports.488.Data.5.Value.0.Value.5",
+    "key": "2D76D73E405C0DF429AB559BD54FC810",
+    "text": "[Shake your head]"
+  },
+  {
+    "path": "Exports.488.Data.5.Value.1.Value.5",
+    "key": "A8EAA5464C95CE5A6A73B795FD86F661",
+    "text": "...Grandpa, can I come live with you?"
+  },
+  {
+    "path": "Exports.489.Data.0",
+    "key": "97761FC342DB78F0AB33D08848F95B35",
+    "text": "Oh, I'm sorry Clarissa. Grandpa was in a different place for a moment - in a sun chair somewhere, resting his tired old legs."
+  },
+  {
+    "path": "Exports.489.Data.5.Value.0.Value.5",
+    "key": "802ED0CE438EF235D38ECDAD1D9FB903",
+    "text": "I wanted to show you the goosers!"
+  },
+  {
+    "path": "Exports.489.Data.5.Value.1.Value.5",
+    "key": "3959FFCD4FA71FD768A98DBE3BC1D41F",
+    "text": "There's sun here, too! And a bench!"
+  },
+  {
+    "path": "Exports.489.Data.5.Value.2.Value.5",
+    "key": "4D841CEB454D75E1EFDAA984CE664B82",
+    "text": "I asked what you were thinking of, Grandpa!"
+  },
+  {
+    "path": "Exports.490.Data.0",
+    "key": "AFB5312E411564F9E4ED0C84B867A5BA",
+    "text": "No, Clarissa bella. Thank you. Now, come on. I think it's time for dinner. Shall we?"
+  },
+  {
+    "path": "Exports.490.Data.6.Value.0.Value.5",
+    "key": "59B67DF849892DAC385C72826C764F30",
+    "text": "Okay."
+  },
+  {
+    "path": "Exports.490.Data.6.Value.1.Value.5",
+    "key": "95A074C1404D7A37769B15ADDE722D09",
+    "text": "[Shrug one last time]"
+  },
+  {
+    "path": "Exports.491.Data.0",
+    "key": "6AFEE1514B07F9DE9B8F1B9A59EFF968",
+    "text": "Oh, Clarissa bella. You may be shy, but you're the sweetest grandchild I could ever have hoped for. Now - if I'm not mistaken, it's dinnertime. Shall we?"
+  },
+  {
+    "path": "Exports.491.Data.6.Value.0.Value.5",
+    "key": "56F27AF44CC70064D181809D55517D33",
+    "text": "Okay."
+  },
+  {
+    "path": "Exports.491.Data.6.Value.1.Value.5",
+    "key": "B7558B2D4FB9AAFD11981FA839B2469F",
+    "text": "[Shrug one last time]"
+  },
+  {
+    "path": "Exports.492.Data.0",
+    "key": "908D103C40BF4901B18C688B44FB5CAD",
+    "text": "I love you too, Clarissa bella. I couldn't ask for a better grandchild. Now come on, bella. I think it's time for dinner. Shall we?"
+  },
+  {
+    "path": "Exports.492.Data.6.Value.0.Value.5",
+    "key": "4B2C5001481C2AFEE117858122F3FFF7",
+    "text": "Okay."
+  },
+  {
+    "path": "Exports.492.Data.6.Value.1.Value.5",
+    "key": "76814F2C49EBE2F0FED67FBB15E21D32",
+    "text": "[Shrug one last time]"
+  },
+  {
+    "path": "Exports.493.Data.0",
+    "key": "38F50E11435801E393FD828A5F5056E6",
+    "text": "Hah! See? You're already more clever than your old Grandpa."
+  },
+  {
+    "path": "Exports.493.Data.6.Value.0.Value.5",
+    "key": "D83C65704B88CF8DBFFB5698DE9D241A",
+    "text": "Just a little bit. Don't worry. I'll help you out, Grandpa."
+  },
+  {
+    "path": "Exports.493.Data.6.Value.1.Value.5",
+    "key": "673345F5414C2A648395E9B91188D652",
+    "text": "I think you're smart in a \"grandpa\" kind of way. I want to be smart like that, too."
+  },
+  {
+    "path": "Exports.493.Data.6.Value.2.Value.5",
+    "key": "28E90A854F3760E9C9A156A9448612CD",
+    "text": "[Shrug] We don't know unless we have numbers to prove it."
+  },
+  {
+    "path": "Exports.494.Data.0",
+    "key": "1022DCD64ACC0DC0529207BA5621C711",
+    "text": "Do you, now? What if you go too fast and fly off the side?"
+  },
+  {
+    "path": "Exports.494.Data.5.Value.0.Value.5",
+    "key": "8AF36AF44BDC93C7BE85AA8C715AF41F",
+    "text": "[Thoughtfully] You're right. I'll need to slow down, sometimes. Think things over."
+  },
+  {
+    "path": "Exports.494.Data.5.Value.1.Value.5",
+    "key": "A738F9D245A875CB7C4D009E3544935A",
+    "text": "[Shrug] At least I'm going fast."
+  },
+  {
+    "path": "Exports.494.Data.5.Value.2.Value.5",
+    "key": "B5D0541C43DFDACFED4E61AF5F7EF4E5",
+    "text": "Simple: I'll make wings. I'll fly off the side, and even further! Even past the wall!"
+  },
+  {
+    "path": "Exports.495.Data.0",
+    "key": "DB0407FF4CB13D04F4CF29AF9BB190DD",
+    "text": "Well, whatever you do, Clarissa, don't forget that being smart isn't everything. Knowing things and being right is no substitute for being kind. Your father— well, some people tend to forget that."
+  },
+  {
+    "path": "Exports.495.Data.6.Value.0.Value.5",
+    "key": "9F18C106423D80C7AEF17D8DA8DFE7DB",
+    "text": "I won't. Thanks for always teaching me things, Grandpa."
+  },
+  {
+    "path": "Exports.495.Data.6.Value.1.Value.5",
+    "key": "5E53C8DD4A196AA6F434498A970107D8",
+    "text": "I won't. Hey, Grandpa? I love you."
+  },
+  {
+    "path": "Exports.495.Data.6.Value.2.Value.5",
+    "key": "E8B070BE4DDD6EDDFE39A28DD93525F1",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.496.Data.0",
+    "key": "A0C8D53142632C360F3DB3BE2B6127B1",
+    "text": "No, Clarissa bella. Thank you. Now come on. I think it's time for dinner. Shall we?"
+  },
+  {
+    "path": "Exports.496.Data.6.Value.0.Value.5",
+    "key": "9EDA667B4F142AFA338610BB06F2BDFE",
+    "text": "Okay."
+  },
+  {
+    "path": "Exports.496.Data.6.Value.1.Value.5",
+    "key": "F63D50494FEAB769F92644839B500B1A",
+    "text": "[Shrug one last time]"
+  },
+  {
+    "path": "Exports.497.Data.0",
+    "key": "1B5C2C3248AF9A644545F7B13F311020",
+    "text": "Oh, Clarissa bella. You may be shy, but you're the sweetest grandchild I could have ever hoped for. Now, if I'm not mistaken, it's dinnertime. Shall we?"
+  },
+  {
+    "path": "Exports.497.Data.6.Value.0.Value.5",
+    "key": "A349B2B4484C025114C14C929915C436",
+    "text": "Okay."
+  },
+  {
+    "path": "Exports.497.Data.6.Value.1.Value.5",
+    "key": "B4A0FE3E44B38CCF2BBF91BAC8EAF59A",
+    "text": "[Shrug one last time]"
+  },
+  {
+    "path": "Exports.498.Data.0",
+    "key": "D1C733254DAB9232BE7B35BB15DCA22D",
+    "text": "No, Clarissa. But it feels like it. I remember you being a little baby like it was just the other day. Look at you now!"
+  },
+  {
+    "path": "Exports.498.Data.5.Value.0.Value.5",
+    "key": "24FE2CFB4D322E8EA6BA8490F56F9FBC",
+    "text": "Yes. I'm strong and big now."
+  },
+  {
+    "path": "Exports.498.Data.5.Value.1.Value.5",
+    "key": "2CE86E5C45E189DC4208B2AA98825FED",
+    "text": "No! I'm still very small."
+  },
+  {
+    "path": "Exports.498.Data.5.Value.2.Value.5",
+    "key": "8135E7CB4A2B3CA25DCDBCAD60B79CBC",
+    "text": "I'm baby! You're old!"
+  },
+  {
+    "path": "Exports.499.Data.0",
+    "key": "F9EE45064D4A939BE528528F8653DB4E",
+    "text": "I love you too, Clarissa bella. I couldn't ask for a better grandchild. Now, come on. I think it's time for dinner. Shall we?"
+  },
+  {
+    "path": "Exports.499.Data.6.Value.0.Value.5",
+    "key": "8E45BF014984695A43CAA39C43CEF757",
+    "text": "Okay."
+  },
+  {
+    "path": "Exports.499.Data.6.Value.1.Value.5",
+    "key": "8EEDBED948E0FEFB010A75883EDEBF91",
+    "text": "[Shrug one last time]"
+  },
+  {
+    "path": "Exports.500.Data.0",
+    "key": "7F7D31F4456E942E10AEA6B9AAC51A9E",
+    "text": "I think that's just it, Clarissa. A clever person knows that they don't know everything. The more you learn, the less you know."
+  },
+  {
+    "path": "Exports.500.Data.5.Value.0.Value.5",
+    "key": "8996827A46DC0D8967D1639E1BB7ABF1",
+    "text": "[Nodding thoughtfully] Ah, yes. I'll bear that in mind. "
+  },
+  {
+    "path": "Exports.500.Data.5.Value.1.Value.5",
+    "key": "E3EC7A114E3BC7321B60F792CF7231F2",
+    "text": "Oh. In that case, I'll try to never feel smart!"
+  },
+  {
+    "path": "Exports.500.Data.5.Value.2.Value.5",
+    "key": "739BB9F04D9DE5ED81F885BB480675D5",
+    "text": "[Tap your nose] I'll have to be careful not to know too much, then."
+  },
+  {
+    "path": "Exports.501.Data.0",
+    "key": "C0DE36924C57989BFB1F0AB9593A07E7",
+    "text": "Like me? Hah! Are you sure about that? It's a lot of work, being me. Wouldn't you prefer to just have fun?"
+  },
+  {
+    "path": "Exports.501.Data.6.Value.0.Value.5",
+    "key": "9B5C14ED4765864FAFB3DBAA645C48D2",
+    "text": "No, I'm sure. I can do it."
+  },
+  {
+    "path": "Exports.501.Data.6.Value.1.Value.5",
+    "key": "7CB5F03C4331DDFC0666A7BAC9D52728",
+    "text": "You don't have fun, Grandpa?"
+  },
+  {
+    "path": "Exports.501.Data.6.Value.2.Value.5",
+    "key": "5CCC184D474E98827C4A7BBBA99C5FC4",
+    "text": "Can I do both?"
+  },
+  {
+    "path": "Exports.502.Data.0",
+    "key": "006E27524E752F01DC7C2FB116788634",
+    "text": "Hah! Yes, you are. You'll become even bigger and stronger, too."
+  },
+  {
+    "path": "Exports.502.Data.6.Value.0.Value.5",
+    "key": "3B4A4A784D9184792300C0B8F88742AD",
+    "text": "Can I get smaller and stronger?"
+  },
+  {
+    "path": "Exports.502.Data.6.Value.1.Value.5",
+    "key": "7CC9EBA143E1A017E15D0491F6005883",
+    "text": "...Aw. Do I have to?"
+  },
+  {
+    "path": "Exports.502.Data.6.Value.2.Value.5",
+    "key": "62191E9848D8C857A7E235880659C5C8",
+    "text": "Will I get older, too?"
+  },
+  {
+    "path": "Exports.503.Data.0",
+    "key": "3FCE066C49AB11076B4F1FADA4CE41EE",
+    "text": "Not for long! Give it a few years, and you'll be as big and strong as me."
+  },
+  {
+    "path": "Exports.503.Data.6.Value.0.Value.5",
+    "key": "A900695D409FB1DA7CADF9884E5C2B26",
+    "text": "Aw. Do I have to?"
+  },
+  {
+    "path": "Exports.503.Data.6.Value.1.Value.5",
+    "key": "A75146B8494DBDD0EAE3768357171D3F",
+    "text": "I don't want to be big! Can I be small and strong?"
+  },
+  {
+    "path": "Exports.503.Data.6.Value.2.Value.5",
+    "key": "CD7BE0EE402D48CFE305D699ACE7400D",
+    "text": "Will I be old too?"
+  },
+  {
+    "path": "Exports.504.Data.0",
+    "key": "1E0DABDF4E2DAC9BD457BD8FA81294CE",
+    "text": "Yes, I'm very old! Old, and only getting older. But you'll get older too, bella."
+  },
+  {
+    "path": "Exports.504.Data.6.Value.0.Value.5",
+    "key": "F265099A457C4A91B62BBB8CACCB9093",
+    "text": "Will I be big and strong too?"
+  },
+  {
+    "path": "Exports.504.Data.6.Value.1.Value.5",
+    "key": "AF705DA1427C6D65F6885D947DC0D27E",
+    "text": "Aw! Do I have to be old?"
+  },
+  {
+    "path": "Exports.504.Data.6.Value.2.Value.5",
+    "key": "F98EDE8B44AD2F55496B57B8B48A7310",
+    "text": "I can't WAIT to be old. I'll get to do everything I want."
+  },
+  {
+    "path": "Exports.505.Data.0",
+    "key": "908A5ACB46D22FC2B2FBA9B2C4419F09",
+    "text": "Ah, if you're strong, it doesn't matter how big you are. A lot of the strongest people I know are the smallest."
+  },
+  {
+    "path": "Exports.505.Data.6.Value.0.Value.5",
+    "key": "ADE22566481B5275476198B381EA5ACF",
+    "text": "Like who?"
+  },
+  {
+    "path": "Exports.505.Data.6.Value.1.Value.5",
+    "key": "B371C60046FDBA0D4210149F97831331",
+    "text": "That's not true!"
+  },
+  {
+    "path": "Exports.505.Data.6.Value.2.Value.5",
+    "key": "9A46F576411B06CA45963FB3B5BDA0E5",
+    "text": "[Nod] Because they're small, and they can run between the legs of the big people."
+  },
+  {
+    "path": "Exports.506.Data.0",
+    "key": "E2A66D944288D56054FFE080F6D66435",
+    "text": "Like you! And many others, too. Of course, you don't know them."
+  },
+  {
+    "path": "Exports.506.Data.6.Value.0.Value.5",
+    "key": "F57E6AB54BEFB8884A96A3B4EDCEB4F5",
+    "text": "Are they as cool as me?"
+  },
+  {
+    "path": "Exports.506.Data.6.Value.1.Value.5",
+    "key": "2BC442C145109710F57699A95B2D70AC",
+    "text": "Are they bigger and stronger than me, though?"
+  },
+  {
+    "path": "Exports.507.Data.0",
+    "key": "CE6C9DC94C2418E8198BF0B498D32A56",
+    "text": "No? Then how come you're so strong, even when you're so small?"
+  },
+  {
+    "path": "Exports.507.Data.6.Value.0.Value.5",
+    "key": "DFB44834433E7101906AAC8087AEC03F",
+    "text": "[Whisper] I have superpowers. Shh! Don't tell anyone."
+  },
+  {
+    "path": "Exports.507.Data.6.Value.1.Value.5",
+    "key": "88E4528944CD161D51E65E8D429365ED",
+    "text": "I'm not strong!"
+  },
+  {
+    "path": "Exports.508.Data.0",
+    "key": "CA5DB3AD4A50D5CD199E8A94C475B426",
+    "text": "Once or twice. You were such a little thing back then. About the size of a geezer! And almost as fast."
+  },
+  {
+    "path": "Exports.508.Data.5.Value.0.Value.5",
+    "key": "670741DB4C4E5ABD2B6AECB17FB90B98",
+    "text": "I remember chasing them!"
+  },
+  {
+    "path": "Exports.508.Data.5.Value.1.Value.5",
+    "key": "87145D4A41DAD43A02C279B45A6AEB36",
+    "text": "I still don't remember, Grandpa."
+  },
+  {
+    "path": "Exports.508.Data.5.Value.2.Value.5",
+    "key": "EF713FE646A45F35E17B3DB72E9F5A82",
+    "text": "And then what happened? Tell me, Grandpa!"
+  },
+  {
+    "path": "Exports.509.Data.0",
+    "key": "0F6A2FE14ED57F76C70823A29D3E8E0F",
+    "text": "Hah! Is that right? No one told me! "
+  },
+  {
+    "path": "Exports.509.Data.6.Value.0.Value.5",
+    "key": "8BFE1F7E43344C9A5D9C448419DB0125",
+    "text": "I'm telling you now! You can do whatever you want when you're old."
+  },
+  {
+    "path": "Exports.509.Data.6.Value.1.Value.5",
+    "key": "25D762DC4B6209E5957A2DAF73E24553",
+    "text": "Isn't it true?"
+  },
+  {
+    "path": "Exports.509.Data.6.Value.2.Value.5",
+    "key": "A7193C994557D3E01D26DAB9011F07DB",
+    "text": "You can't fool me, Grandpa. I know you get to do whatever you want!"
+  },
+  {
+    "path": "Exports.510.Data.0",
+    "key": "80BE21FC42CA1F7005F62680A71BD8A1",
+    "text": "I'll bear that in mind, Clarissa. You'll have to show me when you're older!"
+  },
+  {
+    "path": "Exports.510.Data.5.Value.0.Value.5",
+    "key": "2FCADFD448E24151AD3620A0BDEB4B40",
+    "text": "Don't worry, I'll show you!"
+  },
+  {
+    "path": "Exports.510.Data.5.Value.1.Value.5",
+    "key": "C1527FB3442C1763956A59A69C2AB1D0",
+    "text": "Boo! Boo to growing old!"
+  },
+  {
+    "path": "Exports.511.Data.0",
+    "key": "0E7FB0FD44C8770C6F599BB7BA98BC28",
+    "text": "Hah! In a way, yes! The point is, Clarissa, that how big you are doesn't matter.  "
+  },
+  {
+    "path": "Exports.511.Data.6.Value.0.Value.5",
+    "key": "15E9A82D470B60F48C9DF799F7D8ECC4",
+    "text": "That's easy for you to say! You're HUGE, Grandpa."
+  },
+  {
+    "path": "Exports.511.Data.6.Value.1.Value.5",
+    "key": "4918A87F4361FC97E275C1AA31D5AF56",
+    "text": "Okay. I still wanna be small."
+  },
+  {
+    "path": "Exports.511.Data.6.Value.2.Value.5",
+    "key": "75249CDA44EFFF2C28A6FDA82FBE7688",
+    "text": "Not for me, because I'm gonna be big."
+  },
+  {
+    "path": "Exports.512.Data.0",
+    "key": "09ACBB214FF3834A4230BEAC08B76ECD",
+    "text": "Well, well...I'd say you're halfway there already!"
+  },
+  {
+    "path": "Exports.512.Data.6.Value.0.Value.5",
+    "key": "A6D4A0384CF06FA0DE5AC79B8938EA3C",
+    "text": "There's no halfway, Grandpa. You can never get smart enough!"
+  },
+  {
+    "path": "Exports.512.Data.6.Value.1.Value.5",
+    "key": "8535ED50424838907EEF9DB31DACF358",
+    "text": "I'm on the final lap! I have to go faster!"
+  },
+  {
+    "path": "Exports.512.Data.6.Value.2.Value.5",
+    "key": "F93F40E74CE54676077FF4A04AB22E9D",
+    "text": "Am I? I don't feel very smart."
+  },
+  {
+    "path": "Exports.513.Data.0",
+    "key": "BBA706014B0212599DA67EA53F4437B7",
+    "text": "Your secret is safe with me, Clarissa."
+  },
+  {
+    "path": "Exports.513.Data.6.Value.0.Value.5",
+    "key": "44712D04450E5BC519098DBB7D97147D",
+    "text": "Good."
+  },
+  {
+    "path": "Exports.513.Data.6.Value.1.Value.5",
+    "key": "5FB248D24491DCDB22F024B0F7268703",
+    "text": "I know it is, Grandpa."
+  },
+  {
+    "path": "Exports.514.Data.0",
+    "key": "35B0E7924726248F183C6D971C0E1EAD",
+    "text": "You're stronger than you think, Clarissa. You'll have to be."
+  },
+  {
+    "path": "Exports.514.Data.6.Value.0.Value.5",
+    "key": "9E680C5B432D8EAF771491B2CDA4FBDF",
+    "text": "[Nod thoughtfully]"
+  },
+  {
+    "path": "Exports.514.Data.6.Value.1.Value.5",
+    "key": "C10DFA6E45E3AA72049A6C980C2A4921",
+    "text": "[Shrug less thoughtfully]"
+  },
+  {
+    "path": "Exports.515.Data.0",
+    "key": "F43C334B451F0FFFB43555A3D2741A35",
+    "text": "I suppose I am! But you will be, too. And you must never lose sight of that, bella. Some people will be smaller than you, and you might be able to help them."
+  },
+  {
+    "path": "Exports.515.Data.6.Value.0.Value.5",
+    "key": "7D7EAC1B492E90618B2DBAB8270CBB93",
+    "text": "Do you think I can I do that?"
+  },
+  {
+    "path": "Exports.515.Data.6.Value.1.Value.5",
+    "key": "55E8330F4BE3BA81E3967EA7D99CD3E8",
+    "text": "Alright, then. I'll be big and strong so I can help everyone."
+  },
+  {
+    "path": "Exports.516.Data.0",
+    "key": "4584B3924D8AA53007CD28A9FB636FDF",
+    "text": "No? I know Carlo works a lot. Is he not home often? Does he tuck you in at night?"
+  },
+  {
+    "path": "Exports.516.Data.5.Value.0.Value.5",
+    "key": "17E591F04BE8A6378DF4189AA3423175",
+    "text": "[Shake your head]"
+  },
+  {
+    "path": "Exports.516.Data.5.Value.1.Value.5",
+    "key": "171359FF41007CD32237AAB586470F31",
+    "text": "...Grandpa, can I come live with you?"
+  },
+  {
+    "path": "Exports.516.Data.5.Value.2.Value.5",
+    "key": "994A95E04342071653F727AC095BD795",
+    "text": "No, he's very busy. He's always out."
+  },
+  {
+    "path": "Exports.517.Data.0",
+    "key": "503B9668440B4CAFBCF95EAAEAAD54AE",
+    "text": "No? Well then, I think Grandpa is going to have to have a word with your father."
+  },
+  {
+    "path": "Exports.517.Data.6.Value.0.Value.5",
+    "key": "A9250BB94AA79551EC3B239CAEBE238C",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.517.Data.6.Value.1.Value.5",
+    "key": "FEC2D66C4E8C112F1D63E081A761D7F9",
+    "text": "It's okay. You don't have to!"
+  },
+  {
+    "path": "Exports.517.Data.6.Value.2.Value.5",
+    "key": "8F0D7A9944EE627C085C0680F8DE6980",
+    "text": "No! You can just have more words with me instead."
+  },
+  {
+    "path": "Exports.517.Data.6.Value.3.Value.5",
+    "key": "46E72B704300A83648BCFF96267063AD",
+    "text": "[Nod]"
+  },
+  {
+    "path": "Exports.518.Data.0",
+    "key": "24D7CD314DE1168A12F8B697D2176D90",
+    "text": "Me? Thinking of something? No, no - I was just enjoying the weather, is all. I don't go out for walks as much as I used to, you see."
+  },
+  {
+    "path": "Exports.518.Data.5.Value.0.Value.5",
+    "key": "6DF56C4A44CDB8BE2C7C2DA7800E9AAC",
+    "text": "I was thinking of the goosers. Did you see them, Grandpa?"
+  },
+  {
+    "path": "Exports.518.Data.5.Value.1.Value.5",
+    "key": "05F54CCE4430B821F4B9EB983D3DF3A1",
+    "text": "Did you use to walk around here?"
+  },
+  {
+    "path": "Exports.518.Data.5.Value.2.Value.5",
+    "key": "C8CE4C044EA1ED834C1C2AA6688B4BAC",
+    "text": "...I think you were thinking of something. Tell me already!"
+  },
+  {
+    "path": "Exports.519.Data.0",
+    "key": "A04B11D54DA9018D18D906B90DCB9B9F",
+    "text": "With me? Bella, you practically do!"
+  },
+  {
+    "path": "Exports.519.Data.6.Value.0.Value.5",
+    "key": "B0D902274F1872C6AEAE3CA980E706C1",
+    "text": "But I want to stay at a house with you! "
+  },
+  {
+    "path": "Exports.519.Data.6.Value.1.Value.5",
+    "key": "C3237223467CE6B574D9CC85E068B952",
+    "text": "Then how come I don't see you every day?"
+  },
+  {
+    "path": "Exports.519.Data.6.Value.2.Value.5",
+    "key": "BE86986B496DAFE25265F895E4D5AA21",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.520.Data.0",
+    "key": "1BF550864FC5A2B3A451B19C46355E9D",
+    "text": "Family is everything, Clarissa. It's important you spend time with your father, too. You can come stay with me a little longer during the summer breaks. How does that sound?"
+  },
+  {
+    "path": "Exports.520.Data.6.Value.0.Value.5",
+    "key": "59D66757447A59E8AC92509A4AEC7955",
+    "text": "Sounds good. Thanks, Grandpa."
+  },
+  {
+    "path": "Exports.520.Data.6.Value.1.Value.5",
+    "key": "EB42EC7A44BC230692C9C58701EE2C8C",
+    "text": "Good. Hey, Grandpa? I love you."
+  },
+  {
+    "path": "Exports.520.Data.6.Value.2.Value.5",
+    "key": "1863915B49ED76D1C21B3F82BE5BB2C7",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.521.Data.0",
+    "key": "F7DC5135419DD2D2A12C82974BF1E62A",
+    "text": "I don't know, I suppose I'm busy, too. It's not fair, I know. I'll set more time aside for you, okay? How does that sound?"
+  },
+  {
+    "path": "Exports.521.Data.6.Value.0.Value.5",
+    "key": "601E4DA14A1B25E9888A4B9DFBD03351",
+    "text": "Sounds good. Thanks, Grandpa."
+  },
+  {
+    "path": "Exports.521.Data.6.Value.1.Value.5",
+    "key": "AE7B2B0D4F8CC8C7F24DEFB0C7C283AF",
+    "text": "Perfect. I love you, Grandpa."
+  },
+  {
+    "path": "Exports.521.Data.6.Value.2.Value.5",
+    "key": "99FBD8B84520A65E965A8993671FE182",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.522.Data.0",
+    "key": "3353561842C8D823A058868362E6D594",
+    "text": "I suppose your father is very busy. He shouldn't be - he, uh, works too much. I'll tell him to spend more time with you. How does that sound?"
+  },
+  {
+    "path": "Exports.522.Data.6.Value.0.Value.5",
+    "key": "14930AA04870B6C41801D7A711282B9A",
+    "text": "I'd rather spend time with you, Grandpa."
+  },
+  {
+    "path": "Exports.522.Data.6.Value.1.Value.5",
+    "key": "17169D004B2ECA368F0012B17D055765",
+    "text": "He's not the only one who works a lot, Grandpa..."
+  },
+  {
+    "path": "Exports.522.Data.6.Value.2.Value.5",
+    "key": "B4178CEE408238E2A0AEE58CC3E11E00",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.523.Data.0",
+    "key": "FA3C64724767CF5DE6EBFAB1D01A823D",
+    "text": "To listen? Do you feel like people don't listen to you?"
+  },
+  {
+    "path": "Exports.523.Data.6.Value.0.Value.5",
+    "key": "1E2CCC674FD706C9C4C99180183A19C0",
+    "text": "You do."
+  },
+  {
+    "path": "Exports.523.Data.6.Value.1.Value.5",
+    "key": "9F15E3564576227F1A721F89585EDABB",
+    "text": "Some do. But not enough of them."
+  },
+  {
+    "path": "Exports.523.Data.6.Value.2.Value.5",
+    "key": "12AFFE9C41DA1EC7D654E689087CD244",
+    "text": "Dad doesn't. Not always."
+  },
+  {
+    "path": "Exports.524.Data.0",
+    "key": "A45EE9BD411215355FF6A8831646E4A2",
+    "text": "Don't worry, bella. I won't tell him we talked about it. How does that sound?"
+  },
+  {
+    "path": "Exports.524.Data.6.Value.0.Value.5",
+    "key": "332147AC46795F1FFB2B18BDC380952B",
+    "text": "That sounds okay. Thanks, Grandpa."
+  },
+  {
+    "path": "Exports.524.Data.6.Value.1.Value.5",
+    "key": "B70BDE4842F42ED53319B0891E67F8E4",
+    "text": "Good. Hey, Grandpa? I love you."
+  },
+  {
+    "path": "Exports.524.Data.6.Value.2.Value.5",
+    "key": "7554BAF24F64D2A87EDAD880C7A0456E",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.525.Data.0",
+    "key": "B637607645860B75AE2DCCA0B55055B0",
+    "text": "Good! Good, good. Growing up can be tough. It's easy to lose track of that imagination along the way."
+  },
+  {
+    "path": "Exports.525.Data.5.Value.0.Value.5",
+    "key": "D293732A4D13DDE04F7102984130CAC9",
+    "text": "We'll be okay, Grandpa."
+  },
+  {
+    "path": "Exports.525.Data.5.Value.1.Value.5",
+    "key": "732BD7224021BD5FE7B1F68022799270",
+    "text": "I'm Clarissa Bloodworth, and I'm not losing track of that!"
+  },
+  {
+    "path": "Exports.526.Data.0",
+    "key": "1DF232554D47E7286B8A979085AC6130",
+    "text": "What happened?"
+  },
+  {
+    "path": "Exports.526.Data.6.Value.0.Value.5",
+    "key": "C3C6E4FE4BB252D5E90E5780666D01CF",
+    "text": "...I punched her."
+  },
+  {
+    "path": "Exports.526.Data.6.Value.1.Value.5",
+    "key": "0B02E30347EE4DF9D1A36DA49A71C27E",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.527.Data.0",
+    "key": "F8036E5C4FD931E4D2894D96134E81A4",
+    "text": "I suppose we'll see. I think you'll be big and strong."
+  },
+  {
+    "path": "Exports.527.Data.5.Value.0.Value.5",
+    "key": "EFE022C34D1C27798434DF97227D7D74",
+    "text": "[Extend your arms] This big."
+  },
+  {
+    "path": "Exports.527.Data.5.Value.1.Value.5",
+    "key": "22E5A87F4855E856E338A3B540D92C59",
+    "text": "[Nod] Yes. Very."
+  },
+  {
+    "path": "Exports.528.Data.0",
+    "key": "D65815054FB4C8B64684CF851E99EB49",
+    "text": "Oh? How big, Clarissa?"
+  },
+  {
+    "path": "Exports.528.Data.6.Value.0.Value.5",
+    "key": "4433288944C9E5160402A7969B97ABDF",
+    "text": "Clarissa-sized."
+  },
+  {
+    "path": "Exports.528.Data.6.Value.1.Value.5",
+    "key": "3ECE8FF34F118031253FA9A25A224BCC",
+    "text": "[Extend your arms] This big."
+  },
+  {
+    "path": "Exports.528.Data.6.Value.2.Value.5",
+    "key": "3D9FEAC54E8D33749D8B42BEC525BEE4",
+    "text": "[Squint] Very."
+  },
+  {
+    "path": "Exports.529.Data.0",
+    "key": "1DFD48DC4509710637CA03A1766DD936",
+    "text": "That's big. And maybe you'll be even bigger!"
+  },
+  {
+    "path": "Exports.529.Data.5.Value.0.Value.5",
+    "key": "F401D18B421C2B13CAADB89A1CFB4C73",
+    "text": "My arms aren't that long. But maybe they will be!"
+  },
+  {
+    "path": "Exports.529.Data.5.Value.1.Value.5",
+    "key": "B53E5D30456CD8C39EBCBE8E7AE29096",
+    "text": "Grandpa! No. That's too big."
+  },
+  {
+    "path": "Exports.530.Data.0",
+    "key": "5750ADEA491F944084A9418EC19B1512",
+    "text": "I'm sure they will, bella."
+  },
+  {
+    "path": "Exports.530.Data.6.Value.0.Value.5",
+    "key": "51A7C1AD4310975D57D1E5B8F2C07FD3",
+    "text": "Excellent."
+  },
+  {
+    "path": "Exports.530.Data.6.Value.1.Value.5",
+    "key": "9D9CE18640DA0BE268B29F9326BEE082",
+    "text": "I hope so too."
+  },
+  {
+    "path": "Exports.531.Data.0",
+    "key": "A90D68954EA49D5AF677F2B24965D646",
+    "text": "Hah! That sounds good. Big and strong. I hope I get to see it."
+  },
+  {
+    "path": "Exports.531.Data.5.Value.0.Value.5",
+    "key": "4E5571224C8DC9F95791C2BE91CCA3FB",
+    "text": "Of course you will! I'll visit you every day."
+  },
+  {
+    "path": "Exports.532.Data.0",
+    "key": "D22D5CE145C08F803CAD63AB689749DF",
+    "text": "Will you fit through the door? If you're so big, I mean."
+  },
+  {
+    "path": "Exports.532.Data.5.Value.0.Value.5",
+    "key": "CED7016A4B7CF02A3ED4D0954C6D6B06",
+    "text": "You're being silly. Yes, of course!"
+  },
+  {
+    "path": "Exports.532.Data.5.Value.1.Value.5",
+    "key": "6068C3154E840F2A1DCD799FCFA857FB",
+    "text": "[Nod] I'll come in through the window."
+  },
+  {
+    "path": "Exports.533.Data.0",
+    "key": "1913EA654A9987D52589BFB74999D439",
+    "text": "Haha! You're right, Grandpa's being very silly."
+  },
+  {
+    "path": "Exports.533.Data.6.Value.0.Value.5",
+    "key": "2A3C1389438A95F48FD2858D3D43AC1A",
+    "text": "It's okay, I'm silly too. We can be silly together."
+  },
+  {
+    "path": "Exports.533.Data.6.Value.1.Value.5",
+    "key": "7BA0256D497CFF90A06AE3A0394E1D78",
+    "text": "Yeah! Go grandpa!"
+  },
+  {
+    "path": "Exports.534.Data.0",
+    "key": "B7E457B1404A0241D534158CEC7AED7C",
+    "text": "Ah! Of course! Why didn't I think of that? Very clever, Clarissa. No window will be safe."
+  },
+  {
+    "path": "Exports.534.Data.6.Value.0.Value.5",
+    "key": "8EF673F84252DEE2F5E762ADC190299A",
+    "text": "Excellent."
+  },
+  {
+    "path": "Exports.534.Data.6.Value.1.Value.5",
+    "key": "7B3EB32B423CAA91F8E60FA14AF0F69C",
+    "text": "Good. They better watch their butts."
+  },
+  {
+    "path": "Exports.535.Data.0",
+    "key": "129D16B34A79FBBCCC21BBAD39A99C1E",
+    "text": "Yes, but being old isn't so bad. "
+  },
+  {
+    "path": "Exports.535.Data.6.Value.0.Value.5",
+    "key": "FACCD96C41DDA89873295BB94EDCE9A3",
+    "text": "Because you can do anything you want."
+  },
+  {
+    "path": "Exports.536.Data.0",
+    "key": "18F119534ED7E825AC5957BB3358AFFD",
+    "text": "You were running up and down the street, your eyes set on the geezers. Back then, they were almost bigger than you!"
+  },
+  {
+    "path": "Exports.536.Data.5.Value.0.Value.5",
+    "key": "6DC6F941415A477766EE9196D984352B",
+    "text": "Almost. Now I'm way bigger."
+  },
+  {
+    "path": "Exports.536.Data.5.Value.1.Value.5",
+    "key": "F3DED0AF400062F48439979A54838ABA",
+    "text": "I had to chase them. SOMEONE had to!"
+  },
+  {
+    "path": "Exports.536.Data.5.Value.2.Value.5",
+    "key": "48A8800244B2D7127AB701B77E5107A2",
+    "text": "They were? I don't remember that..."
+  },
+  {
+    "path": "Exports.537.Data.0",
+    "key": "6508F77E4D2E3D2AE2BF2DA3AC1681B7",
+    "text": "In a way. But there are many things you have to do when you're old, too. Not all of it is fun."
+  },
+  {
+    "path": "Exports.537.Data.5.Value.0.Value.5",
+    "key": "DC6F1A6E4239FF205DE87191E9C5E904",
+    "text": "Boo!"
+  },
+  {
+    "path": "Exports.537.Data.5.Value.1.Value.5",
+    "key": "DCA837F3419DEF639D24BAAA002CAA97",
+    "text": "Sometimes you have to do the boring things. I know."
+  },
+  {
+    "path": "Exports.538.Data.0",
+    "key": "DEE3441C44B0BF45BADFD78F3ECEED4E",
+    "text": "Hah! It will still be a while until you're old, Clarissa. You still have so much ahead of you!"
+  },
+  {
+    "path": "Exports.538.Data.6.Value.0.Value.5",
+    "key": "E3BB8BA74731726D4861EBB2D0B8257D",
+    "text": "Plenty of time to visit you, Grandpa."
+  },
+  {
+    "path": "Exports.538.Data.6.Value.1.Value.5",
+    "key": "BC4BF31148B46620953756A4C27B51F2",
+    "text": "Okay. I'll be smart about it."
+  },
+  {
+    "path": "Exports.539.Data.0",
+    "key": "9161521442CDD63A2CCBBCB82CE79789",
+    "text": "That's good, Clarissa. That's very mature of you."
+  },
+  {
+    "path": "Exports.539.Data.6.Value.0.Value.5",
+    "key": "91177A7546EE51E37F60E1A61762F7B7",
+    "text": "What does that mean?"
+  },
+  {
+    "path": "Exports.539.Data.6.Value.1.Value.5",
+    "key": "71F457E24A450F10E9D36E9B1EBE10DF",
+    "text": "Yes. Very mature."
+  },
+  {
+    "path": "Exports.540.Data.0",
+    "key": "655E265E465D6669FE31B491F54AAE7E",
+    "text": "It means you are smart for your age."
+  },
+  {
+    "path": "Exports.540.Data.5.Value.0.Value.5",
+    "key": "17F07638492A3753E8A654B954891EED",
+    "text": "Oh. Yeah, that's true."
+  },
+  {
+    "path": "Exports.540.Data.5.Value.1.Value.5",
+    "key": "C939D2FF4473C38FB00F32876801E671",
+    "text": "Am I?"
+  },
+  {
+    "path": "Exports.541.Data.0",
+    "key": "CE00823F4702E3F97CCE85826B918A0D",
+    "text": "And you'll only become smarter with age. Big, strong, and smart."
+  },
+  {
+    "path": "Exports.541.Data.6.Value.0.Value.5",
+    "key": "6D4809214BB88AA8196CC188DC9CF581",
+    "text": "Yes. Big Clarissa."
+  },
+  {
+    "path": "Exports.541.Data.6.Value.1.Value.5",
+    "key": "8810C121465EDDA6BBC3DCB2B664778A",
+    "text": "[Shrug]"
+  },
+  {
+    "path": "Exports.542.Data.0",
+    "key": "FBBAD8CE453E9128100CF7BDB2C33E7B",
+    "text": "I don't know. What do you think, bella? What are they doing?"
+  },
+  {
+    "path": "Exports.542.Data.6.Value.0.Value.5",
+    "key": "192C2A6F40BAB95477BD87A8C1C0A493",
+    "text": "They're thinking about how silly we look."
+  },
+  {
+    "path": "Exports.542.Data.6.Value.1.Value.5",
+    "key": "22F60AB34BD788F68258F884F1EBE70C",
+    "text": "They're thinking about worms. Big, big worms."
+  },
+  {
+    "path": "Exports.542.Data.6.Value.2.Value.5",
+    "key": "D7C3669F42FFCA8A3FFF9EA385695BE1",
+    "text": "They're worried about homework."
+  },
+  {
+    "path": "Exports.543.Data.0",
+    "key": "2BA081994205D1579E5DDEA36BD3A391",
+    "text": "It might be, in a way. Some things...you learn how to accept. Even loved ones passing away. It comes with age, I suppose."
+  },
+  {
+    "path": "Exports.543.Data.5.Value.0.Value.5",
+    "key": "D575B4AE4FE575C709EE17AD3CA3C2DF",
+    "text": "Well I don't like it. When I'm old, I'm not letting anyone pass anywhere."
+  },
+  {
+    "path": "Exports.543.Data.5.Value.1.Value.5",
+    "key": "911A54EC4F7091A64324EDA523707840",
+    "text": "Is that all part of growing up?"
+  },
+  {
+    "path": "Exports.543.Data.5.Value.2.Value.5",
+    "key": "49C2C9E44D568D9C8EDD4DAF7A59B7AA",
+    "text": "Is it weird that I miss Grandma, even though we never talked?"
+  },
+  {
+    "path": "Exports.544.Data.0",
+    "key": "FDF67D4F406D7DD52AA7A485FD51B271",
+    "text": "You are! But it's important to be a little silly. A lot of people forget to be silly."
+  },
+  {
+    "path": "Exports.544.Data.6.Value.0.Value.5",
+    "key": "3AE1E7BB497088B0A33BCC8A4B0C6C53",
+    "text": "How can you forget to be silly?"
+  },
+  {
+    "path": "Exports.544.Data.6.Value.1.Value.5",
+    "key": "550A672741FB7A556DE76A87ABF9FBB9",
+    "text": "Yeah...but that's pretty silly too!"
+  },
+  {
+    "path": "Exports.544.Data.6.Value.2.Value.5",
+    "key": "9A0A3DDA4237D2ECA2AD31879435841F",
+    "text": "You're silly too."
+  },
+  {
+    "path": "Exports.545.Data.0",
+    "key": "19F75D4049187DF6CBD10C89BF56B519",
+    "text": "I am? With you, I suppose! I don't think a lot of people would say I'm silly. But maybe that's a good thing - and an even better thing that I get to be silly with you, so I don't forget."
+  },
+  {
+    "path": "Exports.545.Data.6.Value.0.Value.5",
+    "key": "8C72B5D4404ECC17B307BFA36DED01F5",
+    "text": "How can you forget to be silly?"
+  },
+  {
+    "path": "Exports.545.Data.6.Value.1.Value.5",
+    "key": "495FA02B468FDE0BBDAA69AD70370D17",
+    "text": "It's silly to not be silly."
+  },
+  {
+    "path": "Exports.545.Data.6.Value.2.Value.5",
+    "key": "3A518643488AF229BE63F1A67AFF44D4",
+    "text": "It's okay. I'm silly too."
+  },
+  {
+    "path": "Exports.546.Data.0",
+    "key": "92AE8EA7498984787032B4B20A5E6F21",
+    "text": "Hah! Very well, then - we'll just sit here and be silly for a while. "
+  },
+  {
+    "path": "Exports.546.Data.5.Value.0.Value.5",
+    "key": "0F874D8D488316B0676363B714D28FB4",
+    "text": "You can't always be silly, Grandpa. "
+  },
+  {
+    "path": "Exports.546.Data.5.Value.1.Value.5",
+    "key": "E054D65345DD2D1D3C61A3B0C09D0326",
+    "text": "Yeah! And then I'll be clever. And then silly again. I'll mix it up."
+  },
+  {
+    "path": "Exports.546.Data.5.Value.2.Value.5",
+    "key": "8E27F9DA4625875E71A3039AA454BF32",
+    "text": "Yes. Forever. Silly forever."
+  },
+  {
+    "path": "Exports.547.Data.0",
+    "key": "ECDE4C69406C2D6FE2A4F89D2BC90A51",
+    "text": "Well you see, Clarissa, life can be very...not silly sometimes. Sometimes...sometimes, it can get very serious, very...grim. It's important to not let that get to you."
+  },
+  {
+    "path": "Exports.547.Data.6.Value.0.Value.5",
+    "key": "9B8504424E18B0CC29990B9A6870A13B",
+    "text": "That's easy!"
+  },
+  {
+    "path": "Exports.547.Data.6.Value.1.Value.5",
+    "key": "732A5A284D73B093814F90A26510F1AA",
+    "text": "I'll try. Really hard."
+  },
+  {
+    "path": "Exports.547.Data.6.Value.2.Value.5",
+    "key": "3DA4629E4373F546BC22A2926A234BE6",
+    "text": "So we'll be silly. Deal?"
+  },
+  {
+    "path": "Exports.548.Data.0",
+    "key": "A5F4683B4E031AC1728DB9A0E796B061",
+    "text": "How glad I am to hear that! You must remember, though; it might be easy now, but things will get harder down the line. They always do."
+  },
+  {
+    "path": "Exports.548.Data.6.Value.0.Value.5",
+    "key": "A695BB4B45F7CEEA79584FA4CC64D5B6",
+    "text": "Is growing up hard?"
+  },
+  {
+    "path": "Exports.548.Data.6.Value.1.Value.5",
+    "key": "20C8476A4DCD2699E2DE4C8C836196FD",
+    "text": "How long until it gets harder?"
+  },
+  {
+    "path": "Exports.549.Data.0",
+    "key": "22AF5D0C4AE61520D6BE43823C6CF4EF",
+    "text": "I know you will, Clarissa. I'm sure. You'll do fine growing up."
+  },
+  {
+    "path": "Exports.549.Data.6.Value.0.Value.5",
+    "key": "C150AF014B27E1EF0FB64E9F211AE957",
+    "text": "Is growing up...hard?"
+  },
+  {
+    "path": "Exports.549.Data.6.Value.1.Value.5",
+    "key": "F35EAA4341E3B4FDD4E795A43FB813F6",
+    "text": "When will I know I'm grown up? Does it take long?"
+  },
+  {
+    "path": "Exports.550.Data.0",
+    "key": "101E1F854E23F60A3B0ED9A7907F423D",
+    "text": "The geezers? Hah, of course! What about them?"
+  },
+  {
+    "path": "Exports.550.Data.6.Value.0.Value.5",
+    "key": "EEDE7B314861F8A777EE4A8193F7C763",
+    "text": "They waddle. They're funny."
+  },
+  {
+    "path": "Exports.550.Data.6.Value.1.Value.5",
+    "key": "2FE76E9B47905F59FEE39A8CB7DCC3D1",
+    "text": "They're so many. What are they doing?"
+  },
+  {
+    "path": "Exports.550.Data.6.Value.2.Value.5",
+    "key": "9EE685AA4C69E83EDDA0349C236A43C7",
+    "text": "[Point at the geezers] They're over there. Look!"
+  },
+  {
+    "path": "Exports.551.Data.0",
+    "key": "685E40A94BCF20596CA300BB7EDB8DB2",
+    "text": "She'd always tell me when I was getting too big for my britches. And when things started going our way, she made sure I kept my feet on the ground."
+  },
+  {
+    "path": "Exports.551.Data.5.Value.0.Value.5",
+    "key": "02CDCFD844B730A38D6B8E9ECA8953FD",
+    "text": "How could it be hard to keep your feet on the ground?"
+  },
+  {
+    "path": "Exports.551.Data.5.Value.1.Value.5",
+    "key": "F3EF456248D9E1E86F2581ABB74A3285",
+    "text": "That's okay, Grandpa. I can help you with that now."
+  },
+  {
+    "path": "Exports.551.Data.5.Value.2.Value.5",
+    "key": "BD684B8546AA2E98260B45A9FF740CCF",
+    "text": "Can anyone learn how to do that?"
+  },
+  {
+    "path": "Exports.552.Data.0",
+    "key": "1161B10A4DC89026F8FBBFA21C5E30DB",
+    "text": "I should have known! You'd chase them up and down the street, until one of the store owners caught you. \"What do you think you're doing, running around outside my store,\" he said."
+  },
+  {
+    "path": "Exports.552.Data.6.Value.0.Value.5",
+    "key": "CAA314F04CB240AB77550AA1FB34A8C7",
+    "text": "I remember! He was scary."
+  },
+  {
+    "path": "Exports.552.Data.6.Value.1.Value.5",
+    "key": "0BDEAA0749F92952C1651694A5AB5448",
+    "text": "I remember! He was funny."
+  },
+  {
+    "path": "Exports.552.Data.6.Value.2.Value.5",
+    "key": "BD48BE1649A062C982FA26A12418133F",
+    "text": "He grabbed me! Why would he do that?"
+  },
+  {
+    "path": "Exports.553.Data.0",
+    "key": "F5A9E9054F956E69D270A78CF4DF9836",
+    "text": "It was a long time ago, bella. Years! But even then, you were quite the troublemaker. I remember how one of the shopkeepers got upset with you one day, but you weren't even scared."
+  },
+  {
+    "path": "Exports.553.Data.6.Value.0.Value.5",
+    "key": "CD3E937944FA15B538B78C8F5B243B07",
+    "text": "I don't remember. Was he very upset?"
+  },
+  {
+    "path": "Exports.553.Data.6.Value.1.Value.5",
+    "key": "F25457674546487B7B1EFAB32EB76C01",
+    "text": "Why should I have been scared, Grandpa?"
+  },
+  {
+    "path": "Exports.553.Data.6.Value.2.Value.5",
+    "key": "9FE43BD241E2D43BEA229FA480F4D011",
+    "text": "What happened next? Tell me, tell me!"
+  },
+  {
+    "path": "Exports.554.Data.0",
+    "key": "3ACBC64E4D7FF5BAAC2C1CA197A2FAB4",
+    "text": "Well you see, sometimes, when things go well, you might start feeling unstoppable. It's a wonderful feeling, but it makes you liable to make all types of mistakes. Your nonna made sure I never made those."
+  },
+  {
+    "path": "Exports.554.Data.6.Value.0.Value.5",
+    "key": "7ED4C2E14EFAD784F97B6FB98C112DB8",
+    "text": "How can I make sure I don't make those mistakes, Grandpa?"
+  },
+  {
+    "path": "Exports.554.Data.6.Value.1.Value.5",
+    "key": "BC2357B64D1A64D38B44069F79D42263",
+    "text": "That's what friends do. And grandmas."
+  },
+  {
+    "path": "Exports.554.Data.6.Value.2.Value.5",
+    "key": "8FEEAA5B47C43487608BD582672C5298",
+    "text": "She sounds like the best person in the world, Grandpa."
+  },
+  {
+    "path": "Exports.555.Data.0",
+    "key": "B9D8A3834A6EBEDE4305E9B3DAE8FFD8",
+    "text": "For today, bella. For today. Besides, even you will have to grow up eventually!"
+  },
+  {
+    "path": "Exports.555.Data.6.Value.0.Value.5",
+    "key": "2E26C5894DE6B9CCBC9BC7AD7989FF69",
+    "text": "Is growing up...hard?"
+  },
+  {
+    "path": "Exports.555.Data.6.Value.1.Value.5",
+    "key": "37137F0E4D8EAD4208CDF0994FBC986F",
+    "text": "Aw. I do? Will it take long?"
+  },
+  {
+    "path": "Exports.556.Data.0",
+    "key": "5BB7E17A45C24C0FB2F975A9E2700AE9",
+    "text": "Where else should they go? Geezers are interesting creatures. They're not like us - not quite - but they still have instinct. They're not stupid, not at all."
+  },
+  {
+    "path": "Exports.556.Data.5.Value.0.Value.5",
+    "key": "64342533404F950229E4BDAF6A200E39",
+    "text": "So why are they in the street?"
+  },
+  {
+    "path": "Exports.556.Data.5.Value.1.Value.5",
+    "key": "30E1B06E41B99F6ACB6A79A4903D0B44",
+    "text": "[Whisper] They look a little stupid."
+  },
+  {
+    "path": "Exports.556.Data.5.Value.2.Value.5",
+    "key": "8DFB58A54B6F6D51B035AE89229C6A2D",
+    "text": "Maybe they could live in the big house with me and mom? And dad?"
+  },
+  {
+    "path": "Exports.557.Data.0",
+    "key": "0B95195F499769EC8B6123A07059AE42",
+    "text": "Who knows, Clarissa. Maybe they think we look stupid too!"
+  },
+  {
+    "path": "Exports.557.Data.5.Value.0.Value.5",
+    "key": "03B52E31489C0ED847CADD926A5CEBD0",
+    "text": "That's rude."
+  },
+  {
+    "path": "Exports.557.Data.5.Value.1.Value.5",
+    "key": "9CA4721D4625EF8121F3E18CD1E89437",
+    "text": "Yeah! And maybe they'll come sit with us!"
+  },
+  {
+    "path": "Exports.558.Data.0",
+    "key": "EAE291504C30AAF02E488F95F603DEC6",
+    "text": "He was certainly angry. But once I spoke to him we came to an...understanding. After that, you were free to run around as much as you wanted."
+  },
+  {
+    "path": "Exports.558.Data.5.Value.0.Value.5",
+    "key": "834C875C4C472040434F3B8E01E55933",
+    "text": "How come people always listen to you, Grandpa?"
+  },
+  {
+    "path": "Exports.558.Data.5.Value.1.Value.5",
+    "key": "E469E456483364D75B0181AADCF7526E",
+    "text": "Did you know him, Grandpa?"
+  },
+  {
+    "path": "Exports.558.Data.5.Value.2.Value.5",
+    "key": "1FB541204EAA4181124991BC1C5F83CE",
+    "text": "What did you tell him, Grandpa?"
+  }
+]
