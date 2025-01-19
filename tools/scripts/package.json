@@ -1,0 +1,12 @@
+{
+  "name": "translator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "extract": "node index.js extract",
+    "inject": "node index.js inject"
+  },
+  "author": "dellyare",
+  "license": "ISC"
+}
