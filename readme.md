@@ -1,4 +1,7 @@
 <h1 align="center">Tails Noir Preludes - Русификатор</h1>
+
+![Обложка русификатора](https://raw.githubusercontent.com/Dellyare/tails-noir-preludes-rus/refs/heads/main/.github/cover.jpg?raw=true)
+
 <h3 align="center">⚠️ ПЕРЕВОД В ПРОЦЕССЕ ⚠️</h3>
 
 ---
