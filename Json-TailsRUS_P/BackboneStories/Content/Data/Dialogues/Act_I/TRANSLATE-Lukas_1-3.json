@@ -1,0 +1,3998 @@
+[
+  {
+    "path": "Exports.151.Data.3.Value.0.Value.5",
+    "key": "09159EE84E089C50963344B493A8D6BF",
+    "text": "Далее",
+    "originalText": "Next"
+  },
+  {
+    "path": "Exports.152.Data.0",
+    "key": "3342C95942DDB88904FFD2B5D97AE0E7",
+    "text": "Закончил? Хорошо — расскажи мне о пожаре. Было два вызова, верно? Где он начался?",
+    "originalText": "Done? Alright - tell me about the fire. There were two calls about it, right? Where did it start?"
+  },
+  {
+    "path": "Exports.152.Data.6.Value.0.Value.5",
+    "key": "96618BDA44CE6A24EB5854BE77DF9F0A",
+    "text": "Не уверен. Где-то ниже третьего этажа.",
+    "originalText": "Not sure. Somewhere below the third floor."
+  },
+  {
+    "path": "Exports.152.Data.6.Value.1.Value.5",
+    "key": "ACD259B64BE5F0270D3C6AA4B93AFEAF",
+    "text": "В квартире Стоуна.",
+    "originalText": "In Stone's apartment."
+  },
+  {
+    "path": "Exports.152.Data.6.Value.2.Value.5",
+    "key": "952BBC8B49CAEFAB7159B692B772C997",
+    "text": "Невозможно быть уверенным.",
+    "originalText": "There's no way to be sure."
+  },
+  {
+    "path": "Exports.153.Data.0",
+    "key": "DB223FF64E98118A3B6D5385EA6A3B97",
+    "text": "Не торопись, не торопись. Ты весь день был за терминалом?",
+    "originalText": "Take your time, take your time. Have you been at the terminal all day?"
+  },
+  {
+    "path": "Exports.153.Data.6.Value.0.Value.5",
+    "key": "28ACE3F04CEFB3481A96DC87688A1C32",
+    "text": "М-хм...",
+    "originalText": "Mhm..."
+  },
+  {
+    "path": "Exports.153.Data.6.Value.1.Value.5",
+    "key": "EF5106DB4292419E2574C1A7B5DE3EA4",
+    "text": "[Кивок]",
+    "originalText": "[Nod]"
+  },
+  {
+    "path": "Exports.153.Data.6.Value.2.Value.5",
+    "key": "FA29E1BB46B32168A7B341B27A4BA996",
+    "text": "Лукас. Тихо.",
+    "originalText": "Lukas. Shush."
+  },
+  {
+    "path": "Exports.154.Data.0",
+    "key": "743D08D2400EF21E87984E9A3D84578E",
+    "text": "Я... Ну, может быть... хм. Не уверен. Я могу проверить остальные файлы, возможно. Может, я что-то упустил.",
+    "originalText": "I- Well, maybe...hm. I'm not sure. I can check the rest of the files, potentially. Maybe I overlooked it."
+  },
+  {
+    "path": "Exports.154.Data.6.Value.0.Value.5",
+    "key": "546B9EE64A23EFA5275EAB94AFF9C165",
+    "text": "Если сможешь, я буду благодарен.",
+    "originalText": "If you can, I'd appreciate it."
+  },
+  {
+    "path": "Exports.154.Data.6.Value.1.Value.5",
+    "key": "B86D0E0B40D21FCD8601008C11415D5F",
+    "text": "Я не доверяю отчетам, Лукас.",
+    "originalText": "I don't trust the reports, Lukas."
+  },
+  {
+    "path": "Exports.155.Data.0",
+    "key": "9072383E4220CA3B3CB1D590A18736BA",
+    "text": "Ты в порядке? Вся эта ситуация, это дело... это тяжело, да?",
+    "originalText": "You doing okay? This whole thing, this whole case...it's a lot, isn't it?"
+  },
+  {
+    "path": "Exports.155.Data.6.Value.0.Value.5",
+    "key": "6511C0BF4337264B493BF19C8E71BBE1",
+    "text": "Да. И это ужасно.",
+    "originalText": "It is. And it's pretty awful."
+  },
+  {
+    "path": "Exports.155.Data.6.Value.1.Value.5",
+    "key": "02840E684D0FC287E9AAA69A457EF47F",
+    "text": "Все в порядке. Я видел и хуже.",
+    "originalText": "It's okay. I've seen worse."
+  },
+  {
+    "path": "Exports.156.Data.0",
+    "key": "50AF7EC848517E39BFC1C7976C4771C4",
+    "text": "О, да, конечно. Я могу... ну, не знаю, стоит ли. Я разберусь, ладно?",
+    "originalText": "Oh yeah, for sure. I can...well, I don't know if I should. I'll look into it, alright?"
+  },
+  {
+    "path": "Exports.156.Data.5.Value.0.Value.5",
+    "key": "6FB8FCF84E4D36B51C6D778476D38264",
+    "text": "Спасибо, Лукас.",
+    "originalText": "Thank you, Lukas."
+  },
+  {
+    "path": "Exports.156.Data.5.Value.1.Value.5",
+    "key": "8A5629984AFA55FA591C4FB32EE9D293",
+    "text": "Спасибо, дорогой.",
+    "originalText": "Thanks, babe."
+  },
+  {
+    "path": "Exports.157.Data.0",
+    "key": "FD5C09D04FC38920FA522E80C49DF21A",
+    "text": "Без проблем. Ты в порядке? Это все... это тяжело, да?",
+    "originalText": "No problem. You doing alright? This is all...it's a lot, isn't it?"
+  },
+  {
+    "path": "Exports.157.Data.6.Value.0.Value.5",
+    "key": "C59962824FB686E69BF89099CDD94E3E",
+    "text": "Да. И это ужасно.",
+    "originalText": "It is. And it's pretty awful."
+  },
+  {
+    "path": "Exports.157.Data.6.Value.1.Value.5",
+    "key": "FD6DF8FA4E955031C99B03A0A8AE417B",
+    "text": "Все в порядке. Я видел и хуже.",
+    "originalText": "It's okay. I've seen worse."
+  },
+  {
+    "path": "Exports.158.Data.0",
+    "key": "0FAFD78A4DA04EFC212EF0930B5A068C",
+    "text": "Конечно, дорогой. Ты в порядке? Это все... это тяжело, да?",
+    "originalText": "Of course, babe. You doing alright? This is all...it's a lot, isn't it?"
+  },
+  {
+    "path": "Exports.158.Data.5.Value.0.Value.5",
+    "key": "CB3552D144C05D5AE566908592D68D1B",
+    "text": "Да. И это ужасно.",
+    "originalText": "It is. And it's pretty awful."
+  },
+  {
+    "path": "Exports.158.Data.5.Value.1.Value.5",
+    "key": "023A612244F0D96AA77603BFDBE7E1B7",
+    "text": "Все в порядке. Я видел и хуже.",
+    "originalText": "It's okay. I've seen worse."
+  },
+  {
+    "path": "Exports.159.Data.0",
+    "key": "642B51D840F4E61B365248AD8861EDBB",
+    "text": "Так и есть. Ты никогда к этому не привыкнешь, поверь мне.",
+    "originalText": "It is. You don't ever get used to it, trust me."
+  },
+  {
+    "path": "Exports.159.Data.6.Value.0.Value.5",
+    "key": "A04513554987658A1942079240D8434E",
+    "text": "А как насчет тебя? Что ты об этом думаешь?",
+    "originalText": "What about you? What do you make of it?"
+  },
+  {
+    "path": "Exports.160.Data.0",
+    "key": "9CA1FEF9430BA3DA822C89A71AA7B290",
+    "text": "Довольно уверен, что это дает нам очень мало информации, Рене. Постарайся не делать поспешных выводов, если у тебя нет доказательств.",
+    "originalText": "Pretty certain gives us very little to go on, Renee. Try not to jump to conclusions if you don't have anything to back it up with."
+  },
+  {
+    "path": "Exports.160.Data.6.Value.0.Value.5",
+    "key": "2E4677334C594FE1D1B198BA069CA315",
+    "text": "Ладно.",
+    "originalText": "Fine."
+  },
+  {
+    "path": "Exports.160.Data.6.Value.1.Value.5",
+    "key": "05FADE7C4CD666B825D39282E1856EA4",
+    "text": "Я чувствую, что должен. Я не доверяю этим отчетам.",
+    "originalText": "I feel like I have to. I don't trust those reports."
+  },
+  {
+    "path": "Exports.161.Data.0",
+    "key": "93BF97C34AEAC79E46EE04A99925E64C",
+    "text": "Ну, постарайся не привыкать к этому, Рене. Это нездорово. Это подрывает твое психическое здоровье.",
+    "originalText": "Well, try not to get used to it, Renee. It's not healthy. Chips away at your sanity."
+  },
+  {
+    "path": "Exports.161.Data.5.Value.0.Value.5",
+    "key": "57EDA568410E52E08349C5A2317FB376",
+    "text": "А как насчет тебя? Что ты об этом думаешь?",
+    "originalText": "What about you? What do you make of it?"
+  },
+  {
+    "path": "Exports.162.Data.0",
+    "key": "A056345343C60D9CCBE7759879849E78",
+    "text": "Я знаю, дорогая. Мне жаль. Ты в порядке? Все это... это тяжело, да?",
+    "originalText": "I know, honey. I'm sorry. Are you doing alright? All of this...it's a lot, isn't it?"
+  },
+  {
+    "path": "Exports.162.Data.6.Value.0.Value.5",
+    "key": "CB2AD89546B55FF76664D8BBEAC2A0BF",
+    "text": "Да. Это тяжело.",
+    "originalText": "It is. It's heavy."
+  },
+  {
+    "path": "Exports.162.Data.6.Value.1.Value.5",
+    "key": "54F8BE9A4DE9CDF11361C195A21A4E6C",
+    "text": "Все в порядке. Я видел и хуже.",
+    "originalText": "It's fine. I've seen worse."
+  },
+  {
+    "path": "Exports.163.Data.0",
+    "key": "8BADC12B4737E5555282C9A708EB62AE",
+    "text": "Я... не знаю. Некоторые вещи здесь немного сомнительны. Я сделаю все возможное, чтобы проверить данные на станциях — некоторые вещи вообще не сходятся. Надеюсь, это просто ошибки. Они должны быть ошибками.",
+    "originalText": "I- I don't know. Some of this stuff is a little iffy. I'll do my best to check things at the stations - some of this doesn't check out at all. I hope it's just mistakes. They have to be."
+  },
+  {
+    "path": "Exports.163.Data.7.Value.0.Value.5",
+    "key": "3E9FDD7F4EAD031D393E1CA48E4AD470",
+    "text": "А если это не ошибки?",
+    "originalText": "And if they're not?"
+  },
+  {
+    "path": "Exports.163.Data.7.Value.1.Value.5",
+    "key": "ED153D0C4D881B2084DE3080E386FFF6",
+    "text": "Будем надеяться на лучшее.",
+    "originalText": "Let's hope for the best."
+  },
+  {
+    "path": "Exports.163.Data.7.Value.2.Value.5",
+    "key": "ECD6F2524A4C919FE70E898772F8D9E4",
+    "text": "Они позволят тебе это сделать?",
+    "originalText": "Will they let you do that?"
+  },
+  {
+    "path": "Exports.164.Data.0",
+    "key": "74196973483755AD80FE619F30C11A5F",
+    "text": "Я думаю, это ужасное дело. Я думаю, это ужасно. Но я также думаю, что ты ищешь то, чего нет. И, возможно, ты ищешь кого-то, кого можно обвинить.",
+    "originalText": "I think this is an awful case. I think it's horrible. But I also think you're looking for something that isn't there. And maybe you're looking for someone to blame."
+  },
+  {
+    "path": "Exports.164.Data.7.Value.0.Value.5",
+    "key": "74DD215A41E87D32F17233B65970C3EC",
+    "text": "Я просто... я злюсь, наверное.",
+    "originalText": "I'm just...I'm angry, I suppose."
+  },
+  {
+    "path": "Exports.164.Data.7.Value.1.Value.5",
+    "key": "BFB9EE1B4F72C49A2D8241A51FB3729B",
+    "text": "Я виню этих копов, Лукас. Это было неправильно.",
+    "originalText": "I blame those cops, Lukas. This wasn't right."
+  },
+  {
+    "path": "Exports.164.Data.7.Value.2.Value.5",
+    "key": "A1FD619B49DD23969962E9B292FBB07A",
+    "text": "Дело не в обвинениях. Дело в том, чтобы эти офицеры были привлечены к ответственности за то, что они сделали.",
+    "originalText": "It's not about blame. It's about those officers being held accountable for what they did."
+  },
+  {
+    "path": "Exports.165.Data.0",
+    "key": "2D847DBA441074CFAAA531AB62094C53",
+    "text": "Я не знаю. Возможно, это не так ясно, как я думал, — но я все же думаю, что ты делаешь поспешные выводы.",
+    "originalText": "I don't know. It might not be as clear as I thought it was - but I still think you're jumping to conclusions."
+  },
+  {
+    "path": "Exports.165.Data.7.Value.0.Value.5",
+    "key": "DE1056834C789468F6821B907D6C3594",
+    "text": "Но ты же чувствуешь, что что-то не так, да?",
+    "originalText": "You can tell that something's up though, can't you?"
+  },
+  {
+    "path": "Exports.165.Data.7.Value.1.Value.5",
+    "key": "BC330C6844EAE4F7559350B390F6F504",
+    "text": "Какие выводы, Лукас? Что тебе еще нужно?",
+    "originalText": "What conclusions, Lukas? What else do you need?"
+  },
+  {
+    "path": "Exports.165.Data.7.Value.2.Value.5",
+    "key": "278FACDF4E0D046C54D1DEAF35AFA65A",
+    "text": "Рад слышать, что я не совсем сошел с ума.",
+    "originalText": "Glad to hear I'm not completely crazy."
+  },
+  {
+    "path": "Exports.166.Data.0",
+    "key": "28F8B3BC4EEFA53BD9E65991C597D8D7",
+    "text": "Я... Да. Ну, наверное, так. Не уверен. Мне это не нравится, это точно. Я поговорю с людьми на станции. Попрошу их проверить на ошибки. Иногда такое случается, как бы мне не хотелось это признавать.",
+    "originalText": "I- Yes. Well, I suppose so. I'm not sure. I don't like it, that's for sure. I'll talk to people at the station. Get them to check for errors. It happens sometimes, as much as I don't like to admit it."
+  },
+  {
+    "path": "Exports.166.Data.7.Value.0.Value.5",
+    "key": "1DCA3998404D47A8823E2ABF36608766",
+    "text": "Лукас — а если это не ошибки?",
+    "originalText": "Lukas - what if they're not mistakes?"
+  },
+  {
+    "path": "Exports.166.Data.7.Value.1.Value.5",
+    "key": "D53283A74F2E94B176E8A695CB1A71D0",
+    "text": "Будем надеяться на лучшее.",
+    "originalText": "Let's hope for the best."
+  },
+  {
+    "path": "Exports.166.Data.7.Value.2.Value.5",
+    "key": "1698EB794210F38918B3608743A14EF8",
+    "text": "Они позволят тебе это сделать?",
+    "originalText": "Will they let you do that?"
+  },
+  {
+    "path": "Exports.167.Data.0",
+    "key": "76D13E5A453777CFD33331A3D99EB42E",
+    "text": "...Слушай, Рене — я знаю, что это ужасное дело. Я знаю, что это ужасно. Я также знаю, что в таких ситуациях люди склонны искать кого-то, кого можно обвинить, и часто этим кем-то оказываемся мы. Полиция.",
+    "originalText": "...Listen, Renee - I know this is an awful case. I know it's horrifying. I also know that people tend to look for someone to blame in these situations, and oftentimes, that someone is us. The police."
+  },
+  {
+    "path": "Exports.167.Data.7.Value.0.Value.5",
+    "key": "0E05D5514B097C9DEA16CCB3C312B509",
+    "text": "Я просто... я злюсь, наверное.",
+    "originalText": "I'm just...I'm angry, I suppose."
+  },
+  {
+    "path": "Exports.167.Data.7.Value.1.Value.5",
+    "key": "F0A940B14057260B6A72448388E504B9",
+    "text": "Позволь мне сказать это предельно ясно: я виню полицию.",
+    "originalText": "Let me make this perfectly clear, then: I blame the police."
+  },
+  {
+    "path": "Exports.167.Data.7.Value.2.Value.5",
+    "key": "7A70B913402C3F7AF1FE77BB5AC7099E",
+    "text": "И, возможно, иногда это оправдано?",
+    "originalText": "And maybe, sometimes, that's warranted?"
+  },
+  {
+    "path": "Exports.168.Data.0",
+    "key": "E75C7A8148E2FB47ECC91F8B7BB8F716",
+    "text": "Я понимаю, о чем ты говоришь, правда понимаю. Некоторые вещи не сходятся — но я все же думаю, что ты делаешь поспешные выводы.",
+    "originalText": "I get what you're saying, I really do. Some of this doesn't check out - but I still think you're jumping to conclusions."
+  },
+  {
+    "path": "Exports.168.Data.7.Value.0.Value.5",
+    "key": "806405034231A25DCC7A8184BDB08FC2",
+    "text": "Но ты же чувствуешь, что что-то не так, да?",
+    "originalText": "You can tell that something's up though, can't you?"
+  },
+  {
+    "path": "Exports.168.Data.7.Value.1.Value.5",
+    "key": "6D062B2A444E3BD338FC1FADB602111D",
+    "text": "Какие выводы, Лукас? Что тебе еще нужно?",
+    "originalText": "What conclusions, Lukas? What else do you need?"
+  },
+  {
+    "path": "Exports.168.Data.7.Value.2.Value.5",
+    "key": "FE865B6049580DCCBCAD628326225C79",
+    "text": "Рад слышать, что я не совсем сошел с ума.",
+    "originalText": "Glad to hear I'm not completely crazy."
+  },
+  {
+    "path": "Exports.169.Data.0",
+    "key": "B9BC21A64EABB17604C600A5A16E922A",
+    "text": "Я... Рене, никто не идеален. Как бы мне ни хотелось притворяться, что мы все можем сохранять хладнокровие и всегда делать все возможное, мы совершаем ошибки. Иногда они незначительны, иногда они... хуже.",
+    "originalText": "I...Renee, no one is perfect. As much as I'd like to pretend we can all keep our cool and always do our best, we make mistakes. Sometimes they're negligible, sometimes they're...worse."
+  },
+  {
+    "path": "Exports.169.Data.5.Value.0.Value.5",
+    "key": "8BECEC9D43CDBF55CA2F56A8918F90D1",
+    "text": "Тот пожар, Лукас... это не было ни тем, ни другим. Просто халатность.",
+    "originalText": "That fire, Lukas...that was neither. Just neglect."
+  },
+  {
+    "path": "Exports.169.Data.5.Value.1.Value.5",
+    "key": "6052FD69472911B18F5FD0AC608D275A",
+    "text": "Какое из этих объяснений подходит для Стоуна, Лукас?",
+    "originalText": "Which of those covers Stone, Lukas?"
+  },
+  {
+    "path": "Exports.170.Data.0",
+    "key": "733302AC43BAEA5668762C839084F748",
+    "text": "Ладно, ладно. Скажи, когда.",
+    "originalText": "Alright, alright. Tell me when."
+  },
+  {
+    "path": "Exports.170.Data.5.Value.0.Value.5",
+    "key": "AB20606D41C3D2FF02D11FB9DC1A9F0D",
+    "text": "...Вот. Все готово.",
+    "originalText": "...There. All done."
+  },
+  {
+    "path": "Exports.170.Data.5.Value.1.Value.5",
+    "key": "B7F6D2D845528AA0BC01D083394E9A63",
+    "text": "...Готово. Спасибо за терпение.",
+    "originalText": "...Done. Thank you for your patience."
+  },
+  {
+    "path": "Exports.170.Data.5.Value.2.Value.5",
+    "key": "386902B040A0AAFDC56CD9BD7F623DF8",
+    "text": "[Продолжай читать]",
+    "originalText": "[Keep reading]"
+  },
+  {
+    "path": "Exports.171.Data.0",
+    "key": "350CEDD34F41E3A90A7AFE8BA45D48F1",
+    "text": "И как мы это снова узнаем?",
+    "originalText": "And how do we know that, again?"
+  },
+  {
+    "path": "Exports.171.Data.5.Value.0.Value.5",
+    "key": "83DD65D64F6EFFFB8687EEAD213CF6EA",
+    "text": "Первый вызов упоминает дым.",
+    "originalText": "The first call mentions smoke."
+  },
+  {
+    "path": "Exports.171.Data.5.Value.1.Value.5",
+    "key": "974F81604087C869FE74B2B45C7B76A5",
+    "text": "Стоун уже поджег что-то в своей квартире.",
+    "originalText": "Stone had already set fire to something in his apartment."
+  },
+  {
+    "path": "Exports.171.Data.5.Value.2.Value.5",
+    "key": "16F510A74D1D8F3778BA769858BFFE0E",
+    "text": "Вся кухня Стоуна была в саже и пепле.",
+    "originalText": "There was soot and ashes all over Stone's kitchen."
+  },
+  {
+    "path": "Exports.172.Data.0",
+    "key": "49A2C5344A5F91DA89D393BBA45CE7E2",
+    "text": "Может быть, иногда. Но это нелегкая работа. Это люди, которые каждый день рискуют своей жизнью и получают очень мало благодарности за это.",
+    "originalText": "Maybe, sometimes. But it's not an easy job.These are people that put their lives on the line every single day, and get very little thanks for it. "
+  },
+  {
+    "path": "Exports.172.Data.5.Value.0.Value.5",
+    "key": "B2DFD3CC4A2D87BCB6DD1AA1622B7A20",
+    "text": "Тот пожар — они могли его остановить.",
+    "originalText": "That fire - they could have stopped it."
+  },
+  {
+    "path": "Exports.172.Data.5.Value.1.Value.5",
+    "key": "E2AA37EE4CB30AB79D1F9CB7B760E71D",
+    "text": "Стоун получил еще меньше.",
+    "originalText": "Stone got even less."
+  },
+  {
+    "path": "Exports.173.Data.0",
+    "key": "ED89A5AE470ECDD603C7C5A28EDC9831",
+    "text": "И как мы это снова узнаем?",
+    "originalText": "And how do we know that, again?"
+  },
+  {
+    "path": "Exports.173.Data.5.Value.0.Value.5",
+    "key": "7A181DC7462C2CBF0FE1378558846972",
+    "text": "Здание не горело, когда прибыли копы, Лукас.",
+    "originalText": "The building wasn't on fire when the cops showed up, Lukas."
+  },
+  {
+    "path": "Exports.173.Data.5.Value.1.Value.5",
+    "key": "21660C684D22D93669FEDF8D96B08DBC",
+    "text": "Копы не видели пожара. Пожарные видели.",
+    "originalText": "The cops didn't see a fire. The firefighters did."
+  },
+  {
+    "path": "Exports.174.Data.0",
+    "key": "4CF674C1408F4D29B7D8E98FCB349B8D",
+    "text": "Но двое офицеров, которые приехали, не видели никакого пожара, да?",
+    "originalText": "But the two officers who responded didn't see any fires, did they?"
+  },
+  {
+    "path": "Exports.174.Data.5.Value.0.Value.5",
+    "key": "690572824A253438332EF1A69DD5FD4E",
+    "text": "Только остатки небольшого.",
+    "originalText": "Only remains of a small one."
+  },
+  {
+    "path": "Exports.174.Data.5.Value.1.Value.5",
+    "key": "820A26C847EE5ADB96AA709018FF6E56",
+    "text": "Может, они солгали. Или упустили это в своем отчете.",
+    "originalText": "Maybe they lied. Or omitted it from their report."
+  },
+  {
+    "path": "Exports.175.Data.0",
+    "key": "808C1E624F5F3F142745A68336089827",
+    "text": "Я знаю, что ты хочешь верить в лучшее в людях, Рене. Я понимаю. Но Стоун, насколько мы можем судить, напал на офицера. Вот и все.",
+    "originalText": "I know you want to believe the best in people, Renee. I understand. But Stone, as far as we can tell, attacked an officer. That's that."
+  },
+  {
+    "path": "Exports.175.Data.5.Value.0.Value.5",
+    "key": "8D824BE746CC628E540CA89C1FD470B5",
+    "text": "Мне это не нравится.",
+    "originalText": "I don't like it."
+  },
+  {
+    "path": "Exports.175.Data.5.Value.1.Value.5",
+    "key": "DF7FEE874D804E53F879E8858B7BF084",
+    "text": "Я просто не вижу этого.",
+    "originalText": "I just don't see it."
+  },
+  {
+    "path": "Exports.175.Data.5.Value.2.Value.5",
+    "key": "CB51B39D4055A51ADC3A81BBA08EEDD0",
+    "text": "Я же говорил тебе, Лукас. Эти отчеты ошибочны.",
+    "originalText": "I told you, Lukas. Those reports are faulty."
+  },
+  {
+    "path": "Exports.176.Data.0",
+    "key": "DF266AAB4F97B8ACFA0B029DCF1ACA5B",
+    "text": "Справедливо. Ладно, по крайней мере, у нас есть общее время начала пожара. Что-то еще приходит на ум?",
+    "originalText": "Fair enough. Alright, at least we have a general time frame when the fire started. Anything else that comes to mind about it?"
+  },
+  {
+    "path": "Exports.176.Data.6.Value.0.Value.5",
+    "key": "995F6EBB44CFFA68CB8C288A8585BE81",
+    "text": "Была одна вещь...",
+    "originalText": "There was one thing..."
+  },
+  {
+    "path": "Exports.176.Data.6.Value.1.Value.5",
+    "key": "F619AA7845248EAC1CACA0A96AEF190F",
+    "text": "Ничего не приходит на ум. Давай двигаться дальше.",
+    "originalText": "Nothing that comes to mind. Let's move on."
+  },
+  {
+    "path": "Exports.177.Data.0",
+    "key": "112AA852477EAD6F42245D990200AF4E",
+    "text": "Я не знаю, Рене. Не думаю, что ни офицеры, ни Стоун позволили бы любому пожару выйти из-под контроля.",
+    "originalText": "I don't know, Renee. I don't think the officers nor Stone would have let any fires they saw get out of hand."
+  },
+  {
+    "path": "Exports.177.Data.6.Value.0.Value.5",
+    "key": "A271D03D4D98524ACBF0A8A060356957",
+    "text": "...Наверное, так.",
+    "originalText": "...I suppose so."
+  },
+  {
+    "path": "Exports.177.Data.6.Value.1.Value.5",
+    "key": "1763FB9F44A3737476EF459EA1A25318",
+    "text": "Я не уверен, Лукас.",
+    "originalText": "I'm not so sure, Lukas."
+  },
+  {
+    "path": "Exports.178.Data.0",
+    "key": "DE05828440A5957E8C40DFBA27EAC2B1",
+    "text": "Рене, я не думаю, что полицейский стал бы лгать о таком. Кроме того, даже если бы они солгали, это легко было бы опровергнуть.",
+    "originalText": "Renee, I don't think a police officer would lie about something like that. Besides, even if they would, they'd be easily disproven."
+  },
+  {
+    "path": "Exports.178.Data.6.Value.0.Value.5",
+    "key": "9128E91042D0E497BC1F8C9EFC26828D",
+    "text": "Наверное, так.",
+    "originalText": "I suppose so."
+  },
+  {
+    "path": "Exports.178.Data.6.Value.1.Value.5",
+    "key": "0A34161B4326A4F4DC23B99CE1828340",
+    "text": "Может быть. Или, может быть, никто не хотел их опровергать.",
+    "originalText": "Maybe. Or maybe no one wanted to disprove them."
+  },
+  {
+    "path": "Exports.179.Data.0",
+    "key": "14761A3E400B7A5089EC08BE3B3728B7",
+    "text": "Справедливо. Ладно, по крайней мере, у нас есть общее время начала пожара. Что-то еще приходит на ум?",
+    "originalText": "Fair enough. Alright, at least we have a general timeframe when the fire started. Anything else that comes to mind about it?"
+  },
+  {
+    "path": "Exports.179.Data.6.Value.0.Value.5",
+    "key": "2AD63A3D466CCA2358D938BF23C08046",
+    "text": "Была одна вещь...",
+    "originalText": "There was one thing..."
+  },
+  {
+    "path": "Exports.179.Data.6.Value.1.Value.5",
+    "key": "C55DBA904EBD3051A54BA3B57EF7380F",
+    "text": "Ничего не приходит на ум. Давай двигаться дальше.",
+    "originalText": "Nothing that comes to mind. Let's move on."
+  },
+  {
+    "path": "Exports.180.Data.0",
+    "key": "D42FC1614708DD690DD508BEBB3D4795",
+    "text": "Все в порядке. Такого рода расследование — это тяжело. Прежде чем мы перейдем от пожара, было ли что-то еще?",
+    "originalText": "It's alright. This kind of investigative work is hard. Before we move on from the fire, was there anything else?"
+  },
+  {
+    "path": "Exports.180.Data.5.Value.0.Value.5",
+    "key": "6874A8BE44BB50D0FDF19A88F1BFFA0E",
+    "text": "Была одна вещь...",
+    "originalText": "There was one thing..."
+  },
+  {
+    "path": "Exports.180.Data.5.Value.1.Value.5",
+    "key": "B600955B47291935FCD021A3CFA30D35",
+    "text": "Ничего не приходит на ум. Давай двигаться дальше.",
+    "originalText": "Nothing that comes to mind. Let's move on."
+  },
+  {
+    "path": "Exports.181.Data.0",
+    "key": "77E6348C485D1F4C0B2BD7B7FAC69725",
+    "text": "Ты продвигаешься?",
+    "originalText": "Are you getting anywhere?"
+  },
+  {
+    "path": "Exports.181.Data.5.Value.0.Value.5",
+    "key": "615FC1354E8FB7182A7BAB8F69CFBE03",
+    "text": "Это много. Мне нужна пробковая доска.",
+    "originalText": "It's a lot. I need a corkboard."
+  },
+  {
+    "path": "Exports.181.Data.5.Value.1.Value.5",
+    "key": "567A30794A30F84996259CB8482BCBE1",
+    "text": "Думаю, у меня складывается довольно ясная картина, да.",
+    "originalText": "I think I'm getting a pretty decent picture of things, yeah."
+  },
+  {
+    "path": "Exports.182.Data.0",
+    "key": "E403B03540D08E5CAD58169C89C66633",
+    "text": "Дай мне передышку, Рене. Ты же не веришь в это. Давай, теперь — что-то еще о пожаре, что выделяется?",
+    "originalText": "Give me a break, Renee. You don't believe that. Come on, now - anything else about the fire that stands out?"
+  },
+  {
+    "path": "Exports.182.Data.6.Value.0.Value.5",
+    "key": "316FDBDB462BA1D3A5A5A5A49BD6E4B4",
+    "text": "Была одна вещь...",
+    "originalText": "There was one thing..."
+  },
+  {
+    "path": "Exports.182.Data.6.Value.1.Value.5",
+    "key": "682E570D404A21BCCCEA349DE358C8E1",
+    "text": "Ничего не приходит на ум. Давай двигаться дальше.",
+    "originalText": "Nothing that comes to mind. Let's move on."
+  },
+  {
+    "path": "Exports.183.Data.0",
+    "key": "CDDC83614E7BEA9F58A772B4C1A3B85A",
+    "text": "Да?",
+    "originalText": "Yeah?"
+  },
+  {
+    "path": "Exports.183.Data.5.Value.0.Value.5",
+    "key": "EE09D71D41E21906473995A1BBAA9289",
+    "text": "Первый экстренный вызов упоминал дым, но приехали только копы.",
+    "originalText": "The first emergency call made mention of smoke, but only cops showed up."
+  },
+  {
+    "path": "Exports.183.Data.5.Value.1.Value.5",
+    "key": "48E646A24849EFBDE13DBFA4EAA61669",
+    "text": "Нет записей о том, кто сделал второй вызов.",
+    "originalText": "There are no records of who made the second call."
+  },
+  {
+    "path": "Exports.183.Data.5.Value.2.Value.5",
+    "key": "6EBBD61C41998AF06148C48CCB0D1B36",
+    "text": "Копы увидели признаки пожара, но не сообщили в пожарную часть.",
+    "originalText": "The cops saw signs of a fire, but didn't alert the fire department."
+  },
+  {
+    "path": "Exports.183.Data.5.Value.3.Value.5",
+    "key": "0B2ABA0743E499815D65F085F3BA5924",
+    "text": "Все полицейские отчеты имеют одинаковый отрывок в конце.",
+    "originalText": "All the police reports have the same passage at the end."
+  },
+  {
+    "path": "Exports.183.Data.5.Value.4.Value.5",
+    "key": "27F499FE47BA18CC536E7A9F2EDE60AF",
+    "text": "Ничего. Неважно.",
+    "originalText": "Nothing. Nevermind."
+  },
+  {
+    "path": "Exports.184.Data.0",
+    "key": "B88E0946423222D42ED0A5B0266C89FD",
+    "text": "Я знаю. Ты сопереживаешь. Я бы волновался, если бы ты не злилась. Но насколько я могу судить, Стоун сам себя загнал в угол.",
+    "originalText": "I know. You're empathetic. I'd be worried if you weren't angry. But as far as I can tell, Stone made his own bed."
+  },
+  {
+    "path": "Exports.184.Data.5.Value.0.Value.5",
+    "key": "85BC394A4C7B0B0B57CD06B291DFAEE9",
+    "text": "Мне это не нравится. Мне не нравится ничего из этого.",
+    "originalText": "I don't like it. I don't like any of it."
+  },
+  {
+    "path": "Exports.184.Data.5.Value.1.Value.5",
+    "key": "0565C1024973C2EEA9D188844DD7A3EB",
+    "text": "А как насчет пожара, Лукас?",
+    "originalText": "And what about the fire, Lukas?"
+  },
+  {
+    "path": "Exports.184.Data.5.Value.2.Value.5",
+    "key": "D8F76C5448914545F3209AB7DBE20D11",
+    "text": "Неужели, Лукас? Ты действительно так думаешь?",
+    "originalText": "Did he, Lukas? Do you really think so?"
+  },
+  {
+    "path": "Exports.185.Data.0",
+    "key": "4E4F09014F54033B4A4814BA4D2407FA",
+    "text": "Хорошо — я знаю, что тебя интересует эта часть, так что давай разберем. Расскажи мне, когда приехали копы.",
+    "originalText": "Okay - I know you're interested in this part, so let's go over it. Tell me about when the cops showed up."
+  },
+  {
+    "path": "Exports.185.Data.6.Value.0.Value.5",
+    "key": "07D2412E4C118EFE07A3218C15F47288",
+    "text": "Стоун не хотел их впускать.",
+    "originalText": "Stone didn't want to let them in."
+  },
+  {
+    "path": "Exports.186.Data.0",
+    "key": "C1C78FA94600D71DBA2207B0B9B82405",
+    "text": "Я не совсем уверен, как они это сформулировали, но, возможно, они сосредоточились на чем-то другом во время вызова? Кроме того, не редкость, что нас отправляют разбираться с небольшими пожарами время от времени.",
+    "originalText": "I'm not entirely sure how they phrased it, but maybe they focused on something else during the call? Besides, it's not uncommon for us to be sent out to deal with small fires every once in a while."
+  },
+  {
+    "path": "Exports.186.Data.7.Value.0.Value.5",
+    "key": "8FF32B2F4E4B1D4CBA7E66B607E69520",
+    "text": "Вот и все расходы на общественную безопасность.",
+    "originalText": "So much for public safety spending."
+  },
+  {
+    "path": "Exports.186.Data.7.Value.1.Value.5",
+    "key": "97C1BB6F4BA08B7D08246482BFD6866F",
+    "text": "Жаль, что они просто отправили пару копов.",
+    "originalText": "I wish they hadn't just sent a couple cops over."
+  },
+  {
+    "path": "Exports.187.Data.0",
+    "key": "59E6E8C14DB90E8847FCD6B2AA1B5584",
+    "text": "Обычно мы не упускаем это. Может, это было сделано с таксофона или чего-то подобного? Анонимно?",
+    "originalText": "We usually don't omit that. Maybe it was done from a payphone, or something? Anonymously?"
+  },
+  {
+    "path": "Exports.187.Data.7.Value.0.Value.5",
+    "key": "E182BD2E4B171B639AEC9298C9AA2490",
+    "text": "Или, может быть, это было упущено. В этот раз.",
+    "originalText": "Or maybe it was omitted. This time."
+  },
+  {
+    "path": "Exports.187.Data.7.Value.1.Value.5",
+    "key": "55079B9D414E150138AEF69F4550C0A6",
+    "text": "Зачем кому-то сообщать о пожаре анонимно?",
+    "originalText": "Why would someone report a fire anonymously, though?"
+  },
+  {
+    "path": "Exports.188.Data.0",
+    "key": "7D1ACDC54D36F3AF9504AE9CBB7239EC",
+    "text": "Признаки прошлого пожара, да? Если нет пламени и нет причин для тревоги, зачем бы они это сообщили?",
+    "originalText": "Signs of a past fire, right? If there are no flames and no cause of alarm, why would they have called it in?"
+  },
+  {
+    "path": "Exports.188.Data.7.Value.0.Value.5",
+    "key": "D77ED1F64C7A3459A5D2219F68CFF8A0",
+    "text": "Думаю, они просто хотели поскорее убраться оттуда.",
+    "originalText": "I'm guessing they just wanted to be out of there, quick."
+  },
+  {
+    "path": "Exports.188.Data.7.Value.1.Value.5",
+    "key": "1689841849C7A5D015486BAF32B8BBDF",
+    "text": "Я бы назвал это халатностью.",
+    "originalText": "I'd call it for what it is. Neglect."
+  },
+  {
+    "path": "Exports.189.Data.0",
+    "key": "D43508C043AFC8F815F63CAA62A39A60",
+    "text": "Хм. Что-то еще?",
+    "originalText": "Hm. Anything else?"
+  },
+  {
+    "path": "Exports.189.Data.5.Value.0.Value.5",
+    "key": "0CBC041345543F09EF744183DC502A05",
+    "text": "Первый экстренный вызов упоминал дым, но приехали только копы.",
+    "originalText": "The first emergency call made mention of smoke, but only cops showed up."
+  },
+  {
+    "path": "Exports.189.Data.5.Value.1.Value.5",
+    "key": "98CFEB824803B7C936CDC98B010308D2",
+    "text": "Нет записей о том, кто сделал второй вызов.",
+    "originalText": "There are no records of who made the second call."
+  },
+  {
+    "path": "Exports.189.Data.5.Value.2.Value.5",
+    "key": "FA1191854978BCC0380593BAB6515605",
+    "text": "Копы увидели признаки пожара, но не сообщили в пожарную часть.",
+    "originalText": "The cops saw signs of a fire, but didn't alert the fire department."
+  },
+  {
+    "path": "Exports.189.Data.5.Value.3.Value.5",
+    "key": "9D523A2F40E8E0B80CB23EBDB7AB334B",
+    "text": "Все полицейские отчеты имеют одинаковый отрывок в конце.",
+    "originalText": "All the police reports have the same passage at the end."
+  },
+  {
+    "path": "Exports.189.Data.5.Value.4.Value.5",
+    "key": "7D33A0A846373252E0B666B5987B860D",
+    "text": "Это все. Давай двигаться дальше.",
+    "originalText": "That's all. Let's move on."
+  },
+  {
+    "path": "Exports.190.Data.0",
+    "key": "E05B899F4EAAFDFBB9E0DCBB0D6BD358",
+    "text": "Рене, я знаю. Это ужасно. Ужасно. Но мне жаль... я не вижу, как они могли бы знать или что они могли бы сделать. Я знаю, что это плохо, но это... это просто неудача.",
+    "originalText": "Renee, I know. It's awful. Horrible. But I'm sorry...I don't see how they could have known, or what they could have done. I know it's bad, but it's...it's just unfortunate."
+  },
+  {
+    "path": "Exports.190.Data.6.Value.0.Value.5",
+    "key": "F782D0F146F109100A6E19BA4C9C0C74",
+    "text": "Не думаю, что это слово, которое я бы использовала, Лукас.",
+    "originalText": "I don't know if that's the word I'd use, Lukas."
+  },
+  {
+    "path": "Exports.190.Data.6.Value.1.Value.5",
+    "key": "122F6C714EF0A68F684D9DA422B3F4CF",
+    "text": "Думаю, это хуже.",
+    "originalText": "I think it's worse."
+  },
+  {
+    "path": "Exports.191.Data.0",
+    "key": "FED78D694DB3D231E05EB085768F33BC",
+    "text": "Я бы не справился без тебя.",
+    "originalText": "I couldn't have done it without you."
+  },
+  {
+    "path": "Exports.191.Data.5.Value.0.Value.5",
+    "key": "843B544440FAC2315B30E69D985D1980",
+    "text": "Нет, это все ты. Если бы я помог, у нас был бы этот разговор полгода назад.",
+    "originalText": "No, this is all you. If I had helped, we would have had this conversation six months ago."
+  },
+  {
+    "path": "Exports.191.Data.5.Value.1.Value.5",
+    "key": "4D7E82B544B4A3C9628DE28F29CBD5E6",
+    "text": "О, поверь мне, я ничего не сделал.",
+    "originalText": "Oh, trust me, I did nothing."
+  },
+  {
+    "path": "Exports.192.Data.0",
+    "key": "340840934114879E894975AD2B5B057D",
+    "text": "Я знаю, что это выглядит странно, но я почти уверен, что это стандартная процедура. Обычно нужно добавить какой-то юридический жаргон в заявления, чтобы покрыть все базы.",
+    "originalText": "I know that looks weird, but I'm pretty sure that's just standard procedure. There's usually some legal jargon that needs to be added to statements to cover all bases."
+  },
+  {
+    "path": "Exports.192.Data.6.Value.0.Value.5",
+    "key": "3D56530A4F209BFFC78074987C0DF3E4",
+    "text": "Не звучало как юридический жаргон для меня.",
+    "originalText": "Didn't sound like legal jargon to me."
+  },
+  {
+    "path": "Exports.192.Data.6.Value.1.Value.5",
+    "key": "7A70EED14C9D070176D66D865457D022",
+    "text": "Поверю тебе на слово, наверное.",
+    "originalText": "I'll take your word for it, I suppose."
+  },
+  {
+    "path": "Exports.193.Data.0",
+    "key": "BFD84A4E43AD3092C1253C986CA50B5E",
+    "text": "Ты шутишь? Сделал все сам. Заняло всего 45 минут.",
+    "originalText": "You kidding me? Did it all by myself. Only took me a solid 45 minutes."
+  },
+  {
+    "path": "Exports.193.Data.5.Value.0.Value.5",
+    "key": "604723CB471F7DA7C971028F39953891",
+    "text": "Вау. Теперь твои начальники точно заметят.",
+    "originalText": "Wow. Your bosses will have to take notice now."
+  },
+  {
+    "path": "Exports.193.Data.5.Value.1.Value.5",
+    "key": "D9427FA4480BC93F62F78A987F86080B",
+    "text": "Тебе повезло, что ты такая милая.",
+    "originalText": "You're lucky you're so cute."
+  },
+  {
+    "path": "Exports.194.Data.0",
+    "key": "4B8A7A114B8CA22322963BB617FD0A1F",
+    "text": "Обычно так и бывает. Никому не нравится, когда копы появляются без приглашения, тем более когда они входят в их дома. Была ли причина для офицеров быть подозрительными?",
+    "originalText": "That's usually the case. No one likes having cops show up uninvited, much less have them enter their homes. Was there reason for the officers to be suspicious?"
+  },
+  {
+    "path": "Exports.194.Data.5.Value.0.Value.5",
+    "key": "97907A8442A93802D8DA47A9E38700C7",
+    "text": "Они почувствовали запах дыма из квартиры.",
+    "originalText": "They smelled smoke from inside the apartment."
+  },
+  {
+    "path": "Exports.194.Data.5.Value.1.Value.5",
+    "key": "149E83C24AD8BB21FE87E5A134CE1FCA",
+    "text": "Стоун был враждебен.",
+    "originalText": "Stone was antagonistic."
+  },
+  {
+    "path": "Exports.194.Data.5.Value.2.Value.5",
+    "key": "2D80E8D840B9016E91B7FD9471617592",
+    "text": "Они услышали тревожный голос изнутри.",
+    "originalText": "They heard a distressed voice from inside."
+  },
+  {
+    "path": "Exports.194.Data.5.Value.3.Value.5",
+    "key": "3DE7D69A4C8070AE3DB7189D402784DB",
+    "text": "...Дай мне быстро проверить свои записи. [Открыть терминал]",
+    "originalText": "...Let me check my notes real quick. [Open terminal]"
+  },
+  {
+    "path": "Exports.195.Data.0",
+    "key": "3C278F834D9DB0DA7FB9ACACCF07DD2E",
+    "text": "Это определенно повод для беспокойства. Что ты думаешь?",
+    "originalText": "That's certainly enough to warrant concern. What do you think?"
+  },
+  {
+    "path": "Exports.195.Data.5.Value.0.Value.5",
+    "key": "A1B767BA4ED038A6C1E6B6BC32E0A820",
+    "text": "Беспокойство? Да. Остальное? Не уверен.",
+    "originalText": "Concern? Yes. The rest? I'm not so sure."
+  },
+  {
+    "path": "Exports.195.Data.5.Value.1.Value.5",
+    "key": "A990E644452A9891AEEC36A8406C3DFC",
+    "text": "Это больше похоже на работу пожарных, чем на что-либо другое.",
+    "originalText": "It feels like a job for the fire department, more than anything."
+  },
+  {
+    "path": "Exports.196.Data.0",
+    "key": "3720FCCC46EE7BD3BCFEC98D82C2EA85",
+    "text": "Это определенно кажется достаточной причиной. Особенно если Стоун отказывался их впускать. Звучит довольно ясно, да?",
+    "originalText": "That certainly feels like reason enough. Especially if Stone was refusing to let them in. Sounds pretty clear-cut, right?"
+  },
+  {
+    "path": "Exports.196.Data.6.Value.0.Value.5",
+    "key": "9F1D26A144E007C856361282E500848A",
+    "text": "Наверное, так.",
+    "originalText": "I suppose it does."
+  },
+  {
+    "path": "Exports.196.Data.6.Value.1.Value.5",
+    "key": "0B03C3D5421EA4E15AD54D8C315F61B2",
+    "text": "Я не уверен.",
+    "originalText": "I'm not so sure."
+  },
+  {
+    "path": "Exports.197.Data.0",
+    "key": "E2DA88424D3BBAE1D5C97D8A4B185225",
+    "text": "Как я уже сказал, Рене, большинство людей немного настороженно относятся к появлению полиции. Это заставляет их волноваться, что они сделали что-то не так — и если они сделали, они обычно довольно сильно нервничают.",
+    "originalText": "Like I said, Renee, most people are a little wary of the police showing up. Makes them worry they've done something wrong - and if they have, they tend to get pretty worked up."
+  },
+  {
+    "path": "Exports.197.Data.5.Value.0.Value.5",
+    "key": "A723C29A43F46701D6DB25AD4F15F3F6",
+    "text": "Ты не думаешь, что этого было достаточно?",
+    "originalText": "You don't think that was reason enough?"
+  },
+  {
+    "path": "Exports.197.Data.5.Value.1.Value.5",
+    "key": "531335DF428C8CFCA5C2ACAEDB0D513B",
+    "text": "Наверное, так.",
+    "originalText": "I suppose so."
+  },
+  {
+    "path": "Exports.198.Data.0",
+    "key": "81FF664643D050BBC310F0852B73CB24",
+    "text": "Нет? Почему?",
+    "originalText": "No? How come?"
+  },
+  {
+    "path": "Exports.198.Data.5.Value.0.Value.5",
+    "key": "EA0E0FA84062FB9823D4CD9DF6700D4C",
+    "text": "Партнер Стоуна не был в бедственном положении. По крайней мере, согласно остальной части отчета.",
+    "originalText": "Stone's partner wasn't in distress. Not according to the rest of the report, at least."
+  },
+  {
+    "path": "Exports.198.Data.5.Value.1.Value.5",
+    "key": "E3A61AFA4E576F14B38E8D86FFBD9B26",
+    "text": "Я не верю в эту историю с \"тревожным голосом\".",
+    "originalText": "I don't believe the whole \"distressed voice\" thing."
+  },
+  {
+    "path": "Exports.199.Data.0",
+    "key": "3D5750B2474FCA67620305AEC2A97D73",
+    "text": "Да, я почти уверен, что повышение уже на подходе. А как насчет тебя? Как работа?",
+    "originalText": "Yeah, I'm pretty sure that promotion's on the way now. How about you? How's work?"
+  },
+  {
+    "path": "Exports.199.Data.5.Value.0.Value.5",
+    "key": "9D6CB875418CB095D3B7F196B384FDB2",
+    "text": "Это много. Мне нужна пробковая доска.",
+    "originalText": "It's a lot. I need a corkboard."
+  },
+  {
+    "path": "Exports.199.Data.5.Value.1.Value.5",
+    "key": "3EC94FA84B8E50FFC47B43A55A1FD978",
+    "text": "Идет хорошо, на самом деле. Думаю, я продвигаюсь.",
+    "originalText": "It's going well, actually. I think I'm making progress."
+  },
+  {
+    "path": "Exports.200.Data.0",
+    "key": "56820E2B491F36EC2C77D9A9B0B49D09",
+    "text": "Так что у офицеров была причина войти. И в конце концов они вошли, да?",
+    "originalText": "So there's reason for the officers to get in. And eventually they do, right?"
+  },
+  {
+    "path": "Exports.200.Data.5.Value.0.Value.5",
+    "key": "C83C98EA4E57BA36888E2E8785721DA2",
+    "text": "Верно.",
+    "originalText": "That's right."
+  },
+  {
+    "path": "Exports.201.Data.0",
+    "key": "71146C48406798215BF0B49E6BA91324",
+    "text": "Это не так много в плане доказательств, но если кто-то действительно конфронтационен, обычно что-то не так. Хорошо, продолжай. Что потом?",
+    "originalText": "It's not much in the way of evidence, but if someone's really confrontational, there's usually something up. Alright, go on. Then what?"
+  },
+  {
+    "path": "Exports.201.Data.5.Value.0.Value.5",
+    "key": "652552ED40C85BE37F251EB22855B3E5",
+    "text": "Копы заходят внутрь.",
+    "originalText": "The cops get inside."
+  },
+  {
+    "path": "Exports.202.Data.0",
+    "key": "D142ED6D4E94F0CD9A53978FB3B9544D",
+    "text": "Я пока не уверен. Копы в конце концов заходят внутрь, да?",
+    "originalText": "I'm not sure yet. The cops get in eventually, right?"
+  },
+  {
+    "path": "Exports.202.Data.6.Value.0.Value.5",
+    "key": "DF30233244A66F1EF22F3994F73ED134",
+    "text": "Зашли.",
+    "originalText": "They did."
+  },
+  {
+    "path": "Exports.203.Data.0",
+    "key": "A53EC4BC40BEC75B7644D1A81650E49C",
+    "text": "И как они вошли?",
+    "originalText": "And how did they enter?"
+  },
+  {
+    "path": "Exports.203.Data.5.Value.0.Value.5",
+    "key": "BA7E733A421378432E8E909496ADA14A",
+    "text": "Стоун в конце концов их впустил.",
+    "originalText": "Stone eventually let them in."
+  },
+  {
+    "path": "Exports.203.Data.5.Value.1.Value.5",
+    "key": "50366A594F128A0FC6B98DAA605EB8FB",
+    "text": "Они взломали дверь.",
+    "originalText": "They breached the door."
+  },
+  {
+    "path": "Exports.203.Data.5.Value.2.Value.5",
+    "key": "0A6D0F4242B921D36890409E8C08FD71",
+    "text": "Они заставили Стоуна открыть.",
+    "originalText": "They forced Stone to open it."
+  },
+  {
+    "path": "Exports.204.Data.0",
+    "key": "81CE7E6E4C2164DF31C5B7ABF8FC6E18",
+    "text": "Нет? Хм. Ну, возможно, она волновалась, что ситуация может обостриться, и просто хотела, чтобы офицеры ушли, наверное. Так они заходят в квартиру, да?",
+    "originalText": "No? Hm. Well, it's possible that she was worried that things were going to escalate and just wanted the officers to leave, I suppose. So they enter the apartment, right?"
+  },
+  {
+    "path": "Exports.204.Data.6.Value.0.Value.5",
+    "key": "1597BD3C4857216B78D0438223E9EA48",
+    "text": "Верно.",
+    "originalText": "That's right."
+  },
+  {
+    "path": "Exports.205.Data.0",
+    "key": "1C503F9E46522DB784DF33A394703CDD",
+    "text": "Тогда... наверное, этим двум офицерам придется ответить на некоторые вопросы. Серьезные вопросы.",
+    "originalText": "Then...I suppose those two officers will need to answer some questions. Some serious questions."
+  },
+  {
+    "path": "Exports.205.Data.5.Value.0.Value.5",
+    "key": "481281FD4D2D1CC714B33ABB3C10E2DA",
+    "text": "Хотя, это были не только они, да?",
+    "originalText": "Although, it wasn't just the two of them, was it?"
+  },
+  {
+    "path": "Exports.205.Data.5.Value.1.Value.5",
+    "key": "6B3767714E864EA0514607846250B62C",
+    "text": "Я уверен, что справедливость восторжествует. Надеюсь на это.",
+    "originalText": "I'm sure justice will be served. I hope so."
+  },
+  {
+    "path": "Exports.205.Data.5.Value.2.Value.5",
+    "key": "03E95D7142C7F2A608DCC2B26606D921",
+    "text": "Да. Это много для размышлений.",
+    "originalText": "Yeah. It's a lot to think about."
+  },
+  {
+    "path": "Exports.206.Data.0",
+    "key": "E9D580FC490ADA57E309B285C2FE7B85",
+    "text": "Ты говоришь, что они могли придумать это, чтобы иметь причину войти?",
+    "originalText": "Are you saying they would make it up to have a reason to enter?"
+  },
+  {
+    "path": "Exports.206.Data.5.Value.0.Value.5",
+    "key": "4F78C91C408CD865A8CB17A4E0F2B09E",
+    "text": "Да.",
+    "originalText": "Yeah."
+  },
+  {
+    "path": "Exports.206.Data.5.Value.1.Value.5",
+    "key": "E1D2566647D35196FF3C99B54E10A52B",
+    "text": "Нет. Может, они просто ошиблись.",
+    "originalText": "No. Maybe they just were mistaken."
+  },
+  {
+    "path": "Exports.206.Data.5.Value.2.Value.5",
+    "key": "FD83D4454DEDDC2EEB73D89DEB16DA11",
+    "text": "Я говорю, что они приехали в Уэст-Энд и предположили худшее.",
+    "originalText": "I'm saying they got to West End and assumed the worst."
+  },
+  {
+    "path": "Exports.207.Data.0",
+    "key": "45ECC3E1477F849494BBC484E307DC96",
+    "text": "Хорошо, хорошо. Так Стоун в конце концов успокоился? Какова была ситуация, когда они были внутри?",
+    "originalText": "Good, good. So Stone calmed down, eventually? What was the situation once they were inside?"
+  },
+  {
+    "path": "Exports.207.Data.6.Value.0.Value.5",
+    "key": "5C8048E341C2A0985207A3B56300606B",
+    "text": "Стоун был враждебен.",
+    "originalText": "Stone was hostile."
+  },
+  {
+    "path": "Exports.207.Data.6.Value.1.Value.5",
+    "key": "06F013E9488BECD365A556A9D1FDDF14",
+    "text": "Стоун был взволнован, но сотрудничал.",
+    "originalText": "Stone was agitated, but cooperated."
+  },
+  {
+    "path": "Exports.207.Data.6.Value.2.Value.5",
+    "key": "DBBFBE7D4AFE839878C2878958C93BC1",
+    "text": "Стоун оставался спокойным.",
+    "originalText": "Stone remained calm."
+  },
+  {
+    "path": "Exports.207.Data.6.Value.3.Value.5",
+    "key": "C0E5BDAE4FBF7C1E5DCC81905C3E4CB7",
+    "text": "Секунду. Проверяю записи. [Открыть терминал]",
+    "originalText": "One sec. Checking my notes. [Open terminal]"
+  },
+  {
+    "path": "Exports.208.Data.0",
+    "key": "AF3E81AF4DDBBED8A5E0F695572624DE",
+    "text": "Парень был очень настойчив в том, чтобы не впускать людей, да? Какова была его реакция, когда люди зашли внутрь?",
+    "originalText": "The guy was really adamant about not letting people in, huh? What was his reaction once people were inside?"
+  },
+  {
+    "path": "Exports.208.Data.6.Value.0.Value.5",
+    "key": "BECA47F342DB80B902DF25AF77333F7A",
+    "text": "Он был враждебен.",
+    "originalText": "He was hostile."
+  },
+  {
+    "path": "Exports.208.Data.6.Value.1.Value.5",
+    "key": "A5C80CA24AD0365DFC5487917934FD35",
+    "text": "Он был взволнован, но сотрудничал.",
+    "originalText": "He was agitated, but cooperated."
+  },
+  {
+    "path": "Exports.208.Data.6.Value.2.Value.5",
+    "key": "D1714F2A48C98E838A523898EA9526CF",
+    "text": "Стоун оставался спокойным.",
+    "originalText": "Stone remained calm."
+  },
+  {
+    "path": "Exports.208.Data.6.Value.3.Value.5",
+    "key": "2DAC24D34BEA09C0BC6CD0A010E9EC17",
+    "text": "Секунду. Проверяю записи. [Открыть терминал]",
+    "originalText": "One sec. Checking my notes. [Open terminal]"
+  },
+  {
+    "path": "Exports.209.Data.0",
+    "key": "648A56C64FEB727BAD87418F79C2A116",
+    "text": "Заставили его? Это звучит странно — ты уверен, что правильно помнишь?",
+    "originalText": "Forced him? That sounds strange - are you sure you're remembering that right?"
+  },
+  {
+    "path": "Exports.209.Data.6.Value.0.Value.5",
+    "key": "A62B2B1C43496BE9A7EA4EBDB0D79997",
+    "text": "Я бы не исключал этого.",
+    "originalText": "I wouldn't put it past them."
+  },
+  {
+    "path": "Exports.209.Data.6.Value.1.Value.5",
+    "key": "B04F1C95468FF12FE7292EA39FBDD037",
+    "text": "Может, и нет.",
+    "originalText": "Maybe not."
+  },
+  {
+    "path": "Exports.210.Data.0",
+    "key": "5B013A9E44F20EF7F81A1A87681DE291",
+    "text": "Повезло? Я просто хорошо выгляжу в форме.",
+    "originalText": "Lucky? I just look good in a uniform."
+  },
+  {
+    "path": "Exports.210.Data.6.Value.0.Value.5",
+    "key": "5121EAE84AFCA10485DCB88203083BDB",
+    "text": "[Прищуриться] Конечно.",
+    "originalText": "[Squint] Sure."
+  },
+  {
+    "path": "Exports.210.Data.6.Value.1.Value.5",
+    "key": "F010F3FB49FFE269FFF945BB4DA47EA2",
+    "text": "Нет, ты ненавидишь свою форму.",
+    "originalText": "Nah, you despite your uniform."
+  },
+  {
+    "path": "Exports.211.Data.0",
+    "key": "8BB168D745E219D5085EA5A5A1FA5815",
+    "text": "Давай, Рене — если была причина войти, им пришлось как-то это сделать. Обычно протокол — взломать дверь. Как Стоун на это отреагировал?",
+    "originalText": "Come on, Renee - if there was reason to get in, they had to, somehow. Protocol's usually to breach the door, though. How did Stone react to this?"
+  },
+  {
+    "path": "Exports.211.Data.6.Value.0.Value.5",
+    "key": "F8CD8C334F99E6FB5372949C753EF991",
+    "text": "С враждебностью.",
+    "originalText": "With hostility."
+  },
+  {
+    "path": "Exports.211.Data.6.Value.1.Value.5",
+    "key": "3B2A0CD8487D08A2DD821FB92FC87AF2",
+    "text": "Ему это не понравилось, но он сотрудничал.",
+    "originalText": "He wasn't happy about it, but he cooperated."
+  },
+  {
+    "path": "Exports.211.Data.6.Value.2.Value.5",
+    "key": "754985FE4C49C46A1941B7971EBC4DBA",
+    "text": "Стоун оставался спокойным.",
+    "originalText": "Stone remained calm."
+  },
+  {
+    "path": "Exports.211.Data.6.Value.3.Value.5",
+    "key": "0CFF83DB4699262D20711881C13AB32A",
+    "text": "Секунду. Проверяю записи. [Открыть терминал]",
+    "originalText": "One sec. Checking my notes. [Open terminal]"
+  },
+  {
+    "path": "Exports.212.Data.0",
+    "key": "2A443FEA4DADA70E84F942921287DE86",
+    "text": "Хорошо, в любом случае, они заходят внутрь. Какова реакция Стоуна и его партнера?",
+    "originalText": "Alright, well - either way, they get in. What's the reaction from Stone and his partner?"
+  },
+  {
+    "path": "Exports.212.Data.6.Value.0.Value.5",
+    "key": "2A7B1A26494885C7028B1998D733AAD2",
+    "text": "Стоун был враждебен.",
+    "originalText": "Stone was hostile."
+  },
+  {
+    "path": "Exports.212.Data.6.Value.1.Value.5",
+    "key": "13907C084C0BD854842CF7A8DCEFDD4E",
+    "text": "Стоун был взволнован, но сотрудничал.",
+    "originalText": "Stone was agitated, but cooperated."
+  },
+  {
+    "path": "Exports.212.Data.6.Value.2.Value.5",
+    "key": "190E7A064B587E920D24ABA19750F5D6",
+    "text": "Стоун оставался спокойным.",
+    "originalText": "Stone remained calm."
+  },
+  {
+    "path": "Exports.212.Data.6.Value.3.Value.5",
+    "key": "B6089CB14F868242BFCFA78E33ED7894",
+    "text": "Секунду. Проверяю записи. [Открыть терминал]",
+    "originalText": "One sec. Checking my notes. [Open terminal]"
+  },
+  {
+    "path": "Exports.213.Data.0",
+    "key": "D8E3F7F34EBE982D4E11B99AF1558A92",
+    "text": "Я... Рене, я не думаю, что они стали бы лгать в официальном полицейском отчете. В крайнем случае, может, они что-то не так услышали. В любом случае — они зашли внутрь, да?",
+    "originalText": "I- Renee, I don't think they would lie on an official police report. At most, maybe they misheard something. Either way - they got in, right?"
+  },
+  {
+    "path": "Exports.213.Data.6.Value.0.Value.5",
+    "key": "299DE3F34BB136DCE7590AAA8A5E10CA",
+    "text": "Зашли.",
+    "originalText": "They did."
+  },
+  {
+    "path": "Exports.214.Data.0",
+    "key": "5FFE54AD435792B7E012FB83D6801DB7",
+    "text": "Это была напряженная ситуация, так что, наверное, это возможно. В любом случае, лучше расследовать, чем игнорировать потенциальную ситуацию. Они в конце концов зашли внутрь, да?",
+    "originalText": "It was a tense situation, so I suppose it's possible. Either way, it's better to investigate than to ignore a potential situation. They got inside eventually, right?"
+  },
+  {
+    "path": "Exports.214.Data.6.Value.0.Value.5",
+    "key": "0FF8EAEA47C46F63DD17798135BD5E10",
+    "text": "Зашли.",
+    "originalText": "They did."
+  },
+  {
+    "path": "Exports.215.Data.0",
+    "key": "1CA5FE1C493D895EA9E0FAAFD282D939",
+    "text": "Наверное, так. Иногда им приходится. Там много... ну, в том районе много преступлений. Ты... Хм. Возможно, они действовали, исходя из предположений, да. В любом случае — они зашли внутрь, да?",
+    "originalText": "I suppose so. Sometimes, they have to. There's a lot of- well, there's a lot of crime in that borough. You...Hm. It's possible they acted based on assumptions, yeah. Either way - they got inside, right?"
+  },
+  {
+    "path": "Exports.215.Data.6.Value.0.Value.5",
+    "key": "F12280EF424EF3D781DFDC809A21EC5C",
+    "text": "Думаю, да.",
+    "originalText": "I guess they did, yeah."
+  },
+  {
+    "path": "Exports.216.Data.0",
+    "key": "73106DF14409E52EF1B01AA2C1A71E52",
+    "text": "Я понимаю твою точку зрения, но иногда нужно убедиться. Люди зависят от этого. В данном случае этого было достаточно, чтобы офицеры вошли в квартиру, да?",
+    "originalText": "I get your point, but sometimes you have to make sure. People depend on us doing so. In this case, it was enough for the officers to enter the apartment, right?"
+  },
+  {
+    "path": "Exports.216.Data.6.Value.0.Value.5",
+    "key": "E337C9E34F1D72256154E6AACBA0DF42",
+    "text": "Похоже на то.",
+    "originalText": "So it would seem."
+  },
+  {
+    "path": "Exports.216.Data.6.Value.1.Value.5",
+    "key": "1E6E0DD240759CD494304CBE3BC1445D",
+    "text": "Да.",
+    "originalText": "Yeah."
+  },
+  {
+    "path": "Exports.217.Data.0",
+    "key": "6F888440447EEF21816EDAA844986F77",
+    "text": "Иногда наши области пересекаются, Рене. Я знаю некоторых копов с огнетушителем в патрульной машине. В любом случае — офицеры заходят внутрь, верно?",
+    "originalText": "Sometimes our fields overlap, Renee. I know some cops with a fire extinguisher in the patrol car. Anyway - the officers make their way inside, correct?"
+  },
+  {
+    "path": "Exports.217.Data.6.Value.0.Value.5",
+    "key": "04611840438C2880FECACCA632FE7233",
+    "text": "Верно.",
+    "originalText": "Correct."
+  },
+  {
+    "path": "Exports.218.Data.0",
+    "key": "22D17F1647501AAA9560DD8280959D3B",
+    "text": "Это сходится, да. В каком смысле?",
+    "originalText": "That checks out, yeah. In what way?"
+  },
+  {
+    "path": "Exports.218.Data.5.Value.0.Value.5",
+    "key": "FA2FA4124F6DBFDFDE8CB8A9E7A9B782",
+    "text": "Он оскорблял их.",
+    "originalText": "He insulted them."
+  },
+  {
+    "path": "Exports.218.Data.5.Value.1.Value.5",
+    "key": "C5C161EB4FD771169D7F06A0FE2EF5DE",
+    "text": "Он угрожал им.",
+    "originalText": "He threatened them."
+  },
+  {
+    "path": "Exports.218.Data.5.Value.2.Value.5",
+    "key": "694B448A4FB811BA9902039A2AFAC1B9",
+    "text": "Он пытался помешать им осмотреть квартиру.",
+    "originalText": "He tried to keep them from investigating the apartment."
+  },
+  {
+    "path": "Exports.219.Data.0",
+    "key": "4CAC49D046CE5D585963DCA3806CB9D1",
+    "text": "Он? Тогда как же — ну, ты знаешь?",
+    "originalText": "He did? Then how come - well, you know?"
+  },
+  {
+    "path": "Exports.219.Data.6.Value.0.Value.5",
+    "key": "CDE5DE3F405EE6888C7B6E9DB0AB2A13",
+    "text": "Может, что-то произошло, что заставило его сорваться.",
+    "originalText": "Maybe something happened that caused him to snap."
+  },
+  {
+    "path": "Exports.219.Data.6.Value.1.Value.5",
+    "key": "0267F82E4F43C3FCFE5F26945EE94EAD",
+    "text": "[Пожать плечами] Что-то на него подействовало.",
+    "originalText": "[Shrug] Something got to him."
+  },
+  {
+    "path": "Exports.219.Data.6.Value.2.Value.5",
+    "key": "C3864FA94FF6F325B27704B8FC09F01A",
+    "text": "В этом-то и дело. Истории не сходятся.",
+    "originalText": "That's the thing. The stories don't add up."
+  },
+  {
+    "path": "Exports.220.Data.0",
+    "key": "CEDBB3924B0FA5691D1500A5F8541471",
+    "text": "Подожди — ты уверен в этом? Это звучит неправильно.",
+    "originalText": "Wait - are you sure about that? That doesn't sound right."
+  },
+  {
+    "path": "Exports.220.Data.5.Value.0.Value.5",
+    "key": "FB66BBEA4912E2D46525C998B33214E7",
+    "text": "Уверен.",
+    "originalText": "I'm sure."
+  },
+  {
+    "path": "Exports.220.Data.5.Value.1.Value.5",
+    "key": "BA241F4440CE63FDD961D3B059BCDE10",
+    "text": "Не совсем. Но у меня есть предчувствие, что это действительно произошло.",
+    "originalText": "I'm not, really. But I have a hunch that's what really happened."
+  },
+  {
+    "path": "Exports.221.Data.0",
+    "key": "B21D45C24EB45E05F372F98E66572763",
+    "text": "Я знаю, тебе это нравится. В любом случае, ты сегодня упустил свой шанс. Что тебя так заняло?",
+    "originalText": "I know you love it. Anyway, you missed your shot today. What's got you so busy?"
+  },
+  {
+    "path": "Exports.221.Data.5.Value.0.Value.5",
+    "key": "682BBEAA4C633A8E87F89C8179F6C526",
+    "text": "Пытаюсь закончить статью о пожаре.",
+    "originalText": "Trying to finish up the fire article."
+  },
+  {
+    "path": "Exports.221.Data.5.Value.1.Value.5",
+    "key": "6AA983DE48F4D4A17BD61690E63958C7",
+    "text": "Догадайся, умник.",
+    "originalText": "Take a guess, hotshot."
+  },
+  {
+    "path": "Exports.222.Data.0",
+    "key": "0CC6BA5740248107BD5E28A86D53516B",
+    "text": "Я знаю. Я сделаю. Я просто... отказываюсь верить, что это какая-то массовая сокрытие.",
+    "originalText": "I know. I will. I just...I refuse to believe that this is some kind of massive cover-up."
+  },
+  {
+    "path": "Exports.222.Data.5.Value.0.Value.5",
+    "key": "3DCBC35242A73EB0A84C9EA6BAE9AE87",
+    "text": "Отказываешься?",
+    "originalText": "Refuse?"
+  },
+  {
+    "path": "Exports.222.Data.5.Value.1.Value.5",
+    "key": "7409925445FD0B5099AE4FB593959225",
+    "text": "В любом случае, правда должна выйти наружу.",
+    "originalText": "Regardless, the truth better come out."
+  },
+  {
+    "path": "Exports.222.Data.5.Value.2.Value.5",
+    "key": "7DF530B04E8A5A36C2B56480329BB570",
+    "text": "Это много. Мне нужно об этом подумать.",
+    "originalText": "It's a lot. I need to think about it."
+  },
+  {
+    "path": "Exports.223.Data.0",
+    "key": "7FA7AF6741308433F05C078EE4FD6D70",
+    "text": "Он угрожал им? В отчетах указано, как?",
+    "originalText": "He threatened them? Did the reports state how?"
+  },
+  {
+    "path": "Exports.223.Data.6.Value.0.Value.5",
+    "key": "AB5FBDEA4AC6A642A60A6C9201EB579A",
+    "text": "Оскорбления. Устные угрозы.",
+    "originalText": "Insults. Verbal threats."
+  },
+  {
+    "path": "Exports.223.Data.6.Value.1.Value.5",
+    "key": "1F78FC9C45032B6F164925A44362DD45",
+    "text": "Он был вооружен.",
+    "originalText": "He was wielding a weapon."
+  },
+  {
+    "path": "Exports.223.Data.6.Value.2.Value.5",
+    "key": "33684421478C6F0E5F7731B489000A4E",
+    "text": "Не совсем, нет.",
+    "originalText": "Not precisely, no."
+  },
+  {
+    "path": "Exports.223.Data.6.Value.3.Value.5",
+    "key": "F8C6FC2C4FA40CF2CAAB548BC7D893C4",
+    "text": "Вроде того. Но отчеты не имеют смысла.",
+    "originalText": "Sort of. But the reports make no sense."
+  },
+  {
+    "path": "Exports.224.Data.0",
+    "key": "BF25F50A4EAC80E92DF85E87ADDB4A1F",
+    "text": "О? Независимо от того, что произошло, препятствование расследованию также является основанием для обвинения. Ты уверен, что он активно мешал им?",
+    "originalText": "Oh? Regardless of what happened, obstruction of an investigation is grounds for a charge as well. Are you sure he was actively hindering them?"
+  },
+  {
+    "path": "Exports.224.Data.6.Value.0.Value.5",
+    "key": "B38DBF2749336BEC79FE1EAF9262B978",
+    "text": "Может, и нет — но ему не нравилось, что они копаются.",
+    "originalText": "Maybe not - but he didn't like them snooping around."
+  },
+  {
+    "path": "Exports.224.Data.6.Value.1.Value.5",
+    "key": "C820E9BA4204D228F205FE98AE640981",
+    "text": "Думаю, да.",
+    "originalText": "I think so, yes."
+  },
+  {
+    "path": "Exports.225.Data.0",
+    "key": "558481EB4843C26D5E7E2FA1FDBEEB37",
+    "text": "О, точно... Кажется, я помню эту часть: первый офицер заходит на кухню, слышит крик и возвращается. Мы точно знаем, что произошло в коридоре в это время?",
+    "originalText": "Oh, right...I think I remember this part: the first officer goes into the kitchen, hears a yell, and comes back. Do we know precisely what happened in the hall during that time?"
+  },
+  {
+    "path": "Exports.225.Data.6.Value.0.Value.5",
+    "key": "F493BD1C41DC820A99C15FA385806091",
+    "text": "Стоун напал на второго офицера.",
+    "originalText": "Stone attacked the second officer."
+  },
+  {
+    "path": "Exports.225.Data.6.Value.1.Value.5",
+    "key": "9AB9C3444FF337B6548FC389E7CA5D08",
+    "text": "Второй офицер застрелил Стоуна.",
+    "originalText": "The second officer shot Stone."
+  },
+  {
+    "path": "Exports.225.Data.6.Value.2.Value.5",
+    "key": "F395D5384A159D62070F85B495FE65C0",
+    "text": "Неясно. Истории не сходятся.",
+    "originalText": "It's unclear. The stories don't add up."
+  },
+  {
+    "path": "Exports.225.Data.6.Value.3.Value.5",
+    "key": "2C9E509642B20F3E71E27095ADDDDFA3",
+    "text": "Дай мне освежить память... [Открыть терминал]",
+    "originalText": "Let me jog my memory... [Open terminal]"
+  },
+  {
+    "path": "Exports.226.Data.0",
+    "key": "C7FD3E3543C7D10A10303885A8CFC801",
+    "text": "Верно, верно. В отчете указано, как?",
+    "originalText": "Right, right. Does the report specify how?"
+  },
+  {
+    "path": "Exports.226.Data.6.Value.0.Value.5",
+    "key": "ADDEA1B24F537A128AAF31B0943E4ABC",
+    "text": "Как я сказал, он оскорбил и угрожал копу. А потом напал.",
+    "originalText": "Like I said, he insulted and threatened the cop. And then attacked."
+  },
+  {
+    "path": "Exports.226.Data.6.Value.1.Value.5",
+    "key": "7599922E479579427ED4EFB06BF8FC80",
+    "text": "Он оскорбил их, а потом напал.",
+    "originalText": "He insulted them, and then attacked."
+  },
+  {
+    "path": "Exports.226.Data.6.Value.2.Value.5",
+    "key": "0A1C9E834D8C9346247E3E854869E113",
+    "text": "Коп довел его до предела, и он бросился.",
+    "originalText": "The cop pushed him over the edge, and he lunged."
+  },
+  {
+    "path": "Exports.227.Data.0",
+    "key": "FAA4E69D4ED2E4CDD53DB88AFA258AA2",
+    "text": "Они не сходятся? Какие расхождения? О чем это?",
+    "originalText": "They don't add up? What are the discrepancies? What is this about?"
+  },
+  {
+    "path": "Exports.227.Data.6.Value.0.Value.5",
+    "key": "22E59FFA400CD7B7FA30EBB35540A81E",
+    "text": "Это связано с тем, что Стоун напал на другого копа.",
+    "originalText": "It's got to do with Stone attacking the other cop."
+  },
+  {
+    "path": "Exports.227.Data.6.Value.1.Value.5",
+    "key": "C93889594D27E7D084A48FAC4F5D7FC9",
+    "text": "Это связано с нападением.",
+    "originalText": "It's got to do with the attack."
+  },
+  {
+    "path": "Exports.227.Data.6.Value.2.Value.5",
+    "key": "6D3B86D641C8FE87DE709BB8C6B3496F",
+    "text": "Это связано с партнером Стоуна.",
+    "originalText": "It's got to do with Stone's partner."
+  },
+  {
+    "path": "Exports.228.Data.0",
+    "key": "C505913B4576F266DEEBE7A03751CE84",
+    "text": "Просто так? Мне это трудно поверить, Рене.",
+    "originalText": "Just like that? I find that hard to believe, Renee."
+  },
+  {
+    "path": "Exports.228.Data.5.Value.0.Value.5",
+    "key": "BB9E40A343896A95AB133B8F0052A8E9",
+    "text": "...Наверное, согласно отчету, это было в целях самообороны после того, как Стоун напал на него.",
+    "originalText": "...I suppose, according to the report, it was in self-defense after Stone attacked him."
+  },
+  {
+    "path": "Exports.228.Data.5.Value.1.Value.5",
+    "key": "5760795B48FBD2FDABF77BA7B35FE569",
+    "text": "Мне это довольно легко поверить, Лукас.",
+    "originalText": "I find it pretty easy to believe, Lukas."
+  },
+  {
+    "path": "Exports.229.Data.0",
+    "key": "2D08E7B9443DAC27786659AC03A90F4F",
+    "text": "А что насчет нападения?",
+    "originalText": "What about the attack?"
+  },
+  {
+    "path": "Exports.229.Data.5.Value.0.Value.5",
+    "key": "51C90C2A481D2AC5858245BEB3E88786",
+    "text": "Коп действовал первым. Он застрелил Стоуна без провокации.",
+    "originalText": "The cop acted first. He shot Stone unprompted."
+  },
+  {
+    "path": "Exports.230.Data.0",
+    "key": "823F166943BB7860A2EC1887141A4FC4",
+    "text": "А что насчет нее?",
+    "originalText": "What about her?"
+  },
+  {
+    "path": "Exports.230.Data.5.Value.0.Value.5",
+    "key": "B240602948CB9E148444E6B89DC186B5",
+    "text": "Думаю, она напала на офицера.",
+    "originalText": "I think she attacked the officer."
+  },
+  {
+    "path": "Exports.230.Data.5.Value.1.Value.5",
+    "key": "9937011F45980DC74FAE47BC453CFD09",
+    "text": "В отчете очень мало информации о ней.",
+    "originalText": "There's very little in the report about her."
+  },
+  {
+    "path": "Exports.230.Data.5.Value.2.Value.5",
+    "key": "C88CAEE94A83ED3B5BE0D49C480F07E3",
+    "text": "Думаю, она последовала за офицером на кухню.",
+    "originalText": "I think she followed the officer into the kitchen."
+  },
+  {
+    "path": "Exports.231.Data.0",
+    "key": "58D98433427BAD5BA9BDA4AEA2E98ED7",
+    "text": "Ладно, ладно — я не начну. Так это то, о чем я думаю?",
+    "originalText": "Alright, alright - I won't start. So is that what I think it is?"
+  },
+  {
+    "path": "Exports.231.Data.6.Value.0.Value.5",
+    "key": "F0A8E6594F41386E0FE878A9C810BE57",
+    "text": "Дело о пожаре? Да.",
+    "originalText": "The fire case? Yeah."
+  },
+  {
+    "path": "Exports.231.Data.6.Value.1.Value.5",
+    "key": "5CB76943404D675401ABD0894300332F",
+    "text": "А что ты думаешь?",
+    "originalText": "What do you think it is?"
+  },
+  {
+    "path": "Exports.232.Data.0",
+    "key": "F3FF5A0B4DF79606BE1521992F61DD55",
+    "text": "Ты уверен? Ее тоже задержали? Ты ничего не путаешь?",
+    "originalText": "Are you sure? Was she subdued as well? You're not getting things mixed up, are you?"
+  },
+  {
+    "path": "Exports.232.Data.5.Value.0.Value.5",
+    "key": "D058EC10423B3AC183FFB78A56E87FDC",
+    "text": "Не уверен. Может быть.",
+    "originalText": "I'm not sure. Maybe."
+  },
+  {
+    "path": "Exports.232.Data.5.Value.1.Value.5",
+    "key": "6467576A4486E2F48326B0B42FABD7CA",
+    "text": "Я почти уверен, что она это сделала.",
+    "originalText": "I'm pretty certain she did."
+  },
+  {
+    "path": "Exports.233.Data.0",
+    "key": "F63E98E44B0DC572A127DBB7F3F5EE0E",
+    "text": "О? Почему?",
+    "originalText": "Oh? Why?"
+  },
+  {
+    "path": "Exports.233.Data.5.Value.0.Value.5",
+    "key": "EDEA51284B9DDB0D2AF4A986B737191D",
+    "text": "Просто предчувствие.",
+    "originalText": "Just a hunch."
+  },
+  {
+    "path": "Exports.233.Data.5.Value.1.Value.5",
+    "key": "A4F75CB74B337382BC9DEBA0F77ED0B8",
+    "text": "Стрельба произошла без ее попытки вмешаться.",
+    "originalText": "The shooting seemed to take place without her making any attempt to intervene."
+  },
+  {
+    "path": "Exports.234.Data.0",
+    "key": "5B6F90C54D1657D2E675688BDC52F7FE",
+    "text": "Я не понимаю, Рене — что не сходится?",
+    "originalText": "I don't follow, Renee - what doesn't add up, then?"
+  },
+  {
+    "path": "Exports.234.Data.5.Value.0.Value.5",
+    "key": "E13E0FC94ADEB87401A9968E736E843D",
+    "text": "Думаю, отчеты упускают ее не просто так. Я не доверяю им.",
+    "originalText": "I think the reports omit her for a reason. I don't trust them."
+  },
+  {
+    "path": "Exports.234.Data.5.Value.1.Value.5",
+    "key": "BAFB8FB64B160BCE5BD778A0FB6E6759",
+    "text": "Судя по отчету, она была в коридоре, когда Стоуна застрелили.",
+    "originalText": "Judging by the report, she was in the hall when Stone was shot."
+  },
+  {
+    "path": "Exports.235.Data.0",
+    "key": "1C1F12224A4DF46A6E67A3B1062B0BA8",
+    "text": "Лучше, если бы он не мешал им. Это делает менее логичным, что он начал бы драку в таком случае. Тогда что произошло?",
+    "originalText": "It's better if he didn't obstruct them. Makes less sense that he'd start a fight in that case, though. Then what happened?"
+  },
+  {
+    "path": "Exports.235.Data.5.Value.0.Value.5",
+    "key": "BC916D8B4361D8764E7043BC2B3DEACD",
+    "text": "Один коп пошел проверить кухню.",
+    "originalText": "One cop goes to check out the kitchen."
+  },
+  {
+    "path": "Exports.235.Data.5.Value.1.Value.5",
+    "key": "D2783AE24BCDAFB97F9329AA8FB72B86",
+    "text": "Один коп направил на него оружие.",
+    "originalText": "One cop draws on him."
+  },
+  {
+    "path": "Exports.236.Data.0",
+    "key": "E9647BB544FC32B7B53104908067A4FD",
+    "text": "Ты уверен? Наверное, это не сулит ничего хорошего для Стоуна. Не то чтобы ситуация сложилась в его пользу в любом случае, бедняга. Что произошло дальше?",
+    "originalText": "You sure? I suppose that doesn't bode well for Stone. Not that the situation ended up in his favour either way, poor bastard. What happened next?"
+  },
+  {
+    "path": "Exports.236.Data.5.Value.0.Value.5",
+    "key": "F83C304D43604BB32A65898FD4D07DA0",
+    "text": "Копы осмотрели кухню.",
+    "originalText": "The cops investigated the kitchen."
+  },
+  {
+    "path": "Exports.236.Data.5.Value.1.Value.5",
+    "key": "FA38E6DA43F628706C85EFAE377079FD",
+    "text": "Как ты сказал: ситуация сложилась не в его пользу.",
+    "originalText": "What you said: the situation ended up not in his favour."
+  },
+  {
+    "path": "Exports.237.Data.0",
+    "key": "07E8752345B00630EFBD2FB202BCFCD4",
+    "text": "Уверен. Почему бы нет?",
+    "originalText": "I'm sure. Why wouldn't they?"
+  },
+  {
+    "path": "Exports.237.Data.5.Value.0.Value.5",
+    "key": "E61E697D4D1D1E5AB2B9AFA532D080AC",
+    "text": "Может, они предпочли бы закрыть это дело.",
+    "originalText": "Maybe they would rather drop this whole case."
+  },
+  {
+    "path": "Exports.237.Data.5.Value.1.Value.5",
+    "key": "31148E864FF76CCB0504498EC6634359",
+    "text": "Да. Будем надеяться, что они смогут помочь.",
+    "originalText": "Yeah. Let's hope they can help, then."
+  },
+  {
+    "path": "Exports.237.Data.5.Value.2.Value.5",
+    "key": "A5A5E8AB4DE58A36ACF036B9FB5FE4C8",
+    "text": "Это просто много. Много для размышлений.",
+    "originalText": "It's just a lot. Lots to think about."
+  },
+  {
+    "path": "Exports.238.Data.0",
+    "key": "9FF508AD46228919DD83E6B0F4E231EE",
+    "text": "Возможно, да. В таком случае, что произошло дальше?",
+    "originalText": "Possibly, yeah. In that case, what happened next?"
+  },
+  {
+    "path": "Exports.238.Data.6.Value.0.Value.5",
+    "key": "16B9807140603F306FF02687BB912856",
+    "text": "Они осмотрели кухню.",
+    "originalText": "They investigated the kitchen."
+  },
+  {
+    "path": "Exports.238.Data.6.Value.1.Value.5",
+    "key": "3C03F3A2425CE5ADF7DAD9B0080E3279",
+    "text": "Ты знаешь. Убийство.",
+    "originalText": "You know. The killing."
+  },
+  {
+    "path": "Exports.239.Data.0",
+    "key": "570550194F087843CA4155ACBA963D6B",
+    "text": "Что ты имеешь в виду? Разве он не напал на них?",
+    "originalText": "What do you mean? Didn't he attack them?"
+  },
+  {
+    "path": "Exports.239.Data.5.Value.0.Value.5",
+    "key": "F0FBB85A4A659BAAE50CF586271976A3",
+    "text": "Так как? В одном отчете сказано, что у него был тупой предмет, а в другом — что это был острый.",
+    "originalText": "So how? One report states he had a blunt instrument, and another that it was a sharp object."
+  },
+  {
+    "path": "Exports.239.Data.5.Value.1.Value.5",
+    "key": "EA6C73B64703B45879D4938930E6FC70",
+    "text": "Не уверен. Детектив, который прибыл позже, отметил, что оба офицера выглядели нормально.",
+    "originalText": "Not sure. The detective that arrived later on remarked that both officers seemed fine."
+  },
+  {
+    "path": "Exports.239.Data.5.Value.2.Value.5",
+    "key": "6145DEAF4DE59E8E4ADD099270F6C84C",
+    "text": "...О, точно. Я забыл об этой части.",
+    "originalText": "...Oh, right. I forgot about that part."
+  },
+  {
+    "path": "Exports.240.Data.0",
+    "key": "0EF8796A494E4486CAF478B8148B9B77",
+    "text": "Это определенно дало бы им причину направить на него оружие, да. Как ни печально. Тогда что?",
+    "originalText": "That'd certainly give them reason to draw on him, sure. Unfortunate as it is. Then what?"
+  },
+  {
+    "path": "Exports.240.Data.5.Value.0.Value.5",
+    "key": "13188D4743ADB2ABD05794AE2C2A3075",
+    "text": "Копы осмотрели кухню.",
+    "originalText": "The cops investigated the kitchen."
+  },
+  {
+    "path": "Exports.240.Data.5.Value.1.Value.5",
+    "key": "B94BF9D645162F9E9618E08FBAE9303D",
+    "text": "Что ты имеешь в виду \"тогда что?\" Они направили на него оружие.",
+    "originalText": "What do you mean \"then what?\" They drew on him."
+  },
+  {
+    "path": "Exports.241.Data.0",
+    "key": "BA91B16042F04423908F9FA79B436CED",
+    "text": "Жаль. Это дало бы немного больше понимания ситуации. Тогда что?",
+    "originalText": "Shame. Would have lent a little more insight into the situation. Then what?"
+  },
+  {
+    "path": "Exports.241.Data.5.Value.0.Value.5",
+    "key": "CD0D4DCB48AEB9EDB665A7890C0EF340",
+    "text": "Они осмотрели кухню.",
+    "originalText": "They investigate the kitchen."
+  },
+  {
+    "path": "Exports.241.Data.5.Value.1.Value.5",
+    "key": "EAA8C6334F8F01C214A1F48E50820396",
+    "text": "Стоун умер.",
+    "originalText": "Stone died."
+  },
+  {
+    "path": "Exports.242.Data.0",
+    "key": "5BDF05E94E63D66200088EBAB0F1095E",
+    "text": "Нашел то, что нужно? Хорошо — так когда начался пожар?",
+    "originalText": "Found what you needed? Okay - so when did the fire start?"
+  },
+  {
+    "path": "Exports.242.Data.6.Value.0.Value.5",
+    "key": "2D58614244ECD31B457262A93FC63E00",
+    "text": "До первого вызова, в 11:02 утра.",
+    "originalText": "Before the first call, at 11:02 AM."
+  },
+  {
+    "path": "Exports.242.Data.6.Value.1.Value.5",
+    "key": "CA9A128A4BA69B1D21191CB27F4D4C21",
+    "text": "До второго вызова, в 13:45.",
+    "originalText": "Before the second call, at 1:45 PM."
+  },
+  {
+    "path": "Exports.243.Data.0",
+    "key": "34FDC9DC451E70B981C126B2A42F38CE",
+    "text": "Ничего не могу поделать. Я человек аналоговый. Ты мой единственный маяк в цифровом мире. Как мне так повезло?",
+    "originalText": "Can't help it. I'm an analogue kind of guy. You're my one guiding torch in a digital world. How did I get so lucky?"
+  },
+  {
+    "path": "Exports.243.Data.5.Value.0.Value.5",
+    "key": "C79236D84CBDB507E0EBBE8C38AF7608",
+    "text": "Ты не переставал спрашивать.",
+    "originalText": "You wouldn't stop asking."
+  },
+  {
+    "path": "Exports.243.Data.5.Value.1.Value.5",
+    "key": "6CBA47ED418B5C5C1D6AABB095A15126",
+    "text": "Придется когда-то остановиться, наверное.",
+    "originalText": "You have to settle at some point, I suppose."
+  },
+  {
+    "path": "Exports.243.Data.5.Value.2.Value.5",
+    "key": "C25051FA43578ADFEC64C09DCD01B08F",
+    "text": "Как только разберусь, дам тебе знать.",
+    "originalText": "Soon as I have that figured out, I'll let you know."
+  },
+  {
+    "path": "Exports.244.Data.0",
+    "key": "BB048D1B4A010FEB285D16B6B9FCC616",
+    "text": "Действительно, но не повод для применения силы. Если только он не был невероятно мерзким, наверное. Тогда что произошло?",
+    "originalText": "Actionable, but not cause to use force. Unless he was incredibly vile, I suppose. Then what happened?"
+  },
+  {
+    "path": "Exports.244.Data.6.Value.0.Value.5",
+    "key": "73B95B044236EEAB79C050A796C92E93",
+    "text": "Они осмотрели кухню.",
+    "originalText": "They investigate the kitchen."
+  },
+  {
+    "path": "Exports.245.Data.0",
+    "key": "8E67CE184D0F681D234D79A47D027A01",
+    "text": "Ладно, если ты так говоришь — но это не имеет для меня смысла. В любом случае, тогда что произошло?",
+    "originalText": "Alright, if you say so - that doesn't make much sense to me, though. Anyway, then what happened?"
+  },
+  {
+    "path": "Exports.245.Data.5.Value.0.Value.5",
+    "key": "3A9E5B7A4A5374B26FE106B1E78DCD37",
+    "text": "Один из копов пошел осмотреть другую комнату.",
+    "originalText": "One of the cops goes to investigate the other room."
+  },
+  {
+    "path": "Exports.246.Data.0",
+    "key": "E6F29503496FCE0D59631180DF7778CD",
+    "text": "Слушай, Рене, я понимаю желание видеть лучшее в людях, но в данном случае это ни к чему не приведет. Продолжай — что произошло дальше?",
+    "originalText": "Listen, Renee, I understand wanting to see the best in people, but in this case, that gets us nowhere. Go on - what happened next?"
+  },
+  {
+    "path": "Exports.246.Data.5.Value.0.Value.5",
+    "key": "C93265A64184A891C53C578B96857E7B",
+    "text": "Копы осмотрели кухню.",
+    "originalText": "The cops investigated the kitchen."
+  },
+  {
+    "path": "Exports.247.Data.0",
+    "key": "2F7D584B4513CA554E275983B4A6FECC",
+    "text": "Правда? Хм. Может, они... Да. Это звучит странно. Наверное, просто ошибка в показаниях.",
+    "originalText": "Really? Huh. Maybe they...Yeah. That does sound odd. Probably just a simple mistake in the testimony, though."
+  },
+  {
+    "path": "Exports.247.Data.6.Value.0.Value.5",
+    "key": "5E6921F1499FB65B20D1219BB553422B",
+    "text": "Возможно.",
+    "originalText": "Possibly."
+  },
+  {
+    "path": "Exports.247.Data.6.Value.1.Value.5",
+    "key": "B08E5122434008FFC5049297EE9E1A02",
+    "text": "Я так не думаю, Лукас.",
+    "originalText": "I don't think so, Lukas."
+  },
+  {
+    "path": "Exports.248.Data.0",
+    "key": "C2EDE882434A410294062992141B2DF0",
+    "text": "Правда? Это странно. Может, они уже залатали это к тому времени? Или, может, он был в пальто?",
+    "originalText": "Really? That is odd. Maybe they had patched it up by then? Or maybe he was wearing a coat?"
+  },
+  {
+    "path": "Exports.248.Data.7.Value.0.Value.5",
+    "key": "1A5980C64BCA55345F2F9BBA781094AC",
+    "text": "Возможно.",
+    "originalText": "Possibly."
+  },
+  {
+    "path": "Exports.248.Data.7.Value.1.Value.5",
+    "key": "126C5442408819F2B6A0AE872740DEC2",
+    "text": "Я так не думаю, Лукас.",
+    "originalText": "I don't think so, Lukas."
+  },
+  {
+    "path": "Exports.249.Data.0",
+    "key": "109D9B8D4BE204F28A5A48B46DA8961A",
+    "text": "...Что ты говоришь, Рене?",
+    "originalText": "...What are you saying, Renee?"
+  },
+  {
+    "path": "Exports.249.Data.5.Value.0.Value.5",
+    "key": "6CDF40464085CA2C878EBD8B6D95348B",
+    "text": "Я не знаю. Я пока не уверена.",
+    "originalText": "I don't know. I'm not sure yet."
+  },
+  {
+    "path": "Exports.249.Data.5.Value.1.Value.5",
+    "key": "E35376DD4733195B289806A9A58D13D0",
+    "text": "...Ничего.",
+    "originalText": "...Nothing."
+  },
+  {
+    "path": "Exports.250.Data.0",
+    "key": "AFBD32B24EDFC561CD42FE9D76813F08",
+    "text": "...Ладно, тогда что?",
+    "originalText": "...Alright, then what?"
+  },
+  {
+    "path": "Exports.250.Data.6.Value.0.Value.5",
+    "key": "08DAC2FF419A2816FBDC14A7B9E89612",
+    "text": "Один из офицеров вышел из комнаты.",
+    "originalText": "One of the officers left the room."
+  },
+  {
+    "path": "Exports.251.Data.0",
+    "key": "BBA678CE42D2E73A52699F99806C9DEF",
+    "text": "Хм. Так что произошло дальше?",
+    "originalText": "Hmm. So, what happened next?"
+  },
+  {
+    "path": "Exports.251.Data.6.Value.0.Value.5",
+    "key": "599800E5418870C2AEE525B9F57F3869",
+    "text": "Один из офицеров вышел из комнаты.",
+    "originalText": "One of the officers left the room."
+  },
+  {
+    "path": "Exports.252.Data.0",
+    "key": "7B647BBC4382F38502C43AACD94929B1",
+    "text": "...Знаешь что? Давай пока оставим это. Я позвоню, закажу нам ужин. Как насчет этого?",
+    "originalText": "...You know what? Let's drop this for now. I'll get on the phone, order some dinner for us. How does that sound?"
+  },
+  {
+    "path": "Exports.252.Data.6.Value.0.Value.5",
+    "key": "6F996010475EB573B613DBB91ED6E58E",
+    "text": "Звучит хорошо. Я скоро буду, ладно?",
+    "originalText": "Sounds good. I'll be right with you, okay?"
+  },
+  {
+    "path": "Exports.252.Data.6.Value.1.Value.5",
+    "key": "19B5FADA46B11163D4D81390A159391D",
+    "text": "...Конечно. Мне бы не помешал перерыв.",
+    "originalText": "...Sure. I could use a break."
+  },
+  {
+    "path": "Exports.253.Data.0",
+    "key": "493F83BA4AB8384BD58833AD19DB8DAF",
+    "text": "Давай, Рене. Держи голову прямо. Тогда что произошло?",
+    "originalText": "Come on, Renee. Keep your head straight. Then what happened?"
+  },
+  {
+    "path": "Exports.253.Data.6.Value.0.Value.5",
+    "key": "AE6B1CF244E6A9054357E8ABA6ED6E86",
+    "text": "Стоун умер.",
+    "originalText": "Stone died."
+  },
+  {
+    "path": "Exports.253.Data.6.Value.1.Value.5",
+    "key": "60B4715D405A1206437A42B5D52DDCFE",
+    "text": "Один из копов вышел из комнаты.",
+    "originalText": "One of the cops left the room."
+  },
+  {
+    "path": "Exports.254.Data.0",
+    "key": "4139CD5E4370A91B83021BBDE791A00A",
+    "text": "Это та статья, над которой ты работал. О пожаре в Уэст-Энде.",
+    "originalText": "It's that article thing you were working on. About the West End fire. "
+  },
+  {
+    "path": "Exports.254.Data.6.Value.0.Value.5",
+    "key": "6487C135427A402C31456D85B73DA4EC",
+    "text": "Не только о пожаре. О событиях, которые к нему привели.",
+    "originalText": "Not just the fire. The events leading up to it."
+  },
+  {
+    "path": "Exports.254.Data.6.Value.1.Value.5",
+    "key": "BDD4F9C845F9E2CEE1EAD1A69B887D92",
+    "text": "Понял.",
+    "originalText": "You got it."
+  },
+  {
+    "path": "Exports.255.Data.0",
+    "key": "E6748B194169E62847162B9D40ECB455",
+    "text": "Надеюсь на это. Нет, я знаю. У меня есть вера. Судебная система никогда меня не подводила, и она никогда не давала мне повода сомневаться. Если они виновны в чем-то, их посадят, и все.",
+    "originalText": "I hope so. No, I know so. I have faith. The judicial system has never failed me, and it's never given me reason to doubt it. If they're guilty of something, they'll be locked up and that's that."
+  },
+  {
+    "path": "Exports.255.Data.5.Value.0.Value.5",
+    "key": "2D2F0B8A45C9D8E330F9E9B99A713008",
+    "text": "Я не уверен.",
+    "originalText": "I'm not so sure."
+  },
+  {
+    "path": "Exports.255.Data.5.Value.1.Value.5",
+    "key": "3A9E874144A7BB7E11B797B71DA1C5D2",
+    "text": "Надеюсь на это.",
+    "originalText": "I hope so."
+  },
+  {
+    "path": "Exports.256.Data.0",
+    "key": "FE6C9B1745A5125F9B102998839CEAC6",
+    "text": "Ладно, тогда давай не будем слишком переживать об этом сейчас, ладно? Я позвоню, закажу нам ужин. Как насчет этого?",
+    "originalText": "Alright then, let's not worry too much about it right now, okay? I'll get on the phone, order some dinner for us. How does that sound?"
+  },
+  {
+    "path": "Exports.256.Data.6.Value.0.Value.5",
+    "key": "0620DB3F4D90096EE57B9E9E664A94EC",
+    "text": "Ладно. Не торопись, я постараюсь закончить.",
+    "originalText": "Okay. Take your time, I'll try to wrap this up."
+  },
+  {
+    "path": "Exports.256.Data.6.Value.1.Value.5",
+    "key": "4CA171DF453861A3C39C188FD8A115A0",
+    "text": "...Конечно. Мне бы не помешал перерыв.",
+    "originalText": "...Sure. I could use a break."
+  },
+  {
+    "path": "Exports.257.Data.0",
+    "key": "B9FAE6B04AF264AE4F396BAC83EBAFB9",
+    "text": "Ты справишься со статьей? Ты же говорил, что пытаешься ее закончить?",
+    "originalText": "Will you be alright with the article, though? Didn't you say you were trying to finish it?"
+  },
+  {
+    "path": "Exports.257.Data.5.Value.0.Value.5",
+    "key": "57F35F7C442B49EEAAC2748D9C1952D5",
+    "text": "Да. Уф.",
+    "originalText": "Yeah. Ugh."
+  },
+  {
+    "path": "Exports.257.Data.5.Value.1.Value.5",
+    "key": "A7E516424849C9B75E9E2DA45C3B544A",
+    "text": "Не очень хочется. Но да, я это делал.",
+    "originalText": "I don't really feel like it. But yeah, I did."
+  },
+  {
+    "path": "Exports.258.Data.0",
+    "key": "73B85B6D418E0C444008989C657E3255",
+    "text": "Конечно. Не переживай слишком сильно, ладно?",
+    "originalText": "Sure. Don't stress too hard about it, alright?"
+  },
+  {
+    "path": "Exports.258.Data.5.Value.0.Value.5",
+    "key": "5D1A0161413277639C6E719689A97CDC",
+    "text": "Конечно.",
+    "originalText": "Sure."
+  },
+  {
+    "path": "Exports.258.Data.5.Value.1.Value.5",
+    "key": "C9817A2F4567AF632CC5089D0BB20273",
+    "text": "[Кивок]",
+    "originalText": "[Nod]"
+  },
+  {
+    "path": "Exports.259.Data.0",
+    "key": "5604CBB443F7B407BB9DA7AE435B0E77",
+    "text": "Слишком верно. Не переживай так сильно, ладно?",
+    "originalText": "Too true. Don't worry so much, alright?"
+  },
+  {
+    "path": "Exports.259.Data.5.Value.0.Value.5",
+    "key": "417BEBDB46A3C5568E291893363633E6",
+    "text": "Конечно.",
+    "originalText": "Sure."
+  },
+  {
+    "path": "Exports.259.Data.5.Value.1.Value.5",
+    "key": "BFA62D71481B06FD8030FDBCF848EFE3",
+    "text": "[Кивок]",
+    "originalText": "[Nod]"
+  },
+  {
+    "path": "Exports.260.Data.0",
+    "key": "10E692A34AD74954255F66AEB3BBC922",
+    "text": "Ошибочный — это сильное слово, Рене. Там могут быть ошибки, конечно, но они не будут ошибками значительной величины. Это не изменит того, что произошло, Рене. Мне жаль.",
+    "originalText": "Faulty is a strong word, Renee. There may be mistakes in there, sure, but they won't be errors of any significant magnitude. It's not going to change what happened, Renee. I'm sorry."
+  },
+  {
+    "path": "Exports.260.Data.6.Value.0.Value.5",
+    "key": "08D757354F3D348E113C03B96F858F7D",
+    "text": "Да. Мне тоже жаль.",
+    "originalText": "Yeah. I'm sorry too."
+  },
+  {
+    "path": "Exports.260.Data.6.Value.1.Value.5",
+    "key": "5F94F9A440AC33ECD3599D965FB155E4",
+    "text": "[Ничего не говорить]",
+    "originalText": "[Say nothing]"
+  },
+  {
+    "path": "Exports.261.Data.0",
+    "key": "2F557BC149756696690D559B4C5457FB",
+    "text": "Эй... давай просто закажем ужин, ладно? У тебя был долгий день, у меня был долгий день — давай просто отвлечемся от этого на время. Хорошо?",
+    "originalText": "Hey...let's just order dinner, alright? You've had a long day, I've had a long day - let's just step away from this for a bit. Okay?"
+  },
+  {
+    "path": "Exports.261.Data.5.Value.0.Value.5",
+    "key": "185693124A03539A983F6A9F65E90F38",
+    "text": "Отвлечься? Нет, Лукас. Это важно.",
+    "originalText": "Step away? No, Lukas. This is important."
+  },
+  {
+    "path": "Exports.261.Data.5.Value.1.Value.5",
+    "key": "DDD34B0146046011F8E8BB8A1BF468F3",
+    "text": "Конечно. Да, ладно.",
+    "originalText": "Sure. Yeah, alright."
+  },
+  {
+    "path": "Exports.261.Data.5.Value.2.Value.5",
+    "key": "F674C7D641EF4A3DA83FC6BD6411ADA6",
+    "text": "Не знаю, смогу ли я, Лукас.",
+    "originalText": "I don't know if I can, Lukas."
+  },
+  {
+    "path": "Exports.262.Data.0",
+    "key": "DD2FC80A4F3C8EE5C9E320802F01BD8B",
+    "text": "Я закажу тебе лапшу.",
+    "originalText": "I'll get you noodles."
+  },
+  {
+    "path": "Exports.262.Data.6.Value.0.Value.5",
+    "key": "886A82644182138885267D9897123120",
+    "text": "Конечно. Я бы съел лапшу.",
+    "originalText": "Sure. I'd have some noodles."
+  },
+  {
+    "path": "Exports.262.Data.6.Value.1.Value.5",
+    "key": "401B38D346460CC88417758D01E43753",
+    "text": "[Ничего не говорить]",
+    "originalText": "[Say nothing]"
+  },
+  {
+    "path": "Exports.262.Data.6.Value.2.Value.5",
+    "key": "CCE972F844B228ABBA77CC813D8B4296",
+    "text": "[Кивок]",
+    "originalText": "[Nod]"
+  },
+  {
+    "path": "Exports.263.Data.0",
+    "key": "92C4D2194E043CA3EA0E3D8D73978981",
+    "text": "Я помогу тебе. Ладно? Давай, возьмем что-нибудь поесть.",
+    "originalText": "I'll help you. Alright? Come on, let's get some food."
+  },
+  {
+    "path": "Exports.263.Data.6.Value.0.Value.5",
+    "key": "9E372A9F4F378626EB36C78BF02285B1",
+    "text": "[Кивок]",
+    "originalText": "[Nod]"
+  },
+  {
+    "path": "Exports.263.Data.6.Value.1.Value.5",
+    "key": "7F56EC7D40B0CE795EF114BBC156CBFE",
+    "text": "[Ничего не говорить]",
+    "originalText": "[Say nothing]"
+  },
+  {
+    "path": "Exports.263.Data.6.Value.2.Value.5",
+    "key": "E9A60049475C772242459F8CEF3A555A",
+    "text": "Ладно. Спасибо.",
+    "originalText": "Okay. Thanks."
+  },
+  {
+    "path": "Exports.264.Data.0",
+    "key": "809452014FF2055A27B5798437701A68",
+    "text": "Слушай — я позабочусь об ужине, а ты сосредоточься на том, что тебе нужно сделать. Как бы я ни мог помочь, я помогу. Ладно?",
+    "originalText": "Listen - I'll go take care of dinner, and you focus on what you need to do. However I can help, I will. Alright?"
+  },
+  {
+    "path": "Exports.264.Data.6.Value.0.Value.5",
+    "key": "586637CB40D1B1085C536E9613711762",
+    "text": "Ладно. Хорошо. Спасибо.",
+    "originalText": "Fine. Alright. Thanks."
+  },
+  {
+    "path": "Exports.264.Data.6.Value.1.Value.5",
+    "key": "ECA35268447B5647E6B76C9EC672558B",
+    "text": "[Ничего не говорить]",
+    "originalText": "[Say nothing]"
+  },
+  {
+    "path": "Exports.264.Data.6.Value.2.Value.5",
+    "key": "C123A07D4822DE04689D99BE54DDA868",
+    "text": "[Кивок]",
+    "originalText": "[Nod]"
+  },
+  {
+    "path": "Exports.265.Data.0",
+    "key": "F6D5B3D94D26DAB73CD54D82AFC41BEB",
+    "text": "Да? Ну, как продвигается твое расследование? Ты же говорил, что твой редактор просил об этом раньше?",
+    "originalText": "Yeah? Well, how's your investigation going? Didn't you say your edit guy was asking for it earlier?"
+  },
+  {
+    "path": "Exports.265.Data.6.Value.0.Value.5",
+    "key": "FD26F32E419925B9B33A5C8315406155",
+    "text": "Он хотел что-то более простое.",
+    "originalText": "He wanted something more basic."
+  },
+  {
+    "path": "Exports.265.Data.6.Value.1.Value.5",
+    "key": "1DF9C6B74AFDBC3B73F3AA8BE23479A6",
+    "text": "\"Редактор.\" Это редактор, Лукас, и его зовут Уэстли.",
+    "originalText": "\"Edit guy.\" It's editor, Lukas, and his name is Westley."
+  },
+  {
+    "path": "Exports.265.Data.6.Value.2.Value.5",
+    "key": "80F0779D4D40CEFFE8BFEEBAD56473F8",
+    "text": "Расследование идет медленно. Не могу избавиться от ощущения, что многое упускаю.",
+    "originalText": "Investigation's slow. I can't help but feel I'm missing a lot."
+  },
+  {
+    "path": "Exports.266.Data.0",
+    "key": "1F69CD434E433DBC2457ADB2D76C729B",
+    "text": "Рене, я просто... думаю, что это ошибки, больше чем что-либо. Грязная бумажная работа, которая делает ситуацию более подозрительной, чем она есть.",
+    "originalText": "Renee, I just...I think it's mistakes, more than anything. Messy paperwork that's making the situation seem more suspicious than it is."
+  },
+  {
+    "path": "Exports.266.Data.5.Value.0.Value.5",
+    "key": "BCB3968C4304EFAC001159A891D1D0C0",
+    "text": "Нет, Лукас — грязная бумажная работа как раз и делает это подозрительным.",
+    "originalText": "No, Lukas - the messy paperwork is exactly why it's suspicious."
+  },
+  {
+    "path": "Exports.266.Data.5.Value.1.Value.5",
+    "key": "1C3321584B341B902FEB06BEE0771951",
+    "text": "Должно быть, мы что-то упускаем.",
+    "originalText": "There must be something we're missing."
+  },
+  {
+    "path": "Exports.266.Data.5.Value.2.Value.5",
+    "key": "FCFE4CED42910DB740E99D812518EBD6",
+    "text": "Мне просто это не нравится. Ничто из этого.",
+    "originalText": "I just don't like it. Any of it."
+  },
+  {
+    "path": "Exports.267.Data.0",
+    "key": "0712C61841011ADD4B4006BFAA0ECC30",
+    "text": "Мне нужны доказательства, Рене. Это... вызывает беспокойство в некоторых аспектах, но это не более чем спекуляции.",
+    "originalText": "I need proof, Renee. This is...concerning, in some regards, but it's speculation at best."
+  },
+  {
+    "path": "Exports.267.Data.5.Value.0.Value.5",
+    "key": "CB7F0A5E42CC57C65D1FE3860D0E4BC2",
+    "text": "Все, что мы можем делать, — это спекулировать. Особенно если что-то скрывают.",
+    "originalText": "All we can do is speculate. Especially if something's being covered up."
+  },
+  {
+    "path": "Exports.267.Data.5.Value.1.Value.5",
+    "key": "5BFE330242A0656A7CBB1D8804507C1B",
+    "text": "Вот почему нам нужно больше данных. Решающих доказательств.",
+    "originalText": "Which is why we need more data. Decisive proof."
+  },
+  {
+    "path": "Exports.267.Data.5.Value.2.Value.5",
+    "key": "B4E5BCBF46ADDE1EE98946A2959A248B",
+    "text": "Люди погибли, Лукас.",
+    "originalText": "People are dead, Lukas."
+  },
+  {
+    "path": "Exports.268.Data.0",
+    "key": "3AC43047421AA0817DE98F9AD33780A2",
+    "text": "Конечно, ты не обязан. Но, возможно, ты слишком стараешься найти смысл там, где его нет. Иногда плохие вещи случаются, и некому их обвинять.",
+    "originalText": "Of course you're not. But you might be trying too hard to find meaning where there isn't. Sometime bad things happen and there's no one to blame."
+  },
+  {
+    "path": "Exports.268.Data.5.Value.0.Value.5",
+    "key": "8008C35A4124BFFA54ADD79FE29CC8F5",
+    "text": "Но что, если эти офицеры виноваты?",
+    "originalText": "But what if those officers were to blame?"
+  },
+  {
+    "path": "Exports.268.Data.5.Value.1.Value.5",
+    "key": "95FB08FC4FE8D7FBA0A49A908F682339",
+    "text": "Все, на что я надеюсь, — это более решающие доказательства.",
+    "originalText": "All I hope for is more decisive evidence."
+  },
+  {
+    "path": "Exports.268.Data.5.Value.2.Value.5",
+    "key": "6AF957E34691A4EE66238CB83164ADB6",
+    "text": "Люди погибли, Лукас.",
+    "originalText": "People are dead, Lukas."
+  },
+  {
+    "path": "Exports.269.Data.0",
+    "key": "32B26EAE4978CEFBB18B3B9E9F6363E2",
+    "text": "Рене... Если эти офицеры сделали что-то не так, я уверен, что это выйдет наружу. С нашей помощью или без.",
+    "originalText": "Renee...If those officers did something wrong, I'm sure it'll come to light. With or without our help."
+  },
+  {
+    "path": "Exports.269.Data.5.Value.0.Value.5",
+    "key": "BB0D08DC44B838C62198A9861DEC184D",
+    "text": "Я не могу остановиться сейчас. Мне нужно знать.",
+    "originalText": "I can't stop now. I need to know."
+  },
+  {
+    "path": "Exports.269.Data.5.Value.1.Value.5",
+    "key": "5B3085724CD7EA1995482E8FE2179213",
+    "text": "Я не уверен.",
+    "originalText": "I'm not so sure."
+  },
+  {
+    "path": "Exports.269.Data.5.Value.2.Value.5",
+    "key": "7A5A465D45F3DA355741758057795BE2",
+    "text": "Выйдет ли, Лукас?",
+    "originalText": "Will it, Lukas?"
+  },
+  {
+    "path": "Exports.270.Data.0",
+    "key": "71E3359A47A255E3AE6A0FB534C9E76C",
+    "text": "Я не знаю, сколько еще может быть, Рене. Я точно не могу запросить больше файлов без веской причины. Не хочу тебя расстраивать, но то, что у тебя есть, может быть всем, что ты получишь.",
+    "originalText": "I don't know how much more there might be, Renee. I certainly can't ask for more files without good reason. I hate to break it to you, but what you've got might be all you're getting."
+  },
+  {
+    "path": "Exports.270.Data.5.Value.0.Value.5",
+    "key": "66CD75D4448216DCB3A2C38ADC85F5E8",
+    "text": "Тогда я пойду искать сама.",
+    "originalText": "Then I'll go looking for it myself."
+  },
+  {
+    "path": "Exports.270.Data.5.Value.1.Value.5",
+    "key": "8FEB464548D5D5CDEF8316981DBA94D6",
+    "text": "Мне это не нравится. Ни капли.",
+    "originalText": "I don't like that. Not one bit."
+  },
+  {
+    "path": "Exports.270.Data.5.Value.2.Value.5",
+    "key": "CA681CB54E284E7FA50D77A9F2F90B92",
+    "text": "Люди заслуживают знать.",
+    "originalText": "People deserve to know."
+  },
+  {
+    "path": "Exports.271.Data.0",
+    "key": "9F4F20F141D563AAA4099C9D02851D10",
+    "text": "Я знаю, Рене. Это ужасно. Ужасно. Но иногда так бывает. Нет великой тайны, которую нужно раскрыть. Иногда жизнь несправедлива.",
+    "originalText": "I know, Renee. It's awful. Horrible. But sometimes, that's the way it is. There's no grand secret to uncover. Sometimes, life's not fair."
+  },
+  {
+    "path": "Exports.271.Data.5.Value.0.Value.5",
+    "key": "6EE393EC45C452CDA445F1BAEDCCFC5C",
+    "text": "Я не могу в это поверить. Я продолжу копать.",
+    "originalText": "I can't believe that. I'll keep digging."
+  },
+  {
+    "path": "Exports.271.Data.5.Value.1.Value.5",
+    "key": "5AE9193D4B3926D89826B3AFF6CB4F09",
+    "text": "Да, я придерживаюсь того, что сказал. Мне это не нравится.",
+    "originalText": "Yeah, I stand by what I said. I don't like it."
+  },
+  {
+    "path": "Exports.271.Data.5.Value.2.Value.5",
+    "key": "956F75884026947DBD8DF188A802692C",
+    "text": "Для некоторых больше, чем для других.",
+    "originalText": "For some more than others."
+  },
+  {
+    "path": "Exports.272.Data.0",
+    "key": "B0D2B67D4B6BF56AE149538464C40C52",
+    "text": "Ладно, я помогу, когда смогу. Просто не возлагай слишком больших надежд, ладно? А пока, как насчет ужина? Я закажу нам что-нибудь.",
+    "originalText": "Alright, well - I'll help when I can. Just don't get your hopes up too much, alright? For now, how about dinner? I'll order something for us."
+  },
+  {
+    "path": "Exports.272.Data.6.Value.0.Value.5",
+    "key": "00F13A9149B7A965007DDB8B69607129",
+    "text": "Конечно. Звучит хорошо.",
+    "originalText": "Sure. Sounds good."
+  },
+  {
+    "path": "Exports.272.Data.6.Value.1.Value.5",
+    "key": "A0E3BFF04980736C81F4C297DFD8DBC1",
+    "text": "[Кивок]",
+    "originalText": "[Nod]"
+  },
+  {
+    "path": "Exports.272.Data.6.Value.2.Value.5",
+    "key": "7D9E91314DFF958A3AB5DA907B2D2E2E",
+    "text": "[Ничего не говорить]",
+    "originalText": "[Say nothing]"
+  },
+  {
+    "path": "Exports.273.Data.0",
+    "key": "E824CE404DBBAA0FBADA2D81DC67B3CD",
+    "text": "Я знаю, что это не то, на что ты надеялась. Мне жаль, Рене. Слушай, если ты закончила на сегодня, давай оставим это, да? Закажем ужин, расслабимся... просто будем собой, ладно?",
+    "originalText": "I know it's not what you hoped for. I'm sorry, Renee. Listen, if you're done for today, let's drop it, yeah? Order dinner, relax...just be us, okay?"
+  },
+  {
+    "path": "Exports.273.Data.6.Value.0.Value.5",
+    "key": "427592474ACD595733C18A96CC16876A",
+    "text": "Конечно. Звучит хорошо.",
+    "originalText": "Sure. Sounds good."
+  },
+  {
+    "path": "Exports.273.Data.6.Value.1.Value.5",
+    "key": "892C5DF74876E62FB45B6496E7B55BCB",
+    "text": "[Кивок]",
+    "originalText": "[Nod]"
+  },
+  {
+    "path": "Exports.273.Data.6.Value.2.Value.5",
+    "key": "50E8DF594C67C538EE73E882E8BE97CC",
+    "text": "[Ничего не говорить]",
+    "originalText": "[Say nothing]"
+  },
+  {
+    "path": "Exports.274.Data.0",
+    "key": "89E09185480D40899638D5A583708DAD",
+    "text": "Слушай, давай оставим это на сегодня, ладно? У нас обоих был долгий день. Давай просто закажем ужин и вернемся к себе. Как насчет этого?",
+    "originalText": "Listen, let's drop it for today, alright? We've both had long days. Let's just order dinner and go back to being us. How does that sound?"
+  },
+  {
+    "path": "Exports.274.Data.6.Value.0.Value.5",
+    "key": "BA02AF0E441535D4E5AACD96526BFA25",
+    "text": "Конечно. Звучит хорошо.",
+    "originalText": "Sure. Sounds good."
+  },
+  {
+    "path": "Exports.274.Data.6.Value.1.Value.5",
+    "key": "7A7DD0554DFC283378AE19AE10282CC0",
+    "text": "[Кивок]",
+    "originalText": "[Nod]"
+  },
+  {
+    "path": "Exports.274.Data.6.Value.2.Value.5",
+    "key": "7429776E4B0C98FF911542A200373660",
+    "text": "[Ничего не говорить]",
+    "originalText": "[Say nothing]"
+  },
+  {
+    "path": "Exports.275.Data.0",
+    "key": "3330F1E446B58B4EEE1560BA64D63D7B",
+    "text": "Я закажу тебе что-нибудь из того места с лапшой, которое тебе нравится, ладно? Закончи с терминалом. Я пойду позвоню. Люблю тебя, дорогая.",
+    "originalText": "I'll get you something from that noodle spot you like, alright? Finish up with the terminal. I'll go make the call. Love you, honey."
+  },
+  {
+    "path": "Exports.275.Data.6.Value.0.Value.5",
+    "key": "F66B4834460241477E02CEA28ED4EE06",
+    "text": "Я тоже тебя люблю.",
+    "originalText": "I love you too."
+  },
+  {
+    "path": "Exports.275.Data.6.Value.1.Value.5",
+    "key": "0B071282433BCBCC46AC0A86CE1DFD0F",
+    "text": "Я люблю эту лапшу.",
+    "originalText": "I love those noodles."
+  },
+  {
+    "path": "Exports.276.Data.0",
+    "key": "8D0DB91B43D60BAC7183D68F47494A5A",
+    "text": "...",
+    "originalText": "..."
+  },
+  {
+    "path": "Exports.276.Data.6.Value.0.Value.5",
+    "key": "0EC24EB24E8658C0CB085ABE3AFA7ED6",
+    "text": "...Вот. Все готово.",
+    "originalText": "...There. All done."
+  },
+  {
+    "path": "Exports.276.Data.6.Value.1.Value.5",
+    "key": "574FC2C241DB0B256FC724BE9815B298",
+    "text": "...",
+    "originalText": "..."
+  },
+  {
+    "path": "Exports.276.Data.6.Value.2.Value.5",
+    "key": "044C99544805808BF967728D12AAA193",
+    "text": "[Продолжай читать]",
+    "originalText": "[Keep reading]"
+  },
+  {
+    "path": "Exports.277.Data.0",
+    "key": "92E3FB1E4A39729B7CA5C18036E86F69",
+    "text": "Хорошо, хорошо. Я пойду возьму телефон. Люблю тебя, дорогая.",
+    "originalText": "Good, good. I'll go get the phone. Love you, honey."
+  },
+  {
+    "path": "Exports.277.Data.6.Value.0.Value.5",
+    "key": "49BE848B423CCA2032A6079CE5A672DD",
+    "text": "Спасибо.",
+    "originalText": "Thanks."
+  },
+  {
+    "path": "Exports.277.Data.6.Value.1.Value.5",
+    "key": "28ADBEC74F80332A4CDE2F9D826C4181",
+    "text": "Я тоже тебя люблю.",
+    "originalText": "Love you too."
+  },
+  {
+    "path": "Exports.278.Data.0",
+    "key": "5F95878C4DAD8A26891390900966947F",
+    "text": "Эй... не сходи с ума из-за этого, ладно? Возьми время, которое тебе нужно — я возьму телефон. Люблю тебя.",
+    "originalText": "Hey...don't lose your mind over this, alright? Take the time you need - I'll get the phone. Love you."
+  },
+  {
+    "path": "Exports.278.Data.6.Value.0.Value.5",
+    "key": "462D73CD4D84EF69A4153DB4354AD388",
+    "text": "Постараюсь.",
+    "originalText": "I'll try."
+  },
+  {
+    "path": "Exports.278.Data.6.Value.1.Value.5",
+    "key": "2D4DD2194D3F3C3285E65EB24BA6A7D9",
+    "text": "Ладно. Я тоже тебя люблю.",
+    "originalText": "Alright. Love you too."
+  },
+  {
+    "path": "Exports.279.Data.0",
+    "key": "2E422C814C8AB7708D8699BCC9A024AF",
+    "text": "Так что это так важно? Это то, о чем я думаю?",
+    "originalText": "So what's that important? Is that what I think it is?"
+  },
+  {
+    "path": "Exports.279.Data.5.Value.0.Value.5",
+    "key": "DEDCE323499881B70F6B5D955593D640",
+    "text": "Ага.",
+    "originalText": "Yup."
+  },
+  {
+    "path": "Exports.279.Data.5.Value.1.Value.5",
+    "key": "55A02FAA45F24FEB05DD4B8446D303CB",
+    "text": "А что ты думаешь?",
+    "originalText": "What do you think it is?"
+  },
+  {
+    "path": "Exports.280.Data.0",
+    "key": "11710BE94A1EC01CC2C3918E293972F0",
+    "text": "Пфф. Так ты работал весь день, да?",
+    "originalText": "Pssh. So you've been working all day, huh?"
+  },
+  {
+    "path": "Exports.280.Data.5.Value.0.Value.5",
+    "key": "372DB90A446F0C003CCD0EA7A72A2392",
+    "text": "Пытаюсь закончить дело о пожаре.",
+    "originalText": "I'm trying to wrap up the fire case."
+  },
+  {
+    "path": "Exports.280.Data.5.Value.1.Value.5",
+    "key": "4E50ADF3433904B4E2B6339B386062C8",
+    "text": "Угу.",
+    "originalText": "Uh-huh."
+  },
+  {
+    "path": "Exports.281.Data.0",
+    "key": "76B3D23F4305CB78D5AF9CA92C735383",
+    "text": "Хорошо, так что ты думаешь?",
+    "originalText": "Right, so what are you thinking?"
+  },
+  {
+    "path": "Exports.281.Data.6.Value.0.Value.5",
+    "key": "D5DA16FF48AD11FAB3DAB296100E95D6",
+    "text": "Может, она напала на офицера. Может, она обострила ситуацию.",
+    "originalText": "Maybe she attacked the officer. Maybe she escalated the situation."
+  },
+  {
+    "path": "Exports.281.Data.6.Value.1.Value.5",
+    "key": "8754DDC248786EF6A3712EA91DE90428",
+    "text": "Почему с нее не взяли показания?",
+    "originalText": "So why wasn't her statement taken?"
+  },
+  {
+    "path": "Exports.281.Data.6.Value.2.Value.5",
+    "key": "55B4CD3E4285EAAB02670C80C006B553",
+    "text": "Ее партнера застрелили, и она ничего не сделала? Это не имеет смысла.",
+    "originalText": "Her partner gets shot, and she does nothing? It doesn't make sense."
+  },
+  {
+    "path": "Exports.282.Data.0",
+    "key": "7C15994144DDD9EAFDEBB4BA52F873CC",
+    "text": "Не уверен. Может, она была ненадежна? Эмоциональное расстройство? Ее партнер был... ну, это было бы логично не говорить много, да?",
+    "originalText": "I'm not sure. Maybe she was unreliable? Emotional distress? Her partner was...well, it would make sense to not say much, right?"
+  },
+  {
+    "path": "Exports.282.Data.6.Value.0.Value.5",
+    "key": "FF96A759452AA5E146BDE387C23481A4",
+    "text": "Наверное, так.",
+    "originalText": "I suppose so."
+  },
+  {
+    "path": "Exports.282.Data.6.Value.1.Value.5",
+    "key": "C48FAC2F47DDFB76C33CAE8A12EA6E8B",
+    "text": "Или, может, что-то упустили в отчетах.",
+    "originalText": "Or maybe things were left out of the reports."
+  },
+  {
+    "path": "Exports.282.Data.6.Value.2.Value.5",
+    "key": "945965CD46E0E689AA0DDD8B70329945",
+    "text": "А что насчет дней после стрельбы? Почему она молчит об этом?",
+    "originalText": "What about the days after the shooting? Why is she quiet on this?"
+  },
+  {
+    "path": "Exports.283.Data.0",
+    "key": "6ADE97624A131569845131AC889B243C",
+    "text": "...Ладно, теперь ты просто издеваешься надо мной.",
+    "originalText": "...Alright, now you're just messing with me."
+  },
+  {
+    "path": "Exports.283.Data.6.Value.0.Value.5",
+    "key": "4CED5BE24E04F12B017B14AD88E721B8",
+    "text": "Конечно. Я закончил.",
+    "originalText": "Sure. I'm done."
+  },
+  {
+    "path": "Exports.283.Data.6.Value.1.Value.5",
+    "key": "93F192A640D0128B290A43840D1AA19E",
+    "text": "Кто? Я? Никогда.",
+    "originalText": "Who? Me? I'd never."
+  },
+  {
+    "path": "Exports.284.Data.0",
+    "key": "7B6FB9A140F6CBF27BCD32AF73A94C39",
+    "text": "Угу. Конечно. Так это то, о чем я думаю?",
+    "originalText": "Uh-huh. Sure. So is that what I think it is?"
+  },
+  {
+    "path": "Exports.284.Data.6.Value.0.Value.5",
+    "key": "0A6779134D1BEEC46D3032B1C8A06D5E",
+    "text": "Дело о пожаре? Да.",
+    "originalText": "The fire case? Yeah."
+  },
+  {
+    "path": "Exports.284.Data.6.Value.1.Value.5",
+    "key": "B3E786C24D498FA6D6C0F08EDF5A0BEF",
+    "text": "А что ты думаешь?",
+    "originalText": "What do you think it is?"
+  },
+  {
+    "path": "Exports.285.Data.0",
+    "key": "76D5709D45B729B3F2BA039636BBD5B7",
+    "text": "...Рене.",
+    "originalText": "...Renee."
+  },
+  {
+    "path": "Exports.285.Data.6.Value.0.Value.5",
+    "key": "A2C18A33417EBB301E88DFB81B792EFC",
+    "text": "О, ты еще здесь? Я закончил.",
+    "originalText": "Oh, are you still here? I'm done."
+  },
+  {
+    "path": "Exports.285.Data.6.Value.1.Value.5",
+    "key": "36AEFB114BB7A8CE6B5371B871D35232",
+    "text": "О, я все еще читаю. Очень даже читаю.",
+    "originalText": "Oh, I'm still reading. Very much reading."
+  },
+  {
+    "path": "Exports.286.Data.0",
+    "key": "8167255D4C579FD5B8839BBD320FCDC8",
+    "text": "Много? О, ты все еще расследуешь пожар в Уэст-Энде? Помог ли тот отчет, который я тебе отправил?",
+    "originalText": "A lot? Oh, you're looking into the West End fire, still? Did that report I sent you help?"
+  },
+  {
+    "path": "Exports.286.Data.5.Value.0.Value.5",
+    "key": "1842B93F4A1681DB39E0329C47C9548B",
+    "text": "Помог.",
+    "originalText": "It did."
+  },
+  {
+    "path": "Exports.286.Data.5.Value.1.Value.5",
+    "key": "A97838B248F7946BDB73318D23916837",
+    "text": "Честно, не уверен.",
+    "originalText": "I'm honestly not sure."
+  },
+  {
+    "path": "Exports.287.Data.0",
+    "key": "AD2DE1E34688664D74C3B3AE832FBD75",
+    "text": "Просто для уточнения; это то, о чем я думаю, да?",
+    "originalText": "Just to clarify; this is what I think it is, right?"
+  },
+  {
+    "path": "Exports.287.Data.5.Value.0.Value.5",
+    "key": "CCF1704744894F5F7A1D7EAC587D3F94",
+    "text": "Пожар в Уэст-Энде, да.",
+    "originalText": "The West End fire, yeah."
+  },
+  {
+    "path": "Exports.287.Data.5.Value.1.Value.5",
+    "key": "612D994C4652616186DCFFB94FC8246B",
+    "text": "Не знаю. А что ты думаешь?",
+    "originalText": "I don't know. What do you think it is?"
+  },
+  {
+    "path": "Exports.288.Data.0",
+    "key": "CDEB82554BDE9C5E446B3C897FDE4F25",
+    "text": "О, точно. И с чем?",
+    "originalText": "Oh, right. And with what?"
+  },
+  {
+    "path": "Exports.288.Data.6.Value.0.Value.5",
+    "key": "B498BCA64FEE04961A34BFAD90CB18DF",
+    "text": "Опять же, как я сказал, показания не сходятся.",
+    "originalText": "Again, like I said, the testimonies don't match up."
+  },
+  {
+    "path": "Exports.288.Data.6.Value.1.Value.5",
+    "key": "399242A5484C6C5813FDF2A905C3EA8A",
+    "text": "Тупой предмет.",
+    "originalText": "A blunt instrument."
+  },
+  {
+    "path": "Exports.288.Data.6.Value.2.Value.5",
+    "key": "94CED20E4B3ED226D8DA4E81A6094A51",
+    "text": "Острый предмет.",
+    "originalText": "A sharp object."
+  },
+  {
+    "path": "Exports.289.Data.0",
+    "key": "5CE7D3954953FEA89277C68D5B576296",
+    "text": "Так скромно. Так умно. Как такой, как ты, оказался женат на такой, как я?",
+    "originalText": "So modest. So clever. How did someone like you end up marrying someone like me?"
+  },
+  {
+    "path": "Exports.289.Data.6.Value.0.Value.5",
+    "key": "6B2CC838447944CE570EDBB9D8CAD92A",
+    "text": "Ты не переставал спрашивать.",
+    "originalText": "You wouldn't stop asking."
+  },
+  {
+    "path": "Exports.289.Data.6.Value.1.Value.5",
+    "key": "51593CB14BF22483A51B968F283CBDCD",
+    "text": "Придется когда-то остановиться, наверное.",
+    "originalText": "You have to settle at some point, I suppose."
+  },
+  {
+    "path": "Exports.289.Data.6.Value.2.Value.5",
+    "key": "4AAD5A244F5C121936AF3CB4F25C667F",
+    "text": "Как только разберусь, дам тебе знать.",
+    "originalText": "Soon as I have that figured out, I'll let you know."
+  },
+  {
+    "path": "Exports.290.Data.0",
+    "key": "9B6E140A4333264163D3AE85123A7F0F",
+    "text": "Окупилось, да? Так как прошел твой день?",
+    "originalText": "Paid off, didn't it? So, how's your day been?"
+  },
+  {
+    "path": "Exports.290.Data.5.Value.0.Value.5",
+    "key": "AAFEDBCA42E5E33F07F0BBB0F601F73D",
+    "text": "[Указать на терминал] Расследую. Пытаюсь закончить статью.",
+    "originalText": "[Point at the terminal] Investigating. Trying to wrap up the article."
+  },
+  {
+    "path": "Exports.290.Data.5.Value.1.Value.5",
+    "key": "55BEC2054B11F15CCA71E884219776EC",
+    "text": "Пишу, расследую и еще пишу.",
+    "originalText": "Writing, investigating, and more writing."
+  },
+  {
+    "path": "Exports.291.Data.0",
+    "key": "76F829A648EA35F134064F9D1108EEAC",
+    "text": "Уверен, я бы не знал. Так как прошел твой день?",
+    "originalText": "I'm sure I wouldn't know. So, how's your day been?"
+  },
+  {
+    "path": "Exports.291.Data.5.Value.0.Value.5",
+    "key": "A0A03BD34CA4F7E458D0F498B4EDC188",
+    "text": "Работа. Изучаю некоторые документы для статьи, которую делаю.",
+    "originalText": "Work. Looking into some documents for the article I'm doing."
+  },
+  {
+    "path": "Exports.291.Data.5.Value.1.Value.5",
+    "key": "879BB4454A1EA9C74C88E9B837913084",
+    "text": "Пишу, расследую и еще пишу.",
+    "originalText": "Writing, investigating, and more writing."
+  },
+  {
+    "path": "Exports.292.Data.0",
+    "key": "C40DBBEF4869D35DC9E2299858BB172C",
+    "text": "Не торопись, дорогая. В любом случае, чем ты занята?",
+    "originalText": "No rush, honey. Anyway, what are you up to?"
+  },
+  {
+    "path": "Exports.292.Data.5.Value.0.Value.5",
+    "key": "BA84FD574DEFA2141B6491BB270E6549",
+    "text": "Пишу, расследую и еще пишу.",
+    "originalText": "Writing, investigating, and more writing."
+  },
+  {
+    "path": "Exports.292.Data.5.Value.1.Value.5",
+    "key": "227A8B37459CFE50E36A4DA1B7234E4B",
+    "text": "Изучаю статью. Или, по крайней мере, пытаюсь.",
+    "originalText": "Looking into the article. Or at least trying to."
+  },
+  {
+    "path": "Exports.293.Data.0",
+    "key": "7CCD10484E2B8D3A32DA58BA186265C5",
+    "text": "Уже почти шесть, дорогая. Я только что вернулся с работы. Как насчет того, чтобы я заказал ужин сегодня?",
+    "originalText": "It's almost six, babe. I just got back from work. How about I order dinner tonight?"
+  },
+  {
+    "path": "Exports.293.Data.5.Value.0.Value.5",
+    "key": "F3A9DBA34B8AC779F2C4318C8B81BCCF",
+    "text": "Ты уверен?",
+    "originalText": "You sure?"
+  },
+  {
+    "path": "Exports.293.Data.5.Value.1.Value.5",
+    "key": "1C74477E4640F00D7D304981EB487E16",
+    "text": "Я могу позаботиться об этом. Приготовлю что-нибудь простое.",
+    "originalText": "I can take care of it. I'll make something simple."
+  },
+  {
+    "path": "Exports.293.Data.5.Value.2.Value.5",
+    "key": "71DF662D423AD62D300F21A29D707B23",
+    "text": "Как насчет того, чтобы ты приготовил?",
+    "originalText": "How about you cook?"
+  },
+  {
+    "path": "Exports.294.Data.0",
+    "key": "411908BA4DEBF9870B72B1912FD388C8",
+    "text": "Ладно. Ну, как насчет того, чтобы я заказал нам ужин, и мы разберемся с этим вместе?",
+    "originalText": "Alright. Well, how about I order us some dinner and we work our way through it together?"
+  },
+  {
+    "path": "Exports.294.Data.5.Value.0.Value.5",
+    "key": "6990C0CB41437616F0F5478FE600766A",
+    "text": "Зависит от того, что ты закажешь.",
+    "originalText": "Depends on what you order."
+  },
+  {
+    "path": "Exports.294.Data.5.Value.1.Value.5",
+    "key": "01E8CC2446A35C3CDF374489B7618194",
+    "text": "И позволить тебе копаться в моей работе? Ни за что, приятель.",
+    "originalText": "And let you snoop through my work? No way, buster."
+  },
+  {
+    "path": "Exports.295.Data.0",
+    "key": "C60A73C04FD3FDA1F2F425A469C3FACB",
+    "text": "Он был вооружен, да? С чем?",
+    "originalText": "He was armed, right? With what?"
+  },
+  {
+    "path": "Exports.295.Data.6.Value.0.Value.5",
+    "key": "F3BF20864A3EF68F3E6B0EAF06E4C65D",
+    "text": "Как я сказал, показания не сходятся.",
+    "originalText": "Like I said, the testimonies don't match up."
+  },
+  {
+    "path": "Exports.295.Data.6.Value.1.Value.5",
+    "key": "E53B93164672D70556C8BF8C7B8F616D",
+    "text": "Тупой предмет.",
+    "originalText": "A blunt instrument."
+  },
+  {
+    "path": "Exports.295.Data.6.Value.2.Value.5",
+    "key": "197D08634ECBDA72CE8A04A4A554C06B",
+    "text": "Острый предмет.",
+    "originalText": "A sharp object."
+  },
+  {
+    "path": "Exports.295.Data.6.Value.3.Value.5",
+    "key": "67E9389C4F761C5B09D172AAC809A2C7",
+    "text": "Не совсем уверен.",
+    "originalText": "I'm not exactly sure."
+  },
+  {
+    "path": "Exports.296.Data.0",
+    "key": "B72770A74FE6820A2381D4977539215D",
+    "text": "Думаю, мы оба предпочли бы что-то съедобное, да? Я выберу что-нибудь, что, как я знаю, тебе нравится. Кроме того, что тебя так отвлекает?",
+    "originalText": "I think we'd both prefer something edible, right? I'll pick out something I know you like. Besides, what's got you so distracted?"
+  },
+  {
+    "path": "Exports.296.Data.5.Value.0.Value.5",
+    "key": "4141C36A4107307624B3EE981E8683FD",
+    "text": "Почему, я сидела без дела, тоскуя по теплым объятиям моего любящего мужа.",
+    "originalText": "Why, I've been sitting around doing nothing, longing for my loving husband's warm embrace."
+  },
+  {
+    "path": "Exports.296.Data.5.Value.1.Value.5",
+    "key": "C29926DE4BEB5F9FF49A67BD31FD614C",
+    "text": "Ну... Помнишь пожар в Уэст-Энде?",
+    "originalText": "Well...Remember the West End fire?"
+  },
+  {
+    "path": "Exports.296.Data.5.Value.2.Value.5",
+    "key": "DD7507EE4F320C0A95C84BA64EB78EF9",
+    "text": "Ты помнишь ту стрельбу в Уэст-Энде?",
+    "originalText": "You remember that shooting in West End?"
+  },
+  {
+    "path": "Exports.297.Data.0",
+    "key": "4E77A2C74865D567957084A492014768",
+    "text": "Офицер сделал это? Как?",
+    "originalText": "The officer did? How?"
+  },
+  {
+    "path": "Exports.297.Data.5.Value.0.Value.5",
+    "key": "4B0776F24887F64E9A2122B2ADDD818F",
+    "text": "Не уверен. В отчете это не упоминается.",
+    "originalText": "Not sure. The report doesn't mention it."
+  },
+  {
+    "path": "Exports.297.Data.5.Value.1.Value.5",
+    "key": "F19BF72C4E463439020251B2BB8ABA2B",
+    "text": "У них была перестрелка. Уверен, коп выстрелил первым.",
+    "originalText": "The two of them had a standoff. I'm sure the cop struck first."
+  },
+  {
+    "path": "Exports.298.Data.0",
+    "key": "7239FDBA4161A8FB505AF9ABAAF26D4D",
+    "text": "Ты был занят работой, да? Я позабочусь об этом. Кроме того, что тебя так отвлекает?",
+    "originalText": "You've been busy with work, haven't you? I'll take care of it. Besides, what's got you so distracted?"
+  },
+  {
+    "path": "Exports.298.Data.5.Value.0.Value.5",
+    "key": "5EC65C3E4F189DDDD286C098ACB3B8DB",
+    "text": "Почему, я сидела без дела, тоскуя по теплым объятиям моего любящего мужа.",
+    "originalText": "Why, I've been sitting around doing nothing, longing for my loving husband's warm embrace."
+  },
+  {
+    "path": "Exports.298.Data.5.Value.1.Value.5",
+    "key": "5371740B4886BEC67DF23CBC48FE598A",
+    "text": "Помнишь пожар в Уэст-Энде?",
+    "originalText": "Remember the West End fire?"
+  },
+  {
+    "path": "Exports.298.Data.5.Value.2.Value.5",
+    "key": "026E077841BD383457AA068E76B6263F",
+    "text": "Помнишь ту стрельбу в Уэст-Энде на прошлой неделе?",
+    "originalText": "Remember that shooting in West End?"
+  },
+  {
+    "path": "Exports.299.Data.0",
+    "key": "F422CB80408BD9CBB72BC5B862560EC1",
+    "text": "Ты не помнишь?",
+    "originalText": "You don't remember?"
+  },
+  {
+    "path": "Exports.299.Data.5.Value.0.Value.5",
+    "key": "5EEB349F4D0981F57D34DE8F0F7FBFD7",
+    "text": "Нет — как я упоминал, упоминались два разных оружия.",
+    "originalText": "No - like I mentioned, two different weapons were mentioned."
+  },
+  {
+    "path": "Exports.299.Data.5.Value.1.Value.5",
+    "key": "309065474B1BB8BF776F5C8BE0A95A8F",
+    "text": "Нет, подожди — это был тупой предмет.",
+    "originalText": "No, wait - it was a blunt instrument."
+  },
+  {
+    "path": "Exports.299.Data.5.Value.2.Value.5",
+    "key": "B5EDD55C4849771B465907BD2757E987",
+    "text": "Нет, неважно. Это был острый предмет.",
+    "originalText": "No, nevermind. It was a sharp object."
+  },
+  {
+    "path": "Exports.299.Data.5.Value.3.Value.5",
+    "key": "1A32CB3348A10FEFF8B2BDB0DA7B5ED8",
+    "text": "Нет, в отчетах упоминаются два разных оружия.",
+    "originalText": "No, the reports mention two differing weapons."
+  },
+  {
+    "path": "Exports.299.Data.5.Value.4.Value.5",
+    "key": "B7D4EE5E4A2129BCE77815AF2215EA55",
+    "text": "...Было много документов, Лукас.",
+    "originalText": "...There were a lot of documents, Lukas."
+  },
+  {
+    "path": "Exports.300.Data.0",
+    "key": "D3867C0448346BEA354A4CAF5E91860C",
+    "text": "Или мы просто пропустим посуду и будем есть из картонных коробок. Договорились? Кроме того, что тебя так отвлекает?",
+    "originalText": "Or we just skip the dishes and eat out of little cardboard boxes. Deal? Besides, what's got you so distracted?"
+  },
+  {
+    "path": "Exports.300.Data.5.Value.0.Value.5",
+    "key": "1E71040A476D30B6613ECD8E6076F246",
+    "text": "Почему, я сидела без дела, тоскуя по теплым объятиям моего любящего мужа.",
+    "originalText": "Why, I've been sitting around doing nothing, longing for my loving husband's warm embrace."
+  },
+  {
+    "path": "Exports.300.Data.5.Value.1.Value.5",
+    "key": "620DFB314D7ABC6AFF615294DB0B5DBE",
+    "text": "Ну... помнишь пожар в Уэст-Энде?",
+    "originalText": "Well...remember the West End fire?"
+  },
+  {
+    "path": "Exports.300.Data.5.Value.2.Value.5",
+    "key": "364FE548457843A6DC95D0828255F74F",
+    "text": "Ты помнишь ту стрельбу в Уэст-Энде?",
+    "originalText": "You remember that shooting in West End?"
+  },
+  {
+    "path": "Exports.301.Data.0",
+    "key": "5A8E31CD49B0F0B3BF396ABC7CA9C5ED",
+    "text": "Помню. Так ты работаешь над статьей, да?",
+    "originalText": "I do. So you're working on the article, huh?"
+  },
+  {
+    "path": "Exports.301.Data.6.Value.0.Value.5",
+    "key": "8B6D77454B5C0C78E8CEFD86C97387C6",
+    "text": "Угу.",
+    "originalText": "Uh-huh."
+  },
+  {
+    "path": "Exports.301.Data.6.Value.1.Value.5",
+    "key": "1DE870154F37988DDC4F9ABD2CA512B3",
+    "text": "Пытаюсь, по крайней мере.",
+    "originalText": "Trying to, at least."
+  },
+  {
+    "path": "Exports.302.Data.0",
+    "key": "478561DE449FBADD87891BABED86B480",
+    "text": "Не думаю, что смогу забыть. Все еще слышу об этом в участке. Я думал, ты сосредоточен на пожаре.",
+    "originalText": "Don't think I could forget. Still hearing about it at the precinct. I thought you were focusing on the fire, though."
+  },
+  {
+    "path": "Exports.302.Data.6.Value.0.Value.5",
+    "key": "DA318594409F2FC03FE3A99E6B06D340",
+    "text": "Все еще сосредоточен. Просто еще не понял, как он начался.",
+    "originalText": "I still am. I just haven't figured out how it started, yet."
+  },
+  {
+    "path": "Exports.302.Data.6.Value.1.Value.5",
+    "key": "ABCB86CA4DF24497AB37AC920B7DF6B5",
+    "text": "Был, да. Но кое-что всплыло.",
+    "originalText": "I was, yeah. But some things came up."
+  },
+  {
+    "path": "Exports.303.Data.0",
+    "key": "7F94EDF941BCBA9B54FA1EA460870376",
+    "text": "Ладно. Он напал на них с оружием, и они ответили силой. Мне жаль, Рене, но это все по протоколу.",
+    "originalText": "Alright. He came at them with a weapon, and they responded with force. I'm sorry, Renee, but this is all according to protocol."
+  },
+  {
+    "path": "Exports.303.Data.6.Value.0.Value.5",
+    "key": "48B148A84EC24060781EF2BC752C1F33",
+    "text": "Это не значит, что мне это должно нравиться.",
+    "originalText": "Doesn't mean I have to like it."
+  },
+  {
+    "path": "Exports.303.Data.6.Value.1.Value.5",
+    "key": "FAD2E11E49BB869106A082B317DB9C29",
+    "text": "Стрелять в кого-то без оружия? После того, как вошли в его дом?",
+    "originalText": "Shooting someone without a gun? After entering their home?"
+  },
+  {
+    "path": "Exports.304.Data.0",
+    "key": "309416F1401F672169C31E89B60B8F75",
+    "text": "Ладно. Он напал на них с оружием, и они ответили силой. Мне жаль, Рене, но это все по протоколу.",
+    "originalText": "Alright. He came at them with a weapon, and they responded with force. I'm sorry, Renee, but this is all according to protocol."
+  },
+  {
+    "path": "Exports.304.Data.5.Value.0.Value.5",
+    "key": "FC3B9DE64E0B266479EAAB8467557809",
+    "text": "Это не значит, что мне это должно нравиться.",
+    "originalText": "Doesn't mean I have to like it."
+  },
+  {
+    "path": "Exports.304.Data.5.Value.1.Value.5",
+    "key": "B4B4474C4FC330B2EFC921A77C41D01C",
+    "text": "Стрелять в кого-то без оружия? После того, как вошли в его дом?",
+    "originalText": "Shooting someone without a gun? After entering their home?"
+  },
+  {
+    "path": "Exports.305.Data.0",
+    "key": "5110BE734341CD09523425880E006AC2",
+    "text": "О, точно. И тупой, и острый, в зависимости от отчета. Хм. Ну, опять же, это может быть... хм.",
+    "originalText": "Oh, right. Both blunt and sharp, depending on the report. Hm. Well, again, it might be a...hm."
+  },
+  {
+    "path": "Exports.305.Data.6.Value.0.Value.5",
+    "key": "FDCD9FC745CDA6FC673CF6A4EFB001A3",
+    "text": "Кроме того, детектив, который прибыл позже, сказал, что оба офицера выглядели нормально.",
+    "originalText": "Furthermore, the detective that arrived later on said both officers looked fine."
+  },
+  {
+    "path": "Exports.305.Data.6.Value.1.Value.5",
+    "key": "017700684551B979AC038FBB13BDAFB7",
+    "text": "Может быть что, Лукас? В отчетах что-то не так.",
+    "originalText": "Might be what, Lukas? There's something wrong with the reports."
+  },
+  {
+    "path": "Exports.305.Data.6.Value.2.Value.5",
+    "key": "F602B82C4EF947892F601E8CC46B613A",
+    "text": "Да. Мне это не нравится.",
+    "originalText": "Yeah. I don't get it."
+  },
+  {
+    "path": "Exports.306.Data.0",
+    "key": "9FE814394D31A0766E9B499F88FA86FE",
+    "text": "Угу. И потом прошло десять минут, и ты захотел сделать что-то продуктивное, да?",
+    "originalText": "Uh-huh- And then ten minutes passed and you wanted to do something productive, is that it?"
+  },
+  {
+    "path": "Exports.306.Data.6.Value.0.Value.5",
+    "key": "1E6DF80D48A741F9DEB2A99EA33BB43B",
+    "text": "Да. Помнишь пожар?",
+    "originalText": "Yeah. Remember the fire?"
+  },
+  {
+    "path": "Exports.306.Data.6.Value.1.Value.5",
+    "key": "2EEA6B054277A22D6BD5DE8430AB6B77",
+    "text": "Ты же знаешь, что любишь меня.",
+    "originalText": "You know you love me."
+  },
+  {
+    "path": "Exports.307.Data.0",
+    "key": "42098425403B6D4325725D8741569966",
+    "text": "У меня есть кое-что для тебя. Так — что тебя так отвлекает?",
+    "originalText": "I got something in mind for you. So - what's got you so distracted?"
+  },
+  {
+    "path": "Exports.307.Data.5.Value.0.Value.5",
+    "key": "A2858C664452B4FBE2D723B3222DE818",
+    "text": "Помнишь пожар в Уэст-Энде?",
+    "originalText": "Remember the West End fire?"
+  },
+  {
+    "path": "Exports.307.Data.5.Value.1.Value.5",
+    "key": "91A32570482C3BAE847D07BC73407B27",
+    "text": "Стрельба в Уэст-Энде на прошлой неделе. Помнишь?",
+    "originalText": "The shooting in West End last week. Remember?"
+  },
+  {
+    "path": "Exports.308.Data.0",
+    "key": "D8186C2A45CFBABA0A6DF8861B631688",
+    "text": "Слушай сюда, мэм. Последнее, что я слышал, ты получила доступ к засекреченным полицейским документам для этой работы. Наверное, через информатора. Было бы безответственно не расследовать это.",
+    "originalText": "Listen here, ma'am. Last I heard, you got your hands on classified police documents for that work. Probably through an informant. It would be irresponsible to not investigate it."
+  },
+  {
+    "path": "Exports.308.Data.6.Value.0.Value.5",
+    "key": "D595A6C443451E81E8C743AB8AA03C10",
+    "text": "Угу. И ты планируешь помочь?",
+    "originalText": "Uh-huh. And you plan to help?"
+  },
+  {
+    "path": "Exports.308.Data.6.Value.1.Value.5",
+    "key": "A1EDA8514ECC6820827AD6AD73FBC0BD",
+    "text": "Информатор был очень полезен. Очень мил.",
+    "originalText": "The informant was very helpful. Very cute."
+  },
+  {
+    "path": "Exports.308.Data.6.Value.2.Value.5",
+    "key": "28EC944D4B5345E5B1F56F8BF31B6D6B",
+    "text": "Ты можешь расследовать мою задницу.",
+    "originalText": "You can investigate my butt."
+  },
+  {
+    "path": "Exports.309.Data.0",
+    "key": "02E6299D4F600EE1C09B7F97CDEC8ADB",
+    "text": "Может, так и сделаю. И, может, произойдут другие события.",
+    "originalText": "Maybe I shall. And maybe other events shall transpire."
+  },
+  {
+    "path": "Exports.309.Data.5.Value.0.Value.5",
+    "key": "777AD81649824536619345A437980DD4",
+    "text": "О, произойдут, да?",
+    "originalText": "Oh, they shall, shall they?"
+  },
+  {
+    "path": "Exports.309.Data.5.Value.1.Value.5",
+    "key": "2A0EDA774C769C37BD195BBDB5F0D0A3",
+    "text": "\"Произойдут?\"",
+    "originalText": "\"Transpire?\""
+  },
+  {
+    "path": "Exports.309.Data.5.Value.2.Value.5",
+    "key": "D44DC6FC4ED7B906650CC88CBDB5189B",
+    "text": "Ладно, крутой парень. Я работаю над статьей о пожаре.",
+    "originalText": "Okay, tough guy. I'm working on the article about the fire."
+  },
+  {
+    "path": "Exports.310.Data.0",
+    "key": "8D18646640B3483350F9C2877C7E2CC2",
+    "text": "Вот так ты и очаровал их, да? Давай, ботан. Дай мне помочь.",
+    "originalText": "That's how you charmed your way into them, huh? Come on, you nerd. Let me help. "
+  },
+  {
+    "path": "Exports.310.Data.5.Value.0.Value.5",
+    "key": "EE5CE24244B13758F5A325B828B9AF82",
+    "text": "Не знаю, партнер. Может, я лучше работаю один.",
+    "originalText": "I don't know, partner. Maybe I work better alone."
+  },
+  {
+    "path": "Exports.310.Data.5.Value.1.Value.5",
+    "key": "FCCE216B4ACE852C3414F2BE94AF1CD5",
+    "text": "Ладно. Ты можешь помочь.",
+    "originalText": "Fine. You can help."
+  },
+  {
+    "path": "Exports.311.Data.0",
+    "key": "E17EBB9042F5903FECF004938AC11F8C",
+    "text": "Это ты подарил мне \"слово дня\" календарь. Вини себя. Теперь дай мне помочь.",
+    "originalText": "You're the one who got me that \"word of the day\" calendar. Blame yourself. Now, let me help."
+  },
+  {
+    "path": "Exports.311.Data.6.Value.0.Value.5",
+    "key": "96F0224440C8B6EA02E24FA74AFD64EE",
+    "text": "Конечно. Я работаю над статьей. Вот что происходит.",
+    "originalText": "Sure. I'm working on the article. That's what's transpiring."
+  },
+  {
+    "path": "Exports.312.Data.0",
+    "key": "84E155044DEC2D8F18C8308A5463D6C9",
+    "text": "Я тщательный следователь. А ты мой главный подозреваемый.",
+    "originalText": "I'm a thorough investigator. And you're my prime suspect."
+  },
+  {
+    "path": "Exports.312.Data.6.Value.0.Value.5",
+    "key": "5297A0D1496A09EFE63B95ACA13D1F6F",
+    "text": "Ты ботан, вот кто ты. Я работаю над статьей.",
+    "originalText": "You're a nerd, that's what you are. I'm working on the article."
+  },
+  {
+    "path": "Exports.313.Data.0",
+    "key": "69A40042467C247D50142090A1B6362A",
+    "text": "...Тогда откуда ты знаешь, что он это сделал? Рене, мы не можем просто предполагать вещи, потому что они могли произойти. Без доказательств это всего лишь спекуляции.",
+    "originalText": "...Then how do you know he did? Renee, we can't just assume things because they might've happened. Without proof, it's just speculation."
+  },
+  {
+    "path": "Exports.313.Data.6.Value.0.Value.5",
+    "key": "4DE88ACB40C04F3615EF3E9D67CA0FA1",
+    "text": "Ладно.",
+    "originalText": "Fine."
+  },
+  {
+    "path": "Exports.313.Data.6.Value.1.Value.5",
+    "key": "0E6D5DF34DD02F7AB381F8978B3DBA2E",
+    "text": "Я говорю, что не доверяю отчетам.",
+    "originalText": "I'm saying I don't trust the reports."
+  },
+  {
+    "path": "Exports.314.Data.0",
+    "key": "13D2AA5D4FCFFF4048F6B69A1ED0C0E9",
+    "text": "И ты не даешь ему что-то простое, да?",
+    "originalText": "And you're not giving him something basic, are you?"
+  },
+  {
+    "path": "Exports.314.Data.5.Value.0.Value.5",
+    "key": "FED6069B44931EFF7B9C72ADA3F6D6B3",
+    "text": "В этом деле нет ничего простого.",
+    "originalText": "There's nothing basic about this case."
+  },
+  {
+    "path": "Exports.314.Data.5.Value.1.Value.5",
+    "key": "0EF9ADA24BAC87B0CE9E5B9518185ED8",
+    "text": "Уверен, что могу дать ему что-то лучше.",
+    "originalText": "I'm pretty sure I can give him something better."
+  },
+  {
+    "path": "Exports.315.Data.0",
+    "key": "9FF961AD447E7EC973614697D6D6FBA7",
+    "text": "Прости, что я не большой любитель чтения, ваше высочество. Давай не будем заставлять Уэстли ждать. Проведи меня через это. Давай разберемся, прямо сейчас.",
+    "originalText": "I'm sorry for not being much of the reading sort, your highness. Let's not keep Westley waiting, then. Walk me through it. Let's figure it out, right now."
+  },
+  {
+    "path": "Exports.315.Data.5.Value.0.Value.5",
+    "key": "241A3F194B538A73F16E83A16565D095",
+    "text": "С чего мне начать?",
+    "originalText": "Where should I start?"
+  },
+  {
+    "path": "Exports.316.Data.0",
+    "key": "8595D92B4DB4F420034306879B879C00",
+    "text": "Ну, проведи меня через это. Посмотрим, сможем ли мы разобраться вместе.",
+    "originalText": "Well, walk me through it. Let's see if we can figure it out together."
+  },
+  {
+    "path": "Exports.316.Data.5.Value.0.Value.5",
+    "key": "D7F251FC4AD9309865B17B9EEFA10516",
+    "text": "Конечно. С чего начать?",
+    "originalText": "Sure. Where do I start?"
+  },
+  {
+    "path": "Exports.317.Data.0",
+    "key": "003FB6D14FC6134E39D2B18E1FCE96CD",
+    "text": "Ты все это говоришь. Ладно, партнер. Давай разберемся. Проведи меня через это.",
+    "originalText": "So you keep saying. Alright, partner. Let's figure it out. Walk me through it."
+  },
+  {
+    "path": "Exports.317.Data.5.Value.0.Value.5",
+    "key": "AE43FFCB42FC50723629E38150D85A23",
+    "text": "С чего ты хочешь, чтобы я начал?",
+    "originalText": "Where do you want me to start?"
+  },
+  {
+    "path": "Exports.318.Data.0",
+    "key": "926AC7EE452AE2F299B9DA995F91EECE",
+    "text": "Ладно, тогда. Проведи меня через это.",
+    "originalText": "Alright, then. Walk me through it."
+  },
+  {
+    "path": "Exports.318.Data.6.Value.0.Value.5",
+    "key": "888B00514FA5971D40134397C736168B",
+    "text": "Конечно. С чего начнем?",
+    "originalText": "Sure. Where do we start?"
+  },
+  {
+    "path": "Exports.319.Data.0",
+    "key": "8F91CB054C0C2DAE20D8E3B057603D17",
+    "text": "Давай начнем с начала. Расскажи мне о пожаре. Было два вызова, верно? Где он начался?",
+    "originalText": "Let's start at the beginning. Tell me about the fire. There were two calls about it, right? Where did it start?"
+  },
+  {
+    "path": "Exports.319.Data.6.Value.0.Value.5",
+    "key": "7D2F21144B9E7578CD287388E165EEAB",
+    "text": "Не уверен. Где-то ниже третьего этажа.",
+    "originalText": "Not sure. Somewhere below the third floor."
+  },
+  {
+    "path": "Exports.319.Data.6.Value.1.Value.5",
+    "key": "B5AA103C42081AF9DD1257BA18E9DA6B",
+    "text": "В квартире Стоуна.",
+    "originalText": "In Stone's apartment."
+  },
+  {
+    "path": "Exports.319.Data.6.Value.2.Value.5",
+    "key": "AF1E3DAD490CDF3569FB5F9D23EE24FC",
+    "text": "Невозможно быть уверенным.",
+    "originalText": "There's no way to be sure."
+  },
+  {
+    "path": "Exports.319.Data.6.Value.3.Value.5",
+    "key": "FC00806441BD82F63C5509B404927A3A",
+    "text": "Дай мне секунду, чтобы освежить память... [Открыть терминал]",
+    "originalText": "Give me a second to remind myself... [Open terminal]"
+  },
+  {
+    "path": "Exports.320.Data.0",
+    "key": "F47F301F4BAD01F78244FEA467B59816",
+    "text": "На основании чего? Мне жаль, Рене, но ты не можешь просто делать обвинения на основе предположений и интуиции. Есть ли какие-то указания на это в отчетах?",
+    "originalText": "Based on what? I'm sorry, Renee, but you can't just make accusations based on assumptions and gut feeling. Is there any indication of that in the reports?"
+  },
+  {
+    "path": "Exports.320.Data.6.Value.0.Value.5",
+    "key": "4D977E58495314B2C930E38E1B54F88F",
+    "text": "...Нет, наверное, нет.",
+    "originalText": "...No, I suppose not."
+  },
+  {
+    "path": "Exports.320.Data.6.Value.1.Value.5",
+    "key": "1C5568604210E96EF446F59000E8B34C",
+    "text": "В этом-то и дело, Лукас. Я не доверяю отчетам.",
+    "originalText": "That's the thing, Lukas. I don't trust the reports."
+  },
+  {
+    "path": "Exports.321.Data.0",
+    "key": "58F94EA14E69535F5FAF6382CF7B1A09",
+    "text": "Так ли это? Почему?",
+    "originalText": "Is that so? How come?"
+  },
+  {
+    "path": "Exports.321.Data.5.Value.0.Value.5",
+    "key": "D7A2D3A942E228BFB433F4B389D90AA7",
+    "text": "Я... не знаю. Мне просто это не нравится. Ничто из этого.",
+    "originalText": "I...I don't know. I just don't like it. Any of it."
+  },
+  {
+    "path": "Exports.321.Data.5.Value.1.Value.5",
+    "key": "0E6647824A747704371FF0BE12DA9864",
+    "text": "Потому что отчеты ненадежны.",
+    "originalText": "Because the reports aren't reliable."
+  },
+  {
+    "path": "Exports.322.Data.0",
+    "key": "781FE86A46EF7256A4298BA4F413BB9D",
+    "text": "Интуиции недостаточно для надежных доказательств, Рене. Давай придерживаться того, что мы знаем.",
+    "originalText": "Hunches aren't enough for reliable proof, Renee. Let's stick to what we know."
+  },
+  {
+    "path": "Exports.322.Data.6.Value.0.Value.5",
+    "key": "C4588C0043CCB69C07BDC3A192E4EC4A",
+    "text": "Ладно.",
+    "originalText": "Fine."
+  },
+  {
+    "path": "Exports.322.Data.6.Value.1.Value.5",
+    "key": "4571532E46FA4A78226EDBBA640A940A",
+    "text": "Я не уверен в том, что мы знаем. Я не уверен, что доверяю отчетам.",
+    "originalText": "I'm not sure about what we know. I'm not sure I trust the reports."
+  },
+  {
+    "path": "Exports.323.Data.0",
+    "key": "5FED8D99497122D8478E13996218B299",
+    "text": "Где-то ниже третьего этажа? Откуда ты знаешь?",
+    "originalText": "Somewhere below third floor? How do you know?"
+  },
+  {
+    "path": "Exports.323.Data.5.Value.0.Value.5",
+    "key": "EA84A5764887C6D9A71432AF39C1070A",
+    "text": "Он распространялся на третий этаж, когда прибыли пожарные.",
+    "originalText": "It was spreading to the third floor when the firefighters arrived."
+  },
+  {
+    "path": "Exports.323.Data.5.Value.1.Value.5",
+    "key": "8D2A9DE049A33F00568F018308905ADB",
+    "text": "Первый вызов поступил от кого-то с третьего этажа и упоминал дым из квартиры внизу.",
+    "originalText": "The first call came from someone on the third floor and mentioned smoke from a downstairs apartment."
+  },
+  {
+    "path": "Exports.324.Data.0",
+    "key": "FA4DC8014E8C80F7F788A7949515D53A",
+    "text": "И как мы это знаем, точно? Ты полностью уверен, или ты делаешь поспешные выводы?",
+    "originalText": "And how do we know that, exactly? Are you completely sure, or are you jumping to conclusions?"
+  },
+  {
+    "path": "Exports.324.Data.5.Value.0.Value.5",
+    "key": "5068E26F4B4D2C6A13845EB963FC9463",
+    "text": "Духовка в квартире Стоуна была пожароопасной.",
+    "originalText": "The oven in Stone's apartment was a fire hazard."
+  },
+  {
+    "path": "Exports.324.Data.5.Value.1.Value.5",
+    "key": "868D7D174C599819AC09E6914490EA2D",
+    "text": "В отчете о пожаре упоминается утечка газа на втором этаже.",
+    "originalText": "The fire report mentions a gas leak on the second floor."
+  },
+  {
+    "path": "Exports.324.Data.5.Value.2.Value.5",
+    "key": "E22B65EF4CE5B3E72F32148F5E180D60",
+    "text": "Первый экстренный вызов описывал дым, идущий из квартиры Стоуна.",
+    "originalText": "The first emergency call described smoke coming from Stone's apartment."
+  },
+  {
+    "path": "Exports.325.Data.0",
+    "key": "81D05EF3452C82BF2972A2B991CCE509",
+    "text": "Продолжай смотреть на этот экран так, и твои глаза станут квадратными. Эй, дорогая.",
+    "originalText": "Keep staring at that screen like that, and your eyes will go square. Hey, hon."
+  },
+  {
+    "path": "Exports.325.Data.6.Value.0.Value.5",
+    "key": "A3F5B3684FBC8D541D6F8BB8AC51A8B8",
+    "text": "(ПОЛУЧИЛ ЧЕРТУ: ЗАБОТЛИВОСТЬ) Лукас? Я не слышала, как ты вернулся! Добро пожаловать домой, дорогой!",
+    "originalText": "(GAIN TRAIT: CARING) Lukas? I didn't hear you get back! Welcome home, babe!"
+  },
+  {
+    "path": "Exports.325.Data.6.Value.1.Value.5",
+    "key": "1048DB6A4944B8D168583E800C4E3307",
+    "text": "(ПОЛУЧИЛ ЧЕРТУ: ЛОГИЧНОСТЬ) Не так это работает, и ты это знаешь. Эй, дорогая.",
+    "originalText": "(GAIN TRAIT: LOGICAL) Not how it works, and you know that. Hey, honey."
+  },
+  {
+    "path": "Exports.325.Data.6.Value.2.Value.5",
+    "key": "2675C49940CD96FD3A45C0A8EC443245",
+    "text": "(ПОЛУЧИЛ ЧЕРТУ: ЦЕЛЕУСТРЕМЛЕННОСТЬ) Эй, детка. Дай мне секунду, ладно?",
+    "originalText": "(GAIN TRAIT: DRIVEN) Hey baby. Give me one second, alright?"
+  },
+  {
+    "path": "Exports.326.Data.0",
+    "key": "0BA1E21E4310F77CA8C734AF3D4EBA9A",
+    "text": "Правда? Со всеми этими отчетами, которые ты собрал?",
+    "originalText": "Really? With all those reports you gathered?"
+  },
+  {
+    "path": "Exports.326.Data.6.Value.0.Value.5",
+    "key": "50260DE841AD4D1302EC8781BBF1585B",
+    "text": "Может, я что-то упустил...",
+    "originalText": "Maybe I missed something..."
+  },
+  {
+    "path": "Exports.326.Data.6.Value.1.Value.5",
+    "key": "840C81884BF2FD876E29E8ADA848D940",
+    "text": "Это просто не очень ясно, Лукас.",
+    "originalText": "It's just not very clear, Lukas."
+  },
+  {
+    "path": "Exports.327.Data.0",
+    "key": "96E4175C42DC4B563B7F18AD43A04A00",
+    "text": "Верно — значит, он не мог начаться там. Я понимаю твою точку зрения.",
+    "originalText": "Right - so it couldn't have started there. I see your point."
+  },
+  {
+    "path": "Exports.327.Data.6.Value.0.Value.5",
+    "key": "AC49E22E4183A05EF2145392D41C39AF",
+    "text": "Я почти уверен, что это был второй этаж.",
+    "originalText": "I'm fairly certain it was the second floor."
+  },
+  {
+    "path": "Exports.327.Data.6.Value.1.Value.5",
+    "key": "77A82767416C08A175E306A910FFD96D",
+    "text": "Да. Первый или второй этаж, без сомнения.",
+    "originalText": "Yeah. First or second floor, without a doubt."
+  },
+  {
+    "path": "Exports.328.Data.0",
+    "key": "960A4A084B768AA0451613863A65EFBA",
+    "text": "Верно, так что методом исключения... Я понимаю. Это не совсем точно, да?",
+    "originalText": "Right, so by process of elimination...I follow. It's not exactly precise, is it?"
+  },
+  {
+    "path": "Exports.328.Data.6.Value.0.Value.5",
+    "key": "F4E01358445DF3CA608EF4962D1AF8FA",
+    "text": "Я видел последствия. Не думаю, что там было что-то точное.",
+    "originalText": "I saw the aftermath. I don't think there was anything precise about it."
+  },
+  {
+    "path": "Exports.328.Data.6.Value.1.Value.5",
+    "key": "E67F3B2D4284FA3A4595458D3DB7FA78",
+    "text": "Это все еще важно. Давай держать это в уме.",
+    "originalText": "It's important, still. Let's keep it in mind."
+  },
+  {
+    "path": "Exports.329.Data.0",
+    "key": "A00CC7CE4E0E599CBEC6769DC74EFCA4",
+    "text": "Ладно — а когда начался пожар?",
+    "originalText": "Alright - and when did the fire start?"
+  },
+  {
+    "path": "Exports.329.Data.6.Value.0.Value.5",
+    "key": "99AD56F94C2D4D1C91BF21A1D37F952B",
+    "text": "До первого вызова, в 11:02 утра.",
+    "originalText": "Before the first call, at 11:02 AM."
+  },
+  {
+    "path": "Exports.329.Data.6.Value.1.Value.5",
+    "key": "A7ADAA2041B31A4B4ED00981D904E659",
+    "text": "До второго вызова, в 13:45.",
+    "originalText": "Before the second call, at 1:45 PM."
+  },
+  {
+    "path": "Exports.329.Data.6.Value.2.Value.5",
+    "key": "28B1DCF64EBBA887BDB081AC8987EDBC",
+    "text": "Дай мне минутку. Я проверю. [Открыть терминал]",
+    "originalText": "Give me a moment. I'll check. [Open terminal]"
+  },
+  {
+    "path": "Exports.330.Data.0",
+    "key": "7DA4AB3F4CC4EFE5C471979422F1E54B",
+    "text": "Но знаем ли мы точно, что он начался там?",
+    "originalText": "But do we know for certain that's where it started?"
+  },
+  {
+    "path": "Exports.330.Data.5.Value.0.Value.5",
+    "key": "A800AC1C4B8EA1CF9D36D3A1A4CE7DC5",
+    "text": "Где еще он мог начаться?",
+    "originalText": "Where else would it have been?"
+  },
+  {
+    "path": "Exports.331.Data.0",
+    "key": "3DF3FFAE48D44D41C93F4CBDD24A7479",
+    "text": "И ты думаешь, что это было в квартире Стоуна? Почему?",
+    "originalText": "And you're thinking that was in Stone's apartment? Why?"
+  },
+  {
+    "path": "Exports.331.Data.5.Value.0.Value.5",
+    "key": "E22BE4EE4A4B7E686B9BFEB1AB8275D5",
+    "text": "Он что-то делал с духовкой.",
+    "originalText": "He was doing something on his oven."
+  },
+  {
+    "path": "Exports.331.Data.5.Value.1.Value.5",
+    "key": "3634FB4B4C369F4A2CF0F9BFADF6788B",
+    "text": "В одном из полицейских отчетов упоминается газ.",
+    "originalText": "One of the police reports mentions gas."
+  },
+  {
+    "path": "Exports.332.Data.0",
+    "key": "0083CD64498C3FA5C32AFD847FA7024F",
+    "text": "Это, кажется, сужает круг, да.",
+    "originalText": "That seems to narrow it down, sure. "
+  },
+  {
+    "path": "Exports.332.Data.5.Value.0.Value.5",
+    "key": "284DC7454AC863FEFA988B8D7DFE3FD2",
+    "text": "Это просто вопрос времени — но мы до этого дойдем.",
+    "originalText": "It's just a question of timing - but we'll get to that."
+  },
+  {
+    "path": "Exports.332.Data.5.Value.1.Value.5",
+    "key": "AC694A914CFB491D6D266DB1F6A6364B",
+    "text": "Достаточно узко для меня.",
+    "originalText": "Narrow enough for me."
+  },
+  {
+    "path": "Exports.333.Data.0",
+    "key": "944494AA4410BB4F1F5CA8BB15D4EAD9",
+    "text": "Ты не думаешь, что она просто испугалась, да? Я не уверен в этом, Рене. Это просто кажется спекуляцией.",
+    "originalText": "You don't suppose she was just scared, do you? I'm not sure about this, Renee. It just feels like speculation."
+  },
+  {
+    "path": "Exports.333.Data.5.Value.0.Value.5",
+    "key": "901FF12147E93633F54C7FA090AAD5FE",
+    "text": "Ладно.",
+    "originalText": "Fine."
+  },
+  {
+    "path": "Exports.333.Data.5.Value.1.Value.5",
+    "key": "B0F939FC44762559C092D490C14ACF58",
+    "text": "Думаю, спекуляции необходимы. Я не доверяю отчетам.",
+    "originalText": "I think speculation is necessary. I don't trust the reports."
+  },
+  {
+    "path": "Exports.334.Data.0",
+    "key": "19BE18C04EEA862084B1E587F09BA40C",
+    "text": "Я знаю, что это не то, что ты хочешь услышать, Рене, но иногда правда ранит. Мы должны иметь немного веры в систему. Она никогда нас не подводила, да?",
+    "originalText": "I know it's not what you want to hear, Renee, but sometimes the truth stings. We have to have some faith in the system. It's never failed us, has it?"
+  },
+  {
+    "path": "Exports.334.Data.6.Value.0.Value.5",
+    "key": "3C142671479AC085A246009C044F551E",
+    "text": "[Ничего не говорить]",
+    "originalText": "[Say nothing]"
+  },
+  {
+    "path": "Exports.334.Data.6.Value.1.Value.5",
+    "key": "38E0790C4A4D9B06F5B1A88AD1C76D5B",
+    "text": "Нас — нет.",
+    "originalText": "Not us, no."
+  },
+  {
+    "path": "Exports.334.Data.6.Value.2.Value.5",
+    "key": "8676E85F4DF8FA14A03004AAE197259B",
+    "text": "У меня такое чувство, что она подвела Стоуна.",
+    "originalText": "I get the feeling it failed Stone."
+  },
+  {
+    "path": "Exports.335.Data.0",
+    "key": "47CB2D4C490A64C28948D09F38A0E464",
+    "text": "Я не знаю. Я просто говорю, что только потому, что что-то кажется вероятным, это не значит, что так и произошло.",
+    "originalText": "I don't know. I'm just saying that just because something seems likely, it doesn't mean that it's what happened."
+  },
+  {
+    "path": "Exports.335.Data.6.Value.0.Value.5",
+    "key": "A96ACC874F2E07C5C693CCAF3BD3B448",
+    "text": "Я почти уверена, Лукас.",
+    "originalText": "I'm pretty convinced, Lukas."
+  },
+  {
+    "path": "Exports.335.Data.6.Value.1.Value.5",
+    "key": "7BDC53C5437C73E128A80FAE0639519F",
+    "text": "...Ладно. Наверное.",
+    "originalText": "...Fine. I suppose."
+  },
+  {
+    "path": "Exports.336.Data.0",
+    "key": "C30199234FD02FB7C30018B81A5F6892",
+    "text": "Хорошо быть дома. Ты работал над этим весь день?",
+    "originalText": "Good to be home. Have you been working on this all day?"
+  },
+  {
+    "path": "Exports.336.Data.6.Value.0.Value.5",
+    "key": "D9680EC947605E28B07A69A0E3539489",
+    "text": "Правда? Который час?",
+    "originalText": "Have I? What's the time?"
+  },
+  {
+    "path": "Exports.336.Data.6.Value.1.Value.5",
+    "key": "6F452CC548E54CF3F627C392173B4703",
+    "text": "Пытаюсь. К сожалению.",
+    "originalText": "Trying to. Unfortunately."
+  },
+  {
+    "path": "Exports.336.Data.6.Value.2.Value.5",
+    "key": "5348085942FAF39F3533E1BA8947A5B6",
+    "text": "Делаю неплохие успехи.",
+    "originalText": "Making decent progress, too."
+  },
+  {
+    "path": "Exports.337.Data.0",
+    "key": "2A0151EC428EC1C9B26B9592A40977A7",
+    "text": "Может быть, недостаточно, Рене. Мы должны смотреть на факты.",
+    "originalText": "Maybe isn't good enough, Renee. We have to look at the facts."
+  },
+  {
+    "path": "Exports.337.Data.6.Value.0.Value.5",
+    "key": "515C046B4962008DD2F7C0AAD2FAE5A7",
+    "text": "Ладно.",
+    "originalText": "Fine."
+  },
+  {
+    "path": "Exports.337.Data.6.Value.1.Value.5",
+    "key": "F7D8D3134E888BABAA658CA51D82FB63",
+    "text": "А если \"факты\" были подделаны?",
+    "originalText": "And what if the \"facts\" have been tampered with?"
+  },
+  {
+    "path": "Exports.338.Data.0",
+    "key": "2DF66A3C460D28ABB0925CB72097517E",
+    "text": "Ты не доверяешь отчетам? Рене — они сделаны под присягой. Они перепроверены, пересмотрены. Почему бы ты не доверяла им?",
+    "originalText": "You don't trust the reports? Renee - those are made under oath. They're cross-referenced, double-checked. Why wouldn't you trust them?"
+  },
+  {
+    "path": "Exports.338.Data.6.Value.0.Value.5",
+    "key": "60C0119B4216A9226828E7A7E62CD4D4",
+    "text": "Просто интуиция, наверное. Не знаю.",
+    "originalText": "Just a hunch, I suppose. I don't know."
+  },
+  {
+    "path": "Exports.338.Data.6.Value.1.Value.5",
+    "key": "698905164D1D0266D4B1DA9437D875FB",
+    "text": "Неважно. Все в порядке. Это не важно.",
+    "originalText": "Nevermind. It's fine. It's whatever."
+  },
+  {
+    "path": "Exports.338.Data.6.Value.2.Value.5",
+    "key": "6EFE47A54E1C6DD6FD3385B5AFF0AF25",
+    "text": "Что ты имеешь в виду, \"почему\"? Разве я не дала тебе достаточно причин?",
+    "originalText": "What do you mean, \"why\"? Haven't I given you enough reason already?"
+  },
+  {
+    "path": "Exports.339.Data.0",
+    "key": "B730A03644D8485635D282A9B62B8FFD",
+    "text": "Ты мне говоришь — иногда кажется, что половина того, что я делаю, — это заполнение документов и форм. Никому не нравится это делать.",
+    "originalText": "You're telling me - sometimes it feels like half of what I do is fill in documents and forms. No one likes doing them."
+  },
+  {
+    "path": "Exports.339.Data.5.Value.0.Value.5",
+    "key": "4954040042DFF474B4497CA18004F3FA",
+    "text": "Главное, чтобы они были сделаны, наверное.",
+    "originalText": "As long as they get done, I suppose."
+  },
+  {
+    "path": "Exports.340.Data.0",
+    "key": "FB4EDC8A4DB5AA80B573759788FEE220",
+    "text": "Готов к следующему вопросу? Вот он: была ли причина для офицеров быть подозрительными?",
+    "originalText": "Ready for the next question? Here goes: was there reason for the officers to be suspicious?"
+  },
+  {
+    "path": "Exports.340.Data.6.Value.0.Value.5",
+    "key": "B30024094CA48CC7696553B8B34CDFBC",
+    "text": "Они почувствовали запах дыма из квартиры.",
+    "originalText": "They smelled smoke from inside the apartment."
+  },
+  {
+    "path": "Exports.340.Data.6.Value.1.Value.5",
+    "key": "D976A5574C2937AA2B829AB5371AFF8B",
+    "text": "Стоун был враждебен.",
+    "originalText": "Stone was antagonistic."
+  },
+  {
+    "path": "Exports.340.Data.6.Value.2.Value.5",
+    "key": "665A96AA417B578F0651C99C923934E6",
+    "text": "Они услышали тревожный голос изнутри.",
+    "originalText": "They heard a distressed voice from inside."
+  },
+  {
+    "path": "Exports.341.Data.0",
+    "key": "6A0983404EDB8D12FC914689625B0E4F",
+    "text": "Правда? Хм. Может, они... Да. Это звучит странно. Наверное, просто ошибка в показаниях.",
+    "originalText": "Really? Huh. Maybe they...Yeah. That does sound odd. Probably just a simple mistake in the testimony, though. "
+  },
+  {
+    "path": "Exports.341.Data.7.Value.0.Value.5",
+    "key": "026DBC8F49F215A847F2B2AFA20E8581",
+    "text": "Кроме того, детектив, который прибыл позже, сказал, что оба офицера выглядели нормально.",
+    "originalText": "Furthermore, the detective that arrived later on said both officers looked fine."
+  },
+  {
+    "path": "Exports.341.Data.7.Value.1.Value.5",
+    "key": "2EA6C0CA49CCD9FEE5B4CAB0D3EF69E8",
+    "text": "Простая ошибка? Лукас, в этом нет ничего простого!",
+    "originalText": "A simple mistake? Lukas, there's nothing simple about it!"
+  },
+  {
+    "path": "Exports.341.Data.7.Value.2.Value.5",
+    "key": "4986419043D274D500059C8DF4C6A639",
+    "text": "Да. Мне это не нравится.",
+    "originalText": "Yeah. I don't like it."
+  },
+  {
+    "path": "Exports.342.Data.0",
+    "key": "DECF8104497147F913F1AEB5AC2A81D7",
+    "text": "Это расстраивает, я знаю. Ужасные вещи. Как ты себя чувствуешь, кстати? Читать все это, день за днем... это сказывается, да?",
+    "originalText": "It's upsetting, I know. Awful stuff. How are you doing, by the way? Reading through all this, day after day...it takes a toll, doesn't it?"
+  },
+  {
+    "path": "Exports.342.Data.6.Value.0.Value.5",
+    "key": "B3E2675A40541FC5299AB496DEA268D6",
+    "text": "Сказывается. Это довольно ужасно.",
+    "originalText": "It does. It's pretty awful."
+  },
+  {
+    "path": "Exports.342.Data.6.Value.1.Value.5",
+    "key": "2D68FB7746DD77E85077748FA69312DA",
+    "text": "[Пожать плечами] Я в порядке. Я видел и хуже.",
+    "originalText": "[Shrug] I'm fine. I've seen worse."
+  },
+  {
+    "path": "Exports.343.Data.0",
+    "key": "042BEBA448303122EF4E2FA3C8F99228",
+    "text": "Ну, подумай о том, что ты смогла прочитать отчеты. Процесс был прозрачным, и ты можешь изучить это сейчас, как часть частного расследования. Это похоже на работающую систему.",
+    "originalText": "Well, consider that you were able to read through the reports. The process has been transparent, and you're able to look into it now, as part of a private investigation. That seems like a system working to me."
+  },
+  {
+    "path": "Exports.343.Data.5.Value.0.Value.5",
+    "key": "CB3CE94F479FBAC2B20BBBACB10DD4CC",
+    "text": "[Ничего не говорить]",
+    "originalText": "[Say nothing]"
+  },
+  {
+    "path": "Exports.343.Data.5.Value.1.Value.5",
+    "key": "916C470D49BD39CA6171919F05A6E619",
+    "text": "Наверное, так. Все равно не нравится.",
+    "originalText": "I suppose so. Still don't like it."
+  },
+  {
+    "path": "Exports.344.Data.0",
+    "key": "F7EE0C434093966EBE671EBE42CF72FC",
+    "text": "Ладно, я понимаю твою точку зрения. Мне кажется, что мы упускаем много информации здесь, но мы до этого дойдем.",
+    "originalText": "Alright, I see your point. I feel like we're missing a lot of information here, but we'll get to that."
+  },
+  {
+    "path": "Exports.344.Data.6.Value.0.Value.5",
+    "key": "ABE2B43144A938B559551EA100C78AFA",
+    "text": "Поверь мне, Лукас. Я уверена.",
+    "originalText": "Trust me, Lukas. I'm sure."
+  },
+  {
+    "path": "Exports.345.Data.0",
+    "key": "D0C659354B8FF5A0B0537A89444BAEBB",
+    "text": "Я понимаю, к чему ты клонишь. Это довольно убедительно.",
+    "originalText": "I see what you're getting at. That's pretty convincing."
+  },
+  {
+    "path": "Exports.345.Data.6.Value.0.Value.5",
+    "key": "233CEBDD4DED6A03F7A970A767AD4B17",
+    "text": "Достаточно убедительно для меня.",
+    "originalText": "Convincing enough for me."
+  },
+  {
+    "path": "Exports.345.Data.6.Value.1.Value.5",
+    "key": "FE23F17B4E047CCFDFFD5F890FFBC6FE",
+    "text": "Это не герметично, правда. Давай двигаться дальше.",
+    "originalText": "It's not waterproof, though. Let's move on."
+  },
+  {
+    "path": "Exports.346.Data.0",
+    "key": "83A204A949077726FF1D7F95D9F12FE8",
+    "text": "Могло бы обмануть меня. Эти вещи могут быть почти магическими, если спросить меня — хотя, мне удалось распечатать пару файлов сегодня.",
+    "originalText": "Could've fooled me. Those things might as well be magical, if you ask me - although, I did manage to print a couple files today."
+  },
+  {
+    "path": "Exports.346.Data.6.Value.0.Value.5",
+    "key": "EE725F5A4C3BC01ECFCD3B8B9B05C568",
+    "text": "[Ахнуть] Правда, детка? Я так горжусь тобой!",
+    "originalText": "[Gasp] Really, baby? I'm so proud of you!"
+  },
+  {
+    "path": "Exports.346.Data.6.Value.1.Value.5",
+    "key": "506F5C1448F1E9D4A58ABB8D5FBA772A",
+    "text": "Мой герой.",
+    "originalText": "My hero."
+  },
+  {
+    "path": "Exports.346.Data.6.Value.2.Value.5",
+    "key": "7D5F6AD34C24030A65FE8E91E9C2B0B1",
+    "text": "О? Ты на этот раз решил попросить о помощи?",
+    "originalText": "Oh? Did you dare to ask for help this time?"
+  },
+  {
+    "path": "Exports.347.Data.0",
+    "key": "FC84AA5D41A320CEC0E818BDF4CE62FF",
+    "text": "Ладно, так — первый офицер заходит на кухню, слышит крик и возвращается. Мы точно знаем, что произошло в коридоре в это время?",
+    "originalText": "Alright, so - the first officer goes into the kitchen, hears a yell, and comes back. Do we know precisely what happened in the hall during that time?"
+  },
+  {
+    "path": "Exports.347.Data.6.Value.0.Value.5",
+    "key": "2FA9EED4474E2EBF4BB2D3B9BF3D9076",
+    "text": "Стоун напал на второго офицера.",
+    "originalText": "Stone attacked the second officer."
+  },
+  {
+    "path": "Exports.347.Data.6.Value.1.Value.5",
+    "key": "C5C07BDC4B7F4DE109B254BCA2C64D88",
+    "text": "Второй офицер застрелил Стоуна.",
+    "originalText": "The second officer shot Stone."
+  },
+  {
+    "path": "Exports.347.Data.6.Value.2.Value.5",
+    "key": "AD14B24848A6493C8B61158BB1905B81",
+    "text": "Неясно. Истории не сходятся.",
+    "originalText": "It's unclear. The stories don't add up."
+  },
+  {
+    "path": "Exports.348.Data.0",
+    "key": "FEAE61E1440A26D8588A8DB98FF23CE8",
+    "text": "Закончил? Хорошо, так офицеры заходят в квартиру — какова была ситуация?",
+    "originalText": "Finished? Okay, so the officers enter the apartment - what was that situation like?"
+  },
+  {
+    "path": "Exports.348.Data.6.Value.0.Value.5",
+    "key": "C86BA6EE4C912E3A6730E6960756C7B0",
+    "text": "Стоун был враждебен.",
+    "originalText": "Stone was hostile."
+  },
+  {
+    "path": "Exports.348.Data.6.Value.1.Value.5",
+    "key": "885BB49D4FB9A1542CFB47BC605F2983",
+    "text": "Стоун был взволнован, но сотрудничал.",
+    "originalText": "Stone was agitated, but cooperated."
+  },
+  {
+    "path": "Exports.348.Data.6.Value.2.Value.5",
+    "key": "49C8A29C44CA792934DBD8AD6C359E75",
+    "text": "Стоун оставался спокойным.",
+    "originalText": "Stone remained calm."
+  },
+  {
+    "path": "Exports.349.Data.0",
+    "key": "EBD187884A2EA87E4DDCCABF8023BE48",
+    "text": "Ладно, это звучит странно. Может... не знаю. Ты хочешь, чтобы я изучил это для тебя?",
+    "originalText": "Alright, that does sound strange. Maybe...I don't know. Do you want me to look into it for you?"
+  },
+  {
+    "path": "Exports.349.Data.7.Value.0.Value.5",
+    "key": "C32D04EF4D4253DC0C48BAB5274AC3F6",
+    "text": "Если сможешь, да, пожалуйста.",
+    "originalText": "If you can, yes please."
+  },
+  {
+    "path": "Exports.349.Data.7.Value.1.Value.5",
+    "key": "BC42C4D44020AAC4C2F0EF853481C92E",
+    "text": "Да. Спасибо, дорогой.",
+    "originalText": "Yeah. Thanks, babe."
+  },
+  {
+    "path": "Exports.350.Data.0",
+    "key": "11A0753D4BF1E561D11BF0A85CE92F4D",
+    "text": "Я... да, нет, я понимаю.",
+    "originalText": "I...yeah, no, I see that."
+  },
+  {
+    "path": "Exports.350.Data.6.Value.0.Value.5",
+    "key": "F3A2FE6B45F801805F77D29469E32C34",
+    "text": "Если это ошибка, ее нужно исправить.",
+    "originalText": "If it is a mistake, it needs to be corrected."
+  },
+  {
+    "path": "Exports.350.Data.6.Value.1.Value.5",
+    "key": "9D1F900F44E7FE9252C98D8C88CC6A49",
+    "text": "Я не доверяю им, Лукас. Мы не можем им доверять.",
+    "originalText": "I don't trust them, Lukas. We can't trust them."
+  },
+  {
+    "path": "Exports.351.Data.0",
+    "key": "FAABCE9E4D17D9F889A450BAE7AA4323",
+    "text": "Я тоже. Но что есть, то есть.",
+    "originalText": "Me neither. But it is what it is."
+  },
+  {
+    "path": "Exports.351.Data.5.Value.0.Value.5",
+    "key": "EF033E854677AF76334D37BFE6B79C5A",
+    "text": "Наверное, так.",
+    "originalText": "I suppose so."
+  },
+  {
+    "path": "Exports.351.Data.5.Value.1.Value.5",
+    "key": "FB021D5A477EA88D8DBFA08FF77215C2",
+    "text": "[Ничего не говорить]",
+    "originalText": "[Say nothing]"
+  },
+  {
+    "path": "Exports.352.Data.0",
+    "key": "BFBA73E4467804C9C381DCAABB75CD53",
+    "text": "Ты сама сказала, Рене. Он напал на офицеров первым.",
+    "originalText": "You said it yourself, Renee. He attacked the officers first."
+  },
+  {
+    "path": "Exports.352.Data.6.Value.0.Value.5",
+    "key": "523D8EA7480D75D811B937824EA8C5F2",
+    "text": "Похоже на то.",
+    "originalText": "So it would seem."
+  },
+  {
+    "path": "Exports.352.Data.6.Value.1.Value.5",
+    "key": "3E776D7242BF97A0BD2E378AE642F011",
+    "text": "[Ничего не говорить]",
+    "originalText": "[Say nothing]"
+  }
+]
