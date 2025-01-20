@@ -1,0 +1,1460 @@
+[
+  {
+    "path": "Exports.73.Data.3.Value.0.Value.5",
+    "key": "edge_next",
+    "text": "Далее",
+    "originalText": "Next"
+  },
+  {
+    "path": "Exports.74.Data.0",
+    "key": "74F263B24C34BD6ED96447B344BE02C4",
+    "text": "Ты чуть не отморозил мне руку, Илай. Ты чертовски обязан мне.",
+    "originalText": "You nearly froze my hand off, Eli. You fucking owe me."
+  },
+  {
+    "path": "Exports.74.Data.6.Value.0.Value.5",
+    "key": "CD04FC3B4D416DA7117805A2E6505EFA",
+    "text": "Справедливо.",
+    "originalText": "Fair enough."
+  },
+  {
+    "path": "Exports.74.Data.6.Value.1.Value.5",
+    "key": "9DA69A44497AF1C76FAEDFBDD9650820",
+    "text": "[Кивнуть с уважением]",
+    "originalText": "[Nod respectfully]"
+  },
+  {
+    "path": "Exports.74.Data.6.Value.2.Value.5",
+    "key": "267C5AC141861523DB55D1A78436565A",
+    "text": "Что ты хочешь, чтобы я сказал?",
+    "originalText": "What do you want me to say?"
+  },
+  {
+    "path": "Exports.75.Data.0",
+    "key": "B9C209434AEB4E14A21F82A16E3A1B8A",
+    "text": "Эта чертова штука, Илай. Что бы ни было в капсуле. Оно... извивается.",
+    "originalText": "The fucking thing, Eli. Whatever's in the pod. It's...slithering."
+  },
+  {
+    "path": "Exports.75.Data.6.Value.0.Value.5",
+    "key": "75FAD2F143A7ED1D7401BAB1109605A8",
+    "text": "Ты открыл капсулу?!",
+    "originalText": "You opened the pod?!"
+  },
+  {
+    "path": "Exports.75.Data.6.Value.1.Value.5",
+    "key": "3A66585749F98A76B1440EB016C4F607",
+    "text": "Извивается? Что за... о чём ты говоришь?",
+    "originalText": "Slithering? What the...what are you talking about?"
+  },
+  {
+    "path": "Exports.75.Data.6.Value.2.Value.5",
+    "key": "B323CE5D4BE1CD55F7007283A1468E70",
+    "text": "...Ладно, хорошо. Это плохо. Что нам делать?",
+    "originalText": "...Okay, alright. That's bad. What do we do?"
+  },
+  {
+    "path": "Exports.76.Data.0",
+    "key": "44E3A63349509DAA68A9A0A12317C435",
+    "text": "Какого хрена ты ждёшь, Илай? Давай быстрее!",
+    "originalText": "What the fuck are you waiting for, Eli? Hurry up!"
+  },
+  {
+    "path": "Exports.76.Data.7.Value.0.Value.5",
+    "key": "1DC941A4461FB83062AB3BAC22E4238D",
+    "text": "Вот охлаждающий спрей, возьми!",
+    "originalText": "Here's the cooling spray, take it!"
+  },
+  {
+    "path": "Exports.76.Data.7.Value.1.Value.5",
+    "key": "4439F5A449F9D6133CE005BD1BCCC4F1",
+    "text": "Что тебе нужно, ещё раз?",
+    "originalText": "What do you need, again?"
+  },
+  {
+    "path": "Exports.76.Data.7.Value.2.Value.5",
+    "key": "D7DD8E2A45B4D4A7FD1FAAAA150A99C3",
+    "text": "Дай мне секунду! Я сейчас вернусь.",
+    "originalText": "Give me a second! I'll be right back."
+  },
+  {
+    "path": "Exports.76.Data.7.Value.3.Value.5",
+    "key": "677216904EE5EFA0390A4782FE89F06A",
+    "text": "Вот! Возьми этот контейнер!",
+    "originalText": "Here! Take this container!"
+  },
+  {
+    "path": "Exports.77.Data.0",
+    "key": "42B7704E45DFE2AB465B59BD0F49E4A0",
+    "text": "Ладно, на счёт три я немного приоткрою капсулу. Как только она приоткроется, я хочу, чтобы ты обрызгал эту штуку, понял?",
+    "originalText": "Okay, on the count of three, I'm going to twist the pod open a bit more. As soon as it splits, I want you to douse the fucker, alright?"
+  },
+  {
+    "path": "Exports.77.Data.7.Value.0.Value.5",
+    "key": "181975214ECB235D1E24BBB0C01BE387",
+    "text": "Понял, Джордж.",
+    "originalText": "You got it, Jorge."
+  },
+  {
+    "path": "Exports.77.Data.7.Value.1.Value.5",
+    "key": "2C7790CE4B62707187CDCF862B8A7D35",
+    "text": "Просто начни считать.",
+    "originalText": "Just start counting."
+  },
+  {
+    "path": "Exports.78.Data.0",
+    "key": "29B5D0DE4AD2ECE7C0AE94B6CC61BAE7",
+    "text": "Ладно, я снова приоткрою эту штуку, и когда я это сделаю, мне нужно, чтобы ты держал контейнер неподвижно. Я приоткрою, опущу, а ты закроешь. Понял?",
+    "originalText": "Okay, I'm going to twist this thing open again, and when I do, I'm going to need you to hold the container still. I'll twist it, drop it, and you shut it. You got that?"
+  },
+  {
+    "path": "Exports.78.Data.7.Value.0.Value.5",
+    "key": "49A2EB684E42813501DC0792CC2C6235",
+    "text": "Ты приоткроешь, опустишь, а я закрою. Понял.",
+    "originalText": "You twist it, drop it, and I shut it. Got it."
+  },
+  {
+    "path": "Exports.78.Data.7.Value.1.Value.5",
+    "key": "A32B55B14899241EF7DAFEA44953AF09",
+    "text": "Просто сделай это.",
+    "originalText": "Just do it."
+  },
+  {
+    "path": "Exports.79.Data.0",
+    "key": "701382EE4F1342326717F4AF7B7BAD77",
+    "text": "Я не знаю. Мне... нужно собраться с мыслями.",
+    "originalText": "I don't know. I...need to gather my thoughts."
+  },
+  {
+    "path": "Exports.79.Data.6.Value.0.Value.5",
+    "key": "050367B146B47B05356BDEA4D4E64207",
+    "text": "Что ты думаешь об этой штуке?",
+    "originalText": "What do you make of that thing?"
+  },
+  {
+    "path": "Exports.79.Data.6.Value.1.Value.5",
+    "key": "A7748C064AB5D964510F668F1C7DB180",
+    "text": "Каковы наши следующие шаги?",
+    "originalText": "What's our next steps?"
+  },
+  {
+    "path": "Exports.79.Data.6.Value.2.Value.5",
+    "key": "ABEE187943C608F3CA5B65A853BC096F",
+    "text": "Могу я чем-то помочь?",
+    "originalText": "Anything I can do to help?"
+  },
+  {
+    "path": "Exports.79.Data.6.Value.3.Value.5",
+    "key": "AE78FD664637ADE0D931A6BF247DD71A",
+    "text": "Мне нужно пойти сделать звонок. Поговорим позже.",
+    "originalText": "I should go make the call. I'll talk to you later."
+  },
+  {
+    "path": "Exports.80.Data.0",
+    "key": "5D76BF1044653FC18E3D679A7BD91808",
+    "text": "Ты издеваешься, Илай?! Либо бери спрей и успокой её, либо рискни и затащи её в контейнер. Просто сделай ЧТО-НИБУДЬ!",
+    "originalText": "Are you kidding me, Eli?! Either grab the spray and pacify it, or we risk it and pull it into a container. Just do SOMETHING!"
+  },
+  {
+    "path": "Exports.80.Data.6.Value.0.Value.5",
+    "key": "F6B121954B4AB42100955BB347213E71",
+    "text": "За дело.",
+    "originalText": "On it."
+  },
+  {
+    "path": "Exports.80.Data.6.Value.1.Value.5",
+    "key": "2B7EFA71404503643668D2935C920F79",
+    "text": "[Уйти]",
+    "originalText": "[Leave]"
+  },
+  {
+    "path": "Exports.81.Data.0",
+    "key": "4C99E10044787C6DF48CDEB02BFD6436",
+    "text": "Ладно. Чувак. Что это было... за штука? Что это было, Илай?",
+    "originalText": "Alright. Man. What was that...thing? What was that, Eli?"
+  },
+  {
+    "path": "Exports.81.Data.5.Value.0.Value.5",
+    "key": "D79962444BABF2561133B4BEBE8CE398",
+    "text": "(РЕАЛИСТ) Прогресс. Просто пока не уверен, какой именно.",
+    "originalText": "(REALIST) Progress. Just not sure what kind yet."
+  },
+  {
+    "path": "Exports.81.Data.5.Value.1.Value.5",
+    "key": "998F80214D228997560C12B176195BBC",
+    "text": "(ЦИНИК) Плохие новости.",
+    "originalText": "(CYNIC) Bad news."
+  },
+  {
+    "path": "Exports.81.Data.5.Value.2.Value.5",
+    "key": "DBAE1F194D6212DC575B16A08BED8AFE",
+    "text": "(ИДЕАЛИСТ) Похоже, это плод нашего труда.",
+    "originalText": "(IDEALIST) Looks like the fruit of our labour to me."
+  },
+  {
+    "path": "Exports.81.Data.5.Value.3.Value.5",
+    "key": "ED6F537741356A26AE45D18DB9F8948D",
+    "text": "Просто успокойся, ладно?",
+    "originalText": "Just take it easy, alright?"
+  },
+  {
+    "path": "Exports.81.Data.5.Value.4.Value.5",
+    "key": "0A77258F4D99FFD9C1A41F8FF032A20D",
+    "text": "Мы разберёмся.",
+    "originalText": "We'll figure it out."
+  },
+  {
+    "path": "Exports.81.Data.5.Value.5.Value.5",
+    "key": "25AB63FC425E2A43D282C2BAFE28B3E3",
+    "text": "Я не знаю. Не уверен, что хочу это выяснять, но уверен, что штаб захочет.",
+    "originalText": "I don't know. I'm not sure I wanna find out, but I'm sure HQ does."
+  },
+  {
+    "path": "Exports.82.Data.0",
+    "key": "F9B7D0E74068A34EB66B1392D9694CBF",
+    "text": "Я не знаю... чувак, ты не можешь сам принять решение?",
+    "originalText": "I don't know...man, can't you make a decision for yourself?"
+  },
+  {
+    "path": "Exports.82.Data.5.Value.0.Value.5",
+    "key": "1AEC698D45E1F8AB28A906A3B20771CF",
+    "text": "Извини, Джордж. Я сам разберусь.",
+    "originalText": "Sorry, Jorge. I'll figure it out myself."
+  },
+  {
+    "path": "Exports.82.Data.5.Value.1.Value.5",
+    "key": "0F8737EC40E9E8BCA53FFD96B1A05847",
+    "text": "Ты знаешь об этом больше, чем я. Я думал, ты захочешь взять на себя командование.",
+    "originalText": "You know more about this than I do. I figured you'd want to call the shots."
+  },
+  {
+    "path": "Exports.83.Data.0",
+    "key": "539092E641AD6F48C88248BDC822E9AA",
+    "text": "Я расскажу тебе позже! А сейчас помоги мне удержать эту штуку!",
+    "originalText": "I'll tell you later! For now, help me get this thing contained!"
+  },
+  {
+    "path": "Exports.83.Data.5.Value.0.Value.5",
+    "key": "3A12D96E42904DCED1F564B25C946C5A",
+    "text": "Что нам делать? Что тебе нужно?",
+    "originalText": "What do we do? What do you need?"
+  },
+  {
+    "path": "Exports.83.Data.5.Value.1.Value.5",
+    "key": "043B15D34B64F6AC071F1DAA7678BE21",
+    "text": "Я уже занимаюсь этим! Я сейчас вернусь, ладно?",
+    "originalText": "I'm on it! I'll be right back, okay?"
+  },
+  {
+    "path": "Exports.84.Data.0",
+    "key": "BD4856474D48FD4DE0955798649F99D5",
+    "text": "Вот! Получилось! Получилось. Дай мне проверить давление... хорошо. Оно внутри.",
+    "originalText": "There! Got it! Got it. Let me check the pressure...good. It's in there."
+  },
+  {
+    "path": "Exports.84.Data.6.Value.0.Value.5",
+    "key": "FBAFA4BC4A00B632CDBC72A53B46675D",
+    "text": "Что это было?",
+    "originalText": "What was that?"
+  },
+  {
+    "path": "Exports.84.Data.6.Value.1.Value.5",
+    "key": "A600751E4A7058091AC09CB5A2D3296C",
+    "text": "Ты уверен? Оно полностью изолировано?",
+    "originalText": "You sure? It's completely contained?"
+  },
+  {
+    "path": "Exports.84.Data.6.Value.2.Value.5",
+    "key": "52F53E4D4FA33C247C30579F74535F85",
+    "text": "Ты... ты это видел?",
+    "originalText": "Did...did you see that?"
+  },
+  {
+    "path": "Exports.84.Data.6.Value.3.Value.5",
+    "key": "047ABF854C6112AF627BB38476D2BFE1",
+    "text": "Отличная работа, Джордж.",
+    "originalText": "Good fucking work, Jorge."
+  },
+  {
+    "path": "Exports.85.Data.0",
+    "key": "B8E675E0430BC22C844381B353019F69",
+    "text": "Уже позвонил?",
+    "originalText": "Made the call yet?"
+  },
+  {
+    "path": "Exports.85.Data.7.Value.0.Value.5",
+    "key": "857ECCFD408584D927E428862496D914",
+    "text": "Спрей хоть что-то делает?",
+    "originalText": "Is the spray doing anything?"
+  },
+  {
+    "path": "Exports.85.Data.7.Value.1.Value.5",
+    "key": "6DEF5F37475F4F98BD3E28AC78BCC06B",
+    "text": "Нужна помощь с изоляцией?",
+    "originalText": "Need any help with containment?"
+  },
+  {
+    "path": "Exports.85.Data.7.Value.2.Value.5",
+    "key": "CEB9652F40AB19FFF508FCBF605F1DBB",
+    "text": "Как ты держишься?",
+    "originalText": "How are you holding up?"
+  },
+  {
+    "path": "Exports.85.Data.7.Value.3.Value.5",
+    "key": "7B0E57524EC4FDDD8B543CAB24ED397C",
+    "text": "Береги себя, ладно? Мне нужно идти.",
+    "originalText": "Stay safe, alright? I gotta go."
+  },
+  {
+    "path": "Exports.86.Data.0",
+    "key": "D007D33B44BE85D3692BB698206C08E9",
+    "text": "В этих чёртовых капсулах что-то есть, чувак. Что-то ДВИЖЕТСЯ. Что-то ЖИВОЕ.",
+    "originalText": "There's something in the fucking pods, man. Something MOVING. Something ALIVE. "
+  },
+  {
+    "path": "Exports.86.Data.6.Value.0.Value.5",
+    "key": "1602E3FF4FDB98DF29644CA15F514FFF",
+    "text": "Как ты открыл капсулу?!",
+    "originalText": "How did you get the pod open?!"
+  },
+  {
+    "path": "Exports.86.Data.6.Value.1.Value.5",
+    "key": "F3EFC9174838160112E1D193C0372B01",
+    "text": "Ладно, хорошо, что тебе нужно?!",
+    "originalText": "Okay, alright, what do you need?!"
+  },
+  {
+    "path": "Exports.86.Data.6.Value.2.Value.5",
+    "key": "CB28FF704D9541FFE8130691AD2898D1",
+    "text": "Держись, я найду контейнер!",
+    "originalText": "Just hang on, I'll find a container!"
+  },
+  {
+    "path": "Exports.87.Data.0",
+    "key": "DC6A685C407314A0240E2B888697C782",
+    "text": "[Оно извивается. Когда оно переваливается через край капсулы, оно колеблется в ответ на свет, который теперь едва освещает его. Тебе кажется, что ты слышишь, как Джордж что-то говорит, но ты не уверен. Время замедляется, и ты видишь, как центр псевдоподии поднимается, и новый вырост тянется к тебе.]",
+    "originalText": "[It slithers. As it folds itself over the lip of the pod, it undulates in response to the light now barely cast over it. You think you hear Jorge say something, but you don't know for sure. Time slows, and you see the center of the pseudopod rise and a new one emerging, reaching out for you.]"
+  },
+  {
+    "path": "Exports.87.Data.5.Value.0.Value.5",
+    "key": "465B29AF41C1DC36675729808C1CBA0B",
+    "text": "[Потянуться к нему]",
+    "originalText": "[Reach out for it]"
+  },
+  {
+    "path": "Exports.87.Data.5.Value.1.Value.5",
+    "key": "46E166034AF3FDB7CFBA659F8BC882EC",
+    "text": "Оно... движется к нам.",
+    "originalText": "It's...moving towards us."
+  },
+  {
+    "path": "Exports.87.Data.5.Value.2.Value.5",
+    "key": "96EF61F7455F004DD44EBCBE06EFCB6B",
+    "text": "[Бросить контейнер и закрыть его]",
+    "originalText": "[Drop the container and shut it]"
+  },
+  {
+    "path": "Exports.88.Data.0",
+    "key": "AF19B10C4122EDC9E127309A5BE109F1",
+    "text": "Раз...",
+    "originalText": "One..."
+  },
+  {
+    "path": "Exports.88.Data.5.Value.0.Value.5",
+    "key": "F433CF8842383F14CEB520B2B4635678",
+    "text": "[Ждать]",
+    "originalText": "[Wait]"
+  },
+  {
+    "path": "Exports.88.Data.5.Value.1.Value.5",
+    "key": "F4A4F2EF40256A15A8250381A0AF7C3D",
+    "text": "[Обрызгать капсулу]",
+    "originalText": "[Spray the pod]"
+  },
+  {
+    "path": "Exports.89.Data.0",
+    "key": "B9F3616B4F8B8D95D1CC52B14959C10F",
+    "text": "Два...",
+    "originalText": "Two..."
+  },
+  {
+    "path": "Exports.89.Data.5.Value.0.Value.5",
+    "key": "D4B2DF704CF4BAA8FB914F9F3F2682B1",
+    "text": "[Ждать]",
+    "originalText": "[Wait]"
+  },
+  {
+    "path": "Exports.89.Data.5.Value.1.Value.5",
+    "key": "CDBC13DF48DD309FB68C798B465CC36F",
+    "text": "[Обрызгать капсулу]",
+    "originalText": "[Spray the pod]"
+  },
+  {
+    "path": "Exports.90.Data.0",
+    "key": "2AEE6F824E2F7173EEB053B7A095BF78",
+    "text": "...Три! Она открыта, давай! Давай, давай, давай!!",
+    "originalText": "...Three! It's open, go! Go go go!!"
+  },
+  {
+    "path": "Exports.90.Data.6.Value.0.Value.5",
+    "key": "17EC93A940BC3DB1ADD3089E97EC20CC",
+    "text": "[Обрызгать капсулу]",
+    "originalText": "[Spray the pod]"
+  },
+  {
+    "path": "Exports.91.Data.0",
+    "key": "62393DB24243AE920491889673222CC1",
+    "text": "Ладно... хорошо, оно замедляется... Ладно, хорошо. Вот. Оно почти как будто... сжимается. Ладно, дай мне закрыть капсулу.",
+    "originalText": "Okay...alright, it's slowing down... Okay, good. There. It's almost like it's...shrinking. Alright, let me close the pod."
+  },
+  {
+    "path": "Exports.91.Data.6.Value.0.Value.5",
+    "key": "4E8F3C154E46B35FE3ACB680FB95B514",
+    "text": "[Следить за ним внимательно]",
+    "originalText": "[Watch him carefully]"
+  },
+  {
+    "path": "Exports.91.Data.6.Value.1.Value.5",
+    "key": "F880E8F749293A4340F84FB253B719E2",
+    "text": "Ты в порядке? Мы в порядке? Оно... изолировано?",
+    "originalText": "You alright? Are we alright? It's...contained?"
+  },
+  {
+    "path": "Exports.91.Data.6.Value.2.Value.5",
+    "key": "0D46286C4D1DF8478E20FFA920B412CE",
+    "text": "...Чёрт возьми.",
+    "originalText": "...Holy shit."
+  },
+  {
+    "path": "Exports.92.Data.0",
+    "key": "DBAD33E24177063FE70B119583FD23A2",
+    "text": "Чт... Что ты делаешь, чувак?! Чёрт возьми, ладно! Вот! Она открыта! Продолжай обрызгивать!",
+    "originalText": "Wha- What are you doing, man?! Fuck's sake, alright! There! It's open! Keep spraying it!"
+  },
+  {
+    "path": "Exports.92.Data.6.Value.0.Value.5",
+    "key": "61924B7543E08CA741F427BC8A65CE61",
+    "text": "[Продолжать обрызгивать капсулу]",
+    "originalText": "[Keep spraying the pod]"
+  },
+  {
+    "path": "Exports.93.Data.0",
+    "key": "999D7B9441A36F1EDDF2CFAC0DFC6EF0",
+    "text": "Какого хрена это было, чувак? Ты чуть не отморозил мне руку, Илай. Что, в твоей модной школе не учат считать?",
+    "originalText": "What the fuck was that for, man? You almost froze my fucking hand off, Eli. What, they don't teach you how to count in that fancy school of yours?"
+  },
+  {
+    "path": "Exports.93.Data.7.Value.0.Value.5",
+    "key": "104CAC8C44E375B96CCFC9B14DC7E1AF",
+    "text": "Извини, Джордж.",
+    "originalText": "Sorry, Jorge. "
+  },
+  {
+    "path": "Exports.93.Data.7.Value.1.Value.5",
+    "key": "7626EE104C901713EAD81D997693A80F",
+    "text": "Я... это была попытка пошутить.",
+    "originalText": "I...it was an attempt at a joke."
+  },
+  {
+    "path": "Exports.93.Data.7.Value.2.Value.5",
+    "key": "89E6139948E176732E49FC883FFA7808",
+    "text": "Я запаниковал.",
+    "originalText": "I panicked."
+  },
+  {
+    "path": "Exports.94.Data.0",
+    "key": "D350DF1A4B09383D556D11865C34A030",
+    "text": "Что это было? Какого чёрта, Илай?",
+    "originalText": "What was that? What the actual fuck, Eli?"
+  },
+  {
+    "path": "Exports.94.Data.7.Value.0.Value.5",
+    "key": "A1AEBF6B4A58BEFA4EBC818F9123248F",
+    "text": "Я этого не видел. Ты скажи мне.",
+    "originalText": "I didn't see it. You tell me."
+  },
+  {
+    "path": "Exports.94.Data.7.Value.1.Value.5",
+    "key": "50916F3148196CC6AC1D09AD0B3EE175",
+    "text": "...Думаю, это то, что мы ищем.",
+    "originalText": "...I guess that's what we're looking for."
+  },
+  {
+    "path": "Exports.94.Data.7.Value.2.Value.5",
+    "key": "2B670EFD473E82985A22DD89EF5882C4",
+    "text": "Ты в порядке, чувак?",
+    "originalText": "Are you okay, man? "
+  },
+  {
+    "path": "Exports.95.Data.0",
+    "key": "EC88DB7A47F2009A1D280697E1B38F08",
+    "text": "Извини не поможет. У тебя вообще нет практических навыков. Чёртово бессилие, чувак.",
+    "originalText": "Sorry doesn't cut it. It's like you have no practical skills whatsoever. Fucking useless, man."
+  },
+  {
+    "path": "Exports.95.Data.5.Value.0.Value.5",
+    "key": "F3FDB81543D4A88E49105FA98AEE4B57",
+    "text": "Извини, Джордж. Что нам теперь делать?",
+    "originalText": "Sorry, Jorge. What do we do now?"
+  },
+  {
+    "path": "Exports.95.Data.5.Value.1.Value.5",
+    "key": "2047F3A9437ADE664463AF92A3B84792",
+    "text": "Я сказал, что извинился. Можем двигаться дальше?",
+    "originalText": "I said I was sorry. Can we move on now?"
+  },
+  {
+    "path": "Exports.95.Data.5.Value.2.Value.5",
+    "key": "84975A4F4E5C5BA2F9314E9B4421721B",
+    "text": "Знаешь... ты мог бы считать немного быстрее.",
+    "originalText": "You know...you could have counted a little faster."
+  },
+  {
+    "path": "Exports.96.Data.0",
+    "key": "4573C4524DE5B644DB2DB48133AB422C",
+    "text": "...Оно движется, Илай. Оно, бля, движется!",
+    "originalText": "...It's moving, Eli. It's fucking moving!"
+  },
+  {
+    "path": "Exports.96.Data.6.Value.0.Value.5",
+    "key": "5687B973464A7E6193675F90F52A28EE",
+    "text": "Движется?",
+    "originalText": "Moving?"
+  },
+  {
+    "path": "Exports.96.Data.6.Value.1.Value.5",
+    "key": "93BF5F204D14EC549DA962AE59A2B9A7",
+    "text": "Что?",
+    "originalText": "What is?"
+  },
+  {
+    "path": "Exports.96.Data.6.Value.2.Value.5",
+    "key": "4480CC0F4C2D84EC89FB5FBAE169D1EB",
+    "text": "...Приятно видеть тебя таким оживлённым, Джордж.",
+    "originalText": "...Nice to see you so animated, Jorge."
+  },
+  {
+    "path": "Exports.97.Data.0",
+    "key": "CB3F92AB489F58741C38B0BAC66E0976",
+    "text": "Для тебя это что, шутка перед тем, как ты отправишься на очередную встречу, которую твоя семья организовала для тебя в Научном городе? Кому какое дело, если на меня нападёт какая-то... чёрт, не знаю, чернильная капля.",
+    "originalText": "Is that what this is to you? Some fucking joke before you go on to whatever appointment your family has lined up for you in Science City. Who cares if I get attacked by some sort of...fucking, I don't know, ink blob."
+  },
+  {
+    "path": "Exports.97.Data.5.Value.0.Value.5",
+    "key": "05A64DAB4B882060E35C4DA7F4FB63FE",
+    "text": "Извини, Джордж. Как я могу загладить вину?",
+    "originalText": "I apologize, Jorge. How can I make it up to you?"
+  },
+  {
+    "path": "Exports.97.Data.5.Value.1.Value.5",
+    "key": "E722AED34214B75893A339BFEF2A3F81",
+    "text": "Успокойся, Джордж.",
+    "originalText": "Relax, Jorge."
+  },
+  {
+    "path": "Exports.97.Data.5.Value.2.Value.5",
+    "key": "3F33C5B94846EC1683C312BE719B7BFE",
+    "text": "Я сказал, что извинился. Что нам теперь делать?",
+    "originalText": "I said I'm sorry. What do we do now?"
+  },
+  {
+    "path": "Exports.98.Data.0",
+    "key": "54D88ED0429CD9253438A188E8EAB545",
+    "text": "Ну, не паникуй снова. Не так, не рядом с... этой штукой. Никогда больше.",
+    "originalText": "Well don't panic again. Not like that, not around...that thing. Ever again."
+  },
+  {
+    "path": "Exports.98.Data.5.Value.0.Value.5",
+    "key": "97EC5DCD49CA6182013F24AC5245CFCB",
+    "text": "Обещаю.",
+    "originalText": "I promise."
+  },
+  {
+    "path": "Exports.98.Data.5.Value.1.Value.5",
+    "key": "9D3C3AE24BCCDF50A27B579609EC28A1",
+    "text": "Ладно, в следующий раз, когда мы сделаем открытие, потрясающее основы, я буду осторожнее.",
+    "originalText": "Alright, I'll be more careful next time we make an earth-shattering discovery."
+  },
+  {
+    "path": "Exports.98.Data.5.Value.2.Value.5",
+    "key": "CF380816418A747B1FD0A49BC3DDDBAB",
+    "text": "Я постараюсь. Эта штука странная.",
+    "originalText": "I'll do my best. That thing is weird."
+  },
+  {
+    "path": "Exports.99.Data.0",
+    "key": "9B2827A74D80A639D2A5849922929086",
+    "text": "[Не получив ответа, Джордж хватается за верх контейнера, агрессивно заталкивая капсулу внутрь. Контейнер закрывается с шипением.]",
+    "originalText": "[With no answer, Jorge grabs onto the top of the container, aggressively shoving the pod in front of him into it. It closes with an airlocked hiss.]"
+  },
+  {
+    "path": "Exports.99.Data.5.Value.0.Value.5",
+    "key": "BACDFF954FE2AAF524FA2394F72F9F55",
+    "text": "Подожди, ещё нет!",
+    "originalText": "Wait, not yet!"
+  },
+  {
+    "path": "Exports.99.Data.5.Value.1.Value.5",
+    "key": "F716B6C745FAE6CCCE04CBA25D94A15A",
+    "text": "Джордж?! Что это было?!",
+    "originalText": "Jorge?! What was that?!"
+  },
+  {
+    "path": "Exports.100.Data.0",
+    "key": "DEB1DA2142922104DE21E8BD96095978",
+    "text": "Чёрт, чувак. Я не знаю. Ты можешь рассказать об этом штабу. Ты мне должен после этого твоего трюка.",
+    "originalText": "Shit, man. I don't know. You can tell HQ about this. You owe me one after that stunt you pulled."
+  },
+  {
+    "path": "Exports.100.Data.5.Value.0.Value.5",
+    "key": "AF5EEB0548B69DF95EE223812DB87846",
+    "text": "Подожди, мне нужно рассказать об этом штабу? Это ты это видел!",
+    "originalText": "Wait, I need to tell HQ about this? You're the one who saw it!"
+  },
+  {
+    "path": "Exports.100.Data.5.Value.1.Value.5",
+    "key": "29FA0BA34767436F679DB0940C275724",
+    "text": "Конечно. Ты отдохни, ладно?",
+    "originalText": "Sure. You rest, alright?"
+  },
+  {
+    "path": "Exports.100.Data.5.Value.2.Value.5",
+    "key": "32F073294027E881C5CE06A9D188E667",
+    "text": "Что мне им сказать?",
+    "originalText": "What should I tell them?"
+  },
+  {
+    "path": "Exports.101.Data.0",
+    "key": "88CBB1B34A6D4D842E05A994D631C5BF",
+    "text": "Не надо. Просто. Не надо.",
+    "originalText": "Don't. Just. Fucking. Don't."
+  },
+  {
+    "path": "Exports.101.Data.6.Value.0.Value.5",
+    "key": "9CFC755949672D5AA23C08A06723ED77",
+    "text": "Успокойся. Пока всё в порядке. Что нам делать с нашим маленьким другом?",
+    "originalText": "Chill. We're fine for now. What do we do about our little friend?"
+  },
+  {
+    "path": "Exports.101.Data.6.Value.1.Value.5",
+    "key": "BC9FF0E54B5722499ACE71A131158450",
+    "text": "Ладно, ладно. Извини. Что нам теперь делать?",
+    "originalText": "Alright, alright. I'm sorry. What do we do now?"
+  },
+  {
+    "path": "Exports.102.Data.0",
+    "key": "67C90D6B4471A4FED15C5B9083265DA3",
+    "text": "Эх, ладно. Думаю, может, лучше помолчать, пока мы не проведём несколько тестов. Если это настолько важно, как я думаю, они могут прислать подкрепление, чтобы присвоить заслуги, прежде чем мы успеем заявить о них. Но это будет против процедуры, так что... твой выбор, не мой.",
+    "originalText": "Ugh, fine. I...I guess it might be better to keep quiet 'til we've done some tests. If this is as big as I think it is, they could send in the cavalry to take credit before we can lay claim. But that would be against procedure, so...your call, not mine."
+  },
+  {
+    "path": "Exports.102.Data.5.Value.0.Value.5",
+    "key": "8071A6D54194D66F67669A9761BDCFCB",
+    "text": "Ладно, отдохни, Джордж.",
+    "originalText": "Okay, get some rest, Jorge."
+  },
+  {
+    "path": "Exports.102.Data.5.Value.1.Value.5",
+    "key": "3A81CEC1485D3A5FABFE98AF6BC2ADBF",
+    "text": "Это мне не особо помогает.",
+    "originalText": "That doesn't really help me much."
+  },
+  {
+    "path": "Exports.103.Data.0",
+    "key": "73D04BBC41E6CD2071C294B621979A99",
+    "text": "Поехали. Ты лучше будь готов... приоткрываю... сейчас! Давай!",
+    "originalText": "Here goes. You better be ready...twisting it...now! Go!"
+  },
+  {
+    "path": "Exports.103.Data.6.Value.0.Value.5",
+    "key": "392781A746B2AEEC1F2D45BAE9AA98CF",
+    "text": "[Попытаться увидеть, что внутри капсулы]",
+    "originalText": "[Try to see what's inside the pod]"
+  },
+  {
+    "path": "Exports.103.Data.6.Value.1.Value.5",
+    "key": "B4DC82AB4822484771B114BF70E049DB",
+    "text": "[Бросить контейнер и закрыть его]",
+    "originalText": "[Drop the container and shut it]"
+  },
+  {
+    "path": "Exports.104.Data.0",
+    "key": "E4FB41C7466595E7AF514D9EB3034C5E",
+    "text": "Оно... я не уверен. Было темно. Как только я увидел, как что-то блеснуло и потянулось ко мне, я закрыл капсулу как можно быстрее. Оно всё ещё тянулось ко мне.",
+    "originalText": "It...I'm not sure. It was dark. Soon as I saw something glisten and lash out at me, I twisted the pod shut as well as I could. It was still reaching for me."
+  },
+  {
+    "path": "Exports.104.Data.5.Value.0.Value.5",
+    "key": "EE1AA8DA4D5E376BC92E17B2A13E285C",
+    "text": "И что теперь?",
+    "originalText": "So what now?"
+  },
+  {
+    "path": "Exports.104.Data.5.Value.1.Value.5",
+    "key": "CDABB5C443E247869025F68E6C5EC773",
+    "text": "Ты в порядке?",
+    "originalText": "You alright?"
+  },
+  {
+    "path": "Exports.105.Data.0",
+    "key": "4E959DFD413279D0603D6C8A6F18CE48",
+    "text": "Не то, чего я ожидал. Когда думаешь о \"исторических артефактах\", не ожидаешь, что они выпрыгнут на тебя.",
+    "originalText": "Not what I was anticipating. When you think of \"historical artifacts\" you don't really expect them to jump out at you."
+  },
+  {
+    "path": "Exports.105.Data.5.Value.0.Value.5",
+    "key": "19C1BA6F4345014EBFFA2D960FE52688",
+    "text": "Итак, что теперь?",
+    "originalText": "So, what now?"
+  },
+  {
+    "path": "Exports.105.Data.5.Value.1.Value.5",
+    "key": "FA7743924EEB6281373FF89E45186E97",
+    "text": "Ты ранен?",
+    "originalText": "Are you hurt?"
+  },
+  {
+    "path": "Exports.106.Data.0",
+    "key": "D71B918A4849EFD728E8EDA0AE54744D",
+    "text": "Не уверен. Не совсем. Думаю, я в порядке. Я не знаю. Ты в порядке?",
+    "originalText": "I'm not sure. Not really. I think I'm fine. I don't know. You good?"
+  },
+  {
+    "path": "Exports.106.Data.5.Value.0.Value.5",
+    "key": "7C61B72A4D098054375F0D909F7AF3FA",
+    "text": "Что ты думаешь? Что это было?",
+    "originalText": "What do you think? What was that?"
+  },
+  {
+    "path": "Exports.106.Data.5.Value.1.Value.5",
+    "key": "8A868C6D4CD6F5CE589EB59630794E2C",
+    "text": "Я в порядке.",
+    "originalText": "I'm alright. "
+  },
+  {
+    "path": "Exports.107.Data.0",
+    "key": "DD61385D4C3CB1EE466C62A6915417D2",
+    "text": "Думаю, да. Но у нас нет времени терять — я разберусь с нашими следующими шагами. Ты иди поговори с штабом, ладно?",
+    "originalText": "I think so. We don't have any time to lose, though - I'll figure out our next steps. You go talk to HQ, alright?"
+  },
+  {
+    "path": "Exports.107.Data.6.Value.0.Value.5",
+    "key": "2645E2514AEE30F6578186AD6506E35D",
+    "text": "Понял.",
+    "originalText": "You got it."
+  },
+  {
+    "path": "Exports.107.Data.6.Value.1.Value.5",
+    "key": "2036E3F84752DD2FC85ADA8174946284",
+    "text": "Ты в порядке?",
+    "originalText": "You doing okay, though?"
+  },
+  {
+    "path": "Exports.108.Data.0",
+    "key": "3131181F4B5FF218883A0DA7037BBCBD",
+    "text": "Нам нужно запереть эту штуку. Поместить её в один из наших изоляционных контейнеров.",
+    "originalText": "We need to lock that thing up. Put it in one of our containment pods."
+  },
+  {
+    "path": "Exports.108.Data.5.Value.0.Value.5",
+    "key": "91180E5941E6ACBB153958B2E8C09A8C",
+    "text": "И что потом?",
+    "originalText": "And then what?"
+  },
+  {
+    "path": "Exports.109.Data.0",
+    "key": "BF061BBC4DD07BA85EE6C6927806CBA8",
+    "text": "Я могу сказать то же самое о тебе.",
+    "originalText": "I could say the same about you."
+  },
+  {
+    "path": "Exports.109.Data.6.Value.0.Value.5",
+    "key": "F81C43A3445432DDA0C2EE8BD6A28D59",
+    "text": "[Уйти]",
+    "originalText": "[Leave]"
+  },
+  {
+    "path": "Exports.110.Data.0",
+    "key": "8574438E46EC64D642A806ADA2F912BD",
+    "text": "Чёрт, чувак. Я не знаю. Мне нужен перерыв. Мне нужно перевести дух. Ты разберись со штабом. Я слишком измотан, чтобы иметь дело с их ерундой.",
+    "originalText": "Shit, man. I don't know. I need a break. I need to catch my breath. You deal with HQ. I'm too frazzled to deal with their bullshit."
+  },
+  {
+    "path": "Exports.110.Data.6.Value.0.Value.5",
+    "key": "EB1608F74B318FBD592B58A77A022AA3",
+    "text": "Ты останься здесь и отдохни. Я разберусь.",
+    "originalText": "You stay here and rest. I'll take care of it."
+  },
+  {
+    "path": "Exports.110.Data.6.Value.1.Value.5",
+    "key": "D971BA154D7254DF5562BA9CE4E3343F",
+    "text": "Эх. Ненавижу разговаривать со штабом. Ладно.",
+    "originalText": "Ugh. I hate talking to HQ. Fine."
+  },
+  {
+    "path": "Exports.110.Data.6.Value.2.Value.5",
+    "key": "92A1D0324CA5F03D2D996387BF8B926D",
+    "text": "Что мне им сказать?",
+    "originalText": "What should I tell them?"
+  },
+  {
+    "path": "Exports.111.Data.0",
+    "key": "DD8A49B54BA0D842D18742AF7C0639DE",
+    "text": "Нет. То есть, я видел, но мы не будем об этом говорить. Пока что. Мне нужно перевести дух.",
+    "originalText": "No. I mean, I did, but we're not talking about that. Not yet, anyway. I need to catch my breath."
+  },
+  {
+    "path": "Exports.111.Data.6.Value.0.Value.5",
+    "key": "70AEA9CE42AD950D9221FCAE7262BA39",
+    "text": "Что это было, чёрт возьми?",
+    "originalText": "What the hell was that?"
+  },
+  {
+    "path": "Exports.111.Data.6.Value.1.Value.5",
+    "key": "19AAABA3453D622AFDBA56A3BCA10BA0",
+    "text": "Эта штука была живой, Джордж?",
+    "originalText": "Was that thing alive, Jorge?"
+  },
+  {
+    "path": "Exports.112.Data.0",
+    "key": "CDF3DD504B85600E08DD49A6BFFBC86E",
+    "text": "Да. Нет. Я не знаю. Мы не будем об этом говорить. Пока что.",
+    "originalText": "Yeah. No. I don't know. We're not talking about it. Not just yet. "
+  },
+  {
+    "path": "Exports.112.Data.5.Value.0.Value.5",
+    "key": "65DC157449B7177B46FB4089BC06A5DB",
+    "text": "Ты уверен, что оно полностью изолировано?",
+    "originalText": "Are you sure it's completely contained?"
+  },
+  {
+    "path": "Exports.112.Data.5.Value.1.Value.5",
+    "key": "BEDF83AA48FE4A16C2EF8097AFCCA7AF",
+    "text": "Что оно делало?",
+    "originalText": "What was it doing?"
+  },
+  {
+    "path": "Exports.112.Data.5.Value.2.Value.5",
+    "key": "4F32F8A445CF3648A314FA9DF9DCBD26",
+    "text": "Я не знаю, что произошло. Извини, Джордж.",
+    "originalText": "I don't know what happened. I'm sorry, Jorge."
+  },
+  {
+    "path": "Exports.113.Data.0",
+    "key": "C99A31344FE1C6E1E78899998DE87F31",
+    "text": "Я не знаю. Но теперь у нас всё под контролем. Изолировано. Эти контейнеры герметичны. Что бы это ни было, оно никуда не денется.",
+    "originalText": "I don't know. But we've got it under control now. Contained. These things are airtight. Whatever that is, it's staying put."
+  },
+  {
+    "path": "Exports.113.Data.5.Value.0.Value.5",
+    "key": "3C67317343419A23E3D34583E7788391",
+    "text": "И что теперь?",
+    "originalText": "So what now?"
+  },
+  {
+    "path": "Exports.114.Data.0",
+    "key": "A4D658A345AE0A560A6E139217173B35",
+    "text": "Я не знаю! Но в следующий раз, когда я попрошу тебя что-то сделать, мне нужно, чтобы ты слушал! Особенно когда это касается... чёрт знает чего!",
+    "originalText": "I don't know! But next time I ask you to do something, I need you to listen! Especially when it involves...whatever the fuck that was!"
+  },
+  {
+    "path": "Exports.114.Data.7.Value.0.Value.5",
+    "key": "A4F8DA7D43F203165355DF9C1CAD0525",
+    "text": "Я просто не мог оторвать от него взгляд.",
+    "originalText": "I just couldn't help but stare at it."
+  },
+  {
+    "path": "Exports.114.Data.7.Value.1.Value.5",
+    "key": "82DE586C476E55459D63E4A99097957A",
+    "text": "...Что оно делало?",
+    "originalText": "...What was it doing?"
+  },
+  {
+    "path": "Exports.114.Data.7.Value.2.Value.5",
+    "key": "038F06FC43C4F89A42345FB61DD5C611",
+    "text": "Я не знаю, что произошло. Извини, Джордж.",
+    "originalText": "I don't know what happened. I'm sorry, Jorge."
+  },
+  {
+    "path": "Exports.115.Data.0",
+    "key": "DC5796744FF57B3DAB0B8BA322E3023C",
+    "text": "[Прежде чем ты поднимешь руку, Джордж хватается за контейнер, который ты держал, быстро заталкивая капсулу внутрь. Контейнер закрывается с шипением.]",
+    "originalText": "[Before you lift your hand, Jorge grabs hold of the container you've been holding on to, quickly shoving the pod inside it. It closes with an airlocked hiss.]"
+  },
+  {
+    "path": "Exports.115.Data.5.Value.0.Value.5",
+    "key": "D696A5444280DC6E191679AD47472BD2",
+    "text": "Подожди! Ещё нет!",
+    "originalText": "Wait! Not yet!"
+  },
+  {
+    "path": "Exports.115.Data.5.Value.1.Value.5",
+    "key": "47B99FF0424D3978A632628127031170",
+    "text": "Что... что это за штука?",
+    "originalText": "What...what is that thing?"
+  },
+  {
+    "path": "Exports.116.Data.0",
+    "key": "AC465BEB462EFD59434C1FB9DA96BA6B",
+    "text": "Ты тоже. Мы справились. Теперь оно изолировано.",
+    "originalText": "You too. We did alright. It's contained now."
+  },
+  {
+    "path": "Exports.116.Data.5.Value.0.Value.5",
+    "key": "B0840E0149A72365C8E7D3B88D8B074A",
+    "text": "Что теперь?",
+    "originalText": "What now?"
+  },
+  {
+    "path": "Exports.117.Data.0",
+    "key": "9839D41C44F26F2C5BAE108A7D3EAA8A",
+    "text": "Мы держим это под строгим контролем. Ты уже говорил со штабом? Какие новости?",
+    "originalText": "We're keeping a tight lid on it. Did you talk to HQ yet? Any news?"
+  },
+  {
+    "path": "Exports.117.Data.6.Value.0.Value.5",
+    "key": "4AE4990C4DACFC410F2F4989D4289C34",
+    "text": "Пока нет. Занимаюсь этим.",
+    "originalText": "Not yet. On it."
+  },
+  {
+    "path": "Exports.117.Data.6.Value.1.Value.5",
+    "key": "32F345F34E6788669EAD2F8B529F911B",
+    "text": "Ты в порядке?",
+    "originalText": "You doing okay?"
+  },
+  {
+    "path": "Exports.118.Data.0",
+    "key": "C2953CC841AE03B35C0E8FBD641764CC",
+    "text": "Мог бы и среагировать быстрее. Почему ты замешкался?",
+    "originalText": "Could've done with a faster reaction from you, though. Why did you hesitate?"
+  },
+  {
+    "path": "Exports.118.Data.7.Value.0.Value.5",
+    "key": "8B4A40274C8EDBA4E3A40BB26A8E9109",
+    "text": "Извини. Я просто не мог оторвать от него взгляд.",
+    "originalText": "I'm sorry. I couldn't help but stare at it."
+  },
+  {
+    "path": "Exports.118.Data.7.Value.1.Value.5",
+    "key": "D5BFAC6348772E9022739F983AA13450",
+    "text": "Я не совсем уверен. Извини, Джордж.",
+    "originalText": "I'm not entirely sure. Sorry, Jorge."
+  },
+  {
+    "path": "Exports.119.Data.0",
+    "key": "1B5661A54C426C26798599A41CF0E135",
+    "text": "Я старался не смотреть. Жутко. Не знаю, что это за штука.",
+    "originalText": "I tried not to. Unsettling. Don't know what that thing is."
+  },
+  {
+    "path": "Exports.119.Data.5.Value.0.Value.5",
+    "key": "7DC6D1784D50A44B9702C3B2EC6FDA17",
+    "text": "И что теперь?",
+    "originalText": "So what now?"
+  },
+  {
+    "path": "Exports.120.Data.0",
+    "key": "BCBC3CBF48C33EE87597309E97CFF2A5",
+    "text": "Как всегда, наверное. Мы зафиксируем это. Тебе, наверное, стоит позвонить в штаб. После этого я не знаю.",
+    "originalText": "Same as always, I guess. We log it. You should probably give HQ a call. After that, I don't know."
+  },
+  {
+    "path": "Exports.120.Data.6.Value.0.Value.5",
+    "key": "1ACD3E2E4EB5FD05A2E21DA9A0E93592",
+    "text": "Ладно. Ты отдохни, хорошо?",
+    "originalText": "Alright. You get some rest, okay?"
+  },
+  {
+    "path": "Exports.120.Data.6.Value.1.Value.5",
+    "key": "11E8C8614F4147291F17F4BB8864CD33",
+    "text": "Ты в порядке?",
+    "originalText": "You doing okay?"
+  },
+  {
+    "path": "Exports.120.Data.6.Value.2.Value.5",
+    "key": "0046D8AE40D8704B7A71C8BE77E6F4E6",
+    "text": "Эх, чувак. Ненавижу разговаривать со штабом.",
+    "originalText": "Ah, man. I hate talking to HQ."
+  },
+  {
+    "path": "Exports.121.Data.0",
+    "key": "963CC8F142F32BBEF700FE85FF5E9C0F",
+    "text": "Всё в порядке. Просто больше так не делай.",
+    "originalText": "It's alright. Just don't let it happen again."
+  },
+  {
+    "path": "Exports.121.Data.6.Value.0.Value.5",
+    "key": "D3C2B7D9467FFA2FE3B66D923FDA366C",
+    "text": "[Указать на контейнер] И что теперь?",
+    "originalText": "[Gesture to the container] So what now?"
+  },
+  {
+    "path": "Exports.122.Data.0",
+    "key": "A2163A92473B0BF04C0997878F1F426A",
+    "text": "Да. Эти штуки — последнее слово техники. Герметичные, выдерживают давление. Если что-то туда положить, оно никогда не выйдет, если ты сам этого не захочешь.",
+    "originalText": "Yeah. These things are state of the art. Airtight, pressure-proof. You put something in here and it's never coming out unless you want it to."
+  },
+  {
+    "path": "Exports.122.Data.5.Value.0.Value.5",
+    "key": "DFB06B8340E3DD1FB4047D8B8B0CE6DB",
+    "text": "И что теперь?",
+    "originalText": "So what now?"
+  },
+  {
+    "path": "Exports.122.Data.5.Value.1.Value.5",
+    "key": "7A9540984B8452661C5D018CB2DD7A03",
+    "text": "Ловкие движения.",
+    "originalText": "Nice moves."
+  },
+  {
+    "path": "Exports.123.Data.0",
+    "key": "B1F77D5240BF9D445353ECA2762B4EF2",
+    "text": "Что значит, ещё нет? Что с тобой, чёрт возьми?!",
+    "originalText": "What do you mean, not yet? What the hell's the matter with you?! "
+  },
+  {
+    "path": "Exports.123.Data.6.Value.0.Value.5",
+    "key": "89EE848147300AE474FC98BB17A1CD92",
+    "text": "Разве ты не хочешь узнать, что это за штука?",
+    "originalText": "Don't you want to know what that thing is?"
+  },
+  {
+    "path": "Exports.123.Data.6.Value.1.Value.5",
+    "key": "36A0E3E84DB994830BF06ABF2D66EAB0",
+    "text": "Ты смотрел на неё?",
+    "originalText": "Did you look at it?"
+  },
+  {
+    "path": "Exports.124.Data.0",
+    "key": "BE7270BA4559844608E97DA601B47E5A",
+    "text": "Дай мне знать, что они скажут. Я никуда не уйду.",
+    "originalText": "Let me know what they say. I'm not going anywhere."
+  },
+  {
+    "path": "Exports.124.Data.5.Value.0.Value.5",
+    "key": "D4F4335049113D3CF80BEB98B75EDF47",
+    "text": "[Уйти]",
+    "originalText": "[Leave]"
+  },
+  {
+    "path": "Exports.125.Data.0",
+    "key": "4B8502A9432485EDA68FDCBD93C535CE",
+    "text": "Я в порядке. Мне просто нужно осмыслить.",
+    "originalText": "I'm fine. I just need to process."
+  },
+  {
+    "path": "Exports.125.Data.5.Value.0.Value.5",
+    "key": "CD668E2043B513B940094E9CA276E572",
+    "text": "Ты займись этим. Я начну настраивать рацию.",
+    "originalText": "You do that. I'll get the radio going."
+  },
+  {
+    "path": "Exports.125.Data.5.Value.1.Value.5",
+    "key": "0DDA220E4D21DFA0409E38AD25FAC72F",
+    "text": "Я оставлю тебя.",
+    "originalText": "I'll leave you to it."
+  },
+  {
+    "path": "Exports.125.Data.5.Value.2.Value.5",
+    "key": "6B80E4444214FA7B110AA9989DA903A0",
+    "text": "[Указать на контейнер] Думаешь, это то, что мы должны были найти?",
+    "originalText": "[Gesture to the container] Think that's what we're supposed to find?"
+  },
+  {
+    "path": "Exports.126.Data.0",
+    "key": "5E31A6F646D0416704F55284952B4AC5",
+    "text": "Уверен, тон будет более благосклонным, теперь, когда у нас есть что-то интересное для отчёта.",
+    "originalText": "I'm sure the tone will be more accommodating now that we have something interesting to report."
+  },
+  {
+    "path": "Exports.126.Data.6.Value.0.Value.5",
+    "key": "886E013F481E3A48E88958821D8711E6",
+    "text": "Можем только надеяться.",
+    "originalText": "We can only hope."
+  },
+  {
+    "path": "Exports.126.Data.6.Value.1.Value.5",
+    "key": "7361AC8A4D10322239779E94C542130B",
+    "text": "Думаю, увидим. Я скоро вернусь.",
+    "originalText": "Guess we'll see. I'll be right back."
+  },
+  {
+    "path": "Exports.126.Data.6.Value.2.Value.5",
+    "key": "9E5E62294ABA5999530965ABDAF7EE54",
+    "text": "Думаешь, это то, что они надеялись, что мы найдём?",
+    "originalText": "Think this is what they're hoping we'd find?"
+  },
+  {
+    "path": "Exports.126.Data.6.Value.3.Value.5",
+    "key": "738E11474A91B349654824BDB80AF304",
+    "text": "(ЦИНИК) Может, нам стоит пока не говорить им. Они могут прислать кого-то, чтобы украсть заслуги.",
+    "originalText": "(CYNIC) Maybe we should hold off on telling them. They might send in someone to steal the credit."
+  },
+  {
+    "path": "Exports.126.Data.6.Value.4.Value.5",
+    "key": "4BCF894A4DB3191A5BF4D7B65F4CE738",
+    "text": "(ИДЕАЛИСТ) Они могут даже прислать кого-то. Вместе с новым оборудованием.",
+    "originalText": "(IDEALIST) They might even send someone over. Along with some new equipment."
+  },
+  {
+    "path": "Exports.126.Data.6.Value.5.Value.5",
+    "key": "E8B570C347EE80A2C25E0EA053A3A554",
+    "text": "(РЕАЛИСТ) Прошло почти шесть месяцев. Думаю, они будут рады услышать, что мы продвигаемся.",
+    "originalText": "(REALIST) It's been almost six months. I think they'll be happy to hear we're making progress."
+  },
+  {
+    "path": "Exports.127.Data.0",
+    "key": "E0E723D44CD2610C0D7E1AA68454476B",
+    "text": "Не стой просто так! Нам нужно разобраться с этим, чтобы оно не вырвалось. Давай, чувак!",
+    "originalText": "Don't just stand there! We need to deal with this so it doesn't get out. Come on, man!"
+  },
+  {
+    "path": "Exports.127.Data.6.Value.0.Value.5",
+    "key": "50125DB744D2A2B9506D54B7E1D941E6",
+    "text": "Ты открыл капсулу?!",
+    "originalText": "You opened the pod?!"
+  },
+  {
+    "path": "Exports.127.Data.6.Value.1.Value.5",
+    "key": "5AF8369D465292DD349ECAA5456971B5",
+    "text": "Что за... о чём ты говоришь?",
+    "originalText": "What the...what are you talking about?"
+  },
+  {
+    "path": "Exports.127.Data.6.Value.2.Value.5",
+    "key": "2B07DA6441F8E981BED3D498179175F8",
+    "text": "Ладно, что тебе нужно?",
+    "originalText": "Alright, what do you need?"
+  },
+  {
+    "path": "Exports.128.Data.0",
+    "key": "282DA3B84B0B14D99DE48EB8269A4C1A",
+    "text": "Не повезло. После этого твоего трюка ты мне должен.",
+    "originalText": "Tough luck. After that stunt you pulled, you owe me one."
+  },
+  {
+    "path": "Exports.128.Data.6.Value.0.Value.5",
+    "key": "8B21F10247CEC5CD330070A7A8C96D8F",
+    "text": "Ладно — если ты так говоришь.",
+    "originalText": "Alright - if you say so."
+  },
+  {
+    "path": "Exports.128.Data.6.Value.1.Value.5",
+    "key": "8A3CE68B4F45535455F635A52F3E57F4",
+    "text": "Думаешь, эта штука — то, что мы должны были искать?",
+    "originalText": "Think that thing is what we're supposed to be looking for?"
+  },
+  {
+    "path": "Exports.129.Data.0",
+    "key": "DEBCC7AE43832D5E009655AC3B0035BB",
+    "text": "Я не знаю. Если бы это было так, интересно, послали бы они только нас двоих. Давай, позвони им. Мне нужно перевести дух.",
+    "originalText": "I don't know. If it was, I wonder if they would have sent just the two of us. Go on, give them a call. I need a breather."
+  },
+  {
+    "path": "Exports.129.Data.5.Value.0.Value.5",
+    "key": "8C5E7BD149B07A73CAC294BC49AB58B1",
+    "text": "Ладно. Я скоро вернусь.",
+    "originalText": "Alright. I'll be right back."
+  },
+  {
+    "path": "Exports.129.Data.5.Value.1.Value.5",
+    "key": "C70E61C948CEC24B907A979EBB9688B3",
+    "text": "Успокойся, ладно?",
+    "originalText": "Take it easy, okay?"
+  },
+  {
+    "path": "Exports.129.Data.5.Value.2.Value.5",
+    "key": "851BB73747A6329B878A8F9FDFCD4D0B",
+    "text": "Хорошая работа, Джордж. Серьёзно.",
+    "originalText": "Good job, Jorge. I mean it."
+  },
+  {
+    "path": "Exports.130.Data.0",
+    "key": "789E51714C542486218F1690687FB0F1",
+    "text": "Давай, тогда. Я пойду переведу дух.",
+    "originalText": "Go on, then. I'm going to take a breather."
+  },
+  {
+    "path": "Exports.130.Data.5.Value.0.Value.5",
+    "key": "A829354C475DF8D2054D4280875CBDE8",
+    "text": "Я скоро вернусь.",
+    "originalText": "I'll be right back."
+  },
+  {
+    "path": "Exports.130.Data.5.Value.1.Value.5",
+    "key": "3330B2BC449B0F4CC27C848D7517D6A8",
+    "text": "Успокойся, ладно?",
+    "originalText": "Take it easy, alright?"
+  },
+  {
+    "path": "Exports.130.Data.5.Value.2.Value.5",
+    "key": "9FD02BF3404D82880683FFBFB362D85F",
+    "text": "Хорошая работа, Джордж. Серьёзно.",
+    "originalText": "Good job, Jorge. I mean it."
+  },
+  {
+    "path": "Exports.131.Data.0",
+    "key": "9B7C6FEC473F84BC20F2D9840A276281",
+    "text": "Хм. Не в первый раз такое случается. Но то, о чём ты говоришь, противоречит процедуре. Так что оставь меня в стороне.",
+    "originalText": "Hmm. Wouldn't be the first time that's happened. But what you're talking about is against procedure. So leave me out of it."
+  },
+  {
+    "path": "Exports.131.Data.6.Value.0.Value.5",
+    "key": "22DFA3334BA117628F9532BF0EA2A1E1",
+    "text": "Справедливо. Я скоро вернусь, ладно?",
+    "originalText": "Fair enough. I'll be right back, okay?"
+  },
+  {
+    "path": "Exports.131.Data.6.Value.1.Value.5",
+    "key": "7B6EB7864496546F4670B5B03C02BCB8",
+    "text": "Хорошо. Ты отдохни, ладно?",
+    "originalText": "Will do. You get some rest, alright?"
+  },
+  {
+    "path": "Exports.132.Data.0",
+    "key": "437BE5CE4ACE33C30B637DA2062F3D54",
+    "text": "Я бы не стал на это рассчитывать, но кто знает.",
+    "originalText": "I wouldn't hold my breath, but you never know."
+  },
+  {
+    "path": "Exports.132.Data.6.Value.0.Value.5",
+    "key": "A3E0E8734112B15E37AF59A14DC38BDF",
+    "text": "Я настроен оптимистично. Пойду позвоню.",
+    "originalText": "I'm feeling optimistic. Gonna go make the call."
+  },
+  {
+    "path": "Exports.132.Data.6.Value.1.Value.5",
+    "key": "1818FB3C4560100EAD483882545ADF14",
+    "text": "Может, я смогу как-то это провернуть. Я скоро вернусь.",
+    "originalText": "Maybe I can swing it, somehow. I'll be right back."
+  },
+  {
+    "path": "Exports.133.Data.0",
+    "key": "B7DEA6784B540823208C6E9F310B9696",
+    "text": "Я бы хотел подождать и посмотреть, какой именно прогресс это будет.",
+    "originalText": "I'd like to wait and see until we know what kinda progress it'll be."
+  },
+  {
+    "path": "Exports.133.Data.6.Value.0.Value.5",
+    "key": "8198450844676ADC2485F1AB514C131B",
+    "text": "Скрестим пальцы. Пойду позвоню.",
+    "originalText": "Fingers crossed. I'll go make the call."
+  },
+  {
+    "path": "Exports.133.Data.6.Value.1.Value.5",
+    "key": "46CCF64D4BE9B1BC907CBE89AF61B1EB",
+    "text": "Мы с тобой на одной волне. Я скоро вернусь, ладно?",
+    "originalText": "You and me both. I'll be right back, alright?"
+  },
+  {
+    "path": "Exports.134.Data.0",
+    "key": "CDF7BD114DB5AA52611191B662127F36",
+    "text": "Штаб может увидеть это иначе. Давай, не затягивай. Я буду здесь.",
+    "originalText": "HQ might see it differently. Go on, don't drag it out. I'll be here."
+  },
+  {
+    "path": "Exports.134.Data.6.Value.0.Value.5",
+    "key": "280BC1944C3780D8235216BB08CA18A7",
+    "text": "[Уйти]",
+    "originalText": "[Leave]"
+  },
+  {
+    "path": "Exports.135.Data.0",
+    "key": "52A8CE6A420005A5F0BF6491ACA702D8",
+    "text": "Плод нашего труда вызывает у меня тошноту, но справедливости ради, это определённо \"прогресс\". Давай, позвони. Я буду здесь.",
+    "originalText": "The fruit of our labour is making my stomach turn, but fair enough. It's certainly 'progress'. Go on, make the call. I'll be here."
+  },
+  {
+    "path": "Exports.135.Data.6.Value.0.Value.5",
+    "key": "775DF7C24A1D19B369FC28A3CB390768",
+    "text": "[Уйти]",
+    "originalText": "[Leave]"
+  },
+  {
+    "path": "Exports.136.Data.0",
+    "key": "FC3466EA4C8BE4F3885090AE3083E0E1",
+    "text": "Прогресс всегда немного тревожит. Но ты прав. Давай, сообщи в штаб. Я останусь здесь ненадолго. Приду в себя.",
+    "originalText": "Progress is always a little unsettling. But you're right. Go on, tell HQ. I'm gonna stay here for a bit. Regain my composure."
+  },
+  {
+    "path": "Exports.136.Data.6.Value.0.Value.5",
+    "key": "8B1B10E1468A81CD40012B8C7C1A5C48",
+    "text": "[Уйти]",
+    "originalText": "[Leave]"
+  },
+  {
+    "path": "Exports.137.Data.0",
+    "key": "53A10CFF4B3627D8AD1C4088628D13EC",
+    "text": "Не то, что я ожидал найти. Я был так занят попытками открыть эту капсулу, но не думаю, что мог бы ожидать чего-то подобного.",
+    "originalText": "Not what I thought we'd find. I've been so preoccupied trying to get that pod to open, but I don't think I ever could have expected whatever that was."
+  },
+  {
+    "path": "Exports.137.Data.5.Value.0.Value.5",
+    "key": "B6422EB54C93E545B8035686CB6D7612",
+    "text": "Я тоже. Просто рад, что мы в безопасности.",
+    "originalText": "Me neither. Just glad we're safe."
+  },
+  {
+    "path": "Exports.137.Data.5.Value.1.Value.5",
+    "key": "D82DD99F48A8FB762BB6AB9DFB20DB58",
+    "text": "Не думаю, что кто-то мог.",
+    "originalText": "I don't think anyone would."
+  },
+  {
+    "path": "Exports.138.Data.0",
+    "key": "B77A075F497DD545ABBCF48AB3101861",
+    "text": "Когда я увидел, как оно... извивается, я запаниковал и обрызгал его охлаждающим спреем. Оно отпрянуло и вернулось в капсулу, так что, возможно, это сработает. С другой стороны, я не хочу снова открывать её, если это не необходимо. У нас где-то есть изоляционные контейнеры. Найди их как можно быстрее, ладно?",
+    "originalText": "When I saw it...wriggling, I panicked and doused it with cooling spray. It recoiled and retreated back into the pod, so that might do the trick. Then again, I don't want to open it up again unless we have to. We've got some containment pods packed up somewhere. Grab them as fast as you can, alright?"
+  },
+  {
+    "path": "Exports.138.Data.6.Value.0.Value.5",
+    "key": "ABD9401741D19196A39856B55777E599",
+    "text": "Первым делом: нам нужно успокоить эту штуку. Я скоро вернусь.",
+    "originalText": "First things first: we need that thing pacified. I'll be right back."
+  },
+  {
+    "path": "Exports.138.Data.6.Value.1.Value.5",
+    "key": "4E0BA21D435C3F15895B4E85354AD907",
+    "text": "Первым делом: нам нужно изолировать эту штуку. Никуда не уходи.",
+    "originalText": "First things first: we need that thing contained. Don't go anywhere."
+  },
+  {
+    "path": "Exports.139.Data.0",
+    "key": "A516729349E1211C3AAB179B39BC6EB1",
+    "text": "Во-первых, тебе нужно сообщить в штаб. На всякий случай. После этого мы задокументируем всё это. Каждый шаг. Затем? Не уверен. Мы должны провести несколько тестов. Узнать, с чем имеем дело.",
+    "originalText": "Firstly, you need to let HQ know. Just in case anything happens. After that, we document all of this. Every step. Then? I'm not sure. We should run some tests. See what we're dealing with."
+  },
+  {
+    "path": "Exports.139.Data.6.Value.0.Value.5",
+    "key": "2F40C5F147606F67B21D1C805600387B",
+    "text": "Может, нам стоит пока не сообщать в штаб. Просто пока мы не узнаем немного больше.",
+    "originalText": "Maybe we should hold off on telling HQ. Just until we know a little bit more, I mean."
+  },
+  {
+    "path": "Exports.139.Data.6.Value.1.Value.5",
+    "key": "85168DE84D9CA379F421C2B04D6EBD28",
+    "text": "Согласен. Чем больше мы знаем, с чем имеем дело, тем лучше.",
+    "originalText": "I agree. The more we know what we're dealing with, the better."
+  },
+  {
+    "path": "Exports.140.Data.0",
+    "key": "C1B4ADF04F9EF6DF1119F9A612EAF308",
+    "text": "Не беспокойся обо мне. Я буду в порядке. Ты иди позвони.",
+    "originalText": "Don't worry about me. I'll be fine. You go make the call."
+  },
+  {
+    "path": "Exports.140.Data.6.Value.0.Value.5",
+    "key": "44D1EDD3444B3585177718A31EB2CA02",
+    "text": "Уверен, они будут в восторге, услышав о реальных результатах от нас.",
+    "originalText": "I'm sure they'll be over the moon to hear about some actual results from us."
+  },
+  {
+    "path": "Exports.140.Data.6.Value.1.Value.5",
+    "key": "352A1C634AA039DCAF0E2494122BEC17",
+    "text": "Думаю, штаб захочет узнать как можно скорее.",
+    "originalText": "I suppose HQ would want to know as soon as possible."
+  },
+  {
+    "path": "Exports.141.Data.0",
+    "key": "64EB93EE4DC8865F4E2FBEA8579F62B7",
+    "text": "Думаю, да.",
+    "originalText": "I suppose so."
+  },
+  {
+    "path": "Exports.141.Data.5.Value.0.Value.5",
+    "key": "327E33DF4AAAC5E2E30B66AB00054A1A",
+    "text": "Что ты думаешь об этой штуке?",
+    "originalText": "What do you make of that thing?"
+  },
+  {
+    "path": "Exports.141.Data.5.Value.1.Value.5",
+    "key": "B3889F4B4830703E0200F2B608219A9B",
+    "text": "Каковы наши следующие шаги?",
+    "originalText": "What are our next steps?"
+  },
+  {
+    "path": "Exports.141.Data.5.Value.2.Value.5",
+    "key": "968A81764EA8D19668E3118121F699A9",
+    "text": "Могу я чем-то помочь?",
+    "originalText": "Anything I can do for you?"
+  },
+  {
+    "path": "Exports.141.Data.5.Value.3.Value.5",
+    "key": "49C1864940AF6F30F22F3CB946418EE1",
+    "text": "Ладно. Я скоро вернусь.",
+    "originalText": "Alright. I'll be right back."
+  },
+  {
+    "path": "Exports.142.Data.0",
+    "key": "CEEB97F74FCC1F9C323D1EADAB2CB559",
+    "text": "Именно так я и думаю.",
+    "originalText": "My thoughts exactly."
+  },
+  {
+    "path": "Exports.142.Data.5.Value.0.Value.5",
+    "key": "9BD68B4646029C2DDC0A158832E72AF7",
+    "text": "Что ты думаешь об этой штуке?",
+    "originalText": "What do you make of that thing?"
+  },
+  {
+    "path": "Exports.142.Data.5.Value.1.Value.5",
+    "key": "F7CB09274DDFADA4C0585CB877DDB8EE",
+    "text": "Каковы наши следующие шаги?",
+    "originalText": "What are our next steps?"
+  },
+  {
+    "path": "Exports.142.Data.5.Value.2.Value.5",
+    "key": "16CD4A494AB6F2CC035A969C9B24C43E",
+    "text": "Могу я чем-то помочь тебе?",
+    "originalText": "Anything I can do to help you?"
+  },
+  {
+    "path": "Exports.142.Data.5.Value.3.Value.5",
+    "key": "7E34F9F54E27C7383842B7A04FF9437E",
+    "text": "Ладно тогда. Я скоро вернусь.",
+    "originalText": "Alright then. I'll be right back."
+  },
+  {
+    "path": "Exports.143.Data.0",
+    "key": "9C221E7C41F24AACCBB8D7BCEE39C86C",
+    "text": "Шевелись! Я не знаю, что это за штука, и не хочу выяснять это, пока мы здесь, в чёртовой глуши!",
+    "originalText": "Move it! I don't know what this thing is, and I'm don't want to find out while we're out here in the middle of fucking nowhere!"
+  },
+  {
+    "path": "Exports.143.Data.6.Value.0.Value.5",
+    "key": "753E31F642BDDEC0C15E01AC886B826E",
+    "text": "За дело!",
+    "originalText": "On it!"
+  },
+  {
+    "path": "Exports.143.Data.6.Value.1.Value.5",
+    "key": "02F1955D454EBCA68AE2C2B5705A9E04",
+    "text": "Просто держись!",
+    "originalText": "Just hang tight!"
+  },
+  {
+    "path": "Exports.144.Data.0",
+    "key": "0E7A30E349FE93A0497AE1B7BFFF70FE",
+    "text": "[То немногое, что ты видишь, оставляет простор для воображения, и в худшем смысле. Как только контейнер приоткрывается, псевдоподия, покрытая мерцающим чёрным, высовывается наружу, пытаясь найти опору, чтобы выбраться из своего убежища.]",
+    "originalText": "[What little you see leaves much to the imagination, in all the worst ways. Once the container twists open, a pseudopod, clad in shimmering black, perches itself on the edge, attempting to find enough traction to escape its habitat.]"
+  },
+  {
+    "path": "Exports.144.Data.5.Value.0.Value.5",
+    "key": "8955AC7A44C3959262E394A2A807BABB",
+    "text": "[Попытаться рассмотреть поближе]",
+    "originalText": "[Try to get a closer look]"
+  },
+  {
+    "path": "Exports.144.Data.5.Value.1.Value.5",
+    "key": "4C61566A493ACB3CF3954AA1C8BA81BB",
+    "text": "Джордж?! Что это?",
+    "originalText": "Jorge?! What is that?"
+  },
+  {
+    "path": "Exports.144.Data.5.Value.2.Value.5",
+    "key": "F77FC609467FE51389AA70801C13E7E5",
+    "text": "[Бросить контейнер и закрыть его]",
+    "originalText": "[Drop the container and shut it]"
+  }
+]
