@@ -1,0 +1,50 @@
+[
+  {
+    "path": "Exports.2.Data.3.Value.0.Value.5",
+    "key": "edge_next",
+    "text": "Далее",
+    "originalText": "Next"
+  },
+  {
+    "path": "Exports.3.Data.0",
+    "key": "DC71C5BB4CC5986445197B95A060D7BE",
+    "text": "[Две кровати примерно одинакового размера, но видно, что матрас на верхней полке слегка продавлен. Нижний — ровный, но кажется чуть тоньше.]",
+    "originalText": "[The two beds are about the same size, but you can tell the mattress is somewhat indented on the top bunk. The lower one is flat, but seems slightly thinner.]"
+  },
+  {
+    "path": "Exports.3.Data.5.Value.0.Value.5",
+    "key": "74637445485758E5D7086DA206E954B9",
+    "text": "[Выбрать верхнюю полку]",
+    "originalText": "[Pick the top bunk]"
+  },
+  {
+    "path": "Exports.3.Data.5.Value.1.Value.5",
+    "key": "D192FD4B4C5CD927AE3EC6B9431D9518",
+    "text": "[Выбрать нижнюю полку]",
+    "originalText": "[Pick the bottom bunk]"
+  },
+  {
+    "path": "Exports.4.Data.0",
+    "key": "C398BB714100F5DBF8EF93B113F361B1",
+    "text": "[Вы собираетесь с силами и взгромождаете коробку на верхнюю полку, в ответ раздаётся каскад пружин с металлическим скрипом.]",
+    "originalText": "[You gather your strength and heave the box on top of the upper bunk, as a cascade of springs respond with a metallic squeal.]"
+  },
+  {
+    "path": "Exports.4.Data.6.Value.0.Value.5",
+    "key": "077934A6402B1AEA64E0C786A400A709",
+    "text": "[Уйти]",
+    "originalText": "[Leave]"
+  },
+  {
+    "path": "Exports.5.Data.0",
+    "key": "521FD8344B19CB559B54D8A90AFB37EC",
+    "text": "[Вы удобно начинаете раскладывать свои вещи на нижнем матрасе, который мягко амортизирует их вес.]",
+    "originalText": "[You comfortably begin to shuffle your possessions onto the lower mattress, which in turns cushions their weight gently.]"
+  },
+  {
+    "path": "Exports.5.Data.6.Value.0.Value.5",
+    "key": "652A18254473C640C0A9398BB757D260",
+    "text": "[Уйти]",
+    "originalText": "[Leave]"
+  }
+]
