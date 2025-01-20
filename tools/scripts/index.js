@@ -1,7 +1,7 @@
 // Код целиком написан нейросетью claude-3.5-sonnet
 // Спасибо, что работает
 
-const fileName = 'Journal_1-4';
+const fileName = 'Radio_1-4';
 const filePath = '../../Json-TailsRUS_P/BackboneStories/Content/Data/Dialogues/Act_I'
 
 const fs = require('fs');

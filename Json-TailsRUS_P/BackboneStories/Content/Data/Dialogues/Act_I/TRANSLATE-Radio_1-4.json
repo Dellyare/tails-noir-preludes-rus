@@ -1,0 +1,824 @@
+[
+  {
+    "path": "Exports.41.Data.3.Value.0.Value.5",
+    "key": "C524A3A2487A1D45D6AA7FBA63B3542A",
+    "text": "Далее",
+    "originalText": "Next"
+  },
+  {
+    "path": "Exports.42.Data.0",
+    "key": "7F6A56C641F16BC75C3D70AD1E0B5235",
+    "text": "Это штаб. Мы вас слышим громко и чётко. Как ваше состояние, приём?",
+    "originalText": "This is HQ. We read you, loud and clear. What's your status, over?"
+  },
+  {
+    "path": "Exports.42.Data.5.Value.0.Value.5",
+    "key": "F28B13D0406C6D5DE13E4C892C758F83",
+    "text": "Мы... кое-что нашли.",
+    "originalText": "We've...found something."
+  },
+  {
+    "path": "Exports.42.Data.5.Value.1.Value.5",
+    "key": "FAC9D2254132C7789D6452894A4DE432",
+    "text": "Раскопки продолжаются в стабильном темпе.",
+    "originalText": "Excavation continues at a steady pace."
+  },
+  {
+    "path": "Exports.43.Data.0",
+    "key": "68EF2D084607970E801D6185C0FDB1E8",
+    "text": "Вы... уверены?",
+    "originalText": "Are you...sure?"
+  },
+  {
+    "path": "Exports.43.Data.5.Value.0.Value.5",
+    "key": "54E488E243458319135F5386B7D075EB",
+    "text": "Эм. Вы знаете, с чем мы здесь имеем дело?",
+    "originalText": "Um. Do you know what we're dealing with here?"
+  },
+  {
+    "path": "Exports.43.Data.5.Value.1.Value.5",
+    "key": "6EF2B35741C681728155D1AD65918D54",
+    "text": "Пока нет. Мы только на начальных этапах тестирования.",
+    "originalText": "Not yet. We're only in the early phases of testing."
+  },
+  {
+    "path": "Exports.44.Data.0",
+    "key": "37EB509646D6B0CDC22E898B7647489E",
+    "text": "...",
+    "originalText": "..."
+  },
+  {
+    "path": "Exports.44.Data.5.Value.0.Value.5",
+    "key": "79F17566454F47CEA55025AE9F3E7F87",
+    "text": "...",
+    "originalText": "..."
+  },
+  {
+    "path": "Exports.44.Data.5.Value.1.Value.5",
+    "key": "363148794CD4ED9C922DA283F6FE57EB",
+    "text": "Алло?",
+    "originalText": "Hello?"
+  },
+  {
+    "path": "Exports.45.Data.0",
+    "key": "3F4F30A74723C8B31F816D9CF6C2C73E",
+    "text": "[Радио гудит с лёгким статическим шумом.]",
+    "originalText": "[The radio hums with gentle static.]"
+  },
+  {
+    "path": "Exports.45.Data.5.Value.0.Value.5",
+    "key": "CB2DD3A549D7BD44B84DBE9774C4A521",
+    "text": "...Это может подождать. Джорджу нужна моя помощь.",
+    "originalText": "...This can wait. Jorge needs my help."
+  },
+  {
+    "path": "Exports.46.Data.0",
+    "key": "FB3B9D524F07C60D5A237480AC6C28D2",
+    "text": "Что-то ещё доложить?",
+    "originalText": "Anything else to report?"
+  },
+  {
+    "path": "Exports.46.Data.5.Value.0.Value.5",
+    "key": "A973C6F9468ACB485593278600C47A73",
+    "text": "Да, вообще-то... мы кое-что нашли.",
+    "originalText": "Yeah, actually...we found something."
+  },
+  {
+    "path": "Exports.46.Data.5.Value.1.Value.5",
+    "key": "8E2A069740BCD8A532956895A23D9755",
+    "text": "[Ложь] Нет, ничего. Приём.",
+    "originalText": "[Lie] No, nothing. Over."
+  },
+  {
+    "path": "Exports.47.Data.0",
+    "key": "42ED954B42BA0F8FF2F9B289E23C7500",
+    "text": "[Песок скрипит между алюминиевой рамой и пластиковым диском, когда вы начинаете его поворачивать. Сам диск немного расшатался, будучи изъеденным засушливой пустыней вокруг вас. Инстинктивно вы вспоминаете частоту штаба: 94.6.]",
+    "originalText": "[Grit grinds between the aluminum frame and the plastic dial as you begin to turn it. The dial itself has loosened, slightly, having been gnawed at by the arid wasteland surrouding you. Instinctively, you recall HQ's frequency: 94.6.]"
+  },
+  {
+    "path": "Exports.47.Data.6.Value.0.Value.5",
+    "key": "05A5643E4CB120A31D3506B62B23A2BF",
+    "text": "[Набрать 94.6]",
+    "originalText": "[Dial in 94.6]"
+  },
+  {
+    "path": "Exports.47.Data.6.Value.1.Value.5",
+    "key": "2EF15B564AD52DABD031998A563C7D1D",
+    "text": "[Набрать 89.45]",
+    "originalText": "[Dial in 89.45]"
+  },
+  {
+    "path": "Exports.47.Data.6.Value.2.Value.5",
+    "key": "CBAE5CBF46EA883FE2D987A889797BC3",
+    "text": "[Оставить как есть]",
+    "originalText": "[Leave it alone for now]"
+  },
+  {
+    "path": "Exports.48.Data.0",
+    "key": "BEACC7DE42C3939BCEA7D4B4E485639C",
+    "text": "[Когда-то впечатляющий HF-Boone 34, с которым вы так сроднились за последние месяцы, теперь кажется потрёпанным, слабым и старым. За ним тянется длинный резиновый кабель, а рядом с машиной стопка записок прижата пресс-папье.]",
+    "originalText": "[The once so impressive HF-Boone 34 you've grown so familiar with over the past few months now seems weathered, weak, and old. Behind it trails a long rubbery tail, and next to the machine, a stack of notes are held in place by a paperweight.]"
+  },
+  {
+    "path": "Exports.48.Data.5.Value.0.Value.5",
+    "key": "2405310D4DFBAA7FC01EBBA170745D90",
+    "text": "[Посмотреть на кабель]",
+    "originalText": "[Look at the cable]"
+  },
+  {
+    "path": "Exports.48.Data.5.Value.1.Value.5",
+    "key": "80AFAA0C4841E952A7B05EB504E2F1B1",
+    "text": "[Осмотреть записки]",
+    "originalText": "[Inspect the notes]"
+  },
+  {
+    "path": "Exports.48.Data.5.Value.2.Value.5",
+    "key": "9F4E334648B277754846DCA0C4DDAC49",
+    "text": "[Написать что-то в записках]",
+    "originalText": "[Write something in the notes]"
+  },
+  {
+    "path": "Exports.48.Data.5.Value.3.Value.5",
+    "key": "2EBA12BC4D2D915AE1368F91451D7271",
+    "text": "[Перестать осматривать радио]",
+    "originalText": "[Stop inspecting the radio]"
+  },
+  {
+    "path": "Exports.49.Data.0",
+    "key": "299C9E78478F68CA2340AA912F8BFCBE",
+    "text": "Понял, объект 06. Пожалуйста, опишите находку.",
+    "originalText": "Copy that, Site 06. Please describe the finding. "
+  },
+  {
+    "path": "Exports.49.Data.5.Value.0.Value.5",
+    "key": "4CB7DC744408C01DEF8B12B0587993C6",
+    "text": "Мы нашли что-то вроде... артефакта. Очень чувствителен к стимулам. Возможно, органического происхождения.",
+    "originalText": "We found some sort of...artifact. Very responsive to stimuli. Possibily organic in matter."
+  },
+  {
+    "path": "Exports.49.Data.5.Value.1.Value.5",
+    "key": "74A5EEF44CC1DFF2EDEB668BF6CA90EA",
+    "text": "[Ложь] Это, эм... похоже на ёмкость для напитков. Алюминиевая. Этикетка стёрлась.",
+    "originalText": "[Lie] It's a, um...it looks like a beverage container. Aluminum. Label's been worn off."
+  },
+  {
+    "path": "Exports.50.Data.0",
+    "key": "B27140604ADD014FD356EE83C405E37C",
+    "text": "[Статический шум продолжается минуту, после чего начинают проступать искажения. Как бы вы ни старались, вы не можете разобрать ничего сквозь шум.]",
+    "originalText": "[The static hisses for a good minute, after which distortions begin coming through in waves. Try as you might, you can't make out anything through the noise.]"
+  },
+  {
+    "path": "Exports.50.Data.7.Value.0.Value.5",
+    "key": "7DF033104C3A4EAA51BF9E965FA7F4A3",
+    "text": "[Набрать 94.6]",
+    "originalText": "[Dial in 94.6]"
+  },
+  {
+    "path": "Exports.50.Data.7.Value.1.Value.5",
+    "key": "D46960A549BF4ECE651A34ACA70FAEF2",
+    "text": "[Оставить как есть]",
+    "originalText": "[Leave it alone for now]"
+  },
+  {
+    "path": "Exports.51.Data.0",
+    "key": "89D50D644E165CE37F39768F656EB9F6",
+    "text": "[Достаточно лёгкого поворота запястья, и диск возвращается в своё обычное положение. Шум нарастает, и вскоре мелодичный сигнал пробивается через высокочастотные динамики. Это ваш сигнал.]",
+    "originalText": "[All required is a slight twist of the wrist, and the dial rotates to it's usual orientation. Hissing builds up, and soon enough a melodic beep whistles through the treble-heavy speakers. That's your cue.]"
+  },
+  {
+    "path": "Exports.51.Data.6.Value.0.Value.5",
+    "key": "C5F1270040EF905B20DC35BABFC28A3F",
+    "text": "Штаб, штаб. Это Илай с объекта 06. Ответьте, штаб. У нас есть что сообщить, приём.",
+    "originalText": "HQ, HQ. This is Eli of Digsite 06. Come in, HQ. We've got something to report, over."
+  },
+  {
+    "path": "Exports.51.Data.6.Value.1.Value.5",
+    "key": "77F6B92247BD06CC6487A08E9A1B0581",
+    "text": "Илай докладывает, объект 06. Плановый отчёт о состоянии, приём.",
+    "originalText": "Eli reporting, Digsite 06. Scheduled status report, over."
+  },
+  {
+    "path": "Exports.52.Data.0",
+    "key": "926A266843618A5D7CC6AF82A96F87FE",
+    "text": "[Вы сдвигаете пресс-папье на стол и берёте короткий, тупой карандаш.]",
+    "originalText": "[You slide the paperweight onto the desk and pick up the stubby, dull pencil.]"
+  },
+  {
+    "path": "Exports.52.Data.5.Value.0.Value.5",
+    "key": "E00E94524AF371D355A9369A7836AB0A",
+    "text": "\"14 августа. Крупное открытие. Связываюсь со штабом.\"",
+    "originalText": "\"August 14th. Major discovery. Radioing HQ.\""
+  },
+  {
+    "path": "Exports.52.Data.5.Value.1.Value.5",
+    "key": "5426EAEF44FA4FBFAD56C3ADB03C45A2",
+    "text": "\"Заметка: Протереть солнечные панели.\"",
+    "originalText": "\"Memo: Wipe off the solar panels\""
+  },
+  {
+    "path": "Exports.52.Data.5.Value.2.Value.5",
+    "key": "B26BF9434354F7C37A8D7DA207D1F668",
+    "text": "\"Солнце невыносимо. Дневные температуры мучительно высоки.\"",
+    "originalText": "\"The sun is unbearable. Temperatures during the day are painfully high.\""
+  },
+  {
+    "path": "Exports.52.Data.5.Value.3.Value.5",
+    "key": "A6A7134E4E70EA6329940CA728FD7BA6",
+    "text": "\"Здесь ничего не осталось, кроме разрушения — одинокие и ровные пески простираются далеко.\"",
+    "originalText": "\"Nothing out here remains, except decay - the lone and level sands stretch far away.\""
+  },
+  {
+    "path": "Exports.53.Data.0",
+    "key": "5C84CBA943F2BE1B89A021BF12C47B1E",
+    "text": "Спасибо за отчёт, 06. Продолжайте работу.",
+    "originalText": "Thank you for the report, 06. Carry on with your work."
+  },
+  {
+    "path": "Exports.53.Data.6.Value.0.Value.5",
+    "key": "0911BE17459C54B6DE639EA217B1CC9C",
+    "text": "[Завершить звонок]",
+    "originalText": "[End the call]"
+  },
+  {
+    "path": "Exports.54.Data.0",
+    "key": "6145F27E466B1222D84DC787B747C4C5",
+    "text": "[Радио гудит с лёгким статическим шумом.]",
+    "originalText": "[The radio hums with gentle static.]"
+  },
+  {
+    "path": "Exports.54.Data.5.Value.0.Value.5",
+    "key": "35C7CD434AB1F8D19001698D0A6EB9E2",
+    "text": "[Осмотреть радио]",
+    "originalText": "[Inspect the radio]"
+  },
+  {
+    "path": "Exports.54.Data.5.Value.1.Value.5",
+    "key": "2251662D437167D4FD3F0FAE28372247",
+    "text": "[Оставить как есть]",
+    "originalText": "[Leave it be]"
+  },
+  {
+    "path": "Exports.54.Data.5.Value.2.Value.5",
+    "key": "15FDDE184AFA83E8F2E696B49AD30258",
+    "text": "[Набрать частоту]",
+    "originalText": "[Dial in a frequency]"
+  },
+  {
+    "path": "Exports.55.Data.0",
+    "key": "4EA89D344E19D2D91E657A92C2953136",
+    "text": "[Стопка жёлтых и пожелтевших записок аккуратно сложена и прижата. Некоторые из них написали вы, другие — Джордж. Ещё несколько, кажется, были написаны давно кем-то, чьё имя вы не помните.]",
+    "originalText": "[The bundle of yellow and yellowed notes is stacked and weighed down, as neatly as can be. You wrote some of them, Jorge some others. Another few still were written ages ago, it seems now, by someone whose name you don't recall.]"
+  },
+  {
+    "path": "Exports.55.Data.5.Value.0.Value.5",
+    "key": "9EE95A94495386FEF0D87586F404022B",
+    "text": "[Посмотреть мои записки]",
+    "originalText": "[Look at my notes]"
+  },
+  {
+    "path": "Exports.55.Data.5.Value.1.Value.5",
+    "key": "9DB290034BD73783FE93049D9A637867",
+    "text": "[Просмотреть записки Джорджа]",
+    "originalText": "[Go through Jorge's notes]"
+  },
+  {
+    "path": "Exports.55.Data.5.Value.2.Value.5",
+    "key": "BD2F656E426647EECD526BB5425BA533",
+    "text": "[Оставить записки]",
+    "originalText": "[Let the notes be]"
+  },
+  {
+    "path": "Exports.56.Data.0",
+    "key": "F51AE61F4954FEC8CE441AB4A0695ECC",
+    "text": "[Кабель лежит на земле, покрытый пылью. Если проследить его вдоль земли, ваш взгляд упадёт на теперь уже обветренные солнечные панели, которые вы и Джордж установили давным-давно.]",
+    "originalText": "[The cable lies heavy on the ground, covered with dust. Tracing it along the ground leads your gaze to the now wind-whipped solar panels you and Jorge set up a long time ago.]"
+  },
+  {
+    "path": "Exports.56.Data.5.Value.0.Value.5",
+    "key": "82920100453FDD013C3E29A319C667CB",
+    "text": "[Мысленно отметить, что нужно их протереть позже]",
+    "originalText": "[Make a mental note to dust them off later]"
+  },
+  {
+    "path": "Exports.56.Data.5.Value.1.Value.5",
+    "key": "A6C1D82745E6E37BE454C7953790EF2E",
+    "text": "[Проверить на повреждения]",
+    "originalText": "[Check for damage]"
+  },
+  {
+    "path": "Exports.56.Data.5.Value.2.Value.5",
+    "key": "FDB6ACF24413EA45BAB025B5E290DF6E",
+    "text": "[Перестать смотреть на кабель]",
+    "originalText": "[Stop staring at the cable]"
+  },
+  {
+    "path": "Exports.57.Data.0",
+    "key": "324617474BCF496940432383D00D9BDD",
+    "text": "[Уставшая машина продолжает гудеть низким тоном.]",
+    "originalText": "[The weary machine continues humming a low tone.]"
+  },
+  {
+    "path": "Exports.57.Data.5.Value.0.Value.5",
+    "key": "3D88A5234FE5FACF99B7B5B8F88E5903",
+    "text": "[Посмотреть на кабель]",
+    "originalText": "[Look at the cable]"
+  },
+  {
+    "path": "Exports.57.Data.5.Value.1.Value.5",
+    "key": "8B7083EA4D055010F5A5D4B0150DFB15",
+    "text": "[Перестать осматривать радио]",
+    "originalText": "[Stop inspecting the radio]"
+  },
+  {
+    "path": "Exports.57.Data.5.Value.2.Value.5",
+    "key": "A0833A3E425A6959C916F185FB95E4D1",
+    "text": "[Осмотреть записки]",
+    "originalText": "[Inspect the notes]"
+  },
+  {
+    "path": "Exports.57.Data.5.Value.3.Value.5",
+    "key": "8D37B3A24BF7792B04B8AC80F63575CA",
+    "text": "[Написать что-то в записках]",
+    "originalText": "[Write something in the notes]"
+  },
+  {
+    "path": "Exports.58.Data.0",
+    "key": "89BC4CC9418C6C53B7FA8CA0D6569034",
+    "text": "[Потребуется больше, чем палящее солнце и пара песчаных бурь, чтобы пробиться через вулканизированную резину.]",
+    "originalText": "[It'll take more than a scorching sun and a couple dust storms to dig through vulcanized rubber.]"
+  },
+  {
+    "path": "Exports.58.Data.5.Value.0.Value.5",
+    "key": "4536821945782DDC7197C2AC7095C0D9",
+    "text": "Значит, всё в порядке?",
+    "originalText": "So it's alright, then?"
+  },
+  {
+    "path": "Exports.59.Data.0",
+    "key": "50661907439C949FB6E6A7A1E2591631",
+    "text": "(ЦИНИК) [Это благодарная работа. В прошлый раз вы потратили полдня на то, чтобы их протереть, только чтобы они снова покрылись пылью на следующее утро. Если бы не это открытие, вряд ли бы стоило их вообще протирать.]",
+    "originalText": "(CYNIC) [It's a thankless job. Last time, you spent half a day wiping them off, only for them to be covered the next morning. If it weren't for this discovery, it'd hardly feel worth it to wipe them off at all.]"
+  },
+  {
+    "path": "Exports.59.Data.6.Value.0.Value.5",
+    "key": "5D4A9FB048C49962085EA0AD1E5D8DE7",
+    "text": "Кто-то должен это делать.",
+    "originalText": "Someone's gotta do it."
+  },
+  {
+    "path": "Exports.59.Data.6.Value.1.Value.5",
+    "key": "3DFDE2C441E83E9734FDDC8664721FAF",
+    "text": "Я скучаю по своему кабинету.",
+    "originalText": "I miss my office."
+  },
+  {
+    "path": "Exports.60.Data.0",
+    "key": "2DE32CAC45424D0B6E7D5196FE290340",
+    "text": "(ИДЕАЛИСТ) [Здесь нет реального способа избежать пыли, но в следующий раз, когда вы будете их чистить, возможно, найдётся способ расположить их так, чтобы они не собирали столько пыли.]",
+    "originalText": "(IDEALIST) [There's no real way of avoiding the dust out here, but next time you clean them, there might be a way to angle them so they don't gather quite as much.]"
+  },
+  {
+    "path": "Exports.60.Data.6.Value.0.Value.5",
+    "key": "2C4B42594BB04F681DD9FBAEEDEF70D4",
+    "text": "Стоит попробовать.",
+    "originalText": "It's worth a shot."
+  },
+  {
+    "path": "Exports.60.Data.6.Value.1.Value.5",
+    "key": "542D85B64D4D48E5864172BFC0D4AB60",
+    "text": "Главное, чтобы я не закрыл солнце.",
+    "originalText": "As long as I don't angle out the sun."
+  },
+  {
+    "path": "Exports.61.Data.0",
+    "key": "7267BEF34CB186A44ECB5AB31980EC8F",
+    "text": "(РЕАЛИСТ) [Вам стоит выделить на это хотя бы пару часов. Можно успеть за 45 минут, но потом придётся переделывать через день. Вы уже совершали эту ошибку.]",
+    "originalText": "(REALIST) [You ought to set aside at least a few hours for it. It can be rushed in 45 minutes, but you'll just end up redoing it a day later. You've made that mistake before.]"
+  },
+  {
+    "path": "Exports.61.Data.6.Value.0.Value.5",
+    "key": "4F544B0F40A1F88B58B0A9B723C6F5D1",
+    "text": "Я согласую это с Джорджем.",
+    "originalText": "I'll plan it with Jorge."
+  },
+  {
+    "path": "Exports.61.Data.6.Value.1.Value.5",
+    "key": "129C19F64BB515BFBDFA58A786B2A7FD",
+    "text": "Джордж будет занят. Я сам этим займусь.",
+    "originalText": "Jorge will be busy. I'll take care of it myself."
+  },
+  {
+    "path": "Exports.62.Data.0",
+    "key": "301B0E744A263198558EC8B58840BC8E",
+    "text": "Ожидайте дальнейших инструкций. Приём и конец связи.",
+    "originalText": "Stand by for further instructions. Over and out."
+  },
+  {
+    "path": "Exports.62.Data.6.Value.0.Value.5",
+    "key": "84977A3449D90DD2B5FA9C9B132A7914",
+    "text": "[Выключить радио]",
+    "originalText": "[Turn off radio]"
+  },
+  {
+    "path": "Exports.62.Data.6.Value.1.Value.5",
+    "key": "60D394BB4C3F9062BF54CE964CA4B97E",
+    "text": "Понял.",
+    "originalText": "Copy that."
+  },
+  {
+    "path": "Exports.63.Data.0",
+    "key": "04490C05419BACE08846C08A9234F04A",
+    "text": "(ЦИНИК) [Пока что.]",
+    "originalText": "(CYNIC) [For now.]"
+  },
+  {
+    "path": "Exports.63.Data.6.Value.0.Value.5",
+    "key": "3B64ADA24C476610246133999B6AC7DC",
+    "text": "Посмотрим.",
+    "originalText": "We'll see about that."
+  },
+  {
+    "path": "Exports.63.Data.6.Value.1.Value.5",
+    "key": "C10AF4B844F05829FB5BE09F8F8E9C7C",
+    "text": "Взгляни на это. Что-то, что не совсем хлам.",
+    "originalText": "Look at that. Something that isn't completely trash."
+  },
+  {
+    "path": "Exports.64.Data.0",
+    "key": "BB3F1EBA4E7DB1A63E5411B2CA8339E6",
+    "text": "(РЕАЛИСТ) [Это так, но климат здесь не делает ему никаких одолжений. Он прослужит столько, сколько вы будете здесь, скорее всего.]",
+    "originalText": "(REALIST) [It is, but the climate out here isn't doing it any favors. It'll last for as long as you'll be out here, most likely.]"
+  },
+  {
+    "path": "Exports.64.Data.6.Value.0.Value.5",
+    "key": "AE8545F842F0DFA053F2DEA296B2A618",
+    "text": "Может, стоит подумать о замене. Никогда не знаешь.",
+    "originalText": "Might be worth looking into a replacement. You never know."
+  },
+  {
+    "path": "Exports.64.Data.6.Value.1.Value.5",
+    "key": "0037641F42FDBF18B3B15C838476BF1D",
+    "text": "Для нас этого достаточно.",
+    "originalText": "That's good enough for us."
+  },
+  {
+    "path": "Exports.65.Data.0",
+    "key": "ACB9A2564B17CDC29FA9BCA0F23348DC",
+    "text": "(ИДЕАЛИСТ) [Он должен прослужить ещё как минимум одну жизнь.]",
+    "originalText": "(IDEALIST) [It should last for at least another lifetime.]"
+  },
+  {
+    "path": "Exports.65.Data.6.Value.0.Value.5",
+    "key": "DD13000F43CE0F46455252A56A99B827",
+    "text": "Для нас этого достаточно.",
+    "originalText": "That's good enough for us."
+  },
+  {
+    "path": "Exports.65.Data.6.Value.1.Value.5",
+    "key": "4B6013824088693EB380FBA16545E0F1",
+    "text": "Отлично. Тогда я передам это своим детям.",
+    "originalText": "Great. I'll pass it down to my children, then."
+  },
+  {
+    "path": "Exports.66.Data.0",
+    "key": "4541FE904D46FA5D6860CD96A4E9E1CF",
+    "text": "[Многие страницы — это просто числа и каракули, но вы находите несколько, которые вызывают ваш интерес.]",
+    "originalText": "[Many of the pages are simply numbers and doodles, but you sort through to find a few that pique your interest.]"
+  },
+  {
+    "path": "Exports.66.Data.5.Value.0.Value.5",
+    "key": "4E6E0B0F4D831B0F4DD5ABA06EB7A0E6",
+    "text": "\"1 августа\"",
+    "originalText": "\"August 1st\""
+  },
+  {
+    "path": "Exports.66.Data.5.Value.1.Value.5",
+    "key": "8555D2544D3EBBB01A05669FB9B55690",
+    "text": "\"возможная радиация, без коррозии\"",
+    "originalText": "\"potential radiation, no corrosives\""
+  },
+  {
+    "path": "Exports.66.Data.5.Value.2.Value.5",
+    "key": "71F12848485F329ADC8AE58349FE0C47",
+    "text": "\"89.45\"",
+    "originalText": "\"89.45\""
+  },
+  {
+    "path": "Exports.66.Data.5.Value.3.Value.5",
+    "key": "48BA7BAF47941A8BBCE6D39DAD960AD0",
+    "text": "[Отложить записки Джорджа]",
+    "originalText": "[Put down Jorge's notes]"
+  },
+  {
+    "path": "Exports.67.Data.0",
+    "key": "510A5FCF4FE109A5F70265B3E04C0D37",
+    "text": "[Бумага слегка шуршит под весом вашего карандаша — ещё больше под тяжестью сделанного открытия.]",
+    "originalText": "[The paper rustles gently under the weight of your pencil - even more so under the gravity of the discovery you've made.]"
+  },
+  {
+    "path": "Exports.67.Data.6.Value.0.Value.5",
+    "key": "8E9319764250DC6A03BF90B3340F0274",
+    "text": "[Положить карандаш]",
+    "originalText": "[Put down the pencil]"
+  },
+  {
+    "path": "Exports.68.Data.0",
+    "key": "AD5FB8134025D520F30B4DA2E84BC33A",
+    "text": "[Вы мельком бросаете взгляд на солнечные панели вдалеке. Уже пора.]",
+    "originalText": "[You glance over briefly to the solar panels in the distance. It's about time.]"
+  },
+  {
+    "path": "Exports.68.Data.6.Value.0.Value.5",
+    "key": "D3B0C10946E51A9BE477F287CE19CEBA",
+    "text": "[Положить карандаш]",
+    "originalText": "[Put down the pencil]"
+  },
+  {
+    "path": "Exports.69.Data.0",
+    "key": "218AF59149405658A5D7F3B4B92DCF97",
+    "text": "[Вы вытираете лоб, заканчивая писать. Уже становится жарче.]",
+    "originalText": "[You wipe your brow as you finish writing. It's getting hotter already.]"
+  },
+  {
+    "path": "Exports.69.Data.5.Value.0.Value.5",
+    "key": "21A85BE14D3FCF82FCC8298E783626D0",
+    "text": "[Положить карандаш]",
+    "originalText": "[Put down the pencil]"
+  },
+  {
+    "path": "Exports.70.Data.0",
+    "key": "1BE9E1E94CF1B760F48BF6B1CB3D1CFA",
+    "text": "[Буря временно стихает, пока вы записываете свои мысли. Вы слышите, как Джордж перемещает вещи внизу, в яме.]",
+    "originalText": "[The storm eases temporarily as you scribble down your thoughts. You can hear Jorge moving things around, down in the pit.]"
+  },
+  {
+    "path": "Exports.70.Data.5.Value.0.Value.5",
+    "key": "F454D2D54A03EF8EE1F4EEA05CF3AD84",
+    "text": "[Положить карандаш]",
+    "originalText": "[Put down the pencil]"
+  },
+  {
+    "path": "Exports.71.Data.0",
+    "key": "F4EBE62848C913CDCAD3CAA95E3E8509",
+    "text": "(ЦИНИК) [Здесь не так много интересного для чтения. Частоты, заметки и записи, сделанные во время радиозвонков. В последнее время они стали реже — возможно, ведущие учёные отказались от экспедиций.]",
+    "originalText": "(CYNIC) [There's not much in the way of interesting reading. Frequencies, memos, and notes taken during radio calls. Those have become more infrequent lately - maybe the top scientists have given up on the expeditions.]"
+  },
+  {
+    "path": "Exports.71.Data.6.Value.0.Value.5",
+    "key": "776A1654409A61E9733F83B74FAC39AA",
+    "text": "Вчера я бы их не винил. Но сегодня всё изменилось.",
+    "originalText": "Yesterday, I wouldn't have blamed them. Today has changed that, though."
+  },
+  {
+    "path": "Exports.71.Data.6.Value.1.Value.5",
+    "key": "E8A132704A891D78EF475FBDD9D50B44",
+    "text": "[Вложить записки в нижнюю часть стопки]",
+    "originalText": "[Insert the notes at the bottom of the stack]"
+  },
+  {
+    "path": "Exports.72.Data.0",
+    "key": "0839C77E4701AAD02DA495804BD3E650",
+    "text": "(РЕАЛИСТ) [Ваши записи многочисленны, но, честно говоря, скучны. Почти математические. Записи радиозвонков и наблюдения за погодой, а также несколько каракулей о вашем прогрессе.]",
+    "originalText": "(REALIST) [Your notes are plentiful, but, to be frank, boring. Almost mathematical. Notes from radio calls and tracking of the weather, alongside a few scribbles regarding your progress.]"
+  },
+  {
+    "path": "Exports.72.Data.6.Value.0.Value.5",
+    "key": "6E807A8C472D89B1BE03ADAEDEFDB51A",
+    "text": "Тише едешь — дальше будешь.",
+    "originalText": "Slow and steady won the race."
+  },
+  {
+    "path": "Exports.72.Data.6.Value.1.Value.5",
+    "key": "51EB588D4BFFE810D21945A3C2709898",
+    "text": "[Убрать записки]",
+    "originalText": "[Put the notes away]"
+  },
+  {
+    "path": "Exports.73.Data.0",
+    "key": "E4053F354996470442A3EDA0B3D19E72",
+    "text": "Понял, объект 06. Пожалуйста, воздержитесь от сообщения о несущественных находках в будущих отчётах.",
+    "originalText": "Copy that, Site 06. Please refrain from reporting non-essential findings in future reports."
+  },
+  {
+    "path": "Exports.73.Data.5.Value.0.Value.5",
+    "key": "C7CE746348D2D22349F6F2A5D7C80043",
+    "text": "Будет сделано, штаб.",
+    "originalText": "Will do, HQ."
+  },
+  {
+    "path": "Exports.73.Data.5.Value.1.Value.5",
+    "key": "6E5734CA463CC25B05668D81826B88CD",
+    "text": "Просто стараюсь быть тщательным.",
+    "originalText": "Just trying to be thorough."
+  },
+  {
+    "path": "Exports.74.Data.0",
+    "key": "07F7D3DA4EAEEFB2F3A02F941B6C6286",
+    "text": "(ИДЕАЛИСТ) [Здесь есть оптимистичные каракули и записи о вашем покорении пустыни. Не так лично, как ваши дневники, но ваш оптимизм заметен.]",
+    "originalText": "(IDEALIST) [There are hopeful scribbles and logs of your conquest of the wasteland. Not as personable as your journals, but your optimism shines through.]"
+  },
+  {
+    "path": "Exports.74.Data.6.Value.0.Value.5",
+    "key": "1B1D147A41AC0FAED53BA49BA3700D47",
+    "text": "Я всегда знал, что мы найдём золото, рано или поздно.",
+    "originalText": "I always knew we'd strike gold, sooner or later."
+  },
+  {
+    "path": "Exports.74.Data.6.Value.1.Value.5",
+    "key": "882D604C4FA42962814FCEABE63B7CD7",
+    "text": "[Нарисовать смайлик на одной из записок]",
+    "originalText": "[Draw a happy face on one of the notes]"
+  },
+  {
+    "path": "Exports.75.Data.0",
+    "key": "25A05A014A2E35E99CA623929774F421",
+    "text": "[Ветер усилился и, несомненно, унёс бы бумаги, если бы не пресс-папье, удерживающее их.]",
+    "originalText": "[The wind has picked up, and would most certainly blow away the papers were it not for the weight holding them down.]"
+  },
+  {
+    "path": "Exports.75.Data.5.Value.0.Value.5",
+    "key": "1E439EEA40FBF70C307D75BF7F249A06",
+    "text": "[Посмотреть мои записки]",
+    "originalText": "[Look at my notes]"
+  },
+  {
+    "path": "Exports.75.Data.5.Value.1.Value.5",
+    "key": "C949F6D44EC39A4DFB8D78AF862712E3",
+    "text": "[Посмотреть записки Джорджа]",
+    "originalText": "[Look at Jorge's notes]"
+  },
+  {
+    "path": "Exports.75.Data.5.Value.2.Value.5",
+    "key": "7DF3795341434BE7F02623A1D1F4418F",
+    "text": "[Оставить записки]",
+    "originalText": "[Let the notes be]"
+  },
+  {
+    "path": "Exports.76.Data.0",
+    "key": "AA08BA2A460F28FFBD48F680556B9C20",
+    "text": "\"- первый контакт\r\n- серия капсул с номерами\r\n- металлическое покрытие и корпус\r\n- совет, как действовать\r\n- попросить журналы или что угодно\"",
+    "originalText": "\"- first contact\r\n- series of pods with numbers\r\n- metallic cover and casing\r\n- advice on how to proceed\r\n- ask for magazines or fuckin anything\""
+  },
+  {
+    "path": "Exports.76.Data.5.Value.0.Value.5",
+    "key": "3248B6814D48BCF3661533B19926284D",
+    "text": "[Прочитать что-то ещё]",
+    "originalText": "[Read something else]"
+  },
+  {
+    "path": "Exports.77.Data.0",
+    "key": "C449D0F54441BDC54EC34BAD51F3AADA",
+    "text": "[Общий контекст записки отсутствует, но в ней говорится: \"высокая вероятность радиации. Не использовать коррозийные вещества (если нужно применить силу) осторожно с капсулами, только нитриловые перчатки\"]",
+    "originalText": "[The greater context of the note is missing, but it reads: \"high chance of radiation. Use NO corrosives (if need force) careful with the pods, nitrile gloves only\"]"
+  },
+  {
+    "path": "Exports.77.Data.5.Value.0.Value.5",
+    "key": "35F0BECC4DEB6B89D955D2829169745F",
+    "text": "[Прочитать что-то ещё]",
+    "originalText": "[Read something else]"
+  },
+  {
+    "path": "Exports.78.Data.0",
+    "key": "D0CDC5D94ADF3BBE4AA0D8AF6C90981E",
+    "text": "[Вы узнаёте число как частоту, но не помните, для кого или чего. Внизу нарисовано сердце, а в конце записки: \"P.S. Илай, если ты это читаешь, занимайся своим делом\"]",
+    "originalText": "[You recognize the number as a frequency, but not for whom or what. Below is a doodle of a heart, and the bottom of the note reads: \"p.s. Eli, if you're reading this, mind your own business\"]"
+  },
+  {
+    "path": "Exports.78.Data.6.Value.0.Value.5",
+    "key": "DE1E12C848A91E039A4E618BE5C2E94E",
+    "text": "[Прочитать что-то ещё]",
+    "originalText": "[Read something else]"
+  },
+  {
+    "path": "Exports.78.Data.6.Value.1.Value.5",
+    "key": "0C8E860049400E572A4C2D957559BC43",
+    "text": "[Сделать вид, что вы этого не читали]",
+    "originalText": "[Pretend you didn't read that]"
+  },
+  {
+    "path": "Exports.79.Data.0",
+    "key": "F0D7D5294DCAFD9306B4048A94264B02",
+    "text": "[Вы возвращаете записки Джорджа в стопку, убедившись, что они не улетят на ветру.]",
+    "originalText": "[You return Jorge's notes to the stack, making sure they don't try to escape on the breeze.]"
+  },
+  {
+    "path": "Exports.79.Data.5.Value.0.Value.5",
+    "key": "FDE0642B4B60615583D9ED93C59E0E8B",
+    "text": "[Посмотреть мои записки]",
+    "originalText": "[Look at my notes]"
+  },
+  {
+    "path": "Exports.79.Data.5.Value.1.Value.5",
+    "key": "DB971B264A26C14DB8754CA3BDF1ABAC",
+    "text": "[Оставить записки пока]",
+    "originalText": "[Leave the notes for now]"
+  },
+  {
+    "path": "Exports.79.Data.5.Value.2.Value.5",
+    "key": "A9593E5E47958D912D9B2A95E9194250",
+    "text": "[Посмотреть записки Джорджа]",
+    "originalText": "[Look at Jorge's notes]"
+  },
+  {
+    "path": "Exports.80.Data.0",
+    "key": "F5B68E794D5229C1D4F9469E09B46018",
+    "text": "[Вы просматриваете записки.]",
+    "originalText": "[You look over the notes.]"
+  },
+  {
+    "path": "Exports.80.Data.5.Value.0.Value.5",
+    "key": "62DA8E9F41E6B1B084D0E1AD8A50B16A",
+    "text": "\"1 августа\"",
+    "originalText": "\"August 1st\""
+  },
+  {
+    "path": "Exports.80.Data.5.Value.1.Value.5",
+    "key": "E620F36F4018522DD151DF8EAC435D96",
+    "text": "\"возможная радиация, без коррозии\"",
+    "originalText": "\"potential radiation, no corrosives\""
+  },
+  {
+    "path": "Exports.80.Data.5.Value.2.Value.5",
+    "key": "5682F7684FDF9039E098699E983DE0D8",
+    "text": "\"89.45\"",
+    "originalText": "\"89.45\""
+  },
+  {
+    "path": "Exports.80.Data.5.Value.3.Value.5",
+    "key": "0712CD5C450164ADBD79CBB2F7293893",
+    "text": "[Отложить записки Джорджа]",
+    "originalText": "[Put down Jorge's notes]"
+  },
+  {
+    "path": "Exports.81.Data.0",
+    "key": "3BD9BA1C423785E9743A7AACF8EB1E09",
+    "text": "[Радио гудит с лёгким статическим шумом.]",
+    "originalText": "[The radio hums with gentle static.]"
+  },
+  {
+    "path": "Exports.81.Data.6.Value.0.Value.5",
+    "key": "7202EF9445BA696B52783EB3522FDB8F",
+    "text": "[Осмотреть радио]",
+    "originalText": "[Inspect the radio]"
+  },
+  {
+    "path": "Exports.81.Data.6.Value.1.Value.5",
+    "key": "D286181B458711B61B3BBFB3AC7C9E85",
+    "text": "[Оставить как есть]",
+    "originalText": "[Leave it be]"
+  },
+  {
+    "path": "Exports.81.Data.6.Value.2.Value.5",
+    "key": "8ABA3F3440C068263EEAF5AE92D0F990",
+    "text": "[Набрать частоту]",
+    "originalText": "[Dial in a frequency]"
+  },
+  {
+    "path": "Exports.82.Data.0",
+    "key": "DDAF5DA1414AD1443B17EBAFA6826B7A",
+    "text": "...",
+    "originalText": "..."
+  },
+  {
+    "path": "Exports.82.Data.6.Value.0.Value.5",
+    "key": "7B773B6A4891CBCFF16CFB9151FF3D17",
+    "text": "Ты ещё здесь?",
+    "originalText": "Are you still there?"
+  },
+  {
+    "path": "Exports.82.Data.6.Value.1.Value.5",
+    "key": "77E3C9594F0DA5152AE989AECD3ACB9A",
+    "text": "Штаб? Вы меня слышите?",
+    "originalText": "HQ? Do you read me?"
+  },
+  {
+    "path": "Exports.82.Data.6.Value.2.Value.5",
+    "key": "305A598C4A9D622039FCDD978BB5BAEF",
+    "text": "...",
+    "originalText": "..."
+  },
+  {
+    "path": "Exports.83.Data.0",
+    "key": "DB69A6104047DB5E3A64A19BEFD79378",
+    "text": "Оно... кажется разумным?",
+    "originalText": "Does it...appear to be sentient?"
+  },
+  {
+    "path": "Exports.83.Data.5.Value.0.Value.5",
+    "key": "FAAC0E3042595CB20DAA9CB3A5B5197E",
+    "text": "Сложно сказать. Его поведение определённо... странное.",
+    "originalText": "Hard to say. It's behaviour is certainly...erratic."
+  },
+  {
+    "path": "Exports.83.Data.5.Value.1.Value.5",
+    "key": "7FED93584CE7A14828ABE1BE70A269A7",
+    "text": "Оно... реагирует на стимулы так, что выходит за рамки простой химии.",
+    "originalText": "It...seems to react to stimuli in a way which goes beyond simply chemical. "
+  },
+  {
+    "path": "Exports.83.Data.5.Value.2.Value.5",
+    "key": "5E0965AF4FDAAD058083C78C3017476F",
+    "text": "Я так не думаю.",
+    "originalText": "I don't think so."
+  }
+]
