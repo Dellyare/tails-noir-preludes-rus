@@ -1,7 +1,7 @@
 // Код целиком написан нейросетью claude-3.5-sonnet
 // Спасибо, что работает
 
-const fileName = 'Larry_1-2.json';
+const fileName = 'Wisconsin_1-2';
 const filePath = '../../Json-TailsRUS_P/BackboneStories/Content/Data/Dialogues/Act_I'
 
 const fs = require('fs');
@@ -49,8 +49,8 @@ function findAllTextProperties(obj, path = []) {
 // Получаем аргумент из командной строки: 'extract' или 'inject'
 const mode = process.argv[2] || 'extract';
 
-const inputPath = `${filePath}/${fileName}`;
-const outputPath = `${filePath}/TRANSLATE-${fileName}`;
+const inputPath = `${filePath}/${fileName}.json`;
+const outputPath = `${filePath}/TRANSLATE-${fileName}.json`;
 
 if (mode === 'extract') {
     const input = readJsonFile(inputPath);
