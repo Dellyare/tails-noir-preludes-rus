@@ -1,3 +1,4 @@
 Engine
 *.bak
 tools/utils/Packer/filelist.txt
+build
