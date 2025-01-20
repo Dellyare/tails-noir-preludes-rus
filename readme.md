@@ -25,4 +25,4 @@
 - Запускаем скрипт `tools/scripts/index.js` в режиме `inject`
 - Открываем `JSON-TailsRUS_P/../*.json` в `tools/utils/UAssetGUI.exe`
 - Выбираем **Save as** и перезаписываем нужный файл в `TailsRUS_P/../../*.uasset`
-- Перетаскиваем всю папку `TailsRUS_P` на `tools/utils/Packer/UnrealPak-Without-Compression.bat` файл
+- Запускаем `tools/utils/Packer/UnrealPak-Without-Compression.bat`, пак файл будет в `build/TailsRUS_P.pak`
