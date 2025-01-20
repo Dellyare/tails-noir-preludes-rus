@@ -2,3 +2,5 @@ Engine
 *.bak
 tools/utils/Packer/filelist.txt
 build
+TailsRUS_P/.data
+.idea
