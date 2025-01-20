@@ -1,0 +1,1976 @@
+[
+  {
+    "path": "Exports.84.Data.3.Value.0.Value.5",
+    "key": "edge_next",
+    "text": "Далее",
+    "originalText": "Next"
+  },
+  {
+    "path": "Exports.84.Data.3.Value.1.Value.5",
+    "key": "F431DEB34A6FA31945EC2391B3479577",
+    "text": "(выбрал верхнюю койку)",
+    "originalText": "(picked top)"
+  },
+  {
+    "path": "Exports.84.Data.3.Value.2.Value.5",
+    "key": "F26891654D82D7B3252AB1AE1AB36AD1",
+    "text": "(выбрал нижнюю койку)",
+    "originalText": "(picked bot)"
+  },
+  {
+    "path": "Exports.84.Data.3.Value.4.Value.5",
+    "key": "BE3981E14876377541147E8B2D93C71A",
+    "text": "(никогда не говорил)",
+    "originalText": "(never talked)"
+  },
+  {
+    "path": "Exports.85.Data.0",
+    "key": "CFE694DF41CAED3806949D851251808E",
+    "text": "Ладно, чувак. Ты готов?",
+    "originalText": "Alright, man. You good to go?"
+  },
+  {
+    "path": "Exports.85.Data.7.Value.0.Value.5",
+    "key": "DA648FF740A52D4BCDFF568029361F36",
+    "text": "Ага, чувак. Погнали.",
+    "originalText": "Yeah, man. Let's roll."
+  },
+  {
+    "path": "Exports.85.Data.7.Value.1.Value.5",
+    "key": "E31ECDFA4C2F15C4E5DF13AFD4633D72",
+    "text": "Вообще, дай мне секунду.",
+    "originalText": "Actually, give me one second."
+  },
+  {
+    "path": "Exports.86.Data.0",
+    "key": "18FDC08747AAA5C649F0BC9198BAA798",
+    "text": "Круто. Хочешь положить это или что?",
+    "originalText": "Cool. Do you want to put it down, or something?"
+  },
+  {
+    "path": "Exports.86.Data.5.Value.0.Value.5",
+    "key": "E8203B594CE6FD779E2428AD2C445063",
+    "text": "Ага.",
+    "originalText": "Yeah."
+  },
+  {
+    "path": "Exports.86.Data.5.Value.1.Value.5",
+    "key": "BE2C87B646A81DE80EB850AB327FCD8E",
+    "text": "[Пожимает плечами]",
+    "originalText": "[Shrug]"
+  },
+  {
+    "path": "Exports.86.Data.5.Value.2.Value.5",
+    "key": "5914FB6A4B4A4954C87608B96D48AEBC",
+    "text": "Не, я в порядке. Работаю над силой верхней части тела.",
+    "originalText": "Nah, I'm good. I'm working on my upper body strength."
+  },
+  {
+    "path": "Exports.87.Data.0",
+    "key": "B3152637405AA962677F0E8FC73F3949",
+    "text": "Ха! Я с трудом держу кисть, чувак. Но мне нравятся картины.",
+    "originalText": "Hah! I can barely hold a brush, man. I like paintings, though."
+  },
+  {
+    "path": "Exports.87.Data.6.Value.0.Value.5",
+    "key": "4DC0C0764211BE15C75792971F5269FD",
+    "text": "Тогда скажи, что ты изучаешь?",
+    "originalText": "Tell me, then. What do you study?"
+  },
+  {
+    "path": "Exports.88.Data.0",
+    "key": "944AC6EC44355F2BF19CABAB90E21E3D",
+    "text": "Не, услышишь, как я пою, только когда я в хлам пьяный. Я не умею играть или петь, но у меня есть парочка пластинок, могу показать позже.",
+    "originalText": "Nah, the only times you'll hear me sing is when I'm drunk off my balls. I can't play or sing, but I've got some records I could show you later?"
+  },
+  {
+    "path": "Exports.88.Data.6.Value.0.Value.5",
+    "key": "7AC3F2E044FD32F9574EC6AA621F2809",
+    "text": "Тогда скажи, что ты изучаешь?",
+    "originalText": "Tell me, then. What do you study?"
+  },
+  {
+    "path": "Exports.89.Data.0",
+    "key": "460213D646B5763F07EE768A9C5B38A8",
+    "text": "Классическое искусство, чувак! Что, я не похож на такой тип?",
+    "originalText": "Classical arts, man! What, I don't look like the type?"
+  },
+  {
+    "path": "Exports.89.Data.6.Value.0.Value.5",
+    "key": "757BA8FE4D267B1C0679AC99C677FA5A",
+    "text": "Не, похож.",
+    "originalText": "Nah, you do."
+  },
+  {
+    "path": "Exports.89.Data.6.Value.1.Value.5",
+    "key": "DAEEC6FB4C6C076084DF62A405E65CD3",
+    "text": "Ты выглядишь как Ларри.",
+    "originalText": "You look like Larry."
+  },
+  {
+    "path": "Exports.89.Data.6.Value.2.Value.5",
+    "key": "7BBD6C0B4DAEC03447FE86B1175D65A5",
+    "text": "Не может быть. Ты выглядишь так, будто изучаешь бухгалтерию.",
+    "originalText": "No way. You look like you study accounting."
+  },
+  {
+    "path": "Exports.90.Data.0",
+    "key": "E732D90342B55C3CB642B6883B6EFA7E",
+    "text": "Договор есть договор, чувак! Я не позволю тебе увиливать от будущих споров, которые ты проиграешь, так что и я не стану увиливать от этого.",
+    "originalText": "A deal's a deal, man! I'm not gonna let you weasel out of any future bets you lose, so I'm not going to weasel my way out of this one."
+  },
+  {
+    "path": "Exports.90.Data.5.Value.0.Value.5",
+    "key": "9F7AE2DD4E727669DDE5C5BBDDD95523",
+    "text": "Будущих споров, которые я проиграю, не будет, лузер.",
+    "originalText": "There aren't going to be any future bets I lose, loser."
+  },
+  {
+    "path": "Exports.90.Data.5.Value.1.Value.5",
+    "key": "296504234C2C445A26C95184C3EE0A31",
+    "text": "Как скажешь, чувак! Ты готов идти?",
+    "originalText": "Suit yourself, man! You ready to go?"
+  },
+  {
+    "path": "Exports.91.Data.0",
+    "key": "2F188FCE46263AFB01BC4FBE427CE509",
+    "text": "Ага, ага, не зазнавайся! Это был только первый спор из многих.",
+    "originalText": "Yeah yeah, don't let it get to your head! That was just the first bet of many."
+  },
+  {
+    "path": "Exports.91.Data.5.Value.0.Value.5",
+    "key": "2B6F8D9F44A5A54C23FA45BD681CDF0A",
+    "text": "Начинаем с сильного старта — 1-0 в пользу Хауи.",
+    "originalText": "Starting off strong with a 1-0 to Howie."
+  },
+  {
+    "path": "Exports.91.Data.5.Value.1.Value.5",
+    "key": "BA61A5364A7E9DEBD923BC8E37AC8F9A",
+    "text": "Я просто шучу. Ты готов идти?",
+    "originalText": "I'm just teasing. Are you ready to go?"
+  },
+  {
+    "path": "Exports.92.Data.0",
+    "key": "1D7620584FF30F5B033A4F931205D39D",
+    "text": "Ну, в любом случае, сегодня я не плачу за обед. Ты готов прямо сейчас пойти за ним?",
+    "originalText": "Well either way, I'm not paying for my lunch today. You ready to grab it right away?"
+  },
+  {
+    "path": "Exports.92.Data.5.Value.0.Value.5",
+    "key": "673B455A4338A2023620C69F70DF990F",
+    "text": "Конечно, пошли.",
+    "originalText": "Sure, let's go."
+  },
+  {
+    "path": "Exports.92.Data.5.Value.1.Value.5",
+    "key": "A84381FC42C6408D15D90DAECE1A92DD",
+    "text": "Еще нет — дай мне секунду. Я скоро вернусь.",
+    "originalText": "Not yet - give me a second. I'll be back in a bit."
+  },
+  {
+    "path": "Exports.93.Data.0",
+    "key": "276157DD457733D21511F18778ABE3B1",
+    "text": "Я выгляжу как человек, которого сегодня угостят обедом. Ты готов?",
+    "originalText": "I look like someone who's about to be treated to lunch. You good to go?"
+  },
+  {
+    "path": "Exports.93.Data.5.Value.0.Value.5",
+    "key": "7352EC384D594DB4F0B9E8B4B9F2B64B",
+    "text": "Конечно, пошли.",
+    "originalText": "Sure, let's go."
+  },
+  {
+    "path": "Exports.93.Data.5.Value.1.Value.5",
+    "key": "137173FF49815D907346129A4D6ABEB8",
+    "text": "Еще нет — дай мне секунду. Я скоро вернусь.",
+    "originalText": "Not yet - give me a second. I'll be back in a bit."
+  },
+  {
+    "path": "Exports.94.Data.0",
+    "key": "149A76B0447962BB892F0A86285C4813",
+    "text": "Ага, ну. По крайней мере, сегодня я не плачу за обед. Давай, двигаемся.",
+    "originalText": "Yeah, well. At least I'm not paying for lunch today. Come on, let's get moving."
+  },
+  {
+    "path": "Exports.94.Data.5.Value.0.Value.5",
+    "key": "BCDE7EFA47C04877BB2103B660A1CE3E",
+    "text": "Конечно, пошли.",
+    "originalText": "Sure, let's go."
+  },
+  {
+    "path": "Exports.94.Data.5.Value.1.Value.5",
+    "key": "95943D95489CFDE8AC8DD5AD739017EF",
+    "text": "Еще нет — дай мне секунду. Я скоро вернусь.",
+    "originalText": "Not yet - give me a second. I'll be back in a bit."
+  },
+  {
+    "path": "Exports.95.Data.0",
+    "key": "8BFF0F44417F6A61311B27ACB47C2241",
+    "text": "Пф. Этот парень? Я — Король Возвращения. В любом случае, ты готов? Я голоден.",
+    "originalText": "Psh. This guy right here? I'm the Comeback Kid. Anyway, you good to go? I'm starving."
+  },
+  {
+    "path": "Exports.95.Data.6.Value.0.Value.5",
+    "key": "99EC74BB40C2E61F4E29A8B1887E26C3",
+    "text": "Конечно, пошли.",
+    "originalText": "Sure, let's go."
+  },
+  {
+    "path": "Exports.95.Data.6.Value.1.Value.5",
+    "key": "BF3FA4F04DC8EDE54294DD8ED7BCA1D8",
+    "text": "Еще нет — дай мне секунду. Я скоро вернусь.",
+    "originalText": "Not yet - give me a second. I'll be back in a bit."
+  },
+  {
+    "path": "Exports.96.Data.0",
+    "key": "D8C9138E4251DF7097AF0995D6CEC459",
+    "text": "Ага, конечно. Я, честно, голоден. Хочешь сразу пойти?",
+    "originalText": "Yeah, sure. I'm starving, honestly. You wanna head out straight away?"
+  },
+  {
+    "path": "Exports.96.Data.5.Value.0.Value.5",
+    "key": "41144C794D3DCF2431530FA0D2C371D1",
+    "text": "Конечно, пошли.",
+    "originalText": "Sure, let's go."
+  },
+  {
+    "path": "Exports.96.Data.5.Value.1.Value.5",
+    "key": "80F2E92D4C0B331511175AB17405D7E1",
+    "text": "Еще нет — дай мне секунду. Я скоро вернусь.",
+    "originalText": "Not yet - give me a second. I'll be back in a bit."
+  },
+  {
+    "path": "Exports.97.Data.0",
+    "key": "D2A583834000895565BE498FBC496440",
+    "text": "Договорились, чувак. Я хотел спросить, не хочешь ли ты положить это?",
+    "originalText": "You got it, dude. I was gonna ask if you wanted to put it down?"
+  },
+  {
+    "path": "Exports.97.Data.6.Value.0.Value.5",
+    "key": "84A2A4F44995ECB568691D8F45E1F5E3",
+    "text": "Ну, если тебе так удобнее...",
+    "originalText": "I mean, if that'll make you more comfortable..."
+  },
+  {
+    "path": "Exports.97.Data.6.Value.1.Value.5",
+    "key": "008847EC45CCEB50823175B9733F636B",
+    "text": "Эх, мне все равно. Я действительно очень сильный.",
+    "originalText": "Eh, I don't mind. I really am very strong."
+  },
+  {
+    "path": "Exports.98.Data.0",
+    "key": "71C58B604B7706504A1395B985D050A3",
+    "text": "Это сделает еду еще вкуснее. Спор есть спор, чувак.",
+    "originalText": "That's gonna make the food taste all the better. A bet's a bet, man."
+  },
+  {
+    "path": "Exports.98.Data.7.Value.0.Value.5",
+    "key": "3232D4514A83BBB7D6A7C4B53112B8F9",
+    "text": "Спор есть спор.",
+    "originalText": "A bet's a bet."
+  },
+  {
+    "path": "Exports.99.Data.0",
+    "key": "54F594A64ACF844BFF1A70BD548C22E5",
+    "text": "Ладно, пошли!",
+    "originalText": "Alright, let's get going!"
+  },
+  {
+    "path": "Exports.99.Data.6.Value.0.Value.5",
+    "key": "5EAF512943ECE75F9E5DA9A4E882FEE0",
+    "text": "[Уйти]",
+    "originalText": "[Leave]"
+  },
+  {
+    "path": "Exports.100.Data.0",
+    "key": "7373DA62495A1B05975582A666FA20D4",
+    "text": "Ладно, ладно. Не задерживайся, чувак! Я реально проголодался.",
+    "originalText": "Alright, alright. Don't take too long, man! I'm getting real hungry."
+  },
+  {
+    "path": "Exports.100.Data.6.Value.0.Value.5",
+    "key": "6C5081A44AC91BADF33A4E9A1F6771C0",
+    "text": "[Уйти]",
+    "originalText": "[Leave]"
+  },
+  {
+    "path": "Exports.101.Data.0",
+    "key": "237B676D458E3DAAC5AC39B42B97BAD1",
+    "text": "Окей. Круто. Вот, выбери, какую койку хочешь, пока ты здесь.",
+    "originalText": "Okay. Cool. Here, pick which bunk you want while you're at it."
+  },
+  {
+    "path": "Exports.101.Data.6.Value.0.Value.5",
+    "key": "8B9AB2174ACD3AB21ED9CEAB5EE6A91C",
+    "text": "У тебя есть предпочтения?",
+    "originalText": "Do you have a preference?"
+  },
+  {
+    "path": "Exports.101.Data.6.Value.1.Value.5",
+    "key": "79AEE0F34FA6B86A149C33A010857009",
+    "text": "Конечно.",
+    "originalText": "Sure thing."
+  },
+  {
+    "path": "Exports.102.Data.0",
+    "key": "23EA90C14AB2D731E1710AAA15F5A362",
+    "text": "...Ты в порядке, чувак? Слушай, просто поставь коробку, ладно? Выбери койку и положи её туда.",
+    "originalText": "...You good, dude? Listen, just put down the box, alright? Pick which bunk you want and put it there."
+  },
+  {
+    "path": "Exports.102.Data.6.Value.0.Value.5",
+    "key": "391F25804DE45F755D1C819DBD4419BB",
+    "text": "У тебя есть предпочтения?",
+    "originalText": "Do you have a preference?"
+  },
+  {
+    "path": "Exports.102.Data.6.Value.1.Value.5",
+    "key": "7FD42B83428F384D96BD16AC18CC98F2",
+    "text": "Занимаюсь этим.",
+    "originalText": "On it."
+  },
+  {
+    "path": "Exports.103.Data.0",
+    "key": "3E996C9943E44A6464FBE199D502556B",
+    "text": "Круто. Круто. Ну, когда закончишь тренировку, выбери койку и положи туда, ладно?",
+    "originalText": "Cool. Cool. Well, when you're done working out, pick a bunk and put it down there, alright?"
+  },
+  {
+    "path": "Exports.103.Data.6.Value.0.Value.5",
+    "key": "E023B6FA494EB8FAE83812894C3E4752",
+    "text": "Ага, конечно.",
+    "originalText": "Yeah, sure."
+  },
+  {
+    "path": "Exports.103.Data.6.Value.1.Value.5",
+    "key": "3A1A6E8D42DF8CAACF0AB7AA1BDFE613",
+    "text": "Я в порядке.",
+    "originalText": "I'm good."
+  },
+  {
+    "path": "Exports.104.Data.0",
+    "key": "E5FDF45E40CAA139AE63F1892E1ED066",
+    "text": "Да? Ладно, если настаиваешь. Ты классный парень, Хауи. Ценю это.",
+    "originalText": "Yeah? Alright, if you insist. You're a stand-up guy, Howie. Appreciate it."
+  },
+  {
+    "path": "Exports.104.Data.6.Value.0.Value.5",
+    "key": "2F60D56C46BE5C1ED9354EAFD07C19BF",
+    "text": "Договорились, Ларри.",
+    "originalText": "You got it, Larry."
+  },
+  {
+    "path": "Exports.105.Data.0",
+    "key": "480C767C4B6129E09097E09F0D7F62D3",
+    "text": "Чувак, я устаю, просто глядя на то, как ты держишь эту штуку. Выбери койку, положи её, и потом поговорим, ладно?",
+    "originalText": "Dude, I'm getting tired just looking at you holding that thing. Pick a bunk, put it down, and then we'll talk, alright?"
+  },
+  {
+    "path": "Exports.105.Data.6.Value.0.Value.5",
+    "key": "8A9B043A45A9EB158D5395B74CA513A6",
+    "text": "Ладно.",
+    "originalText": "Alright."
+  },
+  {
+    "path": "Exports.105.Data.6.Value.1.Value.5",
+    "key": "247F48F24CBDAAC20FA6D0A69429E638",
+    "text": "Посмотрим.",
+    "originalText": "We'll see."
+  },
+  {
+    "path": "Exports.106.Data.0",
+    "key": "2F50EAF34B946CF558642E84F8161C70",
+    "text": "Я думал взять верхнюю койку, но ты выбирай. Мне все равно.",
+    "originalText": "I was thinking of taking top bunk, but you pick. I don't mind."
+  },
+  {
+    "path": "Exports.106.Data.5.Value.0.Value.5",
+    "key": "2D9A8F6144BFE5A1E9BE2C84C7D12B9B",
+    "text": "Спасибо, чувак.",
+    "originalText": "Thanks, man."
+  },
+  {
+    "path": "Exports.106.Data.5.Value.1.Value.5",
+    "key": "D410B767409B7D64ADD795B863305781",
+    "text": "Я тоже надеялся на верхнюю койку. Дай мне секунду.",
+    "originalText": "I was hoping for top bunk too. Give me a second."
+  },
+  {
+    "path": "Exports.107.Data.0",
+    "key": "617263EE45791B5EA176DB950AF47945",
+    "text": "В этот раз, да. Посмотрим, что будет в следующий. Давай, Хауи. Пошли за обедом.",
+    "originalText": "This time, yeah. We'll see about the next. Come on, Howie. Let's grab lunch."
+  },
+  {
+    "path": "Exports.107.Data.7.Value.0.Value.5",
+    "key": "6F73A10A40A20893099267A20C93C25A",
+    "text": "Веди, лузер.",
+    "originalText": "Lead the way, loser."
+  },
+  {
+    "path": "Exports.108.Data.0",
+    "key": "2585C73049CBF1CFDE3E398A5A82D595",
+    "text": "Ха. Ты мне уже нравишься, чувак. Поставь коробку на одну из коек, ладно? Она выглядит тяжелой.",
+    "originalText": "Hah. I already like you, man. Put the box down in one of the bunks, will you? That thing looks heavy."
+  },
+  {
+    "path": "Exports.108.Data.6.Value.0.Value.5",
+    "key": "7F94745A41C4F7E5817E3A927A166966",
+    "text": "Конечно. У тебя есть предпочтения?",
+    "originalText": "Sure. Do you have a preference?"
+  },
+  {
+    "path": "Exports.108.Data.6.Value.1.Value.5",
+    "key": "9AE8C4F94B19DE39122ABCBE9F18793F",
+    "text": "Занимаюсь этим.",
+    "originalText": "On it."
+  },
+  {
+    "path": "Exports.109.Data.0",
+    "key": "65B6222A415E9F1B575A31B9A0F9B22D",
+    "text": "Отлично. Я голоден.",
+    "originalText": "Sweet. I'm starving."
+  },
+  {
+    "path": "Exports.109.Data.6.Value.0.Value.5",
+    "key": "C32F314A41110347D1E9B3909AF3295F",
+    "text": "(СОЦИАЛЬНО) Давай начнем всё правильно. Мы делим счет.",
+    "originalText": "(SOCIAL) Let's start things off right, though. We're splitting the bill."
+  },
+  {
+    "path": "Exports.109.Data.6.Value.1.Value.5",
+    "key": "9B4CEEEC4992C530423644A15A339580",
+    "text": "И платим.",
+    "originalText": "And paying."
+  },
+  {
+    "path": "Exports.109.Data.6.Value.2.Value.5",
+    "key": "D9F37653421836F2EDB73489EF193FFB",
+    "text": "Точно.",
+    "originalText": "Same same."
+  },
+  {
+    "path": "Exports.109.Data.6.Value.3.Value.5",
+    "key": "026AD1824DA9499BF32037B6B11EEE5E",
+    "text": "Но ты не платишь, так что вот.",
+    "originalText": "But you're not paying, so there's that."
+  },
+  {
+    "path": "Exports.110.Data.0",
+    "key": "B7541A4448B2E0736D8DE2A5F66A67C0",
+    "text": "Посмотрим, Хауард. Я Ларри. Приятно познакомиться. Что думаешь пока?",
+    "originalText": "We'll see about that, Howard. I'm Larry. Good to meet you. What do you think so far?"
+  },
+  {
+    "path": "Exports.110.Data.5.Value.0.Value.5",
+    "key": "551C23CE423ECFCB758591BB653FC5D3",
+    "text": "О чем?",
+    "originalText": "What do I think about what?"
+  },
+  {
+    "path": "Exports.111.Data.0",
+    "key": "28AB419D42C204661F9CF689A9111577",
+    "text": "Ларри. Ценю это, Хауард. Ну? Какие мысли?",
+    "originalText": "Larry. Appreciate it, Howard. Well? Thoughts so far?"
+  },
+  {
+    "path": "Exports.111.Data.5.Value.0.Value.5",
+    "key": "A4B6373B450155C261557EB745B108CD",
+    "text": "О чем?",
+    "originalText": "On what?"
+  },
+  {
+    "path": "Exports.112.Data.0",
+    "key": "96600CD04967DA6344F984A02A95B995",
+    "text": "Справедливо, справедливо. Но всё в порядке — нижняя койка значит, что я могу просто рухнуть на неё.",
+    "originalText": "Fair, fair. It's all good, though - bottom bunk means I can just collapse onto it."
+  },
+  {
+    "path": "Exports.112.Data.6.Value.0.Value.5",
+    "key": "316605DD45D9BE17AA6E719DD2BE5F0A",
+    "text": "Подожди, это умно. Ладно, давай поменяемся.",
+    "originalText": "Wait, that's smart. Alright, let's swap."
+  },
+  {
+    "path": "Exports.112.Data.6.Value.1.Value.5",
+    "key": "AB0153B64A99F69E8FDF60A30C35AF72",
+    "text": "Отлично! Все довольны.",
+    "originalText": "Nice! Everyone's happy."
+  },
+  {
+    "path": "Exports.113.Data.0",
+    "key": "C948E44B43B504EB348C119B7F0F9295",
+    "text": "Не, всё нормально. Так я могу просто броситься на неё, когда смертельно устану.",
+    "originalText": "Nah, it's fine. Like this I can just throw myself onto it when I'm dead tired."
+  },
+  {
+    "path": "Exports.113.Data.6.Value.0.Value.5",
+    "key": "A0AEC68C4755216D2723B8B98E688523",
+    "text": "Черт. Немного жалею о своем решении.",
+    "originalText": "Shit. Kinda regretting my decision here."
+  },
+  {
+    "path": "Exports.113.Data.6.Value.1.Value.5",
+    "key": "0A08BB3849F9F980A50CCC8DB0F9FBA3",
+    "text": "Идеально.",
+    "originalText": "Perfect."
+  },
+  {
+    "path": "Exports.114.Data.0",
+    "key": "DFA7CCC14BB3F4D6ED18259B42AB8FB4",
+    "text": "Никаких возвратов! Я, кстати, Ларри.",
+    "originalText": "No takebacks! I'm Larry, by the way."
+  },
+  {
+    "path": "Exports.114.Data.6.Value.0.Value.5",
+    "key": "971EA72848E5C282D462E78B92259C91",
+    "text": "Хауард. Приятно познакомиться.",
+    "originalText": "Howard. Good to meet you."
+  },
+  {
+    "path": "Exports.114.Data.6.Value.1.Value.5",
+    "key": "F1B5D4FD46FFCE72170BBA91C6C434FA",
+    "text": "Как дела, Ларри? Я Хауард.",
+    "originalText": "What's up, Larry? I'm Howard."
+  },
+  {
+    "path": "Exports.115.Data.0",
+    "key": "8EC690C8437A0F84E63AB7A713DFC15D",
+    "text": "Ага, чувак! Я, кстати, Ларри.",
+    "originalText": "Yeah, man! I'm Larry, by the way."
+  },
+  {
+    "path": "Exports.115.Data.6.Value.0.Value.5",
+    "key": "8B4132844959CA73D7172AB47430E912",
+    "text": "Хауард. Приятно познакомиться.",
+    "originalText": "Howard. Good to meet you."
+  },
+  {
+    "path": "Exports.115.Data.6.Value.1.Value.5",
+    "key": "5C5FEF0B4EAA61F9B0FD98B2CF3F4267",
+    "text": "Как дела, Ларри? Я Хауард.",
+    "originalText": "What's up, Larry? I'm Howard."
+  },
+  {
+    "path": "Exports.116.Data.0",
+    "key": "B014E02F4116C4BBBC1A8B8D57B1D458",
+    "text": "Точно. Так что — мысли?",
+    "originalText": "Likewise. So - thoughts?"
+  },
+  {
+    "path": "Exports.116.Data.5.Value.0.Value.5",
+    "key": "0691643248F4CD49230C4A8EB0BEF5C1",
+    "text": "О чем?",
+    "originalText": "On what?"
+  },
+  {
+    "path": "Exports.117.Data.0",
+    "key": "E0EF61E44940AA19CCE7A09406C296CD",
+    "text": "Приятно познакомиться, Хауард. Ну? Что думаешь пока?",
+    "originalText": "Nice to meet you, Howard. Well? What do you think so far?"
+  },
+  {
+    "path": "Exports.117.Data.5.Value.0.Value.5",
+    "key": "768860A64CF947FA57FCA68E85E47D68",
+    "text": "О чем?",
+    "originalText": "What do I think about what?"
+  },
+  {
+    "path": "Exports.118.Data.0",
+    "key": "4B71DF8347EB7BE1A5B8AD92C48DF21E",
+    "text": "Конечно, чувак! Выбери одну из коек и брось туда.",
+    "originalText": "Of course, dude! Pick one of the bunks and chuck it in there."
+  },
+  {
+    "path": "Exports.118.Data.6.Value.0.Value.5",
+    "key": "6F3520B443410ADC1DA15893FFB83815",
+    "text": "Спасибо, чувак. Ты уже выбрал?",
+    "originalText": "Thanks, man. Did you pick yet?"
+  },
+  {
+    "path": "Exports.118.Data.6.Value.1.Value.5",
+    "key": "6DEAE09A4C0A2CEF334EA5925F02AC53",
+    "text": "Занимаюсь этим.",
+    "originalText": "On it."
+  },
+  {
+    "path": "Exports.119.Data.0",
+    "key": "90DCCBFA4A2582263729CD8FD7042F10",
+    "text": "Университет! Общежитие, всё! О, ты встречал Висконсина в коридоре?",
+    "originalText": "The university! The dorm, everything! Oh - did you meet Wisconsin in the hall?"
+  },
+  {
+    "path": "Exports.119.Data.6.Value.0.Value.5",
+    "key": "8355B7134739B0016B57E0928EE6DE92",
+    "text": "RA? Ага.",
+    "originalText": "The RA? Yeah."
+  },
+  {
+    "path": "Exports.119.Data.6.Value.1.Value.5",
+    "key": "7ED9F9044DDDF511CD05EB8C1D78B2B6",
+    "text": "К сожалению.",
+    "originalText": "Unfortunately."
+  },
+  {
+    "path": "Exports.119.Data.6.Value.2.Value.5",
+    "key": "117B5BE9454806617738D6B765F18A05",
+    "text": "Ага. У него были запланированы активности.",
+    "originalText": "Yep. He had some activites planned."
+  },
+  {
+    "path": "Exports.120.Data.0",
+    "key": "A7725E88465FD3788BF38EB3459C1ADD",
+    "text": "О, ты тоже хотел верхнюю койку?",
+    "originalText": "Oh, you wanted top bunk too?"
+  },
+  {
+    "path": "Exports.120.Data.7.Value.0.Value.5",
+    "key": "68260F234B98139EBA7D7BA13B347C70",
+    "text": "Чувак, конечно. Все хотят.",
+    "originalText": "Dude, of course. Everyone does."
+  },
+  {
+    "path": "Exports.120.Data.7.Value.1.Value.5",
+    "key": "75714E434CC19B4DE46BB8A288FD56A0",
+    "text": "Можем поменяться, если хочешь.",
+    "originalText": "We can switch, if you want."
+  },
+  {
+    "path": "Exports.121.Data.0",
+    "key": "437B735D4287654FB19DF6A24C75C849",
+    "text": "Он тоже отправил тебя на охоту за сокровищами? Что думаешь об этом?",
+    "originalText": "Did he send you on a scavenger hunt, too? What did you think of it?"
+  },
+  {
+    "path": "Exports.121.Data.5.Value.0.Value.5",
+    "key": "1483B2054FC7A73BAA9F3DBA93A1D7C8",
+    "text": "Нормально. Не заняло много времени.",
+    "originalText": "It was alright. Didn't take long."
+  },
+  {
+    "path": "Exports.121.Data.5.Value.1.Value.5",
+    "key": "D2740F4B4A0ACB9424DB3FAB6B65B459",
+    "text": "Я попросил его дать мне загадку.",
+    "originalText": "I had him give me a riddle instead."
+  },
+  {
+    "path": "Exports.121.Data.5.Value.2.Value.5",
+    "key": "FAE879FB4B555A83199741B4007D636D",
+    "text": "Я просто не стал этого делать. Слишком устал.",
+    "originalText": "I just didn't do it. Too tired."
+  },
+  {
+    "path": "Exports.122.Data.0",
+    "key": "4AA91FDC4B4DC786EAB264832CBBDC82",
+    "text": "Ха! Он добрый. Думаю, он хороший парень, просто немного нервничает из-за того, что он RA.",
+    "originalText": "Hah! He means well. I think he's a good dude, just a little anxious about being the RA."
+  },
+  {
+    "path": "Exports.122.Data.5.Value.0.Value.5",
+    "key": "79F5CB8C43A9B129E27990B7A4F3663D",
+    "text": "Не говори.",
+    "originalText": "You don't say."
+  },
+  {
+    "path": "Exports.122.Data.5.Value.1.Value.5",
+    "key": "74B5A986475CA38DA419A2A19EF3EA4C",
+    "text": "Наверное, да. Он хотел отправить меня искать что-то.",
+    "originalText": "Probably, yeah. He wanted to send me off to look for stuff."
+  },
+  {
+    "path": "Exports.123.Data.0",
+    "key": "077D4D814151F12711125CA09D162AFA",
+    "text": "Охота за сокровищами, да? Как прошло?",
+    "originalText": "The scavenger hunt, huh? How was it?"
+  },
+  {
+    "path": "Exports.123.Data.5.Value.0.Value.5",
+    "key": "134A1474481AC066F394E38036510839",
+    "text": "Нормально. Не заняло много времени.",
+    "originalText": "It was alright. Didn't take long."
+  },
+  {
+    "path": "Exports.123.Data.5.Value.1.Value.5",
+    "key": "C2EE893C46D062D57AEA28905EA5F99D",
+    "text": "Я попросил его дать мне загадку.",
+    "originalText": "I had him give me a riddle instead."
+  },
+  {
+    "path": "Exports.123.Data.5.Value.2.Value.5",
+    "key": "FB4EE2E244DC45ECC762D3B99A639F38",
+    "text": "Я просто не стал этого делать. Слишком устал.",
+    "originalText": "I just didn't do it. Too tired."
+  },
+  {
+    "path": "Exports.124.Data.0",
+    "key": "4A90D4714B4225C484718196508AF841",
+    "text": "Это было довольно легко, да? Пролетел. Хотя, я не тащил с собой большую коробку, когда приехал.",
+    "originalText": "It was pretty easy, wasn't it? Breezed through it. Then again, I wasn't carrying a big box when I got here."
+  },
+  {
+    "path": "Exports.124.Data.5.Value.0.Value.5",
+    "key": "A8B1CE394480A961A4AF0189DC213CAC",
+    "text": "Тебе бы хотелось, лузер.",
+    "originalText": "You wish you were, loser."
+  },
+  {
+    "path": "Exports.124.Data.5.Value.1.Value.5",
+    "key": "24EBCC9D42AB224463629C9D8A1EFEE1",
+    "text": "Повезло тебе.",
+    "originalText": "Lucky you."
+  },
+  {
+    "path": "Exports.124.Data.5.Value.2.Value.5",
+    "key": "CD0674104733DFFA325487BFDADC98F5",
+    "text": "Давай больше не будем говорить о коробке.",
+    "originalText": "Let's never talk about the box again."
+  },
+  {
+    "path": "Exports.125.Data.0",
+    "key": "0F0614B6405134DF598228A4FCB31631",
+    "text": "Так у него был запасной план, да? Хорошо для него. И хорошо для тебя, что пропустил охоту.",
+    "originalText": "So he had a backup plan, huh? Good for him. And good for you, skipping out on the scavenging."
+  },
+  {
+    "path": "Exports.125.Data.5.Value.0.Value.5",
+    "key": "87543ADB450B4A95753A1ABA1DECA9F2",
+    "text": "Ты скажи. Что тебе пришлось делать?",
+    "originalText": "You tell me. What did you have to do?"
+  },
+  {
+    "path": "Exports.125.Data.5.Value.1.Value.5",
+    "key": "6A31C95345168F1CE23AF1AC59DDA7DD",
+    "text": "Он хороший парень. Просто немного нервный.",
+    "originalText": "He's a good guy. Just a little nervous."
+  },
+  {
+    "path": "Exports.126.Data.0",
+    "key": "D7FD1A5A4DD5A284DA82CF836A3F2863",
+    "text": "Это было вариантом? Чувак, жаль, что я не знал. Он заставил меня искать в коридоре крошечную записку и газету в мусоре.",
+    "originalText": "That was an option? Man, I wish I'd known. He had me searching the hall for a tiny note and a newspaper in the trash."
+  },
+  {
+    "path": "Exports.126.Data.6.Value.0.Value.5",
+    "key": "E284D61D4B667EF83603B1BA26B44DC6",
+    "text": "Чувствую себя немного виноватым, честно.",
+    "originalText": "I feel a little bad, honestly."
+  },
+  {
+    "path": "Exports.126.Data.6.Value.1.Value.5",
+    "key": "64624C444BE0AF0DEDF2BE913EAE546A",
+    "text": "Это даже хуже, чем я думал. Рад, что пропустил.",
+    "originalText": "That's even lamer than I thought it'd be. Glad I missed it."
+  },
+  {
+    "path": "Exports.127.Data.0",
+    "key": "3E06A42C417B5CD1738843BA529181A5",
+    "text": "Тогда двигайся, лузер. Пошли за едой.",
+    "originalText": "Then move it, loser. Let's go get some grub."
+  },
+  {
+    "path": "Exports.127.Data.6.Value.0.Value.5",
+    "key": "D7788C9448989653F2171A95735E0193",
+    "text": "Пошли.",
+    "originalText": "Let's go."
+  },
+  {
+    "path": "Exports.127.Data.6.Value.1.Value.5",
+    "key": "502428434A7AF631E9D3DE93F9A4846E",
+    "text": "Конечно, лузер.",
+    "originalText": "Sure thing, loser."
+  },
+  {
+    "path": "Exports.128.Data.0",
+    "key": "1AAD3D78496C73E0F0556AAE3EA8424A",
+    "text": "Ты покажешь мне, что у тебя в коробке, как-нибудь. А теперь давай, расскажи мне о Хауарде, лузер.",
+    "originalText": "You'll have to show me what you've got in the box sometime. Now come on, tell me about Howard, loser."
+  },
+  {
+    "path": "Exports.128.Data.6.Value.0.Value.5",
+    "key": "36BF5D7647DB5ED1883E85B24D3E5B97",
+    "text": "Что ты хочешь знать?",
+    "originalText": "What do you want to know?"
+  },
+  {
+    "path": "Exports.129.Data.0",
+    "key": "05D1F19F48AB295909CE31B14CD7F46E",
+    "text": "Мне повезло, да? Ладно, чувак, расскажи мне о Хауарде!",
+    "originalText": "Lucky me indeed. Alright, man, tell me about Howard!"
+  },
+  {
+    "path": "Exports.129.Data.5.Value.0.Value.5",
+    "key": "8D65C5964A78C9DAE3761C968C761AEF",
+    "text": "Например?",
+    "originalText": "Like what?"
+  },
+  {
+    "path": "Exports.130.Data.0",
+    "key": "A0653B214124661B0F5174912B844345",
+    "text": "Конечно. Давай поговорим о тебе, чувак. Расскажи мне о Хауарде.",
+    "originalText": "Sure. Let's talk about you, man. Tell me about Howard."
+  },
+  {
+    "path": "Exports.130.Data.5.Value.0.Value.5",
+    "key": "8D768997448A4F0A27A32B8E31CCFC25",
+    "text": "Что ты хочешь знать?",
+    "originalText": "What do you want to know?"
+  },
+  {
+    "path": "Exports.131.Data.0",
+    "key": "7EAB8E864E11C25509ED4A8D85582EC9",
+    "text": "Нижняя койка, да? Идеально! Я уже настроился на верхнюю.",
+    "originalText": "Bottom bunk, huh? Perfect! I already had my heart set on top bunk."
+  },
+  {
+    "path": "Exports.131.Data.7.Value.0.Value.5",
+    "key": "1B8B3E1B45EDD9984D22E8BD9D3F6BF7",
+    "text": "Ты мне должен. Я, кстати, Хауард.",
+    "originalText": "You'll owe me one. I'm Howard, by the way."
+  },
+  {
+    "path": "Exports.131.Data.7.Value.1.Value.5",
+    "key": "0888C81B43C618058F4D09943C5BD3E4",
+    "text": "Я понял, так что можешь взять её. Меня зовут Хауард.",
+    "originalText": "I figured, so you can have it. Name's Howard."
+  },
+  {
+    "path": "Exports.132.Data.0",
+    "key": "3C647D594D281B0C976B45A19CFB195F",
+    "text": "Нужно было найти что-то новое и что-то синее, кажется. Дал ему газету и синюю записку, на которой он нарисовал смайлик.",
+    "originalText": "Had to find something new and something blue, I think. Got him a newspaper and a blue note he had scribbled a smiley on."
+  },
+  {
+    "path": "Exports.132.Data.5.Value.0.Value.5",
+    "key": "8F326D0D47FE93BBB040838D4AF78FC6",
+    "text": "Серьезно? Теперь я чувствую себя немного виноватым, что не сделал этого.",
+    "originalText": "Really? I feel a little bad for not doing it now."
+  },
+  {
+    "path": "Exports.132.Data.5.Value.1.Value.5",
+    "key": "5E36F9CD42F54D6D1930B3902E31C0D4",
+    "text": "Это даже хуже, чем я думал. Рад, что пропустил.",
+    "originalText": "That's even lamer than I thought it'd be. Glad I missed it."
+  },
+  {
+    "path": "Exports.133.Data.0",
+    "key": "907FC10C42658C760177E889D7DB188F",
+    "text": "Ага. Если что, он серьезно относится к своей роли RA. Я предпочитаю это тому, кому всё равно. Теперь давай, расскажи мне о Хауарде!",
+    "originalText": "Yeah. If anything, he takes being an RA seriously. I'll take that over someone who doesn't care, any day. Now come on, tell me about Howard!"
+  },
+  {
+    "path": "Exports.133.Data.5.Value.0.Value.5",
+    "key": "A25878574AB7841F52D690891F5DB2D7",
+    "text": "Обо мне? Что ты хочешь знать?",
+    "originalText": "About me? What do you want to know?"
+  },
+  {
+    "path": "Exports.134.Data.0",
+    "key": "01CAF3FA48A8FB1D23A21EB33F44140E",
+    "text": "Уверен, он понимает. Ты устал и, наверное, нервничаешь. Первый день и всё такое. Теперь давай, расскажи что-нибудь о Хауарде.",
+    "originalText": "I'm sure he gets it. You're tired, and probably nervous too. First day and everything. Now come on, tell me something about Howard."
+  },
+  {
+    "path": "Exports.134.Data.5.Value.0.Value.5",
+    "key": "833D8B79488946DE334B91B9DE22B8F8",
+    "text": "Например?",
+    "originalText": "Like what?"
+  },
+  {
+    "path": "Exports.135.Data.0",
+    "key": "AE0D22514B2D41694DE471884B94F8D5",
+    "text": "Ага, наверное, это немного банально. Но мне было весело. Теперь расскажи что-нибудь о Хауарде.",
+    "originalText": "Yeah, I guess it's a little corny. I had fun, though.  Now, tell me something about Howard."
+  },
+  {
+    "path": "Exports.135.Data.5.Value.0.Value.5",
+    "key": "F7AB4692443EF4ED51271DBDD347280F",
+    "text": "Обо мне? Например?",
+    "originalText": "About me? Like what?"
+  },
+  {
+    "path": "Exports.136.Data.0",
+    "key": "A7CB44C04E0B36BC62BFB98D4C59C7E4",
+    "text": "Не знаю, чувак! Почему ты здесь? Что ты изучаешь?",
+    "originalText": "I don't know, man! How come you're here? What are you studying?"
+  },
+  {
+    "path": "Exports.136.Data.6.Value.0.Value.5",
+    "key": "8BDE10994D32C023E101A989CA7BFC18",
+    "text": "Мама думает, что мне нужно образование.",
+    "originalText": "Mom thinks I need an education."
+  },
+  {
+    "path": "Exports.136.Data.6.Value.1.Value.5",
+    "key": "AD2B88D1486DD754F206AEB6AC490ABB",
+    "text": "Я изучаю фотографию.",
+    "originalText": "I'm majoring in photography."
+  },
+  {
+    "path": "Exports.136.Data.6.Value.2.Value.5",
+    "key": "28DD28F04835B9142B9AB4ABD34C447A",
+    "text": "О, знаешь. Крутые штуки.",
+    "originalText": "Oh, you know. The cool shit."
+  },
+  {
+    "path": "Exports.137.Data.0",
+    "key": "0DDF61B1465552C57E908AB662414F9F",
+    "text": "О, чувак, даже не начинай про эффект мамы. Но теперь мы свободны! Мы можем делать то, что хотим.",
+    "originalText": "Oh man, don't even get me started on the Mom Effect. But we're free now! We get to do what we want."
+  },
+  {
+    "path": "Exports.137.Data.6.Value.0.Value.5",
+    "key": "A65EED924E4CC83E7B595FA2FF52C7B5",
+    "text": "О, чувак. Мамы, да?",
+    "originalText": "Oh, man. Moms, right?"
+  },
+  {
+    "path": "Exports.137.Data.6.Value.1.Value.5",
+    "key": "CE75BFC94E9CD395B2A9BB9957794677",
+    "text": "Так что ты хочешь делать?",
+    "originalText": "So what do you want to do?"
+  },
+  {
+    "path": "Exports.137.Data.6.Value.2.Value.5",
+    "key": "5BF3E96E486B2BD80BD6ED9226E83725",
+    "text": "Вот почему я здесь изучаю фотографию, а не что-то скучное.",
+    "originalText": "That's why I'm here studying photography instead of something boring."
+  },
+  {
+    "path": "Exports.138.Data.0",
+    "key": "03B4C838487D8731A40BB48CE7C8CCAE",
+    "text": "Серьезно? Это круто, чувак. У тебя есть камера?",
+    "originalText": "No kidding? That's cool, man. Do you have a camera?"
+  },
+  {
+    "path": "Exports.138.Data.6.Value.0.Value.5",
+    "key": "0740F8AC4A3A56B521F4C69C9990D05E",
+    "text": "Ага. Она в моей коробке.",
+    "originalText": "Yeah. It's in my box."
+  },
+  {
+    "path": "Exports.138.Data.6.Value.1.Value.5",
+    "key": "E7ABF70B49BB48D6DD1B64913665DF41",
+    "text": "Едва. Надеюсь взять что-то получше в университете.",
+    "originalText": "Barely. I'm hoping to borrow a better one from the university."
+  },
+  {
+    "path": "Exports.138.Data.6.Value.2.Value.5",
+    "key": "A5F08761472CD90C664DAF9D0558C77F",
+    "text": "Очень хорошая, вообще-то. Винтажная.",
+    "originalText": "A really good one, actually. Vintage."
+  },
+  {
+    "path": "Exports.139.Data.0",
+    "key": "F162905E4E67BDC377BA6D9B3C13C20E",
+    "text": "Я не знал, что они предлагают курсы по этому. Трудно было поступить?",
+    "originalText": "I didn't realize they offered courses in that. Was it hard to get into the program?"
+  },
+  {
+    "path": "Exports.139.Data.6.Value.0.Value.5",
+    "key": "CCDAB61448422793727844BEA38E4FE7",
+    "text": "Слишком трудно. Я не поступил, так что теперь изучаю фотографию.",
+    "originalText": "Too hard. I didn't get in, so I'm majoring in photography instead."
+  },
+  {
+    "path": "Exports.139.Data.6.Value.1.Value.5",
+    "key": "6B03CC4B4936DA4DAE2AA0BA4D005572",
+    "text": "Не когда ты такой крутой, как я.",
+    "originalText": "Not when you're as cool as me."
+  },
+  {
+    "path": "Exports.139.Data.6.Value.2.Value.5",
+    "key": "2578DA9945F404C0AB0B2896DE0FD5EC",
+    "text": "Ага. Сложные тесты и заявки.",
+    "originalText": "Yeah. Rigorous tests and applications."
+  },
+  {
+    "path": "Exports.140.Data.0",
+    "key": "E0CC0A4945824DDDF2B4E5A9580EAF96",
+    "text": "Ты забавный, чувак. Я куплюсь. Что в тебе такого крутого?",
+    "originalText": "You're funny, man. I'll bite. What's so cool about you?"
+  },
+  {
+    "path": "Exports.140.Data.5.Value.0.Value.5",
+    "key": "BD8A2D87476620A236C68BB6A323FA4A",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: САРКАСТИЧЕСКИЙ) То, что вся моя жизнь помещается в картонную коробку.",
+    "originalText": "(GAIN TRAIT: SARCASTIC) The fact that my entire life fits in a cardboard box."
+  },
+  {
+    "path": "Exports.140.Data.5.Value.1.Value.5",
+    "key": "11A0E11A40006E3D6CE920A22E817BC9",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: СОЦИАЛЬНЫЙ) Я просто хорошо лажу с людьми.",
+    "originalText": "(GAIN TRAIT: SOCIAL) I just get along with people."
+  },
+  {
+    "path": "Exports.140.Data.5.Value.2.Value.5",
+    "key": "E990ACE94002FF6C4673669D7E7B7591",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: ИССЛЕДОВАТЕЛЬСКИЙ) Я очень, очень умный.",
+    "originalText": "(GAIN TRAIT: INVESTIGATIVE) I'm really, really clever."
+  },
+  {
+    "path": "Exports.141.Data.0",
+    "key": "B4484DB0418FBBD9102BD484F943AB6F",
+    "text": "Ага, понял. Так как ты справляешься? В чем твоя сила?",
+    "originalText": "Uh-huh, got it. So how did you manage? What's your strength?"
+  },
+  {
+    "path": "Exports.141.Data.5.Value.0.Value.5",
+    "key": "93B75D534D3D1CDA751E689CF374D7AA",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: САРКАСТИЧЕСКИЙ) Моя невероятная физическая сила.",
+    "originalText": "(GAIN TRAIT: SARCASTIC) My immensely impressive physical strength."
+  },
+  {
+    "path": "Exports.141.Data.5.Value.1.Value.5",
+    "key": "601F8B5544CF07817240E2A9FE4AB342",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: СОЦИАЛЬНЫЙ) Я просто хорошо лажу с людьми, думаю.",
+    "originalText": "(GAIN TRAIT: SOCIAL) I just get along with people, I think."
+  },
+  {
+    "path": "Exports.141.Data.5.Value.2.Value.5",
+    "key": "D635D5E74C5FAA04E58BC5A24390E369",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: ИССЛЕДОВАТЕЛЬСКИЙ) Я очень умный, чувак. Очень умный.",
+    "originalText": "(GAIN TRAIT: INVESTIGATIVE) I'm really smart, man. Really smart."
+  },
+  {
+    "path": "Exports.142.Data.0",
+    "key": "B3FCC8454EC1FA7788DD97B9257EF8A4",
+    "text": "Давай, чувак — выбери койку и положи свои вещи! Ты меня напрягаешь, таская эту штуку.",
+    "originalText": "Come on, man - pick a bunk and put down your stuff! You're stressing me out carrying that thing around."
+  },
+  {
+    "path": "Exports.142.Data.7.Value.0.Value.5",
+    "key": "EC044E164C110DA2C75A20B0978A4049",
+    "text": "Занимаюсь этим, занимаюсь этим.",
+    "originalText": "I'm on it, I'm on it."
+  },
+  {
+    "path": "Exports.143.Data.0",
+    "key": "E922971248D9CE8620D5F48CC89E7A55",
+    "text": "Точно, точно. Как я этого не заметил? Очень, очень круто. Ты мне нравишься, Хауи! Кажется, с тобой будет весело.",
+    "originalText": "Right, right. How did I not see it? Very, very cool. I like you, Howie! You seem like a fun person to be around."
+  },
+  {
+    "path": "Exports.143.Data.6.Value.0.Value.5",
+    "key": "29DA377E48062EDBAA29E5814479BC3A",
+    "text": "Ты тоже, Ларри.",
+    "originalText": "You too, Larry."
+  },
+  {
+    "path": "Exports.143.Data.6.Value.1.Value.5",
+    "key": "C97D9EDA416B204B50F71F80982F103A",
+    "text": "Хауи?",
+    "originalText": "Howie?"
+  },
+  {
+    "path": "Exports.144.Data.0",
+    "key": "46562912436FEEB3B15EE39056709C39",
+    "text": "Ага, чувак, ты забавный. У меня такое чувство, что мне повезло с тобой как с соседом, Хауи!",
+    "originalText": "Yeah, dude, you're pretty funny. I get the feeling I lucked out with you as my roommate, Howie!"
+  },
+  {
+    "path": "Exports.144.Data.6.Value.0.Value.5",
+    "key": "4317F96A48AD742F044F9D9E610F6494",
+    "text": "Точно!",
+    "originalText": "Same!"
+  },
+  {
+    "path": "Exports.144.Data.6.Value.1.Value.5",
+    "key": "DB0CB29843AF543493D853BAFCFF7AB2",
+    "text": "Хауи?",
+    "originalText": "Howie?"
+  },
+  {
+    "path": "Exports.145.Data.0",
+    "key": "A7BAF19F4C27B7E62014E2B9360863EC",
+    "text": "Ладно, Шерлок, я понял. Это пригодится в будущем, уверен. Рад, что ты мой сосед, Хауи.",
+    "originalText": "Alright, Sherlock, I see it. That'll come in handy in the future, I'm sure. Good to have you as my roommate, Howie."
+  },
+  {
+    "path": "Exports.145.Data.6.Value.0.Value.5",
+    "key": "E3E8BD7840DE10562FA34D84A97734F4",
+    "text": "Взаимно.",
+    "originalText": "Right back at you."
+  },
+  {
+    "path": "Exports.145.Data.6.Value.1.Value.5",
+    "key": "4395F7A642C3C721438D42BFF0B4ECCC",
+    "text": "Хауи?",
+    "originalText": "Howie?"
+  },
+  {
+    "path": "Exports.146.Data.0",
+    "key": "01B3A31E441C5C93AE157FA9880E889F",
+    "text": "Я почти забыл про могучую коробку. Круто, чувак! Я ничего не знаю о фотографии, так что тебе придется меня учить. Почему ты выбрал это как специальность?",
+    "originalText": "I almost forgot about the mighty box. Nice, dude! I don't know anything about photography, so you'll have to teach me. How come you chose that as your major?"
+  },
+  {
+    "path": "Exports.146.Data.5.Value.0.Value.5",
+    "key": "19F7DF9F429B839EB8075BABB90BC692",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: САРКАСТИЧЕСКИЙ) Это проще, чем рисование.",
+    "originalText": "(GAIN TRAIT: SARCASTIC) It's easier than painting."
+  },
+  {
+    "path": "Exports.146.Data.5.Value.1.Value.5",
+    "key": "EA2B6B0142C17ADD0E03CA8ED0C074D6",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: СОЦИАЛЬНЫЙ) Я хочу общаться с людьми через искусство.",
+    "originalText": "(GAIN TRAIT: SOCIAL) I want to connect with people through my art."
+  },
+  {
+    "path": "Exports.146.Data.5.Value.2.Value.5",
+    "key": "E8F02EDF4433843FFC8F148F0F4DED5A",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: ИССЛЕДОВАТЕЛЬСКИЙ) Я хочу показать мир таким, какой он есть.",
+    "originalText": "(GAIN TRAIT: INVESTIGATIVE) I want to show the world for what it is."
+  },
+  {
+    "path": "Exports.147.Data.0",
+    "key": "15BF581346FF08727C1DFAAE637E4DB5",
+    "text": "Уверен, они могут тебе помочь, чувак. Так почему фотография?",
+    "originalText": "I'm sure they can set you up, man. So why photography?"
+  },
+  {
+    "path": "Exports.147.Data.5.Value.0.Value.5",
+    "key": "21E94460450E2EE40231A1BB698BE776",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: САРКАСТИЧЕСКИЙ) Это проще, чем рисование.",
+    "originalText": "(GAIN TRAIT: SARCASTIC) It's easier than painting."
+  },
+  {
+    "path": "Exports.147.Data.5.Value.1.Value.5",
+    "key": "B82B512F4D4683A0AD49C1993E162CA0",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: СОЦИАЛЬНЫЙ) Я хочу общаться с людьми через искусство.",
+    "originalText": "(GAIN TRAIT: SOCIAL) I want to connect with people through my art."
+  },
+  {
+    "path": "Exports.147.Data.5.Value.2.Value.5",
+    "key": "4953832D407AFB187A43F4B0DF34F152",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: ИССЛЕДОВАТЕЛЬСКИЙ) Я хочу показать мир таким, какой он есть.",
+    "originalText": "(GAIN TRAIT: INVESTIGATIVE) I want to show the world for what it is."
+  },
+  {
+    "path": "Exports.148.Data.0",
+    "key": "A828D78B43BEA078AAEC108F02FA6D45",
+    "text": "Разве 'винтажный' не значит, что он старый как черт? В любом случае, ты, наверное, эксперт. Так почему фотография?",
+    "originalText": "Doesn't 'vintage' just mean it's old as shit? Anyway, I guess you're the expert. So why photography?"
+  },
+  {
+    "path": "Exports.148.Data.5.Value.0.Value.5",
+    "key": "8AE6EB3A467A104CCDB8479C6D176A1E",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: САРКАСТИЧЕСКИЙ) Это проще, чем рисование.",
+    "originalText": "(GAIN TRAIT: SARCASTIC) It's easier than painting."
+  },
+  {
+    "path": "Exports.148.Data.5.Value.1.Value.5",
+    "key": "E53143F240898D8F9CA0448D33100627",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: СОЦИАЛЬНЫЙ) Я хочу общаться с людьми через искусство.",
+    "originalText": "(GAIN TRAIT: SOCIAL) I want to connect with people through my art."
+  },
+  {
+    "path": "Exports.148.Data.5.Value.2.Value.5",
+    "key": "45BBB1274BBD5632AB74C8A32834F277",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: ИССЛЕДОВАТЕЛЬСКИЙ) Я хочу показать мир таким, какой он есть.",
+    "originalText": "(GAIN TRAIT: INVESTIGATIVE) I want to show the world for what it is."
+  },
+  {
+    "path": "Exports.149.Data.0",
+    "key": "A8DE380C4C055E56C43A5F97EEB5E22D",
+    "text": "Ха — уверен, что так и есть. В любом случае, я не умею ни то, ни другое. Тебе придется фотографировать нашу комнату и кампус! О, чувак, это будет здорово, Хауи.",
+    "originalText": "Hah - I'm sure it is. Either way, I can do neither. You'll have to take pictures of our room and campus! Oh man, this is going to be great, Howie."
+  },
+  {
+    "path": "Exports.149.Data.6.Value.0.Value.5",
+    "key": "11146E094B6C93826B077F9FE053065D",
+    "text": "Ага, у меня хорошее предчувствие.",
+    "originalText": "Yeah, I got a good feeling about this."
+  },
+  {
+    "path": "Exports.149.Data.6.Value.1.Value.5",
+    "key": "87AB4A9E49CE81849CE25D94121D418B",
+    "text": "Хауи?",
+    "originalText": "Howie?"
+  },
+  {
+    "path": "Exports.150.Data.0",
+    "key": "AF0B8322491A0EAE5B07A5BBAF73A725",
+    "text": "Хм. Звучит так, будто фотография справится с этим. Ладно, круто! Ты тоже поделись со мной, чувак. Ты кажешься хорошим парнем, Хауи.",
+    "originalText": "Huh. That does sound like something photography would do well. Alright, sweet! You'll have to share with me too, dude. You seem like a good guy, Howie."
+  },
+  {
+    "path": "Exports.150.Data.6.Value.0.Value.5",
+    "key": "50A15B4D412CDD83EC24B79D4C8C42C9",
+    "text": "Ты тоже, Ларри.",
+    "originalText": "You too, Larry."
+  },
+  {
+    "path": "Exports.150.Data.6.Value.1.Value.5",
+    "key": "3AEC73C44D1118EE5A058390B9DED20A",
+    "text": "Хауи?",
+    "originalText": "Howie?"
+  },
+  {
+    "path": "Exports.151.Data.0",
+    "key": "567D25784E877E840CCB9990D18F991C",
+    "text": "Таким, какой он есть? Звучит круто. Есть что показать, точно — думаю, у нашего вида уникальный взгляд на вещи. У меня такое чувство, что мы станем отличными друзьями, Хауи.",
+    "originalText": "For what it is? Man, that sounds cool. There's a lot to show, for sure - I think our Kind has a unique perspective on things, too. I got a feeling we're gonna become great friends, Howie."
+  },
+  {
+    "path": "Exports.151.Data.6.Value.0.Value.5",
+    "key": "58211C6649F78BE130CDDEB10E7D4E91",
+    "text": "Я тоже, чувак.",
+    "originalText": "Me too, man."
+  },
+  {
+    "path": "Exports.151.Data.6.Value.1.Value.5",
+    "key": "4640CB764FC8562E426C7EA21CA31441",
+    "text": "Хауи?",
+    "originalText": "Howie?"
+  },
+  {
+    "path": "Exports.152.Data.0",
+    "key": "BA789D394B3F714BCACEED90943DA1B6",
+    "text": "О, привет.",
+    "originalText": "Oh, hey."
+  },
+  {
+    "path": "Exports.152.Data.6.Value.0.Value.5",
+    "key": "3476E90A4A56AC2EEE6AFB9BC8656428",
+    "text": "Привет.",
+    "originalText": "Hey."
+  },
+  {
+    "path": "Exports.152.Data.6.Value.1.Value.5",
+    "key": "896FD6D244E3B04397BC7894AE075F86",
+    "text": "Как дела, лузер?",
+    "originalText": "What's up, loser?"
+  },
+  {
+    "path": "Exports.152.Data.6.Value.2.Value.5",
+    "key": "F3DD6D2F4EE2EC9E34E305B8DC94807E",
+    "text": "[Кивни головой]",
+    "originalText": "[Nod your head]"
+  },
+  {
+    "path": "Exports.153.Data.0",
+    "key": "2CE5D78E4B2B3694E4DEC983956AA62B",
+    "text": "Ага! Разве тебя так не называют? Не могу представить, чтобы тебя звали Хауард, да?",
+    "originalText": "Yeah! Do people not call you that? I can't imagine they call you Howard, right?"
+  },
+  {
+    "path": "Exports.153.Data.6.Value.0.Value.5",
+    "key": "39D022364C5A4346961C7CBD32B732C4",
+    "text": "...Что не так с Хауардом?",
+    "originalText": "...What's wrong with Howard?"
+  },
+  {
+    "path": "Exports.153.Data.6.Value.1.Value.5",
+    "key": "C3ECA9324A8612A0BB3650B5C5C5B4D2",
+    "text": "О, да, многие зовут меня Хауи.",
+    "originalText": "Oh yeah, tons of people call me Howie."
+  },
+  {
+    "path": "Exports.154.Data.0",
+    "key": "0554FA874590EA9F34AE5B8E347941A5",
+    "text": "Черт, да. Хауи и Ларри, соседи экстраординарные.",
+    "originalText": "Fuck yeah. Howie and Larry, roommates extraordinaire. "
+  },
+  {
+    "path": "Exports.154.Data.6.Value.0.Value.5",
+    "key": "8174F6B84D4A8CBEE0D236A728F841C9",
+    "text": "Ладно, Ларри — расскажи мне о Ларри!",
+    "originalText": "Alright, Larry - tell me about Larry!"
+  },
+  {
+    "path": "Exports.154.Data.6.Value.1.Value.5",
+    "key": "7EA8DD43421600669E2C2A8790BE759D",
+    "text": "Так что ты изучаешь?",
+    "originalText": "So what are you studying?"
+  },
+  {
+    "path": "Exports.155.Data.0",
+    "key": "5BBABFA0451A5491517E74A46172FE02",
+    "text": "Ничего! Вообще ничего, просто... Это длинное имя, вот и всё. Нужно время, чтобы его произнести, вот и всё.",
+    "originalText": "Nothing! Nothing at all, it's just- It's a long name, is all. Takes a second to say, is all I'm saying."
+  },
+  {
+    "path": "Exports.155.Data.5.Value.0.Value.5",
+    "key": "268DDE7A4362862B7F7E5388AFDDF725",
+    "text": "Ладно, понял. Буду звать тебя Хауи.",
+    "originalText": "Alright, I see it. Howie it is."
+  },
+  {
+    "path": "Exports.155.Data.5.Value.1.Value.5",
+    "key": "9CFF5C3C41781160DCDEABBF954DC88D",
+    "text": "А 'Ларри' — это сокращение от Лоуренс?",
+    "originalText": "What's 'Larry' short for? Lawrence?"
+  },
+  {
+    "path": "Exports.156.Data.0",
+    "key": "FA841F674372A3C3312749957359AE29",
+    "text": "Вот и всё! Хауи и Ларри!",
+    "originalText": "There you go, then! Howie and Larry!"
+  },
+  {
+    "path": "Exports.156.Data.5.Value.0.Value.5",
+    "key": "064B0ACE428A972BAC1E3DBF66635CCA",
+    "text": "Хауи и Ларри!",
+    "originalText": "Howie and Larry!"
+  },
+  {
+    "path": "Exports.157.Data.0",
+    "key": "CAD42D1B4F0F6B56323F48B18C38C6C7",
+    "text": "Ларри — это Ларри, чувак. Мы будем просто Хауи и Ларри. Звучит хорошо, да?",
+    "originalText": "Larry's Larry, man. We'll just be Howie and Larry. Sounds good, yeah?"
+  },
+  {
+    "path": "Exports.157.Data.5.Value.0.Value.5",
+    "key": "9DAE44A94E25E220BDA391B88FC4B4D2",
+    "text": "Ага. Звучит хорошо.",
+    "originalText": "Yeah. Sounds good."
+  },
+  {
+    "path": "Exports.157.Data.5.Value.1.Value.5",
+    "key": "0CD4DDFB4B7C4FC98947D7890F249E19",
+    "text": "Лучше, чем Хауард и Лоуренс, наверное.",
+    "originalText": "Better than Howard and Lawrence, I guess."
+  },
+  {
+    "path": "Exports.158.Data.0",
+    "key": "16CF46BB4553D67B994AFF82DEF72B84",
+    "text": "Это мечта. Серьезно. Я рад, что мы на одной волне — уверен, мы можем сделать что-то крутое вместе.",
+    "originalText": "That's the dream. Real talk. I'm stoked we're on the same page here - I bet we can do some amazing stuff together."
+  },
+  {
+    "path": "Exports.158.Data.5.Value.0.Value.5",
+    "key": "9064526F481605A6967CEF87CD9437EE",
+    "text": "Я не сомневаюсь.",
+    "originalText": "I have no doubt."
+  },
+  {
+    "path": "Exports.158.Data.5.Value.1.Value.5",
+    "key": "3F25718743752506BF75BC98FADD8177",
+    "text": "Конечно — но мне иногда нравится побыть одному.",
+    "originalText": "Sure - but I also like to be on my own now and then."
+  },
+  {
+    "path": "Exports.159.Data.0",
+    "key": "50B406BF4C7C4F597016978EC1006FC4",
+    "text": "Ты сказал это. Давай не будем говорить о семье — мы здесь! Мы свободны!",
+    "originalText": "You said it. Let's not talk about family, though - we're here! We're free!"
+  },
+  {
+    "path": "Exports.159.Data.5.Value.0.Value.5",
+    "key": "B6BBB47C4B68EBEE81E4EDBA22A5244C",
+    "text": "Без мамы и на свободе.",
+    "originalText": "Momless and fancy-free."
+  },
+  {
+    "path": "Exports.159.Data.5.Value.1.Value.5",
+    "key": "EEEDF41F46DB2D80E62140891D6073D5",
+    "text": "Свободны наконец! Так что ты за человек?",
+    "originalText": "Free at last! So, what are you all about?"
+  },
+  {
+    "path": "Exports.160.Data.0",
+    "key": "8878E34C423A64B8F00F43AAC0B8ECEA",
+    "text": "Я тебя сначала спросил, чувак! Какие планы? Какие мечты?",
+    "originalText": "I asked you first, man! What's the plan? What's the dream?"
+  },
+  {
+    "path": "Exports.160.Data.5.Value.0.Value.5",
+    "key": "578443E24F13CC9E0E768A871317A9AE",
+    "text": "Не париться!",
+    "originalText": "Not giving a fuck!"
+  },
+  {
+    "path": "Exports.160.Data.5.Value.1.Value.5",
+    "key": "FB6A3D1B47DAA9D6A3808189C24C8CEF",
+    "text": "Я хочу попробовать что-то новое.",
+    "originalText": "I want to try new things."
+  },
+  {
+    "path": "Exports.160.Data.5.Value.2.Value.5",
+    "key": "4293CF124CA35192D7A63387E87D602F",
+    "text": "Ну, я здесь, чтобы изучать фотографию. Это первый шаг.",
+    "originalText": "Well, I'm here to study photography. That's the first step."
+  },
+  {
+    "path": "Exports.161.Data.0",
+    "key": "0643DC0E4BD959E06B9571B2635507B6",
+    "text": "Эта коробка выглядит тяжелой.",
+    "originalText": "That box looks heavy."
+  },
+  {
+    "path": "Exports.161.Data.5.Value.0.Value.5",
+    "key": "AEA7E4FD47611DB668AEF2ABE0EFFADC",
+    "text": "Ага.",
+    "originalText": "Yeah."
+  },
+  {
+    "path": "Exports.161.Data.5.Value.1.Value.5",
+    "key": "3BC1C2414BE5678AAAD08C9863A72A01",
+    "text": "Всё нормально. Я очень сильный.",
+    "originalText": "It's fine. I'm very strong."
+  },
+  {
+    "path": "Exports.162.Data.0",
+    "key": "F69213D0420D3BC33C5702B45C903582",
+    "text": "Черт, да. Если не против, я буду рядом. У меня есть список, чувак.",
+    "originalText": "Fuck yeah. If you don't mind, I'll be around for it. I got a list, man."
+  },
+  {
+    "path": "Exports.162.Data.5.Value.0.Value.5",
+    "key": "47B24C0A4BFBAB07C636E490AB5D0B30",
+    "text": "Список? Ладно, будем вычеркивать по одному.",
+    "originalText": "A list? Alright, we'll scratch things off one by one."
+  },
+  {
+    "path": "Exports.162.Data.5.Value.1.Value.5",
+    "key": "28B742654C9C96D81795A8AD8D06E927",
+    "text": "Конечно — но мне иногда нравится побыть одному.",
+    "originalText": "Sure - but I also like to be on my own now and then."
+  },
+  {
+    "path": "Exports.163.Data.0",
+    "key": "E1F7A82C436857F2AA60AEB19EC0C1CD",
+    "text": "...Чувак, можем мы опустить тему мамы? Это становится странным.",
+    "originalText": "...Dude, can we drop the mom part? It's getting weird."
+  },
+  {
+    "path": "Exports.163.Data.5.Value.0.Value.5",
+    "key": "AFF7D14E493F301BF7BB529298EE483E",
+    "text": "Хотел бы я.",
+    "originalText": "I wish."
+  },
+  {
+    "path": "Exports.163.Data.5.Value.1.Value.5",
+    "key": "026C399F4C4489F5CB97ACBA0F61648F",
+    "text": "Ага, конечно.",
+    "originalText": "Yeah, sure."
+  },
+  {
+    "path": "Exports.163.Data.5.Value.2.Value.5",
+    "key": "ECFD51ED4E433F22E62E449EB0D53596",
+    "text": "Думаю, это бы её разозлило.",
+    "originalText": "I think that would make her furious."
+  },
+  {
+    "path": "Exports.164.Data.0",
+    "key": "C0938B21453FC63B6C8DC4BFE5D1275C",
+    "text": "Ладно, давай отвлечем тебя. Что ты действительно хочешь сделать в университете?",
+    "originalText": "Alright, let me get your mind off things. What's the one thing you really want to do at university?"
+  },
+  {
+    "path": "Exports.164.Data.5.Value.0.Value.5",
+    "key": "B604C7F247305E81E6467494EF7E442A",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: САРКАСТИЧЕСКИЙ) Учиться. Обожаю учебники.",
+    "originalText": "(GAIN TRAIT: SARCASTIC) Study. I love them textbooks."
+  },
+  {
+    "path": "Exports.164.Data.5.Value.1.Value.5",
+    "key": "0A74C0ED491095C29757BC86ABBB2C36",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: СОЦИАЛЬНЫЙ) Я просто хочу познакомиться с людьми, честно. Новые друзья.",
+    "originalText": "(GAIN TRAIT: SOCIAL) I just wanna meet people, honestly. New friends."
+  },
+  {
+    "path": "Exports.164.Data.5.Value.2.Value.5",
+    "key": "EAB23D9A4734DEB870A53EB681434E10",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: ИССЛЕДОВАТЕЛЬСКИЙ) Я хочу стать умнее, чувак. Разобраться в вещах.",
+    "originalText": "(GAIN TRAIT: INVESTIGATIVE) I wanna get smarter, man. Figure things out."
+  },
+  {
+    "path": "Exports.165.Data.0",
+    "key": "C1A230F04D920943009D2DAF26C52C48",
+    "text": "Круто. Ладно, давай спрошу: что ты хочешь сделать в университете?",
+    "originalText": "Sweet. Alright, let me ask you something: what's the one thing you want to do at university?"
+  },
+  {
+    "path": "Exports.165.Data.5.Value.0.Value.5",
+    "key": "0E8198354DDA718582BADC90AB0FD8C0",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: САРКАСТИЧЕСКИЙ) Учиться. Обожаю учебники.",
+    "originalText": "(GAIN TRAIT: SARCASTIC) Study. I love them textbooks."
+  },
+  {
+    "path": "Exports.165.Data.5.Value.1.Value.5",
+    "key": "2412E94447D10B8CD7341A9F9F50A15E",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: СОЦИАЛЬНЫЙ) Я просто хочу познакомиться с людьми, честно. Новые друзья.",
+    "originalText": "(GAIN TRAIT: SOCIAL) I just wanna meet people, honestly. New friends."
+  },
+  {
+    "path": "Exports.165.Data.5.Value.2.Value.5",
+    "key": "40E95F8246D16AFE09C54794786EBA15",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: ИССЛЕДОВАТЕЛЬСКИЙ) Я хочу стать умнее, чувак. Разобраться в вещах.",
+    "originalText": "(GAIN TRAIT: INVESTIGATIVE) I wanna get smarter, man. Figure things out."
+  },
+  {
+    "path": "Exports.166.Data.0",
+    "key": "5829DDB24539B7BB2E735C86DE5D17AD",
+    "text": "Тогда хорошо, что её здесь нет! Давай отвлечем тебя. Что ты действительно хочешь сделать в университете?",
+    "originalText": "Then it's a good thing she's not here! Here, let me get your mind off things. What's the one thing you really want to do at university?"
+  },
+  {
+    "path": "Exports.166.Data.6.Value.0.Value.5",
+    "key": "0FAFB53A4B4A8E5775C8118E26FF46A2",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: САРКАСТИЧЕСКИЙ) Учиться. Обожаю учебники.",
+    "originalText": "(GAIN TRAIT: SARCASTIC) Study. I love them textbooks."
+  },
+  {
+    "path": "Exports.166.Data.6.Value.1.Value.5",
+    "key": "002060B34DFC64A2342C3EBD2191DBE6",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: СОЦИАЛЬНЫЙ) Я просто хочу познакомиться с людьми, честно. Новые друзья.",
+    "originalText": "(GAIN TRAIT: SOCIAL) I just wanna meet people, honestly. New friends."
+  },
+  {
+    "path": "Exports.166.Data.6.Value.2.Value.5",
+    "key": "815BA0554E627588F60C999D7B83EC1F",
+    "text": "(ПОЛУЧАЕТ ЧЕРТУ: ИССЛЕДОВАТЕЛЬСКИЙ) Я хочу стать умнее, чувак. Разобраться в вещах.",
+    "originalText": "(GAIN TRAIT: INVESTIGATIVE) I wanna get smarter, man. Figure things out."
+  },
+  {
+    "path": "Exports.167.Data.0",
+    "key": "ECEC28184529D8D12E69298D1DFFAA12",
+    "text": "Я уважаю это, чувак. Без проблем.",
+    "originalText": "I can respect that, man. No worries."
+  },
+  {
+    "path": "Exports.167.Data.5.Value.0.Value.5",
+    "key": "3661587840AA9F0233DF83B86DB7C9E0",
+    "text": "Я просто не хочу потерять себя, понимаешь.",
+    "originalText": "I just don't wanna lose myself, you know."
+  },
+  {
+    "path": "Exports.167.Data.5.Value.1.Value.5",
+    "key": "3E83E1C14A1FBBE9471A69A864E78BAA",
+    "text": "Ценю это.",
+    "originalText": "I appreciate it."
+  },
+  {
+    "path": "Exports.168.Data.0",
+    "key": "FF5C175C489C625D8897F48BC40AFDF8",
+    "text": "Ладно, ладно. Ну, я здесь, чтобы изучать... знаешь что, давай угадаешь? Спорим, не сможешь.",
+    "originalText": "Alright, alright. Well, I'm here to study... you know what, why don't you guess? I bet you can't."
+  },
+  {
+    "path": "Exports.168.Data.5.Value.0.Value.5",
+    "key": "E496B1824BAB1E734301D3A5FCBDDEC1",
+    "text": "Спорим, смогу.",
+    "originalText": "I bet I can."
+  },
+  {
+    "path": "Exports.168.Data.5.Value.1.Value.5",
+    "key": "3165118F4D23F7F4C070008936293C40",
+    "text": "Ладно, какие ставки?",
+    "originalText": "Alright, what are the stakes?"
+  },
+  {
+    "path": "Exports.169.Data.0",
+    "key": "3BAA704E44FB331216FFB98E9444B958",
+    "text": "Я? Я... знаешь что, давай угадай. Спорим, не сможешь.",
+    "originalText": "Me? I'm... you know what, make a guess. I bet you can't figure it out."
+  },
+  {
+    "path": "Exports.169.Data.5.Value.0.Value.5",
+    "key": "504176864A6DCFC096FD10B0AC5D6E0F",
+    "text": "Спорим, смогу.",
+    "originalText": "I bet I can."
+  },
+  {
+    "path": "Exports.169.Data.5.Value.1.Value.5",
+    "key": "916D84124E0498F45FC945994746D6D1",
+    "text": "Ладно, какие ставки?",
+    "originalText": "Alright, what are the stakes?"
+  },
+  {
+    "path": "Exports.170.Data.0",
+    "key": "3CC3ABFC4895DB1A709BECA61F2BD726",
+    "text": "О, чувак, этот сарказм на меня повлияет. Ты забавный, Хауи. Уверен, что всё с соседством у нас сложится отлично.",
+    "originalText": "Oh man, that sarcasm is gonna rub off on me. You're funny, Howie. Pretty sure this whole roommate situation is gonna work out pretty great for us."
+  },
+  {
+    "path": "Exports.170.Data.6.Value.0.Value.5",
+    "key": "D7F0B56A4B505AEAF11C28BB8A171D39",
+    "text": "Я тоже так думаю, чувак.",
+    "originalText": "I feel the same way, dude."
+  },
+  {
+    "path": "Exports.170.Data.6.Value.1.Value.5",
+    "key": "E71E4EEF4491A3EFCE9B7DACF48AA95B",
+    "text": "Хауи?",
+    "originalText": "Howie?"
+  },
+  {
+    "path": "Exports.171.Data.0",
+    "key": "3D37CAB4408CA79C89BCB4971CF514B7",
+    "text": "Черт, чувак — тогда мы начинаем отлично! Думаю, мы будем отличными соседями, Хауи. Это будет круто.",
+    "originalText": "Shit, man - then we're off to a great start already! I think we're gonna do great as roommates, Howie. This is going to be sick."
+  },
+  {
+    "path": "Exports.171.Data.6.Value.0.Value.5",
+    "key": "A7581EF04BAC80AF299C87BEEFBFD57A",
+    "text": "Очень круто. Не могу дождаться.",
+    "originalText": "So sick. Can't wait."
+  },
+  {
+    "path": "Exports.171.Data.6.Value.1.Value.5",
+    "key": "561F453A44475AE43A616F8A28B754D2",
+    "text": "Хауи?",
+    "originalText": "Howie?"
+  },
+  {
+    "path": "Exports.172.Data.0",
+    "key": "62AB01BA4FBAC908DB18B0AF2A4757AA",
+    "text": "Я сижу, отдыхаю. Ты тот, кто таскает большую коробку, лузер.",
+    "originalText": "I'm sitting down, chilling. You're the one lugging a big box around, loser."
+  },
+  {
+    "path": "Exports.172.Data.5.Value.0.Value.5",
+    "key": "2EDFB3A84EE40C1CDE70BCB7B0458E8F",
+    "text": "Тушé, лузер.",
+    "originalText": "Touché, loser."
+  },
+  {
+    "path": "Exports.172.Data.5.Value.1.Value.5",
+    "key": "23BF154F4F03D661963478970969C5DE",
+    "text": "...Ага, могу я это куда-нибудь поставить?",
+    "originalText": "...Yeah, can I put this down somewhere?"
+  },
+  {
+    "path": "Exports.173.Data.0",
+    "key": "E775AE034CFA0017694DFB9B60CD18F9",
+    "text": "О, да, типа, жизнь и всё такое? Мы справимся, чувак — но не с классами или экзаменами. Мы станем уличными умниками, Хауи. Это будет здорово.",
+    "originalText": "Oh yeah, like, life and shit? We will, dude - but not with classes or exams. We're gonna get street smart, Howie. It's going to be great."
+  },
+  {
+    "path": "Exports.173.Data.6.Value.0.Value.5",
+    "key": "6EA60A8D4595372128CA9DB70FD20E22",
+    "text": "Это будет потрясающе.",
+    "originalText": "It's going to be awesome."
+  },
+  {
+    "path": "Exports.173.Data.6.Value.1.Value.5",
+    "key": "4AC2DD5A42E5C0CC42FE759E6AD32B31",
+    "text": "Хауи?",
+    "originalText": "Howie?"
+  },
+  {
+    "path": "Exports.174.Data.0",
+    "key": "B6FBEAF84BE571C100F8A3A9D0FF54A5",
+    "text": "Мне нравится твоя уверенность. Ладно — если угадаешь, я угощаю обедом. Если нет — ты. Договорились?",
+    "originalText": "I dig the confidence. Alright - if you guess right, I get us lunch. Otherwise you do. Deal?"
+  },
+  {
+    "path": "Exports.174.Data.5.Value.0.Value.5",
+    "key": "5035E9B6424B7D4CC0875AA07CF962A9",
+    "text": "Договорились.",
+    "originalText": "Deal."
+  },
+  {
+    "path": "Exports.174.Data.5.Value.1.Value.5",
+    "key": "6B4005784F4BF8A43F4551A35CB32CFD",
+    "text": "Но, Ларри, у меня нет денег. Вообще нет, Ларри.",
+    "originalText": "But Larry, I have no money. No money at all, Larry."
+  },
+  {
+    "path": "Exports.175.Data.0",
+    "key": "B5B4B3ED4BE62A832487D09BB3DB5B5D",
+    "text": "Ты уже обедал? Я голоден. Здесь, в кампусе, есть место, которое я хочу попробовать. Угадаешь мою специальность, и я плачу. Если нет — ты. Договорились?",
+    "originalText": "Have you had lunch yet? I'm starving. There's a place around the corner, here on campus, that I want to try. You guess my major, and I'm paying. You don't, you pay. Deal?"
+  },
+  {
+    "path": "Exports.175.Data.5.Value.0.Value.5",
+    "key": "810025C94BBD49E259E91787EC232B9B",
+    "text": "Договорились.",
+    "originalText": "Deal."
+  },
+  {
+    "path": "Exports.175.Data.5.Value.1.Value.5",
+    "key": "5723A29B4575348183E71E9DC8297F97",
+    "text": "Но, Ларри, у меня нет денег. Вообще нет, Ларри.",
+    "originalText": "But Larry, I have no money. No money at all, Larry."
+  },
+  {
+    "path": "Exports.176.Data.0",
+    "key": "9A9982944F20D23380827391D50D2AC4",
+    "text": "Круто. Давай.",
+    "originalText": "Sweet. Go."
+  },
+  {
+    "path": "Exports.176.Data.6.Value.0.Value.5",
+    "key": "E64822424A9FBA60FE94899BA4B18C89",
+    "text": "Вот так просто? Мне не дадут подсказку?",
+    "originalText": "Just like that? I don't get to narrow it down?"
+  },
+  {
+    "path": "Exports.176.Data.6.Value.1.Value.5",
+    "key": "94CFE6F64C2E4C7572E4D4AF056BE0D6",
+    "text": "(ИССЛЕДОВАТЕЛЬСКИЙ) Я не вижу здесь инструментов, кистей или принадлежностей. Твоя специальность — теория, а не практика.",
+    "originalText": "(INVESTIGATIVE) I don't see any instruments, brushes or tools in here. Your major is theory, rather than practice."
+  },
+  {
+    "path": "Exports.176.Data.6.Value.2.Value.5",
+    "key": "6FAD82A64F34D532BDBB1E99FCBD2BD8",
+    "text": "Думаю, могу угадать сразу.",
+    "originalText": "Think I can guess right away."
+  },
+  {
+    "path": "Exports.177.Data.0",
+    "key": "033B328B40FF74839297428C09CF979A",
+    "text": "Ладно, тогда ты мне должен, когда угадаешь! Договорились?",
+    "originalText": "Alright, so you'll owe me when you do! Sound good?"
+  },
+  {
+    "path": "Exports.177.Data.5.Value.0.Value.5",
+    "key": "B6B3D7924824EC0971CE61BDFDE9E257",
+    "text": "Справедливо.",
+    "originalText": "Fair enough."
+  },
+  {
+    "path": "Exports.178.Data.0",
+    "key": "80CC48AF4F43916E52F72D9CCC20675E",
+    "text": "Ладно, конечно. Можешь задать один вопрос. Ничего слишком прямого.",
+    "originalText": "Alright, sure. You can ask one question. Nothing too direct, though."
+  },
+  {
+    "path": "Exports.178.Data.6.Value.0.Value.5",
+    "key": "85F2FC30402A440DD8737BB26260B995",
+    "text": "Ты занимаешься чем-то старым или новым?",
+    "originalText": "Are you doing something old or something new?"
+  },
+  {
+    "path": "Exports.178.Data.6.Value.1.Value.5",
+    "key": "6726DAEF40878DB65FBA3D89E3EEFFE5",
+    "text": "Ты работаешь руками?",
+    "originalText": "Do you work with your hands?"
+  },
+  {
+    "path": "Exports.178.Data.6.Value.2.Value.5",
+    "key": "8D2FC5B042145B93E7255EA43EA3DC57",
+    "text": "Какая у тебя специальность?",
+    "originalText": "What's your major?"
+  },
+  {
+    "path": "Exports.178.Data.6.Value.3.Value.5",
+    "key": "E074979947A12C59647DCA84CDC35966",
+    "text": "Я готов угадать, вообще-то.",
+    "originalText": "I'm ready to guess, actually."
+  },
+  {
+    "path": "Exports.179.Data.0",
+    "key": "2C2AD7414767C012F4CC5FA77535FC70",
+    "text": "Давай, детектив.",
+    "originalText": "Let's hear it, detective."
+  },
+  {
+    "path": "Exports.179.Data.6.Value.0.Value.5",
+    "key": "DCFEDD314D1670148D9B86BDCFA54DC9",
+    "text": "Ты изучаешь теорию...",
+    "originalText": "You're studying theory..."
+  },
+  {
+    "path": "Exports.179.Data.6.Value.1.Value.5",
+    "key": "349009564BFD6C81EFFC7E9D614EA637",
+    "text": "Ты практикуешь какой-то вид искусства...",
+    "originalText": "You're practicing some type of art..."
+  },
+  {
+    "path": "Exports.180.Data.0",
+    "key": "0EBD40804FAA0064C02D57A3D98E6046",
+    "text": "Теорию чего именно?",
+    "originalText": "The theory of what, exactly?"
+  },
+  {
+    "path": "Exports.180.Data.6.Value.0.Value.5",
+    "key": "C4A545C14FF7667D5A594E99B1DCD1E8",
+    "text": "Классическое искусство.",
+    "originalText": "Classical arts."
+  },
+  {
+    "path": "Exports.180.Data.6.Value.1.Value.5",
+    "key": "2BBDDD424B492E999346B88D2E1D4ABA",
+    "text": "Современное искусство.",
+    "originalText": "Contemporary arts."
+  },
+  {
+    "path": "Exports.180.Data.6.Value.2.Value.5",
+    "key": "9F2FE024445568CD1D1CE48EDA55C788",
+    "text": "Графический дизайн.",
+    "originalText": "Graphic design."
+  },
+  {
+    "path": "Exports.181.Data.0",
+    "key": "770221174BB2A344CEC3BCB86FA8F10D",
+    "text": "А что я практикую?",
+    "originalText": "What am I practicing, then?"
+  },
+  {
+    "path": "Exports.181.Data.6.Value.0.Value.5",
+    "key": "CDA46BBF42B3785ADBA4C5A98881C5D5",
+    "text": "Скульптуру.",
+    "originalText": "Sculpture."
+  },
+  {
+    "path": "Exports.181.Data.6.Value.1.Value.5",
+    "key": "1B1825CE44153438F847109E842E638E",
+    "text": "Живопись.",
+    "originalText": "Painting."
+  },
+  {
+    "path": "Exports.181.Data.6.Value.2.Value.5",
+    "key": "CD254B0F44523660E65131AB0225D015",
+    "text": "Музыку.",
+    "originalText": "Music."
+  },
+  {
+    "path": "Exports.182.Data.0",
+    "key": "6E1FA8174D5C13E4DF5E8DB121C5AD78",
+    "text": "Ты в порядке, чувак? Коробка выглядит тяжелой.",
+    "originalText": "You good, dude? That box looks heavy."
+  },
+  {
+    "path": "Exports.182.Data.5.Value.0.Value.5",
+    "key": "6C758F7141310F4BF7E1B797978480B7",
+    "text": "Всё нормально. Я очень сильный.",
+    "originalText": "It's cool. I'm very strong."
+  },
+  {
+    "path": "Exports.182.Data.5.Value.1.Value.5",
+    "key": "26E4DDBC49FA55F8521699A01A1BE876",
+    "text": "Ага. Могу я её куда-нибудь поставить?",
+    "originalText": "Yeah. Can I put it down somewhere?"
+  },
+  {
+    "path": "Exports.183.Data.0",
+    "key": "D75B6452436B69BC6E010BB31D79EC7B",
+    "text": "Старое, точно. Ладно, какой твой ответ?",
+    "originalText": "Old, definitely. Alright, what's your guess?"
+  },
+  {
+    "path": "Exports.183.Data.5.Value.0.Value.5",
+    "key": "975355254FA64C7D4643518141CCBF85",
+    "text": "Ты изучаешь теорию.",
+    "originalText": "You're studying theory."
+  },
+  {
+    "path": "Exports.183.Data.5.Value.1.Value.5",
+    "key": "C55B4B9E4D25DE791A143688464DC674",
+    "text": "Ты практикуешь какой-то вид искусства.",
+    "originalText": "You're practicing some type of art."
+  },
+  {
+    "path": "Exports.184.Data.0",
+    "key": "C44D702641154320812BC1956F1E29F6",
+    "text": "Не совсем. Ладно, какой твой ответ?",
+    "originalText": "Not really. Alright, what's your guess?"
+  },
+  {
+    "path": "Exports.184.Data.5.Value.0.Value.5",
+    "key": "BEBEBFD54620CBD167BFE6BD5B612977",
+    "text": "Ты изучаешь теорию.",
+    "originalText": "You're studying theory."
+  },
+  {
+    "path": "Exports.184.Data.5.Value.1.Value.5",
+    "key": "8C082B0C48411C660665F9A4056B6690",
+    "text": "Ты практикуешь какой-то вид искусства.",
+    "originalText": "You're practicing some kind of art."
+  },
+  {
+    "path": "Exports.185.Data.0",
+    "key": "1524AF6E4504F53B9ACB53A9A53AB267",
+    "text": "Чувак.",
+    "originalText": "Dude."
+  },
+  {
+    "path": "Exports.185.Data.6.Value.0.Value.5",
+    "key": "EC1A7C8C468A9ABC875E818AB1347E20",
+    "text": "Ладно. Ты занимаешься чем-то старым или новым?",
+    "originalText": "Fine. Are you doing something old or something new?"
+  },
+  {
+    "path": "Exports.185.Data.6.Value.1.Value.5",
+    "key": "CF22F1394BB10B88DF312BA4F0B2F5E1",
+    "text": "Ладно, ладно. Ты работаешь руками?",
+    "originalText": "Alright, alright. Do you work with your hands?"
+  },
+  {
+    "path": "Exports.185.Data.6.Value.2.Value.5",
+    "key": "01682FC247DE630C4B689F8FC310CD3B",
+    "text": "Жду.",
+    "originalText": "I'm waiting."
+  },
+  {
+    "path": "Exports.185.Data.6.Value.3.Value.5",
+    "key": "7F94EBDE4B3F967BF472588F597E9EA2",
+    "text": "Это всё, что мне нужно было знать. Я готов угадать.",
+    "originalText": "That's all I needed to know. I'm ready to guess."
+  },
+  {
+    "path": "Exports.186.Data.0",
+    "key": "7CE35A7042ED5068EA8986A7BCE9107B",
+    "text": "Если это твой вопрос, то вот! Давай, какой твой ответ?",
+    "originalText": "If that's your question, that's that! Now go on, what's your guess?"
+  },
+  {
+    "path": "Exports.186.Data.5.Value.0.Value.5",
+    "key": "E664E9A14F800A891B7583B049148B64",
+    "text": "Ты изучаешь теорию.",
+    "originalText": "You're studying theory."
+  },
+  {
+    "path": "Exports.186.Data.5.Value.1.Value.5",
+    "key": "9D41425C4633DEF503B95BA00E8123C6",
+    "text": "Ты практикуешь какой-то вид искусства.",
+    "originalText": "You're practicing some type of art."
+  },
+  {
+    "path": "Exports.187.Data.0",
+    "key": "2676C4BF4FB588F8F3A54DB06BE08DD3",
+    "text": "Динь-динь! Ты угадал, чувак! Отлично — надеюсь, что место в кампусе не слишком дорогое.",
+    "originalText": "Ding-ding-ding! You got it, dude! Nicely done - here's to hoping that campus place isn't too expensive, I guess."
+  },
+  {
+    "path": "Exports.187.Data.6.Value.0.Value.5",
+    "key": "51095CCA4753D700590AFFA5E9062D4E",
+    "text": "Всё нормально, чувак. Давай разделим.",
+    "originalText": "It's cool, man. Let's split it."
+  },
+  {
+    "path": "Exports.187.Data.6.Value.1.Value.5",
+    "key": "780DB7A14F74AC3FFD83C18F5F8686AE",
+    "text": "Я гений.",
+    "originalText": "I'm a genius."
+  },
+  {
+    "path": "Exports.188.Data.0",
+    "key": "EEEE37F84E169064BDBCE0B3B21BB3C0",
+    "text": "Не, это слишком современно для меня, чувак.",
+    "originalText": "Nah, that's too modern for me, dude. "
+  },
+  {
+    "path": "Exports.188.Data.6.Value.0.Value.5",
+    "key": "473825A84241DB2BCBDFFD8D65E52B9E",
+    "text": "Тогда скажи, что ты изучаешь?",
+    "originalText": "Tell me, then. What do you study?"
+  },
+  {
+    "path": "Exports.189.Data.0",
+    "key": "9E0E417E484A7DA1633C379DD7B5D183",
+    "text": "Не угадал! К сожалению. Я не настолько креативный.",
+    "originalText": "Wrong! Unfortunately. I'm not that creative."
+  },
+  {
+    "path": "Exports.189.Data.6.Value.0.Value.5",
+    "key": "D955D7714D28DCA1CA83D89F49F2FB64",
+    "text": "Тогда скажи, что ты изучаешь?",
+    "originalText": "Tell me, then. What do you study?"
+  },
+  {
+    "path": "Exports.190.Data.0",
+    "key": "C8994E094B44AEBD439C42806D69446F",
+    "text": "Нет! Это было бы круто, но я не думаю, что могу позволить себе материалы и инструменты.",
+    "originalText": "Nope! That'd be cool, though. But I don't think I could afford the materials and the tools. "
+  },
+  {
+    "path": "Exports.190.Data.6.Value.0.Value.5",
+    "key": "CBB24F764FECB0C164F45C85492B3447",
+    "text": "Тогда скажи, что ты изучаешь?",
+    "originalText": "Tell me, then. What do you study?"
+  }
+]

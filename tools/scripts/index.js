@@ -1,7 +1,7 @@
 // Код целиком написан нейросетью claude-3.5-sonnet
 // Спасибо, что работает
 
-const fileName = 'Bunks_1-2.json';
+const fileName = 'Larry_1-2.json';
 const filePath = '../../Json-TailsRUS_P/BackboneStories/Content/Data/Dialogues/Act_I'
 
 const fs = require('fs');
