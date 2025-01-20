@@ -1,6 +1,9 @@
 // Код целиком написан нейросетью claude-3.5-sonnet
 // Спасибо, что работает
 
+const fileName = 'Bunks_1-2.json';
+const filePath = '../../Json-TailsRUS_P/BackboneStories/Content/Data/Dialogues/Act_I'
+
 const fs = require('fs');
 
 // Функция для чтения и парсинга JSON файла
@@ -46,8 +49,8 @@ function findAllTextProperties(obj, path = []) {
 // Получаем аргумент из командной строки: 'extract' или 'inject'
 const mode = process.argv[2] || 'extract';
 
-const inputPath = '../../Json-TailsRUS_P/BackboneStories/Content/Data/Dialogues/Act_I/ClarissaGrandpa_1-1.json';
-const outputPath = '../../Json-TailsRUS_P/BackboneStories/Content/Data/Dialogues/Act_I/TRANSLATE-ClarissaGrandpa_1-1.json';
+const inputPath = `${filePath}/${fileName}`;
+const outputPath = `${filePath}/TRANSLATE-${fileName}`;
 
 if (mode === 'extract') {
     const input = readJsonFile(inputPath);
@@ -59,7 +62,8 @@ if (mode === 'extract') {
     const translations = allTexts.map(item => ({
         path: item.path,
         key: item.value,
-        text: item.text
+        text: item.text,
+        originalText: item.text,
     }));
 
     try {
@@ -113,10 +117,9 @@ if (mode === 'extract') {
     console.log(`Обновлено переводов: ${updatedCount}`);
 
     // Сохраняем обновленный файл
-    const updatedPath = inputPath.replace('.json', '_updated.json');
     try {
-        fs.writeFileSync(updatedPath, JSON.stringify(originalFile, null, 2), 'utf8');
-        console.log('Переводы успешно внедрены в файл:', updatedPath);
+        fs.writeFileSync(inputPath, JSON.stringify(originalFile, null, 2), 'utf8');
+        console.log('Переводы успешно внедрены в файл:', inputPath);
     } catch (error) {
         console.error('Ошибка при сохранении обновленного файла:', error);
     }
