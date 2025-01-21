@@ -30,11 +30,9 @@
 ---
 
 ### Установка
-- Скачайте из релизов файл `TailsRUS_P.pak`
-- В нужном лаунчере перейдите к файлам игры
-- Переместите `TailsRUS_P.pak` в папку игры по пути `\Tails The Backbone Preludes\BackboneStories\Content\Paks`
-
-**Готово!**
+- Скачать из [релизов](https://github.com/Dellyare/tails-noir-preludes-rus/releases) файл `TailsRUS_P.pak`
+- В нужном лаунчере перейти к файлам игры
+- Переместить `TailsRUS_P.pak` в папку игры по пути `\Tails The Backbone Preludes\BackboneStories\Content\Paks`
 
 ---
 
@@ -43,8 +41,8 @@
 Внутри репозитория находятся вне инструменты, которые использовались для перевода
 
 Порядок для редактирования выглядит так:
-- Редактируем необходимый текст в `JSON-TailsRUS_P/../TRANSLATE-*.json`
-- Запускаем скрипт `tools/scripts/index.js` в режиме `inject`
-- Открываем `JSON-TailsRUS_P/../*.json` в `tools/utils/UAssetGUI.exe`
-- Выбираем **Save as** и перезаписываем нужный файл в `TailsRUS_P/../../*.uasset`
-- Запускаем `tools/utils/Packer/UnrealPak-Without-Compression.bat`, пак файл будет в `build/TailsRUS_P.pak`
+- Отредактировать нужный `text` в файле `JSON-TailsRUS_P/../TRANSLATE-*.json`
+- Изменить в `tools/scripts/index.js` константы `fileName` и `RELATIVE_PATH` для создания пути к нужному файлу
+- Запустить `tools/utils/UAssetGUI.exe`, указать ему Mapping.usmap как маппинг и назвать пресет `TailsNoir`
+- Выполнить `npm run inject`
+- Запустить `tools/utils/Packer/UnrealPak-Without-Compression.bat`, пак файл будет в `build/TailsRUS_P.pak`
