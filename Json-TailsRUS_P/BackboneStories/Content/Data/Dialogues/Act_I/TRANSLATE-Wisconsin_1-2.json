@@ -38,7 +38,7 @@
   {
     "path": "Exports.61.Data.0",
     "key": "AB9D57A54FD6A48B8FFDD689C3E6C450",
-    "text": "О! Привет! Новое лицо! Ты здесь учиться? Ты новенький, да? Я никогда не забываю лица!",
+    "text": "О! Привет! Новая морда! Ты учиться приехал? Ты новенький, да? Я никогда не забываю морды!",
     "originalText": "Oh! Hey there! A fresh face! Are you here to study? You're new, right? I never forget a face!"
   },
   {
@@ -98,13 +98,13 @@
   {
     "path": "Exports.63.Data.5.Value.3.Value.5",
     "key": "A9C5038243339827B99D898B7AE9215D",
-    "text": "Слишком привязчивый резидент-ассистент?",
+    "text": "Слишком привязчивый комендант?",
     "originalText": "An overly attached RA?"
   },
   {
     "path": "Exports.64.Data.0",
     "key": "7F74AFDA443E1D59FE8895893CA90876",
-    "text": "Ну, привет, \"новенький\"! Я Висконсин, ваш резидент-ассистент — и потенциально лучший друг!",
+    "text": "Ну, привет, \"новенький\"! Я Висконсин, ваш комендант — и потенциально лучший друг!",
     "originalText": "Well hello there, \"new\"! I'm Wisconsin, your resident assistant - and potentially best friend!"
   },
   {
@@ -122,13 +122,13 @@
   {
     "path": "Exports.64.Data.5.Value.2.Value.5",
     "key": "9B58DBBA40B8FCAF26D30F9CB9B00031",
-    "text": "Резидент-ассистент?",
+    "text": "Комендант?",
     "originalText": "Resident assistant?"
   },
   {
     "path": "Exports.65.Data.0",
     "key": "9CFB03D945B38C9C68388DBFA24A2BD4",
-    "text": "Ну, привет, Говард! Очень приятно познакомиться! Я Висконсин, и я буду твоим резидент-ассистентом — и твоим лучшим другом, если захочешь! Ха-ха! Хах.",
+    "text": "Ну, привет, Говард! Очень приятно познакомиться! Я Висконсин, и я буду твоим комендантом — и твоим лучшим другом, если захочешь! Ха-ха! Хах.",
     "originalText": "Well howdy Howard! It's so nice to meet you! I'm Wisconsin, and I'll be your resident assistant - and your best friend too, if you want one! Haha! Hah."
   },
   {
@@ -140,7 +140,7 @@
   {
     "path": "Exports.65.Data.6.Value.1.Value.5",
     "key": "C6B0BEE24E96B11E86FBDFBB2FFA7D12",
-    "text": "Резидент-ассистент?",
+    "text": "Комендант?",
     "originalText": "Resident assistant?"
   },
   {
@@ -278,7 +278,7 @@
   {
     "path": "Exports.73.Data.0",
     "key": "666A5CDC48E8CC610BF1B39CF6FFAFC6",
-    "text": "Я... Это, эм, это не твое настоящее имя, да? О, Шепард, я уже опозорился? О нет-нет-нет, Висконсин, только не снова!",
+    "text": "Я... Это, эм, это не твое настоящее имя, да? О Пастырь, я уже опозорился? О нет-нет-нет, Висконсин, только не снова!",
     "originalText": "I- That's, uh, that's not actually your name is it? Oh Shepherd, did I already make a fool out of myself? Oh no no no, Wisconsin - not again!"
   },
   {
