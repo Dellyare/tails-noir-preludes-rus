@@ -668,7 +668,7 @@
   {
     "path": "Exports.348.Data.0",
     "key": "86B761E34FC8E926580911BCA60775D8",
-    "text": "Да, конечно. Ты всегда была сообразительной девочкой, не так ли? Только Шепард знает, от кого ты это унаследовала!",
+    "text": "Да, конечно. Ты всегда была сообразительной девочкой, не так ли? Только Пастырь знает, от кого ты это унаследовала!",
     "originalText": "Yes, of course. You've always been a sharp little girl, haven't you? Only the Shepherd knows who you get it from!"
   },
   {
@@ -692,7 +692,7 @@
   {
     "path": "Exports.349.Data.0",
     "key": "01DCFEF44875676732CEC3B0BECE6D1F",
-    "text": "Ах, твоя нонна. Клемента. Да благословит её Шепард.",
+    "text": "Ах, твоя нонна. Клемента. Да благословит её Пастырь.",
     "originalText": "Ah, your nonna. Clementa. Shepherd bless her soul. "
   },
   {
@@ -914,7 +914,7 @@
   {
     "path": "Exports.359.Data.0",
     "key": "614BCCFF4AED22D40B0133ACBFE11982",
-    "text": "О, ну... я думал о далёком месте. О том, которого не существует, Белла. За горами. Зелёные листья... холмы, перекатывающиеся вдаль.",
+    "text": "О, ну... я думал о далёком месте. О том, которого не существует, Белла. За горами. Зелёные листья... холмы, уходящие вдаль.",
     "originalText": "Oh, well...I was thinking of a faraway place. One that doesn't exist, bella. Beyond the mountains. Green leaves...rolling hills."
   },
   {
@@ -1418,7 +1418,7 @@
   {
     "path": "Exports.383.Data.0",
     "key": "0CC4A7164E24F995CA5FEF89E33ACDA9",
-    "text": "\"Придёт конец осени, ветры усилятся, ветви деревьев склонятся под снегом — но весна освободит то, что холод держал в плену; уступи, уступи, ещё на один год.\"",
+    "text": "\"Придёт конец осени, ветра усилятся, ветви деревьев склонятся под снегом — но весна освободит то, что холод держал в плену; уступи, уступи, ещё на один год.\"",
     "originalText": "\"Come end of fall, the winds will grow, then twisting branches cusp the snow - but spring will free what cold held dear; give way, give way, for one more year.\""
   },
   {
@@ -3584,7 +3584,7 @@
   {
     "path": "Exports.486.Data.0",
     "key": "1DB744474544CDBC52696580ABD58B68",
-    "text": "Я тоже люблю тебя, Кларисса Белла. Я не мог бы попросить лучшей внучки. А теперь, давай. Думаю, пора ужинать. Пойдём?",
+    "text": "Я тоже люблю тебя, Кларисса белла. Я не мог бы попросить лучшей внучки. А теперь, давай. Думаю, пора ужинать. Пойдём?",
     "originalText": "I love you too, Clarissa bella. I couldn't ask for a better grandchild. Now, come on. I think it's time for dinner. Shall we?"
   },
   {
@@ -4142,13 +4142,13 @@
   {
     "path": "Exports.512.Data.6.Value.0.Value.5",
     "key": "A6D4A0384CF06FA0DE5AC79B8938EA3C",
-    "text": "Нет никакого полпути, дедушка. Ты никогда не сможешь стать достаточно умной!",
+    "text": "Нет никакого полпути, дедушка. Ты никогда не сможешь стать достаточно умным!",
     "originalText": "There's no halfway, Grandpa. You can never get smart enough!"
   },
   {
     "path": "Exports.512.Data.6.Value.1.Value.5",
     "key": "8535ED50424838907EEF9DB31DACF358",
-    "text": "Я на финишной прямой! Мне нужно ехать быстрее!",
+    "text": "Я на финишной прямой! Мне нужно бежать быстрее!",
     "originalText": "I'm on the final lap! I have to go faster!"
   },
   {
