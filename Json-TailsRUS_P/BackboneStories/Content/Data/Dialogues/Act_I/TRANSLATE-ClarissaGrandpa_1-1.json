@@ -8,25 +8,25 @@
   {
     "path": "Exports.318.Data.0",
     "key": "09FD3E8D4016F834EEEA3F98CFB40944",
-    "text": "Годы идут, Белла. Время, я полагаю. Скажи мне — кем ты будешь, когда вырастешь? Кем ты хочешь стать?",
+    "text": "Годы идут, белла. Время, я полагаю, скажи мне — кем ты будешь, когда вырастешь? Кем ты хочешь стать?",
     "originalText": "The years passing by, bella. Time itself, I suppose. Tell me - what will you be when you're older? Who do you want to be?"
   },
   {
     "path": "Exports.318.Data.6.Value.0.Value.5",
     "key": "82DADE5849AEF789DF0CBE951066EB1E",
-    "text": "(ПОЛУЧЕНО: ХИТРОСТЬ) Я хочу быть очень умной. Очень сообразительной.",
+    "text": "(РАЗВИТЬ ЧЕРТУ: ХИТРОСТЬ) Я хочу быть очень умной. Очень сообразительной.",
     "originalText": "(GAIN TRAIT: CUNNING) I want to be really smart. Really clever."
   },
   {
     "path": "Exports.318.Data.6.Value.1.Value.5",
     "key": "38A5713E4A6E841917D185890C18A49B",
-    "text": "(ПОЛУЧЕНО: АМБИЦИОЗНОСТЬ) Я хочу быть как ты, дедушка. Я стану большим начальником.",
+    "text": "(РАЗВИТЬ ЧЕРТУ: АМБИЦИОЗНОСТЬ) Я хочу быть как ты, дедушка. Я стану большим начальником.",
     "originalText": "(GAIN TRAIT: AMBITIOUS) I want to be like you, Grandpa. I'll be a big boss."
   },
   {
     "path": "Exports.318.Data.6.Value.2.Value.5",
     "key": "80360F044265584A5C2B9280966BFEE4",
-    "text": "(ПОЛУЧЕНО: СИЛА) Я хочу, чтобы люди меня слушались!",
+    "text": "(РАЗВИТЬ ЧЕРТУ: СИЛА) Я хочу, чтобы люди меня слушались!",
     "originalText": "(GAIN TRAIT: POWERFUL) I want people to listen to me!"
   },
   {
@@ -110,7 +110,7 @@
   {
     "path": "Exports.322.Data.6.Value.1.Value.5",
     "key": "A35183F74EF1C1EF195E7B9A25F0A133",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -284,7 +284,7 @@
   {
     "path": "Exports.330.Data.5.Value.0.Value.5",
     "key": "D662BCE1421D085F99A4D3AD629D2229",
-    "text": "[Пожимание плечами] Я просто знаю.",
+    "text": "[Пожать плечами] Я просто знаю.",
     "originalText": "[Shrug] I just know."
   },
   {
@@ -356,7 +356,7 @@
   {
     "path": "Exports.333.Data.6.Value.2.Value.5",
     "key": "6BAAA84D4DCE37E8CDDEA5B31960D443",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -434,7 +434,7 @@
   {
     "path": "Exports.337.Data.5.Value.1.Value.5",
     "key": "FCEA0B5D4F5B339514C712B46B480109",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -728,7 +728,7 @@
   {
     "path": "Exports.350.Data.5.Value.1.Value.5",
     "key": "B80E4CA34418C3D5D688A39A11766719",
-    "text": "[Пожимание плечами] Наверное.",
+    "text": "[Пожать плечами] Наверное.",
     "originalText": "[Shrug] I guess."
   },
   {
@@ -860,7 +860,7 @@
   {
     "path": "Exports.356.Data.6.Value.2.Value.5",
     "key": "BE82AC984E2F5A6E9C794697C496BAE9",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -884,7 +884,7 @@
   {
     "path": "Exports.357.Data.6.Value.2.Value.5",
     "key": "D8839C3A466E848AF311348FF7511DAE",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -896,7 +896,7 @@
   {
     "path": "Exports.358.Data.6.Value.0.Value.5",
     "key": "213578634C844BFA3CB1F89F44CD4593",
-    "text": "[Пожимание плечами] Большие черви.",
+    "text": "[Пожать плечами] Большие черви.",
     "originalText": "[Shrug] Big worms."
   },
   {
@@ -1148,7 +1148,7 @@
   {
     "path": "Exports.369.Data.6.Value.2.Value.5",
     "key": "FF78EEA04A3D25909A9A318390C04D61",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -1172,7 +1172,7 @@
   {
     "path": "Exports.371.Data.6.Value.0.Value.5",
     "key": "67AD4B0740DC37BE2D0DD1B4AB2EBB2C",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -1208,7 +1208,7 @@
   {
     "path": "Exports.372.Data.5.Value.2.Value.5",
     "key": "7B1673554AB63282FAAEBBB91B90117A",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -1322,7 +1322,7 @@
   {
     "path": "Exports.378.Data.6.Value.0.Value.5",
     "key": "3F5719594D5BB999C2FD27A9015C12D4",
-    "text": "[Пожимание плечами] Большие черви.",
+    "text": "[Пожать плечами] Большие черви.",
     "originalText": "[Shrug] Big worms."
   },
   {
@@ -1508,7 +1508,7 @@
   {
     "path": "Exports.387.Data.5.Value.1.Value.5",
     "key": "57C9B6FB434500987FC99E97AC51E406",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -1556,7 +1556,7 @@
   {
     "path": "Exports.389.Data.6.Value.2.Value.5",
     "key": "E7C859A7454B3FEA91492CAB29227B92",
-    "text": "[Пожимание плечами] Я не очень хорош в этом. Не знаю почему.",
+    "text": "[Пожать плечами] Я не очень хорош в этом. Не знаю почему.",
     "originalText": "[Shrug] I'm not very good at it. I don't know why."
   },
   {
@@ -1598,7 +1598,7 @@
   {
     "path": "Exports.391.Data.6.Value.1.Value.5",
     "key": "B1821B644B64D9D46F9386AFFFA9664B",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -1616,7 +1616,7 @@
   {
     "path": "Exports.392.Data.6.Value.1.Value.5",
     "key": "730AB0774D04F5AD455CFD9D039C308E",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -1730,7 +1730,7 @@
   {
     "path": "Exports.398.Data.6.Value.0.Value.5",
     "key": "B927CCDF4EB066FFE20090B5B567B136",
-    "text": "[Пожимание плечами] Мне нравится, потому что это легко.",
+    "text": "[Пожать плечами] Мне нравится, потому что это легко.",
     "originalText": "[Shrug] I like it because it's easy."
   },
   {
@@ -1742,7 +1742,7 @@
   {
     "path": "Exports.398.Data.6.Value.2.Value.5",
     "key": "FD20A68C4D4683FCC5C91EB3D990B3FD",
-    "text": "[Пожимание плечами] Ты хорошо учился в школе, дедушка?",
+    "text": "[Пожать плечами] Ты хорошо учился в школе, дедушка?",
     "originalText": "[Shrug] Were you good at being in school, Grandpa?"
   },
   {
@@ -1838,7 +1838,7 @@
   {
     "path": "Exports.403.Data.6.Value.0.Value.5",
     "key": "9E9CBA8C445FAB0231BBAE99FDF5E501",
-    "text": "[Пожимание плечами] Мне просто нравятся.",
+    "text": "[Пожать плечами] Мне просто нравятся.",
     "originalText": "[Shrug] I just like them."
   },
   {
@@ -2024,7 +2024,7 @@
   {
     "path": "Exports.412.Data.5.Value.1.Value.5",
     "key": "AF6BDA6444406DD3372CB981E2B7B069",
-    "text": "[Пожимание плечами] Я не знаю.",
+    "text": "[Пожать плечами] Я не знаю.",
     "originalText": "[Shrug] I don't know."
   },
   {
@@ -2198,7 +2198,7 @@
   {
     "path": "Exports.421.Data.6.Value.1.Value.5",
     "key": "30B7F792479E17D77F187CA5E349B6BA",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -2306,7 +2306,7 @@
   {
     "path": "Exports.426.Data.6.Value.0.Value.5",
     "key": "8A205B3146EA680E64D98C9CE4FB719E",
-    "text": "[Пожимание плечами] Мне нравятся мои друзья, наверное.",
+    "text": "[Пожать плечами] Мне нравятся мои друзья, наверное.",
     "originalText": "[Shrug] I like my friends, I guess?"
   },
   {
@@ -2360,7 +2360,7 @@
   {
     "path": "Exports.428.Data.6.Value.2.Value.5",
     "key": "089694714F41E42325E43FBF9A6CFAE3",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -2474,7 +2474,7 @@
   {
     "path": "Exports.433.Data.6.Value.1.Value.5",
     "key": "3665D89A406F99C05E24F3B91EB558A4",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -2498,7 +2498,7 @@
   {
     "path": "Exports.434.Data.6.Value.1.Value.5",
     "key": "E24F0D574FB5B1ED4E1C05A912724449",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -2558,7 +2558,7 @@
   {
     "path": "Exports.437.Data.6.Value.1.Value.5",
     "key": "3E669031484D29C4D5EA09B18F06067B",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -2576,7 +2576,7 @@
   {
     "path": "Exports.438.Data.6.Value.1.Value.5",
     "key": "B7433B02454B7F13417C90964445F705",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -2624,7 +2624,7 @@
   {
     "path": "Exports.440.Data.5.Value.1.Value.5",
     "key": "7E001379433C514501C412B2DF865949",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -2756,7 +2756,7 @@
   {
     "path": "Exports.447.Data.6.Value.1.Value.5",
     "key": "AEA9245B40D428F3C0FA7DABDFC2C6E1",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -2768,7 +2768,7 @@
   {
     "path": "Exports.448.Data.5.Value.0.Value.5",
     "key": "2D14BDFE41D9EDC1F569439823C82908",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -2858,7 +2858,7 @@
   {
     "path": "Exports.452.Data.5.Value.0.Value.5",
     "key": "F8A1DEC3436BA23731B1C2B8965797C9",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -3218,7 +3218,7 @@
   {
     "path": "Exports.468.Data.6.Value.2.Value.5",
     "key": "FE0AFDEE42ECCA3826726E98B276F122",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -3266,7 +3266,7 @@
   {
     "path": "Exports.470.Data.6.Value.2.Value.5",
     "key": "A1D0A3E64F115B0ED2597EA82ACBF896",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -3290,7 +3290,7 @@
   {
     "path": "Exports.471.Data.6.Value.2.Value.5",
     "key": "D3CD77A54D568836E3C364866704781E",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -3314,7 +3314,7 @@
   {
     "path": "Exports.472.Data.6.Value.2.Value.5",
     "key": "55E0EF2648EAFE68B69C8482565E3636",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -3332,7 +3332,7 @@
   {
     "path": "Exports.473.Data.6.Value.1.Value.5",
     "key": "299550AA4E338BC843AE14948598CA9B",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -3344,13 +3344,13 @@
   {
     "path": "Exports.474.Data.6.Value.0.Value.5",
     "key": "55E4A5C647EEEE332B4E46BD4A7CC3D7",
-    "text": "[Кивок]",
+    "text": "[Покивать]",
     "originalText": "[Nod]"
   },
   {
     "path": "Exports.474.Data.6.Value.1.Value.5",
     "key": "621A92BE44D3C3A2B5406AA7D6DBDD97",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -3362,13 +3362,13 @@
   {
     "path": "Exports.475.Data.6.Value.0.Value.5",
     "key": "3A417D9140B213B9AB7F50B316C6DD9D",
-    "text": "[Кивок]",
+    "text": "[Покивать]",
     "originalText": "[Nod]"
   },
   {
     "path": "Exports.475.Data.6.Value.1.Value.5",
     "key": "3A286CCA4D76D3D7A6A390A91FF2CECA",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -3428,7 +3428,7 @@
   {
     "path": "Exports.478.Data.6.Value.2.Value.5",
     "key": "279D3A3F48ED117D461AFC8D83249043",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -3506,19 +3506,19 @@
   {
     "path": "Exports.482.Data.6.Value.0.Value.5",
     "key": "498BA531441F1311DB99E1880E7FFE86",
-    "text": "(ПОЛУЧЕНО: ХИТРОСТЬ) Я хочу быть очень умной. Очень сообразительной.",
+    "text": "(РАЗВИТЬ ЧЕРТУ: ХИТРОСТЬ) Я хочу быть очень умной. Очень сообразительной.",
     "originalText": "(GAIN TRAIT: CUNNING) I want to be really smart. Really clever."
   },
   {
     "path": "Exports.482.Data.6.Value.1.Value.5",
     "key": "6FFECF8F4E6AF26D447F36BF9C1F8D30",
-    "text": "(ПОЛУЧЕНО: АМБИЦИОЗНОСТЬ) Я хочу быть как ты, дедушка. Я стану большим начальником.",
+    "text": "(РАЗВИТЬ ЧЕРТУ: АМБИЦИОЗНОСТЬ) Я хочу быть как ты, дедушка. Я стану большим начальником.",
     "originalText": "(GAIN TRAIT: AMBITIOUS) I want to be like you, Grandpa. I'll be a big boss."
   },
   {
     "path": "Exports.482.Data.6.Value.2.Value.5",
     "key": "A23F0B4C4FC5E3619EAE82A8EC3D74DF",
-    "text": "(ПОЛУЧЕНО: СИЛА) Я хочу, чтобы люди меня слушались!",
+    "text": "(РАЗВИТЬ ЧЕРТУ: СИЛА) Я хочу, чтобы люди меня слушались!",
     "originalText": "(GAIN TRAIT: POWERFUL) I want people to listen to me!"
   },
   {
@@ -3542,7 +3542,7 @@
   {
     "path": "Exports.483.Data.6.Value.2.Value.5",
     "key": "F7FFD89D47408224BD6ADF9485B22F8F",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -3560,7 +3560,7 @@
   {
     "path": "Exports.484.Data.6.Value.1.Value.5",
     "key": "A8491AEE429990CE5D31F7A8AB88F573",
-    "text": "[Пожимание плечами в последний раз]",
+    "text": "[Пожать плечами в последний раз]",
     "originalText": "[Shrug one last time]"
   },
   {
@@ -3578,7 +3578,7 @@
   {
     "path": "Exports.485.Data.6.Value.1.Value.5",
     "key": "0D99A1E9489956EA648A35AF5F6F9B9B",
-    "text": "[Пожимание плечами в последний раз]",
+    "text": "[Пожать плечами в последний раз]",
     "originalText": "[Shrug one last time]"
   },
   {
@@ -3596,7 +3596,7 @@
   {
     "path": "Exports.486.Data.6.Value.1.Value.5",
     "key": "AECBA19148DDA27D70413FA4A1260C51",
-    "text": "[Пожимание плечами в последний раз]",
+    "text": "[Пожать плечами в последний раз]",
     "originalText": "[Shrug one last time]"
   },
   {
@@ -3674,7 +3674,7 @@
   {
     "path": "Exports.490.Data.6.Value.1.Value.5",
     "key": "95A074C1404D7A37769B15ADDE722D09",
-    "text": "[Пожимание плечами в последний раз]",
+    "text": "[Пожать плечами в последний раз]",
     "originalText": "[Shrug one last time]"
   },
   {
@@ -3692,7 +3692,7 @@
   {
     "path": "Exports.491.Data.6.Value.1.Value.5",
     "key": "B7558B2D4FB9AAFD11981FA839B2469F",
-    "text": "[Пожимание плечами в последний раз]",
+    "text": "[Пожать плечами в последний раз]",
     "originalText": "[Shrug one last time]"
   },
   {
@@ -3710,7 +3710,7 @@
   {
     "path": "Exports.492.Data.6.Value.1.Value.5",
     "key": "76814F2C49EBE2F0FED67FBB15E21D32",
-    "text": "[Пожимание плечами в последний раз]",
+    "text": "[Пожать плечами в последний раз]",
     "originalText": "[Shrug one last time]"
   },
   {
@@ -3734,7 +3734,7 @@
   {
     "path": "Exports.493.Data.6.Value.2.Value.5",
     "key": "28E90A854F3760E9C9A156A9448612CD",
-    "text": "[Пожимание плечами] Мы не узнаем, пока у нас нет цифр, чтобы это доказать.",
+    "text": "[Пожать плечами] Мы не узнаем, пока у нас нет цифр, чтобы это доказать.",
     "originalText": "[Shrug] We don't know unless we have numbers to prove it."
   },
   {
@@ -3752,7 +3752,7 @@
   {
     "path": "Exports.494.Data.5.Value.1.Value.5",
     "key": "A738F9D245A875CB7C4D009E3544935A",
-    "text": "[Пожимание плечами] По крайней мере, я еду быстро.",
+    "text": "[Пожать плечами] По крайней мере, я еду быстро.",
     "originalText": "[Shrug] At least I'm going fast."
   },
   {
@@ -3782,7 +3782,7 @@
   {
     "path": "Exports.495.Data.6.Value.2.Value.5",
     "key": "E8B070BE4DDD6EDDFE39A28DD93525F1",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -3800,7 +3800,7 @@
   {
     "path": "Exports.496.Data.6.Value.1.Value.5",
     "key": "F63D50494FEAB769F92644839B500B1A",
-    "text": "[Пожимание плечами в последний раз]",
+    "text": "[Пожать плечами в последний раз]",
     "originalText": "[Shrug one last time]"
   },
   {
@@ -3818,7 +3818,7 @@
   {
     "path": "Exports.497.Data.6.Value.1.Value.5",
     "key": "B4A0FE3E44B38CCF2BBF91BAC8EAF59A",
-    "text": "[Пожимание плечами в последний раз]",
+    "text": "[Пожать плечами в последний раз]",
     "originalText": "[Shrug one last time]"
   },
   {
@@ -3860,7 +3860,7 @@
   {
     "path": "Exports.499.Data.6.Value.1.Value.5",
     "key": "8EEDBED948E0FEFB010A75883EDEBF91",
-    "text": "[Пожимание плечами в последний раз]",
+    "text": "[Пожать плечами в последний раз]",
     "originalText": "[Shrug one last time]"
   },
   {
@@ -4190,7 +4190,7 @@
   {
     "path": "Exports.514.Data.6.Value.1.Value.5",
     "key": "C10DFA6E45E3AA72049A6C980C2A4921",
-    "text": "[Пожимание плечами менее задумчиво]",
+    "text": "[Пожать плечами менее задумчиво]",
     "originalText": "[Shrug less thoughtfully]"
   },
   {
@@ -4244,7 +4244,7 @@
   {
     "path": "Exports.517.Data.6.Value.0.Value.5",
     "key": "A9250BB94AA79551EC3B239CAEBE238C",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -4310,7 +4310,7 @@
   {
     "path": "Exports.519.Data.6.Value.2.Value.5",
     "key": "BE86986B496DAFE25265F895E4D5AA21",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -4334,7 +4334,7 @@
   {
     "path": "Exports.520.Data.6.Value.2.Value.5",
     "key": "1863915B49ED76D1C21B3F82BE5BB2C7",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -4358,7 +4358,7 @@
   {
     "path": "Exports.521.Data.6.Value.2.Value.5",
     "key": "99FBD8B84520A65E965A8993671FE182",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -4382,7 +4382,7 @@
   {
     "path": "Exports.522.Data.6.Value.2.Value.5",
     "key": "B4178CEE408238E2A0AEE58CC3E11E00",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -4430,7 +4430,7 @@
   {
     "path": "Exports.524.Data.6.Value.2.Value.5",
     "key": "7554BAF24F64D2A87EDAD880C7A0456E",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -4466,7 +4466,7 @@
   {
     "path": "Exports.526.Data.6.Value.1.Value.5",
     "key": "0B02E30347EE4DF9D1A36DA49A71C27E",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
@@ -4736,7 +4736,7 @@
   {
     "path": "Exports.541.Data.6.Value.1.Value.5",
     "key": "8810C121465EDDA6BBC3DCB2B664778A",
-    "text": "[Пожимание плечами]",
+    "text": "[Пожать плечами]",
     "originalText": "[Shrug]"
   },
   {
