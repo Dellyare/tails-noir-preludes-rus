@@ -8,7 +8,7 @@
   {
     "path": "Exports.29.Data.0",
     "key": "005F4A314BA1943F7D3F06A235845438",
-    "text": "Солнце в последнее время беспощадно, и работать днём стало настоящей пыткой.",
+    "text": "В последнее время солнце светит нещадно, и днем не успеваешь ничего сделать.",
     "originalText": "Sun's been harsh lately, and it's been a chore to get any work done during the day. "
   },
   {
@@ -44,7 +44,7 @@
   {
     "path": "Exports.30.Data.5.Value.1.Value.5",
     "key": "901720204BA3670FC9766BBD716AA0B4",
-    "text": "Я начал отключаться, думая о всём, что осталось дома.",
+    "text": "Я начал отвлекаться, думая о всём, что осталось дома.",
     "originalText": "I've started zoning out, thinking about everything back home."
   },
   {
@@ -68,7 +68,7 @@
   {
     "path": "Exports.31.Data.5.Value.1.Value.5",
     "key": "31B7AD0841A2E299D495958A66066CE7",
-    "text": "Думаю, он просто издевается надо мной. Нет записей о каких-либо экспедициях за стену с момента основания Научного Города.",
+    "text": "Думаю, он просто издевается надо мной. Нет записей о каких-либо экспедициях за стену с момента основания Наукограда",
     "originalText": "I think he's just messing with me, though. There's no record of any expeditions outside the wall since Science City's formation."
   },
   {
@@ -86,7 +86,7 @@
   {
     "path": "Exports.32.Data.5.Value.0.Value.5",
     "key": "736F5C3A488783596E7E33BA2F86655A",
-    "text": "Думаю, он просто издевается надо мной. Нет записей о каких-либо экспедициях за стену с момента основания Научного Города.",
+    "text": "Думаю, он просто издевается надо мной. Нет записей о каких-либо экспедициях за стену с момента основания Наукограда",
     "originalText": "I think he's just messing with me, though. There's no record of any expeditions outside the wall since Science City's formation."
   },
   {
@@ -104,7 +104,7 @@
   {
     "path": "Exports.33.Data.0",
     "key": "AB62DB064959CEAB37B523AB33D126C8",
-    "text": "14 августа. Всё ещё жив, хотите верьте, хотите нет. Никаких признаков радиационного отравления у нас обоих. Однако нас накрыла песчаная буря, но она была управляемой и далеко не такой опасной, как нас предупреждали.",
+    "text": "14 августа. Всё ещё жив, хотите верьте, хотите нет. Ни у кого из нас нет признаков радиационного отравления. Однако нас накрыла песчаная буря, но она была управляемой и далеко не такой опасной, как нас предупреждали.",
     "originalText": "Aug 14th. Still alive, believe it or not. No signs of radiation poisoning in either of us. We've been hit by a dust storm, however, but it's been manageable and far from as dangerous as we were led to believe."
   },
   {
@@ -152,19 +152,19 @@
   {
     "path": "Exports.35.Data.5.Value.0.Value.5",
     "key": "D685E3BE4D264DD78C0EFA95F1668B14",
-    "text": "(ПОЛУЧЕНО: ИДЕАЛИСТ) Думаю, это наши инструменты реагируют на осадочные химикаты в яме, но раскопки скоро закончатся.",
+    "text": "(РАЗВИТЬ ЧЕРТУ: ИДЕАЛИСТ) Думаю, это наши инструменты реагируют на осадочные химикаты в яме, но раскопки скоро закончатся.",
     "originalText": "(GAIN TRAIT: IDEALIST) I think it's our tools that are reacting with the sedimentary chemicals in the pit, but the excavation should be over soon."
   },
   {
     "path": "Exports.35.Data.5.Value.1.Value.5",
     "key": "EA9F107446CE0F0859089291FFA955D8",
-    "text": "(ПОЛУЧЕНО: РЕАЛИСТ) Скорее всего, мы слишком долго здесь находимся, и это начинает сказываться на нас.",
+    "text": "(РАЗВИТЬ ЧЕРТУ: РЕАЛИСТ) Скорее всего, мы слишком долго здесь находимся, и это начинает сказываться на нас.",
     "originalText": "(GAIN TRAIT: REALIST) More likely than not, we've been out here a bit too long and are starting to get a little funny."
   },
   {
     "path": "Exports.35.Data.5.Value.2.Value.5",
     "key": "C529560B4F6E7709DDF2BC81457CB10A",
-    "text": "(ПОЛУЧЕНО: ЦИНИК) Пустошь должна быть пропитана радиацией. Честно говоря, я удивлён, что мы всё ещё живы.",
+    "text": "(РАЗВИТЬ ЧЕРТУ: ЦИНИК) Пустошь должна быть пропитана радиацией. Честно говоря, я удивлён, что мы всё ещё живы.",
     "originalText": "(GAIN TRAIT: CYNIC) The wasteland is supposed to be riddled with radiation. I'm surprised we're still alive, to be honest."
   },
   {
