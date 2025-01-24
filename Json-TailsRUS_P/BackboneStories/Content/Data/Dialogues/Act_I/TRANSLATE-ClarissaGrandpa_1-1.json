@@ -26,7 +26,7 @@
   {
     "path": "Exports.318.Data.6.Value.2.Value.5",
     "key": "80360F044265584A5C2B9280966BFEE4",
-    "text": "(РАЗВИТЬ ЧЕРТУ: СИЛА) Я хочу, чтобы люди меня слушались!",
+    "text": "(РАЗВИТЬ ЧЕРТУ: СИЛА) Я хочу, чтобы звери меня слушались!",
     "originalText": "(GAIN TRAIT: POWERFUL) I want people to listen to me!"
   },
   {
@@ -56,19 +56,19 @@
   {
     "path": "Exports.320.Data.0",
     "key": "C50D49D7458B4210060E5BB229AB278B",
-    "text": "Это хорошо! Нельзя всё время переживать о том, что думают другие. В этом городе много людей, и у всех есть своё мнение обо всём!",
+    "text": "Это хорошо! Нельзя всё время переживать о том, что думают другие. В этом городе много зверей, и у всех есть своё мнение обо всём!",
     "originalText": "That's good! You can't spend all your time worrying about what other people think. There's a lot of people in this city, and they all have opinions on everything!"
   },
   {
     "path": "Exports.320.Data.6.Value.0.Value.5",
     "key": "BCD5081C413D17B1B1D55B9CC47246E0",
-    "text": "Люди тебя любят, дедушка?",
+    "text": "звери тебя любят, дедушка?",
     "originalText": "Do people like you, Grandpa?"
   },
   {
     "path": "Exports.320.Data.6.Value.1.Value.5",
     "key": "34EAFA514ACB50AE64016988D3D37D1D",
-    "text": "Люди любят нас, дедушка? Нашу семью?",
+    "text": "звери любят нас, дедушка? Нашу семью?",
     "originalText": "Do people like us, Grandpa? Our family?"
   },
   {
@@ -194,7 +194,7 @@
   {
     "path": "Exports.326.Data.5.Value.0.Value.5",
     "key": "90302A91481CE42E2AC1D496AD342B62",
-    "text": "Почему люди всегда тебя слушают, дедушка?",
+    "text": "Почему звери всегда тебя слушают, дедушка?",
     "originalText": "How come people always listen to you, Grandpa?"
   },
   {
@@ -218,7 +218,7 @@
   {
     "path": "Exports.327.Data.5.Value.0.Value.5",
     "key": "DD0672D746B871F63AD7B6B5126AE8C6",
-    "text": "Почему люди всегда тебя слушают, дедушка?",
+    "text": "Почему звери всегда тебя слушают, дедушка?",
     "originalText": "How come people always listen to you, Grandpa?"
   },
   {
@@ -302,7 +302,7 @@
   {
     "path": "Exports.331.Data.0",
     "key": "46B4DEEA4199BE95A425A99D800E9568",
-    "text": "Правда? Полагаю, это так. Видишь ли, Кларисса... у дедушки много друзей по всему городу. Самые разные люди, большие и маленькие. На самом деле, многие из них живут здесь, в Гастауне!",
+    "text": "Правда? Полагаю, это так. Видишь ли, Кларисса... у дедушки много друзей по всему городу. Самые разные звери, большие и маленькие. На самом деле, многие из них живут здесь, в Гастауне!",
     "originalText": "They do? I suppose that's right. You see, Clarissa...Grandpa has a lot of friends, all over the city. All sorts of people, big and small. In fact, many of them live here in Gastown!"
   },
   {
@@ -440,7 +440,7 @@
   {
     "path": "Exports.338.Data.0",
     "key": "E36207754F606C22D3A17C8D88815E18",
-    "text": "Нет, нет. Я работаю со всеми, по всему городу, но в основном люди сами ко мне приходят.",
+    "text": "Нет, нет. Я работаю со всеми, по всему городу, но в основном звери сами ко мне приходят.",
     "originalText": "No, no. I work with everything, all over the city, but people mostly come to me. "
   },
   {
@@ -584,7 +584,7 @@
   {
     "path": "Exports.344.Data.5.Value.0.Value.5",
     "key": "D16F2B374781B7B8BE243186D7CB4854",
-    "text": "Люди всегда тебя слушают, дедушка.",
+    "text": "звери всегда тебя слушают, дедушка.",
     "originalText": "People always listen to you, Grandpa."
   },
   {
@@ -626,7 +626,7 @@
   {
     "path": "Exports.346.Data.0",
     "key": "4E55544C47000E335ACD59BA344C9CA5",
-    "text": "Всё в порядке, Белла. У тебя ещё много времени, чтобы выучить самые разные слова. И я обязательно научу тебя самым лучшим из тех, что знаю.",
+    "text": "Всё в порядке, белла. У тебя ещё много времени, чтобы выучить самые разные слова. И я обязательно научу тебя самым лучшим из тех, что знаю.",
     "originalText": "That's alright, bella. There's plenty of time to learn all sorts of words. And I'll be sure to teach you the best ones I know."
   },
   {
@@ -716,7 +716,7 @@
   {
     "path": "Exports.350.Data.0",
     "key": "FF178EA34472A3281BD8CE88909A3A4E",
-    "text": "Конечно, есть много людей, которые хотят со мной дружить. Ты права насчёт этого. Уверен, то же самое и с тобой, Кларисса! Уверен, ты хорошо ладишь с одноклассниками.",
+    "text": "Конечно, есть много зверей, которые хотят со мной дружить. Ты права насчёт этого. Уверен, то же самое и с тобой, Кларисса! Уверен, ты хорошо ладишь с одноклассниками.",
     "originalText": "There are certainly a lot of people who want to be my friend. You're right about that. I'm sure the same is true for you, Clarissa! I'm sure you get along well with your classmates."
   },
   {
@@ -758,13 +758,13 @@
   {
     "path": "Exports.351.Data.6.Value.2.Value.5",
     "key": "478D23ED4ED1D63F710F8089402B5E2E",
-    "text": "Думаю, многие люди не понимают.",
+    "text": "Думаю, многие звери не понимают.",
     "originalText": "I think a lot of people don't."
   },
   {
     "path": "Exports.352.Data.0",
     "key": "7A2AF4864B6377958DF5E49980B059BA",
-    "text": "Нет! Нет, совсем нет. На самом деле, я думаю, это многое говорит о том, каким человеком она была — и каким человеком являешься ты.",
+    "text": "Нет! Нет, совсем нет. На самом деле, я думаю, это многое говорит о том, каким зверьом она была — и каким зверьом являешься ты.",
     "originalText": "No! No, not at all. In fact, I think it speaks volumes to what kind of person she was - and what kind of person you are."
   },
   {
@@ -776,7 +776,7 @@
   {
     "path": "Exports.352.Data.6.Value.1.Value.5",
     "key": "DF375F414CC162A006D2EDB50CB52411",
-    "text": "Лучшим человеком. Бабушка, я имею в виду.",
+    "text": "Лучшим зверьом. Бабушка, я имею в виду.",
     "originalText": "The best person. Grandma, I mean."
   },
   {
@@ -800,7 +800,7 @@
   {
     "path": "Exports.354.Data.0",
     "key": "3443B0024EC0148921EBF7A06E296EE6",
-    "text": "Согласен, белла. Нет большего сокровища в мире, чем иметь рядом людей, которые тебе доверяют и любят тебя. Верных, добрых, умных людей.",
+    "text": "Согласен, белла. Нет большего сокровища в мире, чем иметь рядом зверей, которые тебе доверяют и любят тебя. Верных, добрых, умных зверей.",
     "originalText": "I agree, bella. There's no greater treasure in the world than having people close to you that trust you and love you. Loyal, kind, clever people."
   },
   {
@@ -932,7 +932,7 @@
   {
     "path": "Exports.359.Data.6.Value.2.Value.5",
     "key": "4A9FC74D4D27CA055732B885679449CF",
-    "text": "[Продолжаю слушать]",
+    "text": "[Продолжать слушать]",
     "originalText": "[Keep listening]"
   },
   {
@@ -944,7 +944,7 @@
   {
     "path": "Exports.360.Data.6.Value.0.Value.5",
     "key": "A38303194E08743E7D0D2C918713620D",
-    "text": "[Ворчу себе под нос] Какие-то противные злюки.",
+    "text": "[Ворча под нос] Какие-то противные злюки.",
     "originalText": "[Grumble to yourself] What a bunch of crappy meanies."
   },
   {
@@ -956,7 +956,7 @@
   {
     "path": "Exports.360.Data.6.Value.2.Value.5",
     "key": "065F8AA84A19E057BF09B6BCCCF1E3F5",
-    "text": "[Молчу]",
+    "text": "[Промолчать]",
     "originalText": "[Say nothing]"
   },
   {
@@ -986,7 +986,7 @@
   {
     "path": "Exports.362.Data.0",
     "key": "BF9429E24B73370F145C23A8E886F15F",
-    "text": "Это не сложно, Белла. Не в том смысле, как ты думаешь. Это просто медленно. Настолько медленно, что ты даже не замечаешь, как это происходит.",
+    "text": "Это не сложно, белла. Не в том смысле, как ты думаешь. Это просто медленно. Настолько медленно, что ты даже не замечаешь, как это происходит.",
     "originalText": "It's not hard, bella. Not in the way you might be thinking. It's just slow. So slow you don't even know it's happening."
   },
   {
@@ -1022,7 +1022,7 @@
   {
     "path": "Exports.363.Data.6.Value.1.Value.5",
     "key": "6783B1434150674582447FA0EFFA7594",
-    "text": "Мне всё равно! Я готова сражаться за это.",
+    "text": "Мне всё равно! Я готова драться за это.",
     "originalText": "I don't care! I'm ready to fight them for it."
   },
   {
@@ -1112,7 +1112,7 @@
   {
     "path": "Exports.368.Data.0",
     "key": "419929CE459A5E324F4BA18C96F5F227",
-    "text": "Хорошо! Это важно — смеяться. Гораздо важнее, чем многие думают.",
+    "text": "Хорошо! Смеяться это важно! Гораздо важнее, чем многие думают.",
     "originalText": "Good! It's important to laugh. Far more important than most people realize."
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "path": "Exports.371.Data.0",
     "key": "6E437B3A4C8E15A9C3742CBFA4024E31",
-    "text": "Нет? Ты не хочешь об этом говорить? Ты можешь рассказывать мне всё, белла.",
+    "text": "Нет? Ты не хочешь об этом говорить? Ты можешь рассказать мне всё, белла.",
     "originalText": "No? You don't want to talk about it? You can tell me anything, bella."
   },
   {
@@ -1352,7 +1352,7 @@
   {
     "path": "Exports.379.Data.5.Value.1.Value.5",
     "key": "8D1BEA344B9F9A5B7B9B3DA306FD611F",
-    "text": "[Шепчет] Я так и знал.",
+    "text": "[Шепчет] Я так и знала.",
     "originalText": "[Whisper] I knew it."
   },
   {
@@ -1394,7 +1394,7 @@
   {
     "path": "Exports.382.Data.0",
     "key": "E3FAFDB14C847AA60814EB9A3C74659E",
-    "text": "Кто знает? Может, мы найдём ещё по дороге домой. О, сегодня такой прекрасный день, не правда ли? Такие дни нужно ценить. Если не будешь, они пролетят мгновенно, и ты запомнишь только серые тучи.",
+    "text": "Кто знает? Может, мы найдём ещё по дороге домой. Ох, сегодня такой прекрасный день, не правда ли? Такие дни нужно ценить. Если не будешь, то они пролетят мгновенно, и ты запомнишь только дождевые тучи.",
     "originalText": "Who knows? Maybe we'll find some more on the way back home. Oh, it's a beautiful day today, isn't it? It's days like this you have to cherish, make no mistake. If you don't, they'll pass you by in a flash and all you'll remember are rainclouds."
   },
   {
@@ -1418,7 +1418,7 @@
   {
     "path": "Exports.383.Data.0",
     "key": "0CC4A7164E24F995CA5FEF89E33ACDA9",
-    "text": "\"Придёт конец осени, ветра усилятся, ветви деревьев склонятся под снегом — но весна освободит то, что холод держал в плену; уступи, уступи, ещё на один год.\"",
+    "text": "\"Зима недаром злится, прошла ее пора – весна в окно стучится и гонит со двора. И все засуетилось, все нудит Зиму вон – и жаворонки в небе уж подняли трезвон.\"",
     "originalText": "\"Come end of fall, the winds will grow, then twisting branches cusp the snow - but spring will free what cold held dear; give way, give way, for one more year.\""
   },
   {
@@ -1448,7 +1448,7 @@
   {
     "path": "Exports.385.Data.0",
     "key": "FD07717442C3F3D38B0A81BADA66D3DE",
-    "text": "Не может, полагаю. Но их было бы много. Холмы, насколько хватает глаз!",
+    "text": "Не может, думаю. Но холмов было бы много, насколько хватает глаз!",
     "originalText": "It couldn't, I suppose. But there'd be many. Hills as far as the eye could see!"
   },
   {
@@ -1634,7 +1634,7 @@
   {
     "path": "Exports.393.Data.6.Value.0.Value.5",
     "key": "C275A6F142EDDA779F26909A2A5BF87B",
-    "text": "Тогда где бы жили люди?",
+    "text": "Тогда где бы жили звери?",
     "originalText": "Then where would people live?"
   },
   {
@@ -1910,7 +1910,7 @@
   {
     "path": "Exports.407.Data.0",
     "key": "753211E449606B539BDE74A22EB64CD8",
-    "text": "Я не сомневаюсь. Ты вырастешь в очень особенного человека, знаешь? Я уверен в этом.",
+    "text": "Я не сомневаюсь. Ты вырастешь в очень особенного зверьа, знаешь? Я уверен в этом.",
     "originalText": "I have no doubts. You'll grow up to be a very special person, you know? I'm sure of it."
   },
   {
@@ -1928,7 +1928,7 @@
   {
     "path": "Exports.407.Data.6.Value.2.Value.5",
     "key": "7AC610194C30FDF7685903AFFC7B260C",
-    "text": "Я уже особенный человек! Я Кларисса!",
+    "text": "Я уже особенный зверь! Я Кларисса!",
     "originalText": "I'm already a special person! I'm Clarissa!"
   },
   {
@@ -1952,7 +1952,7 @@
   {
     "path": "Exports.408.Data.6.Value.2.Value.5",
     "key": "DA0295A740E2DB292075169D3E2E5C8B",
-    "text": "Да, школа нормальная! Просто там много странных людей.",
+    "text": "Да, школа нормальная! Просто там много странных зверей.",
     "originalText": "Yeah, school is okay! There's just a lot of weird people there."
   },
   {
@@ -2210,19 +2210,19 @@
   {
     "path": "Exports.422.Data.0",
     "key": "DB33AD2B4823350754A82A9D47E06754",
-    "text": "Ха! Ну, людей много, Кларисса. Много хороших, но и много плохих.",
+    "text": "Ха! Ну, зверей много, Кларисса. Много хороших, но и много плохих.",
     "originalText": "Hah! Well, there's a lot of people out there, Clarissa. Lots of people who are good, but lots of people who are not."
   },
   {
     "path": "Exports.422.Data.6.Value.0.Value.5",
     "key": "EE47DA9F480790D79410D5A5AB65BA3A",
-    "text": "Как понять, что человек хороший?",
+    "text": "Как понять, что зверь хороший?",
     "originalText": "How can you tell someone is good?"
   },
   {
     "path": "Exports.422.Data.6.Value.1.Value.5",
     "key": "D95917774DB42B8A1EF5A4BAE1B3508D",
-    "text": "Как понять, что человек плохой?",
+    "text": "Как понять, что зверь плохой?",
     "originalText": "How can you tell someone is bad?"
   },
   {
@@ -2234,7 +2234,7 @@
   {
     "path": "Exports.423.Data.0",
     "key": "E9DC72A24B47522EC4102D862507037D",
-    "text": "Ну, они хорошие люди. Умные, добрые... верные. Это важные качества.",
+    "text": "Ну, они хорошие звери. Умные, добрые... верные. Это важные качества.",
     "originalText": "Well, they're good people. Clever, kind...loyal. Those are important qualities to have."
   },
   {
@@ -2300,7 +2300,7 @@
   {
     "path": "Exports.426.Data.0",
     "key": "8FD0A05C43F0F185DFEBE59C678310E0",
-    "text": "Ха! Это не то, что я имел в виду, Белла. Хотя, уверен, ты очень быстрая. Я говорю о тебе: Кларисса Бладворт, единственная и неповторимая.",
+    "text": "Ха! Это не то, что я имел в виду, белла. Хотя, уверен, ты очень быстрая. Я говорю о тебе: Кларисса Бладворт, единственная и неповторимая.",
     "originalText": "Hah! That's not what I meant, bella. Although, I'm sure you are really fast. I'm talking about you: Clarissa Bloodworth, the one and only."
   },
   {
@@ -2342,7 +2342,7 @@
   {
     "path": "Exports.428.Data.0",
     "key": "B8F3AD7441576DA9BD6561A1F0170404",
-    "text": "Хм. Не чувствуй себя плохо из-за того, что начинаешь проблемы, Белла. Твоя бабушка, да упокоится её душа, никогда не позволяла никому её обижать. Я знаю, что в тебе есть тот же дух.",
+    "text": "Хм. Не чувствуй себя плохо из-за того, что начинаешь проблемы, белла. Твоя бабушка, да упокоится её душа, никогда не позволяла никому её обижать. Я знаю, что в тебе есть тот же дух.",
     "originalText": "Hm. Don't feel bad about starting trouble, bella. Your grandma, rest her soul, would never let anyone push her around. I know you've got that same spirit in you."
   },
   {
@@ -2510,7 +2510,7 @@
   {
     "path": "Exports.435.Data.0",
     "key": "3AD78BDE45C6817FCE352BACBBB1768C",
-    "text": "Не переживай, Белла. Ты поймёшь. Со временем.",
+    "text": "Не переживай, белла. Ты поймёшь. Со временем.",
     "originalText": "Don't worry, bella. You will. With time."
   },
   {
@@ -2612,7 +2612,7 @@
   {
     "path": "Exports.440.Data.0",
     "key": "F8ED614A41B8C0503A758788B812E18E",
-    "text": "В некоторых случаях, да. Иногда нет. Но я всегда предпочитаю завести друга, чем врага. Уверен, ты тоже такая, правда?",
+    "text": "В некоторых случаях, да. Иногда нет. Но я всегда больше хочу завести друга, чем врага. Уверен, ты тоже такая, да?",
     "originalText": "In some cases, I do. Sometimes I don't. But I always prefer making a friend over an enemy. I'm sure you're the same, aren't you?"
   },
   {
@@ -2648,7 +2648,7 @@
   {
     "path": "Exports.442.Data.0",
     "key": "08D7CD324A986397CB2E698D043BB345",
-    "text": "Ну, такие злые люди обычно очень неуверенны в себе. Они будут дразнить тебя только если думают, что ты это примешь. Поэтому ты должна показать им, что не примешь.",
+    "text": "Ну, такие злые звери обычно очень неуверенны в себе. Они будут дразнить тебя только если думают, что ты это примешь. Поэтому ты должна показать им, что не примешь.",
     "originalText": "Well, mean people like that are usually very unsure of themselves. They'll only tease you if they think you'll take it. Which is why you have to show them you won't."
   },
   {
@@ -2666,7 +2666,7 @@
   {
     "path": "Exports.443.Data.0",
     "key": "C98FD80942F6B1AFA776B89CE1E3248B",
-    "text": "Это звучит как прекрасный мир, Белла. Ты должна будешь позволить мне навестить тебя когда-нибудь, пока ты ещё можешь показывать дорогу.",
+    "text": "Это звучит как прекрасный мир, белла. Ты должна будешь позволить мне навестить тебя когда-нибудь, пока ты ещё можешь показывать дорогу.",
     "originalText": "That sounds like a wonderful world, bella. You'll have to let me visit someday, while you can still lead the way."
   },
   {
@@ -2714,7 +2714,7 @@
   {
     "path": "Exports.445.Data.6.Value.1.Value.5",
     "key": "1DE0BF2840B3129C289BC7B1CA9BDBA4",
-    "text": "Я просто волнуюсь, что там будет много злых людей.",
+    "text": "Я просто волнуюсь, что там будет много злых зверей.",
     "originalText": "I'm just worried there's going to be a lot of mean people out there."
   },
   {
@@ -2804,7 +2804,7 @@
   {
     "path": "Exports.450.Data.0",
     "key": "54B1A09D4C4FC63CA5D2D697EFCA732F",
-    "text": "Частично, да. Ты можешь многому научиться от людей, которыми себя окружаешь. Тебе просто нужно слушать их, во всех смыслах.",
+    "text": "Частично, да. Ты можешь многому научиться от зверей, которыми себя окружаешь. Тебе просто нужно слушать их, во всех смыслах.",
     "originalText": "Partially, yes. You can learn a great deal from the people you surround yourself with. You just need to listen to them, in every way."
   },
   {
@@ -2882,7 +2882,7 @@
   {
     "path": "Exports.453.Data.6.Value.1.Value.5",
     "key": "3E3EE03D427A779FFD823191E2F3010E",
-    "text": "Договорились! Я предпочитаю просто быть с тобой, дедушка. И с друзьями.",
+    "text": "Договорились! Я хочу просто быть с тобой, дедушка. И с друзьями.",
     "originalText": "Deal! I prefer just being with you, Grandpa. And my friends."
   },
   {
@@ -2900,7 +2900,7 @@
   {
     "path": "Exports.454.Data.6.Value.0.Value.5",
     "key": "90E1A03F438038A00897C7A5F4E8568D",
-    "text": "Думаю, я понимаю, дедушка.",
+    "text": "Кажется, я понимаю, дедушка.",
     "originalText": "I think I understand, Grandpa."
   },
   {
@@ -2930,7 +2930,7 @@
   {
     "path": "Exports.455.Data.6.Value.1.Value.5",
     "key": "F5672B4F489B44F49408059DBE24AD34",
-    "text": "Это сложно? Взрослеть, я имею в виду.",
+    "text": "Это сложно? Я про взросление",
     "originalText": "Is it hard? To grow up, I mean?"
   },
   {
@@ -2948,13 +2948,13 @@
   {
     "path": "Exports.456.Data.6.Value.1.Value.5",
     "key": "A477D6094435555470992AB2EC114D58",
-    "text": "Это сложно? Взрослеть, я имею в виду.",
+    "text": "Это сложно? Я про взросление",
     "originalText": "Is it hard? To grow up, I mean?"
   },
   {
     "path": "Exports.457.Data.0",
     "key": "DEA501284B9F9475BB011E910E1F70F8",
-    "text": "Нет, не буквально! Но некоторые люди будут вести себя сладко и мягко, только чтобы лгать тебе через кривые улыбки. Иногда ты не узнаешь, пока не пройдёт очень много времени.",
+    "text": "Нет, не буквально! Но некоторые звери будут вести себя сладко и мягко, только чтобы лгать тебе через кривые улыбки. Иногда ты не узнаешь, пока не пройдёт очень много времени.",
     "originalText": "No, not literally! But some people will act sweet and gently, only to lie to you through crooked smiles. Sometimes, you won't know until a very long time has passed."
   },
   {
@@ -2984,7 +2984,7 @@
   {
     "path": "Exports.458.Data.5.Value.0.Value.5",
     "key": "5559E8BC495CC312585D2E8330BA5CAD",
-    "text": "Трудно не волноваться о том, что люди думают обо мне, дедушка.",
+    "text": "Трудно не волноваться о том, что звери думают обо мне, дедушка.",
     "originalText": "It's hard not to worry about how people think of me, Grandpa."
   },
   {
@@ -2996,7 +2996,7 @@
   {
     "path": "Exports.458.Data.5.Value.2.Value.5",
     "key": "90FF690A4F5697042C0E6DA7991651F1",
-    "text": "Это нормально. Мне всё равно, что люди думают обо мне.",
+    "text": "Это нормально. Мне всё равно, что звери думают обо мне.",
     "originalText": "That's okay. I don't care what people think about me."
   },
   {
@@ -3008,7 +3008,7 @@
   {
     "path": "Exports.459.Data.5.Value.0.Value.5",
     "key": "BC25ED2649D76D7B2E61229A17C473C1",
-    "text": "Почему они ищут еду здесь?",
+    "text": "Почему они здесь ищут еду?",
     "originalText": "How come they're looking for food here?"
   },
   {
@@ -3026,7 +3026,7 @@
   {
     "path": "Exports.460.Data.0",
     "key": "C74D705C4A92C21317AB4CAC9850F964",
-    "text": "Ах, это требует времени. Знать кого-то — это не единичный опыт — так же, как и ты, люди меняются. И это нормально — изменить своё мнение о них.",
+    "text": "Ах, это требует времени. Знать кого-то — это не единичный опыт — так же, как и ты, звери меняются. И это нормально — изменить своё мнение о них.",
     "originalText": "Ah, it takes time. Knowing someone isn't a single experience - same as you, people change. And it's okay to change your mind about those people."
   },
   {
@@ -3044,7 +3044,7 @@
   {
     "path": "Exports.460.Data.5.Value.2.Value.5",
     "key": "CC6CBD4947D3AFA5025897863A47E1EC",
-    "text": "Это нормально. Мне всё равно, что люди думают обо мне!",
+    "text": "Это нормально. Мне всё равно, что звери думают обо мне!",
     "originalText": "That's alright. I don't care what people think about me!"
   },
   {
@@ -3056,13 +3056,13 @@
   {
     "path": "Exports.461.Data.5.Value.0.Value.5",
     "key": "6A4479274EAE864BD4DAA6817B6039AE",
-    "text": "Я думаю, ты тоже хороший человек, дедушка.",
+    "text": "Я думаю, ты тоже хороший зверь, дедушка.",
     "originalText": "I think you're a good person too, Grandpa."
   },
   {
     "path": "Exports.461.Data.5.Value.1.Value.5",
     "key": "7D0CF59F487F7ADF1478AC9190C9CF00",
-    "text": "А если кто-то думает, что я плохой человек?",
+    "text": "А если кто-то думает, что я плохой зверь?",
     "originalText": "What if someone thinks I'm a bad person anyway?"
   },
   {
@@ -3074,19 +3074,19 @@
   {
     "path": "Exports.462.Data.6.Value.0.Value.5",
     "key": "5F23C4B8401FB19052CFC7B31F0BB248",
-    "text": "Трудно не волноваться о том, что люди думают обо мне, дедушка.",
+    "text": "Трудно не волноваться о том, что звери думают обо мне, дедушка.",
     "originalText": "It's hard not to worry about how people think of me, Grandpa."
   },
   {
     "path": "Exports.462.Data.6.Value.1.Value.5",
     "key": "1F0D3ACA452AF07C423B21B2D184EB6A",
-    "text": "Хорошо. Я не буду! Мне всё равно, что люди думают обо мне.",
+    "text": "Хорошо. Я не буду! Мне всё равно, что звери думают обо мне.",
     "originalText": "Okay. I won't! I don't care what people think about me."
   },
   {
     "path": "Exports.463.Data.0",
     "key": "0AB695A04EC1D797112E69BACD5568DA",
-    "text": "Я знаю, это трудно, Белла. Первые несколько раз будет больно, но потом ты начнёшь понимать, что это не важно. Всё, что важно, это то, что ты счастлива сама с собой.",
+    "text": "Я знаю, это трудно, белла. Первые несколько раз будет больно, но потом ты начнёшь понимать, что это не важно. Всё, что важно, это то, что ты счастлива сама с собой.",
     "originalText": "I know it's hard, bella. The first few times it'll sting, but after a while, you start seeing that it doesn't matter. All that matters is that you're happy with yourself."
   },
   {
@@ -3110,25 +3110,25 @@
   {
     "path": "Exports.464.Data.0",
     "key": "DC0011AE47018A0A40DEABA69E7823B8",
-    "text": "Ты делаешь шаг назад, переоцениваешь и снова принимаешь решение. Никогда не верь, что что-то всегда будет правдой, только потому что так было до сих пор. Люди меняются, и их взгляды вместе с ними.",
+    "text": "Ты делаешь шаг назад, переоцениваешь и снова принимаешь решение. Никогда не верь, что что-то всегда будет правдой, только потому что так было до сих пор. звери меняются, и их взгляды вместе с ними.",
     "originalText": "You take a step back, reassess, and make up your mind again. Never believe something to always be true, just because it has been so far. People change, and their views along with them."
   },
   {
     "path": "Exports.464.Data.6.Value.0.Value.5",
     "key": "9881C5F141F412C2A7BC088EFF1C8AA7",
-    "text": "Надеюсь, люди не перестанут меня любить.",
+    "text": "Надеюсь, звери не перестанут меня любить.",
     "originalText": "I hope people don't stop liking me."
   },
   {
     "path": "Exports.464.Data.6.Value.1.Value.5",
     "key": "B8304608489E234A0B2780A8654AE3EB",
-    "text": "Я не буду. Мне всё равно, что люди думают обо мне.",
+    "text": "Я не буду. Мне всё равно, что звери думают обо мне.",
     "originalText": "I won't. I don't care what people think about me."
   },
   {
     "path": "Exports.465.Data.0",
     "key": "512CDD79414627A7ABD2C6A11D2BF8FC",
-    "text": "Я рад это слышать, Белла. Очень рад. Не все согласились бы с тобой, знаешь ли.",
+    "text": "Я рад это слышать, белла. Очень рад. Не все согласились бы с тобой, знаешь ли.",
     "originalText": "I'm glad to hear that, bella. Very glad. Not everyone would agree with you, you know."
   },
   {
@@ -3146,13 +3146,13 @@
   {
     "path": "Exports.465.Data.6.Value.2.Value.5",
     "key": "A6CF65E2427A43273B9161B8EE482D95",
-    "text": "Мне всё равно, что думают эти люди! Я знаю, что знаю.",
+    "text": "Мне всё равно, что думают эти звери! Я знаю, что знаю.",
     "originalText": "I don't care what those people think! I know what I know."
   },
   {
     "path": "Exports.466.Data.0",
     "key": "F67917DE453B293D054B5D988DD5D692",
-    "text": "Ха! Они такие, Белла. Очень противные. Ты не можешь тратить на них своё время, понимаешь. Эти люди будут судить тебя, независимо от того, что ты делаешь.",
+    "text": "Ха! Они такие, белла. Очень противные. Ты не можешь тратить на них своё время, понимаешь. Эти звери будут судить тебя, независимо от того, что ты делаешь.",
     "originalText": "Hah! They are, bella. Very crappy. You can't give them your time of day, you see. Those people will judge you, regardless of what you do."
   },
   {
@@ -3164,7 +3164,7 @@
   {
     "path": "Exports.466.Data.5.Value.1.Value.5",
     "key": "F34E9CE4419F3E982799FAAA809230E6",
-    "text": "Да. Мне всё равно, что думает куча противных людей.",
+    "text": "Да. Мне всё равно, что думает куча противных зверей.",
     "originalText": "Yeah. I don't care what a bunch of crappy people think."
   },
   {
@@ -3248,7 +3248,7 @@
   {
     "path": "Exports.470.Data.0",
     "key": "8DC4B77E4B9AE6AB551DA7B25E485B50",
-    "text": "Держись за это. Не всегда легко найти людей, которым можно доверять. Ты даёшь им повод доверять тебе тоже.",
+    "text": "Держись за это. Не всегда легко найти зверей, которым можно доверять. Ты даёшь им повод доверять тебе тоже.",
     "originalText": "You hold on to that, then. It's not always easy to find people you can trust. You give them reason to trust you as well. "
   },
   {
@@ -3296,7 +3296,7 @@
   {
     "path": "Exports.472.Data.0",
     "key": "A90932C848392D3ED7CE2FACEF956134",
-    "text": "Убедись, что ты говоришь им это. Ничто не воспринимается как должное так часто, как доброта, Белла. Ты скажешь им в следующий раз, когда увидишь, правда?",
+    "text": "Убедись, что ты говоришь им это. Ничто не воспринимается как должное так часто, как доброта, белла. Ты скажешь им в следующий раз, когда увидишь, правда?",
     "originalText": "Make sure you tell them that, too. Nothing gets taken for granted as much as kindness, bella. You'll tell them next time you see them, won't you?"
   },
   {
@@ -3338,7 +3338,7 @@
   {
     "path": "Exports.474.Data.0",
     "key": "278633A1475B50719CFFE09E45A81664",
-    "text": "Хорошо, хорошо. Будь хорошим другом, и хорошие люди будут дружить с тобой. Гарантирую, Кларисса.",
+    "text": "Хорошо, хорошо. Будь хорошим другом, и хорошие звери будут дружить с тобой. Гарантирую, Кларисса.",
     "originalText": "Good, good. Be a decent friend, and decent people will befriend you. I guarantee it, Clarisssa."
   },
   {
@@ -3356,7 +3356,7 @@
   {
     "path": "Exports.475.Data.0",
     "key": "49E4606F4777B1AA94E8768716F4404D",
-    "text": "Я не волнуюсь. Уверен, вы все дружны как воры. Не так ли, Белла?",
+    "text": "Я не волнуюсь. Уверен, вы все дружны как воры. Не так ли, белла?",
     "originalText": "I'm not worried. I'm sure you all are thick as thieves. Isn't that right, bella?"
   },
   {
@@ -3410,13 +3410,13 @@
   {
     "path": "Exports.478.Data.0",
     "key": "9F20283141FA12F297E4F98670EDFF1D",
-    "text": "Если ты так говоришь, Кларисса. И я сделаю всё, что в моих силах, чтобы помочь тебе. Как это звучит?",
+    "text": "Если ты так говоришь, Кларисса. И я сделаю всё, что в моих силах, чтобы помочь тебе. Хорошо?",
     "originalText": "If you say so, Clarissa. And I'll do all in my power to help you. How does that sound?"
   },
   {
     "path": "Exports.478.Data.6.Value.0.Value.5",
     "key": "4CA61A814BE50626FBCEDA84DB5E3A9B",
-    "text": "Звучит хорошо. Спасибо, дедушка.",
+    "text": "Хорошо. Спасибо, дедушка.",
     "originalText": "Sounds good. Thanks, Grandpa. "
   },
   {
@@ -3500,7 +3500,7 @@
   {
     "path": "Exports.482.Data.0",
     "key": "29351D63466F25A569294499535D9FDC",
-    "text": "Не уверен, Кларисса — может, это сидение здесь с тобой, время и люди, проходящие мимо. Скажи мне — кем ты будешь, когда вырастешь? Кем ты хочешь стать?",
+    "text": "Не уверен, Кларисса — может, это сидение здесь с тобой, время и звери, проходящие мимо. Скажи мне — кем ты будешь, когда вырастешь? Кем ты хочешь стать?",
     "originalText": "I'm not sure, Clarissa - maybe it's sitting here with you, time and people passing by. Tell me - what will you be when you're older? Who do you want to be?"
   },
   {
@@ -3518,19 +3518,19 @@
   {
     "path": "Exports.482.Data.6.Value.2.Value.5",
     "key": "A23F0B4C4FC5E3619EAE82A8EC3D74DF",
-    "text": "(РАЗВИТЬ ЧЕРТУ: СИЛА) Я хочу, чтобы люди меня слушались!",
+    "text": "(РАЗВИТЬ ЧЕРТУ: СИЛА) Я хочу, чтобы звери меня слушались!",
     "originalText": "(GAIN TRAIT: POWERFUL) I want people to listen to me!"
   },
   {
     "path": "Exports.483.Data.0",
     "key": "CFDD7E314D76D09C88C6539B7765E723",
-    "text": "Конечно, Кларисса. Я сделаю всё, что в моих силах, чтобы помочь тебе. Как это звучит?",
+    "text": "Конечно, Кларисса. Я сделаю всё, что в моих силах, чтобы помочь тебе. Хорошо?",
     "originalText": "Of course, Clarissa. I'll do everything in my power to help you. How does that sound?"
   },
   {
     "path": "Exports.483.Data.6.Value.0.Value.5",
     "key": "88624B9E4F16CDD2A22C47BB0481B0D6",
-    "text": "Звучит очень хорошо. Спасибо, дедушка.",
+    "text": "Хорошо! Спасибо, дедушка.",
     "originalText": "That sounds really good. Thanks, Grandpa. "
   },
   {
@@ -3548,7 +3548,7 @@
   {
     "path": "Exports.484.Data.0",
     "key": "1E5C653C44A3C9184E602C98EB785A8B",
-    "text": "Нет, Кларисса Белла. Спасибо тебе. А теперь давай — думаю, пора ужинать. Пойдём?",
+    "text": "Нет, Кларисса белла. Спасибо тебе. А теперь давай — думаю, пора ужинать. Пойдём?",
     "originalText": "No, Clarissa bella. Thank you. Now come on - I think it's time for dinner. Shall we?"
   },
   {
@@ -3566,7 +3566,7 @@
   {
     "path": "Exports.485.Data.0",
     "key": "6AFEE1514B07F9DE9B8F1B9A59EFF968",
-    "text": "О, Кларисса Белла. Ты можешь быть скромной, но ты самая милая внучка, о которой я мог мечтать. А теперь — если я не ошибаюсь, пора ужинать. Пойдём?",
+    "text": "О, Кларисса белла. Ты можешь быть скромной, но ты самая милая внучка, о которой я мог мечтать. А теперь — если я не ошибаюсь, пора ужинать. Пойдём?",
     "originalText": "Oh, Clarissa bella. You may be shy, but you're the sweetest grandchild I could ever have hoped for. Now - if I'm not mistaken, it's dinnertime. Shall we?"
   },
   {
@@ -3620,7 +3620,7 @@
   {
     "path": "Exports.488.Data.0",
     "key": "9F8C524747BBAE41BB0C66A673977165",
-    "text": "О, Кларисса, ты и твой отец больше похожи, чем я думал! Как Карло? Он достаточно бывает дома? Он всё ещё укладывает тебя спать?",
+    "text": "О, Кларисса, вы со своим отцом похожи больше, чем я думал! Как Карло? Он часто бывает дома? Он всё ещё укладывает тебя спать?",
     "originalText": "Oh, Clarissa, you and your father are more alike than I thought! How is Carlo? Is he home enough? Does he still tuck you in at night?"
   },
   {
@@ -3638,7 +3638,7 @@
   {
     "path": "Exports.489.Data.0",
     "key": "97761FC342DB78F0AB33D08848F95B35",
-    "text": "О, прости, Кларисса. Дедушка на мгновение был в другом месте — в шезлонге где-то, отдыхая свои усталые старые ноги.",
+    "text": "О, прости, Кларисса. Дедушка на мгновение был в другом месте — в шезлонге где-то, расслабляя свои усталые старые ноги.",
     "originalText": "Oh, I'm sorry Clarissa. Grandpa was in a different place for a moment - in a sun chair somewhere, resting his tired old legs."
   },
   {
@@ -3662,7 +3662,7 @@
   {
     "path": "Exports.490.Data.0",
     "key": "AFB5312E411564F9E4ED0C84B867A5BA",
-    "text": "Нет, Кларисса Белла. Спасибо тебе. А теперь, давай. Думаю, пора ужинать. Пойдём?",
+    "text": "Нет, Кларисса белла. Спасибо тебе. А теперь, давай. Думаю, пора ужинать. Пойдём?",
     "originalText": "No, Clarissa bella. Thank you. Now, come on. I think it's time for dinner. Shall we?"
   },
   {
@@ -3680,7 +3680,7 @@
   {
     "path": "Exports.491.Data.0",
     "key": "6AFEE1514B07F9DE9B8F1B9A59EFF968",
-    "text": "О, Кларисса Белла. Ты можешь быть скромной, но ты самая милая внучка, о которой я мог мечтать. А теперь — если я не ошибаюсь, пора ужинать. Пойдём?",
+    "text": "О, Кларисса белла. Ты можешь быть скромной, но ты самая милая внучка, о которой я только мог мечтать. А теперь — если я не ошибаюсь, пора ужинать. Пойдём?",
     "originalText": "Oh, Clarissa bella. You may be shy, but you're the sweetest grandchild I could ever have hoped for. Now - if I'm not mistaken, it's dinnertime. Shall we?"
   },
   {
@@ -3698,7 +3698,7 @@
   {
     "path": "Exports.492.Data.0",
     "key": "908D103C40BF4901B18C688B44FB5CAD",
-    "text": "Я тоже люблю тебя, Кларисса Белла. Я не мог бы попросить лучшей внучки. А теперь, давай, Белла. Думаю, пора ужинать. Пойдём?",
+    "text": "Я тоже люблю тебя, Кларисса белла. Я не мог бы попросить лучшей внучки. А теперь, давай, белла. Думаю, пора ужинать. Пойдём?",
     "originalText": "I love you too, Clarissa bella. I couldn't ask for a better grandchild. Now come on, bella. I think it's time for dinner. Shall we?"
   },
   {
@@ -3740,31 +3740,31 @@
   {
     "path": "Exports.494.Data.0",
     "key": "1022DCD64ACC0DC0529207BA5621C711",
-    "text": "Правда? А если ты поедешь слишком быстро и улетишь с края?",
+    "text": "Правда? А если ты будешь слишком быстро и улетишь с края?",
     "originalText": "Do you, now? What if you go too fast and fly off the side?"
   },
   {
     "path": "Exports.494.Data.5.Value.0.Value.5",
     "key": "8AF36AF44BDC93C7BE85AA8C715AF41F",
-    "text": "[Задумчиво] Ты права. Мне нужно будет замедлиться, иногда. Обдумать вещи.",
+    "text": "[Задумчиво] Ты прав. Мне нужно будет замедляться, иногда. Думать как следует.",
     "originalText": "[Thoughtfully] You're right. I'll need to slow down, sometimes. Think things over."
   },
   {
     "path": "Exports.494.Data.5.Value.1.Value.5",
     "key": "A738F9D245A875CB7C4D009E3544935A",
-    "text": "[Пожать плечами] По крайней мере, я еду быстро.",
+    "text": "[Пожать плечами] По крайней мере, я буду быстрой.",
     "originalText": "[Shrug] At least I'm going fast."
   },
   {
     "path": "Exports.494.Data.5.Value.2.Value.5",
     "key": "B5D0541C43DFDACFED4E61AF5F7EF4E5",
-    "text": "Просто: я сделаю крылья. Я улечу с края и ещё дальше! Даже за стену!",
+    "text": "Просто: я сделаю крылья. Я полечу на них с края и ещё дальше! Даже за стену!",
     "originalText": "Simple: I'll make wings. I'll fly off the side, and even further! Even past the wall!"
   },
   {
     "path": "Exports.495.Data.0",
     "key": "DB0407FF4CB13D04F4CF29AF9BB190DD",
-    "text": "Что бы ты ни делала, Кларисса, не забывай, что быть умной — это не всё. Знать вещи и быть правым — это не замена доброте. Твой отец — ну, некоторые люди склонны забывать об этом.",
+    "text": "Что бы ты ни делала, Кларисса, не забывай, что быть умной — это не всё. Знать вещи и быть правым — это не замена доброте. Твой отец — ну, некоторые звери склонны забывать об этом.",
     "originalText": "Well, whatever you do, Clarissa, don't forget that being smart isn't everything. Knowing things and being right is no substitute for being kind. Your father— well, some people tend to forget that."
   },
   {
@@ -3788,7 +3788,7 @@
   {
     "path": "Exports.496.Data.0",
     "key": "A0C8D53142632C360F3DB3BE2B6127B1",
-    "text": "Нет, Кларисса Белла. Спасибо тебе. А теперь, давай. Думаю, пора ужинать. Пойдём?",
+    "text": "Нет, Кларисса белла. Спасибо тебе. А теперь, давай. Думаю, пора ужинать. Пойдём?",
     "originalText": "No, Clarissa bella. Thank you. Now come on. I think it's time for dinner. Shall we?"
   },
   {
@@ -3806,7 +3806,7 @@
   {
     "path": "Exports.497.Data.0",
     "key": "1B5C2C3248AF9A644545F7B13F311020",
-    "text": "О, Кларисса Белла. Ты можешь быть скромной, но ты самая милая внучка, о которой я мог мечтать. А теперь, если я не ошибаюсь, пора ужинать. Пойдём?",
+    "text": "О, Кларисса белла. Ты можешь быть скромной, но ты самая милая внучка, о которой я только мог мечтать. А теперь, если я не ошибаюсь, пора ужинать. Пойдём?",
     "originalText": "Oh, Clarissa bella. You may be shy, but you're the sweetest grandchild I could have ever hoped for. Now, if I'm not mistaken, it's dinnertime. Shall we?"
   },
   {
@@ -3842,13 +3842,13 @@
   {
     "path": "Exports.498.Data.5.Value.2.Value.5",
     "key": "8135E7CB4A2B3CA25DCDBCAD60B79CBC",
-    "text": "Я малышка! Ты старый!",
+    "text": "Я малышка! А ты старый!",
     "originalText": "I'm baby! You're old!"
   },
   {
     "path": "Exports.499.Data.0",
     "key": "F9EE45064D4A939BE528528F8653DB4E",
-    "text": "Я тоже люблю тебя, Кларисса Белла. Я не мог бы попросить лучшей внучки. А теперь, давай. Думаю, пора ужинать. Пойдём?",
+    "text": "Я тоже люблю тебя, Кларисса белла. Я и не мог желать внучки лучше тебя. А теперь, давай. Думаю, пора ужинать. Пойдём?",
     "originalText": "I love you too, Clarissa bella. I couldn't ask for a better grandchild. Now, come on. I think it's time for dinner. Shall we?"
   },
   {
@@ -3866,7 +3866,7 @@
   {
     "path": "Exports.500.Data.0",
     "key": "7F7D31F4456E942E10AEA6B9AAC51A9E",
-    "text": "Думаю, в этом и дело, Кларисса. Умный человек знает, что он не знает всего. Чем больше ты узнаёшь, тем меньше ты знаешь.",
+    "text": "Думаю, в этом и дело, Кларисса. Умный зверь знает, что он на самом деле не знает всего. Чем больше ты узнаёшь, тем меньше ты знаешь.",
     "originalText": "I think that's just it, Clarissa. A clever person knows that they don't know everything. The more you learn, the less you know."
   },
   {
@@ -3878,13 +3878,13 @@
   {
     "path": "Exports.500.Data.5.Value.1.Value.5",
     "key": "E3EC7A114E3BC7321B60F792CF7231F2",
-    "text": "О. В таком случае, я постараюсь никогда не чувствовать себя умной!",
+    "text": "Ох. Тогда, я постараюсь не узнавать прям всего!",
     "originalText": "Oh. In that case, I'll try to never feel smart!"
   },
   {
     "path": "Exports.500.Data.5.Value.2.Value.5",
     "key": "739BB9F04D9DE5ED81F885BB480675D5",
-    "text": "[Стукает себя по носу] Мне нужно будет быть осторожной, чтобы не знать слишком много.",
+    "text": "[Стукает себя по носу] Тогда мне нужно будет быть осторожной, чтобы не узнать слишком много.",
     "originalText": "[Tap your nose] I'll have to be careful not to know too much, then."
   },
   {
@@ -3962,7 +3962,7 @@
   {
     "path": "Exports.504.Data.0",
     "key": "1E0DABDF4E2DAC9BD457BD8FA81294CE",
-    "text": "Да, я очень старый! Старый и только старею. Но ты тоже постареешь, Белла.",
+    "text": "Да, я очень старый! Старый и только старею. Но ты тоже постареешь, белла.",
     "originalText": "Yes, I'm very old! Old, and only getting older. But you'll get older too, bella."
   },
   {
@@ -3986,7 +3986,7 @@
   {
     "path": "Exports.505.Data.0",
     "key": "908A5ACB46D22FC2B2FBA9B2C4419F09",
-    "text": "Ах, если ты сильная, неважно, насколько ты большая. Многие из самых сильных людей, которых я знаю, самые маленькие.",
+    "text": "Ах, если ты сильная, неважно, насколько ты большая. Многие из самых сильных зверей, которых я знаю, самые маленькие.",
     "originalText": "Ah, if you're strong, it doesn't matter how big you are. A lot of the strongest people I know are the smallest."
   },
   {
@@ -4004,7 +4004,7 @@
   {
     "path": "Exports.505.Data.6.Value.2.Value.5",
     "key": "9A46F576411B06CA45963FB3B5BDA0E5",
-    "text": "[Кивок] Потому что они маленькие, и они могут бегать между ног больших людей.",
+    "text": "[Кивок] Потому что они маленькие, и они могут бегать между ног больших зверей.",
     "originalText": "[Nod] Because they're small, and they can run between the legs of the big people."
   },
   {
@@ -4028,13 +4028,13 @@
   {
     "path": "Exports.507.Data.0",
     "key": "CE6C9DC94C2418E8198BF0B498D32A56",
-    "text": "Нет? Тогда почему ты такой сильный, даже когда ты такой маленький?",
+    "text": "Нет? Тогда почему ты такой сильный, даже когда ты такая маленькая?",
     "originalText": "No? Then how come you're so strong, even when you're so small?"
   },
   {
     "path": "Exports.507.Data.6.Value.0.Value.5",
     "key": "DFB44834433E7101906AAC8087AEC03F",
-    "text": "[Шепчет] У меня есть суперсила. Тсс! Никому не говори.",
+    "text": "[Шёпотом] У меня есть суперсила, только тихо! Никому не говори.",
     "originalText": "[Whisper] I have superpowers. Shh! Don't tell anyone."
   },
   {
@@ -4136,7 +4136,7 @@
   {
     "path": "Exports.512.Data.0",
     "key": "09ACBB214FF3834A4230BEAC08B76ECD",
-    "text": "Ну, ну... я бы сказал, ты уже на полпути!",
+    "text": "Ну, ну... я бы сказал, что ты уже на полпути!",
     "originalText": "Well, well...I'd say you're halfway there already!"
   },
   {
@@ -4196,7 +4196,7 @@
   {
     "path": "Exports.515.Data.0",
     "key": "F43C334B451F0FFFB43555A3D2741A35",
-    "text": "Полагаю, я такой! Но ты тоже будешь. И ты никогда не должна терять это из виду, Белла. Некоторые люди будут меньше тебя, и ты сможешь им помочь.",
+    "text": "Думаю, я такой! Но ты тоже будешь. И ты никогда не должна забывать это, белла. Некоторые звери будут меньше тебя, и ты сможешь им помочь.",
     "originalText": "I suppose I am! But you will be, too. And you must never lose sight of that, bella. Some people will be smaller than you, and you might be able to help them."
   },
   {
@@ -4250,7 +4250,7 @@
   {
     "path": "Exports.517.Data.6.Value.1.Value.5",
     "key": "FEC2D66C4E8C112F1D63E081A761D7F9",
-    "text": "Всё в порядке. Тебе не нужно!",
+    "text": "Всё в порядке, не нужно!",
     "originalText": "It's okay. You don't have to!"
   },
   {
@@ -4268,7 +4268,7 @@
   {
     "path": "Exports.518.Data.0",
     "key": "24D7CD314DE1168A12F8B697D2176D90",
-    "text": "Я? Думать о чём-то? Нет, нет — я просто наслаждался погодой, вот и всё. Я не так часто выхожу на прогулки, как раньше, понимаешь.",
+    "text": "Я? Думал о чём-то? Нет, нет — я просто наслаждался погодой, вот и всё. Я не так часто выхожу на прогулки, понимаешь, как раньше.",
     "originalText": "Me? Thinking of something? No, no - I was just enjoying the weather, is all. I don't go out for walks as much as I used to, you see."
   },
   {
@@ -4286,13 +4286,13 @@
   {
     "path": "Exports.518.Data.5.Value.2.Value.5",
     "key": "C8CE4C044EA1ED834C1C2AA6688B4BAC",
-    "text": "...Я думаю, ты о чём-то думал. Скажи уже!",
+    "text": "...Я думаю, ты о чём-то думал. Расскажи мне уже!",
     "originalText": "...I think you were thinking of something. Tell me already!"
   },
   {
     "path": "Exports.519.Data.0",
     "key": "A04B11D54DA9018D18D906B90DCB9B9F",
-    "text": "Со мной? Белла, ты практически так и делаешь!",
+    "text": "Со мной? Ох, белла, ты практически так и делаешь!",
     "originalText": "With me? Bella, you practically do!"
   },
   {
@@ -4316,19 +4316,19 @@
   {
     "path": "Exports.520.Data.0",
     "key": "1BF550864FC5A2B3A451B19C46355E9D",
-    "text": "Семья — это всё, Кларисса. Важно, чтобы ты проводила время с отцом тоже. Ты можешь оставаться у меня подольше во время летних каникул. Как это звучит?",
+    "text": "Семья — это всё, Кларисса. Важно, чтобы ты тоже проводила время со своим папой. Ты можешь оставаться у меня подольше во время летних каникул. Хорошо?",
     "originalText": "Family is everything, Clarissa. It's important you spend time with your father, too. You can come stay with me a little longer during the summer breaks. How does that sound?"
   },
   {
     "path": "Exports.520.Data.6.Value.0.Value.5",
     "key": "59D66757447A59E8AC92509A4AEC7955",
-    "text": "Звучит хорошо. Спасибо, дедушка.",
+    "text": "Хорошо. Спасибо, дедушка.",
     "originalText": "Sounds good. Thanks, Grandpa."
   },
   {
     "path": "Exports.520.Data.6.Value.1.Value.5",
     "key": "EB42EC7A44BC230692C9C58701EE2C8C",
-    "text": "Хорошо. Эй, дедушка? Я люблю тебя.",
+    "text": "Ладно. Эй, дедушка? Я люблю тебя.",
     "originalText": "Good. Hey, Grandpa? I love you."
   },
   {
@@ -4340,13 +4340,13 @@
   {
     "path": "Exports.521.Data.0",
     "key": "F7DC5135419DD2D2A12C82974BF1E62A",
-    "text": "Не знаю, полагаю, я тоже занят. Это несправедливо, я знаю. Я выделю больше времени для тебя, хорошо? Как это звучит?",
+    "text": "Не знаю, полагаю, я тоже занят. Это несправедливо, я знаю. Я выделю больше времени для тебя, ладно?",
     "originalText": "I don't know, I suppose I'm busy, too. It's not fair, I know. I'll set more time aside for you, okay? How does that sound?"
   },
   {
     "path": "Exports.521.Data.6.Value.0.Value.5",
     "key": "601E4DA14A1B25E9888A4B9DFBD03351",
-    "text": "Звучит хорошо. Спасибо, дедушка.",
+    "text": "Хорошо. Спасибо, дедушка.",
     "originalText": "Sounds good. Thanks, Grandpa."
   },
   {
@@ -4364,13 +4364,13 @@
   {
     "path": "Exports.522.Data.0",
     "key": "3353561842C8D823A058868362E6D594",
-    "text": "Полагаю, твой отец очень занят. Он не должен быть — он, эм, слишком много работает. Я скажу ему, чтобы он проводил больше времени с тобой. Как это звучит?",
+    "text": "Полагаю, твой отец очень занят. Он, эм, слишком много работает. Я скажу ему, чтобы он проводил больше времени с тобой. Хорошо?",
     "originalText": "I suppose your father is very busy. He shouldn't be - he, uh, works too much. I'll tell him to spend more time with you. How does that sound?"
   },
   {
     "path": "Exports.522.Data.6.Value.0.Value.5",
     "key": "14930AA04870B6C41801D7A711282B9A",
-    "text": "Я бы предпочла проводить время с тобой, дедушка.",
+    "text": "Я бы хотела проводить время с тобой, дедушка.",
     "originalText": "I'd rather spend time with you, Grandpa."
   },
   {
@@ -4388,7 +4388,7 @@
   {
     "path": "Exports.523.Data.0",
     "key": "FA3C64724767CF5DE6EBFAB1D01A823D",
-    "text": "Слушать? Ты чувствуешь, что люди тебя не слушают?",
+    "text": "Слушать? Ты чувствуешь, что звери тебя не слушают?",
     "originalText": "To listen? Do you feel like people don't listen to you?"
   },
   {
@@ -4406,19 +4406,19 @@
   {
     "path": "Exports.523.Data.6.Value.2.Value.5",
     "key": "12AFFE9C41DA1EC7D654E689087CD244",
-    "text": "Папа не всегда.",
+    "text": "Папа, но не всегда.",
     "originalText": "Dad doesn't. Not always."
   },
   {
     "path": "Exports.524.Data.0",
     "key": "A45EE9BD411215355FF6A8831646E4A2",
-    "text": "Не переживай, Белла. Я не скажу ему, что мы об этом говорили. Как это звучит?",
+    "text": "Не переживай, белла. Я не скажу ему, что мы об этом говорили. Ладно?",
     "originalText": "Don't worry, bella. I won't tell him we talked about it. How does that sound?"
   },
   {
     "path": "Exports.524.Data.6.Value.0.Value.5",
     "key": "332147AC46795F1FFB2B18BDC380952B",
-    "text": "Звучит нормально. Спасибо, дедушка.",
+    "text": "Ладно. Спасибо, дедушка.",
     "originalText": "That sounds okay. Thanks, Grandpa."
   },
   {
@@ -4436,7 +4436,7 @@
   {
     "path": "Exports.525.Data.0",
     "key": "B637607645860B75AE2DCCA0B55055B0",
-    "text": "Хорошо! Хорошо, хорошо. Взрослеть может быть трудно. Легко потерять эту фантазию по пути.",
+    "text": "Хорошо! Хорошо, хорошо. Взрослеть может быть трудно. Легко потерять эту образ по пути.",
     "originalText": "Good! Good, good. Growing up can be tough. It's easy to lose track of that imagination along the way."
   },
   {
@@ -4448,7 +4448,7 @@
   {
     "path": "Exports.525.Data.5.Value.1.Value.5",
     "key": "732BD7224021BD5FE7B1F68022799270",
-    "text": "Я Кларисса Бладворт, и я не теряю это из виду!",
+    "text": "Я Кларисса Бладворт, и я не забуду про это!",
     "originalText": "I'm Clarissa Bloodworth, and I'm not losing track of that!"
   },
   {
@@ -4496,7 +4496,7 @@
   {
     "path": "Exports.528.Data.6.Value.0.Value.5",
     "key": "4433288944C9E5160402A7969B97ABDF",
-    "text": "Размером с Клариссу.",
+    "text": "Размер-Клариссы.",
     "originalText": "Clarissa-sized."
   },
   {
@@ -4514,7 +4514,7 @@
   {
     "path": "Exports.529.Data.0",
     "key": "1DFD48DC4509710637CA03A1766DD936",
-    "text": "Это большой. И, может, ты станешь ещё больше!",
+    "text": "Ого! А, может, ты станешь и ещё больше!",
     "originalText": "That's big. And maybe you'll be even bigger!"
   },
   {
@@ -4532,7 +4532,7 @@
   {
     "path": "Exports.530.Data.0",
     "key": "5750ADEA491F944084A9418EC19B1512",
-    "text": "Уверен, станут, Белла.",
+    "text": "Уверен, станут, белла.",
     "originalText": "I'm sure they will, bella."
   },
   {
@@ -4562,7 +4562,7 @@
   {
     "path": "Exports.532.Data.0",
     "key": "D22D5CE145C08F803CAD63AB689749DF",
-    "text": "Ты пройдёшь в дверь? Если ты такая большая, я имею в виду.",
+    "text": "Ты пройдёшь в дверь? Ну, если ты такая большая.",
     "originalText": "Will you fit through the door? If you're so big, I mean."
   },
   {
@@ -4610,7 +4610,7 @@
   {
     "path": "Exports.534.Data.6.Value.1.Value.5",
     "key": "7B3EB32B423CAA91F8E60FA14AF0F69C",
-    "text": "Хорошо. Им лучше следить за своими задами.",
+    "text": "Хорошо. Им лучше следить за своими жопами.",
     "originalText": "Good. They better watch their butts."
   },
   {
@@ -4622,7 +4622,7 @@
   {
     "path": "Exports.535.Data.6.Value.0.Value.5",
     "key": "FACCD96C41DDA89873295BB94EDCE9A3",
-    "text": "Потому что ты можешь делать всё, что захочешь.",
+    "text": "Потому что ты можешь делать всё, что хочешь.",
     "originalText": "Because you can do anything you want."
   },
   {
@@ -4646,13 +4646,13 @@
   {
     "path": "Exports.536.Data.5.Value.2.Value.5",
     "key": "48A8800244B2D7127AB701B77E5107A2",
-    "text": "Они были? Я не помню этого...",
+    "text": "Разве? Я не помню этого...",
     "originalText": "They were? I don't remember that..."
   },
   {
     "path": "Exports.537.Data.0",
     "key": "6508F77E4D2E3D2AE2BF2DA3AC1681B7",
-    "text": "В каком-то смысле. Но есть много вещей, которые нужно делать, когда ты старый. Не всё это весело.",
+    "text": "В каком-то смысле, но есть много вещей, которые нужно делать, когда ты старый. Не всё из этого весело.",
     "originalText": "In a way. But there are many things you have to do when you're old, too. Not all of it is fun."
   },
   {
@@ -4682,7 +4682,7 @@
   {
     "path": "Exports.538.Data.6.Value.1.Value.5",
     "key": "BC4BF31148B46620953756A4C27B51F2",
-    "text": "Хорошо. Я буду умной насчёт этого.",
+    "text": "Хорошо, буду держать это на уме.",
     "originalText": "Okay. I'll be smart about it."
   },
   {
@@ -4742,7 +4742,7 @@
   {
     "path": "Exports.542.Data.0",
     "key": "FBBAD8CE453E9128100CF7BDB2C33E7B",
-    "text": "Не знаю. Что ты думаешь, Белла? Что они делают?",
+    "text": "Не знаю. Что ты думаешь, белла? Что они делают?",
     "originalText": "I don't know. What do you think, bella? What are they doing?"
   },
   {
@@ -4754,19 +4754,19 @@
   {
     "path": "Exports.542.Data.6.Value.1.Value.5",
     "key": "22F60AB34BD788F68258F884F1EBE70C",
-    "text": "Они думают о червях. Больших, больших червях.",
+    "text": "Они думают о червяках. Больших, больших червяках.",
     "originalText": "They're thinking about worms. Big, big worms."
   },
   {
     "path": "Exports.542.Data.6.Value.2.Value.5",
     "key": "D7C3669F42FFCA8A3FFF9EA385695BE1",
-    "text": "Они беспокоятся о домашней работе.",
+    "text": "Они беспокоятся о домашке.",
     "originalText": "They're worried about homework."
   },
   {
     "path": "Exports.543.Data.0",
     "key": "2BA081994205D1579E5DDEA36BD3A391",
-    "text": "Может, в каком-то смысле. Некоторые вещи... ты учишься принимать. Даже уход близких. Это приходит с возрастом, полагаю.",
+    "text": "Может, в каком-то смысле. Некоторые вещи... ты учишься принимать. Даже уход близких. Полагаю, это приходит с возрастом.",
     "originalText": "It might be, in a way. Some things...you learn how to accept. Even loved ones passing away. It comes with age, I suppose."
   },
   {
@@ -4790,7 +4790,7 @@
   {
     "path": "Exports.544.Data.0",
     "key": "FDF67D4F406D7DD52AA7A485FD51B271",
-    "text": "Ты такая! Но важно быть немного глупенькой. Многие люди забывают быть глупенькими.",
+    "text": "Ты такая! Но важно быть немного глупенькой. Многие звери забывают быть глупенькими.",
     "originalText": "You are! But it's important to be a little silly. A lot of people forget to be silly."
   },
   {
@@ -4814,7 +4814,7 @@
   {
     "path": "Exports.545.Data.0",
     "key": "19F75D4049187DF6CBD10C89BF56B519",
-    "text": "Я? С тобой, полагаю! Не думаю, что многие люди сказали бы, что я глупенький. Но, может, это хорошо — и ещё лучше, что я могу быть глупеньким с тобой, чтобы не забывать.",
+    "text": "Я? С тобой, полагаю! Не думаю, что многие звери сказали бы, что я глупенький. Но, может, это хорошо — и ещё лучше, что я могу быть глупеньким с тобой, чтобы не забывать.",
     "originalText": "I am? With you, I suppose! I don't think a lot of people would say I'm silly. But maybe that's a good thing - and an even better thing that I get to be silly with you, so I don't forget."
   },
   {
@@ -4862,7 +4862,7 @@
   {
     "path": "Exports.547.Data.0",
     "key": "ECDE4C69406C2D6FE2A4F89D2BC90A51",
-    "text": "Видишь ли, Кларисса, жизнь может быть очень... не глупой иногда. Иногда... иногда она может становиться очень серьёзной, очень... мрачной. Важно не позволять этому тебя сломить.",
+    "text": "Видишь ли, Кларисса, иногда жизнь может быть очень... не глупой. Иногда... иногда она может становиться очень серьёзной, очень... мрачной. Важно не позволять этому тебя сломить.",
     "originalText": "Well you see, Clarissa, life can be very...not silly sometimes. Sometimes...sometimes, it can get very serious, very...grim. It's important to not let that get to you."
   },
   {
@@ -4916,7 +4916,7 @@
   {
     "path": "Exports.549.Data.6.Value.1.Value.5",
     "key": "F35EAA4341E3B4FDD4E795A43FB813F6",
-    "text": "Когда я пойму, что я выросла? Это занимает много времени?",
+    "text": "Когда я пойму, что выросла? Это займёт много времени?",
     "originalText": "When will I know I'm grown up? Does it take long?"
   },
   {
@@ -4940,7 +4940,7 @@
   {
     "path": "Exports.550.Data.6.Value.2.Value.5",
     "key": "9EE685AA4C69E83EDDA0349C236A43C7",
-    "text": "[Указывает на гусей] Они вон там. Смотри!",
+    "text": "[Указать на гусей] Они вон там. Смотри!",
     "originalText": "[Point at the geezers] They're over there. Look!"
   },
   {
@@ -4970,7 +4970,7 @@
   {
     "path": "Exports.552.Data.0",
     "key": "1161B10A4DC89026F8FBBFA21C5E30DB",
-    "text": "Я должен был догадаться! Ты гонялась за ними вверх и вниз по улице, пока один из продавцов не поймал тебя. \"Что ты думаешь, бегая возле моего магазина,\" — сказал он.",
+    "text": "Я должен был догадаться! Ты гонялась за ними вверх и вниз по улице, пока один из продавцов не поймал тебя. \"Чем ты думала, бегая возле моего магазина,\" — сказал он.",
     "originalText": "I should have known! You'd chase them up and down the street, until one of the store owners caught you. \"What do you think you're doing, running around outside my store,\" he said."
   },
   {
@@ -4994,7 +4994,7 @@
   {
     "path": "Exports.553.Data.0",
     "key": "F5A9E9054F956E69D270A78CF4DF9836",
-    "text": "Это было давно, Белла. Годы! Но даже тогда ты была большой проказницей. Я помню, как один из продавцов разозлился на тебя однажды, но ты даже не испугалась.",
+    "text": "Это было давно, белла. Годы! Но даже тогда ты была большой проказницей. Я помню, как один из продавцов разозлился на тебя однажды, но ты даже не испугалась.",
     "originalText": "It was a long time ago, bella. Years! But even then, you were quite the troublemaker. I remember how one of the shopkeepers got upset with you one day, but you weren't even scared."
   },
   {
@@ -5036,13 +5036,13 @@
   {
     "path": "Exports.554.Data.6.Value.2.Value.5",
     "key": "8FEEAA5B47C43487608BD582672C5298",
-    "text": "Она звучит как лучший человек в мире, дедушка.",
+    "text": "Она звучит как лучший зверь в мире, дедушка.",
     "originalText": "She sounds like the best person in the world, Grandpa."
   },
   {
     "path": "Exports.555.Data.0",
     "key": "B9D8A3834A6EBEDE4305E9B3DAE8FFD8",
-    "text": "На сегодня, Белла. На сегодня. Кроме того, даже тебе придётся вырасти когда-нибудь!",
+    "text": "На сегодня, белла. На сегодня. Кроме того, даже тебе придётся вырасти когда-нибудь!",
     "originalText": "For today, bella. For today. Besides, even you will have to grow up eventually!"
   },
   {
@@ -5108,7 +5108,7 @@
   {
     "path": "Exports.558.Data.5.Value.0.Value.5",
     "key": "834C875C4C472040434F3B8E01E55933",
-    "text": "Почему люди всегда тебя слушают, дедушка?",
+    "text": "Почему звери всегда тебя слушают, дедушка?",
     "originalText": "How come people always listen to you, Grandpa?"
   },
   {
