@@ -42,7 +42,7 @@
     },
     {
       "$type": "UAssetAPI.Import, UAssetAPI",
-      "ObjectName": "/Game/Data/DialoguesBetweenNPC/Npc_bark_Conversation_Struct",
+      "ObjectName": "/Game/Blueprints/Objects/Npc_Conversation_Bark/Npc_bark_Conversation_Struct",
       "OuterIndex": 0,
       "ClassPackage": "/Script/CoreUObject",
       "ClassName": "Package",
@@ -322,7 +322,7 @@
               },
               {
                 "$type": "UAssetAPI.PropertyTypes.Objects.DoublePropertyData, UAssetAPI",
-                "Value": 0,
+                "Value": "+0",
                 "Name": "MemberBarkPositionByX_19_602C319646AD0D1AD9F2778B88EA86A9",
                 "DuplicationIndex": 0,
                 "IsZero": true
@@ -422,7 +422,7 @@
               },
               {
                 "$type": "UAssetAPI.PropertyTypes.Objects.DoublePropertyData, UAssetAPI",
-                "Value": 0,
+                "Value": "+0",
                 "Name": "MemberBarkPositionByX_19_602C319646AD0D1AD9F2778B88EA86A9",
                 "DuplicationIndex": 0,
                 "IsZero": true
@@ -522,7 +522,7 @@
               },
               {
                 "$type": "UAssetAPI.PropertyTypes.Objects.DoublePropertyData, UAssetAPI",
-                "Value": 0,
+                "Value": "+0",
                 "Name": "MemberBarkPositionByX_19_602C319646AD0D1AD9F2778B88EA86A9",
                 "DuplicationIndex": 0,
                 "IsZero": true
@@ -622,7 +622,7 @@
               },
               {
                 "$type": "UAssetAPI.PropertyTypes.Objects.DoublePropertyData, UAssetAPI",
-                "Value": 0,
+                "Value": "+0",
                 "Name": "MemberBarkPositionByX_19_602C319646AD0D1AD9F2778B88EA86A9",
                 "DuplicationIndex": 0,
                 "IsZero": true
