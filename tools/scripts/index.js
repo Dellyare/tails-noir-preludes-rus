@@ -1,14 +1,15 @@
 // Код целиком написан нейросетью claude-3.5-sonnet
 // Спасибо, что работает
 
-const fileName = '2-1Carlo';
+const fileName = 'DT_ReneeTerminal';
+const RELATIVE_PATH = 'BackboneStories/Content/Data/Datatables/Terminal';
+
 
 // Базовые пути к папкам
 const UASSET_ROOT = '../../TailsRUS_P';
-const JSON_ROOT = '../../Json-TailsRUS_P';
 
+const JSON_ROOT = '../../Json-TailsRUS_P';
 // Относительный путь к файлу (одинаковый для обоих корневых каталогов)
-const RELATIVE_PATH = 'BackboneStories/Content/Data/Dialogues/Act_II';
 
 const { execFile } = require('child_process');
 const path = require('path');
@@ -113,6 +114,7 @@ async function convertJsonToUasset(jsonFile, uassetFile) {
             'fromjson',
             jsonFile,
             uassetFile,
+            'VER_UE5_1',
         ]);
         console.log('Успешно сконвертировано в UASSET');
         return true;
