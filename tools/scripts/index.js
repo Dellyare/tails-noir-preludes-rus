@@ -1,19 +1,17 @@
 // Код целиком написан нейросетью claude-3.5-sonnet
 // Спасибо, что работает
 
-const fileName = 'DT_StudentsWithBags_1-2Howard';
-const RELATIVE_PATH = 'BackboneStories/Content/Data/DialoguesBetweenNPC';
-
+const fileName = 'DT_ReneeTerminal';
+const RELATIVE_PATH = 'BackboneStories/Content/Data/Datatables/Terminal';
 
 // Базовые пути к папкам
 const UASSET_ROOT = '../../TailsRUS_P';
-
 const JSON_ROOT = '../../Json-TailsRUS_P';
-// Относительный путь к файлу (одинаковый для обоих корневых каталогов)
 
-const { execFile } = require('child_process');
-const path = require('path');
-const fs = require('fs');
+import { execFile } from 'child_process';
+import path from 'path';
+import fs from 'fs';
+import { parse, stringify } from 'lossless-json';
 
 // Функция для получения абсолютных путей к файлам
 function getFilePaths(relativePath, filename) {
@@ -34,11 +32,11 @@ function ensureDirectoryExists(dirPath) {
 // Функция для чтения и парсинга JSON файла
 function readJsonFile(filePath) {
     try {
-        const rawData = fs.readFileSync(filePath);
-        const jsonData = JSON.parse(rawData);
+        const rawData = fs.readFileSync(filePath, 'utf8');
+        const jsonData = parse(rawData);
         return jsonData;
     } catch (error) {
-        console.error('Ошибка при чтении или парсинге JSON файла:', error);
+        console.error('Ошибка при чтении или парсинге JSON файла');
         return null;
     }
 }
@@ -144,7 +142,7 @@ async function processTranslateFile(translateJsonPath) {
     console.log(`Обновлено переводов: ${updatedCount}`);
 
     try {
-        fs.writeFileSync(paths.json, JSON.stringify(originalFile, null, 2), 'utf8');
+        fs.writeFileSync(paths.json, stringify(originalFile, null, 2), 'utf8');
         console.log('Переводы успешно внедрены в JSON файл');
 
         const success = await convertJsonToUasset(paths.json, paths.uasset);
@@ -166,7 +164,7 @@ function executeUAssetGUI(args) {
 
         execFile(uassetGuiPath, [...args, 'TailsNoir'], (error, stdout, stderr) => {
             if (error) {
-                console.error('Ошибка при выполнении UAssetGUI:', error);
+                console.error('Ошибка при выполнении UAssetGUI');
                 reject(error);
                 return;
             }
@@ -195,30 +193,16 @@ async function convertUassetToJson(uassetFile, jsonFile) {
 // Функция для конвертации json обратно в uasset
 async function convertJsonToUasset(jsonFile, uassetFile) {
     try {
-        // Первая попытка с версией движка
         await executeUAssetGUI([
             'fromjson',
             jsonFile,
             uassetFile,
-            'VER_UE5_1',
         ]);
         console.log('Успешно сконвертировано в UASSET');
         return true;
     } catch (error) {
-        console.log('Первая попытка конвертации не удалась, пробуем без версии движка...');
-        try {
-            // Вторая попытка без версии движка
-            await executeUAssetGUI([
-                'fromjson',
-                jsonFile,
-                uassetFile
-            ]);
-            console.log('Успешно сконвертировано в UASSET (без версии движка)');
-            return true;
-        } catch (secondError) {
-            console.error('Ошибка при конвертации в UASSET');
-            return false;
-        }
+        console.error('Ошибка при конвертации в UASSET: ', error.message.split('\n')[1]);
+        return false;
     }
 }
 
@@ -248,7 +232,7 @@ async function main() {
         }));
 
         try {
-            fs.writeFileSync(paths.translateJson, JSON.stringify(translations, null, 2), 'utf8');
+            fs.writeFileSync(paths.translateJson, stringify(translations, null, 2), 'utf8');
             console.log(`Найдено и сохранено ${translations.length} текстов`);
         } catch (error) {
             console.error('Ошибка при сохранении файла:', error);
@@ -301,7 +285,7 @@ async function main() {
 
         // Сохраняем обновленный JSON
         try {
-            fs.writeFileSync(paths.json, JSON.stringify(originalFile, null, 2), 'utf8');
+            fs.writeFileSync(paths.json, stringify(originalFile, null, 2), 'utf8');
             console.log('Переводы успешно внедрены в JSON файл');
 
             // Конвертируем обратно в uasset
