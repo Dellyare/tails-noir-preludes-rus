@@ -3,10 +3,15 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "extract": "node index.js extract",
-    "inject": "node index.js inject"
+    "inject": "node index.js inject",
+    "mass-inject": "node index.js bulk-inject"
   },
   "author": "dellyare",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lossless-json": "^4.0.2"
+  }
 }

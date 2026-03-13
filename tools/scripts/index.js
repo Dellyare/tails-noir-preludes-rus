@@ -1,8 +1,8 @@
 // Код целиком написан нейросетью claude-3.5-sonnet
 // Спасибо, что работает
 
-const fileName = 'DT_ReneeTerminal';
-const RELATIVE_PATH = 'BackboneStories/Content/Data/Datatables/Terminal';
+const fileName = 'Jorge_1-4';
+const RELATIVE_PATH = 'BackboneStories/Content/Data/Dialogues/Act_I';
 
 // Базовые пути к папкам
 const UASSET_ROOT = '../../TailsRUS_P';
@@ -145,11 +145,11 @@ async function processTranslateFile(translateJsonPath) {
         fs.writeFileSync(paths.json, stringify(originalFile, null, 2), 'utf8');
         console.log('Переводы успешно внедрены в JSON файл');
 
-        const success = await convertJsonToUasset(paths.json, paths.uasset);
-        if (!success) {
-            console.error(`Ошибка: Не удалось сконвертировать файл ${fileName} обратно в UASSET`);
-            return false;
-        }
+        // const success = await convertJsonToUasset(paths.json, paths.uasset);
+        // if (!success) {
+        //     console.error(`Ошибка: Не удалось сконвертировать файл ${fileName} обратно в UASSET`);
+        //     return false;
+        // }
         return true;
     } catch (error) {
         console.error(`Ошибка при обработке файла ${fileName}:`, error);
@@ -232,7 +232,7 @@ async function main() {
         }));
 
         try {
-            fs.writeFileSync(paths.translateJson, stringify(translations, null, 2), 'utf8');
+            fs.writeFileSync(paths.translateJson, JSON.stringify(translations, null, 2), 'utf8');
             console.log(`Найдено и сохранено ${translations.length} текстов`);
         } catch (error) {
             console.error('Ошибка при сохранении файла:', error);
