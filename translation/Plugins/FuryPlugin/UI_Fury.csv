@@ -1,0 +1,20 @@
+﻿source,translation,namespace,key
+Your controller has been paired to another profile.,Ваш контроллер связан с другим профилем,UI_Fury,UI_PAIR_Text
+Pairing Changed,Привязка изменена,UI_Fury,UI_PAIR_Title
+Sign in status change occurred,Статус входа изменен,UI_Fury,UI_ACC_Text
+Sign in Change,Изменение входа,UI_Fury,UI_ACC_Title
+You cannot play this game due to age restrictions,Данная игра недоступна вам из-за возрастных ограничений,UI_Fury,UI_AGE_Text
+Age Restriction,Ограничение по возрасту,UI_Fury,UI_AGE_Title
+Please reconnect controller,"Пожалуйста, переподключите контроллер",UI_Fury,UI_CON_Text
+Controller Disconnected,Контроллер отключен,UI_Fury,UI_CON_Title
+Press any key,НАЖМИТЕ ЛЮБУЮ КЛАВИШУ,UI_Fury,UI_IIS_Press_PC
+Press any button,НАЖМИТЕ ЛЮБУЮ КНОПКУ,UI_Fury,UI_IIS_Press_Console
+Press Enter,Нажмите Enter,UI_Fury,UI_IIS_Press_PC_Enter
+"Press <img id=""CROSS_Button""/>","Нажмите <img id=""CROSS_Button""/>",UI_Fury,UI_IIS_Press_PS
+"Press <img id=""A_Button""/>","Нажмите <img id=""A_Button""/>",UI_Fury,UI_IIS_Press_XB
+Error,Ошибка,UI_Fury,UI_IIS_Error
+"Could not login, press YES to try again. Your progress will not be saved if you continue.","Не удалось войти. Нажмите ДА, чтобы повторить попытку. Если вы продолжите, ваш прогресс будет утерян.",UI_Fury,UI_IIS_ID_NotValid
+Could not login.,Не удалось войти.,UI_Fury,UI_IIS_NotLoggedIn
+The next chapter is being downloaded.,"Следующая глава загружается, пожалуйста, подождите.",UI_Fury,UI_Chunk_Title
+Please wait or try again later.,Повторите попытку позже.,UI_Fury,UI_Chunk_Text
+Loading,Загрузка,UI_Fury,UI_Loading

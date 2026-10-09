@@ -1,0 +1,7 @@
+﻿source,translation,namespace,key
+"You've reached the target! ",,,A78AD7144C729D7FBEC70A94E65C4537
+The path couldn't be found because of the target node,,,53A3DDED47A704509A4083B2527A7F74
+The path was built,,,7834EE82410016A31704BB8C4BBCCE89
+The path couldn't be found because of preferred nodes,,,519ACF144AB09DB20D8303B0D698F8BB
+The path without node {0} wasn't be found,,,242786CA4062F6E2D6176A889F651B71
+The path through node {0} wasn't be found,,,244122DD4E538D9F3A22898429A679A1

@@ -1,0 +1,408 @@
+﻿source,translation,namespace,key
+May claims she hasn't seen anything.,,,1F1552C34C9DA4D84222ECA173F18C55
+May suspects the teens were up to something.,,,4DD6D7324C8782D6EC42C6B5CD74E952
+May suspects the geezers were messing with the clock.,,,2E404CFD43F75EF821BC2D8D7B9B09C5
+You gave May the plushie.,,,828E650E43299101FDE22A8FA1025745
+...A picture? How much are you going to pay us?,,,29E39CF444F099CD8AC748BCFD02C60A
+...Pay?,,,6A1FF4DC45D0BED8F46A8989418F9BE0
+Nothing. It's just for a class assignment.,,,3783D6894DF9E5F7307FA3A04F7B0B3C
+"Well, at least you admit it. I suppose you find something AMUSING about a struggling mother who can't afford to buy a simple toy for her baby girl?",,,8BAE0E394F9CD97666395BA3AA14C9A1
+(SARCASTIC) Amusing? No. But I don't think it's worth advertising to the neighbourhood like you're doing now.,,,188137D6411CF2839D7FE3817A43425C
+(INVESTIGATIVE) These aren't simple toys. They're wildly overpriced. Probably because this is the wealthiest area of town.,,,5289043B4555DC00CE1AF19A9FA2F4E7
+"(SOCIAL) Absolutely not. Believe me, if I weren't a broke student, I'd rush in there and scoop up as many toys for her as I could afford.",,,7DB963974EBC650E7CCCA78B1A58F2FB
+"People in this neighbourhood are very into the Winter Solstice. It's all a load of hooey, but it's always good to have some common ground with your mark. Makes them want to help you more.",,,3991596E40617CF0C4BEC39216E1A7DF
+Of course. Let's talk a bit more about this hustle you have going.,,,941106B14EEF4B50BCCDD8AE639B5D6B
+Hmm. Let's talk about something else.,,,5FDC72554A7555852AE81B87CA611D4A
+Right. Catch you later. [Leave],,,E38CEFE845542E6187558585E865129B
+"A squalid little hole in West End. It's a studio, but luckily we only have to share it with four other people.",,,CFCC30B24F1816E7D6BB33BDA0E78660
+Four other people?,,,3435A5C84578DEA63FBDAC88ECEE3EC7
+That doesn't sound lucky at all.,,,0938508643C9F45ABB45ABBD39D0F6B1
+"My mother and father are both very sick, so we have to look after them. And my brother and his daughter. They're sick as well.",,,7F96DF074FCBCA62329E1885EBC7605D
+Sounds contagious. You sure you're not sick too?,,,683813024354C0DB4E4676958BDBB684
+What do you mean by 'sick'?,,,A16D5FBA46EF75324E4426AF59B723B4
+Just sick and tired of taking care of others. But I suppose I should thank the Shepard that I'm still in the position to do that.,,,0D435743404F228AA034FB928660187F
+Is there anything I can do to help?,,,1879FA6048D06327FFBB8DA5B58D9D00
+Hopefully you won't get sick either.,,,CE7827C147BA08257CFCD392E4D08044
+"Well, my parents are both pretty frail, so they need constant tending. And my brother threw out his back at work a few years back and is basically bed-ridden. And my niece has a bit of a runny nose.",,,2DE82A494FD1856FBEE9628EAF778DC0
+Is there anything I can do to help?,,,7255481B4C8C033417BF8AADD8491D54
+(SARCASTIC) A runny nose? Do you...do you think she'll...do you think she'll live?,,,48FF5FD74F0ED36C72A1268E8D3A712B
+At least the runny nose will pass.,,,6C43E87C44E4B3ED0BD33881A43C8D9F
+"With my luck, who knows?",,,BF955EF643A1BE4EFC608B86E3A4023E
+"More like, ""who 'nose'?"" [point to nose]",,,B3D88A43404631793A9C09B73054F94B
+Let's talk a bit more about you.,,,8D2AA417479489A6A5EAF3909DE04D6C
+How about we talk about something else?,,,D110E0B042C56059FFB3859315B18A3E
+"[Shake head sadly, and leave]",,,D7EFA7C943880D777DFC93939E7333D1
+The only thing that really brings me pleasure anymore is seeing my baby girl smile. Maybe one of those toys in there would do the trick.,,,C5CCAF1145B1B8B09A4551B57A4C2304
+Wish I could.,,,57F5EE8447DC9CD291362B9A16F07564
+I don't have the money for that.,,,BEA56FBC4F974304B47896AE1CDB958B
+"It's for the Winter Solstice. Protects us from the Goddess's trickery. And the way things have been going, we need all the protection we can get...",,,8348FF424B27163382448887BA62F0DC
+You really think a mask is going to help?,,,EC4014F44C6FF3A17B25439DAAF53196
+I don't believe in that.,,,54B08D35425E559BD5ECB8988EF66FB7
+Oh. Um...Liona wanted to get some fresh air and the West End isn't exactly the safest place for a woman and her child. Gastown seemed like a safer option.,,,F6473BE246F0A3F289B04782EC829ACF
+That makes sense. Can you ask you something else?,,,5C95ECC5422D1BD3CB1DB193F6BB9F99
+Right. Mind if we change the subject?,,,3E49437E4617CD5951B67F9AD4FC5A82
+Huh. I'm gonna go for a walk. [Leave],,,7B7E66264E6D9FE8AE0F96B697D6F36F
+Neither do I. But at least you have a nice expensive camera you can sell when times are tight.,,,FDA3456C4533DCEE29788B8CF523B7C5
+Um...Let's talk a bit more about you.,,,D884F38342941863FB4F3087DBE03AE3
+Hmm. Let's change the subject.,,,0F50CCD140A882DE4C7C0A927C1DB61D
+I'm...I'm going to go. [Leave],,,AE0C2BD747741CCF8DCDAA8F1B0D033A
+"Oh, I'm SORRY! Was my little Liona disrupting your otherwise perfect day!? It must be SUCH a burden to have to acknowledge a struggling mother who can't afford to buy a simple toy for her baby girl.",,,5CF51B3B407AEA6E0CFBCEB40C3EBC0B
+(INVESTIGATIVE) These aren't simple toys. They're wildly overpriced. Probably because this is the wealthiest area of town.,,,1CEFEF324C1F78BC91516891B4807A76
+"(SOCIAL) Absolutely not. Believe me, if I weren't a broke student, I'd rush in there and scoop up as many toys for her as I could afford.",,,A6604C384585A39FDD3D40BE684EBB7C
+"(SARCASTIC) Yes, it really is. I'm horrifyingly rich, you see, and the daily struggles of the poor is just too strange for me to handle.",,,19C2D048436134BDCF580E9170D4AEDB
+"Maybe you don't think she deserves it, but I just want Liona to have something that's close to a normal childhood. Toys are a big part of that.",,,8663D4FD4347D07F19E814BC335E3498
+I really wish I could help.,,,191F9688490478B01D60A58E681415B6
+"Hmm. People love saying stuff nice like that. Doing something, though? Very rare.",,,166AD7AB4EEE5125FDC265BDE3EF2634
+I'm going to do something.,,,784F21824AA7A488C66192A8E87519B9
+[Don't say anything],,,E7DAD65E46E0C3CF05C40D8ACCF57CF2
+"Shh! Keep it down, will you? We still have a few more hours working this corner.",,,29F8B8C54399B2992073D0AE91763E82
+Whatever. [Leave],,,EE92170B44F7B210D80E76A6A2DBEFF0
+"I wanted to talk to you about that, actually.",,,9A00E79E43EF63CA0668539FF811C1E5
+Please don't say that unless you mean it. My baby girl's had her heart broken so many times.,,,93428FEA46A19248AAE01EB6A536C1DC
+I'll try not to. Let's talk about you some more.,,,8CEF51B247716288B1AB41B57B3020B7
+"Let's change the subject, then.",,,92E366744848960D21D861AC991B2F72
+Shut up! SHUT UP! Winter Solstice is one of our biggest days of the year and I am NOT going to have some art school brat ruin that for us.,,,5202E0064BAB0DC2F1062CB211C6E167
+I think this art school brat is going to ruin it for you.,,,772AC4CC4B6415EE81E15BB3E586FA11
+Do your worst.,,,5ED55E9248AFAC9A9799398C4D9B33D1
+How are you going to stop me?,,,B9AD65054B5A87F7F850FDB8CC11F2C9
+"Alright, alright. What do you want? A fucking picture? Fine, take your fucking picture.",,,DE3FC4AF4DB8B0902FCB4CBF1B714C77
+You shouldn't swear in front of your kid.,,,74FA0A0E4EA64385A4BF2F82BF14D2D3
+[Take picture],,,0CC0574A487361A0AEE61B9A3383A92A
+That's what I figured.,,,46FA279441E3E2764F8A7A8F59F20256
+"Let's, uh...talk a bit more about you.",,,258081244DF7F8D6170004934398F57A
+Let's change the subject.,Давай сменим тему.,,44F03A194CD6AF03B7D7558EC135B8FC
+"I'm going to, um...go. [Leave]",,,7863B9DC4F921B9C54B60C93212DBCFD
+"Do you want the picture or not, shithead?",,,573C364D43262DAEF481ABBADF094374
+[Take picture],,,E893085148E4307F1327B8ABF16D748E
+"Oh, I suppose you think my daughter and I shouldn't even step foot outside our little hovel in the West End? Can't have us poors upsetting the Gastown Gentry with our tattered rags, can we?",,,09CBCE2349E53B7C29328F93FDE9CCCE
+I'm sorry if I made you feel unwelcome.,,,20F71C1E488A25A944954F9191FF67F9
+"Yeah, but why torture her by exposing her to things she can't have?",,,5351C7F8481463329B9D45A2A98DA45B
+"It just seems strange, is all.",,,6CD730A542993A39EE8C8E94D522E8F8
+"I'm not about to let my daughter be exploited. I'm going to need some kind of offering to make it worth my—er, her while.",,,25C727EF40622B1CAEDD0583C76E716B
+How about this Winter Solstice card?,,,D55472E047CD4137E30D1687EA24B41F
+I have this toy here...,,,698149CF41835D20663D0AA05CE2E33E
+How about this birdseed?,,,E4702696495421CDBCD264A9DE439736
+How about these cigarettes?,,,ABAD8AAD4CE0BDCA20D67FAD78660B52
+I don't really have anything.,,,6FB0574841B9C95085B806BD0217C62E
+"I told you: if you can get my baby a toy before we head home, we'll take whatever dumb photo you want. But you're going to have to hurry up, the last bus back to Granville's in a couple hours and Liona hates walking.",,,329061AF44F35AC97AA732A4676BA37C
+"(INVESTIGATIVE) Wait, didn't you say you lived on the West End?",,,E77DDBC040A5C71B39D856A693EE9818
+I have this toy here...,,,B2D32276466AEF201B60AF90C0A6E951
+Where am I supposed to get a toy?,,,07C3B20041E2E28F1226F28C95EB425C
+Can I ask you another question before I go?,,,E321E6D84F1E5885709673B4BFD04DBF
+What do you want to know?,,,0C54A0D34F8020A9231DA586082BB745
+"So, how many suckers have you reeled in today?",,,DE4BEA6B4BFD483F0262D4B9ADA417C6
+"So, how many suckers have you reeled in today?",,,4A44285844301B4BF137BE8017CB0ED7
+Do you sit outside this shop everyday?,,,650B64A94130E1CB3722B18A24989D26
+How much do you make pulling scams like this?,,,AFBCDE95483527588BE4BB9DAB561DA4
+What's up with the masks?,,,890DB6694367BF8CC98E67BD5DB21672
+Where do you live?,,,0804A264479836A10AB63BA16F3E53DB
+"So, what's up with the masks?",,,9E045750479E1DA3F5496B81CDE9A85E
+What brings you to this neighourhood?,,,8CC6EA894616596C390271A33ACDDA1C
+Why is it so important that you get a toy for Liona?,,,753186BB47D540198D4F878FAD3EB23A
+"Let me see that - ooh, that's a pricey one, too! Here, Liona! Look at what the nice rich boy got you!",,,964A631941E7ACD9473323AAC0E0BE5E
+No sweat. It was just laying in the street.,,,EDCC32EA42D2BC19FC4ADDBB1FBED0D4
+My pleasure.,Всегда рада.,,B60CEEE84D19C85B54E7B6A4D19EC83B
+We're literally standing in front of a toy shop. How dumb are you?,,,3EC0EFBA459035B302C8BCBC2A31F8BA
+I can't afford any of the toys in there.,,,0AE74D5D43C0B82597CA69B559EE5A6B
+yeah I got some stuff I want to ask you about,,,BB9598BB44D7FC65870478B1801774F5
+I'm not! You are! [Leave],,,F876F5854D6CA126E527D79333973F89
+We don't call them suckers. We call them 'marks'. And so far we've gotten thirteen toys we could return. And one filthy geezer toy some cheapskate pulled off the street,,,ED22EE394A44741FC85854BAAA8F9B4F
+You're welcome.,Всегда пожалуйста.,,499CE45C4D10450E688BCAB11BC11B47
+It's not that filthy.,,,17A514E54F30F2169E95A1B8628E8A1C
+"Fuck! Um. No, wait—I just. We're, uh, we have to stop at Granville because, uh...look, I don't have to answer to you!",,,DF9CFAEB48AE2F30782ED5ACECA16042
+Wait. Are you con artists?,,,492E96B040E38F97B27A3E922CCA31F2
+Is anything you've said true?,,,3ACF88AF4FDC8A3EDB8DB8BC2976CE83
+I knew it! You're a fraud!,,,AD8D53344BC206190C64C38A214A8952
+Yeah? what do you want now? Come to rub it in even more?,,,481390D64FE5B0440F8BBCA34B6BC661
+I fixed the clock. It's all good now.,,,476959CD487D9D151661A8ABD9D2FDF3
+Maybe a little bit.,,,CB6FAD6A4EA34D1DDDADECB2997140B0
+Nevermind. [Leave],,,6A06F69E4304D970EBFEC2923D8DE1F3
+Not at all. I just wanted to talk.,,,20E316D8491CB3942A1FDD8AAD5047FA
+You could if you pawned that camera of yours. Might even have something left over for yourself.,,,D4809030465F24D3B2A1F3B4D3318127
+"Right, er...let's talk more about you.",,,DC5A69C349E42EC9BFD93D9BBEEC38F9
+Heh. Can we change the subject?,,,F02D54C741AA6DB49F39DF905B14A755
+Yeah... I'm going to go.,,,37E890D645FDD68B8000DD95746451CA
+You're cheap.,,,1072729245FA7ADF5A5444BF0CFEA685
+You're literally wearing rags.,,,0BCD839344794B84EBAC32B93747B8C3
+I probably paid a lot more for my clothes than you did.,,,0E6459C94289F21F62C24DBB26655C97
+"There. Now, if you wind up selling that, I expect a three-way split.",,,3AFBB3B64B4D02C1C60ADE9BF4FCDCAF
+"Little late for negotiations, isn't it?",,,21B496C6449AA5B9A53B52A2A9A34EE4
+Nah-uh. Fifty-fifty.,,,41A3E9074BF6AD2AD13FE59E100E33D8
+"Little late for negotiations, isn't it?",,,77C154434ED7D2FE94794FBD23AAD90C
+Don't worry. No one's going to buy this.,,,DC3309054B78D8AD7C0726AD901382C8
+"Pfft. Cheapskate. So are we done here, or what?",,,F4F276EF472437AAEB61A9B8C56B676A
+Yeah. See ya.,,,66EE99C94E806C99E32E39A645014949
+"No, let's talk some more.",,,A735EF2348B0437A0074B5996440558A
+That ridiculous clock? What about it?,,,82B8957443F15FBF14B6B9A60CB58976
+"Nothing. I wanted to talk about something else, actually.",,,089411D54247AF92BDCA8A9D1262F852
+Someone told me you're the one who did it.,,,41AA05B5482E53616D2564B79BF7033E
+"The Jig's up. Everyone says you're the one who did. ",,,6343E77B4AA647590C6FF1A3EE32D6CE
+A hand's missing. Any idea who did it?,,,59ED35F740311BE2C98D9597C71C8ECF
+"We don't call them suckers. We call them 'marks'. And so far we've gotten thirteen toys we could return. And if it wasn't for that slip up, it would have been fourteen.",,,ED31A71F4D3B6E2CEFB12788ACF113A5
+Doubt that. I don't have any money.,,,274AAEBC4877F0FB37D4BBBAB1248C8B
+"Well, keep at it. Someday you'll get good at this.",,,71932969404A97434D3E9BA7504CB150
+Anything else?,,,3037267B49B902D10C1138B6EBC5F981
+I want to ask you about something else.,,,A6114A4449A3B4AB1F0C9C91A8ED4486
+"Yeah, I'm outta here. See ya.",,,402499E54FE8285664BC25BAC60A0383
+"No, I want to know more about the clock.",,,8C03BA51482FAA88ACCB76B4B63FCC5E
+"I told you, it's those filthy teens. If you want to start kicking people out of this area, start with them. Not us.",,,2986E0FC4852DF5E7084E5BCAB9EA9FB
+That's all I need. Thanks.,,,DCE2A1014CF0954A1A489A87B932449C
+I'm going to need a little more than that.,,,C359739242EF4B137B3371A637BB6DD6
+"Who cares? You're obsessing about some clock no one cares about, meanwhile my daughter's about to go another Winter Solstice without so much as a trinket to mark the occasion. Why don't you look into that instead?",,,FA657CEB4B58085CF8BC969AA68FDB95
+You have your priorities and I have mine.,,,B878E3C04BB428337213F5B8886BC8A5
+Maybe I can do both.,,,5B79A8D948CC0765AB4A41943F283457
+I saw some of those awful teens hanging around it earlier. They were laughing too. And not the nice kind of laughing. The kind where you're up to something.,,,C060503945C1ED77FB86EEAAF04A46DA
+Got it.,,,656B0E2A4A869CC6F7D4B99D458E4B8A
+Can you describe them a little more?,,,793EF4854DD222F235867A8A055998BD
+"Tracked down the clock piece, hmm? Guess you're smarter than you look.",,,165CAEEE49804A4AE0A0D9830AC377E9
+Why can't you just be happy for me?,,,25AC79364918938293E0FDA43ABDC046
+That's kind of a rude thing to say.,,,CD73CCC841CF7D6F263CA1AAE16CD4F6
+"What are you, trying to see if I'll change my story or something? I told you it was that gang of geezers.",,,CF03A75B40C14EF4D8ADEEBB66CF0BDB
+Got it.,,,754A0BEA429977422CCB1883975B1162
+Where are they?,,,7616995744A03EC3D7ADB3AFD6192111
+I saw a bunch of those geezers near it earlier today. They were all stacked on top of each other. Too bad you weren't here with you camera then. It was quite the sight!,,,91DB12104BBA5BE006317680BA681046
+Got it.,,,327992174A412D88C01BB4A0BB45AF17
+What geezers?,,,0DD7A5EF419355A75E52689E605F2B12
+"Down the street, by all the shops. Keeps shoving their faces into the gutter, looking for food.",,,A6BD45964E680499E31ED4AA8B9B5E16
+Got it.,,,B0260F0A4901E861B501ED9E320260D9
+They hang out in a group and all dress the same. One of them bumped into Liona yesterday and refused to say 'sorry'. They just kept walking!,,,158F90964A5949CBC2928BB68FA34928
+Thanks for your help.,,,18728A4943E9AFE1C26DE68676DC708D
+(INVESTIGATIVE) What were you doing here yesterday? You said you weren't from around here.,,,060CEE894A140EF4934856B59DC8B514
+I'll make them sorry. Real sorry.,,,BAE935F34B9C0DF1097752850BC46B26
+What are you expecting a parade? You fixed a stupid clock. Big deal.,,,783B0B154FC2FE50EEDD9A84E6B8D439
+It is a big deal.,,,BDDD1AB64048CAD64BEE929E32CA4089
+"If you actually think that, your life is a lot sadder than I thought.",,,F833170348D8A0F50D5797A4E8608E43
+"No, YOUR life is a lot sadder than I thought! [Leave dramatically]",,,F20CC4474764116A591E0B8C121C5451
+Whatever. Can I talk to you about something?,,,04BDD9AC441A0D0DBAF52EB4EEEBB7EA
+"A student, hmm? I suppose I should have guessed from the clothes.",,,62BDDECA403D081D5F5E308DB4F19D1A
+Something wrong with that?,,,C4B16F1F493E65AB69E622A61FC4E02E
+I still want to help.,,,EB0132714C1B15CB9498FF9F4C9F8936
+What's wrong with my clothes?,,,E4C8A0C14DAF84EE8B9F32A4933C4D6B
+What? That's ridiculous. We didn't touch that clock. You know what it is? It's the Goddess! Coming to corrupt you with her lies during the Winter Solstice. That's what you get for refusing to wear a mask! Embarrassing yourself in front of an honest woman and her even more honest child.,,,C0B57EAB46968F553B7A1AA605538AD0
+You really think so?,,,B14A9AFD4D613AF1B00892B95DE4E2BA
+"I sincerely doubt that. ",,,3790EDD14AD207A4A87BB4A003459387
+"Everyone? Hmm. Well, I don't know what to say. It must have been someone impersonating us. Maybe someone who wanted to make us look bad. Drive us out of the neighbourhood. Yeah, that's it! It's a conspiracy! An elitist conspiracy.",,,30B678AC45B557E4380EE4AF71216037
+You're just embarrassing yourself at this point.,,,E1FF13A042BA3D75E4D14884B5C65AD3
+"Come on, lady. Just give me the hand.",,,0D2B6D9E44B0640253E111B0038D0368
+"Oh, Liona, please don't pout. Maybe Momma will be able to buy you a toy next Solstice. Or the one after next. Now, let's head home, it's a long way back to the West En— Um, excuse me? EXCUSE ME! Are you EAVESDROPPING on us?",,,C0640D4142877DAEF83703862948F55E
+No. I'm just minding my own business.,,,DABB42084DD0E9CBE594FD87640DD6A2
+Yes.,Да.,,277056F848F64C375F63A3966227AF5A
+Eavesdropping? You were speaking very loudly.,,,8E40D9B84CF7BD3FCACF8BAF20CE39C5
+"And that's exactly how she made you her little plaything. Did anyone else corroborate this nonsense? Of course not! Why, the Goddess will have you running in circles come nightfall. You can be sure of that.",,,8A6E774549A210B9215CE3A584E36B66
+I'm nobody's plaything! [Leave],,,9754AB6C4787E1F886D89FA5CF2AAA8D
+Nah. I'm going to prove you did it. [Leave],,,6ED7020D454101E6CF8BE08B6240AF7D
+Bah. Fine. I nabbed it. It's got gold plating and even the fake stuff can fetch a fair price if you go to the right place. I never figured these Gastown ghouls would actually snitch. Where's their compassion?,,,FE997C5545CD92C67E62E782E0597A62
+Probably went out the window when you started calling them 'ghouls'.,,,138213A94D63D2659AA21384AAE92EDF
+Where's yours?,,,7E4AAA8D43DE5A145FFF45A7A553F8C9
+"I was going to use the proceeds to buy my little Liona some dinner. You know, by taking this you're stealing food off of my little girl's plate.",,,8387AB39422E833A942297A0F7A8000E
+"You're the one who stole, not me.",,,E9EBFE46482F7B94682DB3941169406E
+Don't guilt trip me.,,,79F27D304989FBA64C0A949ABBCB5747
+"Whatever. I hope this makes you feel like a ""big man"", you little snoop.",,,612AB6964209F25D3D9603B19A3107FC
+It does. [Leave],,,36F8906C459C08F884BA9BB6BB2CE711
+I hope so too. [Leave],,,B8B6FD0B4EEC71940A24FC954F87D81B
+"Nothing wrong. You're just another useless deadbeat, that's all. Now beat it. You're scaring away the others.",,,F72564004A15C745E9AC688F6C441475
+"What others? ",,,899781E54AB6A871FCEDA68FAE2D55ED
+Gladly. [Leave],,,21977CAA4A219645A1CB879ABE01481A
+I don't see how you could. Unless you want to hand over that camera.,,,2D2BE6674B8AC6A464C188865AAEAA58
+What would you need a camera for?,,,4086BE6E4DB17AB97B4F219246A0BC5F
+"Sorry, I need it for my art.",,,1AEA0E2D405A5E66C3AA7592EC177451
+"Oh, you think just because we're POOR we don't know how to use a camera? Liona happens to be smart. VERY smart. She'd probably take better pictures than you could. Give it to her and see.",,,867899FB4760C9A476547F9F30854AB9
+Sorry. I can't afford to lose it.,,,1139910E4693E3E042E96397F34754D5
+No way.,,,D5D6D3B3445AAD218684FE9A3C14B7C2
+"What? I don't know. First you give my daughter that filthy toy and now you're harassing us about some stupid clock? You're a real pest, you know that?",,,C885FD5B4CC88894E71303B6AAB05BA8
+"Alright, alright. Just curious.",,,E5D2C88F424143D57A0750AA4813E3FA
+"Takes one to know one. [Leave, trying not to cry]",,,A7B4B3A945D4BF24F023469FBBC4EEB4
+Art? ART!? You must be loaded if you're studying something that dumb. I bet you could buy my baby a toy if you wanted to.,,,79310A0945FE659F1245AD80FF4E2E7A
+"Maybe, but I don't want to.",,,0056DD734E30F0102CF9288B5B442A89
+"Sorry, I'm beyond broke. I'm student loan broke.",,,7B6F6A854D40A862F9836496E012C621
+"Pfft! Another heartless Gastown ghoul! Spitting in the face of the poor. I hope the Goddess tracks you down tonight, because you really deserve it!",,,D1CFF2624BC957B075402BB652470005
+"Hey! No, take it back.",,,FBFF75914D82F101CFE594A21A7A1530
+Whatever. I don't believe in that stuff.,,,AAA6ABCF4849148884AC5FA72CDFF006
+Yeah? What?,,,BD17915448F67AFC60FB97A7CE735003
+"I don't really need that picture any more, but you can have this toy I found anyway.",,,89C148264A05C55C2723539253743C5C
+Can I take a picture of you and your daughter?,,,AD3E69CF4DE7473842E6B5964927D8AF
+About that picture...,,,B3A920A14F6C5E09CA8D99BEE1767F28
+I'd like to know a bit more about you.,,,B39291FE46DEAC4C93894A81DFE4D782
+About the clock over there...,,,D979B9964BA579630647C68371C64DB5
+I'll tell you what's strange. STRANGE is getting harassed by some RICH kid who thinks I don't belong in his neighbourhood! Strange is harassment! The kind you're giving me right now!,,,D5637F334F7E77D0266CD28B69517214
+I'm sorry. Do you live around here?,,,3EEDDF5549B1C2F50E4228A66AA5E1A1
+I'm not rich at all. I'm a student. A poor one.,,,68D98C644275C3675E801B8D59A21BB0
+"You think I'm rich? Gosh, thanks.",,,1DAE6A7B40E6E17B0C4247B08C9C6989
+"I'm sure. Now, um, do you have the receipt as well?",,,29BB1824443040B6CE3C10AC2DCA3504
+"I, uh, lost the receipt.",,,187760AF4CBFD78176226085445B4115
+I don't have a receipt - I found this by the geezers.,,,A37B3D104C49036BA5BDA8B693F6F6F1
+"You need to raise your standards, kid. I wouldn't get caught dead in those clothes.",,,31863DCE4D731F7AF32519A4FB619D11
+You're not so well-dressed yourself.,,,D310542444CB899A4E7A6BB2DA0A2416
+You're basically wearing rags.,,,35066E5D44A1A04683BD149BFCE5DFEB
+"Ha! You didn't even see half of what we can do. When Liona turns on the waterworks, you'd take out a loan to set things right.",,,CAB55BA24DB209D8CD985BB5AF22EEE9
+Let's talk a bit more about you.,,,287C1899405C0598EFA14D8322D111BA
+Guess I lucked out. Let's change the subject.,,,C4E8B93E4080014A3E48F4A960423F88
+Yeah...I'm going to get out of here before you vultures suck me dry. [Leave],,,BD87E8264F5DAC8480A68F98F354C84D
+Of course you're rich! That's a Glaxxon 680-S you're carrying. Top of the line. Stop holding out.,,,CBDC45F9407E0E98C12B3695EC2520AD
+It's a loaner from school.,,,B121AC8E414C59614CF38ABB513D266C
+I'm beyond broke. I can barely afford tuition.,,,54414FAF4E4FE41EE56AAD94CC8B06C1
+(INVESTIGATIVE) This is a pretty niche item. How do you know the make an model of my camera?,,,32F9961B4700320F76F0ADAC8EB3A9DA
+"What? No! Of course not! Look at us! We live on the West End, where I suppose you richies would prefer us to stay.",,,8E334EF64518445767BE908148E558F7
+Relax. I'm not from here either. I'm just a photography student.,,,5C7FE0C14AB712829F661F83EEAAB5AA
+What makes you think I'm rich?,,,26E6CFD74200281E6D7ACCA57146566D
+Unless they're sealed I don't have any use for them. What else have you got?,,,83C4D1DF45B00B4E867E528E8CDE2A62
+How about this Winter Solstice card?,,,036C6F1C47586107E044A98626A0DF93
+I have this toy here...,,,75BC9EED4ED96C97D23C50A5C66E53BD
+How about this birdseed?,,,8C2BD2ED42DFB898410BA5A971B36735
+I don't really have anything.,,,709AF45E462E300D58F52A885BAB500C
+"It's got writing on the inside. I can't even resell—I mean, reuse this. What else you got?",,,88F73BB146802E612CE29FACD75E4C0F
+I have this toy here...,,,439E639C4E61B66BFF40269F462CEF3E
+How about this birdseed?,,,A1AA4A04493495BDBAF45CB690A8D055
+How about these cigarettes?,,,400F981E4F30C9A5CD42B7A62CBC8321
+That's all I have.,,,9F4DCE44448A130B20CA5DA6B7C42F32
+It's a term of affection! I can't believe this is how someone your age decides to spend their free time. It's pathetic!,,,E563648B4B9B1E38B003AFB473CD37E9
+"I'm working on a project, so it's technically not ""free time"".",,,1E566C8640B94CFA13C7F294E3C38773
+"I'm sure you'll find a new grift, soon enough.",,,F60FA12846674316A8095E850F0232F9
+And stealing isn't?,,,1E09A38D4F1B715BBA557598D5255C85
+So what? You think you're some big shot detective or something? You went after a poor woman and her even poorer daughter. What a hero.,,,615F6CB94530B855EDA0438ED2B2E8B4
+You're not poor. You're just pretending to be.,,,04F9177C4734837C220D3CB56A03C049
+See ya.,"Ну, пока.",,02C7A32B4CEA06F6D7D06AA2CD025F0D
+"Anyway, I wanted to ask you about something.",,,148383CD4795F7980AD6A4BCE90C439B
+Birdseed? So we can get bothered even more by those dumb geezers? No thanks. Anything else?,,,55BC2E8D4EF5D25F7A40B19BBC8A1B26
+How about this Winter Solstice card?,,,B4D4EC6E473DCFA745677E81CC468C80
+I have this toy here...,,,9F1D75054D42F420035EE1BC07E18D55
+How about these cigarettes?,,,ACCD6E1341D88D3CCBE67EB754FEDFED
+That's all I have.,,,30B1D45C483EBC0C49D27AA6FA59D8B2
+"Oh I'm sorry, I didn't realize dreaming of a better tomorrow was only for rich kids, like yourself!",,,B088B1F4438561A0064F94841949E2AF
+"Lady, I'm a student. A poor, struggling student.",,,0809A6D04C61C21F73B0CD9AC44CD3FA
+You think I'm rich?,,,DEB8B9FC43EB1E5B2B4F13A271DAFA45
+"You know what I want? A nice toy for my little girl. The fancier the better. You get that, then you'll get your picture. But hurry up. The last bus back to Granville's in a couple hours and Liona hates to walk.",,,B933DE7D4CE65FC58EABEA803D8687B9
+"(INVESTIGATIVE) Wait, didn't you say you lived on the West End?",,,598918D248E5B323877B06A1AEDBB9A9
+I'll see what I can do. [Leave],,,7763E2E64FDB52FF4CB9A7BCE8AF76BC
+"Fine. Let me ask you a few more questions, though, first.",,,A858DDB24075046B0674BA8FA7D332B7
+"Did anyone else tell confirm this nonsense? Of course not! Oh yes, the Goddess saw a sucker coming the minute you stepped into this neighbourhood too proud to wear a mask. You're her little plaything!",,,8C2F99CB49DB1C9C9C4057934CFDF25B
+I'm nobody's plaything! [Leave],,,0A92DDC649B77FDC18325BB27CEEE9A1
+Alright...I'll go look into this some more. [Leave],,,E1C9734941E8C55F957AC195BCA6A0B6
+"...Well, there's a beautiful toy train in that store that my little Liona has her eyes on. Maybe if you bought her that she'd be able to forget all this abuse.",,,FE4095634E60F2617C60E99B73FEF213
+How about I take her picture instead?,,,8972FBD74F686463DBA3DDB4946B1C87
+"Sorry, I can barely afford my tuition.",,,C7DD41CF42F9BF0C8850EAA8E9604326
+"I knew you were holding out on me. Oooh, and it's a pricey one too! Alright, kid, we'll take your stupid picture. Hurry up. Let's get it over with.",,,93EA0E7544697A3379372EB74A8AB872
+[Take picture],,,EB121F7F464C1EFE27709CBD56EFA5F6
+"Alright, alright...and how much would you pay for that?",,,8A65DF9143D0319244E14BACD1ACD8D7
+"Um...I could maybe give you a copy? After my professors grade it, that is.",,,31652E4049F29F45D43060BD73571E09
+Um. Nothing. It's just for a school project.,,,BA9756B44CC4ED52D8124DB0D06C6F13
+"Um...did I say yesterday? I meant earlier today. The whole incident really rattled me. And my daughter even moreso! You know, when you get the piece back from them, you should force them to buy her something nice to make up for it.",,,692452E44BA4FA1B090FE986A7D40329
+"Yeah, yeah. [Leave]",,,977F31B247092B5E3D67DDADB682EE45
+You really need to let that one go.,,,80805CCC4BD18D3A982D16B6E4321B33
+"Finally! Now you're actually doing something useful! You hear that, Liona? They're going to make those awful teens pay!",,,45999C8046D04A6674CE0787F617CC77
+[Look cool and intimidating],,,2026E4D84DE91F4CB24AAF8CADD62478
+Ugh! Nevermind. Just leave us alone if you're not going to be any help!,,,43F028DB4FB25D31EFD134989AE8DA93
+Wait. I want to ask you a few questions.,,,B13A25C3498DB9A2CC6538B8373FB8CE
+"Yeah, yeah. [Leave]",,,1E3B0FB1438B51822FD90C9B27994BBA
+"No, you WEREN'T! You came over here as if you saw something and just started hovering around like some GHOUL. I suppose you find something AMUSING about a struggling mother who can't afford to buy a simple toy for her baby girl?",,,24808892454EEED401AD94B557EB05FC
+(SARCASTIC) Amusing? No. But I don't think it's worth broadcasting to the entire neighbourhood like you're doing now.,,,9E98DDBD4F857E5736613E831FA0EEDA
+(INVESTIGATIVE) These aren't simple toys. They're wildly overpriced. Probably because this is the wealthiest area of town.,,,125EED184A602920355CF2A0D7D99BFA
+"(SOCIAL) Absolutely not. Believe me, if I weren't a broke student, I'd rush in there and scoop up as many toys for her as I could afford.",,,8DAB549442FFA23065673E8AA058F0EB
+"Oh, I'm sorry: do our humble West End ways OFFEND your posh Gastown ""sensibilities""? I bet you think I don't belong in this neighbourhood.",,,E293FFE941110B81DA24F5A2A6A7D16E
+"(SARCASTIC) Lady, I'm beginning to think you don't belong in this universe.",,,84979E5640BAC281CDA4AD9AA0241792
+Pfft. You think I'm rich?,,,61007DBD40120E21195A709C5351D9A2
+I'm sorry. I didn't mean to offend you.,,,5A60974A4176C5EBDB02DDA47D580BBF
+"You really ARE a piece of work, aren't you? Sass-talking me in front of my own child! You better do something to make up for this, or she's going to be traumatized for life!",,,EAB10FE8484DEE6C8EA72DA7722E48E0
+"(SARCASTIC) With you as her mother, that's already a given.",,,B5D7D78648E3568C29CEC4B46C0987AA
+Of course. What can I do to help?,,,3EEA2D8D4809EC8AFAD5BEB1AD473F23
+"...You know what, I'm sorry. Sincerely.",,,AD04ED9A4FA62906A6BF42A3998CCF5F
+"Oh you have definitely crossed the line, boy. That's assault. VERBAL assault. And unless you hand over that expensive camera around your neck, I'm going straight to the police. Then you'll be sorry.",,,15B4FC5A49DD722A62DF6097F36B28E8
+I can't give you that. What else can I do for you?,,,351473BF42840CD391EFF7B41EBA7CDD
+"Okay, okay. I'm sorry!",,,9600C5B14E09B583C189E084F86072BC
+You're the one behaving like a maniac.,,,9D44712447A57FF5CA10BDA055C5734E
+I can't give you my camera. It belongs to my school.,,,5E314D53426F791E7F605AA0143C84DE
+It's not just that. Wearing masks lets us the chance to pretend we're different people. People who can afford to live in this area. People who can celebrate the Solstice through the giving of gifts.,,,F62189AC42539557FBE0B6A6B9C3F94C
+"Right. Um, let's talk more about you.",,,CB9B66054F250716B5002FB25EC4D62D
+I think I know where this is heading. Can we change the subject?,,,C4BD690F400345C793B44E80C6430557
+"Yeah, um. I gotta go.",,,FB9FD18C4673894499191B9D993DF5B3
+"Yeah, and these are my work clothes. A uniform. You think Liona and I would be caught dead in these when we're not hustling? Once we're at home we're designer all the way.",,,8AEDABC14E01A03ED440A2A90893DB02
+Let's talk a bit more about you.,,,09859B7D46AE8710B12D3F9BDA937084
+Huh. Let's change the subject.,,,EA5161804EAD5D17F442A7A6B3CF21D8
+Cool. I'll catch you later. [Leave],,,05FB07CE4FCAD9AA711F8EBA7591CEDE
+"You think WORDS are going to make up for this? Words are cheap. Words are nothing. If you really want to make it up to us, go in there and get my daughter a nice proper toy. And don't forget the receipt.",,,32594EB546CFFCCB2640CF80382F4460
+...Isn't this a bookshop?,,,942ABA2147F941C3139D7BB924B09A46
+I can't afford that. I'm just a student. And a poor one at that.,,,A108B694426EC7A66C548BB099A58C97
+"...I'm telling you, I'm not rich.",,,B13414C84E6A917ABE26F0A3259BEEE4
+Nah-uh. If I told you that you'd be out here tomorrow doing the exact same thing. And the last thing we want is competition.,,,3DF742994CADBDF90F19D899F8E608F5
+Okay. Let's talk a bit more about you then.,,,E7856B4D443C9CC55D1E2286073F505C
+Fair enough. Let's change the subject.,,,5F60422843D39996C1A69FABEAB5F60E
+"In that case, I'm going to take off before I get tempted to have kids and exploit them. [Leave]",,,528E2A804D56A393C7335CAD7E5F5610
+"Well, they're about two decades out of fashion, which means they should be due for a revival if you can hold onto them for a little while longer. Though I doubt those janky threads will be able to hold on that much longer.",,,2BA59F8248B3F306B072A19DB16FEC04
+(INVESTIGATIVE) You sure know a lot about the finer things.,,,7B05CFE04BB4830428DE8E9AD7814552
+"Oh, they'll hold up just fine.",,,B9FCC81D4F504F95C515C6BB5C6E16E2
+These aren't out of fashion. They're old school.,,,B47F8BFB49A2C432E77CC398BFD1B3CB
+"What? Oh. Er...well, just because we're in dire straits doesn't mean I have to be ignorant. Maybe I like to motivate myself with the finer things. What are you accusing me of?",,,F7F56CD54533CDBF64D579871F5310A1
+Nothing. I do the exact same thing.,,,7656A235423080F384661982ECF5A456
+(INVESTIGATIVE) Maybe you're a little better off than you're making yourself out to be.,,,B55ACC28492F8E7E84A47789F56AA1BE
+And maybe YOU'RE an idiot! I mean look at you: roaming the streets without a mask during the Solstice! I hope the Goddess has her way with you tonight!,,,B940F5C14EBF054F7906DE91CD60A0BC
+Hey! No! Take it back!,,,2D7593CC474858EC5CE4B1B5E21E490B
+The Goddess?,,,8C39521643A913E6E2A120A9A6F29F26
+I don't believe in that stuff.,,,A00A1A524842196299B57AA8D624E817
+What you want? A parade? You tracked down a stupid piece of a stupid clock. Big deal.,,,5479387B4BAB8F4E895D1F9C998B7D6C
+It IS a big deal! [Leave],,,A96E6D0548D3F231A0E59B8B2519BFA9
+I wanted to talk to you some more.,,,63D8B39F4EC95EE4351D35B370330316
+"Well, then you know! It all makes sense and nobody can say otherwise! Now, unless you want to make things right with my daughter, I'd appreciate it if you left us alone. You're scaring away the others.",,,9B02E2F54DB08347DA47EFA2C1555F88
+What 'others'?,,,C8EAB0224DC5A8D7EEF9B6B0A0DC264B
+Gladly. [Leave],,,A885E9844D2024C61B6C269E3DC60704
+"Well, then we can't afford to take a picture with you. Simple as that.",,,8AAC136F44F96BA4303BDD8F3BBE79C5
+Let me ask you something else...,,,CE90EC2843A502935E1AA79B141B6087
+I'll figure something out. [Leave],,,0B9782754C82BCEB8DCC45BCD9B81B98
+"Pfft. Cheapskate. Speaking of which, where's the receipt?",,,C4B0CD2B40281265E37F09B4861EEE76
+I um...lost it.,,,0D837DB04A956A36B4226C93BC6A3483
+Receipt? I just grabbed it off some geezers.,,,3B9D06CF419D322AD245FD8E297CB35F
+"You keep telling yourself that, honey. Now, unless you want to make things right with my daughter, I'd appreciate it if you left us alone. You're scaring away the others.",,,0F2DFE8D4174E9F79A1EA7B1E7AFA36B
+What others?,,,64E72AB3427D3B2026FB78B400D728A3
+"Wait, I want to ask you a few questions.",,,6E385E5B48CC29B8C5216F910929B813
+Fine. [Leave],,,5D89EB484E9BF1C938837E9B131970CC
+Lost it? I can't return this without a receipt! What am I even supposed to do with this stupid thing?,,,9CB094F6409EF94D9DFDEC8F5DC01BF4
+I don't know. Play with it?,,,2B5A5DCF41B143699571738B29309620
+You could give it to your daughter. Like you said.,,,E74CAA594BC26289D3A4088FD9A662D4
+"Oh, so you want me to take it back? Make it up to me - I mean us - or get lost.",,,555588F943529572D08EFEA632807BF3
+[Get lost],,,EDE93B474936004F141196A7AA54A3D4
+I don't have anything to offer.,,,A60E516943C55DB6F9B798A119F3A56E
+This is a STREET toy!? I can't return a street toy! Not even for store credit! What am I supposed to do with this?,,,B8024F34469CD89CCC096ABF93416EE8
+I don't know. Play with it?,,,808D377F46F9E01C506C508ACF714CE7
+You could give it to your daughter. Like you said.,,,B2299925448B0E4061ED7FB3EF7A6173
+Pfft. Then you better find yourself a mask fast. The Goddess doesn't mess around.,,,893C7A494FF4E17193C9DA95DE1CF5FE
+Wait. I need to ask you something first.,,,279AD12A469C2E3621894DAE71688133
+[Leave],[Выйти],,68C0E0F74700AA9BFA70BDBC00544B30
+"Ugh! I can't believe we wasted all this time reeling you in. And we were having such a good day until now! Let this be a lesson to you, Liona. Always judge a mark by their clothes. The clothes never lie.",,,67019F5444136B62F6EA618A72CA4608
+What's a mark?,,,68A884A94498E80A2E6AE7816C380094
+I have really nice clothes.,,,2083C22E40186D96B732DF8917C4EE2D
+"Maniac! So now you're adding slander to the mix? Oh, you better do something to set this right or you're going away for a long time.",,,C286706E43FD78AD3DE0CDAD91567FA9
+Fine. I take it back. You're very sane.,,,9128942944E4C01490DFDA878377D707
+[Sigh] Fine. How can I make this up to you?,,,80AC0D35411F8FD40FBE0F9DF829A27E
+"Good. Then she'll get to take you by surprise. Now scram, you're scaring away the others.",,,851124CC46959FACCF92BE95DF479895
+What others?,,,F31FDE57442CF48C07CA24AE84FC52E0
+"Wait, I want to ask you a few questions.",,,297A53BE4F39004CB8A523AEFA58431F
+[Leave],[Выйти],,0CD05DE542DBC6DB1CB57C9ACB253103
+"Pfft. You don't know about the Goddess? You need to get yourself some religion, boy. Now get lost, you're scaring off the others.",,,1630FF6C4393D4284466749AFA127332
+What 'others'?,,,ADED7D614F7D4295D4E0F988BD1EBEA4
+[Leave],[Выйти],,3CBA797946C8239BF4DA948C904057C3
+Things are going better for you then. I just hope you find a way to give back to those less fortunate. Shepard knows there's plenty of us around.,,,867562FE4C9FD7444D8785AEB2949B8C
+Huh. Let's talk a bit more about you.,,,E412E24544FA7A4231401AA659EB3525
+This again? Let's change the subject.,,,AADA6DD94EA28A6141B3ACB2BFE4CFB7
+I'm going to go. [Leave],,,74E961854CBFD501D4822DBF72978E9C
+"It was supposed to be you. But I guess you turned that around on us, didn't you, mark? Now, beat it. We're losing daylight.",,,D24B1AFD41F9B975CA4084AC1A213D85
+"Um, my name is actually Howard. Not Mark.",,,1F3C6F0B4E824BBCC9B4BC8399CAB483
+Alright. [Leave],,,7C256C2F41DD315E4F1BB8BEEB0F9525
+"You actually believe that don't you? I can't believe I didn't see it. Now, beat it, you pest. We're losing daylight.",,,5885A43D463D33BD60CD2AAB92C53A75
+My name is  Howard. Not pest.,,,F57663CD4E365E747CBBC1B0F7858829
+Alright. [Leave],,,D425A48E4DC1BF6C76E418B8012ACA37
+"Oh. So, you're an idiot. Go away, idiot.",,,199FDC0249854B0817DFB28C08026506
+"Wait, I want to learn a bit more about you.",,,FCA62C0E4153645FB03689B3F7C37587
+Let's talk about something else.,,,3E3FB61C4A2CFFD500BD7C948272493D
+[Go away],,,4D0773EC445268D3122FBD91991A3B30
+"Ugh, and so dim too! What an amazing payday you could've been. Now, seriously. Get lost.",,,673D16FC460564923DF2AB9534AA5F89
+[Get lost],,,646DAE7C4DA9D9209989188815F62089
+Of course not. If people around here recognized us they'd get suspicious pretty fast. We only run this on holidays. When people are in the giving spirit.,,,D080BF62451512C4AF5A689183D6ACE5
+How much have you made so far?,,,2A2E2C5D4872D357BDE33790265EB4E7
+What do you do the rest of the year?,,,5DE2435446DA280F151C449BA4379CEC
+"Whatever we feel like. Lately it's mostly just been pretty standard: slip and falls, liquor drops, rental scams... I can't wait 'til Liona's a bit more verbal. Then we'll have a whole new repertoire!",,,08A84D54470F21264CA2EEB03C8DAFF8
+Interesting. I want to know more about you.,,,1E3DDCD74A9F11E65C1C34A654E44815
+Cool. Let's change the subject.,,,6B7B17B3495909A21F5CFB81D14725CD
+You people scare me. [Leave],,,E4C8BF7247CAC6A2D9D8DA980CC3FD4C
+"Better than you'd think. Enough to live comfortably in North Granville. We actually thought about getting a place here in Gastown, but it's best not to get mingle with the clientele.",,,1A765DEB4E28B7F421B63896794F0B4F
+Wow. Let's talk a bit more about you.,,,8088DD5B48CFF05E5F3D0AB6722BE2D4
+Makes sense. Let's change the subject.,,,694736F74F3B386FA333D79E083C9CB8
+Well...good luck with that. [Leave],,,B610BDFA4EEEC7EDE314A39DD9B5D5C3

@@ -1,0 +1,141 @@
+﻿source,translation,namespace,key
+You'll probably remember to dust them off now.,"Теперь ты, наверное, не забудешь их протирать.",,CB1D95DF44CC17925EA1CD86146B374E
+You didn't inform HQ of your discovery.,Ты не сообщил штабу о своей находке.,,70AA50D04079338C6762E2B6E5167059
+You informed HQ of your discovery.,Ты сообщил штабу о своей находке.,,63400BCF413BCA0B974135AF92BD5FF2
+Next,Далее,,C524A3A2487A1D45D6AA7FBA63B3542A
+"This is HQ. We read you, loud and clear. What's your status, over?","Это штаб. Мы вас слышим громко и чётко. Как ваше состояние, приём?",,7F6A56C641F16BC75C3D70AD1E0B5235
+We've...found something.,Мы... кое-что нашли.,,F28B13D0406C6D5DE13E4C892C758F83
+Excavation continues at a steady pace.,Раскопки продолжаются в стабильном темпе.,,FAC9D2254132C7789D6452894A4DE432
+Are you...sure?,Вы... уверены?,,68EF2D084607970E801D6185C0FDB1E8
+Um. Do you know what we're dealing with here?,"Эм. Вы знаете, с чем мы здесь имеем дело?",,54E488E243458319135F5386B7D075EB
+Not yet. We're only in the early phases of testing.,Пока нет. Мы только на начальных этапах тестирования.,,6EF2B35741C681728155D1AD65918D54
+...,,,37EB509646D6B0CDC22E898B7647489E
+...,,,79F17566454F47CEA55025AE9F3E7F87
+Hello?,Алло?,,363148794CD4ED9C922DA283F6FE57EB
+[The radio hums with gentle static.],[Радио гудит с лёгким статическим шумом.],,3F4F30A74723C8B31F816D9CF6C2C73E
+...This can wait. Jorge needs my help.,...Это может подождать. Джорджу нужна моя помощь.,,CB2DD3A549D7BD44B84DBE9774C4A521
+Anything else to report?,Что-то ещё доложить?,,FB3B9D524F07C60D5A237480AC6C28D2
+"Yeah, actually...we found something.","Да, вообще-то... мы кое-что нашли.",,A973C6F9468ACB485593278600C47A73
+"[Lie] No, nothing. Over.","[Ложь] Нет, ничего. Приём.",,8E2A069740BCD8A532956895A23D9755
+"[Grit grinds between the aluminum frame and the plastic dial as you begin to turn it. The dial itself has loosened, slightly, having been gnawed at by the arid wasteland surrouding you. Instinctively, you recall HQ's frequency: 94.6.]","[Песок скрипит между алюминиевой рамой и пластиковым диском, когда вы начинаете его поворачивать. Сам диск немного расшатался, будучи изъеденным засушливой пустыней вокруг вас. Инстинктивно вы вспоминаете частоту штаба: 94.6.]",,42ED954B42BA0F8FF2F9B289E23C7500
+[Dial in 94.6],[Набрать 94.6],,05A5643E4CB120A31D3506B62B23A2BF
+[Dial in 89.45],[Набрать 89.45],,2EF15B564AD52DABD031998A563C7D1D
+[Leave it alone for now],[Оставить как есть],,CBAE5CBF46EA883FE2D987A889797BC3
+"[The once so impressive HF-Boone 34 you've grown so familiar with over the past few months now seems weathered, weak, and old. Behind it trails a long rubbery tail, and next to the machine, a stack of notes are held in place by a paperweight.]","[Когда-то впечатляющий HF-Boone 34, с которым вы так сроднились за последние месяцы, теперь кажется потрёпанным, слабым и старым. За ним тянется длинный резиновый кабель, а рядом с машиной стопка записок прижата пресс-папье.]",,BEACC7DE42C3939BCEA7D4B4E485639C
+[Look at the cable],[Посмотреть на кабель],,2405310D4DFBAA7FC01EBBA170745D90
+[Inspect the notes],[Осмотреть записки],,80AFAA0C4841E952A7B05EB504E2F1B1
+[Write something in the notes],[Написать что-то в записках],,9F4E334648B277754846DCA0C4DDAC49
+[Stop inspecting the radio],[Перестать осматривать радио],,2EBA12BC4D2D915AE1368F91451D7271
+"Copy that, Site 06. Please describe the finding. ","Понял, объект 06. Пожалуйста, опишите находку.",,299C9E78478F68CA2340AA912F8BFCBE
+We found some sort of...artifact. Very responsive to stimuli. Possibily organic in matter.,"Мы нашли что-то вроде... артефакта. Очень чувствителен к стимулам. Возможно, органического происхождения.",,4CB7DC744408C01DEF8B12B0587993C6
+"[Lie] It's a, um...it looks like a beverage container. Aluminum. Label's been worn off.","[Ложь] Это, эм... похоже на ёмкость для напитков. Алюминиевая. Этикетка стёрлась.",,74A5EEF44CC1DFF2EDEB668BF6CA90EA
+"[The static hisses for a good minute, after which distortions begin coming through in waves. Try as you might, you can't make out anything through the noise.]","[Статический шум продолжается минуту, после чего начинают проступать искажения. Как бы вы ни старались, вы не можете разобрать ничего сквозь шум.]",,B27140604ADD014FD356EE83C405E37C
+[Dial in 94.6],[Набрать 94.6],,7DF033104C3A4EAA51BF9E965FA7F4A3
+[Leave it alone for now],[Оставить как есть],,D46960A549BF4ECE651A34ACA70FAEF2
+"[All required is a slight twist of the wrist, and the dial rotates to it's usual orientation. Hissing builds up, and soon enough a melodic beep whistles through the treble-heavy speakers. That's your cue.]","[Достаточно лёгкого поворота запястья, и диск возвращается в своё обычное положение. Шум нарастает, и вскоре мелодичный сигнал пробивается через высокочастотные динамики. Это ваш сигнал.]",,89D50D644E165CE37F39768F656EB9F6
+"HQ, HQ. This is Eli of Digsite 06. Come in, HQ. We've got something to report, over.","Штаб, штаб. Это Илай с объекта 06. Ответьте, штаб. У нас есть что сообщить, приём.",,C5F1270040EF905B20DC35BABFC28A3F
+"Eli reporting, Digsite 06. Scheduled status report, over.","Илай докладывает, объект 06. Плановый отчёт о состоянии, приём.",,77F6B92247BD06CC6487A08E9A1B0581
+"[You slide the paperweight onto the desk and pick up the stubby, dull pencil.]","[Вы сдвигаете пресс-папье на стол и берёте короткий, тупой карандаш.]",,926A266843618A5D7CC6AF82A96F87FE
+"""August 14th. Major discovery. Radioing HQ.""","""14 августа. Крупное открытие. Связываюсь со штабом.""",,E00E94524AF371D355A9369A7836AB0A
+"""Memo: Wipe off the solar panels""","""Заметка: Протереть солнечные панели.""",,5426EAEF44FA4FBFAD56C3ADB03C45A2
+"""The sun is unbearable. Temperatures during the day are painfully high.""","""Солнце невыносимо. Дневные температуры мучительно высоки.""",,B26BF9434354F7C37A8D7DA207D1F668
+"""Nothing out here remains, except decay - the lone and level sands stretch far away.""","""Здесь ничего не осталось, кроме разрушения — одинокие и ровные пески простираются далеко.""",,A6A7134E4E70EA6329940CA728FD7BA6
+"Thank you for the report, 06. Carry on with your work.","Спасибо за отчёт, 06. Продолжайте работу.",,5C84CBA943F2BE1B89A021BF12C47B1E
+[End the call],[Завершить звонок],,0911BE17459C54B6DE639EA217B1CC9C
+[The radio hums with gentle static.],[Радио гудит с лёгким статическим шумом.],,6145F27E466B1222D84DC787B747C4C5
+[Inspect the radio],[Осмотреть радио],,35C7CD434AB1F8D19001698D0A6EB9E2
+[Leave it be],[Оставить как есть],,2251662D437167D4FD3F0FAE28372247
+[Dial in a frequency],[Набрать частоту],,15FDDE184AFA83E8F2E696B49AD30258
+"[The bundle of yellow and yellowed notes is stacked and weighed down, as neatly as can be. You wrote some of them, Jorge some others. Another few still were written ages ago, it seems now, by someone whose name you don't recall.]","[Стопка жёлтых и пожелтевших записок аккуратно сложена и прижата. Некоторые из них написали вы, другие — Джордж. Ещё несколько, кажется, были написаны давно кем-то, чьё имя вы не помните.]",,4EA89D344E19D2D91E657A92C2953136
+[Look at my notes],[Посмотреть мои записки],,9EE95A94495386FEF0D87586F404022B
+[Go through Jorge's notes],[Просмотреть записки Джорджа],,9DB290034BD73783FE93049D9A637867
+[Let the notes be],[Оставить записки],,BD2F656E426647EECD526BB5425BA533
+"[The cable lies heavy on the ground, covered with dust. Tracing it along the ground leads your gaze to the now wind-whipped solar panels you and Jorge set up a long time ago.]","[Кабель лежит на земле, покрытый пылью. Если проследить его вдоль земли, ваш взгляд упадёт на теперь уже обветренные солнечные панели, которые вы и Джордж установили давным-давно.]",,F51AE61F4954FEC8CE441AB4A0695ECC
+[Make a mental note to dust them off later],"[Мысленно отметить, что нужно их протереть позже]",,82920100453FDD013C3E29A319C667CB
+[Check for damage],[Проверить на повреждения],,A6C1D82745E6E37BE454C7953790EF2E
+[Stop staring at the cable],[Перестать смотреть на кабель],,FDB6ACF24413EA45BAB025B5E290DF6E
+[The weary machine continues humming a low tone.],[Уставшая машина продолжает гудеть низким тоном.],,324617474BCF496940432383D00D9BDD
+[Look at the cable],[Посмотреть на кабель],,3D88A5234FE5FACF99B7B5B8F88E5903
+[Stop inspecting the radio],[Перестать осматривать радио],,8B7083EA4D055010F5A5D4B0150DFB15
+[Inspect the notes],[Осмотреть записки],,A0833A3E425A6959C916F185FB95E4D1
+[Write something in the notes],[Написать что-то в записках],,8D37B3A24BF7792B04B8AC80F63575CA
+[It'll take more than a scorching sun and a couple dust storms to dig through vulcanized rubber.],"[Потребуется больше, чем палящее солнце и пара песчаных бурь, чтобы пробиться через вулканизированную резину.]",,89BC4CC9418C6C53B7FA8CA0D6569034
+"So it's alright, then?","Значит, всё в порядке?",,4536821945782DDC7197C2AC7095C0D9
+"(CYNIC) [It's a thankless job. Last time, you spent half a day wiping them off, only for them to be covered the next morning. If it weren't for this discovery, it'd hardly feel worth it to wipe them off at all.]","[ЦИНИК] [Это благодарная работа. В прошлый раз вы потратили полдня на то, чтобы их протереть, только чтобы они снова покрылись пылью на следующее утро. Если бы не это открытие, вряд ли бы стоило их вообще протирать.]",,50661907439C949FB6E6A7A1E2591631
+Someone's gotta do it.,Кто-то должен это делать.,,5D4A9FB048C49962085EA0AD1E5D8DE7
+I miss my office.,Я скучаю по своему кабинету.,,3DFDE2C441E83E9734FDDC8664721FAF
+"(IDEALIST) [There's no real way of avoiding the dust out here, but next time you clean them, there might be a way to angle them so they don't gather quite as much.]","[ИДЕАЛИСТ] [Здесь нет реального способа избежать пыли, но в следующий раз, когда вы будете их чистить, возможно, найдётся способ расположить их так, чтобы они не собирали столько пыли.]",,2DE32CAC45424D0B6E7D5196FE290340
+It's worth a shot.,Стоит попробовать.,,2C4B42594BB04F681DD9FBAEEDEF70D4
+As long as I don't angle out the sun.,"Главное, чтобы я не закрыл солнце.",,542D85B64D4D48E5864172BFC0D4AB60
+"(REALIST) [You ought to set aside at least a few hours for it. It can be rushed in 45 minutes, but you'll just end up redoing it a day later. You've made that mistake before.]","[РЕАЛИСТ] [Вам стоит выделить на это хотя бы пару часов. Можно успеть за 45 минут, но потом придётся переделывать через день. Вы уже совершали эту ошибку.]",,7267BEF34CB186A44ECB5AB31980EC8F
+I'll plan it with Jorge.,Я согласую это с Джорджем.,,4F544B0F40A1F88B58B0A9B723C6F5D1
+Jorge will be busy. I'll take care of it myself.,Джордж будет занят. Я сам этим займусь.,,129C19F64BB515BFBDFA58A786B2A7FD
+Stand by for further instructions. Over and out.,Ожидайте дальнейших инструкций. Приём и конец связи.,,301B0E744A263198558EC8B58840BC8E
+[Turn off radio],[Выключить радио],,84977A3449D90DD2B5FA9C9B132A7914
+Copy that.,Понял.,,60D394BB4C3F9062BF54CE964CA4B97E
+(CYNIC) [For now.],[ЦИНИК] [Пока что.],,04490C05419BACE08846C08A9234F04A
+We'll see about that.,Посмотрим.,,3B64ADA24C476610246133999B6AC7DC
+Look at that. Something that isn't completely trash.,"Взгляни на это. Что-то, что не совсем хлам.",,C10AF4B844F05829FB5BE09F8F8E9C7C
+"(REALIST) [It is, but the climate out here isn't doing it any favors. It'll last for as long as you'll be out here, most likely.]","[РЕАЛИСТ] [Это так, но климат здесь не делает ему никаких одолжений. Он прослужит столько, сколько вы будете здесь, скорее всего.]",,BB3F1EBA4E7DB1A63E5411B2CA8339E6
+Might be worth looking into a replacement. You never know.,"Может, стоит подумать о замене. Никогда не знаешь.",,AE8545F842F0DFA053F2DEA296B2A618
+That's good enough for us.,Для нас этого достаточно.,,0037641F42FDBF18B3B15C838476BF1D
+(IDEALIST) [It should last for at least another lifetime.],[ИДЕАЛИСТ] [Он должен прослужить ещё как минимум одну жизнь.],,ACB9A2564B17CDC29FA9BCA0F23348DC
+That's good enough for us.,Для нас этого достаточно.,,DD13000F43CE0F46455252A56A99B827
+"Great. I'll pass it down to my children, then.",Отлично. Тогда я передам это своим детям.,,4B6013824088693EB380FBA16545E0F1
+"[Many of the pages are simply numbers and doodles, but you sort through to find a few that pique your interest.]","[Многие страницы — это просто числа и каракули, но вы находите несколько, которые вызывают ваш интерес.]",,4541FE904D46FA5D6860CD96A4E9E1CF
+"""August 1st""","""1 августа""",,4E6E0B0F4D831B0F4DD5ABA06EB7A0E6
+"""potential radiation, no corrosives""","""возможная радиация, без коррозии""",,8555D2544D3EBBB01A05669FB9B55690
+"""89.45""",,,71F12848485F329ADC8AE58349FE0C47
+[Put down Jorge's notes],[Отложить записки Джорджа],,48BA7BAF47941A8BBCE6D39DAD960AD0
+[The paper rustles gently under the weight of your pencil - even more so under the gravity of the discovery you've made.],[Бумага слегка шуршит под весом вашего карандаша — ещё больше под тяжестью сделанного открытия.],,510A5FCF4FE109A5F70265B3E04C0D37
+[Put down the pencil],[Положить карандаш],,8E9319764250DC6A03BF90B3340F0274
+[You glance over briefly to the solar panels in the distance. It's about time.],[Вы мельком бросаете взгляд на солнечные панели вдалеке. Уже пора.],,AD5FB8134025D520F30B4DA2E84BC33A
+[Put down the pencil],[Положить карандаш],,D3B0C10946E51A9BE477F287CE19CEBA
+[You wipe your brow as you finish writing. It's getting hotter already.],"[Вы вытираете лоб, заканчивая писать. Уже становится жарче.]",,218AF59149405658A5D7F3B4B92DCF97
+[Put down the pencil],[Положить карандаш],,21A85BE14D3FCF82FCC8298E783626D0
+"[The storm eases temporarily as you scribble down your thoughts. You can hear Jorge moving things around, down in the pit.]","[Буря временно стихает, пока вы записываете свои мысли. Вы слышите, как Джордж перемещает вещи внизу, в яме.]",,1BE9E1E94CF1B760F48BF6B1CB3D1CFA
+[Put down the pencil],[Положить карандаш],,F454D2D54A03EF8EE1F4EEA05CF3AD84
+"(CYNIC) [There's not much in the way of interesting reading. Frequencies, memos, and notes taken during radio calls. Those have become more infrequent lately - maybe the top scientists have given up on the expeditions.]","[ЦИНИК] [Здесь не так много интересного для чтения. Частоты, заметки и записи, сделанные во время радиозвонков. В последнее время они стали реже — возможно, ведущие учёные отказались от экспедиций.]",,F4EBE62848C913CDCAD3CAA95E3E8509
+"Yesterday, I wouldn't have blamed them. Today has changed that, though.",Вчера я бы их не винил. Но сегодня всё изменилось.,,776A1654409A61E9733F83B74FAC39AA
+[Insert the notes at the bottom of the stack],[Вложить записки в нижнюю часть стопки],,E8A132704A891D78EF475FBDD9D50B44
+"(REALIST) [Your notes are plentiful, but, to be frank, boring. Almost mathematical. Notes from radio calls and tracking of the weather, alongside a few scribbles regarding your progress.]","[РЕАЛИСТ] [Ваши записи многочисленны, но, честно говоря, скучны. Почти математические. Записи радиозвонков и наблюдения за погодой, а также несколько каракулей о вашем прогрессе.]",,0839C77E4701AAD02DA495804BD3E650
+Slow and steady won the race.,Тише едешь — дальше будешь.,,6E807A8C472D89B1BE03ADAEDEFDB51A
+[Put the notes away],[Убрать записки],,51EB588D4BFFE810D21945A3C2709898
+"Copy that, Site 06. Please refrain from reporting non-essential findings in future reports.","Понял, объект 06. Пожалуйста, воздержитесь от сообщения о несущественных находках в будущих отчётах.",,E4053F354996470442A3EDA0B3D19E72
+"Will do, HQ.","Будет сделано, штаб.",,C7CE746348D2D22349F6F2A5D7C80043
+Just trying to be thorough.,Просто стараюсь быть тщательным.,,6E5734CA463CC25B05668D81826B88CD
+"(IDEALIST) [There are hopeful scribbles and logs of your conquest of the wasteland. Not as personable as your journals, but your optimism shines through.]","[ИДЕАЛИСТ] [Здесь есть оптимистичные каракули и записи о вашем покорении пустыни. Не так лично, как ваши дневники, но ваш оптимизм заметен.]",,07F7D3DA4EAEEFB2F3A02F941B6C6286
+"I always knew we'd strike gold, sooner or later.","Я всегда знал, что мы найдём золото, рано или поздно.",,1B1D147A41AC0FAED53BA49BA3700D47
+[Draw a happy face on one of the notes],[Нарисовать смайлик на одной из записок],,882D604C4FA42962814FCEABE63B7CD7
+"[The wind has picked up, and would most certainly blow away the papers were it not for the weight holding them down.]","[Ветер усилился и, несомненно, унёс бы бумаги, если бы не пресс-папье, удерживающее их.]",,25A05A014A2E35E99CA623929774F421
+[Look at my notes],[Посмотреть мои записки],,1E439EEA40FBF70C307D75BF7F249A06
+[Look at Jorge's notes],[Посмотреть записки Джорджа],,C949F6D44EC39A4DFB8D78AF862712E3
+[Let the notes be],[Оставить записки],,7DF3795341434BE7F02623A1D1F4418F
+"""- first contact\r\n- series of pods with numbers\r\n- metallic cover and casing\r\n- advice on how to proceed\r\n- ask for magazines or fuckin anything""","""- первый контакт\r\n- серия капсул с номерами\r\n- металлическое покрытие и корпус\r\n- совет, как действовать\r\n- попросить журналы или что угодно""",,AA08BA2A460F28FFBD48F680556B9C20
+[Read something else],[Прочитать что-то ещё],,3248B6814D48BCF3661533B19926284D
+"[The greater context of the note is missing, but it reads: ""high chance of radiation. Use NO corrosives (if need force) careful with the pods, nitrile gloves only""]","[Общий контекст записки отсутствует, но в ней говорится: ""высокая вероятность радиации. Не использовать коррозийные вещества (если нужно применить силу) осторожно с капсулами, только нитриловые перчатки""]",,C449D0F54441BDC54EC34BAD51F3AADA
+[Read something else],[Прочитать что-то ещё],,35F0BECC4DEB6B89D955D2829169745F
+"[You recognize the number as a frequency, but not for whom or what. Below is a doodle of a heart, and the bottom of the note reads: ""p.s. Eli, if you're reading this, mind your own business""]","[Вы узнаёте число как частоту, но не помните, для кого или чего. Внизу нарисовано сердце, а в конце записки: ""P.S. Илай, если ты это читаешь, занимайся своим делом""]",,D0CDC5D94ADF3BBE4AA0D8AF6C90981E
+[Read something else],[Прочитать что-то ещё],,DE1E12C848A91E039A4E618BE5C2E94E
+[Pretend you didn't read that],"[Сделать вид, что вы этого не читали]",,0C8E860049400E572A4C2D957559BC43
+"[You return Jorge's notes to the stack, making sure they don't try to escape on the breeze.]","[Вы возвращаете записки Джорджа в стопку, убедившись, что они не улетят на ветру.]",,F0D7D5294DCAFD9306B4048A94264B02
+[Look at my notes],[Посмотреть мои записки],,FDE0642B4B60615583D9ED93C59E0E8B
+[Leave the notes for now],[Оставить записки пока],,DB971B264A26C14DB8754CA3BDF1ABAC
+[Look at Jorge's notes],[Посмотреть записки Джорджа],,A9593E5E47958D912D9B2A95E9194250
+[You look over the notes.],[Вы просматриваете записки.],,F5B68E794D5229C1D4F9469E09B46018
+"""August 1st""","""1 августа""",,62DA8E9F41E6B1B084D0E1AD8A50B16A
+"""potential radiation, no corrosives""","""возможная радиация, без коррозии""",,E620F36F4018522DD151DF8EAC435D96
+"""89.45""",,,5682F7684FDF9039E098699E983DE0D8
+[Put down Jorge's notes],[Отложить записки Джорджа],,0712CD5C450164ADBD79CBB2F7293893
+[The radio hums with gentle static.],[Радио гудит с лёгким статическим шумом.],,3BD9BA1C423785E9743A7AACF8EB1E09
+[Inspect the radio],[Осмотреть радио],,7202EF9445BA696B52783EB3522FDB8F
+[Leave it be],[Оставить как есть],,D286181B458711B61B3BBFB3AC7C9E85
+[Dial in a frequency],[Набрать частоту],,8ABA3F3440C068263EEAF5AE92D0F990
+...,,,DDAF5DA1414AD1443B17EBAFA6826B7A
+Are you still there?,Ты ещё здесь?,,7B773B6A4891CBCFF16CFB9151FF3D17
+HQ? Do you read me?,Штаб? Вы меня слышите?,,77E3C9594F0DA5152AE989AECD3ACB9A
+...,,,305A598C4A9D622039FCDD978BB5BAEF
+Does it...appear to be sentient?,Оно... кажется разумным?,,DB69A6104047DB5E3A64A19BEFD79378
+Hard to say. It's behaviour is certainly...erratic.,Сложно сказать. Его поведение определённо... странное.,,FAAC0E3042595CB20DAA9CB3A5B5197E
+"It...seems to react to stimuli in a way which goes beyond simply chemical. ","Оно... реагирует на стимулы так, что выходит за рамки простой химии.",,7FED93584CE7A14828ABE1BE70A269A7
+I don't think so.,Я так не думаю.,,5E0965AF4FDAAD058083C78C3017476F

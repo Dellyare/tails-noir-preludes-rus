@@ -1,0 +1,704 @@
+﻿source,translation,namespace,key
+Your final experiment was a success.,,,7F4550E64DB93394B85C53A2E92A8956
+Your second set of tests was a success.,,,463AE8B647BC42A34C34D28DF86D3366
+You concluded that the Artifact was too dangerous.,,,4360E5734A3A52568874D384F8F624C9
+You concluded that the Artifact needed to be kept away from the City.,,,94AA12814893B2B7CBD3B9B5CADE069F
+You concluded that the Artifact needed a high-security lab for containment.,,,3A4BA565402BA5461CC256B150BCB1C8
+You were successful in your initial experimenting.,,,7C9C511D42D196FD895D0BA75524FE94
+You log that research yet?,,,3F6B3ECE4AB7541E2FCD19A0F236619A
+"You're a good man, Jorge.",,,2B3DD7C94BF5D0E967FF95A18088608C
+How are you feeling?,Как у вас дела?,,C0E183BF4F81358DC6358B847EE5D56A
+Will you take care of the samples?,,,AD942BC949C96113F36457A0AE9877E2
+Not yet. I'll go now.,,,0E75BEB74C6F679FC63FCBBC0138CE37
+"A sample. A small one, but a sample still. Managed to cool it down a little bit. Wriggly little bastard.",,,01181C684DEB8034BCAD6DACB7BC6B47
+"Let's not give it a personality. For all we know, it's just chemicals.",,,011680754EAABF436FE52FB39FE87084
+What am I supposed to do with this?,,,4ACB465C4A15A0E471FA50A56B490BFB
+Did you have any problems?,,,43C91A7147CD8000AD40DA80AA043027
+"Oh, you came around? Alright, then. I bet you thought you'd never experiment on little Joshua either. Hah.",,,1BF5D0EE404AE1A30B69BCB417F0AD2A
+"Not really, no.",,,EE3990D74080ACF7F5220B913648002A
+Uh-huh. What now?,,,EEB72537442186D8EAC7A682CE76A56A
+"Oh, my mistake. Never thought you'd be experimenting on little Bobby here, did you?",,,5A83D4C5479379E6A742C2B04BA13D89
+"No. Not really, no.",,,891CC337499A733489D109A47945F666
+Uh-huh. What now?,,,C8A500B34E5B4671BAD907B29209D9DD
+"Within reason. Under ordinary circumstances, I'd be a little bit more wary - but this to me seems like a crucial step in determining exactly what we're dealing with here.",,,ECE3D71F4ECAF7AC1F0BD0BDEF862D8F
+Alright. You're the biologist.,,,44F2503749C03A325A8DD796741BA95A
+"We push it out of its comfort zone, then.",,,AA6129964575F458D48A15A7EBA093A1
+"A risk we're willing to take, you mean.",,,EECB592A424841D9E44545AA05F7C613
+"Oh, my bad. Joshua. Now go on, get started on those tests.",,,F3A058A34009FA26333253861EB91A55
+Alright. Good luck.,,,DD534B0C4CD25D1CDBBD1D83C049384F
+"Stumped already? Man, you want me to come do your work for you? What part are you stuck on?",,,BB32DD9240172B04723BD5B213253665
+How do I agitate it?,,,69E5AB6B4D2325705C256684CF4E8397
+How do I dry it out?,,,DD13B71545AEFAEDD5BB0EA0CBE2E7B5
+"Nevermind, actually. I'll let you get back to work.",,,427F3FB44C289733F7AD3582D38004D9
+I'm having trouble changing a single state at a time.,,,B46EC9ED492E634E7F0895817BD5B51B
+I think I've messed up it's properties completely.,,,3862CB7B4F613B2A057C1F9DCE2104AC
+"Well, salt and more aggressive reagents should do the trick. I'd suggest the salt spray in the Humidity Chamber, or the agitating compounds in the Chemical Station.",,,B1613B29450CE748F4BDFE8F7C32182F
+How do I dry it out?,,,934403C04CC0CF9F69B080834D6C5897
+Thanks. I'll try that.,,,D9616ADB43B5849469A1EEB2ACA73DD2
+I think I've messed up it's properties completely.,,,3DE4B6F3431290AE1A9D648EF7165B33
+My best guess is heating it. Did you try the Temperature chamber yet?,,,2DFC8BAD4525B1459922AB8554DC4694
+How do I agitate it?,,,6319516445FC574EC24BFC96EFA32EBF
+Thanks. I'll try that.,,,6EC180C5430717A16E6320B84B6AE25E
+I think I've messed up it's properties completely.,,,15B556BA4DCB7F4DFCBE639FA865EBC8
+"Shit, really? Try the cooling sprays again. That worked for me - got it back into its original state.",,,0A910A54443317203A966AB6E867F546
+How do I agitate it?,,,BAE1E464439B0E582C1C7297661DE1F8
+How do I dry it out?,,,B3B449FD45043BCA4E66E7A611B378DD
+Thanks. I'll try that.,,,56B6076B4138D8016EF24FB6DAEC026B
+"I don't think you can, either. That's the trick: you'll need to cancel properties out. Spraying water on something that's already wet won't dry it out, for example. But even you should know that by now.",,,42C485CA4732F2DB6D2329B8E276EDD4
+"Alright, I'll see what I can do.",,,A756A3CC45F13530CF892E9D1D664435
+"I'm starting to share that sentiment. Anytime I test to see if it can do something, it ends up being able to do it. That's...almost not helpful. But it also leads me to accept that our hypothesis was correct.",,,F6ECC1C24FF2094825E6E6833DA47993
+"""Our"" hypothesis?",,,1512DFAF40678949A8B5C6847AAE1C99
+"If nothing else, we know we make a good team now.",,,EBB4AEB8441DB0B66A0011B2482B85FD
+"What exactly have we learned, then?",,,69D626FC412772972427A597622BFE86
+"Well, everything is set up. Time to begin testing.",,,B48A27B040F6E71B9338939A2F3033DE
+Glad to see you so enthusiastic about my suggestion.,,,E046BBA44E27E48081A6BAB1F04F1548
+Alright - where should we begin?,,,6F7632194C2C226F9E1A71B2D7DC97B9
+You're still certain this is the best way to move forward?,,,2F31900F441777F85FBCA5BA4FA4F732
+I'm glad you listened to reason when I told you we had to start working on this immediately. It's going to pay off.,,,80F953B147682035A836B5A44C71EAC2
+I hope so.,,,C1DD74D8420A9351F1F8F48974D0B6E9
+I feel the same way.,Я так же себя чувствую.,,00E6B0054DD6326305B5C18A85CC6CDC
+"...If you really want to know, I'm thankful you convinced me to get started. This is the kind of work that doesn't wait for you, so today and the next few days are going to be crucial. Why?",,,7510D6F54E0189AA319BF581064171E7
+I'm more unsure.,,,BD22A5AC467B8AD3D6333AA068DFBEF3
+Nothing. But I feel the same way.,,,F53C222E43F0D1D423067CA9822AA5A8
+"Good. Get on with it, then. I'll be here if you need me.",,,F2AEBD5F4B8CE863B9F4539C16CFD861
+Roger that.,,,BBBD1240462904293440EE80EF97E2C7
+"What state did we need it in, again?",,,205CF81D4D2C0D5F6BE249B5FDD8D100
+"You-you've forgotten? Alright, quit fucking around, Eli. Even I know what you did. You heated it up, and then you hit it with salt spray.",,,1D60B4324F1E871327EBC0930B41EA45
+Then what?,,,ED6E9D8C409379D8C557DD8C50204D54
+"Oh, right. I'll get back to it.",,,A71C37F84B72A334E11FBDA62306AA76
+"Look, do what you did last time, and then figure out the last bit. It's not that difficult. Use the cooling spray if you've got the sample all messed up, or something.",,,153903BD449192CFADD5ABA751E15C95
+"Yes, I...forgot how I did it last time.",,,844E19414939710246B5FF8699B6B4F7
+I'm just not sure about that last part.,,,E943F925437B4FB2504AC5B0929E2000
+"I'll give it another go, Jorge.",,,52AA40494241B194D3020ABDA4928E36
+"You need to change it from solid into liquid again. I know you've already found a way of doing that by now, so stop wasting my time and let's get back to work.",,,17E09AA341A8F3526A2C8291844808DA
+Can you remind me what states I'm aiming for again?,,,6B2D3CB84D3BF0D6D31ABE90142AF433
+Fine. I'll be back in a minute.,,,70F235594450B8182FB00FA008C8EB2F
+"And we get to stay out here and do a possible noble self-sacrifice in the name of science? Shit, alright. I'm down.",,,99C8B3EF4D76793C06752C8BFF54B831
+Just have to convince HQ that this needs to happen.,,,5965C7744B3DD1CA6559938BEC5BF088
+"We might have to play it up. Scare HQ a little bit, so they take us seriously.",,,64F132D8421B5EDE52000589FCCF7604
+"Very dramatic, but yeah. We'll be partners.",,,AA7EAFD749820D551B6BBEA053516D4C
+"Today was your initiative, so yeah. I'd say so. Don't let it get to your head.",,,998B725443AEB747FC1F0F9C6EC4092D
+Praise? From you? Is this going to be a repeat offence?,,,5A6385704B4766AA2C2A6B9E9BE0134D
+(CYNIC) You can always place the blame on me when we get reprimanded for this.,,,5603FB6D46C4F5A64F10C5A00AEB102F
+"(IDEALIST) After this is all done, maybe the two of us can continue to collaborate.",,,E93900E44EBFF72C39C169A292CFBA2C
+(REALIST) We still got more work to do. Let's not celebrate too early.,,,1A403E3C4C455E0FF83035BFB68776F4
+Psh. I'd say we did good is an understatement.,,,1ED5BB364CE08EA61F35BCA60278F798
+"Don't forget that you're the one who convinced me it was worth the time. We'll be making more interesting progress soon - I can't really say this or that until then. So far, I'm very interested. It's promising - I think.",,,D8D3B37047FB95E8053B57B21201D9BB
+Good. Remind me what states I'm aiming for now again?,,,032BA4F44DA931B3F5BC0B880701A19F
+Sounds good. I'll let you get back to it.,,,D0031DFA4CB2ADC76925808302C27593
+"One hundred percent. There's no doubt about it - after we're done with this, we'll have learned something new, regardless of whether we've determined what it is or not.",,,A1CF2C2C4ABF41E37B3F79ADF767E58E
+Good. Remind me what states I'm aiming for now again?,,,9C2A547F49803557978171906BF1EC98
+"In that case, I'll let you get back to work.",,,AF8F0A2340A381CBA1F79EAF44CDC96A
+"I still need your help with the next few states, so I'll be able to move forward once you're done. Go on, it shouldn't take long.",,,5CD9271C425401405343A489A8D9A294
+"I think I've messed it up, Jorge.",,,FD3E50D94611FF0CE6EBD4AE780B0D3B
+"Alright, on it.",,,AC572DDC413E89CDE19015B194CDFF3F
+"Pleasant- Listen, Eli, how about we make pleasant science? What's gotten into you? Look, we've been out here for months, and now, while in the middle of this massive discovery, you suddenly want to make friends? Let's just focus on the work for now.",,,E53B71C7451168752818E4A9877D318A
+We just haven't had time before.,,,0D6C12B8486626D6EFD72B81B92BC77C
+"Fine, fine. I'll leave you be.",,,66B9B06E48B735C7EAE4DCA461ACEF79
+"No need to get so aggressive, Jorge.",,,4C38816743B3C024950E69AC10772A0D
+"Look, I...I appreciate the effort. We're coworkers, alright? Let's just...cowork. Deal?",,,D2044F7D4AED2C9CDBFE48BDF2B3AE5F
+Alright. I'll let you get back to work.,,,2C65AE764631A5CC022C44A72C9D4368
+"Alright, alright - what states am I aiming for again?",,,048CA3A04C9253B6D431208BE7DD62BF
+"No, we just need to find the right one. We're only starting out, Eli. In a little while, we'll start having a better working idea of what we're dealing with here.",,,5E93300946442957909F38A1BD701576
+What does that mean?,Что это значит?,,5BC0842748A07C520BD242BD4875809C
+How did it go on your end?,,,17246D9A4C0DE126DC906295BB7130DC
+How did it respond to your little feeding experiment?,,,8C37BD8A44142858365305BA9B0A2107
+"You don't say. It's been remarkable observing the thing. Remarkable and, well, unsettling.",,,9CCCDBC64A1F1708847950AEC9FBB91B
+Should I be concerned?,,,8C0F68B344CC525323D1118F261FC40D
+How do you mean?,,,DAF4EB48410BD06C62EC10AA1D8EE41C
+"Well, your experiments show that its capable of adapting to its environment. In my case, it...well, attached itself to a piece of food. A corn puff.",,,A4DA79D64F31AB38B1CC7BB849A04D69
+That is unsettling.,,,4DA7EA8F4DCCF18342E93E81E6DD4A6F
+I see. What do you make of that?,,,B01F11C44C4BCAC5BE6F30939786B95E
+And did it break it down?,,,DD27AF8341F11D74846CBB96BD307EA6
+...You gave it a corn puff?,,,32272CAB45180F8E28904BA697031A38
+"It is. Tell me, what conclusion do you draw from that?",,,229CECBC4BD48727D51E2F9F169CF67A
+(IDEALIST) It's alive. Must be.,,,355847CB46E5CC62FD17D0935DC4A844
+(REALIST) Nothing but what we know already. We need to test for something else.,,,60D33669461FBB21A446A797AB16EF6B
+(CYNIC) It feeds. It might be dangerous to handle.,,,E2081633444ED82542E9DCAAFA97F87B
+It attached itself to something without appearing to break it down? Perhaps it's parasitic.,,,408B2D0C4666F1B1FF0B4DA601F342B1
+"At the very least, it appears it was drawn to food. It requires sustenance, then.",,,841705BC441EB3B14EF98696886733C2
+None. It's much too soon to determine anything yet.,,,FE14100240B410E2FD5819B8077B5997
+"The outmost layer, yes. It just latched on to the rest. It didn't even begin to break down the rest of the piece I gave it - once I pulled it out, it was dry as before. Like someone had just...licked it.",,,79B5B4D04E983FE49D5E4CB4C6FD803E
+That...is certainly unsettling.,,,B1A907C5466785357E14FB9E8C5DEDE3
+What do you make of it?,,,A608310A4CC9BAFCB160839138C9DCA5
+You tell me.,Это уж вы мне скажите.,,27E46AB74DA2E05656523D877D414CA1
+(IDEALIST) It's alive. Must be.,,,B6936C534F3F117E5E23CFB189E4FE06
+"(REALIST) Well, nothing except what we know already. We need to try something else.",,,5E9552FC45F26ADADABE3194B7C4A527
+(CYNIC) It feeds. It might be dangerous to handle.,,,0E2383E94E9182A055E9199DE28B740A
+It attached itself to something without appearing to break it down. Perhaps it's parasitic.,,,F93051D648536EAD77F2529670EB04CD
+"At the very least, it appears it was drawn to food. It requires sustenance, then.",,,907F21124E0EA267DB282A8241BA5308
+I think it's too soon to start drawing conclusions.,,,19F1C6B6454E57644924C090BA538540
+"The sample, yes. If it's organic, it only seemed reasonably it would have had some type of reaction to carbohydrates. Didn't seem to be bothered by the high salt content, either.",,,B1275DBF487A553E72C2C98724AF4A4C
+That is...strange.,,,9621A4124816B7DA8FE622BF0155265F
+And did it begin breaking it down?,,,AD9004BC4F3AB6CF3ACA8AACC213D902
+"I was thinking something similar, yes. I think there's a few simple tests we could do to see whether or not that is the reality of the situation.",,,14F088ED48D045B0238B229197A15460
+What do you need?,,,B82205B24AEE41E5358240B8DF7ABFD4
+"A little bit. Handling this thing gets nerve-wracking sometimes. Lucky for you, I'm the one doing it. Not you.",,,91AE9977474338D5181FBB926F2B59B5
+I'd like to think we split our tasks 50/50.,,,1F542FBC47B81842D6EAA4B9B4B46827
+Funny. Hope you don't expect me to start telling jokes too.,,,9715EEB34E17F24967ED21BE6B410640
+I handle the Artifact just as well as you do.,,,4117A4D14A6DA6428FEE28BFFB7F5FF7
+"An organism, then. That's...unlike any microbial culture I've ever seen. Then again, this is the furthest I've ever been from the City.",,,832799C147A9BC6F706B73967FDAE17D
+"So a type of primitive lifeform, capable of sustaining itself in this wasteland?",,,44FC896442ED41A1EF14B8B6915A6196
+What do you think we should do?,,,1540AC9F4EAF60707F4F889AD540E327
+Same. Who knows what else is out here?,,,26D94DF14F74576EBE283FA9A3719BE0
+Quite right. I've got a few things in mind to try to discern whether or not this thing is sentient or not.,,,D1111EB5484EFFBDC051A58EBA629CD1
+...And whether sentient implies sapient in this particular instance.,,,5130265A4272B1F53B4CBDB1124C54EE
+What are you thinking?,Что скажешь?,,139007BB4D10EC7B4EDD30A1A97D29B4
+"Imagine: we found a single specimen, in a small metal pod. What if there are more? Others?",,,71C9D24143E8734D7FB5FEBC903B2D1E
+"Wouldn't be unheard of, chemically. In an organism, however? That would be quite remarkable.",,,DB3581924017E83A2D87ABA4A3EED3A5
+"Not sure I have high hopes about this one, but I'll try. [Leave]",,,8EEF7664417B277F0E41499DAAFE0D24
+Only one way to find out. [Leave],,,06C7A8D043E458DC1BCB8B8982E38A5F
+What will you be trying?,,,ED9D57954643D3070E2987987BF3A7CF
+"Observing, mostly. I've tried a variety of stimuli, but now I think it'd be best to just watch it. Move it into a taller container, see how it behaves.",,,162D75AA48E2C9A9621BE18B8F84D816
+Just watch?,,,ED1B063C49A9C347C2E2748059CC2725
+Good luck. Be careful.,,,2E5A2E5040E4194E179CABA768847C6B
+"Observe. Scientifically. Go do your job, Eli.",,,2730F04849921251001963898C98894B
+If you say so.,Как скажешь.,,78D3679F492A61F6F84BDA9082C29D8B
+Sure. I'll be back in a bit.,,,858E9502460B997E5F3263BB8CDED989
+"You're unsure? Come on, Eli. Get your head in the game. We're taking precautions here : all you need to do is conduct your part of the experiment and then we'll figure out if there's reason for concern or not.",,,6810C39E4060F16AF836038A237BB698
+Roger that.,,,93459C11415E5515340D6FB33AC1FAB3
+"...What state did we need it in, again?",,,72AAD52049C2A604F1F5DD84681DB247
+"I'm fine. It's just this heat, is all. Doesn't do much to aid your concentration.",,,B231E5544343A68FC5BCD2AB243B8ABD
+"I'll leave you to it, then.",,,D8961C9F44958BB36C4F4FA9EF6C3CDA
+"You don't suppose it affects us in any way? Pheromones, fumes, anything like that?",,,3071B63F45262B36AC8E3886D4A46D81
+"Yeah. We need to look into that, too. For now, let's focus on the samples. Better to know a little bit more about what we're dealing with before we start working with the entity in its entirety.",,,76D05A834204D53927CAB5A0468207ED
+Good call. I'll get back to it.,,,CC1FB5FA4FE331D8EA55AAA294FE632D
+"I wonder if it affects us in any way. Maybe it releases some type of gas, or pheromones.",,,9151B1024EE791D5C10EA5AFDA3BFD25
+"Then it's a good thing we're outside. The ventilation out here is great. Wouldn't you agree, city boy?",,,CA51A9D54DC1C7DC2102D19A0B12FC20
+"Very funny. Get back to work, southie.",,,72CE2436437CD41023E131943F2423EF
+"I mean it. Be careful, Jorge.",,,FE4A238546E383314733D58269EB7713
+"It's blisteringly hot out here, is what is. I'll go cool off.",,,34F661774E40546A2557D9B912650C02
+"I, for one, would like to focus on this particular scientific breakthrough of the century before we go digging for more. Come on, let's try something else.",,,954736314949EE11D472CE86D4763FC4
+What do you propose?,,,0C00F5144E29E21602792C8AB40DA49A
+"Nope. We're lucky you grabbed that cooling spray when I was wrestling with this thing a couple days ago. I wouldn't have subjected the...thing to it under normal circumstances, but this works like a charm. Mellows it out in a second.",,,B31D4FE04A39BBACB9BCB7B0C839F7BE
+So what now?,,,0A22A0594D839C46C497EA82A8F162B8
+Luck had nothing to do with it.,,,F5CD588C480DAEC3BB8DBF90E1DCE113
+Mellow out in a second? I hope you're not getting any ideas about recreational use of those sprays.,,,A345498C4E2553A7E7303EB0B17CE2CE
+"Sure. Clearly, under the right supervision, we can achieve great things. Course, I had to convince you of it, but here we are. Not too bad.",,,1FC05FAB4033A5697A3C78A2871FE8AB
+Don't let it get to your head.,,,3D11457C45D142BB5F95ADAB7C2A1C92
+(CYNIC) Don't forget to blame me when we get reprimanded for this.,,,1A21E4E745F6C73DA1649FB39912F4FD
+"(IDEALIST) After this is all done, maybe the two of us can continue to collaborate.",,,1F0F70794D54858CF8AA1E8CA272BE74
+(REALIST) We still got more work to do. Let's not celebrate too early.,,,833A14ED475E6BA282A81387FFAB462F
+We did good.,,,B321B3754222A3ACCA25C3B0FE814904
+"It's, well...an organism. I think we both knew that, but this all but proves it. I have to say - you were right. This couldn't wait. Glad we got started with the experiments already.",,,E5DFE87B42134C308729479FE759D3E4
+"Are you giving me praise, Jorge?",,,07B54569408111C922C0B88941E7DD39
+(CYNIC) You can always place the blame on me when we get reprimanded for this.,,,F381627F41E6F954578DDF86CB31C8E0
+"(IDEALIST) After this is all done, maybe the two of us can continue to collaborate.",,,D2AAE5CC4C24A3773E09A08528B4128C
+(REALIST) We still got more work to do. Let's not celebrate too early.,,,FE2391A44A7B83E6CC9C91B22E61DF3B
+And this was just one day.,,,DC5B8D0D433634FA1C5BF78FFBF64FF2
+"That it's an organism. Alive. We...have to adapt to this discovery. Storage, safety precautions...feeding, possibly. Thank Shepherd I managed to convince you to start the tests today. Imagine if we had kept it for much longer without knowing what it was!",,,5607B42E44CA773F69E73782A9F049D6
+No more corn snacks.,,,4E32576C486E19B5336D3F97E32F10C8
+(CYNIC) Don't forget to blame me when we get reprimanded for this.,,,AF0151BD4F5BBAED80D5BFBBC7BF9697
+"(IDEALIST) After this is all done, maybe the two of us can continue to collaborate.",,,24FADD1241961CA02554198E62175D70
+(REALIST) We still got more work to do. Let's not celebrate too early.,,,A7ADB4334D73899C2A4DF3B4A0AFADF6
+Rather safe than sorry.,,,5687EC09413E77F7E54C2A99A243DC81
+Wouldn't dream of it.,,,62092730422E672DC251CCA2A00CC5BD
+[Raise an eyebrow and point at the samples],,,F09DBDE24ED2FDDA766705854278652E
+So what now?,,,DB9D85124E600B27D552438699FD7030
+Let's focus. Where does this leave us?,,,881A59F141A63FC4AB8548A9189F1239
+"Sure. What a day. What a fucking day. I thought I'd be elated at the end of this, but I'm...I'm not sure what I am, to be honest.",,,0F661819475FC464C8450D899D63D5DA
+"Shall we get back to it, then?",,,A82335BA4F40338FDDBD458E15339BC1
+I think I share that concern - care to elaborate?,,,8BE242954A87B70DE356AA84D115FF64
+"I didn't expect you to give me your blessing for it. If that's what you really want, I'll be sure to point fingers. ""That's him. He made me participate in the breakthrough experiments! He forced me to be his accomplice in groundbreaking science!""",,,23E84E454CA3F26356797D8CE2442961
+[Glare at him and point at the samples],,,BD41088A4A688C9E48CC3F8921750DFB
+"Very funny. Come on, let's focus.",,,A12DF0894AC9D3E855CA169DEAA8B0A3
+"...After this? I - yeah. One could hope, I guess. We'll see.",,,0B65A3A0463A89B76F9D61A5C4C57C20
+[Point at the samples] So what now?,,,4D7A58D3449F0135FB21739D6179C4C2
+Let's get back to the experiments for now.,,,D580ED594B4A7C2372A17D87B930E932
+"That's the Eli I know. But sure, yeah. You're right. Not really sure I'm in the mood for celebration, regardless.",,,9BF37F794AAF4827F07C6DB19E8B029D
+"[Point at the samples] No, let's get back to our...friend here.",,,5A36D82F494AE44972717F82C77A0DB6
+So what now?,,,78FAB3644678998D1A67629C2DBC5380
+"Right, right - well, as it stands, we've got a living thing on our hands. Some type of potentially sapient organism that was buried underground for Shepherd knows how long.",,,0FA89CB047DAC46271E940B2C6DF0AB1
+Where did it come from?,,,E6083CE74AF4640CE84A59ADD39B54DC
+Are there others out there?,,,68F5989D457D1F1B6B762E8BC0CDFEFE
+Is this what we were meant to find?,,,A7D30C3741C0148AA8F822BF79FE449A
+Besides a hole in the ground? I'm not sure. The space we found it in was pretty sparsely decorated.,,,658D843A46486DF0D91A1BABA6545316
+It was sealed in a metal pod. Why?,,,8436EAF245514A764D01098B3860ADCB
+Why here? Why would it be here?,,,714E724045466D5B408560A5B8A7CD77
+How long has this thing been here?,,,638A24334DAD5986A51F1C847E41B946
+"What can I say? You made a strong case for it, and I expect you to keep that up. What should we focus on?",,,225F4D12448E0C2F75607A962E65B304
+You sure you're still up for it?,,,5438594B4B64BE7BE24E00AE5379EC87
+"I'd like to know exactly what this thing is made of. Chemically, I mean.",,,26CC4B6D4DA218D1479173BB3BE2ADE6
+Not sure yet. What have you been doing?,,,D79DFF0D4ED11FDE9D2A5AB46AF51D35
+"We arrived and we started digging exactly in the spot they asked us to. That's too perfect to be a coincidence. Yeah. This was our quarry. Hunt's over, man.",,,D67B19C44358413141291B91244B2375
+It was sealed in a metal pod. Why?,,,A93615274A62A2B55544DF9203187183
+We're in the Wastes. Why would there be a place like this hidden out here?,,,D65EC9414081DF66CA2B47BA35A8847D
+How long has this thing been here?,,,64295B8D428292CFC651DEB77A5F1334
+"We both know we're not the only expedition Science City sent out, but we're the only ones here. Sounds like there are other sites. Maybe those expeditions uncovered the same thing.",,,3CE6A6C44DA39CDC9E86F7AFC9FF3D49
+It was sealed in a metal pod. Why?,,,754C601B4759EABC05B5D5B16EE4010A
+So we were looking for this? In the wasteland past the walls?,,,4E4571E6480D936684C2E99B67E90056
+How long has this thing been here?,,,99FC5E214D44A3B6F746C5B79CF7B309
+Certainly didn't trap itself in there. So someone or something placed it into a container and sealed it away.,,,67924AA344EBA55952133781F0E2E4C4
+...So who?,,,3409E5FA4CE9713B5D9E4D8359EF5715
+...So why?,,,27D1000448823952B6DEEE8B1CEADFB4
+"Alright, but what's its purpose?",,,92086B124927D89B45B4D1AC2BF850EC
+"Maybe the Wastes past those walls aren't so barren, after all. Or at least, they weren't. At some point.",,,3227BC69490A711FF34CAC9505D2139D
+"So someone worked here. Lived here, at some point.",,,56B9F8F5402625A7EC13DCB713C91714
+But why would this be the only thing that remains?,,,2F46E34F4130BB0CC64CD98069B73AC8
+"What was this for, though? What does it...do?",,,067B5E8E41521749E0DE58A8C2269A2F
+"Who knows. This site isn't old enough for reliable carbon dating. It certainly looks old enough to have been out here for what, a century? Two? Three?",,,57E18B53489053812260908235AE7A07
+"So someone worked here. Lived here, at some point.",,,4CB7F8724FB7AAC1975A25A0DA0AC5EE
+How was it preserved? Still alive?,,,DFA3C85B4B2F6DB8F9CA15A4FE8F8DEB
+"It lived out here for ages, then. What does it do, exactly?",,,28BB0BDA49D30ECA81F262AE2CBD1933
+"No idea. It's eerie. I'm not entirely sure what happened to them, either. Never heard of a civilization outside the walls - what would they survive on? Rocks and sand?",,,9B24D00843400FCB2F1141863F020182
+How come we don't know anything about them?,,,157D93934253F6B6F4320DAAA2986726
+What could have happened to them?,,,A9D629B74187847A1391B7B07901978F
+...What are you getting at?,,,D71C1F2F4A00489F4E3685856059E3B6
+"Well, it took us a while to get through the rock, the concrete, and the metal. It was well protected, for sure. That, or it was locked away securely. Your guess is as good as mine.",,,523661BD49964B177C91A6A0C21137E7
+By who? Who were these...people?,,,169D4C174DB47E9EB31AD1BDE81BE797
+I think it was locked away. Kept from the public.,,,2A13BC2646333B275C4678A41250EC5F
+"Something like this? Yeah, anyone would want to keep it safe and secret.",,,05D843B54906442993C3018DD4BCE0A7
+"Shit, man - without gettting too philosophical, what's our purpose? Eat, sleep, die? Seems like our friend here skipped out on the last step, though.",,,EDBC4A764AEAAE0524246EB200A4270D
+You think it sleeps?,,,F2BA39B6412505EF30836EA575CC5948
+So what does it eat?,,,5B55AF6541401BE88A6E4B9F0CA01FE8
+Are you saying this thing...can't die?,,,B5DC519047CCAA821810598B8DAA856A
+"I don't know. All I know is that the two of us are stuck out here in the desert along with a pod of creepy black goo that was locked away five meters underground in a bunker, and we just found out it's alive. And it eats things.",,,03B7E6524A1D0AEFB65BB2B61619C8BA
+You think it's dangerous?,,,586C7D4644F2755648C0F08F45BD96A9
+"Well, it was nice knowing you.",,,18035B17457DBFF56687C5A4250EC187
+"Could you have phrased that any worse, Jorge?",,,4A7A37204AE21EC9E39778ABA7DEAA9C
+"Yes, we've established that.",,,39860D8741BFB449F74DC0886F90AA95
+"I think we should take precautions, that's what I think.",,,6E353B22497193522C80DA8D12794EBC
+You don't have anything else to add?,,,69262B644D2A2B2126BD508C6A51220B
+Want to hear what I think?,,,A93E057F4E31CE618ADA00B2638725A0
+"Way I see it, we've got a sample to identify and a ton of equipment to do it with. It only seems natural to begin applying the scientific process.",,,3EF6586D44923E4B688A6488448B4AF6
+Might be a good idea to begin by establishing what exactly it's made of.,,,F1F8C3404594DCB401A344AB4A74EEB0
+And have you?,,,5B8D2CA74D06951147C581B7E283C520
+And how do you feel about it?,,,1777E1AC4FEA5D7A96AB089AE6138AC0
+"Just trying to lighten the mood, in lieu of more definitive conclusions. I don't know what to think.",,,98BA01574D60CCCC994B2D9A17144DD2
+"Come on, I know you. You must have some kind of opinion on this.",,,003C30C34A2A716BD6430C8A3E7BD562
+Want to hear what I think?,,,A8541DDF471E79BD2F90FD930247B681
+"This is when you start cracking jokes? Now? Well, maybe I underestimated you. I appreciate the effort to lighten the mood, man. This is...a lot. Don't know what to think.",,,E1DBDADF46A312C039FF73AB4D64C808
+You must have something. You've always got an opinion.,,,0BC0CE8045D02A08A8CD7A9DA0538569
+Want to hear what I think?,,,516911FD46EAE1BEEF0F278EBCF798DB
+"Ugh. Yeah. I hate that I agree with that. It's the most incredible find I've ever heard of, and we just...have to put it back where we found it.",,,B7F44C8C4508501C02B03B8068E97AE0
+How do you think HQ would react to that?,,,04AB729C412C2EC07FDB43ACA80302BD
+"HQ is not going to let it happen, however.",,,183A15334465A80978B56588C79A3EB4
+"Shit, I suppose I see your point. Safer down there than out here. We'd just need to make sure it's secured tightly before we leave it there again.",,,F3ABF4DF4E5F562C592611955A396D0A
+What do you think HQ will say?,,,F849D5104339A06BEE9587AD2C6CDF31
+I'm just not sure HQ will let it happen.,,,2C35FC7F47B6021301DA4FB4DAD22287
+"No joke. Alright, we stay here, then? No one knows this thing better than us.",,,3E509E724A65AE392648098A1E8334E4
+We just have to convince HQ it's the right thing to do.,,,BAF5C36A4F5CEB743983E2AE8BC35518
+"We need to be clear on that, too. Otherwise they won't take us seriously.",,,EC018B8C43736374403FFAB411C3BF5B
+"Looks like we're going to remain coworkers, then.",,,EF7E13BF4ADA02DF6715BAB8A32DCDD2
+"Sure. I'm with you, though. This thing...you're right. This thing needs to go back to where it came from, and stay there.",,,699CC9DE45BE7C162CD95F9FBB875B8C
+So what do we tell HQ?,,,C71D4C2043ED0AA0A2377D8D4430CBE1
+"HQ won't let that happen, though.",,,77C2C7EB4FAE7BB7A44D4694B1E655F6
+"I don't know, man. They're not going to like it, that's for sure. More likely than not, they'll assume they know better.",,,8798E6514A8BA055A55B21A0FD687576
+Then we just have to convince them otherwise.,,,EC2BA6334099BF362C9909850B502A2F
+Should we tell them we lost it?,,,BA497A7944945CE74F7C559DF889429B
+I guess we'll find out.,,,8B3BD124425CE6FCDB0B1C9553817638
+"We can certainly try. Look, man. This has been a day and a half. You mind marking down our progress and conclusions in the research ledger? I'm...I think I need to clear my head.",,,164FE8B84ED533074792FBAD00619992
+"Sure. Where is it, again?",,,A84E190C4E6073EDAB86D496CD29ECAF
+Because I'm the lead scientist on this particular day?,,,F2ADADCF4B46C784254162A749B9F803
+I thought you were the big brains behind this operation.,,,D87BEB6B42BDC711670AFFA14B8EB52C
+"Should be in the tent, on the table.",,,543EE02A4C8A112EFEADE5A36AB16B7B
+Sure thing.,Конечно.,,0CFAA8F5407B0326994C7F8BE2F1177A
+"So we'd be heads of research, then? Alright, sure. We just need to make sure we get unlimited resources and the safest fucking facility in the entire City. No biggie.",,,4D7CA71143CD6975B34BFB923C732865
+We'll convince them.,,,659CE59A4FF357C4CAA994B2128E2A77
+You don't think we'd swing that?,,,F77AA37849869AD76ADE55BEC6696F3B
+"Yeah. Looks like we'll be working together a little bit longer, Jorge.",,,3483A2C742AFAFCE2D57F2AA5E91F284
+"The opposite of your first tests, so dry, agitated, and liquid.",,,53A36CE54895C23BC3657382D9C811BB
+You think we'll be able to come to any conclusions after this?,,,4DAB932C46EAC6D0AE25E6A3BEF951F2
+How's your side of things?,,,D6042E704FB49BBF0B85D3B03E37CA1D
+I'm stuck. Help me out?,,,F23A52AC46A7E6E80EE5C59FD0761167
+"I'm stuck again, Jorge. Gonna need some help.",,,0EFFA432411421D7AB0ABEA07E337349
+Got it.,,,CFF912DA4E4FFD7AB7CF3997A23FC876
+"Me? Nah, you were the driving force behind this. If anything, let's hear what you've got to say. Go on.",,,CD4BE22F439A7EF5A0AD14BD934E9F8A
+"This thing was locked away for a reason. It's dangerous, and it should remain underground.",,,3FB2604D498AA960D31E229DE9407A35
+"We don't know the effects this thing could have on people. It should be studied far away from the City, by a small team. Us.",,,843C392B42EF9EDC1E405D92E3196015
+"We can't keep this in an icebox in a digsite camp. We need a team, equipment, and a secure lab in the City.",,,86F3EED64C2F4EA9380D34B9AEF4464B
+"Listen, I wanted to conduct experiments. I was excited about it. Now, I'm concerned and stressed out, and I'll take any conclusion you may have. Go on, hit me.",,,6861BC4947EC95A617857B84F8D02388
+"This thing was locked away for a reason. It's dangerous, and it should remain underground.",,,266D4151442CD3B100DF28BA770D7C3C
+"We don't know the effects this thing could have on people. It should be studied far away from the City, by a small team. Us.",,,986D263A4DB1E327859130BA505E0A37
+"We can't keep this in an icebox in a digsite camp. We need a team, equipment, and a secure lab in the City.",,,6F6B64F84DDC47A54C94E0A99C9B8B79
+Not if they find out. Shepherd knows how much money has already gone into these expeditions - finding what you're looking for and then deciding to leave it be will sound like a joke to them.,,,5AFD53BF46AE7289DAF9A19956E5E049
+Then we just have to convince them otherwise.,,,66A838944D8D742E5B8431A9FACA88BF
+"Should we tell them we lost it, then?",,,573B458B454ACC53E8638BA43066BB6A
+I guess we'll find out.,,,96392C534551B4765D76929827D7ED7C
+"If that's what it takes for me to take five, then sure. Lead away. The ledger is over there, on the table to your left.",,,231E697C4B16B03AAF9EA7A4248753A9
+Sure thing.,Конечно.,,D7B8FF0044092F064463CDB7CC87602D
+"Yeah, well. Big brains just saw an unidentifiable lifeform eat a corn puff, so big brains is going to have to rest up a little bit. Little brains can hold down the fort in the meantime. The ledger's over there, on the table to your left.",,,5F3AC0B840E75ABE702DF1BEB7DC4149
+Sure thing.,Конечно.,,7E8567A6476689D3DE765FAD30DE7D1F
+"Shit, I suppose you're not wrong about that. It'd have to be on hell of a safe facility. And we'd need to be the heads of research on it.",,,6D8BD61543D9B3770916F4BF01EA496E
+We just need to convince HQ.,,,B3838DEA419C66CAD2A8F696DEBF47D7
+We will be. We just have to tell them that no one knows this thing better than us two.,,,3FBD64AB46B384F4D36924B6FAA534FD
+"We'll remain coworkers, then. Partners.",,,34D6EB824D50BCC7E0DDC092354A71F0
+"...You know, it's my nephew's birthday tomorrow. Little guy's turning six.",,,EFDFA1CF4F14FF0E05A889BEC151CF10
+Congratulations.,,,3EB045074654E9413F123CBC9B1AE14F
+Don't worry. You'll catch his seventh.,,,3620C7124D4B1E3A769AF9847D93943F
+"...Let's focus on what's important, Jorge.",,,AB00847549537C39604B4FA9E523488A
+"I'm...still concerned about the plan to take it back to the City. But I don't disagree. Just feels...I don't know, off. I'll be fine.",,,8B0C0DDA45ED6794B0B8B7AB744B8DB7
+We'll be okay.,,,DEC454BF4113338A0396349613EF25B8
+"Don't worry. We'll change the plan later on, if needed.",,,F2FE63984C146796EF82F58C46FBC1CD
+Yeah. Same.,,,9BDC8E134A10B20454A6E8B84F319623
+"The more I think about it, the more I can't wait to put that thing back in the ground. I swear, it's like I can feel it staring at me. I know it can't, but you know. Still.",,,10A024E44D379D0917F81CB765344209
+Try not to let it get to you.,,,9DCA8A1240C0D2A243ABCC89AB2114A4
+"Same. Don't worry, it'll be over soon.",,,EA7AC9CD4966AD5EFFA164BC74EB6AEE
+You're imagining things. We'll be fine.,,,794F806F4C00A3397C08B29D1BE78544
+"Still reeling. Tell the truth, staying out here a little longer would be nice - especially with new gear and some more provisions. I don't mind the field work.",,,D3AAF93747B80E644D8D169EA93C1789
+That's the Jorge I know.,,,F9A5B911459272F447FA869E171E10A5
+I still miss my bed.,,,8AF32D204C26588BD55862A005C77879
+Yeah. Those provisions better be superb.,,,0E81BDA1423E4EAD838595881482D029
+"Dry, agitated, and solid. Shouldn't be too much of a problem.",,,CDA464DD4FE15E2A84A8229B72712A18
+How are you feeling about our progress?,,,4AB33D9A46406067A471F29126958608
+Remind me what this part of the test is for.,,,B5BDE515427CD89C44ABEF991875E85F
+I'm stumped. Can you help me out?,,,02073B234314334CBAC22FABC88B2BD7
+Got it.,,,197B15364D1B4B01D562B693A3CB9240
+"Yeah. Pacifying them, and then combining them into a single pod again. I'll manage, you just focus on getting all this research logged.",,,6EF2CD05417D06E3206809BFC566408D
+Feeling okay?,,,E33606BC4CA2F114B0C44F8DC4FFF080
+I'll get to it.,,,C47F75BA4C064599EEF826A3B4EA3B86
+"I'm a what now? Psh. Fine. I'll take it. You're a capable scientist too, Eli. I see that now.",,,2268BB214EC0FCF7401C38A72BE54A83
+Feeling okay?,,,479E489A4810A1E88E1D3E855B344FBD
+You got the samples?,,,4A021D614FBE672DCA8CACA8EB98C982
+Talk later.,,,FA5AF1B84CB24C50AA6114BA2F4FB99C
+"I've had a pretty crazy career, but I never thought it would end out here in the wastes. I did get to see them, though - silver linings.",,,8C93EE7E4DD9F4FDCC4474BBFD5DE4F9
+Me neither.,,,0F147ECC4ABE9434105B8F9EA1A7D050
+"They've got a certain charm, I'll give you that.",,,E6A6400D4BD5893D921F95975D8A47EA
+"This is hardly the end, Jorge.",,,23CD4AAD4E486E0F46932CB75B82C960
+"You ever read those old Stories, Eli? They'd give you Backbone, I swear. You wouldn't have to take the Low Road to be such a fucking Clam Man.",,,61B30C3D434A41799EA18FA88DF8BC1D
+Maybe if I...hm. No.,,,4EBB043C461DBA4AEBD157A593789791
+"Not such an easy task, isn't it?",,,DA45B9B34D8984077417E1A389985AF0
+"Real scorcher today. Makes you want to shave it all off, doesn't it?",,,9466A19B483C8455085B26B5B95CF7C3
+I'd rather be sweaty than sunburnt.,,,4617DDBA4C4C1E731B1A05B5EC7E37CF
+[Say nothing],,,3E4091AB44F8292C5E6AB3BFCB2242B7
+Can't say I ever had the urge to.,,,3B1FFF3044BDF682E007AE93062B72DB
+"Aren't you hot in that hat, Eli? It's scorching today.",,,593D0DD9438ADD8EA900BEBFE6C56364
+Quite the contrary - keeps the sun out of my face.,,,5FFBD42145908F0A1BA27F8E92C90D11
+[Say nothing and continue sweating],,,1E8028A644E115C9DEFD4D9839669F52
+"I just have sensitive fur, is all.",,,F5A940D44A0A80AE7D6B73BF3E6A0D87
+Strange to imagine that we were so close to uncovering this thing for so long. It was right under us.,,,34AB89C048291E98CF9B0C9E6A472E46
+Good thing we didn't stop digging.,,,DBA97E514786B214518B6ABC4219D8B6
+Makes you wonder what else is under us.,,,7F69181F4B749D54CF304989E4261BC5
+Maybe we just got lucky.,,,D503486A4DAE42F56E0F9584736D7909
+"We need to make it wet, relaxed and solid. Any luck so far?",,,0509D4244C6163D50B0BB484C6A234B7
+Not yet. I'll get back to it.,,,12AFE28B45AA17E7DD9655998450DC5E
+How are you feeling?,Как у вас дела?,,89DB3FDA44B01B23EBEB94936DCEAB6C
+How are things on your end?,,,7F7A17CC4F394F6CA49A2FB7D88862C5
+I've got some questions on how to do this...,,,7A29251747507DC2EEDEF6BFDA73E83B
+What do you think the boys in Science City are up to right now?,,,5B450FD347BF31964D88B5938A92E4CC
+Spearheading our civilization. What else?,,,E5E77E1E4E41248DB5E729A87BF5E009
+"Keeping up the good work, I'm sure.",,,C5E3CB6442187AAEEAA2D6A78F757AD5
+"Missing out on real scientific progress, that's what.",,,46BF227746F541C131D241A8256E1601
+How's it going? Any progress?,,,1EC829334B3B3D327EA46EBE1AC1C3A7
+What's my target state again?,,,9D6C76D74F9BB7AEDBD26AADB908DE9E
+Not yet. I'll get back to it.,,,236DC1824A4475D8D9810BB7FE254B7D
+Anyway...I see you've made progress. Anything out of the ordinary this time?,,,CD59E49847B5DF4285C53FAAF7265361
+Nothing. It boggles the mind to see it this malleable.,,,9478C24742073EEF458F658FD4B8F70E
+"Nothing about this is ordinary, Jorge.",,,A2C224434E66C3EE65E1E7ADD138E284
+"I hate experimenting on this thing. It's...for lack of a better word, creepy.",,,DB151E8C4718026C75E94BBD05B2D899
+"Anyway, looks like you got it. It- yeah, that's...what I was hoping to see, I suppose. But now that I see it, I don't really know what to make of it.",,,E54157E841263E0666A349A0DC76D0AC
+"It's...unsettling to work with, to say the least.",,,0DE3503B4FB94A64FA45F1991719E4F1
+Me neither. It defies explanation.,,,8DD41C274971ED2288942493F2D3D9FC
+"Well, we've only learned about what it can do. Nothing about what it is.",,,4718774947AC59DCA751A1809284C806
+"We...I'm not sure, Eli. Not sure they'd buy it. Look, man. This has been a day and a half. You mind marking down our progress and conclusions in the research ledger? I'm...I think I need to clear my head.",,,99FBE39B4DFB917F8C054D95C4194478
+"Sure. Where is it, again?",,,4F741BAA436683CA178709ACC17E6A01
+Because I'm the lead scientist on this particular day?,,,328477E641754EF54C5F31B6FB8B65DF
+I thought you were the big brains behind this operation.,,,30F8ECC342CD20C9812E3AB10F3EC47E
+"I guess we will. Look, man - this has been a day and a half. You mind marking down our progress and conclusions in the research ledger? I'm...I think I need to clear my head.",,,CCD94DDA4AEB9ACA583DE2874C93A896
+"Sure. Where is it, again?",,,E9BACFDA4B924169C42B87B0723E7C74
+Because I'm the lead scientist on this particular day?,,,977CF8BA4F9DAF40E76B009F138F9CE9
+I thought you were the big brains behind this operation.,,,CEBFC9FA45908ADC37C408805C7A17E8
+Sure. Hit me.,,,BCF3D11E467750BE1C8137884C56DF57
+"This thing was locked away for a reason. It's dangerous, and it should remain underground.",,,DD12CE9F4CF75A6C36749CB04101B5CA
+"We don't know the effects this thing could have on people. It should be studied far away from the City, by a small team. Us.",,,FF9ACC2C483BFFD603824A81C069CBB4
+"We can't keep this in an icebox in a digsite camp. We need a team, equipment, and a secure lab in the City.",,,8E5F2A0749677417647E6F8F3C821569
+"And just...leave it? This is big, Eli. Just how dangerous do you think this thing is?",,,5493BC464B19976805A066893D2150A1
+"It adapts to anything, Jorge. Maybe it can adapt to size, too.",,,238CB0D84ECDD3D34E288BBDB5CBA9F8
+"I don't know, and I don't want to find out. Not taking any chances.",,,97D0595D4C801DCB152F218909974C4A
+"It was sealed away underground, and it scares both of us. That's enough for me.",,,A42F3FF24E383001F098959BD3A2185C
+"You sure about that? Clearly, this thing is dangerous - you're not just making a compromise out of pride?",,,E74A521F42126ED2EBC14E979C75EA54
+Leaving it would be just as dangerous.,,,7FD04D3842AB5481E0CE118BC3132F6D
+We can't bring it to the City or endanger more life. Safer like this.,,,BB8F67594338E326BA9E7E8D2E681EE4
+"Pride's got nothing to do with it. Right now, we have to be realistic.",,,C38524484C27528D5413DEB31A0D0883
+Bring it into the City? We don't even know what this thing can do yet. Are you sure that's the right course of action?,,,03E10A23446F36C3D84D5C9DD197E3B3
+"If we can't contain it out here, it'll spread regardless. There are more secure vaults and labs in the City.",,,CED16FA54D03579CE4F1248C62687ED9
+There's no way HQ is letting this thing remain out here. This way we can at least supervise any further experiments.,,,A7E69B2642EA3C17821C54A98329066B
+"We don't have enough tools out here, like it or not. We need state of the art tech.",,,4EC42A2A4CE950B6A1A54DBEA5936823
+"I suppose not - but we're making do. We're a good team, all things considered, proving our hypothesis.",,,5869B9EB4C7658987CAE028DD56DECC3
+"""Our"" hypothesis?",,,A8A27AC04DEEBEBEF6ADAC97866B68C7
+You think so?,,,2E72E40A4D8637522E79EAAB881226E9
+"What exactly have we learned, then?",,,FC2E91AF4091C15A50FB37A8F4EE9DD5
+"Takes the edge off though, doesn't it? Go on, you can call it Bobby.",,,0247F8FE4504D32AFB0FF2B992D622EF
+I am not calling it Bobby.,,,F30E28464DE1AA470F01E680E7B9A29B
+And what do you propose we do with Bobby?,,,7D4AC2CF422943C0516AA48F0FEB5F1A
+"We're close. It being dry and solid makes sense, but the way it handled the piece of food...hm. Try making it dry, agitated, and liquid.",,,11AE6BE0478DFA1F69E5E8AB5A4A6CD4
+Dry and liquid at the same time?,,,75095027466701E740779A820C3AF557
+I'll try. [Leave],,,EC148EC7432E88C869BC049A98970D02
+What will you be doing?,,,742CA17A46010DEE331A7D9531BFE729
+"Well, with that out of the way, I'll need you to start testing out some of my hypotheses.",,,7E86F1654DDDF4146138CAB1D02C57B4
+"Your hypotheses being what, exactly?",,,0FFF0830463E4073CAAC5DB33A489591
+Where do you want to start?,,,58961AB7420B7B954B3EEB9123870358
+You're the lead on this. Tell me what you need.,,,D3FC524F48C83F10B755C591ECF1FD64
+I thought I was the one taking charge of the experiments today.,,,6752DFE54CCC6905CD918A9556F1860D
+"Exactly - I'll need it dry, agitated and solid. Get to it, Eli.",,,FD459763481181423CD2CEADA119EA97
+What are you going to do?,,,B02ED24F4B50E8632C1A21BF84B7DF0E
+How about we switch tasks this time?,,,C801FA6D43183382F1359EAA13AD6051
+"Dry, agitated, and solid. Alright, let's give this a try...",,,B76BF03D49987CAB56E3E399480511B7
+"Grow? Spread? I see your point. Maybe it has other effects on people, too - we might even have caught something already, and be none the wiser.",,,570694B64BBB75EB29C9F3926D7F0DC6
+I feel fine. Let's not worry about it.,,,8B6B3F9C4D4C09710D198FA4DF164035
+We should get ourselves checked after this.,,,F8D3AB7648E1DEF48DD20A994F8AD522
+I wouldn't be surprised. Unearthing an illness doesn't seem very unlikely.,,,F2B07CE04BE251B02C666BADA354CAEC
+"Shit. You know what? If you're up for it, so am I. Maybe we could get one or two other unfortunate souls out here. Some nicer rations would be nice, too.",,,8F8857194AB9B46D48CDCC9AD1CC95E9
+We just need to convince HQ that this is the right thing to do.,,,CDFFF64B49E89D86DA990690CE8A4653
+"We need to make it clear that this thing is dangerous, Jorge. Otherwise, they won't take us seriously.",,,D228E0A64FC044448592E587E1CED400
+"Looks like we'll be stuck out here with each other for a while longer, then.",,,32E9E2E24F247E9CD1CBD585319B887A
+"Top floor Science City stuff. Shit, you're right. Not sure I like it, but you're right. Besides, HQ would never agree to keeping it out here.",,,0225379B4967773696CF29A61B58A6DB
+We'll convince them to make us heads of research.,,,00D8EC224B02C9CE84886A9E596600B8
+"And if things go south, we move it out of the City again. Say we know best.",,,223B81A348E666C5DFDF7E9F170295E5
+"Yeah. Looks like we'll be working together a little longer, Jorge.",,,DC8451AA4C89F8DDA6B4FE97A50A0D76
+"Well, I've already started determining the chemical structure of this thing, but it's left me with some strange questions. ",,,6B4E5A384EEECF9E01400BB1DEB486FA
+Such as?,,,AA0E1D384FB42D5F785E26970ED0BACB
+Anything I can do to help?,,,AAA651CA4F345B406054A7A8D3BB4C44
+...You've been been doing cytology without me?,,,13A2257D4C5EE353FC8AB6B2FE2703C4
+"...Already? Look, if you need to reset the states to their initial properties, go ahead and use that cooling spray over there. That should reset the thing, if you see what I mean.",,,22A88EF245BD0B8CAF68E59341B4777E
+I knew that spray would come in handy again. I'll get back to it.,,,88AE51434856ED0F038E9DB6BBE5AD26
+"Thanks, Jorge.",,,8CBB189144614333B53A329A21BF1F63
+"Joshua is fine, too.",,,DE5925864E290AFEB9B3DBB750FA26FC
+Jorge. Enough.,,,5C5BCF0E455FC97730B794A3D59EA4C1
+Fine. What do you propose we do with Joshua?,,,86AD177E4AD00B6508742490EDB972C1
+Can we get back to the matter at hand?,,,00064D4B4B42031D4B576C949E79CE09
+"We've barely started, so I haven't had much time to establish an emotional state in any which way. Let's talk feelings once we're further along, alright?",,,0E9C8EE5421E20105D27C2B1C68C3F99
+Remind me of the target state again?,,,F9019B3C4E529A44B7EA26B5431CC1E8
+Sure thing. [Leave],,,859166F24D42DEB32F7EAEAC9C9625AF
+"Alright, how's your side of the work?",,,5CFD81EC4D61267B0EE6919F60385839
+"Nevermind that. It looks like you've managed to sort it out. Strange, isn't it?",,,1F133A7645E9BF4702484C9F2D53239D
+"Easy enough, but yes. Strange.",,,136CC8E04A6E9C47B075148C1353E618
+Very. Could hardly believe my eyes.,,,86F603E743A6807C97D1A381AAB6607C
+"That was incredibly tedious, Jorge.",,,8B7D57A74804AC2FA9B8DB8A338376B8
+We're seeing exactly how adaptable the sample is. How well it reacts and responds to more extreme environments.,,,9FC756D94BC79BDDAAEDB1A4BCB1A009
+"Extreme environments, huh? [Leave]",,,18CCF03C48F719B9C24BE1BCF42B6975
+"Right, right. I knew that.",,,5BF205B84D775116BD1496A48DC96753
+"Right, well - I'm kind of stumped. Can you help me out?",,,8A7FD99B45DBDC6DBA962DB7CA600CCE
+Suit yourself. We need to get started anyway.,,,85366C27432CF58F5F0193A9A79EA46F
+Glad to see you so enthusiastic about my suggestion.,,,7EDE7B814FF5BD5102C262B6D9740D4E
+You're still certain this is the best way to move forward?,,,5D88A4174DA0780A7A100ABCC28FEA81
+"Prove it. We've got plenty of experiments to conduct today, but if you know what you're doing, it should be a breeze.",,,CBBB510844BE7FD9BDC49AAC8312BED3
+I don't need to prove anything.,,,D4E005424BE23A5258C710B52313C42A
+Anything I can do to prepare?,,,F73043E04231C1E02E837EAE3A197769
+"I'm just joking around, Jorge.",,,618F6F9C478D3FF7228B638AAEEEE969
+"Oh, right. It's all on me for keeping you in check, man. Don't think I've forgotten about your little countdown fuckup back when we first pacified this thing.",,,F8D2DB034B3DE5842D700D875EEF89C2
+"We're not having this conversation again, Jorge.",,,399724F3452C0C77AF49218E5E0F1959
+Won't happen again. What now?,,,FB1216FD46DEA6E105B8BF88960078BC
+It was a joke. Lighten up.,,,6DECFFA343FFC07E3B59E2A6216BF5BF
+"Bet you never thought once in your life you'd be experimenting on a tiny glob of goo, huh?",,,90BC7E4F41842700BD22C08A0FE40D75
+I thought we were calling it Bobby.,,,353C1F044B49898394B7B08F0F40210D
+"What happened to ""Joshua""?",,,7CC4814C4799A6D8C33ED9B3B5FDA663
+"Not entirely sure what I was expecting, to be honest.",,,6F05D127464842CD26FE7AA1BD97E9B5
+"Glad to hear you use appropriate terminology. ""Goo."" Pssh.",,,58112F74425907DBD668A091841113CB
+"You're the one pushing to get started with these tests, man. Take the damn thing.",,,E77225C1415F1B69B97433B80395E126
+What is it?,Какое?,,FA9908BC4F21A3042E0E84A077999977
+"...Fine. This ""thing"" being the Artifact?",,,7792B7BA4E8797AE3B9C2096A83D01C5
+"Nuh-uh. Too late. You already agreed to get started on this today, so here. Take it. We're burning daylight here.",,,166FCD5C4CB14D6E643C6886C31B5412
+What is it?,Какое?,,1E7C5A37430C00209EE502B9AE32AEAE
+[Take it] This thing being the Artifact?,,,0D1B3208408784E501C2D3BDBEEAE3D7
+"You? Telling jokes? That'll be the day. Now come on, let's get started.",,,0876041E4DB7A20BB5100D9E55CFBDD9
+Glad to see you so enthusiastic about my suggestion.,,,8D6D8DF54A948EE91E61FDB66A237A40
+Started on what?,,,7B22383A43E50091733FA4B31723E8E9
+You're still certain this is the best way to move forward?,,,BB05E1B1471EB9949884F5B3B0D60F1C
+"I bet you do. Now come on, let's get started. Burning daylight here.",,,BE6BBD0B460E4A0A49386E8715A3005C
+I'm waiting on you.,,,D7B3D86C45C7E7527FD1C1ADC2C6BAD5
+Started on what?,,,32BF924F47451B4CF2427391659C5AC0
+"Like back when I asked you to contain the damn thing with one of those pods, and you got distracted by how shiny it was? Sure, bud.",,,DE076088401FB25855E06D9C3C016B02
+Won't happen again. What now?,,,B3DC2A934AF3B8C29F22E0AD9881D361
+"Just joking, Jorge.",,,2B66C51E4291F455866BE9AB625B96EC
+Here. Take this.,,,77353931493CC3B2DD5790B546CA6898
+Is that what I think it is?,,,A2CDC695464292C97D0C36944173F5F1
+"What's ""this""?",,,2E03D1F5444368D92E58D5B7103D32B0
+"I don't like having things handed to me, Jorge.",,,E9A8E7F6437830CD50D2D8AFC2FC28BF
+"Just a bit of banter. Come on, Eli. We've been out here for months. One would think you'd lighten up eventually.",,,E600365C4EAB0DFA4824D69F68BDFE75
+"Nevermind that, what's next here?",,,7FB02B1C4BFF01BA39F759921505944E
+"I have lightened up, Jorge. What more do you need? Jokes?",,,8BDFFB4B4E724D9E02BF3AA55E1395C5
+"Of course I am. I'm a scientist and a biologist. This is what I do. I'm in my zone, and I'm the top contender in that zone.",,,022C94BD4B0D5B7EE3A98B845ADDD4C9
+"Let's save that talk for later, when we know what we're dealing with.",,,0971820A41B4CC8616CC589CECCCB47A
+Glad to hear you're confident.,,,2BDC430E4C7E8910AA6348BF8171C75E
+Most definitely. I've got a list.,,,849E906F42E3B2865CB7599E1DA8DC36
+[Keep listening],,,A440793F430EBA3AA755BC8C34C098F3
+"Alright, lay it on me.",,,CD131EA644B1DA8783DFD8B365971EB5
+"Shouldn't have asked, should I?",,,7DD5DB664F00F62328A88483E6EC52BE
+"Not my fault you're so adamant on writing that journal. You better be documenting all the stunning revelations and discoveries I make, you nerd.",,,2109AB1B427A6F36D303ADB7DD462779
+As long as there's a part in there for me. Anything you need me to do?,,,1CF7BE354E4DA79FE789EDA5D290CC92
+...Such as?,,,CC470681430C371B666C4C8AB9A64569
+"You're doing cell biology, Jorge. You're in no position to call anyone a nerd.",,,C8BE2F66425D9BE31FEB6DBAC00B61A0
+"Well, the structure of this thing is bizarre, to say the least. I've never seen some of these compounds before, and rarely in this configuration. It's a jumble of chemicals, an absolute mess, but it somehow still...functions.",,,EC009C51458F6C79A867D088F3395EC1
+Functions? So you're implying it has a function? That it's organic?,,,AC551A784D4ED3FA49874AB9A1836742
+I see. Any results you need me to look over? Anything I can assist you with?,,,ACC0A8B64F7F36C0076085A8B44A46A6
+"So, it's alive.",,,1B7FB6FC45717442479EA58FC8100A6B
+"And yet, here I am. Isn't it crazy how that works, nerd?",,,DEACFBC747DA96EC29F17691338C9948
+"Maddening. So, is there anything I can do to help?",,,6ACF21DC4813447837E1C3BC1E714C71
+Sure. What have you found out?,,,4FADBA4F4EA5261902B2E8B130B0556F
+"Well, before we get to that, first things first: I've established that the Artifact most certainly is organic.",,,4687871741EF362A601465AC8989D1A8
+"Hard to believe, even if we suspected it. At first glance, it's just...slime.",,,B0E493C8406968A81D673883E7EE4348
+Where does that leave us?,,,471BDDDD47AE79C64C3336BA7A04EFD0
+"Well, you were the driving force behind this. What do you think we should do?",,,A3E851944AED5DD10B9F90A7F10E5B23
+"I see. Have you tested how it reacts to other, non-organic matter?",,,961003A0400750B42D05A4BB43096C53
+Is it alive?,,,F12AAD4643290AE11BD48E9D8ACEF073
+"Yeah. I mean, we're all just a mishmash of chemicals, man, but we all still somehow function. Some more than others.",,,796A1FB84E67F079FFF8BCB83BD38CF2
+Ignoring that last comment. What's our next step?,,,43CCE6A24D114472A86C15BA8619B4F1
+"What's our next order of business, then?",,,18AC7A8D44F670F6788C02B4A2AAC8A6
+"Well, you were the driving force behind this. What do you think we should do?",,,7A5CCC9B4F7F6C0E2C775DB6FB64946E
+"I see. Have you tested how it reacts to other, non-organic matter?",,,4D8FB1D5405714FF4D1FB4AE9AA8897C
+"So it would seem. The same way a plant or an amoeba or a cell is, I suppose. Sentience? Sapience? Too soon to say. Black goo never really screamed intelligence in my book, but it's been a strange couple days.",,,9C7CD6564BDA613FE00CB0A16B304E9E
+So where do we go from here?,,,E747449D4E04FE944F9310BAB5A68A5B
+"Well, you were the driving force behind this. What do you think we should do?",,,8F575D8C44155B59104F339731C317D1
+"I see. Have you tested how it reacts to other, non-organic matter?",,,A720DDDA4F5482D5A2DB1DB5F1B98AD9
+"We're doing exactly what we signed up for, Eli. You should be over the moon. No one's ever seen anything like this before, and we get the first shot at determining what it is!",,,FB7520CD4AB2FE7FB29DBAB672336C0E
+Then let's get to it. What now?,,,FCE5C45E4FFA7F0A6BFAA9B071C407A4
+Let's stay focused.,,,76F12B764E43EE0B934BBBA27F5DAD7D
+"You're right. Just a little antsy, I suppose.",,,F24C932D44072FD8B89AD89BCDA55C00
+"I see what you mean. For it to adapt this readily, well...it certainly looks like our hypothesis was correct.",,,4D5E34634D523C463899BBA71A78EF6F
+"""Our"" hypothesis?",,,A99686C643C0335EE615E1BD4F6851FD
+"Yeah. We make a good team, Jorge.",,,DDF53C6C446A47848792CF99A5261056
+"What exactly have we learned, then?",,,DDD4FC7E4B823D72E52A0484AD03ADB8
+"There's a few things I'd like to know. I've studied it in isolation, which has put it in a very sedentary state. I need you to see how it reacts to certain external stimuli.",,,4CE6DD9846321B266CAC388303CC1656
+Anything in particular you're hoping to learn?,,,533760144CDC5637F76CCD9B71C4074C
+Have you tried anything yet?,,,1C79B3EB480E4EEB34B0FD9A75DFF091
+What will you do?,,,BF20364C48203FED3E4AEB9A11501A30
+"How do I feel? I'm a scientist and a biologist. This is what I do. I'm in my zone, and I'm the top contender in that zone.",,,487AEAC941A11CFF7153A0BE93C89EC0
+"Let's save that talk for later, when we know what we're dealing with.",,,4936850B44C1859A1EE51CBBBCB7CB5D
+"So pretty good, then.",,,E22840314889D48D33FE07A4AD8C6042
+"This could be big, Eli. This...could mean a whole lot of things.",,,FA16164C40CECD306C8E93BE93A5205F
+Don't be vague. What have you found?,,,E2824C944ED940E1FE923FADC25AB18D
+What makes you say that?,,,67B49FE04F7752C31BBDDDB357AA4A32
+"That's why you had to see it yourself, first. I don't remember being this confused and excited about something in a long, long time.",,,0C5D93094F6CF42790CFF5940EC620FB
+Let's go on. I'd like to be less confused and more excited.,,,C2A1FDF84C888E6C6E305588E8FEAF05
+Let's stay focused.,,,1A68B1A34F3BEB6B0213BAAFBC83F505
+The feeling is mutual.,,,02BD349744389163D4A0D38D607B1CA3
+"I'm going to continue testing it in isolation. We still don't know how long it was encapsulated in that pod, or how it survived for so long. Your experiments will inform mine, and vice versa.",,,95B706A4466BDCF57D97F3B9A1B7DEED
+Sounds like a plan. Anything else you can tell me about it?,,,7AFFB71E40B0E89C2A2F63A870D47198
+I'll need more details than that.,,,CD38EB5F4EA7B56237FDBFB5F3295EC9
+"Just very briefly. It adapts to outside forces very quickly, and almost molds itself to fit into whatever its current environment is.",,,0D6DDE224BD2366E9EC94F920D25BABE
+Do you know how?,,,0A33055E4FCE13BFB01FD9B4D16E5CCC
+I'll need more details than that.,,,8A13E6604592C457E6D269838C25F9BA
+"This thing survived as long as it did, I presume, due to it being in such a relaxed, fluid state. Hibernation of some sort, I'd wager. Slowing down any and all gestation to conserve energy. That's the logical conclusion, at least from a biological standpoint.",,,EB26023840D7D479D11EB0830D68A37F
+"I'm not a biologist, but that sounds about right to me.",,,C8BC58C146338F25316EE1A41659D45C
+"That seems like a bit of a leap to me, Jorge.",,,A36EC96849684B048D178A94D71C6BA9
+"Everything, ultimately. I'll need you to run a few tests on it, to see if we can get it into a particular series of states.",,,6EC9107C4FED7BEEA22FBCA15DA707AD
+A series of states?,,,76EAD71D4FC3164F9C6F25BC0076A0DD
+I'll need more details than that.,,,868A556E4F056035DF08DB829E4F1797
+"If I recall correctly, the wording was ""we need to do this"". Thus, we're doing it. See? Simple.",,,2A3AB8F34E0B919AEC844C8207F21565
+So where do you want to start?,,,55A6823C4ADD3EE8CD0800BF0611AA4D
+"My working hypothesis is that this...thing is constructed out of a tissue similar to muscles, albeit a lot more fluid - and its resting state appears to be wet, relaxed, and in a mostly liquid form.",,,E8CF346841C53112A64170B00C644BCC
+"That makes...little sense, Jorge.",,,B376A600455925D9052954B04634515F
+"It's base state is wet, relaxed, and liquid. Got it.",,,4093C0F340D45BDB4E85089690F29639
+...And it adapts its state when exposed to certain elements?,,,4958397A45A138446E1750B1738ED48B
+You going to do something with the sample or are you just going to stand around nursing it?,,,C3EB1C654FFC807B7DC759998A560B16
+I'm taking my time. Rushing it won't help anyone.,,,4E138352461AA8C972F2B1911DE589C3
+Don't even joke about nursing this thing. It's unsettling enough as it is.,,,BEE8CA264DAE4DB2614A0DA271105C42
+You're one to talk. You've barely moved.,,,1A0A21E947545CD7198B23B930DA8532
+"I think it'd be best if you see it for yourself. Try to change one of its properties individually - see if you can make it wet, relaxed, and solid. Leave the rest as it is.",,,2356D923490FCD01CF4548BB15894014
+I've got a few questions.,,,F5E915944A248FCAED2A77851E3AC54C
+I'm glad to have you on my side. I know you were a little hesitant on all this.,,,4021389344DD1744FA52C0806FAFA3E2
+It's good to see you have such a clear idea of what the process should be. Looks like it was the right call to listen to you.,,,FB8AB3374A45A9DC99F9BEA3EFB17ABD
+Change liquid to solid. Understood.,,,5A94913B42CDC307D39120A1D25C0A61
+Let me know how it goes. I'll be right here if you need me.,,,890B092F48D99B0F2EC510AC1C2C6307
+I'll let you know when I've got something.,,,EC0E9FE74BF3CB783B2FA5997974305B
+"Thanks, Jorge.",,,897C54E94013109EB4807E9BF35C218A
+Shoot.,,,00D6FE7E491CCE5C8D3E119B0455517E
+Can you remind me what the chambers are for again?,,,9B78F9B74C94185CC44633A04B0D3F6F
+Anything I need to bear in mind?,,,242E774E4CF7A6C9585E828BBFF5EC3E
+Any idea on where I should start?,,,DA1D057245F5C75073DAC2851143D8BD
+That's all. I'll get started on shifting it from liquid to solid.,,,AD82F1F747AF99542DAFE78F497E46F8
+"They all have instructions on them, man. It's not hard to figure out. You've got the Temperature Chamber on the far left, then the Humidity Chamber, and finally a Chemical Station I set up just before you got out of the tent.",,,32F993C6439EA9CBB455AF8709B870E0
+Temperature Chamber?,,,DAF5D2C84AABF1F10D61A4846A29E716
+Humidity Chamber?,,,331A7119465C99AA156612A9FAAF41AC
+Chemical Station?,,,5CB3D6CA4C2E631617A9AFAD2BDDD5FD
+Got it.,,,F8046177430F6ED3FA9D30B21622F47E
+"Well, due to the nature of our equipment and the sample itself, testing might be difficult. Any given test will most likely affect the sample in multiple ways - you're going to have to get creative with it.",,,2D8654C0461694D17E263EA398B0CFAF
+Understood.,,,AE0F43E341571BC461EBD6AEC6167D13
+Creative?,,,60E32701442385A464649FA98552158C
+"...Well, if I were to try to solidify water, I'd try to freeze it. Is that helpful enough, my fellow scientist?",,,1B5B13EB4536594EB1A63A82C5CF80AE
+"Uh, um, yeah.",,,8C774D1549C615EFA65CB9AB9B6385E5
+Very. Thanks.,,,C517FD6F4B8A46C253ACD8868E8D5DE4
+Anything else?,,,45D8942F462A18B5D2F8BCA5020D2B91
+Tell me about the chambers.,,,664406FA4C204E77CD93A08E64C28C98
+Anything I should remember?,,,197819314B7C9A069528808AFE970F3C
+Where should I start?,,,26B4F462441924810B83B58B801053D4
+"Nope. Time to make the sample wet, relaxed, and solid.",,,ECFCC81B4D527C8AF2C08AA822053A9C
+Humidity and corrosion. The device has a built-in salt spray for agitation and a tank of distilled water for humidifying.,,,E81C331E4CC78059CFF93DA8779D3A96
+And the Temperature Chamber?,,,BD7A01ED4AA0D939F9D0B684A7E80100
+Got it.,,,11E511FA4DE76B74457CE98AF44761BC
+And the Chemical Station?,,,707DB06549435FCEF3AF5095D4618B35
+"It's got all sorts of solutions and reagents ready to go. Whatever you expose it to, it's going to get agitated - but you should be able to get it wet or liquid in the process.",,,35B4BA5C4BD4E11DA3FFBF9B2DF3D560
+And the Temperature Chamber?,,,EEEA21C84D13D9922B3E039AF6C15108
+And the Humidity Chamber?,,,3B6310B448E103D8BDF4EA9BB5A9DF75
+Got it.,,,F1D459CC46C47B67B5A60D8D9ECF532F
+"Does what it sounds like. Freezes and heats the sample. Might help you dry it out, melt it, freeze it, or mellow it out. Like with the cooling spray.",,,F183FFDD43C1FFF668EB948819097D1E
+And the Humidity Chamber?,,,4A5339074DD4F82DD7A11681AF49D507
+Got it.,,,4B2C07694135CB7AB508C586CF086F79
+And the Chemical Station?,,,B1FC2DFA4B045E690E7D948EC2F60122
+"...I was thinking of attempting to split my sample into two, to see if they try to fuse together again. Thoughts?",,,BFC66C774D49F04F63E822B2FC863CA8
+"No. Not yet, at the very least.",,,D0564CF64FFB30585FB1BBB5C0AF6468
+Could be worth a shot.,,,1F979A7F41E9AF5BD3D258A236B40814
+Up to you. My sample is small enough as it is.,,,F99264864AC9D5207A55229F819A93D0
+"Not your forte, granted - try to make the changes cancel out each other. If you've got something wet, relaxed, and solid, and one of the chambers would change it to be agitated and solid, you'd end up only changing one property of the sample. Do you understand what I'm saying?",,,6BD514B547C2961E925B0B8DD490A2EE
+Completely.,,,B839FD124488ADCEE5020886323EAF85
+"No, but I'll figure it out.",,,F3CCFF6E48A8E320435975852BA2B903
+"Not necessarily conclusions, but we'll hopefully have something more concrete to go off. Why do you ask? ",,,FC3B7D4845D4FDDF55AD9A8DD7221A44
+Just making pleasant conversation.,,,9117060D4BAE64AD998DF787A56B0257
+Just curious if you're still as sure of this whole idea as you were earlier.,,,6FA810044DA20F1CABF71D96D9D794FE
+No reason. I'll get back to it. [Leave],,,91416BFE4B017A91840C27BFCDFEB3B8
+"If you really mean that, you'll take care of logging and documenting our research later on. Spare me the paperwork and I'm down to work like this whenever.",,,6C04D4F3442C10E6E2F82A9170E202BD
+Got some questions before I start.,,,7DC7109045FEE18BCD0EDD987E1CDA60
+"Alright, I'm off to turn this liquid into solid.",,,21D7668E4E6000978D05D99102F99B09
+"You never fit into Science City, did you?",,,D09060C546ADC3C9D84F6199533E49F2
+"At the end of the day, this is what we're here for, right? I'll happily take any opportunity to show up those Science City snobs, anytime. No offense.",,,A5DA6F5A4462F42BF6CE708C2A1AD2CE
+Got a few questions before I start.,,,315C1AF14D3B23A782B84CB481FB2721
+None taken. I'll get started on turning this liquid solid.,,,DB44ABC3498800C2387E21A0B5F34A15
+How come you dislike Science City so much?,,,C5105A984BC4B31126872199E317DE6B
+"Listen, Eli, most people there are like you. Born into it, and then given money and resources to become what they're expected to become. That breeds a certain...culture. And I'm not a fan of that culture.",,,C41DD8024AC73B05C069B7BBE1D3189D
+We never met while growing up. Where did you come from?,,,363F4CD346B37B25899857B7A90B2DE3
+"For what it's worth, neither was I.",,,51C7CDD34D8EC9219F7735BF62087EA1
+Did people give you a hard time there? Do they still?,,,E1A034F346C2B1181BEA4F804FAD334F
+"...Look, I didn't spend all morning setting up these machines to talk about my childhood. Let's focus on the matter at hand, yeah?",,,A9D73937485BCCB5D36C2C8F95BA2353
+"Sure. I've got some questions before I start, though.",,,CD9D809C4E81FABDC5F0619339A05CD1
+Noted. I'm off to turn this liquid into solid.,,,9BEF1AB54EBF007C8C5C73B7B58095AC
+"I've met the one good rich kid a few too many times to readily believe that, Eli. But I appreciate the attempt. Let's focus on the sample for now, yeah?",,,DFC2F4CD401DEFA5151C4989FFB8066D
+"Sure. I've got some questions before I start, though.",,,2BF2D54D4C0BEC17C85CE088495C676F
+Noted. I'm off to turn this liquid into solid.,,,DB2FF8984288D41C8EB5D5A1A24374D3
+I ignore them. Most of those shits aren't worth flushing. Now can we please focus on the matter at hand?,,,4E41AAC84C76AE506642D093EA863A54
+"Sure. I've got some questions before I start, though.",,,CF1EF3CA4C326AA91CB7E3951F49854E
+Noted. I'm off to turn this liquid into solid.,,,C85260264B7D86DD1E3488815F0C6060
+"There you go. The question then becomes how far we can push it, and I think this thing is capable of taking whatever form it...well, chooses.",,,872666DC425C21356F0E04AE0D18B339
+"You believe it's sentient, then?",,,D04396BF4BCAC9FA672326BFCF6DFCB6
+You want to subject the sample to more extreme elements?,,,FA341D91434D4AC99CD8A7B50D81D8D2
+"Which is precisely why I want to test for it. We need to push this thing to its limits. See how far it's...well, willing to adapt.",,,3FC563CB4B29F7B5296029AA9845125A
+"You believe it's sentient, then?",,,CB016448409BC6B4263F8582C2C0624D
+You want to subject the sample to more extreme elements?,,,37B103774FEB8EC6BEFECA92C8B3883A
+"You know, it's nice working outside a lab. Even without all the comforts of the City, this feels more...real.",,,61CBE7EC49B0A3016978778168CEC44A
+I agree. It's...relaxing.,,,32F2FE924803719DBE7BB18407C14914
+Don't get too used to it. We're going home eventually.,,,0954ECF84DBDA554FF58AD977E983238
+I could not agree less. I miss my bed.,,,A105E24A4562E15613DCEDB3D75803E8
+"Listen, the whole point of us doing separate tasks was so we could move forward faster. I can't just do your job for you, man. What's the problem?",,,834B3A2D449E70100B448EA9ED47C150
+I've...forgotten how I did it last time.,,,EC73246146D7C9CDDE1BCBAF5EE2068A
+I just can't figure it out.,,,E30E8C094BF175C50C5F19B7BC482DB2
+Nevermind. I'll give it another try.,,,B41F9C4C40EEA131A99BB7994971752E
+"Not sure yet. It's behaving...erratically. I feel like I'm staring at it until my eyes hurt. My head hurts, even.",,,A5E1D1A945F80EBE37D1BD853374B1C9
+"Well, keep at it. Maybe it'll jump.",,,A969551D424BF633A9C878AB96014D17
+You alright?,,,5F5EC7F340B806AFB18CB3BC86BD7C89
+"I've felt strange about it, too. Whenever I'm close to the full sample, I feel...strange.",,,74BBB20144B6BA9B4467198BC858D8C2
+"That's one of the things we're testing out, yes. Firstly, however, I want to know if it truly can...shapeshift, for lack of a better word. Become completely unlike what it was like when we first found it.",,,2297E0EA4777BC23953EFC96A858048E
+"Sounds a little risky, but that's what samples are for, I suppose.",,,1FA6018244A80325786380AC5EDE65F7
+"You want to see the limits of its capabilities, is that right?",,,D451451D4C66AEA3903CF7AF5623FAC3
+Alright. You're the biologist.,,,415C7C38472CF2BEA8EC9FADA30F0412
+"I'm going to subject it to...well, some of the corn snacks I brought. See if it's hungry.",,,C072019143F95D218F822E976093D287
+Is that really the best type of sustenance you can offer it?,,,C00A048B44877039417A228696368645
+That doesn't seem very scientific.,,,F38223984EACBA86C2E1189472D5E3A9
+Enjoy your meal. [Leave],,,814DCCCF44B2FF51C666AA899A70A46C
+"My only concern is the salt. The rest is just, well, delicious. Don't worry, Eli. I know what I'm doing. Go do your job. I'll be here if you need me.",,,B6A6499D40783D45F49950B3955029D1
+[Leave],[Выйти],,245CDCD6494223CF73C9B78965C60834
+Nothing lives forever. We all have to eat. That might include little Bobby here.,,,712ECBC2453A596884F53E94919BC83C
+...You're still going to call it Bobby?,,,CD14651D4577985C35C2E1A2F6E9E219
+"Joshua, you mean.",,,D6C44FDA4AE881CF61BCF2A776E868A4
+"I'll leave you to it, then.",,,DDCA79BF4474F1EB5398B9B27BC79966
+Good luck. I'll be here if you need me.,,,A02125144617D78F14909DAD20AD6166
+[Leave],[Выйти],,830B73A0476D45AB105813AAE89C4937
+"Like I said, takes the edge off. Now go on, do your job. Me and Bobby have a corn snack to devour.",,,FD33313C4FFED7513183E58A86A5E9AD
+[Leave],[Выйти],,706C2DDE4936AFC0EB0750958907D63A
+"What, now that you're starting to get the hang of it? I'm in the middle of some things here, and I need to finish what I started. I suggest you do the same.",,,0B2007AD442C9A0A38A9F3A93811B7EC
+Which is?,,,0B7D070B4D37D050C3CBC3963650FAEC
+Let me know how it goes. [Leave],,,3815F68548C5B92BAE954BA5ADD067DE
+Why do I feel like I drew the short straw? [Leave],,,4B0D1B40428A633816981891D1C212EB
+"Well, it... ""ate"" something. Or, not quite. I placed a corn puff next to it, and the sample began to spread over its surface. Seeped into whatever cracks there were in the surface, and then it just...stayed there.",,,9AA3BAED41108EC22C82A8840CAEE7B0
+That is certainly unsettling.,,,0DA5B73444032870E2DE1E8CE13DBBE2
+"You said ""ate""...did it start to break it down?",,,D8A816BB46A495719D496589DB4620CA
+...You fed it a corn puff?,,,1D208C934BE4E26E60CC4698831FA531

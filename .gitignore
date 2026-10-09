@@ -1,6 +1,15 @@
-Engine
+# local game data and build output
+workspace/
+build/
+Engine/
+# FModel output directory
+TailsRUS_P/
+# tooling
+tools/unpak/bin/
+tools/unpak/obj/
+tools/redraw/bin/
+tools/redraw/obj/
+tools/unpak/oo2core_9_win64.dll
+node_modules/
 *.bak
-tools/utils/Packer/filelist.txt
-build
-TailsRUS_P/.data
 .idea

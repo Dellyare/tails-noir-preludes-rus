@@ -1,0 +1,86 @@
+{
+  // Текстуры, где текст перерисовывается автоматически (npm run redraw).
+  // Строки "en" — как на оригинале (по ним подбирается кегль), "ru" — перевод.
+  // {0}, {1}... — значки клавиш в строке оригинала слева направо; их можно переставлять.
+  // font — шрифт игры из Content/Fonts; tracking: "auto" — сохранить разрядку букв оригинала.
+
+  "Widgets/Main_menu/Textures/NEW_Textures/YES_A": { "font": "FuturaDemiC", "lines": [{ "en": "YES", "ru": "ДА" }] },
+  "Widgets/Main_menu/Textures/NEW_Textures/YES_B": { "font": "FuturaDemiC", "lines": [{ "en": "YES", "ru": "ДА" }] },
+  "Widgets/Main_menu/Textures/NEW_Textures/YES_C": { "font": "FuturaDemiC", "lines": [{ "en": "YES", "ru": "ДА" }] },
+  "Widgets/Main_menu/Textures/NEW_Textures/NO_A": { "font": "FuturaDemiC", "lines": [{ "en": "NO", "ru": "НЕТ" }] },
+  "Widgets/Main_menu/Textures/NEW_Textures/NO_B": { "font": "FuturaDemiC", "lines": [{ "en": "NO", "ru": "НЕТ" }] },
+  "Widgets/Main_menu/Textures/NEW_Textures/NO_C": { "font": "FuturaDemiC", "lines": [{ "en": "NO", "ru": "НЕТ" }] },
+
+  "Widgets/LoadingScreen/Textures/loading_dark": {
+    "font": "FuturaBookC", "tracking": "auto",
+    "lines": [{ "en": "LOADING", "ru": "ЗАГРУЗКА" }]
+  },
+
+  "Widgets/Tutorials/Textures/tutorials_branching_screen_1st": {
+    "font": "FuturaBookC",
+    "lines": [
+      { "en": "Use {0} to scroll", "ru": "Используйте {0} для прокрутки" },
+      { "en": "Use {0} {1} for switch persons", "ru": "Используйте {0} {1} для смены героя" }
+    ]
+  },
+  "Widgets/Tutorials/Textures/tutorials_branching_screen_1st_xbox": {
+    "font": "FuturaBookC",
+    "lines": [
+      { "en": "Use {0} to scroll", "ru": "Используйте {0} для прокрутки" },
+      { "en": "Use {0} for switch persons", "ru": "Используйте {0} для смены героя" }
+    ]
+  },
+  "Widgets/Tutorials/Textures/tutorials_branching_screen_2st": {
+    "font": "FuturaBookC",
+    "lines": [
+      { "en": "This screen displays the central", "ru": "Этот экран показывает ключевые" },
+      { "en": "choices you've made in each story.", "ru": "решения, принятые в каждой истории." },
+      { "en": "Cycle between characters", "ru": "Переключайтесь между персонажами" },
+      { "en": "with {0} and {1}, and press {2}", "ru": "клавишами {0} и {1}, а нажав {2}," },
+      { "en": "to move to the next scene.", "ru": "перейдёте к следующей сцене." }
+    ]
+  },
+  "Widgets/Tutorials/Textures/tutorials_branching_screen_2st_xbox": {
+    "font": "FuturaBookC",
+    "lines": [
+      { "en": "This screen displays the central", "ru": "Этот экран показывает ключевые" },
+      { "en": "choices you've made in each story.", "ru": "решения, принятые в каждой истории." },
+      { "en": "Cycle between characters", "ru": "Переключайтесь между персонажами" },
+      { "en": "with {0} and press {1}", "ru": "с помощью {0}, а нажав {1}," },
+      { "en": "to move to the next scene.", "ru": "перейдёте к следующей сцене." }
+    ]
+  },
+  "Widgets/Tutorials/Textures/tutorials_detective_menu": {
+    "font": "FuturaBookC",
+    "lines": [
+      { "en": "In New Game+, the narrative branching tree at", "ru": "В «Новой игре+» древо сюжетных развилок" },
+      { "en": "the end of each scene also displays the choices", "ru": "в конце каждой сцены показывает и решения," },
+      { "en": "you made in your previous playthrough.", "ru": "принятые в прошлом прохождении." },
+      { "en": "Compare and plan out different paths to see", "ru": "Сравнивайте и продумывайте разные пути," },
+      { "en": "where they lead you. You've also unlocked", "ru": "чтобы узнать, куда они ведут. Также открыт" },
+      { "en": "Photo Mode. Press {0} during gameplay to", "ru": "фоторежим: нажмите {0} во время игры," },
+      { "en": "capture moments from the game.", "ru": "чтобы запечатлеть момент." }
+    ]
+  },
+  "Widgets/Tutorials/Textures/tutorials_locker_closeup_4x": {
+    "font": "FuturaBookC",
+    "lines": [{ "en": "Use {0} to drag & drop items", "ru": "Используйте {0} для перетаскивания" }]
+  },
+  "Widgets/Tutorials/Textures/tutorials_move_around_interract_x4": {
+    "font": "FuturaBookC",
+    "lines": [
+      { "en": "Use {0} {1} or {2} {3} buttons", "ru": "Используйте {0} {1} или {2} {3}," },
+      { "en": "to move around", "ru": "чтобы передвигаться" },
+      { "en": "Press {0} to interact with objects", "ru": "Нажмите {0} для взаимодействия" },
+      { "en": "Hold {0} to walk faster", "ru": "Удерживайте {0} для ускорения" }
+    ]
+  },
+  "Widgets/Tutorials/Textures/tutorials_move_around_interract_bace_x4": {
+    "font": "FuturaBookC",
+    "lines": [
+      { "en": "Use {0} {1} or {2} {3} buttons", "ru": "Используйте {0} {1} или {2} {3}," },
+      { "en": "to move around", "ru": "чтобы передвигаться" },
+      { "en": "Press {0} to interact with objects", "ru": "Нажмите {0} для взаимодействия" }
+    ]
+  }
+}
