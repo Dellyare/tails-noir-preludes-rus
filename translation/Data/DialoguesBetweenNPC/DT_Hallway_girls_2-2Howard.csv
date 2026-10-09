@@ -1,8 +1,8 @@
-﻿source,translation,namespace,key
-"...You know, now that I've actually got it in my hands, it feels a lot different than I thought it would.","...Знаешь, теперь, когда я держу её в руках, ощущения совсем не такие, как я думала.",,1025AF614DA0A0991845798D384569C2
-Oh yeah? In what way?,Да? В каком смысле?,,2F5B54FE412D57D00B8EF1BB2C5515E3
-"It just feels, I don't know, worth it. Even if I am the only one who'll ever read it.","Просто кажется, не знаю... что оно того стоило. Даже если её прочту только я.",,AB32616E4E4B5C0BEA4B07B6BD1D146F
-"Well, your professor clearly read it. You literally couldn't have scored any higher! I'm proud of you.","Ну, твой профессор её явно прочитал. Ты буквально не могла получить оценку выше! Я тобой горжусь.",,64C2C5D44D7E4085734F71A7364A86D6
-Pff. I couldn't have done this without your help. It was all just dry text before you came in with your graphic design skills and spiced it up.,"Пфф. Без твоей помощи я бы не справилась. Это был сухой текст, пока ты не пришла со своим графическим дизайном и не оживила его.",,18F91E84481DDC11CC1796878745807D
-"..I mean, I don't doubt that helped. Come to think of it, that's probably what really sealed the deal. Maybe this is my success, after all. Huh. I truly am amazing.","...Ну, не сомневаюсь, что это помогло. Если подумать, именно это, наверное, и решило дело. Так что, может, это всё-таки мой успех. Хм. Я и правда потрясающая.",,C690BEE44BAED1EF9377CF88A5575178
-I love you.,Я тебя люблю.,,9116E3AF424BBA1BBEAC22B176888602
+﻿source,translation,status,namespace,key
+"...You know, now that I've actually got it in my hands, it feels a lot different than I thought it would.","...Знаешь, теперь, когда я держу её в руках, ощущения совсем не такие, как я думала.",ai,,1025AF614DA0A0991845798D384569C2
+Oh yeah? In what way?,Да? В каком смысле?,ai,,2F5B54FE412D57D00B8EF1BB2C5515E3
+"It just feels, I don't know, worth it. Even if I am the only one who'll ever read it.","Просто кажется, не знаю... что оно того стоило. Даже если её прочту только я.",ai,,AB32616E4E4B5C0BEA4B07B6BD1D146F
+"Well, your professor clearly read it. You literally couldn't have scored any higher! I'm proud of you.","Ну, твой профессор её явно прочитал. Ты буквально не могла получить оценку выше! Я тобой горжусь.",ai,,64C2C5D44D7E4085734F71A7364A86D6
+Pff. I couldn't have done this without your help. It was all just dry text before you came in with your graphic design skills and spiced it up.,"Пфф. Без твоей помощи я бы не справилась. Это был сухой текст, пока ты не пришла со своим графическим дизайном и не оживила его.",ai,,18F91E84481DDC11CC1796878745807D
+"..I mean, I don't doubt that helped. Come to think of it, that's probably what really sealed the deal. Maybe this is my success, after all. Huh. I truly am amazing.","...Ну, не сомневаюсь, что это помогло. Если подумать, именно это, наверное, и решило дело. Так что, может, это всё-таки мой успех. Хм. Я и правда потрясающая.",ai,,C690BEE44BAED1EF9377CF88A5575178
+I love you.,Я тебя люблю.,ok,,9116E3AF424BBA1BBEAC22B176888602

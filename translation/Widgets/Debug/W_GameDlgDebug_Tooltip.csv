@@ -1,2 +1,2 @@
-﻿source,translation,namespace,key
-"Condition   <img id=""BigWarning""/>\r\nLog event  <img id=""BigLog""/>\r\nTarget node  <img id=""BigTarget""/>\r\nEnd node <img id=""BigFinish""/>\r\nBroken node <img id=""BigBroken""/>\r\nNotify choice events <img id=""BigButterfly""/>\r\nSelector node <img id=""BigRandom""/>\r\nNode which you want to visit <img id=""BigPrefferedNode""/>\r\nNode which you want to avoid <img id=""BigExceptionNode""/>",,,A1AC4A25449B5BBEC39BD6AB32FAF724
+﻿source,translation,status,namespace,key
+"Condition   <img id=""BigWarning""/>\r\nLog event  <img id=""BigLog""/>\r\nTarget node  <img id=""BigTarget""/>\r\nEnd node <img id=""BigFinish""/>\r\nBroken node <img id=""BigBroken""/>\r\nNotify choice events <img id=""BigButterfly""/>\r\nSelector node <img id=""BigRandom""/>\r\nNode which you want to visit <img id=""BigPrefferedNode""/>\r\nNode which you want to avoid <img id=""BigExceptionNode""/>",,,,A1AC4A25449B5BBEC39BD6AB32FAF724

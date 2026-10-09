@@ -1,8 +1,8 @@
-﻿source,translation,namespace,key
-"Alright, let's get this over with...","Ладно, давай покончим с этим...",,2BAA708F405086D6FBCBF0995DC0F154
-There. Much better.,Вот. Так гораздо лучше.,,62931FB6445BC87C43E09ABA5C89943D
-"...Wait, shit. I didn't mean to do that.","...Стоп, чёрт. Я не хотела этого делать.",,38EA0EB0407BA3971B6555BC3DF6CAA1
-Should probably clean these rather than throw them away.,"Наверное, лучше их помыть, чем выбрасывать.",,9BC0EBA149393D05B165778EFDBCB5F0
-There. All done.,Вот. Готово.,,D158D70343CF1E4E8CB4EC82224E0DE5
-Almost done. Just the garbage left.,Почти закончила. Остался только мусор.,,89EBF87242BF64EB357874A8913ABF17
-What a mess. I'll just tidy this up real quick...,Ну и бардак. Сейчас быстренько приберусь...,,5531F3A3406B2E185E25C4BDA4738DB0
+﻿source,translation,status,namespace,key
+"Alright, let's get this over with...","Ладно, давай покончим с этим...",ai,,2BAA708F405086D6FBCBF0995DC0F154
+There. Much better.,Вот. Так гораздо лучше.,ai,,62931FB6445BC87C43E09ABA5C89943D
+"...Wait, shit. I didn't mean to do that.","...Стоп, чёрт. Я не хотела этого делать.",ai,,38EA0EB0407BA3971B6555BC3DF6CAA1
+Should probably clean these rather than throw them away.,"Наверное, лучше их помыть, чем выбрасывать.",ai,,9BC0EBA149393D05B165778EFDBCB5F0
+There. All done.,Вот. Готово.,ai,,D158D70343CF1E4E8CB4EC82224E0DE5
+Almost done. Just the garbage left.,Почти закончила. Остался только мусор.,ai,,89EBF87242BF64EB357874A8913ABF17
+What a mess. I'll just tidy this up real quick...,Ну и бардак. Сейчас быстренько приберусь...,ai,,5531F3A3406B2E185E25C4BDA4738DB0

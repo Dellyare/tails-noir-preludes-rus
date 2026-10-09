@@ -1,36 +1,36 @@
-﻿source,translation,namespace,key
-Whoever stole the hand had a number of accomplices.,,,31E8D97541002AF83D3073807D4CC113
-Whoever stole the hand knew what they were doing.,,,1E594D1340D72C741D32C0A4F33313BA
-Whoever stole the hand had difficulties doing so.,,,2042CA24481E02B1DBE261A399421A6C
-Whoever stole the hand had little regard for public property.,,,A71140F34596DE8B2B02C39FC8B4C846
-"[The large steam clock ticks along happily, content and quietly. White smoke puffs in heavy plumes out the top, where the exhaust has melted a circle of snow.]",,,29F373AC43785C7F4BC81DAC659EAA3F
-"Keep on ticking, papa.",,,6A62FC8C41F352F0DB6BB4AB5B626033
-"[Although the snow on the top has melted, the small ledges and protrusions of the clock still cling on to small droves of snow - except that snow looks it has been disturbed, as if slashed and flailed at.]",,,C7C639834C1F6AB7878F55BB92C2280F
-I see...,,,9C09FE734DB99045363E45BCA9E41A3C
-"[Besides the obvious missing hand, the clock seems hardly touched. No scratch marks, no signs of force. It almost stands to reason that it was removed with the proper tools needed.]",,,44900D4041060E30062708A33FDDE911
-Interesting.,,,7115EE38475F2EEF4A161193F95DE2F5
-[The dial of the clock has been bent out of shape - whoever or whatever pulled it out lacked the sufficient strength to snap it off immediately. It's been pulled at.],,,1DF920FF474EE35AF9966CB26F790AB9
-Interesting.,,,680AC2894C967825A55F8BAA1A495545
-"[The face of the clock hasn't only suffered theft, but also vandalization. Someone smashed parts of it up with little regard, and it seems likely that snatching the hand off the poor temporal grandfather was an afterthought.]",,,4143518E4740626212E7D98D78BFE6A5
-Odd...,,,B5873CCD469C79686DA508957DC96627
-"[You shuffle around the steam clock for a moment, but fail to discern anything of value. The theft was recent - the fact that it hasn't caused more commotion yet proves that much - but evidently long enough ago for any tracks of snow to be stomped down.]",,,10AA8DE946C756D56A6A0799D26858A2
-Here - I got your hand back. [Repair the clock],,,9AEB0E35438AF147161E7B9435A330AD
-Bummer.,,,3333AD95407F9363026FC78F32D578FE
-"[The face of Grandfather Steam seems strangely barren and empty without its second hand, but nonetheless ticks along. Someone has to.]",,,362CA77D4C23539609568EA43935890D
-[Repair the clock],,,126BEAD4490BEF33ED53349058D8C073
-[Investigate the clock.],,,58E51C5E47DD147605AA27955DAE88F2
-(SARCASTIC) Cool. A clock.,,,952301A449CAB898C2A19889A4414168
-(Leave),,,92C41C834093F037EDCF5D886E03BF83
-"[You peer up at the four faces of the monumental timepiece, studying it carefully.]",,,882EA6F34146B87B4428FC9CDD0C210F
-(INVESTIGATIVE) Wait... I see something.,,,24B6D50140FCE53DD8857A8B8B321F95
-"...What am I looking at here, exactly?",,,4813122A4C546F41886825BE1925AB0E
-[Examine the area around the clock],,,1E4AD1DC454597AF4E6F58A90E46AB50
-That's all.,,,E151FA6E4EF40C3E83BBF9BB0F2BED56
-[The clock does not reply. It seems your sarcasm is powerless against the passage of time.],,,3C1D227E43AC7DA095A4878111DE9666
-"You win this time, clock.",,,CE22BAE84A1AC81BB2EB859C18553D55
-"[Once the hand has clicked into place, it pauses briefly, before once more picking up the pace and ensuring the passage of time continues unfettered.]",,,22F8A2F04A8C1C49012561A8C4E37E8C
-"Good to have you back, papa.",,,7B396DBC4C2B210F6BF773BFAB118DAE
-(Climb down),,,61235831428316227532CD91872E469C
-"[Grandfather Steam, pride of Gastown. It's an old steam-powered clock, and an oddity in the sense of it being a known landmark of the City that isn't a depiction of an Ape.]",,,948886814092D3A84A1CFCBAD49CCDD6
-Here - I got your hand back. [Repair the clock],,,34A6264C4B867877928E78AF465EA9BA
-Interesting.,,,FD36C1F04C163BA756EFF29DEECF4567
+﻿source,translation,status,namespace,key
+Whoever stole the hand had a number of accomplices.,,,,31E8D97541002AF83D3073807D4CC113
+Whoever stole the hand knew what they were doing.,,,,1E594D1340D72C741D32C0A4F33313BA
+Whoever stole the hand had difficulties doing so.,,,,2042CA24481E02B1DBE261A399421A6C
+Whoever stole the hand had little regard for public property.,,,,A71140F34596DE8B2B02C39FC8B4C846
+"[The large steam clock ticks along happily, content and quietly. White smoke puffs in heavy plumes out the top, where the exhaust has melted a circle of snow.]",,,,29F373AC43785C7F4BC81DAC659EAA3F
+"Keep on ticking, papa.",,,,6A62FC8C41F352F0DB6BB4AB5B626033
+"[Although the snow on the top has melted, the small ledges and protrusions of the clock still cling on to small droves of snow - except that snow looks it has been disturbed, as if slashed and flailed at.]",,,,C7C639834C1F6AB7878F55BB92C2280F
+I see...,,,,9C09FE734DB99045363E45BCA9E41A3C
+"[Besides the obvious missing hand, the clock seems hardly touched. No scratch marks, no signs of force. It almost stands to reason that it was removed with the proper tools needed.]",,,,44900D4041060E30062708A33FDDE911
+Interesting.,,,,7115EE38475F2EEF4A161193F95DE2F5
+[The dial of the clock has been bent out of shape - whoever or whatever pulled it out lacked the sufficient strength to snap it off immediately. It's been pulled at.],,,,1DF920FF474EE35AF9966CB26F790AB9
+Interesting.,,,,680AC2894C967825A55F8BAA1A495545
+"[The face of the clock hasn't only suffered theft, but also vandalization. Someone smashed parts of it up with little regard, and it seems likely that snatching the hand off the poor temporal grandfather was an afterthought.]",,,,4143518E4740626212E7D98D78BFE6A5
+Odd...,,,,B5873CCD469C79686DA508957DC96627
+"[You shuffle around the steam clock for a moment, but fail to discern anything of value. The theft was recent - the fact that it hasn't caused more commotion yet proves that much - but evidently long enough ago for any tracks of snow to be stomped down.]",,,,10AA8DE946C756D56A6A0799D26858A2
+Here - I got your hand back. [Repair the clock],,,,9AEB0E35438AF147161E7B9435A330AD
+Bummer.,,,,3333AD95407F9363026FC78F32D578FE
+"[The face of Grandfather Steam seems strangely barren and empty without its second hand, but nonetheless ticks along. Someone has to.]",,,,362CA77D4C23539609568EA43935890D
+[Repair the clock],,,,126BEAD4490BEF33ED53349058D8C073
+[Investigate the clock.],,,,58E51C5E47DD147605AA27955DAE88F2
+(SARCASTIC) Cool. A clock.,,,,952301A449CAB898C2A19889A4414168
+(Leave),,,,92C41C834093F037EDCF5D886E03BF83
+"[You peer up at the four faces of the monumental timepiece, studying it carefully.]",,,,882EA6F34146B87B4428FC9CDD0C210F
+(INVESTIGATIVE) Wait... I see something.,,,,24B6D50140FCE53DD8857A8B8B321F95
+"...What am I looking at here, exactly?",,,,4813122A4C546F41886825BE1925AB0E
+[Examine the area around the clock],,,,1E4AD1DC454597AF4E6F58A90E46AB50
+That's all.,,,,E151FA6E4EF40C3E83BBF9BB0F2BED56
+[The clock does not reply. It seems your sarcasm is powerless against the passage of time.],,,,3C1D227E43AC7DA095A4878111DE9666
+"You win this time, clock.",,,,CE22BAE84A1AC81BB2EB859C18553D55
+"[Once the hand has clicked into place, it pauses briefly, before once more picking up the pace and ensuring the passage of time continues unfettered.]",,,,22F8A2F04A8C1C49012561A8C4E37E8C
+"Good to have you back, papa.",,,,7B396DBC4C2B210F6BF773BFAB118DAE
+(Climb down),,,,61235831428316227532CD91872E469C
+"[Grandfather Steam, pride of Gastown. It's an old steam-powered clock, and an oddity in the sense of it being a known landmark of the City that isn't a depiction of an Ape.]",,,,948886814092D3A84A1CFCBAD49CCDD6
+Here - I got your hand back. [Repair the clock],,,,34A6264C4B867877928E78AF465EA9BA
+Interesting.,,,,FD36C1F04C163BA756EFF29DEECF4567

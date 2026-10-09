@@ -1,29 +1,29 @@
-﻿source,translation,namespace,key
-0,,,A7FB1F03415919898CB8BE83FCBBA4F3
-0,,,30C4DBB54C962FD891B3F58F6205DB58
-"I'm here because I want to file a divorce from Brad. The sooner the better. The problem is, I need evidence against Brad to testify in matrimonial court. And you will help me find that evidence.",,,71E07E0F48D0D7C011D6E6A3D70BE260
-Oh! When are you expecting?,,,C4635689458940DFE8366F83E0DD3590
-That Brad fella sure sounds like he cares about you.,,,162E688E4E068D390AC278AFA6B12177
-Shouldn't that be a personal choice?,,,0A4C4F604661323054E3FCA60A2EC3CB
-Let's cut to the chase - what can I do for you?,,,D6781C294D667F9E4DE598984B2563A9
-"Bye, I'll be back later.",,,08C79C2745A9AA4A355E78A78934BE79
-Name,,,D118A1E24CE8C367B7EC64BF075D951D
-"Current node -> ",,,FA5544C84C8EFC642EF89EBF9DA21504
-"Current select dialogue -> ",,,E1388C824F4EE36086A047AB3D9FD479
-Open dialogue structure,,,3FABBB284D7895F9A6B61380AE9743B1
-" Reset all variables value from dialogues",,,B7C261E74902A88BF432B9B8B60BF30B
-Reset,,,22A46ED94107D645F2571A9FE48A23E3
-" variables value ",,,D760311041098A4999A2E8854E1D44DF
-" Reset all variables value from selected dialogue",,,789696F74727AE4FC133B194C910A6AF
-Start selected dialogue in the game,,,9252A261469CCE0D39F2E48D284A231C
-Start selected dialogue in debug widget,,,BF2B3848426F0BFF8F8F34804B262A5F
-Clear history,,,38B20CDC4CA00C3F23648A968FD9BB32
-Remove debug save,,,AEF6E7F046A9DF2677AB0E80AB291E80
-Remove debug save and restart current dialogue,,,5D34D3DC4553031EA167308BB6B3E619
-Visited nodes:,,,9D3608754985144E3FFA449AEB1BB55C
-Finish dialogue,,,FE73CDFE457EAFD164D39EBE9CC59E36
-Go to node,,,1FEFEB224BA13D36CF62CD8A90004B30
-Current node ->,,,2BFBCFA44A01F737934484B46F95FEE6
-Current select dialogue -> {dlg},,,7CE47B404667367AB8FFB58BE2D09B12
-Current node ->  {0},,,B73800B84AE67C2433CE5BA317593DB0
-" {0} ",,,3C8A731D42BDD3D762EBD6A7EC214ADA
+﻿source,translation,status,namespace,key
+0,,,,A7FB1F03415919898CB8BE83FCBBA4F3
+0,,,,30C4DBB54C962FD891B3F58F6205DB58
+"I'm here because I want to file a divorce from Brad. The sooner the better. The problem is, I need evidence against Brad to testify in matrimonial court. And you will help me find that evidence.",,,,71E07E0F48D0D7C011D6E6A3D70BE260
+Oh! When are you expecting?,,,,C4635689458940DFE8366F83E0DD3590
+That Brad fella sure sounds like he cares about you.,,,,162E688E4E068D390AC278AFA6B12177
+Shouldn't that be a personal choice?,,,,0A4C4F604661323054E3FCA60A2EC3CB
+Let's cut to the chase - what can I do for you?,,,,D6781C294D667F9E4DE598984B2563A9
+"Bye, I'll be back later.",,,,08C79C2745A9AA4A355E78A78934BE79
+Name,,,,D118A1E24CE8C367B7EC64BF075D951D
+"Current node -> ",,,,FA5544C84C8EFC642EF89EBF9DA21504
+"Current select dialogue -> ",,,,E1388C824F4EE36086A047AB3D9FD479
+Open dialogue structure,,,,3FABBB284D7895F9A6B61380AE9743B1
+" Reset all variables value from dialogues",,,,B7C261E74902A88BF432B9B8B60BF30B
+Reset,,,,22A46ED94107D645F2571A9FE48A23E3
+" variables value ",,,,D760311041098A4999A2E8854E1D44DF
+" Reset all variables value from selected dialogue",,,,789696F74727AE4FC133B194C910A6AF
+Start selected dialogue in the game,,,,9252A261469CCE0D39F2E48D284A231C
+Start selected dialogue in debug widget,,,,BF2B3848426F0BFF8F8F34804B262A5F
+Clear history,,,,38B20CDC4CA00C3F23648A968FD9BB32
+Remove debug save,,,,AEF6E7F046A9DF2677AB0E80AB291E80
+Remove debug save and restart current dialogue,,,,5D34D3DC4553031EA167308BB6B3E619
+Visited nodes:,,,,9D3608754985144E3FFA449AEB1BB55C
+Finish dialogue,,,,FE73CDFE457EAFD164D39EBE9CC59E36
+Go to node,,,,1FEFEB224BA13D36CF62CD8A90004B30
+Current node ->,,,,2BFBCFA44A01F737934484B46F95FEE6
+Current select dialogue -> {dlg},,,,7CE47B404667367AB8FFB58BE2D09B12
+Current node ->  {0},,,,B73800B84AE67C2433CE5BA317593DB0
+" {0} ",,,,3C8A731D42BDD3D762EBD6A7EC214ADA

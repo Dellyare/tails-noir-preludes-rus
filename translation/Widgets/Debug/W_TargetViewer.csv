@@ -1,8 +1,8 @@
-﻿source,translation,namespace,key
-Search,,,F39278914049DC0CA483FBBF9C104775
-" <img id=""Target""/> Target node:",,,601F7F294A1008E2A021599C103E730E
-" <img id=""warning""/>Conditions:",,,7733DEDC48EC841E6DD91B9A6C2A4336
-" <img id=""log""/> Events:",,,8027A1C24B2E7A6D502DA69E7C48EA33
-"\r\n Node <Node>{number}</>  <img id=""Arrow""/>\r\n {logs}  \r\n <img id=""Line""/>",,,11C1788D47AA6932A9C6EA82A3DFFF94
-"\r\n Node <Node>{number}</>  <img id=""Arrow""/>\r\n{logs}\r\n <img id=""Line""/>",,,53B31F554FA282F3B692C7AC450ABFBB
-<Node>Option {Number}</> [ {Target} node ]\r\n{Text}\r\n{Conditions}\r\n{Events},,,A4950EFD42F85C589946208F2F9DF879
+﻿source,translation,status,namespace,key
+Search,,,,F39278914049DC0CA483FBBF9C104775
+" <img id=""Target""/> Target node:",,,,601F7F294A1008E2A021599C103E730E
+" <img id=""warning""/>Conditions:",,,,7733DEDC48EC841E6DD91B9A6C2A4336
+" <img id=""log""/> Events:",,,,8027A1C24B2E7A6D502DA69E7C48EA33
+"\r\n Node <Node>{number}</>  <img id=""Arrow""/>\r\n {logs}  \r\n <img id=""Line""/>",,,,11C1788D47AA6932A9C6EA82A3DFFF94
+"\r\n Node <Node>{number}</>  <img id=""Arrow""/>\r\n{logs}\r\n <img id=""Line""/>",,,,53B31F554FA282F3B692C7AC450ABFBB
+<Node>Option {Number}</> [ {Target} node ]\r\n{Text}\r\n{Conditions}\r\n{Events},,,,A4950EFD42F85C589946208F2F9DF879

@@ -1,29 +1,29 @@
-﻿source,translation,namespace,key
-Carlo,Карло,,7A93B1B8411658A5B53BED8BC4001D9A
-Altar,Алтарь,,6FD7C64B411D3A54B3F6B19C81ABFDD0
-Crowd,Толпа,,25034C2643049C6ACBF4DBB8880F6E8A
-Father Ioseph,Отец Иосиф,,341861C44DAC8DF3F93E9494B514EBE3
-Collection Box,Ящик для пожертвований,,D59925A34E70D8B609A3F8A025D02639
-"Not a single loon. Wonder what Father Ioseph would say about this... ","Ни единого луна. Интересно, что бы на это сказал отец Иосиф...",,289EB9FC422855E937EBC3AF681C8FA9
-There's no money in the collection box.,В ящике для пожертвований нет денег.,,EDE4F29743EEBE519927B8B8BDC36B19
-Crew,Команда,,5FCD24544B3D2C16AB8B1E8D8337ADD1
-I don't think I've seen any of these guys before. They're certainly not dressed for a funeral.,"Кажется, никого из них я раньше не видела. И одеты они точно не для похорон.",,EA5003B34A07E12343DB8195AB64DFAD
-Candles,Свечи,,4658C100441DF2F1C95BBDB9B5C386FA
-"""Two loons per candle."" Of course. Wouldn't be a church if they weren't making profit.","«Два луна за свечу». Ну конечно. Какая же это церковь, если на ней не зарабатывают.",,002160A44EF68EB4A9E5949396BD2A6A
-Scripture,Писание,,57CF356D4C3EA3840CD963AE7FC8D776
-"""...But He offered them light, a path eternal, and a great Beyond. Come, spoke the Shepherd, this all I shall bequeath you, and My one ask is that you follow.""","«...Но Он даровал им свет, путь вечный и великое Запределье. Придите, рёк Пастырь, всё это завещаю Я вам, и об одном лишь прошу — следуйте за Мной».",,E16B914A4F2B30B248E17590875F0FE1
-"""...And they beheld from within he summoned a great Flame, a heart ablaze with righteous Wisdom and Fury, and they knew, and they yielded to Him.""","«...И узрели они, как изнутри призвал Он великое Пламя, сердце, пылающее праведной Мудростью и Яростью, и познали они, и покорились Ему».",,D303D8FA4A1CC62238E7F9AC09A7BC36
-"""...And in the Apes, he saw wisdom, their knowledge, and their piety, and so He anointed them with will and command as His foremost followers, for all others to bow to.""","«...И в Обезьянах узрел Он мудрость, их знание и благочестие, и потому помазал Он их волей и властью как первейших последователей Своих, дабы все прочие склонялись пред ними».",,327F6D344B2CBFE156C93684F1AB518C
-"""...And foresaw her coming; a visage of darkness and deception, and the reckoning of all good Men, and shared that vision as a Warning to all those who walk His Path.""","«...И предвидел пришествие её — лик тьмы и обмана, и расплату всех добрых Мужей, и поведал то видение как Предостережение всем, кто идёт Путём Его».",,723993B44A850D6314AA42958114BC81
-Cloakroom,Гардероб,,2D9438A84C3E3FE4833AF0B8C1FC43F6
-I hate how ridiculous I look in this thing. Can't wait to get it off.,"Ненавижу, как нелепо я в этом выгляжу. Скорей бы снять.",,AEE7CB014822F36E08C6EB922DF7311D
-Crowd,Толпа,,09820C184F37BE270D5ABA913234F0AB
-I don't recognize any of these people. I wonder if even Grandpa would have.,"Я никого из этих людей не узнаю. Интересно, узнал бы их хотя бы дедушка.",,DDB7078046BFF9FB888AD187DA64CE07
-Sermon,Проповедь,,38B6396F4E69E6DE1C9C9F9E1D680D94
-Exit,Выход,,064DDB164DA7A70CDE8E2C848CEC456E
-"After all that hassle, I'm not going back in there any time soon.",После всей этой возни я туда ещё нескоро вернусь.,,ABBD3DF5496A79FD2C5FE9896ABAB1B8
-Exit to street,Выйти на улицу,,CD5C4044426A034441A1A1A1FA219B5C
-Enter to church yard,Во двор церкви,,F71C65D7482760150A736A97825FD902
-Uncle,Дядя,,F6E45E724B7E042974184DA53A8E085A
-Uncle Clemence,Дядя Клеменс,,99C5381743927C393BA36FA2D3BE7B89
-Clemence's Car,Машина Клеменса,,B5E1E09C48B767946484B8ACD98B7E06
+﻿source,translation,status,namespace,key
+Carlo,Карло,ai,,7A93B1B8411658A5B53BED8BC4001D9A
+Altar,Алтарь,ai,,6FD7C64B411D3A54B3F6B19C81ABFDD0
+Crowd,Толпа,ai,,25034C2643049C6ACBF4DBB8880F6E8A
+Father Ioseph,Отец Иосиф,ai,,341861C44DAC8DF3F93E9494B514EBE3
+Collection Box,Ящик для пожертвований,ai,,D59925A34E70D8B609A3F8A025D02639
+"Not a single loon. Wonder what Father Ioseph would say about this... ","Ни единого бакса. Интересно, что бы на это сказал отец Иосиф...",ai,,289EB9FC422855E937EBC3AF681C8FA9
+There's no money in the collection box.,В ящике для пожертвований нет денег.,ai,,EDE4F29743EEBE519927B8B8BDC36B19
+Crew,Команда,ai,,5FCD24544B3D2C16AB8B1E8D8337ADD1
+I don't think I've seen any of these guys before. They're certainly not dressed for a funeral.,"Кажется, никого из них я раньше не видела. И одеты они точно не для похорон.",ai,,EA5003B34A07E12343DB8195AB64DFAD
+Candles,Свечи,ai,,4658C100441DF2F1C95BBDB9B5C386FA
+"""Two loons per candle."" Of course. Wouldn't be a church if they weren't making profit.","«Два бакса за свечу». Ну конечно. Какая же это церковь, если на ней не зарабатывают.",ai,,002160A44EF68EB4A9E5949396BD2A6A
+Scripture,Писание,ai,,57CF356D4C3EA3840CD963AE7FC8D776
+"""...But He offered them light, a path eternal, and a great Beyond. Come, spoke the Shepherd, this all I shall bequeath you, and My one ask is that you follow.""","«...Но Он даровал им свет, путь вечный и великое Запределье. Придите, рёк Пастырь, всё это завещаю Я вам, и об одном лишь прошу — следуйте за Мной».",ai,,E16B914A4F2B30B248E17590875F0FE1
+"""...And they beheld from within he summoned a great Flame, a heart ablaze with righteous Wisdom and Fury, and they knew, and they yielded to Him.""","«...И узрели они, как изнутри призвал Он великое Пламя, сердце, пылающее праведной Мудростью и Яростью, и познали они, и покорились Ему».",ai,,D303D8FA4A1CC62238E7F9AC09A7BC36
+"""...And in the Apes, he saw wisdom, their knowledge, and their piety, and so He anointed them with will and command as His foremost followers, for all others to bow to.""","«...И в Обезьянах узрел Он мудрость, их знание и благочестие, и потому помазал Он их волей и властью как первейших последователей Своих, дабы все прочие склонялись пред ними».",ai,,327F6D344B2CBFE156C93684F1AB518C
+"""...And foresaw her coming; a visage of darkness and deception, and the reckoning of all good Men, and shared that vision as a Warning to all those who walk His Path.""","«...И предвидел пришествие её — лик тьмы и обмана, и расплату всех добрых Мужей, и поведал то видение как Предостережение всем, кто идёт Путём Его».",ai,,723993B44A850D6314AA42958114BC81
+Cloakroom,Гардероб,ai,,2D9438A84C3E3FE4833AF0B8C1FC43F6
+I hate how ridiculous I look in this thing. Can't wait to get it off.,"Ненавижу, как нелепо я в этом выгляжу. Скорей бы снять.",ai,,AEE7CB014822F36E08C6EB922DF7311D
+Crowd,Толпа,ai,,09820C184F37BE270D5ABA913234F0AB
+I don't recognize any of these people. I wonder if even Grandpa would have.,"Я никого из этих людей не узнаю. Интересно, узнал бы их хотя бы дедушка.",ai,,DDB7078046BFF9FB888AD187DA64CE07
+Sermon,Проповедь,ai,,38B6396F4E69E6DE1C9C9F9E1D680D94
+Exit,Выход,ok,,064DDB164DA7A70CDE8E2C848CEC456E
+"After all that hassle, I'm not going back in there any time soon.",После всей этой возни я туда ещё нескоро вернусь.,ai,,ABBD3DF5496A79FD2C5FE9896ABAB1B8
+Exit to street,Выйти на улицу,ai,,CD5C4044426A034441A1A1A1FA219B5C
+Enter to church yard,Во двор церкви,ai,,F71C65D7482760150A736A97825FD902
+Uncle,Дядя,ai,,F6E45E724B7E042974184DA53A8E085A
+Uncle Clemence,Дядя Клеменс,ai,,99C5381743927C393BA36FA2D3BE7B89
+Clemence's Car,Машина Клеменса,ai,,B5E1E09C48B767946484B8ACD98B7E06

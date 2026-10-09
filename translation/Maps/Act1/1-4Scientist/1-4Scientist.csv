@@ -1,44 +1,44 @@
-﻿source,translation,namespace,key
-Should be careful. Most of what's in here hasn't been exposed to the elements for a very long time.,Надо быть осторожнее. Почти всё здесь очень долго не соприкасалось с внешней средой.,,E7BC45444B9C31236F4D1C909F01C5D5
-"...Well, whatever was in there is definitely ruined now.","...Что ж, что бы там ни было, теперь оно точно испорчено.",,93CD3453470B2562DBEE5BB5E63C99B7
-"Oh, great. Just what I needed. Darkness.","О, прекрасно. Только этого не хватало. Темнота.",,B806EAF74FAD52A91B3D3EAEAF4A517D
-Water Tanks,Баки с водой,,8284768F47DAB267856010B82FB2A32C
-They look like they're handling the dust storm well. Good.,"Похоже, пыльную бурю они переносят неплохо. Хорошо.",,22F6091B4A50E55DD31DAEA818C0ED0A
-Wastes,Пустошь,,C4EAB5E8488F4A9389D5AC84604C9CE7
-Nothing but rocky desert out this way. We're so far from the City I can't even see the Wall.,"В эту сторону только каменистая пустыня. Мы так далеко от Города, что даже Стену не видно.",,0A19E193406BD17705F7898ED0DD3088
-Supplies,Припасы,,34CF30EA4978E40BC241C1BDA202DDB6
-"Supplies, both packed and unpacked... Containment pods! I'm coming Jorge!","Припасы, упакованные и распакованные... Контейнеры для образцов! Иду, Джордж!",,402C7FBF486B7B8846D6A0A8E57B3972
-You picked up a containment pod.,Ты взял контейнер для образцов.,,37A7E727419CFF8520DCEF9254DE0673
-Supplies,Припасы,,6F9D7EEA4E5E5E0B593185BCC17AAA7D
-"So much stuff, and yet we still don't have everything we need. I'd kill for something fresh to eat.","Столько всего, а всё равно не хватает нужного. Убил бы за что-нибудь свежее.",,70FA954F4DB95375650383BA6F8C9D99
-Jorge's Side,Сторона Джорджа,,C2D82E5142253FD366EB2ABE09FA52BC
-"I wish Jorge would tidy up his side of the tent. I'd offer to do it, but he would never agree to it.","Хоть бы Джордж прибрался на своей половине палатки. Я бы предложил помочь, но он ни за что не согласится.",,F456FE0D4638EA9EE384319979AE651B
-Eli's Side,Сторона Илая,,4DEA4E3A41C5A9D56254E2985802BEFC
-Now's probably not the time to start organizing journals.,"Сейчас, пожалуй, не время разбирать журналы.",,C55A58454FFE98CBF9FE61808358C1A2
-Solar Panels,Солнечные панели,,D8882AFB4C0E0D2EFEBF7085BDB2F9D9
-"Need to clean these once all this settles, or our equipment will struggle.","Когда всё уляжется, их надо почистить, иначе оборудованию придётся туго.",,A5619D964645CB44B26A83B49A391626
-Digsite Tools,Инструменты для раскопок,,4E2362F54F766E409046F7B801E2DBA1
-I'd be happy to never touch another shovel in my life.,Был бы рад больше никогда в жизни не браться за лопату.,,BC33E4524C22086B42EA97816CF2E837
-Wastes,Пустошь,,779DB52443E338B83142B8B2A529DA14
-I can handle the wind - the heat is what gets to me.,С ветром я ещё справляюсь — достаёт жара.,,345A19214529C23A2481DAAF515FC8F0
-Deep End,Глубокий раскоп,,FCB036BD44E53F33BA0F68BBA93DF805
-"Some of our finds have been...eerily familiar. Nothing conclusive so far, just strange.","Некоторые наши находки были... жутко знакомыми. Пока ничего определённого, просто странно.",,014468504FF15596F7A3DDB79F81729E
-"Supplies, both packed and unpacked...Containment pods! I'm coming, Jorge!","Припасы, упакованные и распакованные... Контейнеры для образцов! Иду, Джордж!",,8E7236734479EF126CB52197A714BF87
-You picked up a containment pod.,Ты взял контейнер для образцов.,,FE0DD1C747F8A50A39B1F68AD63B6125
-Equipment,Оборудование,,F1CF7E0143568BD2F809F19221704E31
-"Storm or no storm, everything is covered with dust and sand.","Буря там или нет, а всё покрыто пылью и песком.",,08F8F0514FFCA6A14E99F3941FB727FD
-Cooling Spray,Охлаждающий спрей,,5A05012A404C714CA2BB14B32B6642E3
-"Cooling spray. Hang on, Jorge! I'm coming!","Охлаждающий спрей. Держись, Джордж! Иду!",,4CA4EBF647F8E66D05C3D5B3E08B359C
-You picked up some cooling spray.,Ты взял охлаждающий спрей.,,B599E5B545C754D3D65E3D891E0CDD28
-Jorge,Джордж,,D74241D74B8DEA79548704B47DE881A4
-Jorge? Are you alright?,Джордж? Ты в порядке?,,BA91DD9743BBCD0439515EADA6AE88FB
-Radio,Радио,,5BA5414B40ACECD9C8B1C6BE3E8F9CD3
-Journal,Журнал,,E0693A6643A0E8B13C1F9B9840980FC9
-Locker,Шкафчик,,82FA3DBB45353CAA3E4BF198B66A39BA
-Little box,Коробочка,,180C75C14C59953B46CA22AC799D1182
-Enter Dig,В раскоп,,63D612444F93D3EA2C78A5B0B3D5DEF1
-Leave Dig,Покинуть раскоп,,7B9B91D94E3E8680C957519A087A4A05
-Exit Tent,Выйти из палатки,,59D8DAE447147FCF19E230A75D364E03
-Enter Tent,В палатку,,809E5BF5406EF3E33BAC2FA5F7FA70F7
-"Where are you, Jorge? I'm coming!","Где ты, Джордж? Иду!",,09D4838F4AC938480CA02FA47B17B705
-Jorge? What's going on?,Джордж? Что происходит?,,E7E849444ACF7AEE153CFF85EA0D2E69
+﻿source,translation,status,namespace,key
+Should be careful. Most of what's in here hasn't been exposed to the elements for a very long time.,Надо быть осторожнее. Почти всё здесь очень долго не соприкасалось с внешней средой.,ai,,E7BC45444B9C31236F4D1C909F01C5D5
+"...Well, whatever was in there is definitely ruined now.","...Что ж, что бы там ни было, теперь оно точно испорчено.",ai,,93CD3453470B2562DBEE5BB5E63C99B7
+"Oh, great. Just what I needed. Darkness.","О, прекрасно. Только этого не хватало. Темнота.",ai,,B806EAF74FAD52A91B3D3EAEAF4A517D
+Water Tanks,Баки с водой,ai,,8284768F47DAB267856010B82FB2A32C
+They look like they're handling the dust storm well. Good.,"Похоже, пыльную бурю они переносят неплохо. Хорошо.",ai,,22F6091B4A50E55DD31DAEA818C0ED0A
+Wastes,Пустошь,ai,,C4EAB5E8488F4A9389D5AC84604C9CE7
+Nothing but rocky desert out this way. We're so far from the City I can't even see the Wall.,"В эту сторону только каменистая пустыня. Мы так далеко от Города, что даже Стену не видно.",ai,,0A19E193406BD17705F7898ED0DD3088
+Supplies,Припасы,ai,,34CF30EA4978E40BC241C1BDA202DDB6
+"Supplies, both packed and unpacked... Containment pods! I'm coming Jorge!","Припасы, упакованные и распакованные... Контейнеры для образцов! Иду, Джордж!",ai,,402C7FBF486B7B8846D6A0A8E57B3972
+You picked up a containment pod.,Ты взял контейнер для образцов.,ai,,37A7E727419CFF8520DCEF9254DE0673
+Supplies,Припасы,ai,,6F9D7EEA4E5E5E0B593185BCC17AAA7D
+"So much stuff, and yet we still don't have everything we need. I'd kill for something fresh to eat.","Столько всего, а всё равно не хватает нужного. Убил бы за что-нибудь свежее.",ai,,70FA954F4DB95375650383BA6F8C9D99
+Jorge's Side,Сторона Джорджа,ai,,C2D82E5142253FD366EB2ABE09FA52BC
+"I wish Jorge would tidy up his side of the tent. I'd offer to do it, but he would never agree to it.","Хоть бы Джордж прибрался на своей половине палатки. Я бы предложил помочь, но он ни за что не согласится.",ai,,F456FE0D4638EA9EE384319979AE651B
+Eli's Side,Сторона Илая,ai,,4DEA4E3A41C5A9D56254E2985802BEFC
+Now's probably not the time to start organizing journals.,"Сейчас, пожалуй, не время разбирать журналы.",ai,,C55A58454FFE98CBF9FE61808358C1A2
+Solar Panels,Солнечные панели,ai,,D8882AFB4C0E0D2EFEBF7085BDB2F9D9
+"Need to clean these once all this settles, or our equipment will struggle.","Когда всё уляжется, их надо почистить, иначе оборудованию придётся туго.",ai,,A5619D964645CB44B26A83B49A391626
+Digsite Tools,Инструменты для раскопок,ai,,4E2362F54F766E409046F7B801E2DBA1
+I'd be happy to never touch another shovel in my life.,Был бы рад больше никогда в жизни не браться за лопату.,ai,,BC33E4524C22086B42EA97816CF2E837
+Wastes,Пустошь,ai,,779DB52443E338B83142B8B2A529DA14
+I can handle the wind - the heat is what gets to me.,С ветром я ещё справляюсь — достаёт жара.,ai,,345A19214529C23A2481DAAF515FC8F0
+Deep End,Глубокий раскоп,ai,,FCB036BD44E53F33BA0F68BBA93DF805
+"Some of our finds have been...eerily familiar. Nothing conclusive so far, just strange.","Некоторые наши находки были... жутко знакомыми. Пока ничего определённого, просто странно.",ai,,014468504FF15596F7A3DDB79F81729E
+"Supplies, both packed and unpacked...Containment pods! I'm coming, Jorge!","Припасы, упакованные и распакованные... Контейнеры для образцов! Иду, Джордж!",ai,,8E7236734479EF126CB52197A714BF87
+You picked up a containment pod.,Ты взял контейнер для образцов.,ai,,FE0DD1C747F8A50A39B1F68AD63B6125
+Equipment,Оборудование,ok,,F1CF7E0143568BD2F809F19221704E31
+"Storm or no storm, everything is covered with dust and sand.","Буря там или нет, а всё покрыто пылью и песком.",ai,,08F8F0514FFCA6A14E99F3941FB727FD
+Cooling Spray,Охлаждающий спрей,ai,,5A05012A404C714CA2BB14B32B6642E3
+"Cooling spray. Hang on, Jorge! I'm coming!","Охлаждающий спрей. Держись, Джордж! Иду!",ai,,4CA4EBF647F8E66D05C3D5B3E08B359C
+You picked up some cooling spray.,Ты взял охлаждающий спрей.,ai,,B599E5B545C754D3D65E3D891E0CDD28
+Jorge,Джордж,ai,,D74241D74B8DEA79548704B47DE881A4
+Jorge? Are you alright?,Джордж? Ты в порядке?,ai,,BA91DD9743BBCD0439515EADA6AE88FB
+Radio,Радио,ai,,5BA5414B40ACECD9C8B1C6BE3E8F9CD3
+Journal,Журнал,ai,,E0693A6643A0E8B13C1F9B9840980FC9
+Locker,Шкафчик,ai,,82FA3DBB45353CAA3E4BF198B66A39BA
+Little box,Коробочка,ai,,180C75C14C59953B46CA22AC799D1182
+Enter Dig,В раскоп,ai,,63D612444F93D3EA2C78A5B0B3D5DEF1
+Leave Dig,Покинуть раскоп,ai,,7B9B91D94E3E8680C957519A087A4A05
+Exit Tent,Выйти из палатки,ai,,59D8DAE447147FCF19E230A75D364E03
+Enter Tent,В палатку,ai,,809E5BF5406EF3E33BAC2FA5F7FA70F7
+"Where are you, Jorge? I'm coming!","Где ты, Джордж? Иду!",ai,,09D4838F4AC938480CA02FA47B17B705
+Jorge? What's going on?,Джордж? Что происходит?,ai,,E7E849444ACF7AEE153CFF85EA0D2E69

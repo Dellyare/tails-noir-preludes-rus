@@ -1,6 +1,6 @@
-﻿source,translation,namespace,key
-"Salt spray - should agitate the sample. Probably solidify it, too.","Солевой туман — должен возбудить образец. И, наверное, сделать твёрже.",,05338FE5431FD0135DE145816606B7E4
-This one says 'Increases Humidity*. Liquifies and gets the sample wet.,Тут написано «Повышает влажность». Разжижает образец и делает его влажным.,,2F4B2A8745302815D085F6A6FFEEFB20
-This is the Humidity and Corrosion Chamber. Should be good for humidifying or drying out the sample.,"Это камера влажности и коррозии. Подойдёт, чтобы увлажнить или высушить образец.",,759A3EA44C6CC335555AEFA408238085
-"I should put the sample in the test tube, and then in the middle.","Нужно положить образец в пробирку, а потом поставить в середину.",,59CA30224E2DF800AD8C04A31F7A871A
-"Need to put the sample in the testing tube, and then in the middle. ","Нужно положить образец в пробирку, а потом поставить в середину.",,B956DB2545F24EE165613181DB7E3DD7
+﻿source,translation,status,namespace,key
+"Salt spray - should agitate the sample. Probably solidify it, too.","Солевой туман — должен возбудить образец. И, наверное, сделать твёрже.",ai,,05338FE5431FD0135DE145816606B7E4
+This one says 'Increases Humidity*. Liquifies and gets the sample wet.,Тут написано «Повышает влажность». Разжижает образец и делает его влажным.,ai,,2F4B2A8745302815D085F6A6FFEEFB20
+This is the Humidity and Corrosion Chamber. Should be good for humidifying or drying out the sample.,"Это камера влажности и коррозии. Подойдёт, чтобы увлажнить или высушить образец.",ai,,759A3EA44C6CC335555AEFA408238085
+"I should put the sample in the test tube, and then in the middle.","Нужно положить образец в пробирку, а потом поставить в середину.",ai,,59CA30224E2DF800AD8C04A31F7A871A
+"Need to put the sample in the testing tube, and then in the middle. ","Нужно положить образец в пробирку, а потом поставить в середину.",ai,,B956DB2545F24EE165613181DB7E3DD7

@@ -1,10 +1,10 @@
-﻿source,translation,namespace,key
-Wet Relaxed Solid,"Влажное, спокойное, твёрдое",,6B4D5D85456F26439F461CA6A6C2316A
-Dry Agitated Liquid,"Сухое, возбуждённое, жидкое",,7D149B754AFD70872F22A7B3CA9FCDD3
-Dry Agitated Solid,"Сухое, возбуждённое, твёрдое",,61463C5A43924DCA411BC0A4CD89D7A8
-Dry Relaxed Liquid,"Сухое, спокойное, жидкое",,0890C6AA4D104AF6522B138091C2820B
-Dry Relaxed Solid,"Сухое, спокойное, твёрдое",,90F94F864E62775D2D803CBBB8B0BD57
-Wet Agitated Liquid,"Влажное, возбуждённое, жидкое",,F0401BA049333195AFC82D80CE80B7C9
-Wet Agitated Solid,"Влажное, возбуждённое, твёрдое",,5F048B7946D63337DD4375A6A51A7FE3
-Wet Relaxed Liquid,"Влажное, спокойное, жидкое",,D48D6D8B44C132224711E38CE390BACE
-Wet Relaxed Solid,"Влажное, спокойное, твёрдое",,7D653C64411B15ED1338F59068A5E6EB
+﻿source,translation,status,namespace,key
+Wet Relaxed Solid,"Влажное, спокойное, твёрдое",ai,,6B4D5D85456F26439F461CA6A6C2316A
+Dry Agitated Liquid,"Сухое, возбуждённое, жидкое",ai,,7D149B754AFD70872F22A7B3CA9FCDD3
+Dry Agitated Solid,"Сухое, возбуждённое, твёрдое",ai,,61463C5A43924DCA411BC0A4CD89D7A8
+Dry Relaxed Liquid,"Сухое, спокойное, жидкое",ai,,0890C6AA4D104AF6522B138091C2820B
+Dry Relaxed Solid,"Сухое, спокойное, твёрдое",ai,,90F94F864E62775D2D803CBBB8B0BD57
+Wet Agitated Liquid,"Влажное, возбуждённое, жидкое",ai,,F0401BA049333195AFC82D80CE80B7C9
+Wet Agitated Solid,"Влажное, возбуждённое, твёрдое",ai,,5F048B7946D63337DD4375A6A51A7FE3
+Wet Relaxed Liquid,"Влажное, спокойное, жидкое",ai,,D48D6D8B44C132224711E38CE390BACE
+Wet Relaxed Solid,"Влажное, спокойное, твёрдое",ai,,7D653C64411B15ED1338F59068A5E6EB

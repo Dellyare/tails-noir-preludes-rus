@@ -1,4 +1,4 @@
-﻿source,translation,namespace,key
-"Node {NodeIndex}{Conditions}{Events}\r\n <img id=""Line""/>",,,CFBFA51A4AA0A8120DBC16BD8EA70A67
-<Node>Node {NodeIndex}</> {logs}\r\n{node text},,,4ADF62EA4C4B8187EA026DB121CD6034
-Start,,,D861A13F49726A95C1B1988227A3828E
+﻿source,translation,status,namespace,key
+"Node {NodeIndex}{Conditions}{Events}\r\n <img id=""Line""/>",,,,CFBFA51A4AA0A8120DBC16BD8EA70A67
+<Node>Node {NodeIndex}</> {logs}\r\n{node text},,,,4ADF62EA4C4B8187EA026DB121CD6034
+Start,,,,D861A13F49726A95C1B1988227A3828E

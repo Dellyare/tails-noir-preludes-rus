@@ -1,7 +1,7 @@
-﻿source,translation,namespace,key
-X to pickup,"X, чтобы взять",,DC111F064DEDFF8B609E1590822B62B1
-X to pickup,"X, чтобы взять",,435657334562E82DFB93E1A5CB05194D
-Square button to pickup,"Кнопка ""квадрат"", чтобы взять",,479B1FD54224E70B051BE8A05778B779
-X to pickup,"X, чтобы взять",,ABBF3AFD4C636B190F46609B742FB12D
-E to pickup,"E, чтобы взять",,CD5F66F54FB6917A78D7C981127138A0
-E to pickup,"E, чтобы взять",,6B3B861E431DC7748A3CF49F1A051073
+﻿source,translation,status,namespace,key
+X to pickup,"X, чтобы взять",ok,,DC111F064DEDFF8B609E1590822B62B1
+X to pickup,"X, чтобы взять",ok,,435657334562E82DFB93E1A5CB05194D
+Square button to pickup,"Кнопка ""квадрат"", чтобы взять",ok,,479B1FD54224E70B051BE8A05778B779
+X to pickup,"X, чтобы взять",ok,,ABBF3AFD4C636B190F46609B742FB12D
+E to pickup,"E, чтобы взять",ok,,CD5F66F54FB6917A78D7C981127138A0
+E to pickup,"E, чтобы взять",ok,,6B3B861E431DC7748A3CF49F1A051073

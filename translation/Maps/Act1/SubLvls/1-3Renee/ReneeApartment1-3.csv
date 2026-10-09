@@ -1,7 +1,7 @@
-﻿source,translation,namespace,key
-Toggle Light,Включить/выключить свет,,70CCA8B0434E8E19A1CD8DAA2CA7C674
-Toggle Light,Включить/выключить свет,,C7BAC5AE46829ADC734792A1173CF91A
-Toggle Light,Включить/выключить свет,,F71F98034818A2438EA4DC8B30E5AB4B
-Toggle Light,Включить/выключить свет,,C3926E2A43AAA0B646E712A007795BD3
-Toggle Light,Включить/выключить свет,,501A257D4DFBA6AE927EE0B27EC739A3
-Toggle Light,Включить/выключить свет,,A2A2AB4F47821F939F766F9D00513B06
+﻿source,translation,status,namespace,key
+Toggle Light,Включить/выключить свет,ai,,70CCA8B0434E8E19A1CD8DAA2CA7C674
+Toggle Light,Включить/выключить свет,ai,,C7BAC5AE46829ADC734792A1173CF91A
+Toggle Light,Включить/выключить свет,ai,,F71F98034818A2438EA4DC8B30E5AB4B
+Toggle Light,Включить/выключить свет,ai,,C3926E2A43AAA0B646E712A007795BD3
+Toggle Light,Включить/выключить свет,ai,,501A257D4DFBA6AE927EE0B27EC739A3
+Toggle Light,Включить/выключить свет,ai,,A2A2AB4F47821F939F766F9D00513B06

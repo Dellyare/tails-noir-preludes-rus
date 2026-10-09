@@ -1,20 +1,20 @@
-﻿source,translation,namespace,key
-Feed the Lizard,Покормить ящерицу,,93B566324B4BC2D2219085B941CD148D
-Pack your things,Собрать вещи,,13ADA2B04126D119006DE68F417057F6
-Mirror,Зеркало,,222A02D0460A5AD9CF96E6939DB534B0
-"Ok, there's no getting away from it now. You can do this. ","Так, от этого уже не уйти. Ты справишься.",,9F7A41E0409E8CA58ED28B9F989BF121
-Terminal,Терминал,,1784588A4733BF5857221EB949BF044F
-...Can't distract myself with work anymore. It's too late.,...Больше не получится отвлекаться на работу. Слишком поздно.,,4BC47CBA429F9AB6DF538AAE322BE3C1
-Kitchen Window,Кухонное окно,,5DA4825747B56252AB72F7926A940EA5
-I'll...miss this view.,Я... буду скучать по этому виду.,,5AA559F744C3A78D4796D0A8BBB41F8E
-Lukas,Лукас,,9318778E4889679B706E2C8B99C40F43
-You,Ты,,DC830C8F4654D6AAF8B47999676D5643
-Enter Greenhouse,В оранжерею,,E30D27DD49F941E404FC2F968C495F9C
-Enter Apartment,В квартиру,,894F4A5C45C66AA3CD269BAAB846A522
-Enter Kitchen,На кухню,,80932B7E4A1F0C875A396096EAAEA034
-Enter Greenhouse,В оранжерею,,82F6B978468FECEA8DFD48A3F6B68744
-Enter apartment,В квартиру,,6B6C370741767AECC6E750957225F039
-Enter office,В кабинет,,8181613A478FCAED5627509D2DAB2BA7
-I need to talk to Lukas first.,Сначала мне нужно поговорить с Лукасом.,,C4239F6E46C2032250E495ADAD894D3F
-Enter Bathroom,В ванную,,4ABACDFA407927A1598FB7A000883FB9
-Enter Apartment,В квартиру,,74C7A1144C46BB6B1DA20593AD5B5324
+﻿source,translation,status,namespace,key
+Feed the Lizard,Покормить ящерицу,ai,,93B566324B4BC2D2219085B941CD148D
+Pack your things,Собрать вещи,ai,,13ADA2B04126D119006DE68F417057F6
+Mirror,Зеркало,ok,,222A02D0460A5AD9CF96E6939DB534B0
+"Ok, there's no getting away from it now. You can do this. ","Так, от этого уже не уйти. Ты справишься.",ai,,9F7A41E0409E8CA58ED28B9F989BF121
+Terminal,Терминал,ok,,1784588A4733BF5857221EB949BF044F
+...Can't distract myself with work anymore. It's too late.,...Больше не получится отвлекаться на работу. Слишком поздно.,ai,,4BC47CBA429F9AB6DF538AAE322BE3C1
+Kitchen Window,Кухонное окно,ai,,5DA4825747B56252AB72F7926A940EA5
+I'll...miss this view.,Я... буду скучать по этому виду.,ai,,5AA559F744C3A78D4796D0A8BBB41F8E
+Lukas,Лукас,ai,,9318778E4889679B706E2C8B99C40F43
+You,Ты,ai,,DC830C8F4654D6AAF8B47999676D5643
+Enter Greenhouse,В оранжерею,ai,,E30D27DD49F941E404FC2F968C495F9C
+Enter Apartment,В квартиру,ai,,894F4A5C45C66AA3CD269BAAB846A522
+Enter Kitchen,На кухню,ai,,80932B7E4A1F0C875A396096EAAEA034
+Enter Greenhouse,В оранжерею,ai,,82F6B978468FECEA8DFD48A3F6B68744
+Enter apartment,В квартиру,ai,,6B6C370741767AECC6E750957225F039
+Enter office,В кабинет,ai,,8181613A478FCAED5627509D2DAB2BA7
+I need to talk to Lukas first.,Сначала мне нужно поговорить с Лукасом.,ai,,C4239F6E46C2032250E495ADAD894D3F
+Enter Bathroom,В ванную,ai,,4ABACDFA407927A1598FB7A000883FB9
+Enter Apartment,В квартиру,ai,,74C7A1144C46BB6B1DA20593AD5B5324

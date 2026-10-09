@@ -83,3 +83,12 @@ test('texture codec: BGRA is lossless, DXT1/DXT5 re-encode stays close; png roun
         assert.ok(Math.sqrt(err / back.length) < 8, `${name}: rmse ${Math.sqrt(err / back.length).toFixed(2)}`);
     }
 });
+
+test('batch check keeps placeholders, tags, edge whitespace and CRLF', async () => {
+    const { check } = await import('./batch.mjs');
+    assert.equal(check(' Time {Hours} h ', 'Время {Hours} ч'), ' Время {Hours} ч ');
+    assert.equal(check('a\r\nb', 'а\nб'), 'а\r\nб');
+    assert.throws(() => check('Press <img id="A"/>', 'Нажмите'), /теги/);
+    assert.throws(() => check('{Act} {Num}', '{Акт} {Num}'), /плейсхолдеры/);
+    assert.throws(() => check('Yes', '  '), /пустой/);
+});

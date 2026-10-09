@@ -1,12 +1,12 @@
-﻿source,translation,namespace,key
-solid state,твёрдое состояние,,4B7BDB7F44F06A8614023DA42DB5C287
-ARTIFACT STATE,СОСТОЯНИЕ АРТЕФАКТА,,C192132D4321734F5F11A996EBA871AD
-dry state,сухое состояние,,D70B92C4466BD932BF52FC87F66BBE43
-relaxed state,спокойное состояние,,9960484444E18E815F2422B6AE1E1BAC
-I have to modify the artifact into,Мне нужно перевести артефакт в,,A4C44A0A4ECF08C292DF849C76AAEA54
-wet state,влажное состояние,,AD5880E04035E02ED8342FB901F4415C
-dry state,сухое состояние,,ABD7E9984D6DDAADE74949BEE7BCA2D0
-solid state,твёрдое состояние,,EC17385945405F5BE223A6A58AE5DC06
-liquid state,жидкое состояние,,2BECE10D470D9273C5B2EAB6668C9C48
-relaxed state,спокойное состояние,,1225CAF547D5300AD69858829E6BA598
-agitated state,возбуждённое состояние,,63095AF14633483DC1D70F929C50DA63
+﻿source,translation,status,namespace,key
+solid state,твёрдое состояние,ai,,4B7BDB7F44F06A8614023DA42DB5C287
+ARTIFACT STATE,СОСТОЯНИЕ АРТЕФАКТА,ai,,C192132D4321734F5F11A996EBA871AD
+dry state,сухое состояние,ai,,D70B92C4466BD932BF52FC87F66BBE43
+relaxed state,спокойное состояние,ai,,9960484444E18E815F2422B6AE1E1BAC
+I have to modify the artifact into,Мне нужно перевести артефакт в,ai,,A4C44A0A4ECF08C292DF849C76AAEA54
+wet state,влажное состояние,ai,,AD5880E04035E02ED8342FB901F4415C
+dry state,сухое состояние,ai,,ABD7E9984D6DDAADE74949BEE7BCA2D0
+solid state,твёрдое состояние,ai,,EC17385945405F5BE223A6A58AE5DC06
+liquid state,жидкое состояние,ai,,2BECE10D470D9273C5B2EAB6668C9C48
+relaxed state,спокойное состояние,ai,,1225CAF547D5300AD69858829E6BA598
+agitated state,возбуждённое состояние,ai,,63095AF14633483DC1D70F929C50DA63

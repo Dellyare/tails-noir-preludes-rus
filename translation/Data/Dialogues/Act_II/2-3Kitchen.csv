@@ -1,24 +1,24 @@
-﻿source,translation,namespace,key
-[The counter is looking neat and tidy. No trace of prior cooking or dirty plates.],,,FEF834AC437D588D3ACAE9AB583627D0
-...He always says he's going to do the dishes.,,,6181D5ED4FE8DEA1F65EB4B83EFD0772
-Much better. [Leave],,,C55DF3BC4D48AF5B09D353B6D9F725E3
-Shame it'll be covered in dishes in a few minutes.,,,D005AC6D439B28AE4ED06F8B30E9D193
-[You look down at your hands and spot a stain of dishwater on your sleeve.],,,BC4FE2C943986339C7B5D29F79DEA446
-Guess there's always next time. [Leave],,,BEFA552B4B4EAF04992C498F227770BF
-Great. [Leave],,,8B4E642149A7885929211EBF4FCE354A
-[Food's on the table. Counter's still a mess.],,,085DDEEE4D6A436038E040B948280D23
-[Look over at the dining table],,,416928FF452FC5B2A63FD082531D1E7B
-...I can't just leave it like this.,,,5018F296457F0B7AB319E0BABD32E790
-"Sigh. Come on, Renee. This'll be quick.",,,ACCC0BD34A7DA6C787DF8E953A6F9FCB
-"[Lukas is impatiently fiddling with the cutlery. He just got home from work, and now he's waiting for you to join him.]",,,3E7E8E2D4171551CDDFEDEB65A8E1DB9
-[Call out to him] I'll be right there. Someone just needs to clean up this mess first.,,,5B0340CA4130402CD3D6FE82BA3A5FA4
-Dinner's ready. No point dragging it out.,,,6E22B2EC416B7E93EA3808BD141FC404
-"I swear, that man...",,,0BA8425E4B1DC5D8F7FED796AD20F5BC
-[Call out to him] You're cleaning up after dinner. You got that?,,,7D28FC434994E6DD32934892C6CA8304
-[You glance over at the dining table. You're not wrong.],,,C33042A84E045D40E5D87EA74A7CD616
-...He better actually do the dishes this time around.,,,CBC228F749696F2205AD629F58A3A6D3
-[Sigh and leave],,,7F2E368640CF0E98A0EC8FA3E752A8E1
-"Sure, sure - come on, Renee. Let's eat. I'm starving!",,,3D446E824740F3B10F5E0F80A1695612
-[Say nothing and get started],,,5673839F49C2A7E1A58992A061ABD929
-Just a second. I'll be right there.,,,43F2D671464284F7E0958F839436F3DB
-[Mutter] I bet you are.,,,CE843E8145B549212648C284F4DFE982
+﻿source,translation,status,namespace,key
+[The counter is looking neat and tidy. No trace of prior cooking or dirty plates.],,,,FEF834AC437D588D3ACAE9AB583627D0
+...He always says he's going to do the dishes.,,,,6181D5ED4FE8DEA1F65EB4B83EFD0772
+Much better. [Leave],,,,C55DF3BC4D48AF5B09D353B6D9F725E3
+Shame it'll be covered in dishes in a few minutes.,,,,D005AC6D439B28AE4ED06F8B30E9D193
+[You look down at your hands and spot a stain of dishwater on your sleeve.],,,,BC4FE2C943986339C7B5D29F79DEA446
+Guess there's always next time. [Leave],,,,BEFA552B4B4EAF04992C498F227770BF
+Great. [Leave],,,,8B4E642149A7885929211EBF4FCE354A
+[Food's on the table. Counter's still a mess.],,,,085DDEEE4D6A436038E040B948280D23
+[Look over at the dining table],,,,416928FF452FC5B2A63FD082531D1E7B
+...I can't just leave it like this.,,,,5018F296457F0B7AB319E0BABD32E790
+"Sigh. Come on, Renee. This'll be quick.",,,,ACCC0BD34A7DA6C787DF8E953A6F9FCB
+"[Lukas is impatiently fiddling with the cutlery. He just got home from work, and now he's waiting for you to join him.]",,,,3E7E8E2D4171551CDDFEDEB65A8E1DB9
+[Call out to him] I'll be right there. Someone just needs to clean up this mess first.,,,,5B0340CA4130402CD3D6FE82BA3A5FA4
+Dinner's ready. No point dragging it out.,,,,6E22B2EC416B7E93EA3808BD141FC404
+"I swear, that man...",,,,0BA8425E4B1DC5D8F7FED796AD20F5BC
+[Call out to him] You're cleaning up after dinner. You got that?,,,,7D28FC434994E6DD32934892C6CA8304
+[You glance over at the dining table. You're not wrong.],,,,C33042A84E045D40E5D87EA74A7CD616
+...He better actually do the dishes this time around.,,,,CBC228F749696F2205AD629F58A3A6D3
+[Sigh and leave],,,,7F2E368640CF0E98A0EC8FA3E752A8E1
+"Sure, sure - come on, Renee. Let's eat. I'm starving!",,,,3D446E824740F3B10F5E0F80A1695612
+[Say nothing and get started],,,,5673839F49C2A7E1A58992A061ABD929
+Just a second. I'll be right there.,,,,43F2D671464284F7E0958F839436F3DB
+[Mutter] I bet you are.,,,,CE843E8145B549212648C284F4DFE982

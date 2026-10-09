@@ -1,6 +1,6 @@
-﻿source,translation,namespace,key
-BACK,НАЗАД,,00B1C8EC49649F0CD6A846BA8B5DB02C
-LOAD,ЗАГРУЗИТЬ,,D6AE6A6B487FE928525BDD9B4CCCBA92
-SAVE,СОХРАНИТЬ,,384A2301431B4643A6CE7293EA833420
-You don't have any saves yet,У вас пока нет сохранений,,9B9F81C84194E018FB21D2B15E1078F4
-You don't have any saves yet,У вас пока нет сохранений,,0EFB0FC24E24186DFB98CE96FEAC62F9
+﻿source,translation,status,namespace,key
+BACK,НАЗАД,ok,,00B1C8EC49649F0CD6A846BA8B5DB02C
+LOAD,ЗАГРУЗИТЬ,ai,,D6AE6A6B487FE928525BDD9B4CCCBA92
+SAVE,СОХРАНИТЬ,ai,,384A2301431B4643A6CE7293EA833420
+You don't have any saves yet,У вас пока нет сохранений,ai,,9B9F81C84194E018FB21D2B15E1078F4
+You don't have any saves yet,У вас пока нет сохранений,ai,,0EFB0FC24E24186DFB98CE96FEAC62F9

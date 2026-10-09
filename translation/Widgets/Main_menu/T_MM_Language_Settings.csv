@@ -1,6 +1,6 @@
-﻿source,translation,namespace,key
-Secondary Language,Второй язык,,819A6660485E7E51A5440A932817F2A5
-Language switch control,Функция смены языка,,AEFCE02643E56A648F406DB7D5FB058F
-Language,Первый язык,,427F5A6147A5E42D272E70AF4BE7B60D
-"At any time during the game, you can switch between the primary language and the secondary language.",В любой момент игры можно переключаться между основным и дополнительным языком.,,D51E1A934B609E54B5A9A68EA78139DA
-L,,,617D7DD741178FB40A26DD8D4AD21FDE
+﻿source,translation,status,namespace,key
+Secondary Language,Второй язык,ok,,819A6660485E7E51A5440A932817F2A5
+Language switch control,Функция смены языка,ok,,AEFCE02643E56A648F406DB7D5FB058F
+Language,Первый язык,ok,,427F5A6147A5E42D272E70AF4BE7B60D
+"At any time during the game, you can switch between the primary language and the secondary language.",В любой момент игры можно переключаться между основным и дополнительным языком.,ai,,D51E1A934B609E54B5A9A68EA78139DA
+L,,,,617D7DD741178FB40A26DD8D4AD21FDE

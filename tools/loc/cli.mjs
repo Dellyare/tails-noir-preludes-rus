@@ -20,7 +20,8 @@ const FURY_TABLE = 'BackboneStories/Plugins/FuryPlugin/Content/Localization';
 const BUILD = path.join(ROOT, 'build');
 const UNPAK = path.join(ROOT, 'tools/unpak');
 const PAK_NAME = 'TailsRUS_P.pak';
-const HEADER = ['source', 'translation', 'namespace', 'key'];
+// status: ai = machine translation awaiting review, ok = reviewed by a human
+const HEADER = ['source', 'translation', 'status', 'namespace', 'key'];
 
 // Localization targets registered by the game (DefaultEngine.ini LocalizationPaths)
 const TARGETS = ['Act1', 'Act2', 'Act3', 'Act4', 'Act5', 'Widgets', 'DataTables', 'StringTables'];
@@ -73,13 +74,14 @@ function extract() {
     const files = new Map(), placed = new Set();
     let changedSource = 0;
     for (const t of texts) {
-        const row = { source: t.source, translation: '', namespace: t.ns, key: t.key };
+        const row = { source: t.source, translation: '', status: '', namespace: t.ns, key: t.key };
         if (placed.has(id(row))) continue;
         placed.add(id(row));
         const prev = old.get(id(row));
         if (prev) {
             row.translation = prev.translation;
-            if (prev.source !== row.source) { changedSource++; console.warn(`! исходник изменился: ${t.asset} ${t.key}`); }
+            row.status = prev.status;
+            if (prev.source !== row.source) { changedSource++; row.status = 'ai'; console.warn(`! исходник изменился: ${t.asset} ${t.key}`); }
             old.delete(id(row));
         }
         const file = csvPathFor(t.asset);
@@ -214,14 +216,14 @@ function group(file) {
 function status() {
     const stats = new Map();
     for (const f of walk(TRANSLATION).filter(f => f.endsWith('.csv'))) {
-        const s = stats.get(group(f)) ?? { done: 0, total: 0 };
-        for (const r of readCsv(f)) { s.total++; if (r.translation) s.done++; }
+        const s = stats.get(group(f)) ?? { done: 0, ok: 0, total: 0 };
+        for (const r of readCsv(f)) { s.total++; if (r.translation) s.done++; if (r.translation && r.status === 'ok') s.ok++; }
         stats.set(group(f), s);
     }
-    const all = [...stats.values()].reduce((a, s) => ({ done: a.done + s.done, total: a.total + s.total }), { done: 0, total: 0 });
-    console.log('| Раздел | Переведено | Всего | % |\n|---|---:|---:|---:|');
+    const all = [...stats.values()].reduce((a, s) => ({ done: a.done + s.done, ok: a.ok + s.ok, total: a.total + s.total }), { done: 0, ok: 0, total: 0 });
+    console.log('| Раздел | Переведено | Проверено | Всего | % |\n|---|---:|---:|---:|---:|');
     for (const [g, s] of [...stats].sort(([a], [b]) => a.localeCompare(b)).concat([['**Всего**', all]]))
-        console.log(`| ${g} | ${s.done} | ${s.total} | ${Math.floor(100 * s.done / s.total)}% |`);
+        console.log(`| ${g} | ${s.done} | ${s.ok} | ${s.total} | ${Math.floor(100 * s.done / s.total)}% |`);
 }
 
 const [cmd, ...args] = process.argv.slice(2);

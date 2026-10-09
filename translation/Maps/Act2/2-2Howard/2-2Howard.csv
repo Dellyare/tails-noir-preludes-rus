@@ -1,35 +1,35 @@
-﻿source,translation,namespace,key
-"Come on, man. Just let it play! You can put on a new one later!","Да ладно, чувак. Дай ей доиграть! Новую поставишь потом!",,C0E471E24AD32A39D6906483CB988DD2
-Record Player,Проигрыватель,,A220AD084B35B9BF90E408926B4DEC02
-Freja,Фрея,,75DAB4C64871C018E8E4048DC806A79E
-Record Player,Проигрыватель,,3D5FA2F545235C4C010ACC8D098D281C
-Entrance,Вход,,C8E1A361420AB2067E91B7B9C75E0831
-The echo is a lot worse here when it's this empty. Kinda want to shout something.,"Когда тут так пусто, эхо гораздо сильнее. Так и хочется что-нибудь крикнуть.",,9BB37945413B192D876861945493E781
-...Hello?,...Эй?,,4E8CC5CA4407B3D2F3644FA81E918405
-Hello!,Эй!,,79741947427CAFBE61B8A0B81213AC38
-Anyone want to flirt?!,Кто хочет пофлиртовать?!,,98BD915B4C031374AB87C9A324DBAC1D
-Fuck the Apes!,Нахрен Обезьян!,,14D7D8814E220F01AD609D91571FD55D
-Dicks! Penis!,Члены! Пенис!,,81D8B8AD48EFD18631763A9D4CA28C11
-"...That's probably enough, Howard.","...Пожалуй, хватит, Говард.",,251E3D3843DD9E1A59A11B89D8E7427E
-Statue,Статуя,,3D198779450F2B9F46DA1CBF4057D2DA
-You look a lot spookier when it's dark. No offense.,В темноте ты выглядишь куда жутче. Без обид.,,4D55E2674987057E179EED8B68B93337
-Notice Board,Доска объявлений,,33903C9943C816E1FD2037989DFE904F
-"This one's supposed to be only for faculty announcement. Tough luck, Thaddeus Rock.","Эта вообще-то только для объявлений факультета. Ничего не поделаешь, Таддеус Рок.",,99B4FC6D4603357CB44A02BF59BF94DD
-"""Selling all my books. I'm done. Grab what you need from 205 and leave whatever money you can. Peace.""",«Продаю все свои книги. С меня хватит. Берите что нужно в 205-й и оставляйте сколько сможете. Мир».,,0E5E39EB4046558F9BB913BA1678ECAA
-"""Dance classes starting next week, talk to Piotr. Move it, people.""","«Танцевальные занятия начинаются на следующей неделе, обращайтесь к Петру. Шевелитесь, народ».",,12A747E1490FE638180E72841293C8DC
-"""Locker rooms B1 is currently not for public usage until fully sanitized. Thank you for your cooperation.""",«Раздевалка B1 закрыта для общего пользования до полной санобработки. Спасибо за понимание».,,85C14A5E4BA886986BE2159541F72AF9
-"""Party in locker room B1 this Friday. Bring your own drinks.""",«Вечеринка в раздевалке B1 в эту пятницу. Выпивку приносите свою».,,469410D048A7F22F113F659A50C89DFB
-"""Things are going to be okay."" Huh. Thanks, note.","«Всё будет хорошо». Хм. Спасибо, записка.",,974931B543E7BBC3D3B4A187BEBD7A15
-Room 303,Комната 303,,0EB752BB4D3B042618211896E01113F6
-Couldn't ask for better dorm neighbours than Freja and Liv.,"Лучших соседей по общаге, чем Фрея и Лив, не найти.",,D56707DC4D84854FA35496B3FD907DAC
-Room 302,Комната 302,,A81150684FE7F2B80A2594A8AEFE767A
-I've heard Niles keeps his room squeaky clean. That's probably why he doesn't let me in there.,"Говорят, у Найлса в комнате идеальная чистота. Наверное, поэтому он меня и не пускает.",,1CAB70D1432FB8281B189184FE8FEF8F
-Room 301,Комната 301,,82AECBF04A9A407130791186FF2506C0
-"Felix said he'd stay with his family over the weekend. Him and the majority of the dorm, I guess.","Феликс сказал, что проведёт выходные с семьёй. Он и почти вся общага, видимо.",,7DCF998E4839D68287759EA37FBC149A
-Larry,Ларри,,5F7036844E99E450744C49A10440B2FD
-Niles,Найлс,,84E2ECF241A2D5AC7912619E403FFCA5
-Enter Hallway,В коридор,,81006C044BD77FCD79B00C9810F3EA0A
-Enter Foyer,В фойе,,0E336E4245DDE8F4BA168988883A1D86
-Enter Room,В комнату,,7B7E15B3450CCECAD4FC9AB7B2402715
-Enter Hallway,В коридор,,77C24C2C4C424EBB5F8FE58E777590A7
-Wisconsin,Висконсин,,FA0CF7114FD7C7D6BF3D27B737627A46
+﻿source,translation,status,namespace,key
+"Come on, man. Just let it play! You can put on a new one later!","Да ладно, чувак. Дай ей доиграть! Новую поставишь потом!",ai,,C0E471E24AD32A39D6906483CB988DD2
+Record Player,Проигрыватель,ai,,A220AD084B35B9BF90E408926B4DEC02
+Freja,Фрея,ai,,75DAB4C64871C018E8E4048DC806A79E
+Record Player,Проигрыватель,ai,,3D5FA2F545235C4C010ACC8D098D281C
+Entrance,Вход,ai,,C8E1A361420AB2067E91B7B9C75E0831
+The echo is a lot worse here when it's this empty. Kinda want to shout something.,"Когда тут так пусто, эхо гораздо сильнее. Так и хочется что-нибудь крикнуть.",ai,,9BB37945413B192D876861945493E781
+...Hello?,...Эй?,ai,,4E8CC5CA4407B3D2F3644FA81E918405
+Hello!,Эй!,ai,,79741947427CAFBE61B8A0B81213AC38
+Anyone want to flirt?!,Кто хочет пофлиртовать?!,ai,,98BD915B4C031374AB87C9A324DBAC1D
+Fuck the Apes!,Нахрен Обезьян!,ai,,14D7D8814E220F01AD609D91571FD55D
+Dicks! Penis!,Члены! Пенис!,ai,,81D8B8AD48EFD18631763A9D4CA28C11
+"...That's probably enough, Howard.","...Пожалуй, хватит, Говард.",ai,,251E3D3843DD9E1A59A11B89D8E7427E
+Statue,Статуя,ai,,3D198779450F2B9F46DA1CBF4057D2DA
+You look a lot spookier when it's dark. No offense.,В темноте ты выглядишь куда жутче. Без обид.,ai,,4D55E2674987057E179EED8B68B93337
+Notice Board,Доска объявлений,ai,,33903C9943C816E1FD2037989DFE904F
+"This one's supposed to be only for faculty announcement. Tough luck, Thaddeus Rock.","Эта вообще-то только для объявлений факультета. Ничего не поделаешь, Таддеус Рок.",ai,,99B4FC6D4603357CB44A02BF59BF94DD
+"""Selling all my books. I'm done. Grab what you need from 205 and leave whatever money you can. Peace.""",«Продаю все свои книги. С меня хватит. Берите что нужно в 205-й и оставляйте сколько сможете. Мир».,ai,,0E5E39EB4046558F9BB913BA1678ECAA
+"""Dance classes starting next week, talk to Piotr. Move it, people.""","«Танцевальные занятия начинаются на следующей неделе, обращайтесь к Петру. Шевелитесь, народ».",ai,,12A747E1490FE638180E72841293C8DC
+"""Locker rooms B1 is currently not for public usage until fully sanitized. Thank you for your cooperation.""",«Раздевалка B1 закрыта для общего пользования до полной санобработки. Спасибо за понимание».,ai,,85C14A5E4BA886986BE2159541F72AF9
+"""Party in locker room B1 this Friday. Bring your own drinks.""",«Вечеринка в раздевалке B1 в эту пятницу. Выпивку приносите свою».,ai,,469410D048A7F22F113F659A50C89DFB
+"""Things are going to be okay."" Huh. Thanks, note.","«Всё будет хорошо». Хм. Спасибо, записка.",ai,,974931B543E7BBC3D3B4A187BEBD7A15
+Room 303,Комната 303,ai,,0EB752BB4D3B042618211896E01113F6
+Couldn't ask for better dorm neighbours than Freja and Liv.,"Лучших соседей по общаге, чем Фрея и Лив, не найти.",ai,,D56707DC4D84854FA35496B3FD907DAC
+Room 302,Комната 302,ai,,A81150684FE7F2B80A2594A8AEFE767A
+I've heard Niles keeps his room squeaky clean. That's probably why he doesn't let me in there.,"Говорят, у Найлса в комнате идеальная чистота. Наверное, поэтому он меня и не пускает.",ai,,1CAB70D1432FB8281B189184FE8FEF8F
+Room 301,Комната 301,ai,,82AECBF04A9A407130791186FF2506C0
+"Felix said he'd stay with his family over the weekend. Him and the majority of the dorm, I guess.","Феликс сказал, что проведёт выходные с семьёй. Он и почти вся общага, видимо.",ai,,7DCF998E4839D68287759EA37FBC149A
+Larry,Ларри,ok,,5F7036844E99E450744C49A10440B2FD
+Niles,Найлс,ai,,84E2ECF241A2D5AC7912619E403FFCA5
+Enter Hallway,В коридор,ai,,81006C044BD77FCD79B00C9810F3EA0A
+Enter Foyer,В фойе,ai,,0E336E4245DDE8F4BA168988883A1D86
+Enter Room,В комнату,ai,,7B7E15B3450CCECAD4FC9AB7B2402715
+Enter Hallway,В коридор,ai,,77C24C2C4C424EBB5F8FE58E777590A7
+Wisconsin,Висконсин,ai,,FA0CF7114FD7C7D6BF3D27B737627A46

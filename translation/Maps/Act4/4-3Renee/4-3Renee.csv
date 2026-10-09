@@ -1,21 +1,21 @@
-﻿source,translation,namespace,key
-"The boxes ",Коробки,,39B0517D4CF9FB0E431B9683171909BD
-"Alright, let's get you out of boxes and onto shelves...","Так, давайте-ка из коробок на полки...",,EF712667494F163639702EA32CFE19D2
-The unpacked boxes,Неразобранные коробки,,F48A38E5441CDC55A27437AC1BFED315
-"I don't even know what to do with all this space. Feels empty. In a good way, I guess.","Даже не знаю, что делать со всем этим пространством. Пусто. Но, наверное, в хорошем смысле.",,A01987FF4BB3C2DDF7A1A18497E49F8B
-Typewriter,Печатная машинка,,D1F1A9364555D67B3F153DBBC0A9C7F8
-Same as always - I can't work in this mess. Should unpack first.,Как всегда — в таком бардаке я работать не могу. Сначала надо разобрать вещи.,,D51BB97345273CF9F740369B1326F534
-Open window,Открыть окно,,EA0EEB9E4477AFBAA35A43B732BC7B8F
-Bags,Сумки,,8FD89FA14E3CD32141167BA186E21C8E
-We got these bags for hiking. Hadn't used them until now.,Мы купили эти сумки для походов. До сих пор ни разу ими не пользовались.,,47AF6CD6431F4AA28C1D919F3AF9D09E
-Kitchen,Кухня,,AD6B6FE849B87F2553E0B5B1DB4D0D4A
-...Kitchen's definitely smaller.,...Кухня определённо меньше.,,04748E1E4EE65D056AEAFA8CF8DE05B5
-"As long as I can brew tea, I suppose.","Главное, чтобы можно было заварить чай.",,B438DEC3460367FA0D4C85A095489D70
-Window,Окно,,287A2ED6466B6C79836219A20A31B0C7
-The view's the whole reason I got this place.,Ради этого вида я и сняла эту квартиру.,,4A027E22408821096AB966B88D6266CA
-"...And the price, I suppose.","...Ну и из-за цены, пожалуй.",,0FD2E5F5466730EDDE5BC585840E0B1F
-Let Lizzie out,Выпустить Лиззи,,315DA73941D9A611D5BBF1A63C8CE809
-Toggle Light,Включить/выключить свет,,4489D8C64A13C098EBBEEBB554CF0156
-Typewriter,Печатная машинка,,FB46A2164744C709A375399E060DD766
-Not used to this. It's so...quiet. So empty.,Непривычно. Так... тихо. Так пусто.,,18CF085740E5E2FD0122E385705B87CA
-"All this space, and just me. Me and my things. Huh.","Столько места, и только я. Я и мои вещи. Хм.",,E6B2DD2644D98DFC462BC1AF68507B4B
+﻿source,translation,status,namespace,key
+"The boxes ",Коробки,ai,,39B0517D4CF9FB0E431B9683171909BD
+"Alright, let's get you out of boxes and onto shelves...","Так, давайте-ка из коробок на полки...",ai,,EF712667494F163639702EA32CFE19D2
+The unpacked boxes,Неразобранные коробки,ai,,F48A38E5441CDC55A27437AC1BFED315
+"I don't even know what to do with all this space. Feels empty. In a good way, I guess.","Даже не знаю, что делать со всем этим пространством. Пусто. Но, наверное, в хорошем смысле.",ai,,A01987FF4BB3C2DDF7A1A18497E49F8B
+Typewriter,Печатная машинка,ai,,D1F1A9364555D67B3F153DBBC0A9C7F8
+Same as always - I can't work in this mess. Should unpack first.,Как всегда — в таком бардаке я работать не могу. Сначала надо разобрать вещи.,ai,,D51BB97345273CF9F740369B1326F534
+Open window,Открыть окно,ai,,EA0EEB9E4477AFBAA35A43B732BC7B8F
+Bags,Сумки,ai,,8FD89FA14E3CD32141167BA186E21C8E
+We got these bags for hiking. Hadn't used them until now.,Мы купили эти сумки для походов. До сих пор ни разу ими не пользовались.,ai,,47AF6CD6431F4AA28C1D919F3AF9D09E
+Kitchen,Кухня,ok,,AD6B6FE849B87F2553E0B5B1DB4D0D4A
+...Kitchen's definitely smaller.,...Кухня определённо меньше.,ai,,04748E1E4EE65D056AEAFA8CF8DE05B5
+"As long as I can brew tea, I suppose.","Главное, чтобы можно было заварить чай.",ai,,B438DEC3460367FA0D4C85A095489D70
+Window,Окно,ok,,287A2ED6466B6C79836219A20A31B0C7
+The view's the whole reason I got this place.,Ради этого вида я и сняла эту квартиру.,ai,,4A027E22408821096AB966B88D6266CA
+"...And the price, I suppose.","...Ну и из-за цены, пожалуй.",ai,,0FD2E5F5466730EDDE5BC585840E0B1F
+Let Lizzie out,Выпустить Лиззи,ai,,315DA73941D9A611D5BBF1A63C8CE809
+Toggle Light,Включить/выключить свет,ai,,4489D8C64A13C098EBBEEBB554CF0156
+Typewriter,Печатная машинка,ai,,FB46A2164744C709A375399E060DD766
+Not used to this. It's so...quiet. So empty.,Непривычно. Так... тихо. Так пусто.,ai,,18CF085740E5E2FD0122E385705B87CA
+"All this space, and just me. Me and my things. Huh.","Столько места, и только я. Я и мои вещи. Хм.",ai,,E6B2DD2644D98DFC462BC1AF68507B4B

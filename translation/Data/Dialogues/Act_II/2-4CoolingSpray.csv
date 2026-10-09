@@ -1,6 +1,6 @@
-﻿source,translation,namespace,key
-"[A series of aluminium cans marked ""COOLANT."" Based on prior research, you know that spraying the sample with this will reset it to it's original state - wet, relaxed, and liquid.]",,,BCAA36A64EBBE8CF2D82FE891108E0DE
-[Use the cooling spray],,,29DFB4CE41868C3332770AA443DE115D
-[Do nothing],,,5197BA024E4ACCB5FD85A9B3747BFC86
-"[Your hands feel a sudden chill as a blast of cold air exits the container. The sample reacts almost immediately, returning to the state you found it in.]",,,4241318046BC4C5219FB7CACB8120F13
-[Leave],[Выйти],,3C00AAF3440A3EE1596F31B88C5D9BBD
+﻿source,translation,status,namespace,key
+"[A series of aluminium cans marked ""COOLANT."" Based on prior research, you know that spraying the sample with this will reset it to it's original state - wet, relaxed, and liquid.]",,,,BCAA36A64EBBE8CF2D82FE891108E0DE
+[Use the cooling spray],,,,29DFB4CE41868C3332770AA443DE115D
+[Do nothing],,,,5197BA024E4ACCB5FD85A9B3747BFC86
+"[Your hands feel a sudden chill as a blast of cold air exits the container. The sample reacts almost immediately, returning to the state you found it in.]",,,,4241318046BC4C5219FB7CACB8120F13
+[Leave],[Выйти],ok,,3C00AAF3440A3EE1596F31B88C5D9BBD

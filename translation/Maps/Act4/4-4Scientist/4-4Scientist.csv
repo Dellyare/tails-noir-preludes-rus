@@ -1,15 +1,15 @@
-﻿source,translation,namespace,key
-Should be careful. Most of what's in here hasn't been exposed to the elements for a very long time.,Надо быть осторожнее. Почти всё здесь очень долго не соприкасалось с внешней средой.,,98D3D9B54DE079847B4445B2D2DAD786
-"...Well, whatever was in there is definitely ruined now.","...Что ж, что бы там ни было, теперь оно точно испорчено.",,9E7A15C940C4113B20B6C8A0CFCBD526
-"Journal ",Журнал,,62EFCA264A545D1863761DAA9C039601
-Hope I sounded convincing enough.,"Надеюсь, я звучал достаточно убедительно.",,14C3CF0544ADEA2A8E27AAA1B06C0E6A
-Jorge,Джордж,,8906C7CE401BE0E56ACD1C85FBEB7D26
-Journal,Журнал,,C0AC0BBA44BADC2B04B4E4B6CB34E33D
-Locker,Шкафчик,,E143A89D4380BE55D2D057A6A1A24018
-Little box,Коробочка,,744BB30743353680844D5F99705FBA68
-Enter Dig,В раскоп,,452D90BD46280A388260DA827903720C
-Exit Dig,Покинуть раскоп,,5CC73E7441C415A88D75288AF5F63E4D
-Exit Tent,Выйти из палатки,,45857ECF4C39943A2500A8AB41A3A01B
-I should make sure I finish today's journal entry before he gets here. Don't have much time.,Надо успеть закончить сегодняшнюю запись в журнале до его приезда. Времени мало.,,749FEEF0480C62D0BF72AC983097BE90
-Enter Tent,В палатку,,26D1697744BEA652D7574AAC44518B5D
-The Visitor,Гость,,27645D854E5387C09BF71389C234A2EC
+﻿source,translation,status,namespace,key
+Should be careful. Most of what's in here hasn't been exposed to the elements for a very long time.,Надо быть осторожнее. Почти всё здесь очень долго не соприкасалось с внешней средой.,ai,,98D3D9B54DE079847B4445B2D2DAD786
+"...Well, whatever was in there is definitely ruined now.","...Что ж, что бы там ни было, теперь оно точно испорчено.",ai,,9E7A15C940C4113B20B6C8A0CFCBD526
+"Journal ",Журнал,ai,,62EFCA264A545D1863761DAA9C039601
+Hope I sounded convincing enough.,"Надеюсь, я звучал достаточно убедительно.",ai,,14C3CF0544ADEA2A8E27AAA1B06C0E6A
+Jorge,Джордж,ai,,8906C7CE401BE0E56ACD1C85FBEB7D26
+Journal,Журнал,ai,,C0AC0BBA44BADC2B04B4E4B6CB34E33D
+Locker,Шкафчик,ai,,E143A89D4380BE55D2D057A6A1A24018
+Little box,Коробочка,ai,,744BB30743353680844D5F99705FBA68
+Enter Dig,В раскоп,ai,,452D90BD46280A388260DA827903720C
+Exit Dig,Покинуть раскоп,ai,,5CC73E7441C415A88D75288AF5F63E4D
+Exit Tent,Выйти из палатки,ai,,45857ECF4C39943A2500A8AB41A3A01B
+I should make sure I finish today's journal entry before he gets here. Don't have much time.,Надо успеть закончить сегодняшнюю запись в журнале до его приезда. Времени мало.,ai,,749FEEF0480C62D0BF72AC983097BE90
+Enter Tent,В палатку,ai,,26D1697744BEA652D7574AAC44518B5D
+The Visitor,Гость,ai,,27645D854E5387C09BF71389C234A2EC

@@ -1,21 +1,21 @@
-﻿source,translation,namespace,key
-Carlo,Карло,,26274A554E3934FA587DA3B2B2ABC207
-"Couldn't...can't fucking finish the job, c-can you?","Не смогла... не можешь, мать твою, довести дело до конца, д-да?",,5BF9A051488C2CCDB7A300AF59464BEB
-This isn't over! I'll have your fucking head for this!,Это ещё не конец! Я тебе за это голову оторву!,,9B308F924B7961EFF93C358E233C047D
-I know you can hear me!!,"Я знаю, что ты меня слышишь!!",,D43EAEF64C188AC4DE8815AAF89A9B3E
-A-answer me!,О-ответь мне!,,4D0E36CE434C8FF818E9939BE76E99E9
-Clarissa!!,Кларисса!!,,EC70ADB647529E811D5F2CBB66EB68BC
-C-clar...Clarissa!,К-клар... Кларисса!,,59C894E64B1F7BF9FE8F8BAE7C6C76E3
-Hng...gruh...,Хнг... гх...,,DDD514B341649ADE1129FF86869DA69C
-Smoke,Дым,,89A7FD0C45FDCE5FE1D932A3299DED49
-Fireplace,Камин,,A9B4743E45D8AD7ED9D7C0B34E04B4A6
-...Can't stand the heat. I need some fresh air.,...Не выношу эту жару. Мне нужен свежий воздух.,,4C4244514F2F79967CE7A0946A601143
-Bookshelves,Книжные полки,,10E5B64E40EC2F7DCC5A7B970DD9B01D
-...These haven't been touched since Grandpa died.,"...К ним никто не прикасался с тех пор, как умер дедушка.",,4C484AFF4285E7B6153314A6EFA79485
-Mirror,Зеркало,,FE59C32C41496A1B13CB23B3F15B90DC
-It's just...me.,Теперь здесь только... я.,,BF64C25A4516E9E87C35CD88F5DF3E16
-Exit,Выход,,57D3AB23426AF2073FCEB99F0BC485FA
-...Shouldn't leave just yet. Clemence should be here soon.,...Пока рано уходить. Клеменс скоро будет здесь.,,7B3B109C4E46F31888C7AF851CE2AB4E
-Enter the office,В кабинет,,FA93DC504E8FFA28749A9290D59F80E8
-Exit to balcony,Выйти на балкон,,CCC18061474DBDD6AA808385808333E1
-Uncle,Дядя,,2D68F45A4617A1A873558A8473DDEB04
+﻿source,translation,status,namespace,key
+Carlo,Карло,ai,,26274A554E3934FA587DA3B2B2ABC207
+"Couldn't...can't fucking finish the job, c-can you?","Не смогла... не можешь, мать твою, довести дело до конца, д-да?",ai,,5BF9A051488C2CCDB7A300AF59464BEB
+This isn't over! I'll have your fucking head for this!,Это ещё не конец! Я тебе за это голову оторву!,ai,,9B308F924B7961EFF93C358E233C047D
+I know you can hear me!!,"Я знаю, что ты меня слышишь!!",ai,,D43EAEF64C188AC4DE8815AAF89A9B3E
+A-answer me!,О-ответь мне!,ai,,4D0E36CE434C8FF818E9939BE76E99E9
+Clarissa!!,Кларисса!!,ai,,EC70ADB647529E811D5F2CBB66EB68BC
+C-clar...Clarissa!,К-клар... Кларисса!,ai,,59C894E64B1F7BF9FE8F8BAE7C6C76E3
+Hng...gruh...,Хнг... гх...,ai,,DDD514B341649ADE1129FF86869DA69C
+Smoke,Дым,ai,,89A7FD0C45FDCE5FE1D932A3299DED49
+Fireplace,Камин,ai,,A9B4743E45D8AD7ED9D7C0B34E04B4A6
+...Can't stand the heat. I need some fresh air.,...Не выношу эту жару. Мне нужен свежий воздух.,ai,,4C4244514F2F79967CE7A0946A601143
+Bookshelves,Книжные полки,ai,,10E5B64E40EC2F7DCC5A7B970DD9B01D
+...These haven't been touched since Grandpa died.,"...К ним никто не прикасался с тех пор, как умер дедушка.",ai,,4C484AFF4285E7B6153314A6EFA79485
+Mirror,Зеркало,ok,,FE59C32C41496A1B13CB23B3F15B90DC
+It's just...me.,Теперь здесь только... я.,ai,,BF64C25A4516E9E87C35CD88F5DF3E16
+Exit,Выход,ok,,57D3AB23426AF2073FCEB99F0BC485FA
+...Shouldn't leave just yet. Clemence should be here soon.,...Пока рано уходить. Клеменс скоро будет здесь.,ai,,7B3B109C4E46F31888C7AF851CE2AB4E
+Enter the office,В кабинет,ai,,FA93DC504E8FFA28749A9290D59F80E8
+Exit to balcony,Выйти на балкон,ai,,CCC18061474DBDD6AA808385808333E1
+Uncle,Дядя,ai,,2D68F45A4617A1A873558A8473DDEB04

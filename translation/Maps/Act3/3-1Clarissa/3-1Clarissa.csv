@@ -1,36 +1,36 @@
-﻿source,translation,namespace,key
-Look Below,Посмотреть вниз,,1AC7A4BB445F75BE969496A77E4DDF3B
-View,Вид,,2807A86F42DC80F185BF829EF81E3E6D
-"You weren't wrong, uncle. That's one hell of a view. Just a shame it's such a depressing one.","Ты был прав, дядя. Вид и правда потрясающий. Жаль только, что такой удручающий.",,D620641544ABF1F1F56B46ABAA977E81
-Valves,Вентили,,F0479CE14055CCEC735510BEA8EA5461
-Rusted shut. Makes you wonder how structurally sound this place is...,"Намертво заржавело. Невольно задумаешься, насколько тут всё прочно...",,B7F7653340C53CEC1D30CD916C998F88
-Ocean,Океан,,63C99FCF41B00615511F32B397991D43
-This place doesn't smell like the waterfront in the City. It's...stale. Cold.,"Тут пахнет не так, как на набережной в Городе. Затхло... Холодно.",,9674C570441438E5B50B8D873077F9DD
-This can't be all there is.,"Не может быть, чтобы это было всё.",,D3F29B3E4C662762EFA3629E38E117F1
-"Not sure if that's the City in the distance, or just more of...this.","Не пойму, то ли вдали Город, то ли просто ещё больше... этого.",,EA4284D645CCC36D3F4A73BD179498EF
-Industrial District,Промышленный район,,D918817744C1BC98E6A8AE9A9F09AFC0
-"So much concrete, so little life.","Столько бетона, и так мало жизни.",,6C82ED814223E60015E132BE332AEF0E
-Trash,Мусор,,F1567C8543CF97D8507E2DA01CC1FF48
-"Empty bottles of whisky and stale, dried plastic. It's been here so long it doesn't even smell anymore.","Пустые бутылки из-под виски и засохший пластик. Лежит здесь так давно, что даже не пахнет.",,6CC93DD943AD17C9C0F0D38BE4E9BB5E
-Stairs,Лестница,,41C38B6A4ABE3D87600B23928293E014
-"Looks like it leads up to a bunch of apartments. Can't imagine this ever being a nice place to live, though.","Похоже, ведёт к каким-то квартирам. Хотя трудно представить, что здесь когда-то было приятно жить.",,09E9FA1E443CC4F8C11613B348046B4F
-Car,Машина,,7073B40545CEBEC109BC938403145643
-"The seats are stained - some type of stale, black liquid. Wonder if it always was that color.","Сиденья в пятнах — какая-то застарелая чёрная жидкость. Интересно, она всегда была такого цвета?",,440031D5428B287049FFC7AC48381AC4
-Tires,Шины,,F4009E434AE675025BBC51B9B3E235C9
-"Still in decent shape. Good to know that after we're all dead and gone, plastic and rubber will live forever.","Ещё в приличном состоянии. Приятно знать, что, когда мы все умрём и исчезнем, пластик и резина будут жить вечно.",,52973E6846A831FB1762159D5555D614
-Note,Записка,,F133EA354EFB7910559E3FA02FFB83E5
-"Looks like warnings, but the writing has long since faded.","Похоже на предупреждения, но надписи давно выцвели.",,CDE654CE4E1F7FF91E486B8B787C0E2B
-Pier,Пирс,,5B6855214A9C98F5E154678045C5599B
-...What's that smell?,...Что это за запах?,,2F1E19234BE3C142E0551898F2BE78CA
-Uncle,Дядя,,CB7EA0CB404BC75D9DBE28899BA8DA5A
-"...Careful how you step, Clarissa.The dam is opening.","...Смотри под ноги, Кларисса. Плотина открывается.",,238201A846C99BECAE35228F4B8B065A
-"...She couldn't have been older than fifteen, sixteen.","...Ей не могло быть больше пятнадцати, шестнадцати.",,7AD128B7429A9CE92CC65DB1BA9046ED
-...The...maybe Frankie knows...,"...Это... может, Фрэнки знает...",,86BB138D4F4ECB0005CCF59632EA3AB7
-"...Shepherd, I...it wasn't always like this...","...Пастырь, я... так было не всегда...",,C532D3A148BE654F22E69C9887CA00D1
-...Need to find a spot for her. Somewhere...,...Нужно найти для неё место. Где-нибудь...,,03357B0D4520B0FEB98B7F809ACC6B78
-"Yeah, I...I'm not turning back now.","Да, я... я теперь не поверну назад.",,FD1C8E70434E3B1C177D5CBF222A7788
-I know. I was just...looking around.,Знаю. Я просто... осматривалась.,,C3B062754FD0389B1CE74E9E3AF094F7
-Yeah. I'm coming.,Да. Иду.,,0F46006F48497D1B67E176A5F7153E0A
-Clarissa? Are you coming?,Кларисса? Ты идёшь?,,E7B6B4784C967E0E2B2137B310883750
-"This way, Clarissa.","Сюда, Кларисса.",,FB8ACA70464A8B8F80FC9DA4A3EDB7B7
-"No, Clarissa - down here. Just below us.","Нет, Кларисса, — вниз. Прямо под нами.",,84EA0A3147643E36B3691ABD93DDA3AD
+﻿source,translation,status,namespace,key
+Look Below,Посмотреть вниз,ai,,1AC7A4BB445F75BE969496A77E4DDF3B
+View,Вид,ai,,2807A86F42DC80F185BF829EF81E3E6D
+"You weren't wrong, uncle. That's one hell of a view. Just a shame it's such a depressing one.","Ты был прав, дядя. Вид и правда потрясающий. Жаль только, что такой удручающий.",ai,,D620641544ABF1F1F56B46ABAA977E81
+Valves,Вентили,ai,,F0479CE14055CCEC735510BEA8EA5461
+Rusted shut. Makes you wonder how structurally sound this place is...,"Намертво заржавело. Невольно задумаешься, насколько тут всё прочно...",ai,,B7F7653340C53CEC1D30CD916C998F88
+Ocean,Океан,ai,,63C99FCF41B00615511F32B397991D43
+This place doesn't smell like the waterfront in the City. It's...stale. Cold.,"Тут пахнет не так, как на набережной в Городе. Затхло... Холодно.",ai,,9674C570441438E5B50B8D873077F9DD
+This can't be all there is.,"Не может быть, чтобы это было всё.",ai,,D3F29B3E4C662762EFA3629E38E117F1
+"Not sure if that's the City in the distance, or just more of...this.","Не пойму, то ли вдали Город, то ли просто ещё больше... этого.",ai,,EA4284D645CCC36D3F4A73BD179498EF
+Industrial District,Промышленный район,ai,,D918817744C1BC98E6A8AE9A9F09AFC0
+"So much concrete, so little life.","Столько бетона, и так мало жизни.",ai,,6C82ED814223E60015E132BE332AEF0E
+Trash,Мусор,ai,,F1567C8543CF97D8507E2DA01CC1FF48
+"Empty bottles of whisky and stale, dried plastic. It's been here so long it doesn't even smell anymore.","Пустые бутылки из-под виски и засохший пластик. Лежит здесь так давно, что даже не пахнет.",ai,,6CC93DD943AD17C9C0F0D38BE4E9BB5E
+Stairs,Лестница,ok,,41C38B6A4ABE3D87600B23928293E014
+"Looks like it leads up to a bunch of apartments. Can't imagine this ever being a nice place to live, though.","Похоже, ведёт к каким-то квартирам. Хотя трудно представить, что здесь когда-то было приятно жить.",ai,,09E9FA1E443CC4F8C11613B348046B4F
+Car,Машина,ai,,7073B40545CEBEC109BC938403145643
+"The seats are stained - some type of stale, black liquid. Wonder if it always was that color.","Сиденья в пятнах — какая-то застарелая чёрная жидкость. Интересно, она всегда была такого цвета?",ai,,440031D5428B287049FFC7AC48381AC4
+Tires,Шины,ai,,F4009E434AE675025BBC51B9B3E235C9
+"Still in decent shape. Good to know that after we're all dead and gone, plastic and rubber will live forever.","Ещё в приличном состоянии. Приятно знать, что, когда мы все умрём и исчезнем, пластик и резина будут жить вечно.",ai,,52973E6846A831FB1762159D5555D614
+Note,Записка,ok,,F133EA354EFB7910559E3FA02FFB83E5
+"Looks like warnings, but the writing has long since faded.","Похоже на предупреждения, но надписи давно выцвели.",ai,,CDE654CE4E1F7FF91E486B8B787C0E2B
+Pier,Пирс,ai,,5B6855214A9C98F5E154678045C5599B
+...What's that smell?,...Что это за запах?,ai,,2F1E19234BE3C142E0551898F2BE78CA
+Uncle,Дядя,ai,,CB7EA0CB404BC75D9DBE28899BA8DA5A
+"...Careful how you step, Clarissa.The dam is opening.","...Смотри под ноги, Кларисса. Плотина открывается.",ai,,238201A846C99BECAE35228F4B8B065A
+"...She couldn't have been older than fifteen, sixteen.","...Ей не могло быть больше пятнадцати, шестнадцати.",ai,,7AD128B7429A9CE92CC65DB1BA9046ED
+...The...maybe Frankie knows...,"...Это... может, Фрэнки знает...",ai,,86BB138D4F4ECB0005CCF59632EA3AB7
+"...Shepherd, I...it wasn't always like this...","...Пастырь, я... так было не всегда...",ai,,C532D3A148BE654F22E69C9887CA00D1
+...Need to find a spot for her. Somewhere...,...Нужно найти для неё место. Где-нибудь...,ai,,03357B0D4520B0FEB98B7F809ACC6B78
+"Yeah, I...I'm not turning back now.","Да, я... я теперь не поверну назад.",ai,,FD1C8E70434E3B1C177D5CBF222A7788
+I know. I was just...looking around.,Знаю. Я просто... осматривалась.,ai,,C3B062754FD0389B1CE74E9E3AF094F7
+Yeah. I'm coming.,Да. Иду.,ai,,0F46006F48497D1B67E176A5F7153E0A
+Clarissa? Are you coming?,Кларисса? Ты идёшь?,ai,,E7B6B4784C967E0E2B2137B310883750
+"This way, Clarissa.","Сюда, Кларисса.",ai,,FB8ACA70464A8B8F80FC9DA4A3EDB7B7
+"No, Clarissa - down here. Just below us.","Нет, Кларисса, — вниз. Прямо под нами.",ai,,84EA0A3147643E36B3691ABD93DDA3AD

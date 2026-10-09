@@ -1,8 +1,8 @@
-﻿source,translation,namespace,key
-Take a photo,Сделать снимок,,5493BC93407FB07FB371FD9EFBC139F9
-Zoom,Масштаб,,7C478098405792501FDE64B534001A17
-Take a photo,Сделать снимок,,B9EE56774EACE81ED8AD62B98F087F9F
-Wind up film,Перемотать плёнку,,87E2FCF2407F4A44939434991C948521
-Wind up film,Перемотать плёнку,,968B74FC4F73CF079EFCA18D8B0DFEE4
-Close,Закрыть,,FCCABACC40B71201CA51BD8E7951E672
-"HighResShot filename={""filename""} 1 {CaptureX} {CaptureY} {CaptureW} {CaptureH}",,,63E4F6F14AACBCBCB52BE1B1FA54BD5D
+﻿source,translation,status,namespace,key
+Take a photo,Сделать снимок,ai,,5493BC93407FB07FB371FD9EFBC139F9
+Zoom,Масштаб,ai,,7C478098405792501FDE64B534001A17
+Take a photo,Сделать снимок,ai,,B9EE56774EACE81ED8AD62B98F087F9F
+Wind up film,Перемотать плёнку,ai,,87E2FCF2407F4A44939434991C948521
+Wind up film,Перемотать плёнку,ai,,968B74FC4F73CF079EFCA18D8B0DFEE4
+Close,Закрыть,ok,,FCCABACC40B71201CA51BD8E7951E672
+"HighResShot filename={""filename""} 1 {CaptureX} {CaptureY} {CaptureW} {CaptureH}",,,,63E4F6F14AACBCBCB52BE1B1FA54BD5D

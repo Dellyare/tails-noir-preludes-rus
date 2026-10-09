@@ -1,39 +1,39 @@
-﻿source,translation,namespace,key
-"...Oh, right. I was in the middle of organizing the shelves in here. Shouldn't take long.",...Ах да. Я же начала разбирать здесь полки. Это недолго.,,826F8C6A41CC8FCCB332588A21D05EE6
-Organize Shelf,Разобрать полку,,D2FCCCEC453B59625EC8B38754546897
-Organize Office Shelf,Разобрать полку в кабинете,,F019725B41CE1F37C7C85E9C6979A627
-Terrarium,Террариум,,CE4895B24A7683FDB7F6439FA3A6203C
-Kitchen Counter,Кухонная стойка,,D73561CB4682D0446652C396154BFF2B
-Couldn’t have dreamed of a nicer kitchen. Still don’t feel like cooking.,О кухне лучше и мечтать нельзя. А готовить всё равно не хочется.,,B8F8227E4F56C039455FD48AF8DB4BBA
-Look Outside,Выглянуть наружу,,B6D57B7449DA2160671E83B9A2BB35E1
-" I should wrap things as soon as I can. It's too beautiful outside to stay in the office all day."," Надо закончить побыстрее. На улице слишком красиво, чтобы сидеть в кабинете весь день.",,8F378E50441B7205E592FCA1CEA324C8
-Statues,Статуи,,644104F042B58D545CA2A38AED6FC938
-We got these for our wedding. Happy to have the Goddess on my side - Lukas can keep the Shepherd.,"Нам их подарили на свадьбу. Я рада, что Богиня на моей стороне — Пастыря пусть оставит себе Лукас.",,4A4FAB964A3A74119A16E9A1C86B28CC
-Lukas' Office,Кабинет Лукаса,,BB4D44C742E09CF716D682ABE00A6C16
-"Joke's on you, Lukas. I can't clean your office if you always keep the door locked.","Не выйдет, Лукас. Я не могу убрать у тебя в кабинете, если ты всегда держишь дверь запертой.",,D6E022A64B7A1E6B136F5492722A228F
-Fishbowl,Аквариум,,63CB46E14BE4E14101DF24894D54B210
-"Hey there, pretty.","Привет, красавица.",,EC34DA8C4C45264260AC50989FF3BABE
-Sofa Table,Столик у дивана,,7DE5E19B40739B825C72988C113F0D6D
-"Used to keep my typewriter here, back when we moved in. There’s still dents in the table.","Когда мы только въехали, здесь стояла моя печатная машинка. На столе до сих пор вмятины.",,2D81D13B4AB6D81A4C8179B0AFC58315
-Radio,Радио,,A03744F5462E4FF3C0B07AA7E403DC58
-"We should get some new records. And a record player, I suppose.","Надо купить новых пластинок. И проигрыватель, наверное.",,E71E725944D9855FA7D1E1872F436A51
-Toilet,Туалет,,6598966B44CF4B096392E98CAC0F985C
-Lid down. The universal sign for Lukas not being home yet.,"Крышка опущена. Верный знак, что Лукаса ещё нет дома.",,FC04227C4CC2AECB9059098201942C0A
-Typewriter,Печатная машинка,,41B310394F6A79F289A78DAC1F3606F1
-This thing hasn’t seen much action since I got a terminal. Maybe I’ll come back to it some day.,"С тех пор как у меня появился терминал, ей почти не пользуются. Может, когда-нибудь к ней вернусь.",,DEB82FAF41B7A7D0AA95A7B9586E395B
-Mess,Столовая,,9C2E004D46C7FE63B3FD72B3C6C34D77
-Should be able to focus on work now.,Теперь можно сосредоточиться на работе.,,CE5B476B4A8B319EE44CFB8CD96EE66B
-Terminal,Терминал,,1D482FA3430222E4892EC1814477EFAC
-...I think I want to sort out the office shelves before I get back to work. Helps me focus.,"...Пожалуй, сначала разберу полки в кабинете, а потом вернусь к работе. Помогает сосредоточиться.",,8339CA824A5B8B0909091FBE31EC485B
-Lukas,Лукас,,ACD5D5234627BAC1A16B8C936FCC21FE
-Mess,Столовая,,A66C22564055A8697A3089989E951AAB
-Enter Greenhouse,В оранжерею,,BA15686146877F7E258C998B685B71DA
-Enter Apartment,В квартиру,,816590784F8B2E03BE1A2BB6F195030D
-Enter Kitchen,На кухню,,BECE93844273FB18BFBE028A96F82B36
-Enter Greenhouse,В оранжерею,,972749484FC84F3DD23E57BFF94BD42B
-Back to the apartment,Вернуться в квартиру,,D2E79DC14445BB19B43E9782D005FC4C
-Go to the office,Пойти в кабинет,,14B73AD543250B22497B91A3895B322C
-Enter Bathroom,В ванную,,D4FD649E42AA6259F67A5F9360E7E922
-Enter Apartment,В квартиру,,A40CB2D84256D2D59FA7A4A55EFA2983
-Terminal,Терминал,,27A1F2E845DB6C1EDA10978534CD1D99
-"Alright, Renee. That article isn’t going to write itself. Get to the office, and get to work.","Так, Рене. Статья сама себя не напишет. Иди в кабинет и берись за работу.",,7210BDF74F726AAA83465F8297096BEF
+﻿source,translation,status,namespace,key
+"...Oh, right. I was in the middle of organizing the shelves in here. Shouldn't take long.",...Ах да. Я же начала разбирать здесь полки. Это недолго.,ai,,826F8C6A41CC8FCCB332588A21D05EE6
+Organize Shelf,Разобрать полку,ai,,D2FCCCEC453B59625EC8B38754546897
+Organize Office Shelf,Разобрать полку в кабинете,ai,,F019725B41CE1F37C7C85E9C6979A627
+Terrarium,Террариум,ai,,CE4895B24A7683FDB7F6439FA3A6203C
+Kitchen Counter,Кухонная стойка,ai,,D73561CB4682D0446652C396154BFF2B
+Couldn’t have dreamed of a nicer kitchen. Still don’t feel like cooking.,О кухне лучше и мечтать нельзя. А готовить всё равно не хочется.,ai,,B8F8227E4F56C039455FD48AF8DB4BBA
+Look Outside,Выглянуть наружу,ai,,B6D57B7449DA2160671E83B9A2BB35E1
+" I should wrap things as soon as I can. It's too beautiful outside to stay in the office all day."," Надо закончить побыстрее. На улице слишком красиво, чтобы сидеть в кабинете весь день.",ai,,8F378E50441B7205E592FCA1CEA324C8
+Statues,Статуи,ai,,644104F042B58D545CA2A38AED6FC938
+We got these for our wedding. Happy to have the Goddess on my side - Lukas can keep the Shepherd.,"Нам их подарили на свадьбу. Я рада, что Богиня на моей стороне — Пастыря пусть оставит себе Лукас.",ai,,4A4FAB964A3A74119A16E9A1C86B28CC
+Lukas' Office,Кабинет Лукаса,ai,,BB4D44C742E09CF716D682ABE00A6C16
+"Joke's on you, Lukas. I can't clean your office if you always keep the door locked.","Не выйдет, Лукас. Я не могу убрать у тебя в кабинете, если ты всегда держишь дверь запертой.",ai,,D6E022A64B7A1E6B136F5492722A228F
+Fishbowl,Аквариум,ai,,63CB46E14BE4E14101DF24894D54B210
+"Hey there, pretty.","Привет, красавица.",ai,,EC34DA8C4C45264260AC50989FF3BABE
+Sofa Table,Столик у дивана,ai,,7DE5E19B40739B825C72988C113F0D6D
+"Used to keep my typewriter here, back when we moved in. There’s still dents in the table.","Когда мы только въехали, здесь стояла моя печатная машинка. На столе до сих пор вмятины.",ai,,2D81D13B4AB6D81A4C8179B0AFC58315
+Radio,Радио,ai,,A03744F5462E4FF3C0B07AA7E403DC58
+"We should get some new records. And a record player, I suppose.","Надо купить новых пластинок. И проигрыватель, наверное.",ai,,E71E725944D9855FA7D1E1872F436A51
+Toilet,Туалет,ok,,6598966B44CF4B096392E98CAC0F985C
+Lid down. The universal sign for Lukas not being home yet.,"Крышка опущена. Верный знак, что Лукаса ещё нет дома.",ai,,FC04227C4CC2AECB9059098201942C0A
+Typewriter,Печатная машинка,ai,,41B310394F6A79F289A78DAC1F3606F1
+This thing hasn’t seen much action since I got a terminal. Maybe I’ll come back to it some day.,"С тех пор как у меня появился терминал, ей почти не пользуются. Может, когда-нибудь к ней вернусь.",ai,,DEB82FAF41B7A7D0AA95A7B9586E395B
+Mess,Столовая,ai,,9C2E004D46C7FE63B3FD72B3C6C34D77
+Should be able to focus on work now.,Теперь можно сосредоточиться на работе.,ai,,CE5B476B4A8B319EE44CFB8CD96EE66B
+Terminal,Терминал,ok,,1D482FA3430222E4892EC1814477EFAC
+...I think I want to sort out the office shelves before I get back to work. Helps me focus.,"...Пожалуй, сначала разберу полки в кабинете, а потом вернусь к работе. Помогает сосредоточиться.",ai,,8339CA824A5B8B0909091FBE31EC485B
+Lukas,Лукас,ai,,ACD5D5234627BAC1A16B8C936FCC21FE
+Mess,Столовая,ai,,A66C22564055A8697A3089989E951AAB
+Enter Greenhouse,В оранжерею,ai,,BA15686146877F7E258C998B685B71DA
+Enter Apartment,В квартиру,ai,,816590784F8B2E03BE1A2BB6F195030D
+Enter Kitchen,На кухню,ai,,BECE93844273FB18BFBE028A96F82B36
+Enter Greenhouse,В оранжерею,ai,,972749484FC84F3DD23E57BFF94BD42B
+Back to the apartment,Вернуться в квартиру,ai,,D2E79DC14445BB19B43E9782D005FC4C
+Go to the office,Пойти в кабинет,ai,,14B73AD543250B22497B91A3895B322C
+Enter Bathroom,В ванную,ai,,D4FD649E42AA6259F67A5F9360E7E922
+Enter Apartment,В квартиру,ai,,A40CB2D84256D2D59FA7A4A55EFA2983
+Terminal,Терминал,ok,,27A1F2E845DB6C1EDA10978534CD1D99
+"Alright, Renee. That article isn’t going to write itself. Get to the office, and get to work.","Так, Рене. Статья сама себя не напишет. Иди в кабинет и берись за работу.",ai,,7210BDF74F726AAA83465F8297096BEF

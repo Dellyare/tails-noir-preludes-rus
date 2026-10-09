@@ -1,7 +1,7 @@
-﻿source,translation,namespace,key
-Start a new game or select the save you want to load,Начните новую игру или выберите сохранение для загрузки,,B37812644F75D4F4FAF4FAB1C0BD23FC
-"HighResShot filename={""filename""} 1",,,A53D89194243DBB7D3CA30AD6E2E6996
-Are you sure you want to delete the save slot?,"Вы уверены, что хотите удалить это сохранение?",,D38AC0184307ABD1CA83A4B245B23AD2
-Are you sure you want to start\r\n a new game?\r\nCurrent progress will be lost.,"Вы уверены, что хотите начать\nновую игру?\nТекущий прогресс будет потерян.",,5BB85EF148878977373C238B9B682579
-"The game saves automatically, you can also self-create a save","Игра сохраняется автоматически, но можно создать сохранение и вручную",,6A35AF3041A99338610AF0AB41F1C1FC
-Start a new game or select the save you want to load,Начните новую игру или выберите сохранение для загрузки,,5968F94C4B2C0EC65EED7DBF6A173062
+﻿source,translation,status,namespace,key
+Start a new game or select the save you want to load,Начните новую игру или выберите сохранение для загрузки,ai,,B37812644F75D4F4FAF4FAB1C0BD23FC
+"HighResShot filename={""filename""} 1",,,,A53D89194243DBB7D3CA30AD6E2E6996
+Are you sure you want to delete the save slot?,"Вы уверены, что хотите удалить это сохранение?",ai,,D38AC0184307ABD1CA83A4B245B23AD2
+Are you sure you want to start\r\n a new game?\r\nCurrent progress will be lost.,"Вы уверены, что хотите начать\nновую игру?\nТекущий прогресс будет потерян.",ok,,5BB85EF148878977373C238B9B682579
+"The game saves automatically, you can also self-create a save","Игра сохраняется автоматически, но можно создать сохранение и вручную",ai,,6A35AF3041A99338610AF0AB41F1C1FC
+Start a new game or select the save you want to load,Начните новую игру или выберите сохранение для загрузки,ai,,5968F94C4B2C0EC65EED7DBF6A173062

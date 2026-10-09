@@ -1,42 +1,42 @@
-﻿source,translation,namespace,key
-Andrina,Андрина,,A87D4B77445AC9B9722ED0A4AA041E09
-Bocco,Бокко,,DD95D0F542CE74A693714085EEB66991
-Geezers,Старики,,B7F1025A44C298F4EC36BB85BCF9B48B
-Grandfather Steam,Дедушка Пар,,121D6691415547EBEEE70BA72367A629
-Tailor,Портной,,E69A1FA14810C47CF1D80CB799C2608F
-The mannequins in there are better dressed than I am.,"Манекены там одеты лучше, чем я.",,B8E4D12D415DD26DED5E1DB31D067D45
-"...Fuck you, mannequins.","...Пошли вы, манекены.",,39DA4E224D9D9B3D2308D4A73D46259B
-Cafe,Кафе,,47519FB346401F9F80DADDB3A1F23F61
-"Nice. I'm a Messy King, too.",Класс. Я тоже Король Беспорядка.,,68EFD5CC483C37F391DE158276BB8016
-Shop Window,Витрина,,51488CC84A9C7B8B622B39B75260E746
-Pricy. You could buy an apartment for less than what this place would charge you to furnish it.,"Дорого. Квартиру можно купить дешевле, чем здесь возьмут за её обстановку.",,80BB630343A8F3A55CD5B1B2CA0206E6
-Hotel Window,Окно отеля,,3FACEEE9439102CEEE5072949E7ED594
-I wonder what it would be like to stay at a hotel. Bet the bedsheets smell nice.,"Интересно, каково это — жить в отеле. Спорим, простыни там приятно пахнут.",,FC7323B1427F9D9AFB43E8903762C586
-Do they make breakfast for you? I bet they make breakfast for you.,"Там же для тебя готовят завтрак? Спорим, готовят.",,C33CEFD74D94347C68B9D88B16F69661
-...I'm hungry.,...Есть хочу.,,9E1E0546412F6D5457B527A166F2163A
-Hotel,Отель,,1A14599B422D1A7E9E6F719B2A56D40F
-Got thrown out last time I tried to take pictures in here. Guess they really don't want anyone taking pictures of their clientele. Wonder why.,"В прошлый раз меня отсюда выставили, когда я попытался тут поснимать. Видимо, очень не хотят, чтобы кто-то фотографировал их клиентов. Интересно почему.",,34FAC2BA4C8E40DC5BBECD8E504AA757
-Psh. Celebrities.,Пфф. Знаменитости.,,34FB23F048E4F4B1FC281590E5A31695
-The Shepherd,Пастырь,,CD8C90C64242300829A4FBB7B9DCCFA1
-"...If I was a god, I think I'd try to look less creepy.","...Будь я богом, постарался бы выглядеть не так жутко.",,008559FB45EBBBD4D7B4FA832A82F27C
-"No offence, Mr. Shepherd.","Без обид, мистер Пастырь.",,72CF64214DEB350EBDF541ADED478284
-"I mean, not as if we were on speaking terms anyway.","Ну, мы и так особо не общались.",,DF524CAD4F2DD363A436EE9E9304081A
-The Goddess,Богиня,,07C61CC64EBF09D769804FB725F70F79
-Huh. Pretty sure Freja's got a statuette of her in her dorm.,"Хм. Кажется, у Фреи в комнате стоит её статуэтка.",,80B8329E4DC3534382A002852E4E2149
-"Easier on the eyes than the Shepherd. ","Смотреть на неё куда приятнее, чем на Пастыря.",,645106434AD61EA8D252058817D1000F
-...You doing anything Friday night?,...Ты чем-нибудь занята в пятницу вечером?,,36F6F1084A7F217890BBABA0FC9FF733
-"Oh. Yeah, uh, I'm busy too.","А. Ну да, я, э-э, тоже занят.",,20727D1D4D3C756AD53C90AC0CB064D4
-Uncle Louis',«У дяди Луи»,,A347A8E545639F2F46E3AFA02BFE48A7
-"...That's a lot of booze. Somehow I doubt they've got a student discount on beer, though.",...Вот это выпивки. Хотя вряд ли у них студенческая скидка на пиво.,,9DCEB4A4439A992E3AF188A5589C24A9
-Eh. Student bars are more my kind of jam anyway.,Эх. Мне студенческие бары всё равно больше по вкусу.,,A385C05944DE75AD6E88748C957F5A7E
-...Kind of craving some jam now.,...Что-то захотелось вкусненького.,,29C032D84560EA0E65C75F8C05220141
-Bookshop,Книжный магазин,,6DC21DB447AAF1CEE291929168D06805
-"""Poochie's Reads."" Looks like they've got all sorts of knick-knacks besides books, too.","«Чтиво от Пучи». Похоже, у них тут всякие безделушки, не только книги.",,EA18647A44CC213BBAEB09A3AD3E6EBB
-Snacky Bay,«Снэки-Бэй»,,B6C177944A60C262FFE76197059100C6
-Best shakes in Gastown.,Лучшие коктейли в Гастауне.,,EE10CC744CBAC329FA4C308F32B56108
-"Best sode fountain in gastown, too.",И лучшая газировка в Гастауне тоже.,,A792A57E47C9CB1983E04EB0E2FB857C
-"...Come to think of it, this is probably the best place in Gastown overall.","...Если подумать, это, наверное, вообще лучшее место в Гастауне.",,9204696C4889F955BC2CDCAD0FB2B56F
-Larry,Ларри,,46ABEF074796A22CBC9004B10ABFBB01
-Lincoln,Линкольн,,C96EB30C4F3732891FE3E68E4D9F4B4C
-Man Covered in Snow,Засыпанный снегом,,83242FD1405BA0B9467C148B174D9AF4
-May,Мэй,,33180EF044BE8657E40C8689B6FF3ABA
+﻿source,translation,status,namespace,key
+Andrina,Андрина,ai,,A87D4B77445AC9B9722ED0A4AA041E09
+Bocco,Бокко,ai,,DD95D0F542CE74A693714085EEB66991
+Geezers,Старики,ai,,B7F1025A44C298F4EC36BB85BCF9B48B
+Grandfather Steam,Дедушка Пар,ai,,121D6691415547EBEEE70BA72367A629
+Tailor,Портной,ai,,E69A1FA14810C47CF1D80CB799C2608F
+The mannequins in there are better dressed than I am.,"Манекены там одеты лучше, чем я.",ai,,B8E4D12D415DD26DED5E1DB31D067D45
+"...Fuck you, mannequins.","...Пошли вы, манекены.",ai,,39DA4E224D9D9B3D2308D4A73D46259B
+Cafe,Кафе,ai,,47519FB346401F9F80DADDB3A1F23F61
+"Nice. I'm a Messy King, too.",Класс. Я тоже Король Беспорядка.,ai,,68EFD5CC483C37F391DE158276BB8016
+Shop Window,Витрина,ai,,51488CC84A9C7B8B622B39B75260E746
+Pricy. You could buy an apartment for less than what this place would charge you to furnish it.,"Дорого. Квартиру можно купить дешевле, чем здесь возьмут за её обстановку.",ai,,80BB630343A8F3A55CD5B1B2CA0206E6
+Hotel Window,Окно отеля,ai,,3FACEEE9439102CEEE5072949E7ED594
+I wonder what it would be like to stay at a hotel. Bet the bedsheets smell nice.,"Интересно, каково это — жить в отеле. Спорим, простыни там приятно пахнут.",ai,,FC7323B1427F9D9AFB43E8903762C586
+Do they make breakfast for you? I bet they make breakfast for you.,"Там же для тебя готовят завтрак? Спорим, готовят.",ai,,C33CEFD74D94347C68B9D88B16F69661
+...I'm hungry.,...Есть хочу.,ai,,9E1E0546412F6D5457B527A166F2163A
+Hotel,Отель,ok,,1A14599B422D1A7E9E6F719B2A56D40F
+Got thrown out last time I tried to take pictures in here. Guess they really don't want anyone taking pictures of their clientele. Wonder why.,"В прошлый раз меня отсюда выставили, когда я попытался тут поснимать. Видимо, очень не хотят, чтобы кто-то фотографировал их клиентов. Интересно почему.",ai,,34FAC2BA4C8E40DC5BBECD8E504AA757
+Psh. Celebrities.,Пфф. Знаменитости.,ai,,34FB23F048E4F4B1FC281590E5A31695
+The Shepherd,Пастырь,ai,,CD8C90C64242300829A4FBB7B9DCCFA1
+"...If I was a god, I think I'd try to look less creepy.","...Будь я богом, постарался бы выглядеть не так жутко.",ai,,008559FB45EBBBD4D7B4FA832A82F27C
+"No offence, Mr. Shepherd.","Без обид, мистер Пастырь.",ai,,72CF64214DEB350EBDF541ADED478284
+"I mean, not as if we were on speaking terms anyway.","Ну, мы и так особо не общались.",ai,,DF524CAD4F2DD363A436EE9E9304081A
+The Goddess,Богиня,ai,,07C61CC64EBF09D769804FB725F70F79
+Huh. Pretty sure Freja's got a statuette of her in her dorm.,"Хм. Кажется, у Фреи в комнате стоит её статуэтка.",ai,,80B8329E4DC3534382A002852E4E2149
+"Easier on the eyes than the Shepherd. ","Смотреть на неё куда приятнее, чем на Пастыря.",ai,,645106434AD61EA8D252058817D1000F
+...You doing anything Friday night?,...Ты чем-нибудь занята в пятницу вечером?,ai,,36F6F1084A7F217890BBABA0FC9FF733
+"Oh. Yeah, uh, I'm busy too.","А. Ну да, я, э-э, тоже занят.",ai,,20727D1D4D3C756AD53C90AC0CB064D4
+Uncle Louis',«У дяди Луи»,ai,,A347A8E545639F2F46E3AFA02BFE48A7
+"...That's a lot of booze. Somehow I doubt they've got a student discount on beer, though.",...Вот это выпивки. Хотя вряд ли у них студенческая скидка на пиво.,ai,,9DCEB4A4439A992E3AF188A5589C24A9
+Eh. Student bars are more my kind of jam anyway.,Эх. Мне студенческие бары всё равно больше по вкусу.,ai,,A385C05944DE75AD6E88748C957F5A7E
+...Kind of craving some jam now.,...Что-то захотелось вкусненького.,ai,,29C032D84560EA0E65C75F8C05220141
+Bookshop,Книжный магазин,ai,,6DC21DB447AAF1CEE291929168D06805
+"""Poochie's Reads."" Looks like they've got all sorts of knick-knacks besides books, too.","«Чтиво от Пучи». Похоже, у них тут всякие безделушки, не только книги.",ai,,EA18647A44CC213BBAEB09A3AD3E6EBB
+Snacky Bay,«Снэки-Бэй»,ai,,B6C177944A60C262FFE76197059100C6
+Best shakes in Gastown.,Лучшие коктейли в Гастауне.,ai,,EE10CC744CBAC329FA4C308F32B56108
+"Best sode fountain in gastown, too.",И лучшая газировка в Гастауне тоже.,ai,,A792A57E47C9CB1983E04EB0E2FB857C
+"...Come to think of it, this is probably the best place in Gastown overall.","...Если подумать, это, наверное, вообще лучшее место в Гастауне.",ai,,9204696C4889F955BC2CDCAD0FB2B56F
+Larry,Ларри,ok,,46ABEF074796A22CBC9004B10ABFBB01
+Lincoln,Линкольн,ai,,C96EB30C4F3732891FE3E68E4D9F4B4C
+Man Covered in Snow,Засыпанный снегом,ai,,83242FD1405BA0B9467C148B174D9AF4
+May,Мэй,ai,,33180EF044BE8657E40C8689B6FF3ABA
