@@ -122,7 +122,7 @@ I like your colours too.,Мне твои цвета тоже нравятся.,a
 "Alright, enough about you. Let's talk about something else.","Ладно, хватит о тебе. Давай о чём-нибудь другом.",ai,,A36E09EF4EF8513A55164CB00312B7F8
 "That sucks, man. Maybe next year. [Leave]","Облом, чувак. Может, в следующем году. [Уйти]",ai,,2F8E117443D20958D1BDDEA834B14D92
 "Nothing! I told him it wouldn’t take much longer and to take a walk. And the way I meant that was that if the noise bothered him so much, he should get some fresh air until I'm done. But he says I had a ""tone"" and the ""tone"" was me telling him to ""get lost"".","Ничего! Я сказал, что это не займёт много времени, и пусть прогуляется. Я имел в виду: если шум так его бесит, пусть подышит свежим воздухом, пока я не закончу. А он говорит, у меня был «тон», и этот «тон» означал «катись отсюда».",ai,,B3A709C64A730CE5B35675A74BD46DAD
-(INVESTIGATIVE) You sure that's the way you meant it?,"[ПЫТЛИВОСТЬ] Ты уверен, что имел в виду именно это?",ai,,80F444A54912D8230908BA8AF6B179EF
+(INVESTIGATIVE) You sure that's the way you meant it?,"(ПЫТЛИВОСТЬ) Ты уверен, что имел в виду именно это?",ai,,80F444A54912D8230908BA8AF6B179EF
 Sounds like a simple misunderstanding.,Похоже на простое недоразумение.,ai,,210FB25B4F03F7F9730249B4F178C2D2
 Sounds like a real jerk.,Похоже на настоящего придурка.,ai,,528AB36E44213D75326338A7911D8D82
 "I figured they'd think I was repairing it. And it seemed worth the risk. The City pays me a mint whenever that thing breaks down. Problem is, it rarely does.","Я думал, они решат, что я чиню. И риск того стоил. Город отваливает мне кучу денег, когда эта штуковина ломается. Беда в том, что ломается она редко.",ai,,AFEF57A34947CC3C23573984D2E3134B
@@ -139,7 +139,7 @@ Not enough for him to write a complaint though.,"Но не настолько, �
 "Happy to help. Let's talk about something else, though.",Рад помочь. Но давай о чём-нибудь другом.,ai,,B0EB01964D5A4C5C5D3390B6480FD185
 "No problem, brother. [Leave]","Без проблем, брат. [Уйти]",ai,,A1E9EBF749513A251D7016B29A0B7262
 "I stole it from the building manager's mailbox. I saw a tenant I had an argument with drop it off and figured it was going to be a letter of complaint. Turns out it was just a Winter Solstice card. Now I have to destroy this thing, but I can't risk getting caught.","Я стащил его из почтового ящика управляющей. Видел, как жилец, с которым я поругался, его опустил, и решил, что это жалоба. Оказалось, просто открытка к зимнему солнцестоянию. Теперь это надо уничтожить, но попасться я не могу.",ai,,5E8FB693471682C63BC42EBCEBACEAF0
-(INVESTIGATIVE) Was there money inside that card?,[ПЫТЛИВОСТЬ] В открытке были деньги?,ai,,BDE131F8440E80A811BE5C9FE586E4C4
+(INVESTIGATIVE) Was there money inside that card?,(ПЫТЛИВОСТЬ) В открытке были деньги?,ai,,BDE131F8440E80A811BE5C9FE586E4C4
 Why do you need to destroy it?,Зачем его уничтожать?,ai,,B7C369B9414C61354A7B6EAC46280004
 Why don't you just put the card back without it's envelope?,Почему бы просто не вернуть открытку без конверта?,ai,,956908EC4D0A8E0ACE666FBA8EA1EC2B
 This is really suspicious.,Это очень подозрительно.,ai,,E372FFE7437D4CE7A709DFA19C22D604
@@ -274,9 +274,9 @@ You're guilty. So guilty.,Ты виновен. Ещё как виновен.,ai,
 "Everyone? Oh man, I knew this was a bad idea. I'm going to be ruined. Ruined!","Все? О, чёрт, я знал, что это плохая идея. Мне конец. Конец!",ai,,40C2F5184AC7BE84B45F309B4D4A4C02
 Why'd you do it?,Зачем ты это сделал?,ai,,A6FD66AC46AE87AEA1D0309BC87E9516
 Service entrance is out back.,Служебный вход сзади.,ai,,D1476BA7461EFC61C0F68783C9F11FF2
-(SARCASTIC) Now that's a pretty bold pickup line.,[САРКАЗМ] Ну и смелый же подкат.,ai,,5B8B4262432A2B86700266AADAC6E169
-(INVESTIGATIVE) Is that your standard greeting for my Kind?,[ПЫТЛИВОСТЬ] Это твоё стандартное приветствие для моего Вида?,ai,,A568917048604FB753A08AB80537CFD0
-"(SOCIAL) Well, let's head back there and share a smoke, brother. Take a break from all these stuffed shirts.","[ОБЩИТЕЛЬНОСТЬ] Ну давай пойдём туда и перекурим, брат. Отдохнём от всех этих надутых индюков.",ai,,5AB3C53342E563DACFF8F4BE08BE62D6
+(SARCASTIC) Now that's a pretty bold pickup line.,(САРКАЗМ) Ну и смелый же подкат.,ai,,5B8B4262432A2B86700266AADAC6E169
+(INVESTIGATIVE) Is that your standard greeting for my Kind?,(ПЫТЛИВОСТЬ) Это твоё стандартное приветствие для моего Вида?,ai,,A568917048604FB753A08AB80537CFD0
+"(SOCIAL) Well, let's head back there and share a smoke, brother. Take a break from all these stuffed shirts.","(ОБЩИТЕЛЬНОСТЬ) Ну давай пойдём туда и перекурим, брат. Отдохнём от всех этих надутых индюков.",ai,,5AB3C53342E563DACFF8F4BE08BE62D6
 Strange way to greet someone.,Странный способ здороваться.,ai,,B0B189D842C57761769E0DB6A2ABA2AC
 Who cares?,Кого это волнует?,ai,,3B51ECDD4E5E34438616BDBC86A2DFA7
 "Good luck with that, kid. I've been working my ass off all day. I don't have time to steal stupid hands from stupid clocks.","Удачи, парень. Я весь день вкалывал. Мне некогда воровать дурацкие стрелки с дурацких часов.",ai,,87D4B0964E39AE71FCD850869BE04147
@@ -321,7 +321,7 @@ Let's talk a little about you.,Давай немного поговорим о �
 "Those geezers knocked the hand off the clock, and I can't find it. Do you have a spare?","Эти гусяры сбили стрелку с часов, и я не могу её найти. У тебя нет запасной?",ai,,8025E9C440F5716C23CE869D0801D792
 About the clock over there...,Насчёт тех часов...,ai,,0254B9C24A2C044559DF6F9A05257C33
 "Don't even joke about that, kid. I've seen guys disappear for saying less.","Даже не шути так, парень. Я видел, как люди пропадали и за меньшее.",ai,,CA4A7C1F41982DCE05474AAC52514F9B
-"(INVESTIGATIVE) You mean, like...killed?",[ПЫТЛИВОСТЬ] Ты имеешь в виду... убивали?,ai,,96586A8745F92E7A62FDEA8A0F4338A0
+"(INVESTIGATIVE) You mean, like...killed?",(ПЫТЛИВОСТЬ) Ты имеешь в виду... убивали?,ai,,96586A8745F92E7A62FDEA8A0F4338A0
 Sorry. I'm just here to take photos. Class project.,Прости. Я просто фотографирую. Учебный проект.,ai,,41422212402143725CD2FB90E2E18193
 "Good for you, kid. I mean, it might not lead to anything, but it's always nice to know you gave it a shot. No regrets. What kind of pictures you take?","Молодец, парень. Может, ни к чему и не приведёт, но приятно знать, что попытался. Без сожалений. А какие снимки ты делаешь?",ai,,C463D5A9484E830AAD1E6FBE3140CA19
 I haven't decided yet.,Пока не решил.,ai,,2FC3644A4DB60E8179AFBD93B0A93872
@@ -377,7 +377,7 @@ Mind if I ask you a few questions?,Можно задать пару вопрос
 "I just want the diploma, man.","Мне просто нужен диплом, чувак.",ai,,F46DBA9B4EB6C36B257D1BB6A92639AF
 "Yeah, well being ""serious"" is where the big money is.","Ну, «серьёзность» — вот где большие деньги.",ai,,DDCE788F49E71C92DBDFA4A898EC9FF0
 No. I mean... I don't know. Maybe they just lose their jobs. Maybe they just get sent away for something else. It's just...it's smart to watch what you're saying. That's all.,"Нет. В смысле... не знаю. Может, просто теряют работу. Может, их отправляют куда-то за другое. Просто... разумно следить за тем, что говоришь. Вот и всё.",ai,,8E4870BB4E49A17D9D92EE86B4427362
-(SARCASTIC) Hail Apes.,[САРКАЗМ] Слава Обезьянам.,ai,,6CF25AE8484EB7465E140086051C741D
+(SARCASTIC) Hail Apes.,(САРКАЗМ) Слава Обезьянам.,ai,,6CF25AE8484EB7465E140086051C741D
 Hail Apes.,Слава Обезьянам.,ai,,5DDA1832420487601CAD7DB7FAD795A0
 "See that's better, but try to put a little less stink on it. Rich folks are really particular about tone. So what are you doing around here?","Вот так лучше, но поменьше желчи. Богатые очень чувствительны к тону. Так что ты здесь делаешь?",ai,,CBC532B24DB976D731B9C68358891DC9
 I'm a photographer.,Я фотограф.,ai,,F0E14C25440E50358DBBB8BE0FE38518
@@ -398,7 +398,7 @@ I'm a student. Photography major.,Я студент. Учусь на фотог�
 I'm a Photography major at Thaddeus Rock.,Я учусь фотографии в Таддеусе Роке.,ai,,7A331176452FDFFF7E5DFE81B805ED99
 "I'm an artist. Photography, mostly.",Я художник. В основном фотограф.,ai,,A8D2D874494E098A866E928DDB94CC88
 "Oh...you mean the kinda photos people actually pay for! And here I was, thinking you were just doing artsy crap! Lemme ask you, how do you find folks who are willing to take their clothes off?","О... ты про такие фото, за которые люди реально платят! А я-то думал, ты занимаешься какой-то пафосной мазнёй! Скажи, а как ты находишь тех, кто готов раздеться?",ai,,D8C5967644E7A55B09DC528A6F45C2EF
-"(SOCIAL) I just approach them on the street. Usually while they're on their smoke break. ","[ОБЩИТЕЛЬНОСТЬ] Просто подхожу к ним на улице. Обычно во время перекура. ",ai,,880ABAFC48FA70DC07D12EAD74699340
+"(SOCIAL) I just approach them on the street. Usually while they're on their smoke break. ","(ОБЩИТЕЛЬНОСТЬ) Просто подхожу к ним на улице. Обычно во время перекура. ",ai,,880ABAFC48FA70DC07D12EAD74699340
 I haven't yet.,Пока никак.,ai,,3F36220C4879D2627E212AAA6353DF5B
 "I meant beautiful in an abstract sense. Composition, lighting...that sort of thing?","Я имел в виду «красивые» в абстрактном смысле. Композиция, свет... что-то в этом роде.",ai,,057A02BD45BCABF6DE270B8DBD77379C
 "Nah, kid. I'm innocent as can be. Go ahead, see what else you can drum up. I'm just going to stand here and wait for your apology.","Не-а, парень. Я чист, как слеза. Давай, ищи дальше. А я постою тут и подожду твоих извинений.",ai,,45264E9546397C467158A6BDDE9708A4

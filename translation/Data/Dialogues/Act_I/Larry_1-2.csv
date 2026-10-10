@@ -79,7 +79,7 @@ I was hoping for top bunk too. Give me a second.,Я тоже хотел на в�
 Sure. Do you have a preference?,Конечно. А ты какую хотел?,ai,,7F94745A41C4F7E5817E3A927A166966
 On it.,Оке.,ai,,9AE8C4F94B19DE39122ABCBE9F18793F
 Sweet. I'm starving.,Супер. А то я есть хочу.,ai,,65B6222A415E9F1B575A31B9A0F9B22D
-"(SOCIAL) Let's start things off right, though. We're splitting the bill.",[ОБЩИТЕЛЬНОСТЬ] Давай начнем всё делать правильно и разделим счет.,ai,,C32F314A41110347D1E9B3909AF3295F
+"(SOCIAL) Let's start things off right, though. We're splitting the bill.",(ОБЩИТЕЛЬНОСТЬ) Давай начнем всё делать правильно и разделим счет.,ai,,C32F314A41110347D1E9B3909AF3295F
 And paying.,И заплатить.,ai,,9B4CEEEC4992C530423644A15A339580
 Same same.,"Ага, есть такое.",ai,,D9F37653421836F2EDB73489EF193FFB
 "But you're not paying, so there's that.","Но ты не платишь, так что вот.",ai,,026AD1824DA9499BF32037B6B11EEE5E
@@ -172,13 +172,13 @@ I didn't realize they offered courses in that. Was it hard to get into the progr
 Not when you're as cool as me.,"Не когда ты такой крутой, как я.",ai,,6B03CC4B4936DA4DAE2AA0BA4D005572
 Yeah. Rigorous tests and applications.,Ага. Сложные тесты и заявки.,ai,,2578DA9945F404C0AB0B2896DE0FD5EC
 "You're funny, man. I'll bite. What's so cool about you?","Ты забавный, чувак. Я куплюсь. Что в тебе такого крутого?",ai,,E0CC0A4945824DDDF2B4E5A9580EAF96
-(GAIN TRAIT: SARCASTIC) The fact that my entire life fits in a cardboard box.,"[ПОЛУЧИТЬ ЧЕРТУ: САРКАЗМ] То, что вся моя жизнь помещается в картонную коробку.",ai,,BD8A2D87476620A236C68BB6A323FA4A
-(GAIN TRAIT: SOCIAL) I just get along with people.,[ПОЛУЧИТЬ ЧЕРТУ: ОБЩИТЕЛЬНОСТЬ] Я просто хорошо лажу с людьми.,ai,,11A0E11A40006E3D6CE920A22E817BC9
-"(GAIN TRAIT: INVESTIGATIVE) I'm really, really clever.","[ПОЛУЧИТЬ ЧЕРТУ: ПЫТЛИВОСТЬ] Я очень, очень умный.",ai,,E990ACE94002FF6C4673669D7E7B7591
+(GAIN TRAIT: SARCASTIC) The fact that my entire life fits in a cardboard box.,"(ПОЛУЧИТЬ ЧЕРТУ: САРКАЗМ) То, что вся моя жизнь помещается в картонную коробку.",ai,,BD8A2D87476620A236C68BB6A323FA4A
+(GAIN TRAIT: SOCIAL) I just get along with people.,(ПОЛУЧИТЬ ЧЕРТУ: ОБЩИТЕЛЬНОСТЬ) Я просто хорошо лажу с людьми.,ai,,11A0E11A40006E3D6CE920A22E817BC9
+"(GAIN TRAIT: INVESTIGATIVE) I'm really, really clever.","(ПОЛУЧИТЬ ЧЕРТУ: ПЫТЛИВОСТЬ) Я очень, очень умный.",ai,,E990ACE94002FF6C4673669D7E7B7591
 "Uh-huh, got it. So how did you manage? What's your strength?","Ага, понял. Так как ты справляешься? В чем твоя сила?",ai,,B4484DB0418FBBD9102BD484F943AB6F
-(GAIN TRAIT: SARCASTIC) My immensely impressive physical strength.,[ПОЛУЧИТЬ ЧЕРТУ: САРКАЗМ] Моя невероятная физическая сила.,ai,,93B75D534D3D1CDA751E689CF374D7AA
-"(GAIN TRAIT: SOCIAL) I just get along with people, I think.","[ПОЛУЧИТЬ ЧЕРТУ: ОБЩИТЕЛЬНОСТЬ] Я просто хорошо лажу с людьми, думаю.",ai,,601F8B5544CF07817240E2A9FE4AB342
-"(GAIN TRAIT: INVESTIGATIVE) I'm really smart, man. Really smart.","[ПОЛУЧИТЬ ЧЕРТУ: ПЫТЛИВОСТЬ] Я очень умный, чувак. Очень умный.",ai,,D635D5E74C5FAA04E58BC5A24390E369
+(GAIN TRAIT: SARCASTIC) My immensely impressive physical strength.,(ПОЛУЧИТЬ ЧЕРТУ: САРКАЗМ) Моя невероятная физическая сила.,ai,,93B75D534D3D1CDA751E689CF374D7AA
+"(GAIN TRAIT: SOCIAL) I just get along with people, I think.","(ПОЛУЧИТЬ ЧЕРТУ: ОБЩИТЕЛЬНОСТЬ) Я просто хорошо лажу с людьми, думаю.",ai,,601F8B5544CF07817240E2A9FE4AB342
+"(GAIN TRAIT: INVESTIGATIVE) I'm really smart, man. Really smart.","(ПОЛУЧИТЬ ЧЕРТУ: ПЫТЛИВОСТЬ) Я очень умный, чувак. Очень умный.",ai,,D635D5E74C5FAA04E58BC5A24390E369
 "Come on, man - pick a bunk and put down your stuff! You're stressing me out carrying that thing around.","Давай, чувак — выбери койку и положи свои вещи! Ты меня напрягаешь, таская эту штуку.",ai,,B3FCC8454EC1FA7788DD97B9257EF8A4
 "I'm on it, I'm on it.","Занимаюсь этим, занимаюсь этим.",ai,,EC044E164C110DA2C75A20B0978A4049
 "Right, right. How did I not see it? Very, very cool. I like you, Howie! You seem like a fun person to be around.","Точно, точно. Как я этого не заметил? Очень, очень круто. Ты мне нравишься, Говчик! Кажется, с тобой будет весело.",ai,,E922971248D9CE8620D5F48CC89E7A55
@@ -191,17 +191,17 @@ Howie?,Говчик?,ai,,DB0CB29843AF543493D853BAFCFF7AB2
 Right back at you.,Взаимно.,ai,,E3E8BD7840DE10562FA34D84A97734F4
 Howie?,Говчик?,ai,,4395F7A642C3C721438D42BFF0B4ECCC
 "I almost forgot about the mighty box. Nice, dude! I don't know anything about photography, so you'll have to teach me. How come you chose that as your major?","Я почти забыл про могучую коробку. Круто, чувак! Я ничего не знаю о фотографии, так что тебе придется меня учить. Почему ты выбрал это как специальность?",ai,,01B3A31E441C5C93AE157FA9880E889F
-(GAIN TRAIT: SARCASTIC) It's easier than painting.,"[ПОЛУЧИТЬ ЧЕРТУ: САРКАЗМ] Это проще, чем рисование.",ai,,19F7DF9F429B839EB8075BABB90BC692
-(GAIN TRAIT: SOCIAL) I want to connect with people through my art.,[ПОЛУЧИТЬ ЧЕРТУ: ОБЩИТЕЛЬНОСТЬ] Я хочу общаться с людьми через искусство.,ai,,EA2B6B0142C17ADD0E03CA8ED0C074D6
-(GAIN TRAIT: INVESTIGATIVE) I want to show the world for what it is.,"[ПОЛУЧИТЬ ЧЕРТУ: ПЫТЛИВОСТЬ] Я хочу показать мир таким, какой он есть.",ai,,E8F02EDF4433843FFC8F148F0F4DED5A
+(GAIN TRAIT: SARCASTIC) It's easier than painting.,"(ПОЛУЧИТЬ ЧЕРТУ: САРКАЗМ) Это проще, чем рисование.",ai,,19F7DF9F429B839EB8075BABB90BC692
+(GAIN TRAIT: SOCIAL) I want to connect with people through my art.,(ПОЛУЧИТЬ ЧЕРТУ: ОБЩИТЕЛЬНОСТЬ) Я хочу общаться с людьми через искусство.,ai,,EA2B6B0142C17ADD0E03CA8ED0C074D6
+(GAIN TRAIT: INVESTIGATIVE) I want to show the world for what it is.,"(ПОЛУЧИТЬ ЧЕРТУ: ПЫТЛИВОСТЬ) Я хочу показать мир таким, какой он есть.",ai,,E8F02EDF4433843FFC8F148F0F4DED5A
 "I'm sure they can set you up, man. So why photography?","Уверен, они могут тебе помочь, чувак. Так почему фотография?",ai,,15BF581346FF08727C1DFAAE637E4DB5
-(GAIN TRAIT: SARCASTIC) It's easier than painting.,"[ПОЛУЧИТЬ ЧЕРТУ: САРКАЗМ] Это проще, чем рисование.",ai,,21E94460450E2EE40231A1BB698BE776
-(GAIN TRAIT: SOCIAL) I want to connect with people through my art.,[ПОЛУЧИТЬ ЧЕРТУ: ОБЩИТЕЛЬНОСТЬ] Я хочу общаться с людьми через искусство.,ai,,B82B512F4D4683A0AD49C1993E162CA0
-(GAIN TRAIT: INVESTIGATIVE) I want to show the world for what it is.,"[ПОЛУЧИТЬ ЧЕРТУ: ПЫТЛИВОСТЬ] Я хочу показать мир таким, какой он есть.",ai,,4953832D407AFB187A43F4B0DF34F152
+(GAIN TRAIT: SARCASTIC) It's easier than painting.,"(ПОЛУЧИТЬ ЧЕРТУ: САРКАЗМ) Это проще, чем рисование.",ai,,21E94460450E2EE40231A1BB698BE776
+(GAIN TRAIT: SOCIAL) I want to connect with people through my art.,(ПОЛУЧИТЬ ЧЕРТУ: ОБЩИТЕЛЬНОСТЬ) Я хочу общаться с людьми через искусство.,ai,,B82B512F4D4683A0AD49C1993E162CA0
+(GAIN TRAIT: INVESTIGATIVE) I want to show the world for what it is.,"(ПОЛУЧИТЬ ЧЕРТУ: ПЫТЛИВОСТЬ) Я хочу показать мир таким, какой он есть.",ai,,4953832D407AFB187A43F4B0DF34F152
 "Doesn't 'vintage' just mean it's old as shit? Anyway, I guess you're the expert. So why photography?","Разве 'винтажный' не значит, что он старый как черт? В любом случае, ты, наверное, эксперт. Так почему фотография?",ai,,A828D78B43BEA078AAEC108F02FA6D45
-(GAIN TRAIT: SARCASTIC) It's easier than painting.,"[ПОЛУЧИТЬ ЧЕРТУ: САРКАЗМ] Это проще, чем рисование.",ai,,8AE6EB3A467A104CCDB8479C6D176A1E
-(GAIN TRAIT: SOCIAL) I want to connect with people through my art.,[ПОЛУЧИТЬ ЧЕРТУ: ОБЩИТЕЛЬНОСТЬ] Я хочу общаться с людьми через искусство.,ai,,E53143F240898D8F9CA0448D33100627
-(GAIN TRAIT: INVESTIGATIVE) I want to show the world for what it is.,"[ПОЛУЧИТЬ ЧЕРТУ: ПЫТЛИВОСТЬ] Я хочу показать мир таким, какой он есть.",ai,,45BBB1274BBD5632AB74C8A32834F277
+(GAIN TRAIT: SARCASTIC) It's easier than painting.,"(ПОЛУЧИТЬ ЧЕРТУ: САРКАЗМ) Это проще, чем рисование.",ai,,8AE6EB3A467A104CCDB8479C6D176A1E
+(GAIN TRAIT: SOCIAL) I want to connect with people through my art.,(ПОЛУЧИТЬ ЧЕРТУ: ОБЩИТЕЛЬНОСТЬ) Я хочу общаться с людьми через искусство.,ai,,E53143F240898D8F9CA0448D33100627
+(GAIN TRAIT: INVESTIGATIVE) I want to show the world for what it is.,"(ПОЛУЧИТЬ ЧЕРТУ: ПЫТЛИВОСТЬ) Я хочу показать мир таким, какой он есть.",ai,,45BBB1274BBD5632AB74C8A32834F277
 "Hah - I'm sure it is. Either way, I can do neither. You'll have to take pictures of our room and campus! Oh man, this is going to be great, Howie.","Ха — уверен, что так и есть. В любом случае, я не умею ни то, ни другое. Тебе придется фотографировать нашу комнату и кампус! О, чувак, это будет здорово, Говчик.",ai,,A8DE380C4C055E56C43A5F97EEB5E22D
 "Yeah, I got a good feeling about this.","Ага, у меня хорошее предчувствие.",ai,,11146E094B6C93826B077F9FE053065D
 Howie?,Говчик?,ai,,87AB4A9E49CE81849CE25D94121D418B
@@ -250,17 +250,17 @@ I wish.,Хотел бы я.,ai,,AFF7D14E493F301BF7BB529298EE483E
 "Yeah, sure.","Ага, конечно.",ai,,026C399F4C4489F5CB97ACBA0F61648F
 I think that would make her furious.,"Думаю, это бы её разозлило.",ai,,ECFD51ED4E433F22E62E449EB0D53596
 "Alright, let me get your mind off things. What's the one thing you really want to do at university?","Ладно, давай отвлечем тебя. Что ты действительно хочешь сделать в университете?",ai,,C0938B21453FC63B6C8DC4BFE5D1275C
-(GAIN TRAIT: SARCASTIC) Study. I love them textbooks.,[ПОЛУЧИТЬ ЧЕРТУ: САРКАЗМ] Учиться. Обожаю учебники.,ai,,B604C7F247305E81E6467494EF7E442A
-"(GAIN TRAIT: SOCIAL) I just wanna meet people, honestly. New friends.","[ПОЛУЧИТЬ ЧЕРТУ: ОБЩИТЕЛЬНОСТЬ] Я просто хочу познакомиться с людьми, честно. Новые друзья.",ai,,0A74C0ED491095C29757BC86ABBB2C36
-"(GAIN TRAIT: INVESTIGATIVE) I wanna get smarter, man. Figure things out.","[ПОЛУЧИТЬ ЧЕРТУ: ПЫТЛИВОСТЬ] Я хочу стать умнее, чувак. Разобраться в вещах.",ai,,EAB23D9A4734DEB870A53EB681434E10
+(GAIN TRAIT: SARCASTIC) Study. I love them textbooks.,(ПОЛУЧИТЬ ЧЕРТУ: САРКАЗМ) Учиться. Обожаю учебники.,ai,,B604C7F247305E81E6467494EF7E442A
+"(GAIN TRAIT: SOCIAL) I just wanna meet people, honestly. New friends.","(ПОЛУЧИТЬ ЧЕРТУ: ОБЩИТЕЛЬНОСТЬ) Я просто хочу познакомиться с людьми, честно. Новые друзья.",ai,,0A74C0ED491095C29757BC86ABBB2C36
+"(GAIN TRAIT: INVESTIGATIVE) I wanna get smarter, man. Figure things out.","(ПОЛУЧИТЬ ЧЕРТУ: ПЫТЛИВОСТЬ) Я хочу стать умнее, чувак. Разобраться в вещах.",ai,,EAB23D9A4734DEB870A53EB681434E10
 "Sweet. Alright, let me ask you something: what's the one thing you want to do at university?","Круто. Ладно, давай спрошу: что ты хочешь сделать в университете?",ai,,C1A230F04D920943009D2DAF26C52C48
-(GAIN TRAIT: SARCASTIC) Study. I love them textbooks.,[ПОЛУЧИТЬ ЧЕРТУ: САРКАЗМ] Учиться. Обожаю учебники.,ai,,0E8198354DDA718582BADC90AB0FD8C0
-"(GAIN TRAIT: SOCIAL) I just wanna meet people, honestly. New friends.","[ПОЛУЧИТЬ ЧЕРТУ: ОБЩИТЕЛЬНОСТЬ] Я просто хочу познакомиться с людьми, честно. Новые друзья.",ai,,2412E94447D10B8CD7341A9F9F50A15E
-"(GAIN TRAIT: INVESTIGATIVE) I wanna get smarter, man. Figure things out.","[ПОЛУЧИТЬ ЧЕРТУ: ПЫТЛИВОСТЬ] Я хочу стать умнее, чувак. Разобраться в вещах.",ai,,40E95F8246D16AFE09C54794786EBA15
+(GAIN TRAIT: SARCASTIC) Study. I love them textbooks.,(ПОЛУЧИТЬ ЧЕРТУ: САРКАЗМ) Учиться. Обожаю учебники.,ai,,0E8198354DDA718582BADC90AB0FD8C0
+"(GAIN TRAIT: SOCIAL) I just wanna meet people, honestly. New friends.","(ПОЛУЧИТЬ ЧЕРТУ: ОБЩИТЕЛЬНОСТЬ) Я просто хочу познакомиться с людьми, честно. Новые друзья.",ai,,2412E94447D10B8CD7341A9F9F50A15E
+"(GAIN TRAIT: INVESTIGATIVE) I wanna get smarter, man. Figure things out.","(ПОЛУЧИТЬ ЧЕРТУ: ПЫТЛИВОСТЬ) Я хочу стать умнее, чувак. Разобраться в вещах.",ai,,40E95F8246D16AFE09C54794786EBA15
 "Then it's a good thing she's not here! Here, let me get your mind off things. What's the one thing you really want to do at university?","Тогда хорошо, что её здесь нет! Давай отвлечем тебя. Что ты действительно хочешь сделать в университете?",ai,,5829DDB24539B7BB2E735C86DE5D17AD
-(GAIN TRAIT: SARCASTIC) Study. I love them textbooks.,[ПОЛУЧИТЬ ЧЕРТУ: САРКАЗМ] Учиться. Обожаю учебники.,ai,,0FAFB53A4B4A8E5775C8118E26FF46A2
-"(GAIN TRAIT: SOCIAL) I just wanna meet people, honestly. New friends.","[ПОЛУЧИТЬ ЧЕРТУ: ОБЩИТЕЛЬНОСТЬ] Я просто хочу познакомиться с людьми, честно. Новые друзья.",ai,,002060B34DFC64A2342C3EBD2191DBE6
-"(GAIN TRAIT: INVESTIGATIVE) I wanna get smarter, man. Figure things out.","[ПОЛУЧИТЬ ЧЕРТУ: ПЫТЛИВОСТЬ] Я хочу стать умнее, чувак. Разобраться в вещах.",ai,,815BA0554E627588F60C999D7B83EC1F
+(GAIN TRAIT: SARCASTIC) Study. I love them textbooks.,(ПОЛУЧИТЬ ЧЕРТУ: САРКАЗМ) Учиться. Обожаю учебники.,ai,,0FAFB53A4B4A8E5775C8118E26FF46A2
+"(GAIN TRAIT: SOCIAL) I just wanna meet people, honestly. New friends.","(ПОЛУЧИТЬ ЧЕРТУ: ОБЩИТЕЛЬНОСТЬ) Я просто хочу познакомиться с людьми, честно. Новые друзья.",ai,,002060B34DFC64A2342C3EBD2191DBE6
+"(GAIN TRAIT: INVESTIGATIVE) I wanna get smarter, man. Figure things out.","(ПОЛУЧИТЬ ЧЕРТУ: ПЫТЛИВОСТЬ) Я хочу стать умнее, чувак. Разобраться в вещах.",ai,,815BA0554E627588F60C999D7B83EC1F
 "I can respect that, man. No worries.","Конечно, чувак. Без проблем.",ai,,ECEC28184529D8D12E69298D1DFFAA12
 "I just don't wanna lose myself, you know.","Я просто не хочу потерять себя, понимаешь.",ai,,3661587840AA9F0233DF83B86DB7C9E0
 I appreciate it.,Спасибо.,ai,,3E83E1C14A1FBBE9471A69A864E78BAA
@@ -290,7 +290,7 @@ Deal.,Договорились.,ok,,810025C94BBD49E259E91787EC232B9B
 "But Larry, I have no money. No money at all, Larry.","Но, Ларри, у меня нет денег. Вообще нет.",ai,,5723A29B4575348183E71E9DC8297F97
 Sweet. Go.,Круто. Давай.,ai,,9A9982944F20D23380827391D50D2AC4
 Just like that? I don't get to narrow it down?,Вот так просто? Мне не дадут подсказку?,ai,,E64822424A9FBA60FE94899BA4B18C89
-"(INVESTIGATIVE) I don't see any instruments, brushes or tools in here. Your major is theory, rather than practice.","[ПЫТЛИВОСТЬ] Я не вижу здесь инструментов, кистей или принадлежностей. Твоя специальность — теория, а не практика.",ai,,94CFE6F64C2E4C7572E4D4AF056BE0D6
+"(INVESTIGATIVE) I don't see any instruments, brushes or tools in here. Your major is theory, rather than practice.","(ПЫТЛИВОСТЬ) Я не вижу здесь инструментов, кистей или принадлежностей. Твоя специальность — теория, а не практика.",ai,,94CFE6F64C2E4C7572E4D4AF056BE0D6
 Think I can guess right away.,"Думаю, могу угадать сразу.",ai,,6FAD82A64F34D532BDBB1E99FCBD2BD8
 "Alright, so you'll owe me when you do! Sound good?","Ладно, тогда ты мне должен, когда угадаешь! Договорились?",ai,,033B328B40FF74839297428C09CF979A
 Fair enough.,Справедливо.,ai,,B6B3D7924824EC0971CE61BDFDE9E257

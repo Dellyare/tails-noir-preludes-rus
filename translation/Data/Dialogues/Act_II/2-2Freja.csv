@@ -27,7 +27,7 @@ I thought I was being really smooth.,"А я думал, что подкатил 
 That...sounds kinda hot.,Это... звучит как-то горячо.,ai,,2D4953F44314A926B0AAA7908F330070
 I see your point. I don't want to be Niles.,"Понимаю, о чём ты. Не хочу быть Найлсом.",ai,,07ACEDB447B8AFD65E25B79E517FA3E1
 "Yeah, I can smell the beer on you. Have you guys been drinking a lot?","Ага, от тебя пивом несёт. Вы много пили?",ai,,BC837635433ED25648CCBCA6D6299F4B
-(INVESTIGATIVE) Wait - I don't smell of beer at all.,"[ПЫТЛИВОСТЬ] Погоди, от меня совсем не пахнет пивом.",ai,,A6B68A2C4EFF096CB2D8B391C49BC72D
+(INVESTIGATIVE) Wait - I don't smell of beer at all.,"(ПЫТЛИВОСТЬ) Погоди, от меня совсем не пахнет пивом.",ai,,A6B68A2C4EFF096CB2D8B391C49BC72D
 "Nah, we're just hanging out.","Не, мы просто тусуемся.",ai,,DECB4D314B11D1C6C3379EA207A97802
 "Not to impress you or anything, but I've probably had like...three beers.","Не то чтобы я хотел тебя впечатлить, но я выпил, наверное... три пива.",ai,,B2221FE846E764337246A1A38C3D3084
 "Alright, so - the party is coming to an end. I have to go, but it's clear that our vibes are meshing. What's your move?","Значит, так: вечеринка подходит к концу. Мне пора, но видно, что вайбы у нас совпадают. Твой ход?",ai,,80B7102241C408394E616D8B1E1B276F
@@ -44,7 +44,7 @@ Your point being?,И что ты хочешь этим сказать?,ai,,F4A06
 Oh yeah? What's that?,Да ну? И что же?,ai,,13EF26CB4A2BF8E7349E04A6832164E7
 There's a spot I go to when I want to relax. I think you'd like it.,"Есть одно место, куда я хожу, когда хочу расслабиться. Думаю, тебе понравится.",ai,,D3FEBB9D443D33C6A6910A93571281B0
 "I can skip rocks, like, a hundred times.","Я умею пускать блинчики, типа, раз сто подряд.",ai,,BD80BBFD4E16CF4D4B6219980AA0D450
-"(SARCASTIC) It's a wall that lines the waterfront, but that's not important.","[САРКАЗМ] Это такая каменная стенка вдоль берега, но это неважно.",ai,,CDE7B2EB4956BBB8B27B95A59814AF9E
+"(SARCASTIC) It's a wall that lines the waterfront, but that's not important.","(САРКАЗМ) Это такая каменная стенка вдоль берега, но это неважно.",ai,,CDE7B2EB4956BBB8B27B95A59814AF9E
 I overheard you trying to flirt with Niles. You guys are such fucking dorks.,"Я слышала, как ты пытался флиртовать с Найлсом. Вы такие ебучие задроты.",ai,,FA538DE5456F6438F206F9A9E817BB8D
 "Yeah, uh, I struck out.","Ага, э-э, я облажался.",ai,,D43163064F860DD55041ACA9228CE9C2
 "And pretty soon, we might be dorks fucking.","А скоро, глядишь, будем задротами, которые ебутся.",ai,,EAE19A8F4207AF8C9D1DC78ADE5394A8
@@ -101,7 +101,7 @@ I mean - you want to come to my place and consider...banging?,В смысле...
 "...No, it's just - you know. ""Nut."" Like nutting, you know?","...Нет, просто — ну, понимаешь. «Орешки». Ну, типа, орешки, понимаешь?",ai,,4ED84CF647CF400C5648BBA95EDB929C
 Good call.,Хорошая мысль.,ai,,2709BC23455DBF5FB0179089334910DF
 "Wow, you've convinced me.","Ого, ты меня убедил.",ai,,7A5429464590949612F7DE922144E322
-(INVESTIGATIVE) No I haven't.,"[ПЫТЛИВОСТЬ] Нет, не убедил.",ai,,8C586A5842822BDFB8A853A39F9A6351
+(INVESTIGATIVE) No I haven't.,"(ПЫТЛИВОСТЬ) Нет, не убедил.",ai,,8C586A5842822BDFB8A853A39F9A6351
 Really?,Правда?,ai,,9BF8B394415C74BC65084A8758632D37
 "That's why we're workshopping it, man! We're figuring it out - who knows, maybe all this work will get you a date in the long run.","Для этого мы и репетируем, чувак! Разбираемся — кто знает, может, вся эта работа в итоге принесёт тебе свидание.",ai,,56BFFA104A14AB12C1522B8C57119643
 "So, uh, do you want to go for one?","Так, э-э... хочешь сходить на одно?",ai,,0EF0E2C7492A8B60C3FD778B7F4EA6DE
@@ -184,7 +184,7 @@ I hate fun. But please go on.,"Ненавижу веселье. Но, пожал
 "What kind of music do you study, again?","Напомни, какую музыку ты изучаешь?",ai,,21D292354D336F0E701F0F9736F75DB8
 I love dancing music. That's why I picked this album.,Я люблю танцевальную музыку. Поэтому и выбрал этот альбом.,ai,,FE6623EA4C04BA01DB19E888F8BD0628
 "...Are you talking about sex, Howard?","...Ты про секс, Говард?",ai,,02A88AAD493427605FBE3A864A66B531
-"(SARCASTIC) No, I'm talking about knitting.","[САРКАЗМ] Нет, я про вязание.",ai,,E48D9EA3451DA71F622E808C687FDFB7
+"(SARCASTIC) No, I'm talking about knitting.","(САРКАЗМ) Нет, я про вязание.",ai,,E48D9EA3451DA71F622E808C687FDFB7
 [Nod],[Кивнуть],ai,,8869DE634957A5715DFA76AF9FC411F3
 [Shake your head],[Покачать головой],ai,,123EC3B54D631A9F1BE7698658E84C57
 "It's less cool when you put it like that, but sure. I didn't know you smoked, Howard. I'll let you know next time I'm rolling one.","Звучит не так круто, когда ты так говоришь, но ладно. Не знала, что ты куришь, Говард. Дам знать, когда в следующий раз буду крутить косяк.",ai,,DBD327044EEB98401BC547885C96B513
@@ -196,7 +196,7 @@ Sure. I'll bring Larry.,Конечно. Я приведу Ларри.,ai,,51F400
 "Rather have me all to yourself, huh?","Хочешь, чтобы я достался только тебе, а?",ai,,EAA7BA6C4AC17D8E6F93C393C91127D5
 "Cool, cool.","Круто, круто.",ai,,D67ACF514221BBB6D240D59119324C28
 "I wanted to talk to you about something, by the way.","Кстати, я хотел с тобой кое о чём поговорить.",ai,,C827014A48A4E0AAC419F6A444B3F386
-"(FLIRT) So, hey - you wanna do something later? ","[ФЛИРТ] Слушай, а не хочешь чем-нибудь заняться попозже? ",ai,,78868DC8482ED1DA62F91C8214680429
+"(FLIRT) So, hey - you wanna do something later? ","(ФЛИРТ) Слушай, а не хочешь чем-нибудь заняться попозже? ",ai,,78868DC8482ED1DA62F91C8214680429
 "See you later, Freja.","Ещё увидимся, Фрея.",ai,,3CB8EC83472B86A8DD3BADAE627AC52C
 "Pfff. Alright, enough of that shit. Let's cap off our little flirting workshop, shall we?","Пффф. Ладно, хватит этой хрени. Давай закругляться с нашим маленьким флирт-практикумом, а?",ai,,0204509340F6C5E9F3B3CD939EA17A38
 Let's do it.,Пора за дело.,ok,,B7E4279245340DA9FDEE1188A30F20C8
@@ -229,11 +229,11 @@ Not at all. [Sad dance],Вовсе нет. [Грустный танец],ai,,0AE
 Sure thing.,Конечно.,ok,,40B5B004440C0208B38E9BADC224B2DB
 Ready to finish us off.,Готов нас прикончить.,ai,,A2A08E66433115047E177CB8EFBBEA35
 Sure - what's up?,"Конечно, что такое?",ai,,732A6F2045A4EE96CD77659C0C07A100
-"(SARCASTIC) So you're just standing around in the hallway, huh? Real exciting.","[САРКАЗМ] Так ты просто стоишь в коридоре, да? Захватывающе.",ai,,0A258C7F4F19001A27E4E4989FC7B065
-(SOCIAL) You want to come hang with me and Larry?,[ОБЩИТЕЛЬНОСТЬ] Не хочешь потусить со мной и Ларри?,ai,,E598F0704F613E61F8917D9F3AADAE98
-"(INVESTIGATIVE) Is it just me, or is the dorm weirdly empty today?",[ПЫТЛИВОСТЬ] Мне кажется или в общаге сегодня странно пусто?,ai,,DCFF150749605CDDC2CF06B82D136E3C
+"(SARCASTIC) So you're just standing around in the hallway, huh? Real exciting.","(САРКАЗМ) Так ты просто стоишь в коридоре, да? Захватывающе.",ai,,0A258C7F4F19001A27E4E4989FC7B065
+(SOCIAL) You want to come hang with me and Larry?,(ОБЩИТЕЛЬНОСТЬ) Не хочешь потусить со мной и Ларри?,ai,,E598F0704F613E61F8917D9F3AADAE98
+"(INVESTIGATIVE) Is it just me, or is the dorm weirdly empty today?",(ПЫТЛИВОСТЬ) Мне кажется или в общаге сегодня странно пусто?,ai,,DCFF150749605CDDC2CF06B82D136E3C
 I think we should come up with a new name for our dorms.,"Думаю, нам надо придумать новое название для нашей общаги.",ai,,728FA50544F530468A88CBB950D0417A
-"(FLIRT) So, hey - you wanna do something later? ","[ФЛИРТ] Слушай, а не хочешь чем-нибудь заняться попозже? ",ai,,134084A14C696F0CC75CF39ED1B29BF8
+"(FLIRT) So, hey - you wanna do something later? ","(ФЛИРТ) Слушай, а не хочешь чем-нибудь заняться попозже? ",ai,,134084A14C696F0CC75CF39ED1B29BF8
 "I'll be right back, Freja.","Я сейчас вернусь, Фрея.",ai,,4B6AEE2A4FDCD461AB7BB79215F47F2E
 "Sure, man. Whatever gets you going. For now, let's wrap up this flirting, shall we?","Конечно, чувак. Что бы тебя ни заводило. А пока давай закругляться с флиртом, а?",ai,,39110A6642D902E23950F2B0DD5A1830
 Let's get wrapping.,Закругляемся.,ai,,2DA128AF4CE94E4A4DD9079F3B8AF26A
@@ -611,7 +611,7 @@ What could I do better?,Что мне сделать лучше?,ai,,428E49CF47E
 "Alright, that's enough flirting for today. Not bad, Howard. A little rusty, but you've got moves. I don't think you're gonna have much trouble getting around.","Так, на сегодня хватит флирта. Неплохо, Говард. Чуть заржавел, но приёмы у тебя есть. Думаю, проблем с общением у тебя не будет.",ai,,D468A92445E945BDF9605C9BB3F7F87E
 "Eh, I had a good teacher.","Ну, у меня был хороший учитель.",ai,,AC371D66481D10A3B133F78ED46C368C
 Yeah? Nice. Can't wait to get laid.,Да? Класс. Не терпится кого-нибудь закадрить.,ai,,DD990DB743DE22AF711BB2A8D8464793
-"(SARCASTIC) Getting around? Yes, finally, I'll have the confidence to ask for directions.","[САРКАЗМ] Общением? Да, наконец-то у меня хватит уверенности спросить дорогу.",ai,,390A405145A3244B23E25C939B2CEEE6
+"(SARCASTIC) Getting around? Yes, finally, I'll have the confidence to ask for directions.","(САРКАЗМ) Общением? Да, наконец-то у меня хватит уверенности спросить дорогу.",ai,,390A405145A3244B23E25C939B2CEEE6
 "Anyway, I think that's enough flirting - especially since you don't even seem to need my help, man! You're smooth, Howie! You've got some moves!","В общем, хватит флирта — тем более тебе моя помощь, похоже, вообще не нужна, чувак! Ты ловкий, Говчик! У тебя есть приёмы!",ai,,A972C4344D5A099FBBC52A94CC621860
 You think so?,Ты так думаешь?,ai,,6878E3874FEAC60E1410359488CDE3BE
 "Yeah, I'm a stone-cold master flirter and I know it.","Ага, я хладнокровный мастер флирта и сам это знаю.",ai,,A1839E6E4C58E28C5370A1A2C34F7922
@@ -660,7 +660,7 @@ Sounds like a plan.,Звучит как план.,ai,,1226C8DB4ACB7F453060ECB8FF
 Good luck trying to convince him.,Удачи в попытках его уговорить.,ai,,A7381E114896996D2FAF6B8E5B5801FF
 "What's up, Howie? How come you're hanging out here?","Как дела, Говчик? Чего это ты тут торчишь?",ai,,F4DB4C994D2C485B93A062AD5432B5B2
 I wanted to talk to you about something.,Хотел с тобой кое о чём поговорить.,ai,,0FBE1BE743C0D01D24F4C8AE599972EA
-"(FLIRT) So, hey - you wanna do something later? ","[ФЛИРТ] Слушай, а не хочешь чем-нибудь заняться попозже? ",ai,,75DA4DBD4638211D8388509E900549CE
+"(FLIRT) So, hey - you wanna do something later? ","(ФЛИРТ) Слушай, а не хочешь чем-нибудь заняться попозже? ",ai,,75DA4DBD4638211D8388509E900549CE
 "You know what? No clue. Later, Frejter.","Знаешь что? Понятия не имею. Пока, Фрейтер.",ai,,EDE390964B521F311B25EB9974B1894B
 "Pfft. What else is there to do, man? Today and tomorrow's another dead 'end.","Пфф. А чем ещё заниматься, чувак? Сегодня и завтра — очередные мёртвые 'ходные.",ai,,8DED385547937CC9F61423A2C8771F18
 "A ""dead 'end""?",«Мёртвые 'ходные»?,ai,,278909EA41DB7E07E6B419809B76430A
@@ -707,7 +707,7 @@ I live for the art. And you are my muse.,Я живу ради искусства
 Art can be fun.,Искусство может быть весёлым.,ai,,72483E594532CA0B5C43B7A2033DDFF0
 "...Yeah, no, I see what you're going for there, Howard. You're moving too fast, though! And the wink? I'd drop it. Very few people can pull off a wink.","...Ага, нет, я вижу, к чему ты клонишь, Говард. Но ты слишком торопишься! И подмигивание? Я бы бросила. Мало у кого оно получается.",ai,,70E22DEB42695F5FE86FAAB69C6F6DA0
 Are you saying I'm not hot enough to wink at people?,"То есть я недостаточно горяч, чтобы подмигивать людям?",ai,,386F46B34FAD6BC2C03BC5855DE0E278
-"(SOCIAL) It's not about who you are, it's about when you do it.","[ОБЩИТЕЛЬНОСТЬ] Дело не в том, кто ты, а в том, когда ты это делаешь.",ai,,C34194994F3016187488B6B5055665E9
+"(SOCIAL) It's not about who you are, it's about when you do it.","(ОБЩИТЕЛЬНОСТЬ) Дело не в том, кто ты, а в том, когда ты это делаешь.",ai,,C34194994F3016187488B6B5055665E9
 Can you get away with a wink?,А мне можно подмигнуть?,ai,,F7CA548042DEE86782FDD592B38DDC91
 "Hah! What, you're expecting to get to take more than one? What makes you think that?","Ха! Что, ты рассчитываешь на большее, чем одну? С чего ты взял?",ai,,247E2F22425482644EC1578C122C7EBE
 I'm a great photographer.,Я отличный фотограф.,ai,,391DFF3E475EE1C8768BDC90C0197568
@@ -715,7 +715,7 @@ You're a great subject.,Ты отличная модель.,ai,,9973ED6F45DFB185
 "It's not just fun because you say it is, Howie! Besides, we're at a party, remember? Music is BLASTING. This is not the time or place to talk art!","Это не весело только потому, что ты так говоришь, Говчик! К тому же мы на вечеринке, помнишь? Музыка ГРЕМИТ. Не время и не место говорить об искусстве!",ai,,591C29DA4165F87B42F75193C5F49F97
 You're right. Let's keep going.,Ты права. Давай продолжим.,ai,,0C84C58D406A5EAD88A7B3936CCA7BCB
 Hrmpf. Agree to disagree.,Хм. Каждый останется при своём.,ai,,163AFA7340C34B45EF6E4C92F83D1BA5
-"(SARCASTIC)  The louder the music, the louder I have to be - and the louder I am, the more right I am about stuff.","[САРКАЗМ] Чем громче музыка, тем громче мне приходится быть — а чем громче я, тем больше я прав.",ai,,ABF733FD4B7FAD84DC0094921D0055CB
+"(SARCASTIC)  The louder the music, the louder I have to be - and the louder I am, the more right I am about stuff.","(САРКАЗМ) Чем громче музыка, тем громче мне приходится быть — а чем громче я, тем больше я прав.",ai,,ABF733FD4B7FAD84DC0094921D0055CB
 Er...I'm saying you might want to time it better. See what I mean?,"Э... я говорю, что тебе стоит выбирать момент получше. Понимаешь?",ai,,20786A5C4086A5113C03D8BA2EF13C3E
 Oh. I see. Uh-huh. [Wink],О. Понимаю. Ага. [Подмигнуть],ai,,D7886F234443E08D61A47C8B326C5920
 I'll keep it in mind.,Учту.,ai,,1F01E6F64D1FAFE4ED8C8B97C8EC4FFC
@@ -731,11 +731,11 @@ Oh yeah. I'm feeling it.,О да. Чувствую.,ai,,E11E726B488B3C5E945DBD87
 I'm a sensual person and I want to show that.,Я чувственный человек и хочу это показать.,ai,,F9950B494B9C632C013AABB3CB1D15CF
 Got it. Don't get too crazy. What next?,Понял. Не слишком увлекаться. Что дальше?,ai,,37D1D6B44044523CAFE8F28D97AFD951
 "Smart move. Stay close, make eye contact every once in a while. Make yourself available, you know?","Умно. Держись рядом, время от времени встречайся взглядом. Будь доступен, понимаешь?",ai,,73BA8076418C0312FF3F3BA16FD6AE64
-(SOCIAL) It's important for me to show that I'm comfortable with everyone and not just singling you out.,"[ОБЩИТЕЛЬНОСТЬ] Мне важно показать, что мне комфортно со всеми, а не только с тобой одной.",ai,,A2CDA4EC45732B1E4950E99FF8ACEFE6
+(SOCIAL) It's important for me to show that I'm comfortable with everyone and not just singling you out.,"(ОБЩИТЕЛЬНОСТЬ) Мне важно показать, что мне комфортно со всеми, а не только с тобой одной.",ai,,A2CDA4EC45732B1E4950E99FF8ACEFE6
 "I am available, by the way. Not sure I mentioned that.","Я, кстати, свободен. Не уверен, что говорил.",ai,,1C4643234D8AA497F18C25A3A98036FB
 Sizzling hot eye contact. I like it.,Раскалённый зрительный контакт. Мне нравится.,ai,,43B9B3A9449AD29143123A8692A24B36
 "Go hard? What, you imagining some kind of mosh pit?","На полную? Что, представляешь какой-нибудь мош-пит?",ai,,188458E84A4278B1CDA1C5BDF6F86757
-(SARCASTIC) Obviously. I try to make sure I get at least one major injury per party.,[САРКАЗМ] Конечно. Я стараюсь получить хотя бы одну серьёзную травму за вечеринку.,ai,,04C610604FD3BC277A82F19CB008BB68
+(SARCASTIC) Obviously. I try to make sure I get at least one major injury per party.,(САРКАЗМ) Конечно. Я стараюсь получить хотя бы одну серьёзную травму за вечеринку.,ai,,04C610604FD3BC277A82F19CB008BB68
 "I just like going hard, Freja.","Мне просто нравится танцевать на полную, Фрея.",ai,,C35FB5754A75995CA9F983ADFFF0544D
 "Oh, no. I go hard by myself. Every day, baby.","О нет. Я на полную отрываюсь в одиночку. Каждый день, детка.",ai,,C732C5BE4CF5D048D4E8E294AA45E073
 Nice to see I'm not the only one with taste around here. - Tony-Roo and the Tricksters are legit as fuck.,"Приятно, что я тут не единственная со вкусом. Тони-Ру и Трикстеры — реально чертовски круты.",ai,,17FFAF9840E4649E03F369911CB6A98B
@@ -810,10 +810,10 @@ Photography is my life.,Фотография — моя жизнь.,ai,,5DADC774
 Oh yeah? What kind of pictures do you take?,О да? А какие фотографии ты снимаешь?,ai,,575ADE32424989FB2775F6ABC3BCC96F
 "Pictures of you, hopefully.","Тебя, надеюсь.",ai,,50EC28B248F26E034867EABBC77AFEE3
 "I've got some in my room, if you want to see?","У меня в комнате есть несколько, если хочешь посмотреть?",ai,,E6185B9B41262B6B7E4F58B5B6FAD11F
-(SARCASTIC) Any I can find. I'm a kleptomaniac.,"[САРКАЗМ] Любые, какие найду. Я клептоман.",ai,,3460981A4725DE0E2886BCA693CEEBB2
-"(SOCIAL) I love taking pictures of gatherings - life, you know?","[ОБЩИТЕЛЬНОСТЬ] Обожаю снимать сборища — жизнь, понимаешь?",ai,,DD776C1147687868668669B2F987254B
-(INVESTIGATIVE) I enjoy documenting things.,[ПЫТЛИВОСТЬ] Мне нравится документировать всё подряд.,ai,,B4C41D3740B916FCB2DD7B895BE14600
+(SARCASTIC) Any I can find. I'm a kleptomaniac.,"(САРКАЗМ) Любые, какие найду. Я клептоман.",ai,,3460981A4725DE0E2886BCA693CEEBB2
+"(SOCIAL) I love taking pictures of gatherings - life, you know?","(ОБЩИТЕЛЬНОСТЬ) Обожаю снимать сборища — жизнь, понимаешь?",ai,,DD776C1147687868668669B2F987254B
+(INVESTIGATIVE) I enjoy documenting things.,(ПЫТЛИВОСТЬ) Мне нравится документировать всё подряд.,ai,,B4C41D3740B916FCB2DD7B895BE14600
 "Come on, Howie! That's the best you've got? It's not like you're flirting with, you know, Niles!","Давай, Говчик! Это всё, что у тебя есть? Не с Найлсом же ты флиртуешь!",ai,,C12BCDB140F4CFBB5EE2CEAFA574808F
-"(SOCIAL) Me caring about politics just means I care about people, Freja.","[ОБЩИТЕЛЬНОСТЬ] Если мне не всё равно на политику, значит, мне не всё равно на людей, Фрея.",ai,,D7A873B04B6ED399FDAB73997CF9DC9A
+"(SOCIAL) Me caring about politics just means I care about people, Freja.","(ОБЩИТЕЛЬНОСТЬ) Если мне не всё равно на политику, значит, мне не всё равно на людей, Фрея.",ai,,D7A873B04B6ED399FDAB73997CF9DC9A
 Niles? Why Niles?,Найлс? Почему Найлс?,ai,,ADE67A9F45A52418074CB1B964BF396D
 "Politics is super important, Freja.","Политика очень важна, Фрея.",ai,,FB56C7DC401025EEF817E0B665350B49

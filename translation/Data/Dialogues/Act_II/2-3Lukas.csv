@@ -4,9 +4,9 @@ Don't worry. I'll take care of the cleaning up. And the dishes.,Не волну�
 ...I'm sorry I brought it up again.,"...Прости, что снова завела об этом разговор.",ai,,93A20E29406BB232F81B9CA76CB1226A
 ...We do need to talk about it. At some point.,...Нам всё-таки нужно об этом поговорить. Когда-нибудь.,ai,,619A32484A6D8781C12BD4AF3619A60A
 Thanks for... keeping my mind off things.,"Спасибо, что... помог мне отвлечься.",ai,,3B2E176245336C19DCDFA1A4AF5B494E
-(CARING) You sure you don't need any help?,[ЗАБОТЛИВОСТЬ] Точно не нужна помощь?,ai,,0D6D0245467884E55151E792E0DECC3A
-"(DRIVEN) I'll be in my office, alright?","[ЦЕЛЕУСТРЕМЛЁННОСТЬ] Я буду у себя в кабинете, хорошо?",ai,,C5C27A1E4002F455F424CBBC974410B8
-(LOGICAL) It's unlike you to offer to clean up after dinner.,[ЛОГИЧНОСТЬ] Это на тебя не похоже — самому вызываться убирать после ужина.,ai,,26F250954A9E692A9971E886F4633634
+(CARING) You sure you don't need any help?,(ЗАБОТЛИВОСТЬ) Точно не нужна помощь?,ai,,0D6D0245467884E55151E792E0DECC3A
+"(DRIVEN) I'll be in my office, alright?","(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Я буду у себя в кабинете, хорошо?",ai,,C5C27A1E4002F455F424CBBC974410B8
+(LOGICAL) It's unlike you to offer to clean up after dinner.,(ЛОГИЧНОСТЬ) Это на тебя не похоже — самому вызываться убирать после ужина.,ai,,26F250954A9E692A9971E886F4633634
 "Alright, alright. Yes, miss.","Ладно, ладно. Есть, мэм.",ai,,5C6ABB4646C02437E0BCC7ABF1F0BC7B
 ...I changed my mind. Drop it.,...Я передумала. Забудь.,ai,,92F825594B1D63626473B6B7262D3C62
 I could get used to this.,К такому я могла бы и привыкнуть.,ai,,F79BD4B6443773750091A49FCD46529D
@@ -379,7 +379,7 @@ You? Clear the table?,Ты? Уберёшь со стола?,ai,,9DA87A7F40BB38E7
 "Yeah, okay.","Ага, да.",ok,,3A01008F4A55A18F3E8DB68EEFDDC6A8
 ...Sure. Love you too.,...Конечно. Я тебя тоже люблю.,ai,,3DCD49AA42336383A9A7FD9D093A8488
 "You finished? Come on, babe, it's getting cold!","Ты закончила? Ну давай, дорогая, всё остынет!",ai,,5FD67E7F4C0C4AADA342418EC338E9B6
-(LOGICAL) It's been out for five minutes. It's not cold.,[ЛОГИЧНОСТЬ] Оно на столе всего пять минут. Не остыло.,ai,,93B57B13422789A712C598982AB2AEE5
+(LOGICAL) It's been out for five minutes. It's not cold.,(ЛОГИЧНОСТЬ) Оно на столе всего пять минут. Не остыло.,ai,,93B57B13422789A712C598982AB2AEE5
 "Just tell me about your day while I finish up, okay?","Просто расскажи мне о своём дне, пока я тут заканчиваю, хорошо?",ai,,AD4493714FA10956A1BA40B6BFA663AA
 Sure. Let's eat.,Конечно. Давай есть.,ai,,7306F49045806793E7B9859DA373C631
 "Hang on, give me a minute.","Погоди, дай мне минутку.",ai,,AF250112453BD238B0E584AE0DABEBA4
@@ -398,9 +398,9 @@ I don't know. I don't know anymore.,Не знаю. Я уже ничего не �
 [Leave him to it],[Оставить его в покое],ai,,9E17B232415AAC8BFA860E97F6D5513D
 Yeah. Me neither.,Ага. Я тоже.,ai,,49191C064C6E833F80C5D89F4D02A70C
 "Look, I know you work hard, but you don't have to worry about making a living. You're not part of the system in the way most people are. And I think that's why you're being so judgemental. To justify why you're not a part of it.","Слушай, я знаю, что ты много работаешь, но тебе не нужно беспокоиться о заработке. Ты не часть системы так, как большинство людей. И, по-моему, поэтому ты так осуждаешь. Чтобы оправдать, почему ты не её часть.",ai,,CB45EAA04E13DEAAEE16B8B1D7A94774
-"(CARING) No, I'm doing this because I want to stop this stuff from happening.","[ЗАБОТЛИВОСТЬ] Нет, я занимаюсь этим, потому что хочу, чтобы такое больше не повторялось.",ai,,8EFDCEC4402345F24AB0798128949D8E
-(DRIVEN) I'm here to change the system. Not prop it up.,"[ЦЕЛЕУСТРЕМЛЁННОСТЬ] Я здесь, чтобы менять систему. А не поддерживать её.",ai,,53D7D5164EAC0098BB57AFB90016F6F9
-(LOGICAL) I can't be a part of the system and hold it accountable.,[ЛОГИЧНОСТЬ] Я не могу быть частью системы и в то же время требовать с неё ответа.,ai,,5F2BCCF8495E5AF8F18F5E85CCE0A785
+"(CARING) No, I'm doing this because I want to stop this stuff from happening.","(ЗАБОТЛИВОСТЬ) Нет, я занимаюсь этим, потому что хочу, чтобы такое больше не повторялось.",ai,,8EFDCEC4402345F24AB0798128949D8E
+(DRIVEN) I'm here to change the system. Not prop it up.,"(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Я здесь, чтобы менять систему. А не поддерживать её.",ai,,53D7D5164EAC0098BB57AFB90016F6F9
+(LOGICAL) I can't be a part of the system and hold it accountable.,(ЛОГИЧНОСТЬ) Я не могу быть частью системы и в то же время требовать с неё ответа.,ai,,5F2BCCF8495E5AF8F18F5E85CCE0A785
 "Oh, so I need to contribute more before I'm allowed to report on things that matter?","Ах, значит, мне нужно сначала побольше вложиться, а потом уже можно писать о важных вещах?",ai,,1B02DC6B44A7F6449F365989C112C4EC
 The Apes pay way more in taxes than we do. Of course their neighbourhood is going to well-taken care of.,"Обезьяны платят куда больше налогов, чем мы. Конечно, их район хорошо содержится.",ai,,F9766C3A48CEC4BEC8C8F3AFBB96EF1A
 I guess you also think they should be running everything as well.,"Наверное, ты ещё и считаешь, что им стоит всем заправлять.",ai,,0D01D6004E66BE3D88432595E7919FD0
@@ -436,7 +436,7 @@ In a moment. You can wait a few seconds more.,Через минуту. Подо�
 "Give me a second, okay?","Дай мне секунду, ладно?",ai,,9681491747432C29C07C73945EE39DAF
 "Fine, let's eat.","Хорошо, давай есть.",ai,,6906985B41EB96E7F90C2D8EBAA8400F
 "Oh, don't get me started. Tiring. Exhausting. But I made it back in one piece, I suppose.","О, лучше не спрашивай. Утомительно. Выматывающе. Но домой я вернулся целым, и то ладно.",ai,,37804C5C4A852C1C85BB10B6CB554C31
-(CARING) Want me to run you a bath after dinner?,"[ЗАБОТЛИВОСТЬ] Хочешь, после ужина я тебе ванну наберу?",ai,,95D9E1EC402C22248E70C6909B470C89
+(CARING) Want me to run you a bath after dinner?,"(ЗАБОТЛИВОСТЬ) Хочешь, после ужина я тебе ванну наберу?",ai,,95D9E1EC402C22248E70C6909B470C89
 No juicy gossip from the station?,Никаких жирных сплетен из участка?,ai,,D74F1A3245E5C73ED0A497B80AF0CC3D
 Are the computer terminals playing nice with you?,Компьютерные терминалы тебя не подводят?,ai,,BB49B978427CA94AA47D77A523B9BBF2
 "Me? When there's no more need for policemen in the City, or whenever we're looking to get food poisoning. Whichever comes first.",Я? Когда в Городе отпадёт нужда в полицейских. Или когда нам захочется отравиться. Смотря что наступит раньше.,ai,,BF83CF474EDFD12BF2D162BAD9D3D4BD
@@ -452,9 +452,9 @@ There will always be things that we don't see eye to eye on. We're different peo
 I suppose so. Doesn't mean I have to like it.,"Пожалуй. Но это не значит, что мне должно это нравиться.",ai,,650CA7F949BBC826A0ED0DB5D63DEA15
 "Hey, hun. You all done? Come on, let's have dinner.","Эй, солнышко. Ты закончила? Идём ужинать.",ai,,1701B39C4576B6AD76ECB78BE48194F1
 Yeah. Let's eat.,Ага. Давай есть.,ai,,4452C2D648F529F72AD0E6B791E8849F
-"(CARING) It's okay, Lukas. Start without me. I'll join when I'm done.","[ЗАБОТЛИВОСТЬ] Ничего, Лукас. Начинай без меня. Я присоединюсь, когда закончу.",ai,,9CBDA655474FD2F0F49B7DA3CD70BAF7
-(DRIVEN) I was actually thinking of eating in the office. There's still so much work I need to do.,[ЦЕЛЕУСТРЕМЛЁННОСТЬ] Вообще-то я собиралась поесть в кабинете. Мне ещё столько нужно сделать.,ai,,32D1E85E4752B5772A855BB55C687473
-"(LOGICAL) If you would help out, I'd be done sooner.","[ЛОГИЧНОСТЬ] Если бы ты помог, я бы закончила раньше.",ai,,8CC9A56846B3784F26542C9ABC97BEEB
+"(CARING) It's okay, Lukas. Start without me. I'll join when I'm done.","(ЗАБОТЛИВОСТЬ) Ничего, Лукас. Начинай без меня. Я присоединюсь, когда закончу.",ai,,9CBDA655474FD2F0F49B7DA3CD70BAF7
+(DRIVEN) I was actually thinking of eating in the office. There's still so much work I need to do.,(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Вообще-то я собиралась поесть в кабинете. Мне ещё столько нужно сделать.,ai,,32D1E85E4752B5772A855BB55C687473
+"(LOGICAL) If you would help out, I'd be done sooner.","(ЛОГИЧНОСТЬ) Если бы ты помог, я бы закончила раньше.",ai,,8CC9A56846B3784F26542C9ABC97BEEB
 Give me a moment.,Дай мне минутку.,ai,,2991C4224846802FBF446BBDDAD0A90A
 "Well, whatever was in the fridge is pretty good.","Ну, что бы там ни лежало в холодильнике, получилось очень вкусно.",ai,,1023ECF4452799B98E2B95847854B5C8
 It's eggplant.,Это баклажан.,ai,,B08BE3A248D74E7E5758839E4B050D1E
@@ -473,20 +473,20 @@ Why not?,Почему нет?,ok,,F2998A104DAB24BB6F4309AF62C672FF
 "Alright. How about I talk, and you listen?","Ладно. Давай я буду говорить, а ты слушать?",ai,,7DA6BA9C4BC913EAD0F735A2D7667B58
 "Yeah, no, I understand that. I get it. I didn't mean it like that. I just mean that this whole thing...you're obsessed with it.","Да нет, я понимаю. Понимаю. Я не это имел в виду. Я просто хочу сказать, что вся эта история... ты зациклилась на ней.",ai,,58B241AA4BE29B698A9C55AA00521268
 "Of course I am, Lukas. I feel like I'm seeing things clearly for the first time.","Конечно, Лукас. У меня такое чувство, будто я впервые вижу всё ясно.",ai,,FCCE80C144CE973A48B03589707B6AC9
-"(DRIVEN) I'm seeing this through, Lukas. End of discussion.","[ЦЕЛЕУСТРЕМЛЁННОСТЬ] Я доведу это до конца, Лукас. Разговор окончен.",ai,,49650B024C0D05033D7A649ACBC0FE41
+"(DRIVEN) I'm seeing this through, Lukas. End of discussion.","(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Я доведу это до конца, Лукас. Разговор окончен.",ai,,49650B024C0D05033D7A649ACBC0FE41
 "Alright, fine. Let's just drop it.","Ладно, хорошо. Давай просто оставим это.",ai,,68F46C1B4AD0684A3CDC3B9579F8668B
-(LOGICAL) I can't help it. None of the pieces fit together.,[ЛОГИЧНОСТЬ] Я ничего не могу с собой поделать. Ничего не сходится.,ai,,FBFC83354AA53513B0C00AAA979E03F7
-"(CARING) It's just...all those people, and that fire. I can't stop thinking about it.",[ЗАБОТЛИВОСТЬ] Просто... все эти люди и этот пожар. Я не могу перестать об этом думать.,ai,,8DFD514C45460D95355DDBBD01552862
+(LOGICAL) I can't help it. None of the pieces fit together.,(ЛОГИЧНОСТЬ) Я ничего не могу с собой поделать. Ничего не сходится.,ai,,FBFC83354AA53513B0C00AAA979E03F7
+"(CARING) It's just...all those people, and that fire. I can't stop thinking about it.",(ЗАБОТЛИВОСТЬ) Просто... все эти люди и этот пожар. Я не могу перестать об этом думать.,ai,,8DFD514C45460D95355DDBBD01552862
 "I'm...tired, Renee. This is serious stuff, and it's...my head just isn't in the right place. I'm exhausted, and I was hoping we could just enjoy dinner, together.","Я... устал, Рене. Это серьёзные вещи, а у меня голова не на месте. Я вымотан, и я надеялся, что мы просто спокойно поужинаем вместе.",ai,,32CE69404356C0E1269C6F81596ED405
 "I want to talk about it, Lukas.","Я хочу поговорить об этом, Лукас.",ai,,EF2A97684DA816FA772D539AECDE25AB
 "We have to talk about it, Lukas.","Нам нужно об этом поговорить, Лукас.",ai,,534CF6DC411604AFDA9B36AF1C28EAD1
 Fine. I get it. No work talk at the dinner table.,Ладно. Понятно. Никаких рабочих разговоров за обеденным столом.,ai,,C4173DC14CCABE5FD44273B6B20308A0
 "I-I do. I understand that. I just think you're taking it too far. You're obsessing over this, day in and day out.","Я... да. Я понимаю. Я просто думаю, что ты заходишь слишком далеко. Ты зациклилась на этом, день за днём.",ai,,032E9E7C42F5F59BA8063789F2442DE1
 "So what if I am? I feel like I'm seeing thing clearly for the first time, Lukas.","А если и так? У меня такое чувство, будто я впервые вижу всё ясно, Лукас.",ai,,4D7C3463448F3A87A479B2A58840153A
-"(DRIVEN) I'm seeing this through, Lukas. End of discussion.","[ЦЕЛЕУСТРЕМЛЁННОСТЬ] Я доведу это до конца, Лукас. Разговор окончен.",ai,,0301B08D4B95C6375406FF86744D62E7
+"(DRIVEN) I'm seeing this through, Lukas. End of discussion.","(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Я доведу это до конца, Лукас. Разговор окончен.",ai,,0301B08D4B95C6375406FF86744D62E7
 "Alright, fine. Let's just drop it.","Ладно, хорошо. Давай просто оставим это.",ai,,7E8666444E2CDFE40954B08DD40F3981
-(LOGICAL) I can't help it. None of the pieces fit together in any reasonable way.,[ЛОГИЧНОСТЬ] Я ничего не могу с собой поделать. Ничего не сходится ни в какой разумной картине.,ai,,95A80D9C4A156AA65B2F27AAECC754AD
-"(CARING) It's just...all those people, and that fire. I can't stop thinking about it.",[ЗАБОТЛИВОСТЬ] Просто... все эти люди и этот пожар. Я не могу перестать об этом думать.,ai,,CFB343D34C30350E69C343A25E37FD2E
+(LOGICAL) I can't help it. None of the pieces fit together in any reasonable way.,(ЛОГИЧНОСТЬ) Я ничего не могу с собой поделать. Ничего не сходится ни в какой разумной картине.,ai,,95A80D9C4A156AA65B2F27AAECC754AD
+"(CARING) It's just...all those people, and that fire. I can't stop thinking about it.",(ЗАБОТЛИВОСТЬ) Просто... все эти люди и этот пожар. Я не могу перестать об этом думать.,ai,,CFB343D34C30350E69C343A25E37FD2E
 "Why? Why now? I'm sorry, Renee, but I can't help but feel like you're looking for something that isn't there. I don't know what you want me to tell you.","Почему? Почему сейчас? Прости, Рене, но мне кажется, ты ищешь то, чего нет. Не знаю, что ты хочешь от меня услышать.",ai,,8EB7509341451EA60FF5AF82F9D46491
 "I don't want you to tell me anything, Lukas. I just want you to listen.","Я не хочу, чтобы ты мне что-то говорил, Лукас. Я просто хочу, чтобы ты слушал.",ai,,1D67C9254355155935737C94952B9277
 "If not now, then when? When is a good time for you, Lukas?","А если не сейчас, то когда? Когда тебе подходит, Лукас?",ai,,8236149644D24D2208FCF29892D60E6A
@@ -570,7 +570,7 @@ You know what I mean.,"Ты понимаешь, о чём я.",ai,,0B4914BF46748
 "...Tell me about your day, honey.","...Расскажи мне о своём дне, дорогая.",ai,,0C61C5FD45F5D246DB4D24B27AE7C037
 "Har-har. And yes. It hasn't been as much of a pain, lately.",Ха-ха. И да. В последнее время с этим не так мучительно.,ai,,FB8F6989435184312BBB1992D2E877CA
 I'll believe that when I see it.,"Поверю, когда увижу.",ai,,F646946445C1CEAAC6B2E084ECBC6B3C
-(LOGICAL) I find that answer hard to believe.,[ЛОГИЧНОСТЬ] Мне трудно в это поверить.,ai,,0118E7024D0A560E755D6C86C9587C57
+(LOGICAL) I find that answer hard to believe.,(ЛОГИЧНОСТЬ) Мне трудно в это поверить.,ai,,0118E7024D0A560E755D6C86C9587C57
 "Gossip? Sure, but if I told you, I'm afraid I'd have to kill you.","Сплетни? Есть, но если я расскажу, боюсь, придётся тебя убить.",ai,,5359C6C5468850CB6210E08AE1C7C230
 You're much too lawful and valiant for that.,Ты слишком законопослушный и благородный для этого.,ai,,0E187BB544A1E5487CF354AC35229689
 "Little old me? You wouldn't. ","Меня, такую милую? Ты бы не стал. ",ai,,3A9C8F954DD329177E164296767E9AD3
@@ -602,9 +602,9 @@ I'll make sure to whisper. What did you tell him?,Буду шептать. Та�
 "That's a relief. ","Какое облегчение. ",ai,,03EE1E684D496FC647555C8E0C361560
 "Look at you, thinking on your feet, making excuses.","Надо же, как быстро соображаешь — отговорки придумываешь.",ai,,08AA7ACB4AF0651A650EE3B9EFBD229B
 "Renee, I just worry. I feel like you're changing, and you're turning away from me. What if this, this whole thing, ends up driving us apart? What then?","Рене, я просто волнуюсь. Мне кажется, ты меняешься и отдаляешься от меня. Что если вся эта история в итоге нас разведёт? Что тогда?",ai,,555105DA42C9B876D182C998E6BD9E23
-(CARING) We'll talk about it. Figure it out.,[ЗАБОТЛИВОСТЬ] Мы поговорим об этом. Разберёмся.,ai,,813744DE4187F4C747E0509DB1E580E6
-"(DRIVEN) I can't stop chasing this, Lukas. You know that.","[ЦЕЛЕУСТРЕМЛЁННОСТЬ] Я не могу перестать этим заниматься, Лукас. Ты же знаешь.",ai,,690F3F484AFDEA0C67F7DC89C1A74542
-(LOGICAL) Then we're driven apart. That's it.,"[ЛОГИЧНОСТЬ] Значит, нас разведёт. Только и всего.",ai,,E4E2C3614F8E7E602B858F96F81024F4
+(CARING) We'll talk about it. Figure it out.,(ЗАБОТЛИВОСТЬ) Мы поговорим об этом. Разберёмся.,ai,,813744DE4187F4C747E0509DB1E580E6
+"(DRIVEN) I can't stop chasing this, Lukas. You know that.","(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Я не могу перестать этим заниматься, Лукас. Ты же знаешь.",ai,,690F3F484AFDEA0C67F7DC89C1A74542
+(LOGICAL) Then we're driven apart. That's it.,"(ЛОГИЧНОСТЬ) Значит, нас разведёт. Только и всего.",ai,,E4E2C3614F8E7E602B858F96F81024F4
 [Say nothing],[Промолчать],ai,,82CCD4434E4EED5964324789BB33A522
 "Guess we'll never find out, then. Now come on - your turn. How was your day?","Выходит, мы этого никогда не узнаем. А теперь давай, твоя очередь. Как прошёл твой день?",ai,,1D93F93A4F2263C455EC639AFB8442F7
 It's been a slow day. Not much progress.,День был вялый. Особых успехов нет.,ai,,DD6B817546CB60C076C92C99903D7E46
@@ -631,18 +631,18 @@ You sure you want to talk about it?,"Ты уверена, что хочешь о
 I'm relieved to hear it.,Мне стало легче от этих слов.,ai,,CF691E1B49F6B34872F7E89ACDFDCCE2
 "Look at you, thinking on your feet, making excuses.","Надо же, как быстро соображаешь — отговорки придумываешь.",ai,,4FD5040943E258F032224E82AB78BE89
 "I...no, I don't suppose it does. I just - I don't like the idea of this driving us apart.","Я... нет, наверное, нет. Просто мне не нравится мысль, что из-за этого мы отдалимся друг от друга.",ai,,37B04D2E4F2BCF7C4D088AA52C3D8D07
-(CARING) We'll talk about it. Figure it out.,[ЗАБОТЛИВОСТЬ] Мы поговорим об этом. Разберёмся.,ai,,E89C420D4E11E159C0D2A19B7BADEFA5
-"(DRIVEN) I can't stop chasing this, Lukas. You know that.","[ЦЕЛЕУСТРЕМЛЁННОСТЬ] Я не могу перестать этим заниматься, Лукас. Ты же знаешь.",ai,,C96E921F407796E2A1597FA3DF4310B4
-"(LOGICAL) If it does, then we're driven apart.","[ЛОГИЧНОСТЬ] Если так, то нас разведёт.",ai,,61EA8CE64FFFBD26EAA83D9973F7CA0B
+(CARING) We'll talk about it. Figure it out.,(ЗАБОТЛИВОСТЬ) Мы поговорим об этом. Разберёмся.,ai,,E89C420D4E11E159C0D2A19B7BADEFA5
+"(DRIVEN) I can't stop chasing this, Lukas. You know that.","(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Я не могу перестать этим заниматься, Лукас. Ты же знаешь.",ai,,C96E921F407796E2A1597FA3DF4310B4
+"(LOGICAL) If it does, then we're driven apart.","(ЛОГИЧНОСТЬ) Если так, то нас разведёт.",ai,,61EA8CE64FFFBD26EAA83D9973F7CA0B
 [Say nothing],[Промолчать],ai,,669C1303413222C29594E0951C4A8017
 I think it's good to accept that you can't save everyone. Something can be both legal and feel unfair. That's the way it is.,"По-моему, стоит принять, что спасти всех нельзя. Что-то может быть законным и всё равно казаться несправедливым. Так устроен мир.",ai,,30EA3661499B46CD8883A2A5D3824D5B
 Whatever. Let's just drop it.,Ладно. Неважно. Давай просто оставим это.,ai,,44C1D9654D7C80A434059FA80ABDAE19
 You're not listening. Just because it's legal doesn't mean it's fair.,"Ты не слушаешь. Если что-то законно, это ещё не значит, что это справедливо.",ai,,38E3818C44EC57E459D1C48D5008964A
 "The system is broken, Lukas.","Система сломана, Лукас.",ai,,C580686E4AB51547F1403892FF815530
 "Come on, Renee. I'd burn the house down if even I tried boiling water for tea!","Да брось, Рене. Я бы дом спалил, если бы попытался вскипятить воду для чая!",ai,,18BD11E84A067CD357F50F96D6149DFC
-"(CARING) I know you're tired after work, Lukas. But maybe you could start cooking on the weekends?","[ЗАБОТЛИВОСТЬ] Я знаю, что ты устаёшь на работе, Лукас. Но, может, начнёшь готовить по выходным?",ai,,D53BE24343E46E79FE770D81B2F03C23
-"(LOGICAL) Honestly, that'd be more impressive than anything.","[ЛОГИЧНОСТЬ] Честно говоря, это впечатлило бы больше всего остального.",ai,,844DD635492471E103053BBC2A8A4F52
-(DRIVEN) You could teach yourself how to cook. That's what I had to do.,[ЦЕЛЕУСТРЕМЛЁННОСТЬ] Ты мог бы сам научиться готовить. Мне пришлось.,ai,,37FE8DA14310FB79B64A84AB6536C8CD
+"(CARING) I know you're tired after work, Lukas. But maybe you could start cooking on the weekends?","(ЗАБОТЛИВОСТЬ) Я знаю, что ты устаёшь на работе, Лукас. Но, может, начнёшь готовить по выходным?",ai,,D53BE24343E46E79FE770D81B2F03C23
+"(LOGICAL) Honestly, that'd be more impressive than anything.","(ЛОГИЧНОСТЬ) Честно говоря, это впечатлило бы больше всего остального.",ai,,844DD635492471E103053BBC2A8A4F52
+(DRIVEN) You could teach yourself how to cook. That's what I had to do.,(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Ты мог бы сам научиться готовить. Мне пришлось.,ai,,37FE8DA14310FB79B64A84AB6536C8CD
 "If you want to take a chance on the slowest pupil in the City, then sure. Just tell me when class is in session.","Если готова рискнуть с самым бестолковым учеником в Городе — пожалуйста. Только скажи, когда начнутся занятия.",ai,,F8A200F4423B824E507CD99A4B36F6F0
 "Sure, but you better pay attention. Or else.","Конечно, но ты уж слушай внимательно. А то хуже будет.",ai,,A60CA8C64E44656D7E81AE9A8AAFE0F2
 "As long as you call me Miss, you'll be fine.","Пока ты зовёшь меня «мисс», всё будет хорошо.",ai,,99982C2D4397F67FEAD98F9299DCA2EC
@@ -659,9 +659,9 @@ The system? What are you talking about? Are you saying the government did this? 
 I see no other explanation for how they let this happen.,"Я не вижу другого объяснения тому, как они это допустили.",ai,,3D42D5E34D8BCC45E67C1EA7AA2DF541
 "You tell me, then. What exactly happened?",Тогда скажи ты. Что именно произошло?,ai,,6511D515420B279C7313CAAC34560441
 But what if that change just...drives us apart? What then?,А если эта перемена просто... разведёт нас? Что тогда?,ai,,69281DB644808FE8B6CD59B9E0BB942E
-(CARING) We'll talk about it. Figure it out.,[ЗАБОТЛИВОСТЬ] Мы поговорим об этом. Разберёмся.,ai,,647A90024B199E83FBF32AA5838179E6
-"(DRIVEN) I can't stop chasing this, Lukas. You know that.","[ЦЕЛЕУСТРЕМЛЁННОСТЬ] Я не могу перестать этим заниматься, Лукас. Ты же знаешь.",ai,,060C109645DE481739533A9973ED579E
-(LOGICAL) Then we're driven apart. That's it.,"[ЛОГИЧНОСТЬ] Значит, нас разведёт. Только и всего.",ai,,FF31451642A2FFFB0CBA38900F948EF8
+(CARING) We'll talk about it. Figure it out.,(ЗАБОТЛИВОСТЬ) Мы поговорим об этом. Разберёмся.,ai,,647A90024B199E83FBF32AA5838179E6
+"(DRIVEN) I can't stop chasing this, Lukas. You know that.","(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Я не могу перестать этим заниматься, Лукас. Ты же знаешь.",ai,,060C109645DE481739533A9973ED579E
+(LOGICAL) Then we're driven apart. That's it.,"(ЛОГИЧНОСТЬ) Значит, нас разведёт. Только и всего.",ai,,FF31451642A2FFFB0CBA38900F948EF8
 "What happens, happens.","Что будет, то будет.",ai,,6FEDEBBE43AACE9516B5D6A50276D865
 [Say nothing],[Промолчать],ai,,7770F1714582914DE82472A33E34A9C2
 "I'll be honest, Renee. I really don't see it. I didn't even really believe you did, back when you first brought it up. It all seemed like a series of coincidences and guesswork, and I'm not sure anything has changed other than your growing obsession to make this...a thing.","Буду честен, Рене. Я правда этого не вижу. Я даже не особо верил, что ты видишь, когда ты только об этом заговорила. Всё выглядело как цепочка совпадений и догадок, и я не уверен, что что-то изменилось, кроме твоей растущей одержимости сделать из этого... событие.",ai,,08BB184E48F30A372AA9BDA9C63616E0

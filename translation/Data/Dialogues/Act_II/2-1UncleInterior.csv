@@ -136,9 +136,9 @@ So what did you make of the funeral?,Ну и что ты думаешь о по�
 "Now? Well, your father is going to be in charge. Which means a whole new set of palms to grease and a score of opportunists that will need to be pacified.","Сейчас? Твой отец возьмёт бразды в свои руки. А это значит, что придётся смазывать новые ладони и успокаивать целую толпу оппортунистов.",ai,,E2B40E4C4CB678B436911F9CD960DD95
 Pacified?,Успокаивать?,ai,,9025A1BB49EAD08459B3F5A0C3DF85B5
 Don't they have any respect?,"У них что, нет уважения?",ai,,DBC289724E8B811E007EA3A9ADF034DE
-"(CUNNING) I see. If there's space to be filled, some will be happy to hide in the corners.","[ХИТРОСТЬ] Понятно. Если есть пустое место, кто-то с радостью спрячется по углам.",ai,,41DB4BF342F35FF0FCEC7FA4A520BA4F
+"(CUNNING) I see. If there's space to be filled, some will be happy to hide in the corners.","(ХИТРОСТЬ) Понятно. Если есть пустое место, кто-то с радостью спрячется по углам.",ai,,41DB4BF342F35FF0FCEC7FA4A520BA4F
 "Very somber, very traditional. I'm afraid I can't participate as much as I'd like, or should, in occasions like this. Business will always be business. We live and die, but throughout all of it, there's always someone who stands to gain something.","Очень скорбно, очень традиционно. Боюсь, я не могу участвовать в таких событиях так, как хотел бы или должен. Дела есть дела. Мы живём и умираем, но во всём этом всегда найдётся тот, кто рассчитывает на выгоду.",ai,,FE918A1F49F617CA578361A19421C38F
-(AMBITIOUS) So we'll need to be on top of things.,"[АМБИЦИОЗНОСТЬ] Значит, нам нужно держать руку на пульсе.",ai,,E298C59C4E39B66212D0B18D80BA9A5D
+(AMBITIOUS) So we'll need to be on top of things.,"(АМБИЦИОЗНОСТЬ) Значит, нам нужно держать руку на пульсе.",ai,,E298C59C4E39B66212D0B18D80BA9A5D
 Is that what you're doing? Trying to gain something?,Этим ты и занят? Пытаешься что-то получить?,ai,,5103AEDA464F61651970D3884ED9650A
 At a funeral? Fucking vultures.,На похоронах? Грёбаные стервятники.,ai,,E8DCEB6040C16EC2A8B4878E87AC90C8
 "No, bella. I make sure no one gains something they ought not to. I look after interests of the family.","Нет, белла. Я слежу, чтобы никто не получил того, чего не должен. Я забочусь об интересах семьи.",ai,,E6207A1E4A123F15D4DDCCA6FB297533
@@ -164,15 +164,15 @@ I don't care about these idiots.,Мне плевать на этих идиот�
 "Speaking of family, where is my father?","Раз уж речь о семье, где мой отец?",ai,,453211114086279A74A88BA0413803D1
 Family just seems like business now.,Семья теперь больше похожа на бизнес.,ai,,A63E26C5474240FD542AA295BB33FAB2
 Outside. Said there were things he needed to deal with. I don't doubt it.,"Снаружи. Сказал, что ему надо кое с чем разобраться. Не сомневаюсь.",ai,,545109934C16B98AC41727BCE8B673A9
-"(AMBITIOUS) His own plans, I'm sure.","[АМБИЦИОЗНОСТЬ] У него свои планы, уверена.",ai,,C8EE192A462C5ECF06D87DAFFCB5BE10
-"(CUNNING) Is that the change you were talking about, Uncle?","[ХИТРОСТЬ] Это те перемены, о которых ты говорил, дядя?",ai,,0F452A224B6CBE04FC40B484204EF4DC
-"(POWERFUL) Well, I fucking do. I need to talk to him.","[ВЛАСТНОСТЬ] А я, мать его, сомневаюсь. Мне нужно с ним поговорить.",ai,,31F8823A46DCC5220EF536920C1B4096
+"(AMBITIOUS) His own plans, I'm sure.","(АМБИЦИОЗНОСТЬ) У него свои планы, уверена.",ai,,C8EE192A462C5ECF06D87DAFFCB5BE10
+"(CUNNING) Is that the change you were talking about, Uncle?","(ХИТРОСТЬ) Это те перемены, о которых ты говорил, дядя?",ai,,0F452A224B6CBE04FC40B484204EF4DC
+"(POWERFUL) Well, I fucking do. I need to talk to him.","(ВЛАСТНОСТЬ) А я, мать его, сомневаюсь. Мне нужно с ним поговорить.",ai,,31F8823A46DCC5220EF536920C1B4096
 What? When did he leave?,Что? Когда он ушёл?,ai,,1B8AF401453EE5622C78339C7C6EA965
 "It's not so bad, Clarissa. It's far from an easy life, but then again, what easy life is worth living?","Не так уж плохо, Кларисса. Жизнь, конечно, нелёгкая, но какая лёгкая жизнь стоит того, чтобы её прожить?",ai,,21CD73154B34FBD425842B95B1134A19
 Where's my father?,Где мой отец?,ai,,BE4F4580495832FC5EED86AE07ABC23F
-(AMBITIOUS) I don't want an easy life. I just want a life of my own.,[АМБИЦИОЗНОСТЬ] Мне не нужна лёгкая жизнь. Мне нужна своя собственная.,ai,,B3A72217417B90DB7D4B728D9D7B6E70
-(CUNNING) Easy is as easy does. I'm sure I could combine the two.,"[ХИТРОСТЬ] Что легко даётся, то легко и берётся. Думаю, я сумею совместить одно с другим.",ai,,ECAE30E2419FA417F087FEBA5D2AC3EA
-"(POWERFUL) Damn right. If you want something out of life, you have to claim it yourself.",[ВЛАСТНОСТЬ] Чертовски верно. Хочешь чего-то от жизни — бери сама.,ai,,91E322514C6CBACC9A8D65A0594A358A
+(AMBITIOUS) I don't want an easy life. I just want a life of my own.,(АМБИЦИОЗНОСТЬ) Мне не нужна лёгкая жизнь. Мне нужна своя собственная.,ai,,B3A72217417B90DB7D4B728D9D7B6E70
+(CUNNING) Easy is as easy does. I'm sure I could combine the two.,"(ХИТРОСТЬ) Что легко даётся, то легко и берётся. Думаю, я сумею совместить одно с другим.",ai,,ECAE30E2419FA417F087FEBA5D2AC3EA
+"(POWERFUL) Damn right. If you want something out of life, you have to claim it yourself.",(ВЛАСТНОСТЬ) Чертовски верно. Хочешь чего-то от жизни — бери сама.,ai,,91E322514C6CBACC9A8D65A0594A358A
 "Could be. He will be running the family, Clarissa. You'll need to...show him more respect.","Возможно. Он будет управлять семьёй, Кларисса. Тебе придётся... проявлять к нему больше уважения.",ai,,89064CA042E9F02D763522AF7B3CC499
 "Oh, I'll show him something.","О, я ему кое-что проявлю.",ai,,01A95BD14374181281A792B65D9C40CC
 And when did he leave?,А когда он ушёл?,ai,,8FFDAA6040E0748000ECFF84AAF85011

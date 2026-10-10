@@ -1,9 +1,9 @@
 ﻿source,translation,status,namespace,key
 Clarence won't forget that.,Кларенс этого не забудет.,ai,,4362EF64447F5BE0B41BC891AAD5DC24
 "The years passing by, bella. Time itself, I suppose. Tell me - what will you be when you're older? Who do you want to be?","Годы идут, белла. Время, я полагаю, скажи мне — кем ты будешь, когда вырастешь? Кем ты хочешь стать?",ai,,09FD3E8D4016F834EEEA3F98CFB40944
-(GAIN TRAIT: CUNNING) I want to be really smart. Really clever.,[ПОЛУЧИТЬ ЧЕРТУ: ХИТРОСТЬ] Я хочу быть очень умной. Очень сообразительной.,ai,,82DADE5849AEF789DF0CBE951066EB1E
-"(GAIN TRAIT: AMBITIOUS) I want to be like you, Grandpa. I'll be a big boss.","[ПОЛУЧИТЬ ЧЕРТУ: АМБИЦИОЗНОСТЬ] Я хочу быть как ты, дедушка. Я стану большим боссом.",ai,,38A5713E4A6E841917D185890C18A49B
-(GAIN TRAIT: POWERFUL) I want people to listen to me!,"[ПОЛУЧИТЬ ЧЕРТУ: ВЛАСТНОСТЬ] Я хочу, чтобы звери меня слушались!",ai,,80360F044265584A5C2B9280966BFEE4
+(GAIN TRAIT: CUNNING) I want to be really smart. Really clever.,(ПОЛУЧИТЬ ЧЕРТУ: ХИТРОСТЬ) Я хочу быть очень умной. Очень сообразительной.,ai,,82DADE5849AEF789DF0CBE951066EB1E
+"(GAIN TRAIT: AMBITIOUS) I want to be like you, Grandpa. I'll be a big boss.","(ПОЛУЧИТЬ ЧЕРТУ: АМБИЦИОЗНОСТЬ) Я хочу быть как ты, дедушка. Я стану большим боссом.",ai,,38A5713E4A6E841917D185890C18A49B
+(GAIN TRAIT: POWERFUL) I want people to listen to me!,"(ПОЛУЧИТЬ ЧЕРТУ: ВЛАСТНОСТЬ) Я хочу, чтобы звери меня слушались!",ai,,80360F044265584A5C2B9280966BFEE4
 "I suppose they are, Clarissa! A little silly, too.","Полагаю, так и есть, Кларисса! И немного глуповаты.",ai,,6E836EF74FC4789F150374814B7C44C1
 Like me. I'm silly.,Как я. Я глупенькая.,ai,,24B8DC46499948AC04BD66A73C524E45
 Like you. You're silly.,Как ты. Ты глупенький.,ai,,86FF3E1040A6B181D2FB56830EE43B02
@@ -583,9 +583,9 @@ Aw. Do I have to?,Ой. Мне нужно?,ai,,46B12E9B4DB98054EAEF51BA60C93927
 I can help you with that! I'll come visit more often. Deal?,Я могу помочь тебе с этим! Я буду приходить чаще. Договорились?,ai,,C7A6F9454D769E63C71622BE519257C8
 Is it hard?,Это сложно?,ai,,2F8B86244F5F8946959F8597BF81A64F
 "I'm not sure, Clarissa - maybe it's sitting here with you, time and people passing by. Tell me - what will you be when you're older? Who do you want to be?","Не уверен, Кларисса — может, это сидение здесь с тобой, время и звери, проходящие мимо. Скажи мне — кем ты будешь, когда вырастешь? Кем ты хочешь стать?",ai,,29351D63466F25A569294499535D9FDC
-(GAIN TRAIT: CUNNING) I want to be really smart. Really clever.,[ПОЛУЧИТЬ ЧЕРТУ: ХИТРОСТЬ] Я хочу быть очень умной. Очень сообразительной.,ai,,498BA531441F1311DB99E1880E7FFE86
-"(GAIN TRAIT: AMBITIOUS) I want to be like you, Grandpa. I'll be a big boss.","[ПОЛУЧИТЬ ЧЕРТУ: АМБИЦИОЗНОСТЬ] Я хочу быть как ты, дедушка. Я стану большим начальником.",ai,,6FFECF8F4E6AF26D447F36BF9C1F8D30
-(GAIN TRAIT: POWERFUL) I want people to listen to me!,"[ПОЛУЧИТЬ ЧЕРТУ: ВЛАСТНОСТЬ] Я хочу, чтобы звери меня слушались!",ai,,A23F0B4C4FC5E3619EAE82A8EC3D74DF
+(GAIN TRAIT: CUNNING) I want to be really smart. Really clever.,(ПОЛУЧИТЬ ЧЕРТУ: ХИТРОСТЬ) Я хочу быть очень умной. Очень сообразительной.,ai,,498BA531441F1311DB99E1880E7FFE86
+"(GAIN TRAIT: AMBITIOUS) I want to be like you, Grandpa. I'll be a big boss.","(ПОЛУЧИТЬ ЧЕРТУ: АМБИЦИОЗНОСТЬ) Я хочу быть как ты, дедушка. Я стану большим начальником.",ai,,6FFECF8F4E6AF26D447F36BF9C1F8D30
+(GAIN TRAIT: POWERFUL) I want people to listen to me!,"(ПОЛУЧИТЬ ЧЕРТУ: ВЛАСТНОСТЬ) Я хочу, чтобы звери меня слушались!",ai,,A23F0B4C4FC5E3619EAE82A8EC3D74DF
 "Of course, Clarissa. I'll do everything in my power to help you. How does that sound?","Конечно, Кларисса. Я сделаю всё, что в моих силах, чтобы помочь тебе. Хорошо?",ai,,CFDD7E314D76D09C88C6539B7765E723
 "That sounds really good. Thanks, Grandpa. ","Хорошо! Спасибо, дедушка.",ai,,88624B9E4F16CDD2A22C47BB0481B0D6
 "That's perfect. I love you, Grandpa.","Это прекрасно. Я люблю тебя, дедушка.",ai,,9115391A49FBF78C7C0F4CA637E671A5

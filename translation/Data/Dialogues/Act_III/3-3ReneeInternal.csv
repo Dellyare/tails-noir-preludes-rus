@@ -1,9 +1,9 @@
 ﻿source,translation,status,namespace,key
 "Enjoy it while it lasts, Renee. The calm before the storm.","Наслаждайся, пока можно, Рене. Затишье перед бурей.",ai,,A96E53CD4565402355A504BF7A15CE86
-(CARING) He deserves a gentle touch. I owe him that at least.,[ЗАБОТЛИВОСТЬ] Он заслуживает бережного разговора. Хотя бы это я ему должна.,ai,,D375F09245D795025E7435966644F581
-(LOGICAL) I'll just lay it out plain and simple. No need to belabour it.,[ЛОГИЧНОСТЬ] Просто изложу всё как есть. Незачем тянуть.,ai,,76F0CF9342D082C45AA085937E09A617
+(CARING) He deserves a gentle touch. I owe him that at least.,(ЗАБОТЛИВОСТЬ) Он заслуживает бережного разговора. Хотя бы это я ему должна.,ai,,D375F09245D795025E7435966644F581
+(LOGICAL) I'll just lay it out plain and simple. No need to belabour it.,(ЛОГИЧНОСТЬ) Просто изложу всё как есть. Незачем тянуть.,ai,,76F0CF9342D082C45AA085937E09A617
 "[ERROR] there is no Renee trait. The dialogue will break now, but you can continue to do your stuff on the level","[ОШИБКА] Черты «Рене» не существует. Диалог сейчас сломается, но на уровне можно продолжать заниматься своими делами",ai,,E1679F714AA6861B2114468AA1AE31CD
-(DRIVEN) It's time to get it over with. That's all it is.,[ЦЕЛЕУСТРЕМЛЁННОСТЬ] Пора с этим покончить. Вот и всё.,ai,,636D7FCF4DC026BCF748B8A5073C1BFF
+(DRIVEN) It's time to get it over with. That's all it is.,(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Пора с этим покончить. Вот и всё.,ai,,636D7FCF4DC026BCF748B8A5073C1BFF
 "You already know where he’s at, Renee. He loves you and will do anything to avoid throwing in the towel. You can’t expect him to make this easy for you. You're just going to have to tell him why.","Ты и так знаешь, на чём он стоит, Рене. Он любит тебя и сделает всё, лишь бы не сдаваться. Не жди, что он облегчит тебе задачу. Придётся самой объяснить ему, почему.",ai,,295C8951482A1B87C85D7DB1A814640A
 Our goals no longer align.,Наши цели больше не совпадают.,ai,,19A6198F4FBAF10829A5979586B2A9BF
 Our values are too different.,Наши ценности слишком разные.,ai,,503C16AA40FFCF44265CF8A49C57417C
@@ -100,10 +100,10 @@ At least he doesn't resent me.,"По крайней мере, он не держ
 Then you know what you have to do.,"Тогда ты знаешь, что должна сделать.",ai,,E8C1427C4D23E27BB4A2518F8E3F692E
 "[Take a deep breath, and go find Lukas]",[Глубоко вдохнуть и пойти искать Лукаса],ai,,E9F4C1224DBF486EB6F16A8FFEA037E0
 "No, it's yours. You've always downplayed your ambition in front of Lukas. You used to tell yourself it was to put him at ease. But really, it's because that's the only way that this relationship works.","Нет, это твоё. Ты всегда занижала свои амбиции при Лукасе. Раньше говорила себе, что делаешь это, чтобы ему было спокойнее. Но на самом деле только так эти отношения и держатся.",ai,,0B58DB0244E130F851745F8321E2A683
-(DRIVEN) I can't fight the system while living with one of its soldiers.,"[ЦЕЛЕУСТРЕМЛЁННОСТЬ] Я не могу бороться с системой, живя с одним из её солдат.",ai,,2DA3FFDF46A664310DB2AD9A9424B336
+(DRIVEN) I can't fight the system while living with one of its soldiers.,"(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Я не могу бороться с системой, живя с одним из её солдат.",ai,,2DA3FFDF46A664310DB2AD9A9424B336
 I'm done making compromises.,С меня хватит компромиссов.,ai,,99F7494A483821BE62C6E8A6DDEB282E
 "Well, Renee. Then it looks like you have two choices, then. Either go back to writing the fluff you used to, or go in there and have the talk with Lukas that you've been dreading all week.","Что ж, Рене. Выходит, у тебя два пути. Либо вернуться к чепухе, которую ты писала раньше, либо пойти туда и провести тот разговор с Лукасом, которого ты боялась всю неделю.",ai,,FE98420B4F50CCD7956812BC91C2D24C
-(DRIVEN) Okay. Enough stalling. He's waiting.,[ЦЕЛЕУСТРЕМЛЁННОСТЬ] Ладно. Хватит тянуть. Он ждёт.,ai,,6E0F358E468EB3A3760092913D2A2AEE
+(DRIVEN) Okay. Enough stalling. He's waiting.,(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Ладно. Хватит тянуть. Он ждёт.,ai,,6E0F358E468EB3A3760092913D2A2AEE
 "the dialogue will break now, but you can continue to do your stuff on the level","диалог сейчас сломается, но на уровне можно продолжать заниматься своими делами",ai,,2B96EAE344BC0549263841B486062010
 [Caring],[Заботливость],ai,,195C14DD43407159643F88AE4A824639
 [Logical],[Логичность],ai,,6E56770546EB7E122404EE9BB0F61490

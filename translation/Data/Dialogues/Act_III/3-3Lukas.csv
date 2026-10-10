@@ -165,7 +165,7 @@ What's going through your mind right now?,О чём ты сейчас думае
 [Stay quiet and listen],[Молчать и слушать],ai,,98F8C5944B11E686721F4688A285FACA
 Not entirely?,Не полная?,ai,,E49D156E45F1BE9D960033BBA4B21C6D
 "Not really, no.","Не совсем, нет.",ai,,B531A7014B3B5757CAD1D1ABDB295457
-(CARING) I could make you something.,[ЗАБОТЛИВОСТЬ] Я могла бы что-нибудь тебе приготовить.,ai,,0AF0CCC6486AEE2F91BA438E974156A9
+(CARING) I could make you something.,(ЗАБОТЛИВОСТЬ) Я могла бы что-нибудь тебе приготовить.,ai,,0AF0CCC6486AEE2F91BA438E974156A9
 I didn't have time to pick up groceries.,Я не успел заехать за продуктами.,ai,,186A34994E2EC5A2A2024AA7508FD6BC
 You don't even like beets.,Ты же даже свёклу не любишь.,ai,,DC7C67D84ED7B5C9C7ECC186B30CEA92
 "I know you're doing your best. I know that when you get an idea in your head, there's no way of getting it out. I just...I don't quite get how you got to this one.","Я знаю, ты стараешься изо всех сил. Знаю, что если у тебя что-то засело в голове, это не вытащить. Просто... я не совсем понимаю, как ты к этому пришла.",ai,,46351E40444D111539B6089815536574
@@ -240,7 +240,7 @@ I'll leave you to it.,Не буду мешать твоему перекуру.,
 Do or don't. I can't help you anymore.,Как хочешь. Я больше не могу тебе помогать.,ai,,436B22844A4FD9F4F0F243955D42EF70
 "Yeah, well. I wasn't sure if you were going to make food today. You were pretty short on the phone.","Ну да. Я не был уверен, будешь ли ты сегодня готовить. По телефону ты была довольно резка.",ai,,670E40B94AFEBAF1D0D97082F86D71CB
 "Yeah, I...I didn't have time today.","Да, я... сегодня не нашлось времени.",ai,,7F78AF454713965ED3CE0BB093F6D150
-(CARING) I could if you're still hungry.,"[ЗАБОТЛИВОСТЬ] Могу приготовить, если ты ещё голоден.",ai,,5F8DFD1D4B65D2BB8311CEA752F60273
+(CARING) I could if you're still hungry.,"(ЗАБОТЛИВОСТЬ) Могу приготовить, если ты ещё голоден.",ai,,5F8DFD1D4B65D2BB8311CEA752F60273
 You handled it fine.,Ты справился нормально.,ai,,8E6273224EE38241006F968A7E776544
 "Okay. Can I, just...do you mind?",Ладно. Можно я просто... ты не против?,ai,,F7C58363481E3891AA0F849525F370D9
 Want some space?,Хочешь побыть один?,ai,,06D6926142804C711415ABA6C3B8E361
@@ -313,17 +313,17 @@ This is getting us nowhere.,Мы никуда не движемся.,ok,,17FDDB9
 "No, I haven't.","Нет, не оставила.",ai,,0C08E7EB43278F5FCC19F086F2A89B7A
 "No, Lukas. We have not.","Нет, Лукас. Не оставили.",ai,,642E17A449C947C85C427088F12D7F35
 "You're being so...high and mighty about this. It's like you're trying to be condescending because I don't understand this sudden conviction you've taken on. Where's the old Renee, huh?","Ты ведёшь себя так... свысока. Как будто нарочно говоришь со мной снисходительно, потому что я не понимаю этой твоей внезапной убеждённости. Где прежняя Рене, а?",ai,,63FC4A19404ED1987AC81EB2829E0E40
-(CARING) She's still her. And she just wants what's best for us both.,[ЗАБОТЛИВОСТЬ] Она всё та же. И просто хочет лучшего для нас обоих.,ai,,2F6CDC064461A96C7A429D87C75981F0
-"(DRIVEN) She's bettering herself. At least, she's trying to.","[ЦЕЛЕУСТРЕМЛЁННОСТЬ] Она становится лучше. Или, по крайней мере, пытается.",ai,,CAD755914486E46A6A233CB8956D51E8
-"(LOGICAL) We've both changed, and kept changing. You just don't like this turn in particular.",[ЛОГИЧНОСТЬ] Мы оба изменились и продолжаем меняться. Тебе просто не нравится именно этот поворот.,ai,,632971144947703A46E35694A838201A
+(CARING) She's still her. And she just wants what's best for us both.,(ЗАБОТЛИВОСТЬ) Она всё та же. И просто хочет лучшего для нас обоих.,ai,,2F6CDC064461A96C7A429D87C75981F0
+"(DRIVEN) She's bettering herself. At least, she's trying to.","(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Она становится лучше. Или, по крайней мере, пытается.",ai,,CAD755914486E46A6A233CB8956D51E8
+"(LOGICAL) We've both changed, and kept changing. You just don't like this turn in particular.",(ЛОГИЧНОСТЬ) Мы оба изменились и продолжаем меняться. Тебе просто не нравится именно этот поворот.,ai,,632971144947703A46E35694A838201A
 "Alright, don't get so defensive. I'm just trying to state my case here. I'm not the bad guy.","Ладно, не надо так обороняться. Я просто излагаю свою позицию. Я не злодей.",ai,,8E2CC9F9431429A9467F12B0A4472503
-(CARING) I don't think so either. I just want to help you stay that way.,[ЗАБОТЛИВОСТЬ] Я тоже так не думаю. Я просто хочу помочь тебе таким и остаться.,ai,,96FECD6641C2B96D63BB408C8332B59C
-(DRIVEN) I don't think I am either.,[ЦЕЛЕУСТРЕМЛЁННОСТЬ] Я тоже так не думаю.,ai,,A9D6995949970644BD4A0C82BA5AFFD1
-"(LOGICAL) Even if you are, you don't need to be. You just need to not be so stubborn.","[ЛОГИЧНОСТЬ] Даже если так, тебе не обязательно им быть. Просто не надо так упрямиться.",ai,,FE3FC0F5458A2B0B8AEF439044A96832
+(CARING) I don't think so either. I just want to help you stay that way.,(ЗАБОТЛИВОСТЬ) Я тоже так не думаю. Я просто хочу помочь тебе таким и остаться.,ai,,96FECD6641C2B96D63BB408C8332B59C
+(DRIVEN) I don't think I am either.,(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Я тоже так не думаю.,ai,,A9D6995949970644BD4A0C82BA5AFFD1
+"(LOGICAL) Even if you are, you don't need to be. You just need to not be so stubborn.","(ЛОГИЧНОСТЬ) Даже если так, тебе не обязательно им быть. Просто не надо так упрямиться.",ai,,FE3FC0F5458A2B0B8AEF439044A96832
 ...I'm sorry. I just wish you'd understand my point of view here.,"...Прости. Мне просто хочется, чтобы ты поняла мою точку зрения.",ai,,C929783944E3D006021F919DE190D050
-"(CARING) I do, Lukas. That's why I stopped talking about the article.","[ЗАБОТЛИВОСТЬ] Я понимаю, Лукас. Поэтому и перестала говорить о статье.",ai,,864AF7C14A7E7C53812BE4BA1628B4B5
-(DRIVEN) I'm not going to keep putting my world on hold for you.,[ЦЕЛЕУСТРЕМЛЁННОСТЬ] Я не собираюсь и дальше ставить свою жизнь на паузу ради тебя.,ai,,EFE59ED942BDA2AA9E7B6BBABDD93F51
-"(LOGICAL) You don't have a point, Lukas. You just don't want things to change.","[ЛОГИЧНОСТЬ] У тебя нет довода, Лукас. Ты просто не хочешь перемен.",ai,,AA55B6664299635DAABF2C86D4797A7D
+"(CARING) I do, Lukas. That's why I stopped talking about the article.","(ЗАБОТЛИВОСТЬ) Я понимаю, Лукас. Поэтому и перестала говорить о статье.",ai,,864AF7C14A7E7C53812BE4BA1628B4B5
+(DRIVEN) I'm not going to keep putting my world on hold for you.,(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Я не собираюсь и дальше ставить свою жизнь на паузу ради тебя.,ai,,EFE59ED942BDA2AA9E7B6BBABDD93F51
+"(LOGICAL) You don't have a point, Lukas. You just don't want things to change.","(ЛОГИЧНОСТЬ) У тебя нет довода, Лукас. Ты просто не хочешь перемен.",ai,,AA55B6664299635DAABF2C86D4797A7D
 "I'm...not sure that I do. What I say doesn't seem to matter much, but anything you read, anything you agree with? That's gospel. That's worth caring about. That's how I feel.","Я... не уверен, что это так. Что бы я ни говорил, кажется, почти ничего не значит, а всё, что читаешь ты, всё, с чем соглашаешься ты? Это истина в последней инстанции. Это стоит принимать близко к сердцу. Вот что я чувствую.",ai,,BBF1D38942CBA738BAFCC1BCC242FB4F
 "I can't control how you feel, Lukas.","Я не могу управлять твоими чувствами, Лукас.",ai,,BC7C9D614DFB88E1A88AAD8F2EAA627B
 "I feel the same way, Lukas. Where does that leave us?","Я чувствую то же самое, Лукас. И что нам с этим делать?",ai,,FE7E4D564742D2B9CAAC2C8F85CC89ED
@@ -778,7 +778,7 @@ About time.,Давно пора.,ai,,EC843E0F4C8A76E08491C29734267B64
 [Say nothing],[Промолчать],ai,,F0617C404D2642EB6A890E9203C63433
 Thank you.,Спасибо.,ok,,E8B4379047A16C0D4F1DAD80F45AC1FB
 "...Listen, Renee, I need a moment here. Is that...alright?","...Слушай, Рене, мне нужна минутка. Ты не против?",ai,,4443EBAE4773C0493CC0BCAC01FF3B20
-"(CARING) Try to be kind to yourself, if you can.","[ЗАБОТЛИВОСТЬ] Постарайся быть к себе добрее, если сможешь.",ai,,EF666B84439B2A86C9FC188981AF5F3E
+"(CARING) Try to be kind to yourself, if you can.","(ЗАБОТЛИВОСТЬ) Постарайся быть к себе добрее, если сможешь.",ai,,EF666B84439B2A86C9FC188981AF5F3E
 [Nod and leave],[Кивнуть и выйти],ai,,96E9AD2A420FE39B712C49BCF65F57E2
 "Yeah. Yeah, of course.","Да. Да, конечно.",ai,,BDB6C13245E6513DA8E9669F85F50329
 ...,,,,99915AD14771FA18CB8896B409953C0F

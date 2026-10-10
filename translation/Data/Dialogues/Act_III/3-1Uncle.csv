@@ -35,9 +35,9 @@ It doesn't have to be like that. Not all change is for the better.,Так не �
 "...Come on. Let's get up on the dam - if nothing else, the view is nice. It'll cheer us right up.",...Пойдём. Поднимемся на плотину — там хотя бы вид красивый. Сразу настроение поднимет.,ai,,B5894FCF4CC7FD73642EEDA2C3FB5216
 [Keep walking],[Идти дальше],ai,,0BDEFC934772D0267FB70AA55086BC6B
 ...What do you mean?,...Что ты имеешь в виду?,ai,,36B1C2704F6820F0B064E18E5EAA0024
-(AMBITIOUS) This all started with my father's leadership. A rotten kingdom is only as rotten as its ruler. Maybe there's hope in the line of succession.,"[АМБИЦИОЗНОСТЬ] Всё началось, когда власть взял мой отец. Королевство гниёт ровно настолько, насколько гнил его правитель. Может, вся надежда — на наследника.",ai,,4174C77B431AAA8A1DE1079DCDCC4C2C
-"(CUNNING) Things are the way they are because it's easy. No one's put any thought in it - no one that matters, anyway. Not yet.","[ХИТРОСТЬ] Всё так, как есть, потому что так проще. Никто над этим не задумывался — по крайней мере, никто из тех, кто что-то решает. Пока.",ai,,AA9ED8AB4215B057C090D2B05D40025E
-(POWERFUL) I'm saying nothing's eternal - change just comes about when you bring it to the table. I can do that.,"[ВЛАСТНОСТЬ] Я к тому, что ничто не вечно — перемены приходят, когда кто-то выкладывает их на стол. И я могу это сделать.",ai,,89E3C116448B88B564DE36AC05D02782
+(AMBITIOUS) This all started with my father's leadership. A rotten kingdom is only as rotten as its ruler. Maybe there's hope in the line of succession.,"(АМБИЦИОЗНОСТЬ) Всё началось, когда власть взял мой отец. Королевство гниёт ровно настолько, насколько гнил его правитель. Может, вся надежда — на наследника.",ai,,4174C77B431AAA8A1DE1079DCDCC4C2C
+"(CUNNING) Things are the way they are because it's easy. No one's put any thought in it - no one that matters, anyway. Not yet.","(ХИТРОСТЬ) Всё так, как есть, потому что так проще. Никто над этим не задумывался — по крайней мере, никто из тех, кто что-то решает. Пока.",ai,,AA9ED8AB4215B057C090D2B05D40025E
+(POWERFUL) I'm saying nothing's eternal - change just comes about when you bring it to the table. I can do that.,"(ВЛАСТНОСТЬ) Я к тому, что ничто не вечно — перемены приходят, когда кто-то выкладывает их на стол. И я могу это сделать.",ai,,89E3C116448B88B564DE36AC05D02782
 "I know you have your differences, kid. We...you may not agree with everything he does, but he does what he can. Now come on, let's get up these stairs. The view's nice.","Я знаю, что у вас с ним разногласия, малая. Мы... ты можешь быть не согласна со всем, что он делает, но он делает, что может. Ну же, давай поднимемся по лестнице. Вид там хороший.",ai,,B65BBEBF4658018DB74F87AB1471EB5B
 [Keep walking],[Идти дальше],ai,,EF5CBF3549F58C576F4C31943FE5A367
 You think...you'd do things differently?,Ты думаешь... ты бы всё делала иначе?,ai,,01A21F22465A18967BE01DA501119614
@@ -94,9 +94,9 @@ Maybe. Or maybe it's just a convenient distraction.,"Может быть. А м�
 I'd rather see them for what they could be.,"А я лучше буду видеть, каким всё может стать.",ai,,0DAAB39746F430C7210A1A9EEF6B0FD2
 So enjoy the little things? That's your wisdom?,"Значит, радоваться мелочам? Это и есть твоя мудрость?",ai,,BDC63137406BC679A128499A9F1A89B8
 "Hah. Just remember, Clarissa - dreams easily shift into fantasy, and fantasy never got anyone anywhere.","Ха. Только помни, Кларисса: мечты легко превращаются в фантазии, а фантазии ещё никого никуда не привели.",ai,,9817DFD64BCDA2D8499D87B198B5F2E6
-(AMBITIOUS) You're wrong. Ambition gets us anywhere.,[АМБИЦИОЗНОСТЬ] Ты ошибаешься. Амбиции приведут нас куда угодно.,ai,,F6C012FD4298CFC9DBEEE4A20B4F3153
-"(CUNNING) Neither does letting your guard down. There's always something to consider, something to plan for.","[ХИТРОСТЬ] Как и беспечность. Всегда есть что учесть, к чему подготовиться.",ai,,816C127A4D65D7F4AA91CEB3CE7B1497
-"(POWERFUL) Nobody ever got anything without claiming it, either.","[ВЛАСТНОСТЬ] Как и ожидание. Никто ещё ничего не получил, не заявив на это права.",ai,,74E21A6E40824C89D984D59420412425
+(AMBITIOUS) You're wrong. Ambition gets us anywhere.,(АМБИЦИОЗНОСТЬ) Ты ошибаешься. Амбиции приведут нас куда угодно.,ai,,F6C012FD4298CFC9DBEEE4A20B4F3153
+"(CUNNING) Neither does letting your guard down. There's always something to consider, something to plan for.","(ХИТРОСТЬ) Как и беспечность. Всегда есть что учесть, к чему подготовиться.",ai,,816C127A4D65D7F4AA91CEB3CE7B1497
+"(POWERFUL) Nobody ever got anything without claiming it, either.","(ВЛАСТНОСТЬ) Как и ожидание. Никто ещё ничего не получил, не заявив на это права.",ai,,74E21A6E40824C89D984D59420412425
 ...Yeah. Maybe so.,"...Да. Может, и так.",ai,,80E30F734918299D48E6A1943123236F
 "...Told you, didn't I? You can see real far from here.","...Говорил же, а? Отсюда видно далеко-далеко.",ai,,4CB242C84A66215C7F42EBBA3FD4A964
 The City seems so distant. So miniscule.,Город кажется таким далёким. Таким крошечным.,ai,,FF7E27B8493719E511740282910101AF
@@ -106,9 +106,9 @@ I'll take your word for it. All I see is fog and concrete.,Поверю на с�
 ...There's still a body we need to tend to.,...Нам всё ещё нужно заняться телом.,ai,,FB65BC7F475D039A41327AA977D1DF48
 "Told you, didn't I?","Говорил же, а?",ai,,B63D38864C8E45D83C7B278DC039A9E3
 "Then what's got you so distracted, kid? It's got to be something big, if everything else pales in comparison.","Тогда что тебя так отвлекает, малая? Должно быть, что-то серьёзное, раз всё остальное меркнет на его фоне.",ai,,36C0B1C7480952A7160A8BA164397EC1
-"(AMBITIOUS) Ambition, I suppose.","[АМБИЦИОЗНОСТЬ] Амбиции, наверное.",ai,,73DFEFC940BB717A277F0ABE081442C7
-"(CUNNING) Everything. There's always something to consider, something to plan for.","[ХИТРОСТЬ] Всё. Всегда есть что учесть, к чему подготовиться.",ai,,B82200ED48689F688D5E2EA1292F2547
-(POWERFUL) The family. Its future. What I do next.,[ВЛАСТНОСТЬ] Семья. Её будущее. Мой следующий шаг.,ai,,6786F94E4B6A9649C0AD33BA065FEB13
+"(AMBITIOUS) Ambition, I suppose.","(АМБИЦИОЗНОСТЬ) Амбиции, наверное.",ai,,73DFEFC940BB717A277F0ABE081442C7
+"(CUNNING) Everything. There's always something to consider, something to plan for.","(ХИТРОСТЬ) Всё. Всегда есть что учесть, к чему подготовиться.",ai,,B82200ED48689F688D5E2EA1292F2547
+(POWERFUL) The family. Its future. What I do next.,(ВЛАСТНОСТЬ) Семья. Её будущее. Мой следующий шаг.,ai,,6786F94E4B6A9649C0AD33BA065FEB13
 "...Nothing. Maybe this is the distraction I need. Maybe you are right. ","...Ничего. Может, мне как раз и нужно отвлечься. Может, ты прав. ",ai,,6F698FDB480423FDBFE1CA8B8EDBF6EB
 "Quite right. Come on, then. Not much further, if my instinct proves correct.","Вот именно. Ну, пойдём. Если чутьё меня не подводит, осталось недалеко.",ai,,E20E5C4940D7F1F15580369D1BCD2123
 [Keep walking],[Идти дальше],ai,,A2947A8542A909C39A080FA60E41864E

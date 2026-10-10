@@ -148,9 +148,9 @@ I could get laid if I wanted to. I just don't feel like it.,"Если бы за�
 I can get laid whenever I want to. I just don't want to.,"Мне дадут, когда я захочу. Просто я не хочу.",ai,,3FC30E0E4D102E9DB70B658ED7F3FD85
 "As if you're any better, loser.","Можно подумать, ты лучше, лох.",ai,,78EB7687454095928398249120251DD1
 "You know - young, ambitious. Ready to take on the world. Rebels, dude.","Ну, понимаешь — молодые, амбициозные. Готовые бросить вызов всему миру. Бунтари, чувак.",ai,,45EA0337468849BF79CA3F861C4DD8E9
-"(INVESTIGATIVE) Rebels, huh? So what's the focus of your rebellion, man?","[ПЫТЛИВОСТЬ] Бунтари, значит? И против чего твой бунт, чувак?",ai,,6B8B86D642A5DFDC41C283A37CF15647
-"(SARCASTIC) Ah, right. That's why we're drinking beers on the dorm floor. We're plotting the revolution, obviously.","[САРКАЗМ] А, ну да. Потому-то мы и пьём пиво на полу в общаге. Мы, очевидно, замышляем революцию.",ai,,94E8DE7940D77B4B8C009FB39C6D0DC8
-"(SOCIAL) Not just us, man - so many people here feel the same way. Change is coming. I can feel it.","[ОБЩИТЕЛЬНОСТЬ] Не только мы, чувак, — тут столько людей чувствуют то же самое. Перемены грядут. Я это чувствую.",ai,,B9EF031F426EDD119C1351ACDF56369E
+"(INVESTIGATIVE) Rebels, huh? So what's the focus of your rebellion, man?","(ПЫТЛИВОСТЬ) Бунтари, значит? И против чего твой бунт, чувак?",ai,,6B8B86D642A5DFDC41C283A37CF15647
+"(SARCASTIC) Ah, right. That's why we're drinking beers on the dorm floor. We're plotting the revolution, obviously.","(САРКАЗМ) А, ну да. Потому-то мы и пьём пиво на полу в общаге. Мы, очевидно, замышляем революцию.",ai,,94E8DE7940D77B4B8C009FB39C6D0DC8
+"(SOCIAL) Not just us, man - so many people here feel the same way. Change is coming. I can feel it.","(ОБЩИТЕЛЬНОСТЬ) Не только мы, чувак, — тут столько людей чувствуют то же самое. Перемены грядут. Я это чувствую.",ai,,B9EF031F426EDD119C1351ACDF56369E
 "What, and embarrass you? Think us being bros would keep you from being popular? You can't even get laid without me wingmanning your ass, you loser!","Что, и опозорить тебя? Думаешь, наша дружба помешает тебе стать популярным? Тебе даже без меня в роли второго пилота никто не даст, лох!",ai,,DD4901F74F414F3BE75103A2188AB839
 "Me? I get laid plenty. I barely stand up, as a matter of fact.","Мне? Мне дают постоянно. Я, если на то пошло, почти не вылезаю из постели.",ai,,8F10923D4BA66C5C5AEABF926DD96162
 I could get laid if I wanted to. I just don't feel like it.,"Если бы захотел, мне бы дали. Просто настроения нет.",ai,,24030ED0424EBE26F9C8349E878E84E5
@@ -164,32 +164,32 @@ I get laid all the time. That's all I do in my spare time. Banging.,Да я по
 I could get laid if I wanted to. I just don't feel like it.,"Если бы захотел, мне бы дали. Просто настроения нет.",ai,,38AD68DD497E862F6264D189715CE3AC
 "As if you're any better, loser.","Можно подумать, ты лучше, лох.",ai,,FA34021B4EB674E304908FBE73B73DA5
 "I'm saying I know you can't. You need practice, you need experience. You need to get out there.","Я говорю, что знаю: не умеешь. Тебе нужна практика, нужен опыт. Тебе надо выбираться в люди.",ai,,A010F54B4A1B6B78E0A9BAA60B71BDCB
-"(INVESTIGATIVE) To do what, reconnaissance?","[ПЫТЛИВОСТЬ] Зачем, на разведку?",ai,,0C6B3526442EECA8BB6989AAC0AEB6DB
+"(INVESTIGATIVE) To do what, reconnaissance?","(ПЫТЛИВОСТЬ) Зачем, на разведку?",ai,,0C6B3526442EECA8BB6989AAC0AEB6DB
 Getting out where?,Выбираться куда?,ai,,8FE1125D4746DF8FBB7D5F9C8820A491
-"(SOCIAL) Sure, I love people. They just don't always love me - at least not in the way I hope for.","[ОБЩИТЕЛЬНОСТЬ] Конечно, я люблю людей. Просто они не всегда любят меня, — по крайней мере, не так, как мне хотелось бы.",ai,,5E22F68341BB724E9B17EFA9B1273743
-"(SARCASTIC) It's okay, I was planning on practicing in here. Alone, in the corner.","[САРКАЗМ] Ничего, я собирался практиковаться здесь. Один, в углу.",ai,,45224F5040EE15F5705AECBF47521454
+"(SOCIAL) Sure, I love people. They just don't always love me - at least not in the way I hope for.","(ОБЩИТЕЛЬНОСТЬ) Конечно, я люблю людей. Просто они не всегда любят меня, — по крайней мере, не так, как мне хотелось бы.",ai,,5E22F68341BB724E9B17EFA9B1273743
+"(SARCASTIC) It's okay, I was planning on practicing in here. Alone, in the corner.","(САРКАЗМ) Ничего, я собирался практиковаться здесь. Один, в углу.",ai,,45224F5040EE15F5705AECBF47521454
 "Yeah. Not in the mirror, but through actual experience. Getting out there, faking it until you make it.","Ага. Не перед зеркалом, а на реальном опыте. Выбираться в люди, притворяться, пока не получится.",ai,,F1BA46B746BF034B64B1D9B326ECC70A
-"(INVESTIGATIVE) To do what, reconnaissance?","[ПЫТЛИВОСТЬ] Зачем, на разведку?",ai,,D1A9CE004E5427F58FB5B197D59AE574
+"(INVESTIGATIVE) To do what, reconnaissance?","(ПЫТЛИВОСТЬ) Зачем, на разведку?",ai,,D1A9CE004E5427F58FB5B197D59AE574
 Getting out where?,Выбираться куда?,ai,,AC664C7C402CC580DDF7D1AA8260CF29
-"(SOCIAL) Sure, I love people. They just don't always love me. At least, not in the way I hope for.","[ОБЩИТЕЛЬНОСТЬ] Конечно, я люблю людей. Просто они не всегда любят меня. По крайней мере, не так, как мне хотелось бы.",ai,,72F4EFD24DE55B7E6F62BD885B2F55A5
-"(SARCASTIC) It's okay, I was planning on practicing in here. Alone, in the corner.","[САРКАЗМ] Ничего, я собирался практиковаться здесь. Один, в углу.",ai,,948A31894DEA9053071587BBC3654D4F
+"(SOCIAL) Sure, I love people. They just don't always love me. At least, not in the way I hope for.","(ОБЩИТЕЛЬНОСТЬ) Конечно, я люблю людей. Просто они не всегда любят меня. По крайней мере, не так, как мне хотелось бы.",ai,,72F4EFD24DE55B7E6F62BD885B2F55A5
+"(SARCASTIC) It's okay, I was planning on practicing in here. Alone, in the corner.","(САРКАЗМ) Ничего, я собирался практиковаться здесь. Один, в углу.",ai,,948A31894DEA9053071587BBC3654D4F
 "Hey man, just because I don't go out seeking romance doesn't mean I don't understand it. It's just not for me. That's just who I am, dude.","Слушай, чувак, если я не ищу романтики, это не значит, что я в ней не разбираюсь. Просто это не моё. Такой уж я, чувак.",ai,,628086184DEB484FFECEB7AE59E6F50A
 ...So you're saying I don't get romance either?,"...То есть, по-твоему, я в романтике тоже не разбираюсь?",ai,,559EF2774BDB40E3877A9784475D63FD
 So do you think you could teach me?,"Так, может, научишь меня?",ai,,C1BDCA8E407592C5E345CF94A6528C2D
 "To flirt? Nah, you need actual experience. Some spontaneity, and some attraction. Getting out there, you know?","Флиртовать? Не, тебе нужен реальный опыт. Немного спонтанности и немного влечения. Выбираться в люди, понимаешь?",ai,,CF280BDA478F836FE64446BF8D507FCC
-"(INVESTIGATIVE) To do what, reconnaissance?","[ПЫТЛИВОСТЬ] Зачем, на разведку?",ai,,55BF895F467A0C39232EBC8DF3162F56
+"(INVESTIGATIVE) To do what, reconnaissance?","(ПЫТЛИВОСТЬ) Зачем, на разведку?",ai,,55BF895F467A0C39232EBC8DF3162F56
 Getting out where?,Выбираться куда?,ai,,5DA41DC3442FC7D400D3F2BC4DB0DBB0
-"(SOCIAL) Sure, I love people. They just don't always love me. At least not in the way I hope for.","[ОБЩИТЕЛЬНОСТЬ] Конечно, я люблю людей. Просто они не всегда любят меня. По крайней мере, не так, как мне хотелось бы.",ai,,29628E7D49E42E887CEE19B19CDF8150
-"(SARCASTIC) It's okay, I was planning on practicing in here. Alone, in the corner.","[САРКАЗМ] Ничего, я собирался практиковаться здесь. Один, в углу.",ai,,382E34A943E703FA8A9C42AB945F7AAA
+"(SOCIAL) Sure, I love people. They just don't always love me. At least not in the way I hope for.","(ОБЩИТЕЛЬНОСТЬ) Конечно, я люблю людей. Просто они не всегда любят меня. По крайней мере, не так, как мне хотелось бы.",ai,,29628E7D49E42E887CEE19B19CDF8150
+"(SARCASTIC) It's okay, I was planning on practicing in here. Alone, in the corner.","(САРКАЗМ) Ничего, я собирался практиковаться здесь. Один, в углу.",ai,,382E34A943E703FA8A9C42AB945F7AAA
 "Look, here's an idea: I propose a bet.","Слушай, есть идея: предлагаю спор.",ai,,A91C9EC6492A93D61849B3BAD00178A2
-(INVESTIGATIVE) Let me guess: you want to bet on how awful I am at flirting.,"[ПЫТЛИВОСТЬ] Дай угадаю: хочешь поспорить, насколько ужасно я флиртую.",ai,,1637D7304B44C0AE294CD89B7AFE31CF
+(INVESTIGATIVE) Let me guess: you want to bet on how awful I am at flirting.,"(ПЫТЛИВОСТЬ) Дай угадаю: хочешь поспорить, насколько ужасно я флиртую.",ai,,1637D7304B44C0AE294CD89B7AFE31CF
 "Another bet? You keep betting things, man.","Опять спор? Ты вечно на что-то споришь, чувак.",ai,,701CD72E4FB30D865690CC87005FFE61
 What kind of bet?,Что за спор?,ai,,F62B299742EF109E35D6F89836E2055A
 "No, dude. I'm saying you're a terrible flirt. You need practice, experience. You need to get out there!","Нет, чувак. Я говорю, что флиртуешь ты ужасно. Тебе нужна практика, опыт. Тебе надо выбираться в люди!",ai,,A054B69D40C48728109480BA22413BF4
-"(INVESTIGATIVE) To do what, reconnaissance?","[ПЫТЛИВОСТЬ] Зачем, на разведку?",ai,,562D018D41A9C23A7396DDA1FCD4ACDC
+"(INVESTIGATIVE) To do what, reconnaissance?","(ПЫТЛИВОСТЬ) Зачем, на разведку?",ai,,562D018D41A9C23A7396DDA1FCD4ACDC
 ...Get out where?,...Выбираться куда?,ai,,3A73682D4B112AB34E6774BCBB561A5C
-"(SOCIAL) Sure, I love people. They just don't always love me. At least, not in the way I hope for.","[ОБЩИТЕЛЬНОСТЬ] Конечно, я люблю людей. Просто они не всегда любят меня. По крайней мере, не так, как мне хотелось бы.",ai,,3C64BF2940CED784BD9DBF972CA92C5E
-"(SARCASTIC) It's okay, I was planning on practicing in here. Alone, in the corner.","[САРКАЗМ] Ничего, я собирался практиковаться здесь. Один, в углу.",ai,,C13FBA544F49316CAE3CD691FB35C890
+"(SOCIAL) Sure, I love people. They just don't always love me. At least, not in the way I hope for.","(ОБЩИТЕЛЬНОСТЬ) Конечно, я люблю людей. Просто они не всегда любят меня. По крайней мере, не так, как мне хотелось бы.",ai,,3C64BF2940CED784BD9DBF972CA92C5E
+"(SARCASTIC) It's okay, I was planning on practicing in here. Alone, in the corner.","(САРКАЗМ) Ничего, я собирался практиковаться здесь. Один, в углу.",ai,,C13FBA544F49316CAE3CD691FB35C890
 "Change, dude. Changing something. Fixing something, turning something around. I don't know. Change.","Перемены, чувак. Что-то изменить. Что-то исправить, что-то перевернуть. Не знаю. Перемены.",ai,,F864191A4326B95C6A8B0F8E2B84BFAA
 "I don't know, man. Ever get the feeling your choices don't really matter?","Не знаю, чувак. У тебя никогда не бывает чувства, что твой выбор ничего толком не решает?",ai,,7C5504914D3E2C7D639B48B07906F433
 "I feel you, and I'm with you.","Я тебя понимаю, и я с тобой.",ai,,F1AADF9A4911A19027B1ACBFC9BB88FC
@@ -252,7 +252,7 @@ Don't you dare say it.,Даже не смей это говорить.,ai,,C317A
 "Oh, wow. You're actually serious. Um, well...that's uh, flattering, I guess. But I'm just not into that. At all. I thought you knew as much.","Ого. Ты серьёзно. Э-э, ну... это, э-э, лестно, наверное. Но мне такое просто не интересно. Совсем. Я думал, ты знаешь.",ai,,9892DA4D42618060D67EBFB485EABB41
 You're not into me?,Я тебе не интересен?,ai,,0F1152E94AF99007A312C98F2ED116FF
 Ouch.,Ай.,ai,,726ABC114E1306ED949442859E3F24D1
-(INVESTIGATIVE) You're not into relationships?,[ПЫТЛИВОСТЬ] Тебе не интересны отношения?,ai,,C0E9211642DA0F0A0DD97F8EBEB2D76D
+(INVESTIGATIVE) You're not into relationships?,(ПЫТЛИВОСТЬ) Тебе не интересны отношения?,ai,,C0E9211642DA0F0A0DD97F8EBEB2D76D
 You're not into guys?,Тебе не интересны парни?,ai,,469DBD6F49A1D6BBA97EDBA2D846B89D
 I told you so.,А я же говорил.,ai,,CA5F87864C7B4019BCDC7EBB68820308
 "A bet's a bet, man.","Спор есть спор, чувак.",ai,,B146B1B143FD3784071C1C9117CFB866
@@ -270,7 +270,7 @@ Don't you dare say it.,Даже не смей это говорить.,ai,,C7BE2
 "Right...  I'm sure at most at most you were mildly charming. Even so, that's a lot better than I expected. Sounds like you won the bet. ","Ну да...  Уверен, ты был максимум максимум слегка обаятелен. Но даже так — это куда лучше, чем я ожидал. Похоже, ты выиграл спор. ",ai,,A05314284152410E3CA9AC8A8415538F
 "Bragging rights, here I come.","Право хвастаться, я иду к тебе.",ai,,61C380AC408DDAEFC549AC8C05793C6B
 As expected. [Grin obnoxiously],Как и ожидалось. [Нахально ухмыльнуться],ai,,EE6BA1774FB39CC53611F5BD60959FEE
-"(SOCIAL) What can I say, man? I know people.","[ОБЩИТЕЛЬНОСТЬ] Что тут скажешь, чувак? Я умею с людьми.",ai,,5A3F2A614E118F8399348D855AE09D0D
+"(SOCIAL) What can I say, man? I know people.","(ОБЩИТЕЛЬНОСТЬ) Что тут скажешь, чувак? Я умею с людьми.",ai,,5A3F2A614E118F8399348D855AE09D0D
 ...but I told you so.,...но я же говорил.,ai,,7E42689E422673F6A2E0A4B9B073E9F4
 "A bet's a bet, man.","Спор есть спор, чувак.",ai,,FBCE3AAB4BBE46E94A93A98B217BF3FD
 Got it out of your system?,Выговорился?,ai,,EAF150774D16AD5444F6438A2116B38E
@@ -282,15 +282,15 @@ They don't stand a chance. [Leave],У них нет шансов. [Уйти],ai,
 "Sure. Well, help or not, I doubt she'd lie to you. If she said you did good, I'd say you did good.","Конечно. Ну, помогла она или нет, сомневаюсь, что она стала бы тебе врать. Раз она сказала, что ты справился, — значит, справился.",ai,,8CE1D1544238FD39183D0FAC823A880D
 Is this where I tell you I told you so?,"Это тот момент, когда я говорю тебе «а я же говорил»?",ai,,94D9003A4856EDD5AAA5568F4D55AB05
 As expected. [Grin obnoxiously],Как и ожидалось. [Нахально ухмыльнуться],ai,,3DCD5146460C11EFB179BAB936364258
-"(SOCIAL) What can I say, man? I know people.","[ОБЩИТЕЛЬНОСТЬ] Что тут скажешь, чувак? Я умею с людьми.",ai,,ACB3C27C485871D6B87712BC9B510661
+"(SOCIAL) What can I say, man? I know people.","(ОБЩИТЕЛЬНОСТЬ) Что тут скажешь, чувак? Я умею с людьми.",ai,,ACB3C27C485871D6B87712BC9B510661
 "Well yeah, that's just Freja - but she wouldn't lie, either. Fair enough, man. You're smoother than I thought. You win the bet.","Ну да, Фрея она и есть Фрея, — но и врать она не стала бы. Справедливо, чувак. Ты обаятельнее, чем я думал. Ты выиграл спор.",ai,,29E11EAA4DC60336D5AF37B608E308A5
 Is this when I start bragging?,"Это тот момент, когда я начинаю хвастаться?",ai,,E4051B8D43C796F4ECC68FA25F0E80C3
 As expected. [Grin obnoxiously],Как и ожидалось. [Нахально ухмыльнуться],ai,,47EF8BC04D637BAAD3E75C95E91EA2B1
-"(SOCIAL) What can I say, man? I know people.","[ОБЩИТЕЛЬНОСТЬ] Что тут скажешь, чувак? Я умею с людьми.",ai,,EF79FFDE474C947538A55BBB63675095
+"(SOCIAL) What can I say, man? I know people.","(ОБЩИТЕЛЬНОСТЬ) Что тут скажешь, чувак? Я умею с людьми.",ai,,EF79FFDE474C947538A55BBB63675095
 "You're right, I don't understand. Little taken aback, but credit where credit is due. Alright, man, I retract my previous statements. You're smooth.","Ты прав, я не понимаю. Я немного ошарашен, но надо отдать тебе должное. Ладно, чувак, беру свои слова обратно. Ты умеешь обаять.",ai,,3BCAA07A4D2B84234DB3FBA34C02E538
 "Oh, is this when I get to tell you I told you so?","О, это тот момент, когда мне можно сказать «а я же говорил»?",ai,,6B39C07244A60B5BF3BB4B8A58684A09
 As expected. [Grin obnoxiously],Как и ожидалось. [Нахально ухмыльнуться],ai,,C9F68BD64CFC84D50037E4BAA5778F04
-"(SOCIAL) What can I say, man? I know people.","[ОБЩИТЕЛЬНОСТЬ] Что тут скажешь, чувак? Я умею с людьми.",ai,,A9393FCE4A893A1430B1088DCD396236
+"(SOCIAL) What can I say, man? I know people.","(ОБЩИТЕЛЬНОСТЬ) Что тут скажешь, чувак? Я умею с людьми.",ai,,A9393FCE4A893A1430B1088DCD396236
 "Brag away, dude. It's just me here, anyway. Besides, those results are...isolated incidents, at best.","Хвастайся на здоровье, чувак. Тут всё равно только я. К тому же эти результаты... в лучшем случае единичные случаи.",ai,,A3BCCB394D76360A693DB69AD242D993
 You saying you don't believe me?,"Хочешь сказать, ты мне не веришь?",ai,,0DA7575446ABF36A5143709B9AFA2BBB
 You saying I got lucky?,"Хочешь сказать, мне просто повезло?",ai,,822148C44273BB686F65A2967D8897CC
@@ -475,9 +475,9 @@ You saying you're jealous?,"Хочешь сказать, ты завидуешь
 You saying you're in disbelief?,"Хочешь сказать, тебе не верится?",ai,,5D283AFE4048C9CBAD84B489DB5C737A
 You saying I'm making things up?,"Хочешь сказать, я всё выдумываю?",ai,,10440A044FBB90388F15ABB413EBDA09
 "Albums? Shit, what do you feel like?","Альбомы? Блин, а что тебе хочется?",ai,,AC01989B40C92EA8A97411815D5E1FDA
-"(INVESTIGATIVE) Something new, I guess. Any cool experimental stuff?","[ПЫТЛИВОСТЬ] Наверное, что-нибудь новенькое. Есть что-нибудь прикольное, экспериментальное?",ai,,B7095AE44380976FC93370ACF80BC2ED
-"(SARCASTIC) We're drinking and chilling, so obviously the saddest, most depressing album you've got.","[САРКАЗМ] Мы пьём и расслабляемся, так что, конечно, самый грустный и унылый альбом, какой у тебя есть.",ai,,20A1A74646592E38F11BDE94200BBBE6
-"(SOCIAL) Well, we're hanging out, celebrating life - how about something with some energy?","[ОБЩИТЕЛЬНОСТЬ] Ну, мы тусим, празднуем жизнь — как насчёт чего-нибудь с драйвом?",ai,,CEDA149A49FB3829B96AB39C86BF66E7
+"(INVESTIGATIVE) Something new, I guess. Any cool experimental stuff?","(ПЫТЛИВОСТЬ) Наверное, что-нибудь новенькое. Есть что-нибудь прикольное, экспериментальное?",ai,,B7095AE44380976FC93370ACF80BC2ED
+"(SARCASTIC) We're drinking and chilling, so obviously the saddest, most depressing album you've got.","(САРКАЗМ) Мы пьём и расслабляемся, так что, конечно, самый грустный и унылый альбом, какой у тебя есть.",ai,,20A1A74646592E38F11BDE94200BBBE6
+"(SOCIAL) Well, we're hanging out, celebrating life - how about something with some energy?","(ОБЩИТЕЛЬНОСТЬ) Ну, мы тусим, празднуем жизнь — как насчёт чего-нибудь с драйвом?",ai,,CEDA149A49FB3829B96AB39C86BF66E7
 I don't know yet. I'll see what you've got.,"Пока не знаю. Посмотрю, что у тебя есть.",ai,,E3C3ABDA405CCA068ACF8D95EC4C9751
 "Hilarious. Alright, fair enough. I guess you're smoother than you look, dude. I stand corrected.","Умора. Ладно, справедливо. Видимо, ты ловчее, чем выглядишь, чувак. Беру слова назад.",ai,,61C8C6B14B345EB5C2FFA894CC4D701A
 "Excellent. Now give me those sweet, sweet bragging rights.",Отлично. А теперь выдай мне эти сладкие-пресладкие права на хвастовство.,ai,,AB988FF24E941FF4E73EF688104FABF1
@@ -519,11 +519,11 @@ That's never going to change. Trust me.,Этого никогда не изме�
 "We're brothers, man. That's never going to change.","Мы братья, чувак. Это никогда не изменится.",ai,,2784160F47B9005735246B88329A1F7C
 "Save the ""I love you's"" for tomorrow morning, when you're sober and hungover.","Прибереги своё «я тебя люблю» на завтрашнее утро, когда протрезвеешь и будешь мучиться с похмелья.",ai,,53B0E8F94A60E823F21CD8B70FD89B5B
 "...Three beers? Holy shit dude, you're a machine.","...Три пива? Ни хрена себе, чувак, да ты машина.",ai,,7B0E852C4653CE6B60DB989E57FB29E4
-"(SARCASTIC) Careful you don't drink yourself into a coma, man.","[САРКАЗМ] Смотри не допейся до комы, чувак.",ai,,D9467FA349C0E59BC6EBBEB7AF5BFC39
+"(SARCASTIC) Careful you don't drink yourself into a coma, man.","(САРКАЗМ) Смотри не допейся до комы, чувак.",ai,,D9467FA349C0E59BC6EBBEB7AF5BFC39
 "So far, man. Albums aren't exactly cheap, you know? Worked my ass off to scrounge up money for the few I have! ","Пока что, чувак. Альбомы ведь недёшевы, знаешь? Я вкалывал как проклятый, чтобы наскрести денег на те несколько, что у меня есть! ",ai,,5C7529F34CEE52B8D314A48B416F048E
-(INVESTIGATIVE) Got any new stuff? Experimental stuff?,[ПЫТЛИВОСТЬ] Есть что-нибудь новенькое? Экспериментальное?,ai,,20077B9A4A60E4E98155F29BECA653A4
-"(SARCASTIC) Truly, a life of hard knocks and rough surprises.","[САРКАЗМ] Поистине жизнь, полная тяжких испытаний и суровых сюрпризов.",ai,,D9C6336846662FE446729BB9965D9514
-"(SOCIAL) You did it, though! Got anything funky to celebrate with?","[ОБЩИТЕЛЬНОСТЬ] Но ты же справился! Есть что-нибудь зажигательное, чтобы отпраздновать?",ai,,246628BE4AFD2F9BF81EDEB00908FAD5
+(INVESTIGATIVE) Got any new stuff? Experimental stuff?,(ПЫТЛИВОСТЬ) Есть что-нибудь новенькое? Экспериментальное?,ai,,20077B9A4A60E4E98155F29BECA653A4
+"(SARCASTIC) Truly, a life of hard knocks and rough surprises.","(САРКАЗМ) Поистине жизнь, полная тяжких испытаний и суровых сюрпризов.",ai,,D9C6336846662FE446729BB9965D9514
+"(SOCIAL) You did it, though! Got anything funky to celebrate with?","(ОБЩИТЕЛЬНОСТЬ) Но ты же справился! Есть что-нибудь зажигательное, чтобы отпраздновать?",ai,,246628BE4AFD2F9BF81EDEB00908FAD5
 Mind if I take a look?,Можно глянуть?,ai,,D14AE2EB4C010D14BDD99D91DD40D2C3
 "Exactly fucking right. Sorry, dude. You don't get a say in it.","Именно, мать твою. Извини, чувак. Тебя никто не спрашивает.",ai,,F8F6C6AC40BAAE8D7A7F0FB603A00F2B
 "Did something get you worked up, man?","Что-то тебя задело, чувак?",ai,,7C46A00D440EFB5A6896049D2381579A
@@ -768,7 +768,7 @@ Can't wait for it. Feel like I'm just treading water until then.,"Не могу 
 "Build what, exactly? What should we do?",Строить что именно? Что нам делать?,ai,,6D95184C43764F02AF65B591E2CADF40
 Just you and me?,Только ты и я?,ai,,41802BAE4457A992BDCCD7AD3D21EEFE
 "Outside? Nothing, as far as I know. At least nothing safe.","Снаружи? Ничего, насколько я знаю. По крайней мере, ничего безопасного.",ai,,13F61EF64FDF3E115443AA9A7E933FB4
-(INVESTIGATIVE) Nothing makes no sense. There must be something.,[ПЫТЛИВОСТЬ] Ничего — это бессмыслица. Что-то там должно быть.,ai,,4D65B60B4233A26D3B38668173E72C34
+(INVESTIGATIVE) Nothing makes no sense. There must be something.,(ПЫТЛИВОСТЬ) Ничего — это бессмыслица. Что-то там должно быть.,ai,,4D65B60B4233A26D3B38668173E72C34
 You don't want to know?,А тебе разве не хочется знать?,ai,,0ACB5A0746C4A1A90A559BA8CBBCE8F0
 "I don't know, man. Something's out there. I can feel it.","Не знаю, чувак. Там что-то есть. Я это чувствую.",ai,,B0FACC3F4D36D342642B8195633916D1
 "Ah man, Freja's great. We should hang out with her and her roomie more often, honestly!","Ах, чувак, Фрея классная. Надо чаще тусить с ней и её соседкой, честно!",ai,,F17DB6784FE9DDE161D2DD83CF004FCD
@@ -803,12 +803,12 @@ Thanks. I always forget. [Leave],Спасибо. Я вечно забываю. [
 You know what? Pretty good.,Знаешь что? Довольно неплохо.,ai,,039E8B394C5565AA29F3EE9A0D26FEAD
 It was perfect. Absolutely no room for improvement.,Идеально. Улучшать совершенно нечего.,ai,,69D22FBE4454EC1944FCFE86E7A430DC
 "...Really? That bad? Shit, man. I didn't have high expectations, but that sounds a lot worse than I expected.","...Серьёзно? Настолько плохо? Блин, чувак. Я не ждал многого, но это звучит куда хуже, чем я думал.",ai,,956AD6444D8C9AD14D84B2BDA7DCB485
-"(SARCASTIC) I appreciate your undying support, Larry.","[САРКАЗМ] Ценю твою неугасимую поддержку, Ларри.",ai,,07763F244B26DFADB081C78F0699F4B8
+"(SARCASTIC) I appreciate your undying support, Larry.","(САРКАЗМ) Ценю твою неугасимую поддержку, Ларри.",ai,,07763F244B26DFADB081C78F0699F4B8
 "She was cool about it, though.",Но она отнеслась нормально.,ai,,A134E90D455CE02478E2B4BDA8DEFF7F
 "Gee, thanks.",Ну спасибо.,ai,,108B073F48336EE3D18A7E89AB1925AC
 "Anyway, time for me to go shrivel up and die.","Ладно, пойду-ка я ссохнусь и сдохну.",ai,,D561FD564D91490569022487702E717F
 "Yeah? Alright, well - that doesn't sound like a total disaster. Just a tiny one. Baby disaster Howard.","Да? Ну ладно, это не звучит как полная катастрофа. Так, крошечная. Малыш-катастрофа Говард.",ai,,09391371401ACA4648CFCB81C8241F8C
-"(SARCASTIC) I appreciate your undying support, Larry.","[САРКАЗМ] Ценю твою неугасимую поддержку, Ларри.",ai,,5290ABD847609E88948988A3EAA14B4C
+"(SARCASTIC) I appreciate your undying support, Larry.","(САРКАЗМ) Ценю твою неугасимую поддержку, Ларри.",ai,,5290ABD847609E88948988A3EAA14B4C
 "Not helping, Larry.","Не помогаешь, Ларри.",ai,,8CDB2B62413D65E2977D6BB84E5DA8F6
 "Anyway, time for me to go shrivel up and die.","Ладно, пойду-ка я ссохнусь и сдохну.",ai,,7DFC33B44B34E36FB683DB891C03AFA3
 "Really? What, she told you that?","Серьёзно? Что, она тебе так сказала?",ai,,3EB4354E42D79D623DEEB7AD600981A6
@@ -840,15 +840,15 @@ What do you mean?,Всмысле?,ok,,07C45A2B4FD3F4D4CC144EB861C4DF7E
 [Nod along],[Покивать в такт],ai,,F18F19494E21E5943BEDC58231954775
 "Damn straight. You've got great taste, Larry.","Чистая правда. У тебя отличный вкус, Ларри.",ai,,A23B9EBC403585D92541769095769A70
 "That sounds about right for Niles. Unless you said something to really get him riled up, it's kind of hard to make an impression.","Для Найлса это в порядке вещей. Если ты не сказал ничего, что его по-настоящему заденет, произвести на него впечатление трудно.",ai,,A07ACDBF4FBCC053A9D62CA9E77BB0EC
-"(INVESTIGATIVE) Honestly, I think riling him up a bit more might have helped. ","[ПЫТЛИВОСТЬ] Честно, думаю, если бы я его побольше раззадорил, это могло бы помочь. ",ai,,8DFA5B004D8368828ABFC0A3A18840A9
+"(INVESTIGATIVE) Honestly, I think riling him up a bit more might have helped. ","(ПЫТЛИВОСТЬ) Честно, думаю, если бы я его побольше раззадорил, это могло бы помочь. ",ai,,8DFA5B004D8368828ABFC0A3A18840A9
 "I couldn't rile that guy up if my life depended on it, man.","Я бы этого типа не раззадорил, даже если бы от этого зависела моя жизнь, чувак.",ai,,95AA470D49D0F4AAC508FB82CD9D042F
 "Honestly, there was nothing I could do. The guy's a prick.","Честно, я ничего не мог сделать. Этот тип — козёл.",ai,,8EEC80454AF9E8D8A0972995D2C1F12F
 "Wait, really?","Погоди, серьёзно?",ai,,1002CB064F81FDB13B532791F4095CFD
-(SOCIAL) He just needed someone to call him out.,"[ОБЩИТЕЛЬНОСТЬ] Ему просто нужно было, чтобы кто-то поставил его на место.",ai,,73EA0E74449A847A69CBD19D3A023D7E
+(SOCIAL) He just needed someone to call him out.,"(ОБЩИТЕЛЬНОСТЬ) Ему просто нужно было, чтобы кто-то поставил его на место.",ai,,73EA0E74449A847A69CBD19D3A023D7E
 You heard me. Niles thinks I'm cool,Ты слышал. Найлс считает меня крутым,ai,,1C060CFB43EEE81452C363B1F635427A
 "Yeah. I'm as surprised as you are, man.","Ага. Я удивлён не меньше твоего, чувак.",ai,,13D08756474933E5192B95902BAA6274
 Get out. Niles was interested in a person other than himself?,"Не может быть. Найлса заинтересовал кто-то, кроме него самого?",ai,,7D85886C4E5169079A6F40B1EF8F1599
-(SOCIAL) He just needed someone to call him out on his nonsense.,"[ОБЩИТЕЛЬНОСТЬ] Ему просто нужно было, чтобы кто-то поставил его на место за его чепуху.",ai,,5C0D08384B8F206AA32B24A624930EE1
+(SOCIAL) He just needed someone to call him out on his nonsense.,"(ОБЩИТЕЛЬНОСТЬ) Ему просто нужно было, чтобы кто-то поставил его на место за его чепуху.",ai,,5C0D08384B8F206AA32B24A624930EE1
 I'm as surprised as you are.,Я удивлён не меньше твоего.,ai,,5250BB0D4A6A8AAE6D73DA9C36B056AC
 "How could he not be, with a babe like me?","А как иначе, с таким красавчиком, как я?",ai,,F485641644481465BBD53BA56CBB2A3C
 Really? Wisconsin?,Серьёзно? Висконсин?,ai,,646CF4A541EFECE7D1745DAF212C6950
@@ -866,13 +866,13 @@ Wisconsin fucking loves me.,"Висконсин, блин, меня обожае
 "Badly sounds about right. Man, I just feel like Wisconsin would be the easiest person in the City to flirt with. What could have gone that wrong?","Плохо — похоже на правду. Чувак, мне казалось, что с Висконсином легче всего флиртовать во всём Городе. Что могло пойти так плохо?",ai,,FB87B77E40A5448066312D94F4D3A432
 "Too direct, I think.","Слишком прямо, наверное.",ai,,05B1AA414B8D2E0E1E0EF1BE646EC7D6
 "Not direct enough, probably.","Наверное, недостаточно прямо.",ai,,2785A10F45382202B6FE3CA975AFE2B4
-(SARCASTIC) I think I was just being too flirty. Should've just been myself.,"[САРКАЗМ] Кажется, я флиртовал слишком откровенно. Надо было просто быть собой.",ai,,CC939BAF4725C8275F5E0AA8CA9A1689
+(SARCASTIC) I think I was just being too flirty. Should've just been myself.,"(САРКАЗМ) Кажется, я флиртовал слишком откровенно. Надо было просто быть собой.",ai,,CC939BAF4725C8275F5E0AA8CA9A1689
 "...Was that much of a challenge, though?",...Но разве это было такой уж сложной задачей?,ai,,A435625E4D1C3DA8DFEBFF82F9C155DC
-"(SARCASTIC) After the fistfight, no.",[САРКАЗМ] После драки на кулаках — нет.,ai,,C735D82F431CA01BAB4D6E973A3AF013
+"(SARCASTIC) After the fistfight, no.",(САРКАЗМ) После драки на кулаках — нет.,ai,,C735D82F431CA01BAB4D6E973A3AF013
 "We just clicked, man. Challenge or not.","Мы просто сошлись, чувак. Сложно или нет.",ai,,EB57D24642F2D0496493F2ABFBFC1370
 You underestimate how smooth I am.,Ты недооцениваешь мою ловкость.,ai,,D72BEEEB466BAA2223A830AE274D3F8E
 "So it went well, huh? Look at you, running around smooth-talking the resident assistant. Think you'll start getting special treatment in the dorm?","Значит, всё прошло хорошо, да? Ты у нас теперь охмуряешь коменданта. Думаешь, в общаге начнёшь получать особое отношение?",ai,,E36A4B9C43AD9526E60028BC8B5DAD34
-"(SARCASTIC) ""Special treatment""? Why, Larry, we only just started dating.","[САРКАЗМ] «Особое отношение»? Ну что ты, Ларри, мы же только начали встречаться.",ai,,35F15A8441B1F5830820A9BAA588C660
+"(SARCASTIC) ""Special treatment""? Why, Larry, we only just started dating.","(САРКАЗМ) «Особое отношение»? Ну что ты, Ларри, мы же только начали встречаться.",ai,,35F15A8441B1F5830820A9BAA588C660
 "Eh. We just clicked, is all.","Да так. Просто сошлись, вот и всё.",ai,,84F7AA524DAB82D66F6387B91F453A99
 "I think Wisconsin might be more lenient with loud music, sure.","Думаю, с громкой музыкой Висконсин может стать снисходительнее, да.",ai,,6BF2BE75416185A6EC6E9184017AA2A0
 Yes!,Да!,ai,,42B442974B31F6CF33BF498A240F9D00
@@ -894,11 +894,11 @@ When we're out of here?,Когда мы выберемся отсюда?,ai,,839
 "I don't know, my dude. Maybe when all this is over, we'll go to one of their shows. You can ask him yourself!","Не знаю, дружище. Может, когда всё это закончится, сходим на их концерт. Сам у него спросишь!",ai,,799ACD7B4050DB17C5DB15AEA61EDAEA
 When all this is over?,Когда всё это закончится?,ai,,C7B9A8A94DB1B2078FEC008673095888
 "We just figure things out from there, you know? We could set up a corner to be a photo studio, or something. Get some art, make some art.","Оттуда сами разберёмся, понимаешь? Можно в углу устроить фотостудию или что-то такое. Собрать искусство, делать искусство.",ai,,3F2CC816486DF28D7D6B65B0D8D451D8
-"(SOCIAL) Start a collective, or something. A space for art.","[ОБЩИТЕЛЬНОСТЬ] Основать коллектив, что ли. Пространство для искусства.",ai,,EB806E72441911C2BDFED4BD14477BA6
+"(SOCIAL) Start a collective, or something. A space for art.","(ОБЩИТЕЛЬНОСТЬ) Основать коллектив, что ли. Пространство для искусства.",ai,,EB806E72441911C2BDFED4BD14477BA6
 You're describing the good life. The best life.,Ты описываешь хорошую жизнь. Лучшую жизнь.,ai,,B5E7222544CD9170882FAC904E995F41
 "Photo studio for me, sure - what about you?","Фотостудия для меня, это точно. А что насчёт тебя?",ai,,8A8B7B98437A1C759B05FA866668C22A
 "Just? We're the dynamic duo, Howie! Sure, we'll hang out with other people, but I'm counting on you to be around and always have my back, man.","Только? Мы же дуэт, Говчик! Конечно, будем тусить и с другими, но я рассчитываю, что ты всегда будешь рядом и прикроешь мне спину, чувак.",ai,,9F8D3FF746DB0C181BE44CB38DB4911D
-"(SARCASTIC) Of course, my bro. Where else would I stab you?","[САРКАЗМ] Конечно, бро. А куда мне ещё втыкать нож?",ai,,C0FE8C4A40300E707DE2279BF50D63F3
+"(SARCASTIC) Of course, my bro. Where else would I stab you?","(САРКАЗМ) Конечно, бро. А куда мне ещё втыкать нож?",ai,,C0FE8C4A40300E707DE2279BF50D63F3
 "Of course, man.","Конечно, чувак.",ai,,7D24F59F4974AF3221BD41BED9038CFB
 "It's not like I'm the only friend you have, though. And vice versa.",Хотя я не единственный твой друг. И наоборот.,ai,,9EBB05DE4DA77CA273744D82D699BD7D
 "I don't know, man. I haven't got that far yet.","Не знаю, чувак. Я ещё не дошёл до этого.",ai,,5E74C10C41EAEA2DF24E06B00FC3BA4A

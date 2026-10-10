@@ -79,9 +79,9 @@ Just have to convince HQ that this needs to happen.,"Осталось тольк
 "Very dramatic, but yeah. We'll be partners.","Очень драматично, но да. Будем напарниками.",ai,,AA7EAFD749820D551B6BBEA053516D4C
 "Today was your initiative, so yeah. I'd say so. Don't let it get to your head.","Сегодня это была твоя инициатива, так что да. Пожалуй. Только не зазнавайся.",ai,,998B725443AEB747FC1F0F9C6EC4092D
 Praise? From you? Is this going to be a repeat offence?,Похвала? От тебя? Это теперь войдёт в привычку?,ai,,5A6385704B4766AA2C2A6B9E9BE0134D
-(CYNIC) You can always place the blame on me when we get reprimanded for this.,"[ЦИНИК] Когда нам за это влетит, всегда можешь свалить вину на меня.",ai,,5603FB6D46C4F5A64F10C5A00AEB102F
-"(IDEALIST) After this is all done, maybe the two of us can continue to collaborate.","[ИДЕАЛИСТ] Когда всё это закончится, может, мы и дальше будем работать вместе.",ai,,E93900E44EBFF72C39C169A292CFBA2C
-(REALIST) We still got more work to do. Let's not celebrate too early.,[РЕАЛИСТ] Работы ещё полно. Не будем праздновать раньше времени.,ai,,1A403E3C4C455E0FF83035BFB68776F4
+(CYNIC) You can always place the blame on me when we get reprimanded for this.,"(ЦИНИК) Когда нам за это влетит, всегда можешь свалить вину на меня.",ai,,5603FB6D46C4F5A64F10C5A00AEB102F
+"(IDEALIST) After this is all done, maybe the two of us can continue to collaborate.","(ИДЕАЛИСТ) Когда всё это закончится, может, мы и дальше будем работать вместе.",ai,,E93900E44EBFF72C39C169A292CFBA2C
+(REALIST) We still got more work to do. Let's not celebrate too early.,(РЕАЛИСТ) Работы ещё полно. Не будем праздновать раньше времени.,ai,,1A403E3C4C455E0FF83035BFB68776F4
 Psh. I'd say we did good is an understatement.,"Пф. Сказать, что мы хорошо поработали, — это ничего не сказать.",ai,,1ED5BB364CE08EA61F35BCA60278F798
 "Don't forget that you're the one who convinced me it was worth the time. We'll be making more interesting progress soon - I can't really say this or that until then. So far, I'm very interested. It's promising - I think.","Не забывай, это ты убедил меня, что оно того стоит. Скоро мы продвинемся куда интереснее — до тех пор ничего конкретного сказать не могу. Пока мне очень интересно. Это многообещающе — по-моему.",ai,,D8D3B37047FB95E8053B57B21201D9BB
 Good. Remind me what states I'm aiming for now again?,"Хорошо. Напомни, каких состояний я сейчас добиваюсь?",ai,,032BA4F44DA931B3F5BC0B880701A19F
@@ -112,9 +112,9 @@ I see. What do you make of that?,Понятно. И что ты об этом д
 And did it break it down?,И оно её расщепило?,ai,,DD27AF8341F11D74846CBB96BD307EA6
 ...You gave it a corn puff?,...Ты дал ему кукурузную палочку?,ai,,32272CAB45180F8E28904BA697031A38
 "It is. Tell me, what conclusion do you draw from that?","Именно. Скажи, какой вывод ты из этого делаешь?",ai,,229CECBC4BD48727D51E2F9F169CF67A
-(IDEALIST) It's alive. Must be.,[ИДЕАЛИСТ] Оно живое. Должно быть.,ai,,355847CB46E5CC62FD17D0935DC4A844
-(REALIST) Nothing but what we know already. We need to test for something else.,"[РЕАЛИСТ] Ничего сверх того, что мы уже знаем. Нужно проверить что-то другое.",ai,,60D33669461FBB21A446A797AB16EF6B
-(CYNIC) It feeds. It might be dangerous to handle.,[ЦИНИК] Оно питается. Обращаться с ним может быть опасно.,ai,,E2081633444ED82542E9DCAAFA97F87B
+(IDEALIST) It's alive. Must be.,(ИДЕАЛИСТ) Оно живое. Должно быть.,ai,,355847CB46E5CC62FD17D0935DC4A844
+(REALIST) Nothing but what we know already. We need to test for something else.,"(РЕАЛИСТ) Ничего сверх того, что мы уже знаем. Нужно проверить что-то другое.",ai,,60D33669461FBB21A446A797AB16EF6B
+(CYNIC) It feeds. It might be dangerous to handle.,(ЦИНИК) Оно питается. Обращаться с ним может быть опасно.,ai,,E2081633444ED82542E9DCAAFA97F87B
 It attached itself to something without appearing to break it down? Perhaps it's parasitic.,"Оно к чему-то прикрепилось, но, похоже, не расщепило это? Возможно, оно паразит.",ai,,408B2D0C4666F1B1FF0B4DA601F342B1
 "At the very least, it appears it was drawn to food. It requires sustenance, then.","Как минимум его, судя по всему, тянуло к еде. Значит, ему нужно питание.",ai,,841705BC441EB3B14EF98696886733C2
 None. It's much too soon to determine anything yet.,Никакого. Делать какие-либо выводы ещё слишком рано.,ai,,FE14100240B410E2FD5819B8077B5997
@@ -122,9 +122,9 @@ None. It's much too soon to determine anything yet.,Никакого. Делат
 That...is certainly unsettling.,Это... определённо жутковато.,ai,,B1A907C5466785357E14FB9E8C5DEDE3
 What do you make of it?,Что ты об этом думаешь?,ai,,A608310A4CC9BAFCB160839138C9DCA5
 You tell me.,Это уж вы мне скажите.,ok,,27E46AB74DA2E05656523D877D414CA1
-(IDEALIST) It's alive. Must be.,[ИДЕАЛИСТ] Оно живое. Должно быть.,ai,,B6936C534F3F117E5E23CFB189E4FE06
-"(REALIST) Well, nothing except what we know already. We need to try something else.","[РЕАЛИСТ] Ну, ничего сверх того, что мы уже знаем. Надо попробовать что-то другое.",ai,,5E9552FC45F26ADADABE3194B7C4A527
-(CYNIC) It feeds. It might be dangerous to handle.,[ЦИНИК] Оно питается. Обращаться с ним может быть опасно.,ai,,0E2383E94E9182A055E9199DE28B740A
+(IDEALIST) It's alive. Must be.,(ИДЕАЛИСТ) Оно живое. Должно быть.,ai,,B6936C534F3F117E5E23CFB189E4FE06
+"(REALIST) Well, nothing except what we know already. We need to try something else.","(РЕАЛИСТ) Ну, ничего сверх того, что мы уже знаем. Надо попробовать что-то другое.",ai,,5E9552FC45F26ADADABE3194B7C4A527
+(CYNIC) It feeds. It might be dangerous to handle.,(ЦИНИК) Оно питается. Обращаться с ним может быть опасно.,ai,,0E2383E94E9182A055E9199DE28B740A
 It attached itself to something without appearing to break it down. Perhaps it's parasitic.,"Оно к чему-то прикрепилось, но, похоже, не расщепило это. Возможно, оно паразит.",ai,,F93051D648536EAD77F2529670EB04CD
 "At the very least, it appears it was drawn to food. It requires sustenance, then.","Как минимум его, судя по всему, тянуло к еде. Значит, ему нужно питание.",ai,,907F21124E0EA267DB282A8241BA5308
 I think it's too soon to start drawing conclusions.,"По-моему, делать выводы ещё рано.",ai,,19F1C6B6454E57644924C090BA538540
@@ -176,21 +176,21 @@ Luck had nothing to do with it.,Везение тут ни при чём.,ai,,F5
 Mellow out in a second? I hope you're not getting any ideas about recreational use of those sprays.,"Успокаивает в два счёта? Надеюсь, ты не задумал использовать эти спреи для развлечения.",ai,,A345498C4E2553A7E7303EB0B17CE2CE
 "Sure. Clearly, under the right supervision, we can achieve great things. Course, I had to convince you of it, but here we are. Not too bad.","Конечно. Как видишь, под правильным руководством мы способны на великие дела. Тебя, конечно, пришлось убеждать, но вот мы здесь. Неплохо.",ai,,1FC05FAB4033A5697A3C78A2871FE8AB
 Don't let it get to your head.,Только не зазнавайся.,ai,,3D11457C45D142BB5F95ADAB7C2A1C92
-(CYNIC) Don't forget to blame me when we get reprimanded for this.,"[ЦИНИК] Не забудь свалить вину на меня, когда нам за это влетит.",ai,,1A21E4E745F6C73DA1649FB39912F4FD
-"(IDEALIST) After this is all done, maybe the two of us can continue to collaborate.","[ИДЕАЛИСТ] Когда всё это закончится, может, мы и дальше будем работать вместе.",ai,,1F0F70794D54858CF8AA1E8CA272BE74
-(REALIST) We still got more work to do. Let's not celebrate too early.,[РЕАЛИСТ] Работы ещё полно. Не будем праздновать раньше времени.,ai,,833A14ED475E6BA282A81387FFAB462F
+(CYNIC) Don't forget to blame me when we get reprimanded for this.,"(ЦИНИК) Не забудь свалить вину на меня, когда нам за это влетит.",ai,,1A21E4E745F6C73DA1649FB39912F4FD
+"(IDEALIST) After this is all done, maybe the two of us can continue to collaborate.","(ИДЕАЛИСТ) Когда всё это закончится, может, мы и дальше будем работать вместе.",ai,,1F0F70794D54858CF8AA1E8CA272BE74
+(REALIST) We still got more work to do. Let's not celebrate too early.,(РЕАЛИСТ) Работы ещё полно. Не будем праздновать раньше времени.,ai,,833A14ED475E6BA282A81387FFAB462F
 We did good.,Мы хорошо поработали.,ai,,B321B3754222A3ACCA25C3B0FE814904
 "It's, well...an organism. I think we both knew that, but this all but proves it. I have to say - you were right. This couldn't wait. Glad we got started with the experiments already.","Это, ну... организм. Думаю, мы оба это знали, но теперь это практически доказано. Должен признать — ты был прав. Это не могло ждать. Рад, что мы уже взялись за эксперименты.",ai,,E5DFE87B42134C308729479FE759D3E4
 "Are you giving me praise, Jorge?","Ты меня хвалишь, Джордж?",ai,,07B54569408111C922C0B88941E7DD39
-(CYNIC) You can always place the blame on me when we get reprimanded for this.,"[ЦИНИК] Когда нам за это влетит, всегда можешь свалить вину на меня.",ai,,F381627F41E6F954578DDF86CB31C8E0
-"(IDEALIST) After this is all done, maybe the two of us can continue to collaborate.","[ИДЕАЛИСТ] Когда всё это закончится, может, мы и дальше будем работать вместе.",ai,,D2AAE5CC4C24A3773E09A08528B4128C
-(REALIST) We still got more work to do. Let's not celebrate too early.,[РЕАЛИСТ] Работы ещё полно. Не будем праздновать раньше времени.,ai,,FE2391A44A7B83E6CC9C91B22E61DF3B
+(CYNIC) You can always place the blame on me when we get reprimanded for this.,"(ЦИНИК) Когда нам за это влетит, всегда можешь свалить вину на меня.",ai,,F381627F41E6F954578DDF86CB31C8E0
+"(IDEALIST) After this is all done, maybe the two of us can continue to collaborate.","(ИДЕАЛИСТ) Когда всё это закончится, может, мы и дальше будем работать вместе.",ai,,D2AAE5CC4C24A3773E09A08528B4128C
+(REALIST) We still got more work to do. Let's not celebrate too early.,(РЕАЛИСТ) Работы ещё полно. Не будем праздновать раньше времени.,ai,,FE2391A44A7B83E6CC9C91B22E61DF3B
 And this was just one day.,И это всего за один день.,ai,,DC5B8D0D433634FA1C5BF78FFBF64FF2
 "That it's an organism. Alive. We...have to adapt to this discovery. Storage, safety precautions...feeding, possibly. Thank Shepherd I managed to convince you to start the tests today. Imagine if we had kept it for much longer without knowing what it was!","Что это организм. Живой. Нам... придётся приспособиться к этому открытию. Хранение, меры безопасности... возможно, кормление. Слава Пастырю, что я убедил тебя начать тесты сегодня. Представь, если бы мы держали его гораздо дольше, не зная, что это такое!",ai,,5607B42E44CA773F69E73782A9F049D6
 No more corn snacks.,Никаких больше кукурузных снеков.,ai,,4E32576C486E19B5336D3F97E32F10C8
-(CYNIC) Don't forget to blame me when we get reprimanded for this.,"[ЦИНИК] Не забудь свалить вину на меня, когда нам за это влетит.",ai,,AF0151BD4F5BBAED80D5BFBBC7BF9697
-"(IDEALIST) After this is all done, maybe the two of us can continue to collaborate.","[ИДЕАЛИСТ] Когда всё это закончится, может, мы и дальше будем работать вместе.",ai,,24FADD1241961CA02554198E62175D70
-(REALIST) We still got more work to do. Let's not celebrate too early.,[РЕАЛИСТ] Работы ещё полно. Не будем праздновать раньше времени.,ai,,A7ADB4334D73899C2A4DF3B4A0AFADF6
+(CYNIC) Don't forget to blame me when we get reprimanded for this.,"(ЦИНИК) Не забудь свалить вину на меня, когда нам за это влетит.",ai,,AF0151BD4F5BBAED80D5BFBBC7BF9697
+"(IDEALIST) After this is all done, maybe the two of us can continue to collaborate.","(ИДЕАЛИСТ) Когда всё это закончится, может, мы и дальше будем работать вместе.",ai,,24FADD1241961CA02554198E62175D70
+(REALIST) We still got more work to do. Let's not celebrate too early.,(РЕАЛИСТ) Работы ещё полно. Не будем праздновать раньше времени.,ai,,A7ADB4334D73899C2A4DF3B4A0AFADF6
 Rather safe than sorry.,"Лучше перебдеть, чем недобдеть.",ai,,5687EC09413E77F7E54C2A99A243DC81
 Wouldn't dream of it.,И в мыслях не было.,ai,,62092730422E672DC251CCA2A00CC5BD
 [Raise an eyebrow and point at the samples],[Приподнять бровь и указать на образцы],ai,,F09DBDE24ED2FDDA766705854278652E

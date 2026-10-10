@@ -1,6 +1,6 @@
 ﻿source,translation,status,namespace,key
 "...Howie, it's cold.","...Говчик, холодно.",ai,,0DA3485B484AEEFF8BAF5E98F6532399
-"(SARCASTIC) No - is it? By Shepherd, Larry. You're right. It's actually cold. In winter. Who'd have thunk.","[САРКАЗМ] Да ладно — правда? Клянусь Пастырем, Ларри. Ты прав. Зимой и вправду холодно. Кто бы мог подумать.",ai,,DD2E769E4D182B337A1843867DA60943
+"(SARCASTIC) No - is it? By Shepherd, Larry. You're right. It's actually cold. In winter. Who'd have thunk.","(САРКАЗМ) Да ладно — правда? Клянусь Пастырем, Ларри. Ты прав. Зимой и вправду холодно. Кто бы мог подумать.",ai,,DD2E769E4D182B337A1843867DA60943
 "I told you to dress warm, man.","Я же говорил тебе одеться потеплее, чувак.",ai,,601E91D74A22FD60E6C84F98E395383F
 "I'm sorry, man. We'll be done soon, I promise.","Прости, чувак. Мы скоро закончим, обещаю.",ai,,2ADAC2A6423C11BB6E7C57B43828937C
 "Yes, Larry. It is cold.","Да, Ларри. Холодно.",ai,,5A46F00145417B5F2795BC80909B9547
@@ -8,7 +8,7 @@
 Not yet. I'm savouring the moment.,Пока нет. Я наслаждаюсь моментом.,ai,,73A047D643618587C213E289EC21F2B2
 [Take a picture of Grandfather Steam],[Сфотографировать Дедушку Пара],ai,,188A447E4DDFE618336CB9AA0911A829
 "Really. Can we get on with this, man? What are we doing out here again?","Серьёзно. Может, уже закончим, чувак? Что мы тут вообще делаем, напомни?",ai,,FD1F99AE4D344A22AB57C5BF125FC681
-(SOCIAL) Documenting people. Putting our fingers on the pulse of Gastown.,[ОБЩИТЕЛЬНОСТЬ] Документируем людей. Щупаем пульс Газтауна.,ai,,9C3F98B344996511183399BCF421FF81
+(SOCIAL) Documenting people. Putting our fingers on the pulse of Gastown.,(ОБЩИТЕЛЬНОСТЬ) Документируем людей. Щупаем пульс Газтауна.,ai,,9C3F98B344996511183399BCF421FF81
 Photography.,Фотографируем.,ai,,878EEC6A44AA6F0833171C832C1ED222
 "...Which means, more exactly?","...Что, если точнее, значит?",ai,,A818DC494C7BF70090344E888985E718
 "Talking to people. Seeing them, hearing them. Capturing their stories.","Разговариваем с людьми. Видим их, слышим их. Ловим их истории.",ai,,8E7815B0469458B39F0F148A3F7C8ECB
@@ -23,13 +23,13 @@ Photography. Taking pictures.,Фотография. Снимаем.,ai,,20707922
 Howard. It's too cold for metaphors.,Говард. Для метафор слишком холодно.,ai,,8E54454349431593AA09189D80DBF1C3
 ...We're taking pictures of them.,...Мы фотографируем их.,ai,,F58ACF144A3423923AF82EB5273E59EA
 "Here? Just photographing people on the street? What's the plan, exactly?","Здесь? Просто снимать людей на улице? Какой план-то, конкретно?",ai,,CE5BEB1E4FAF7CF2AA40BE8944C15DC9
-(INVESTIGATIVE) I want to show off the real Gastown. Not the image they're trying to portray.,"[ПЫТЛИВОСТЬ] Я хочу показать настоящий Газтаун. А не тот образ, который им хочется преподнести.",ai,,9915395746713889990594B746B7CACB
-(SARCASTIC) To not pay anyone to model for me.,[САРКАЗМ] Чтобы не платить никому за позирование.,ai,,BE9E970A40F515141FF6E7A609E1F567
-"(SOCIAL) I don't want to do a callout for people. I want to find them, learn their story, then take their picture.","[ОБЩИТЕЛЬНОСТЬ] Я не хочу давать объявление, чтобы люди сами откликались. Я хочу найти их, узнать их историю, а потом сделать снимок.",ai,,885FE4C0403EF066A912EAB6987B5C34
+(INVESTIGATIVE) I want to show off the real Gastown. Not the image they're trying to portray.,"(ПЫТЛИВОСТЬ) Я хочу показать настоящий Газтаун. А не тот образ, который им хочется преподнести.",ai,,9915395746713889990594B746B7CACB
+(SARCASTIC) To not pay anyone to model for me.,(САРКАЗМ) Чтобы не платить никому за позирование.,ai,,BE9E970A40F515141FF6E7A609E1F567
+"(SOCIAL) I don't want to do a callout for people. I want to find them, learn their story, then take their picture.","(ОБЩИТЕЛЬНОСТЬ) Я не хочу давать объявление, чтобы люди сами откликались. Я хочу найти их, узнать их историю, а потом сделать снимок.",ai,,885FE4C0403EF066A912EAB6987B5C34
 "Grandfather Steam? Sure. That's it, though? Just one snap and we're gone?",Дедушка Пар? Ладно. И это всё? Один снимок — и по домам?,ai,,9CEF6A7C47A80B136101FCBEEB442AC7
-"(SARCASTIC) Yeah. You don't think I'm being too ambitious, do you?","[САРКАЗМ] Ага. Думаешь, я слишком много на себя беру?",ai,,DCE6561548FEA07AB7B6C384A58014AA
-"(INVESTIGATIVE) No, I think we need more than that. Some surrounding shots to build the mood. Show off Gastown for what it really is.","[ПЫТЛИВОСТЬ] Нет, думаю, нам нужно больше. Несколько фоновых кадров, чтобы создать настроение. Показать Газтаун таким, какой он есть на самом деле.",ai,,2B6ECDFC413F39DCD5D5EA953B0BB7F5
-"(SOCIAL) Well, since we're here, let's look around. Talk to people.","[ОБЩИТЕЛЬНОСТЬ] Раз уж мы здесь, давай осмотримся. Поговорим с людьми.",ai,,6E2D7AE44516778D5C66778F25A05DB9
+"(SARCASTIC) Yeah. You don't think I'm being too ambitious, do you?","(САРКАЗМ) Ага. Думаешь, я слишком много на себя беру?",ai,,DCE6561548FEA07AB7B6C384A58014AA
+"(INVESTIGATIVE) No, I think we need more than that. Some surrounding shots to build the mood. Show off Gastown for what it really is.","(ПЫТЛИВОСТЬ) Нет, думаю, нам нужно больше. Несколько фоновых кадров, чтобы создать настроение. Показать Газтаун таким, какой он есть на самом деле.",ai,,2B6ECDFC413F39DCD5D5EA953B0BB7F5
+"(SOCIAL) Well, since we're here, let's look around. Talk to people.","(ОБЩИТЕЛЬНОСТЬ) Раз уж мы здесь, давай осмотримся. Поговорим с людьми.",ai,,6E2D7AE44516778D5C66778F25A05DB9
 "...Listen, you're using that picture. We worked too hard for you not to.","...Слушай, ты используешь этот снимок. Мы слишком много над ним пахали, чтобы ты его не использовал.",ai,,1759FE1142CB107D15AB9EB759E4F220
 We'll see.,Посмотрим.,ok,,5DDACBCC4687557109A9E6AB812FF45E
 I will.,Позвоню.,ok,,D1109B83426AC28A50EFFF8E21F95041
@@ -109,7 +109,7 @@ Yeah? Then how come you've lost all those bets? Where were your superior deducti
 "Nah, I also want to take a picture of Grandfather Steam. For the cover.","Не, я ещё хочу сфотографировать Дедушку Пара. Для обложки.",ai,,68A8A9134B5C6FCBD7BE56912D7D21E6
 "Eh, my professor told me to take a picture of the clock here, so I guess we're doing that too.","Э, мой профессор велел сфотографировать здешние часы, так что, видимо, этим мы тоже займёмся.",ai,,68DDFD0F4ED87865C5172A953FF8AF9A
 "Yeah? In that case, it looks like we might have a problem. Did you get a good look at the clock yet?","Да? Тогда, похоже, у нас проблема. Ты уже хорошенько рассмотрел часы?",ai,,07192B36417460B71826FC8833FD9CCC
-(INVESTIGATIVE) I noticed. Looks like one of its hands is missing.,"[ПЫТЛИВОСТЬ] Я заметил. Похоже, у них не хватает одной стрелки.",ai,,84A313264836F77B41C18C9613AD5253
+(INVESTIGATIVE) I noticed. Looks like one of its hands is missing.,"(ПЫТЛИВОСТЬ) Я заметил. Похоже, у них не хватает одной стрелки.",ai,,84A313264836F77B41C18C9613AD5253
 What do you mean?,Всмысле?,ok,,4CDC77194CE22D1CB696A4ADCAA13CB9
 [Look at the clock],[Посмотреть на часы],ai,,26B9BBC94BB5B27E7C4C07A541201032
 "Oh shit, really? I guess we are done, then?","Вот дерьмо, правда? Выходит, мы закончили?",ai,,8262C07C43F7BD17F659D78C66F7FEB5
@@ -159,7 +159,7 @@ Wait. There was something I wanted to talk to you about.,Подожди. Я хо
 Wait. There was something I wanted to talk to you about.,Подожди. Я хотел с тобой кое о чём поговорить.,ai,,3CEA488441EF9DD2680CB89AAFCCB216
 Not just yet.,Пока нет.,ai,,FBCA3D2C44527D83D49636B53BEAF060
 "Yeah, might as well, considering the state of the clock.","Ага, можно и так, учитывая состояние часов.",ai,,1998EAA540AC76D427EC6D809E60EAE5
-(INVESTIGATIVE) I noticed. Looks like one of its hands is missing.,"[ПЫТЛИВОСТЬ] Я заметил. Похоже, у них не хватает одной стрелки.",ai,,533C15574CF94A6E674302A9A9228C2E
+(INVESTIGATIVE) I noticed. Looks like one of its hands is missing.,"(ПЫТЛИВОСТЬ) Я заметил. Похоже, у них не хватает одной стрелки.",ai,,533C15574CF94A6E674302A9A9228C2E
 What do you mean?,Всмысле?,ok,,5D0158734D5C1B98542E4AA0BBCFAC80
 [Look at the clock],[Посмотреть на часы],ai,,CD5B9F334DE755BCAE2E56BD3935713A
 Weird. Think it fell off?,"Странно. Думаешь, отвалилась?",ai,,4CE0E68E470EB81690AE3DB9D3C958E1
@@ -169,7 +169,7 @@ There. Do you see it? A hand is missing.,Вот. Видишь? Одной стр
 "Oh, uh, yeah. I saw that.","А, э-э, да. Я видел.",ai,,DBDEEE4F43902117BB9F77B1E37EF95A
 Good eye.,Зоркий глаз.,ai,,9C2CB4D149FB7900F281C9A2B2CC3290
 ...So what do we do? Think it just fell off?,"...Так что делаем? Думаешь, она просто отвалилась?",ai,,9D26B0704CDC849510451EA60DD2B125
-(INVESTIGATIVE) By itself? No chance. Something or someone must have broken it off.,[ПЫТЛИВОСТЬ] Сама по себе? Исключено. Что-то или кто-то её отломал.,ai,,9C917ECF4C052E839D7D48B816D9AF3A
+(INVESTIGATIVE) By itself? No chance. Something or someone must have broken it off.,(ПЫТЛИВОСТЬ) Сама по себе? Исключено. Что-то или кто-то её отломал.,ai,,9C917ECF4C052E839D7D48B816D9AF3A
 No clue. What do we do now?,Без понятия. Что теперь делаем?,ai,,08F83A774F6E3BB3F38B3CA717E82CA9
 Maybe someone stole it.,"Может, кто-то её украл.",ai,,8C2B744541F8A7E743AD339B60E2BFCD
 "I'm too cold to have an opinion on this. Come on, Howie. Let's get back to the dorm.","Мне слишком холодно, чтобы иметь мнение на этот счёт. Давай, Говчик. Пошли обратно в общагу.",ai,,41D98C824793B395826C759994AEDF77
@@ -399,7 +399,7 @@ I'm just thinking about our plans for the future.,Я просто думаю о 
 ...By which I mean considering the idea of having separate lives.,"...Я имею в виду, что рассматриваю идею раздельной жизни.",ai,,827F0A784F728B0C7D1BBAB6816FFC4F
 Moving in together. And the possibility of that not happening.,"Съехаться. И возможность того, что этого не случится.",ai,,E4EFF9A24EC860BD70EDF4820C8FCAC1
 "Oh, right. For your final project. Well, let's try to do this as fast as possible. I got a lead on a place in Yaletown that could be perfect for us. I figured we could swing by on our way back.","А, точно. Для твоего выпускного проекта. Ну, давай сделаем всё как можно быстрее. У меня есть наводка на место в Йелтауне, которое может нам идеально подойти. Я думал, мы заглянем туда по пути назад.",ai,,4EF66ABC414CD9CCA94EB097C347C625
-(INVESTIGATIVE) There it is: the ulterior motive.,"[ПЫТЛИВОСТЬ] Вот он, скрытый мотив.",ai,,49012E2D472E39308CAF4A8FFA4909B3
+(INVESTIGATIVE) There it is: the ulterior motive.,"(ПЫТЛИВОСТЬ) Вот он, скрытый мотив.",ai,,49012E2D472E39308CAF4A8FFA4909B3
 Place?,Место?,ai,,AAB3FAA84748991790233CA65A89D3FF
 Can't rush a masterpiece.,Шедевр не поторопишь.,ai,,465C14C748240CEB2E1C45A80C098DF3
 "...I mean, to be fair, I just kinda floated around. Tried not to get cold. You did the heavy lifting.","...Ну, по правде, я просто болтался рядом. Старался не замёрзнуть. Всю тяжёлую работу сделал ты.",ai,,A173966C47351CF8371D39A50B2CCAE2
@@ -459,12 +459,12 @@ Do you?,А тебе?,ai,,6D6F57784B8C5307C2169685BB0E8F97
 "Yeah, I think so.","Да, кажется.",ai,,B7B68E7446000BF7888BD286E8D079A9
 Still a little concerned.,Всё ещё немного обеспокоен.,ai,,7ECF2DC84C4F884CA7725A9452F6008B
 "Yeah. Yeah, of course I do. I'm not worried. Wasn't worried in the first place, and I'm not worried now.","Ага. Ага, конечно, знаю. Я не волнуюсь. И с самого начала не волновался, и сейчас не волнуюсь.",ai,,E11A2D2F48884F5A02D8BAA97462DAD8
-"(SARCASTIC) ...But are you worried, though?",[САРКАЗМ] ...А ты точно не волнуешься?,ai,,24E92CD44EF1A1507A8C5EA8534E0406
-"(SARCASTIC) Man, you have a way with words.","[САРКАЗМ] Чувак, ты умеешь подбирать слова.",ai,,2281AD6B4C75D50FC2A2168B63A97A0B
-"(INVESTIGATIVE) I can read you like an open book, man. You can be honest.","[ПЫТЛИВОСТЬ] Я вижу тебя насквозь, чувак. Можешь быть честным.",ai,,C48DE9CA4D5AFFA5D8DCC8AC879A55AB
-"(INVESTIGATIVE) ...Yeah. We'll be fine, and we both know it.","[ПЫТЛИВОСТЬ] ...Ага. У нас всё будет хорошо, и мы оба это знаем.",ai,,F6E6D1784372E9BDD619F6A751E2AEF3
-"(SOCIAL) Who knows, man. Maybe we end up forming a collective, or something.","[ОБЩИТЕЛЬНОСТЬ] Кто знает, чувак. Может, мы создадим какой-нибудь коллектив или вроде того.",ai,,06A4A50642B7DDF25B1E78AA1FB2C885
-"(SOCIAL) Worst case scenario, you get the apartment next door.",[ОБЩИТЕЛЬНОСТЬ] В худшем случае ты получишь квартиру по соседству.,ai,,BBE25C0E431FF6BA17BB3D814F68979F
+"(SARCASTIC) ...But are you worried, though?",(САРКАЗМ) ...А ты точно не волнуешься?,ai,,24E92CD44EF1A1507A8C5EA8534E0406
+"(SARCASTIC) Man, you have a way with words.","(САРКАЗМ) Чувак, ты умеешь подбирать слова.",ai,,2281AD6B4C75D50FC2A2168B63A97A0B
+"(INVESTIGATIVE) I can read you like an open book, man. You can be honest.","(ПЫТЛИВОСТЬ) Я вижу тебя насквозь, чувак. Можешь быть честным.",ai,,C48DE9CA4D5AFFA5D8DCC8AC879A55AB
+"(INVESTIGATIVE) ...Yeah. We'll be fine, and we both know it.","(ПЫТЛИВОСТЬ) ...Ага. У нас всё будет хорошо, и мы оба это знаем.",ai,,F6E6D1784372E9BDD619F6A751E2AEF3
+"(SOCIAL) Who knows, man. Maybe we end up forming a collective, or something.","(ОБЩИТЕЛЬНОСТЬ) Кто знает, чувак. Может, мы создадим какой-нибудь коллектив или вроде того.",ai,,06A4A50642B7DDF25B1E78AA1FB2C885
+"(SOCIAL) Worst case scenario, you get the apartment next door.",(ОБЩИТЕЛЬНОСТЬ) В худшем случае ты получишь квартиру по соседству.,ai,,BBE25C0E431FF6BA17BB3D814F68979F
 "Good. We'll be fine. Now, can we get off the street? I swear, it's getting colder and darker by the minute.","Хорошо. У нас всё будет нормально. А теперь, можем мы уйти с улицы? Клянусь, с каждой минутой становится всё холоднее и темнее.",ai,,D3B31EDD4DC4CB03F951A2BD5EBA8F27
 "...Hey, I love you, man. I hope you know that.","...Эй, я люблю тебя, чувак. Надеюсь, ты это знаешь.",ai,,3BA0C26F4A5D02C487907F8A7E7756B6
 "Alright. Come on, then. [Go home]",Ладно. Ну давай тогда. [Пойти домой],ai,,39D34FE446078B722E07639EDE857670
@@ -605,7 +605,7 @@ Alright. Let's get on with it.,Ладно. Давай продолжим.,ai,,3B
 Then who should I take pictures of?,Тогда кого мне снимать?,ai,,1F2FB33F49190047A0BAE2818756B5CE
 Can I take a picture of you and just call it a day?,Можно я просто сфотографирую тебя и на этом закончим?,ai,,F215B2C1411B5206087123B1FFFEA701
 "It's going. Shit, at least I don't have to do any field work like this. I'm like halfway through, I'd say.","Продвигается. Чёрт, по крайней мере, мне не надо ходить по полям, как сейчас. Я, пожалуй, на полпути.",ai,,7D38EFAE454876145D19AE8D087D5076
-"(INVESTIGATIVE) It was something along the lines of the influence on classical art by lower Kinds, right?","[ПЫТЛИВОСТЬ] Там было что-то про влияние низших Видов на классическое искусство, так?",ai,,BD121AFD44B4DA35720AB7BA5E531EF4
+"(INVESTIGATIVE) It was something along the lines of the influence on classical art by lower Kinds, right?","(ПЫТЛИВОСТЬ) Там было что-то про влияние низших Видов на классическое искусство, так?",ai,,BD121AFD44B4DA35720AB7BA5E531EF4
 "...What was it about, again?","...О чём он, напомни?",ai,,4A4279A840944692F13031B89BCB5630
 Anything I can do to help?,Могу я чем-то помочь?,ai,,7CEDC2FE45B333C32FD34A8A315A10BA
 Do you feel like finishing it?,Тебе хочется его закончить?,ai,,EEDB0E794788EC89EBECFAB33D3A2692
@@ -726,7 +726,7 @@ I just want it to turn out great. It matters to me a lot. I think.,"Я прос�
 "I'm just not sure what I want, man.","Я просто не уверен, чего хочу, чувак.",ai,,88747AD041F63DA34BC093993EB2970C
 "Only two possible outcomes, then: we make it great and make it matter, or we get it over with. Either way, let's get those pictures taken. What do you say?","Тогда возможны только два исхода: мы сделаем его отличным и важным, или просто покончим с ним. В любом случае давай сделаем эти снимки. Что скажешь?",ai,,0CF27029483519B60C76CA8F93B5F5F6
 Hang on. There was something else I wanted to ask you.,Погоди. Я хотел спросить тебя ещё кое о чём.,ai,,7EE2F4E84B119FEE5A4C4FA773CBCD12
-"(SARCASTIC) What do I say? Well, I don't really have a catch phrase, Larry.","[САРКАЗМ] Что я скажу? Ну, у меня нет коронной фразы, Ларри.",ai,,696F3EDE4E5DDF09ED069CAE0D067D0A
+"(SARCASTIC) What do I say? Well, I don't really have a catch phrase, Larry.","(САРКАЗМ) Что я скажу? Ну, у меня нет коронной фразы, Ларри.",ai,,696F3EDE4E5DDF09ED069CAE0D067D0A
 "Makes sense. Time to get back to work, I guess. [Leave]","Логично. Пора возвращаться к работе, наверное. [Выйти]",ai,,459B1BF149C7FF402DE7C98A71B8A2FB
 "If it really does matter to you, then it will come out great. Does that make sense?","Если он правда важен для тебя, он получится отличным. Понимаешь?",ai,,0E3B182B450D1D4FF8C3A98FF1992E33
 "I think so. Say, there was something else I wanted to ask you...","Кажется, да. Слушай, я хотел спросить тебя ещё кое о чём...",ai,,448A4182420972D8DF6FB3BCC5618074
@@ -745,9 +745,9 @@ Right here. [Point to the clock],Прямо здесь. [Показать на �
 And what do you think?,А ты что думаешь?,ai,,4AA6F46F4ACA20D3F85AAFA507E6ED4D
 "Let's get to it, then. [Leave]",Тогда за дело. [Выйти],ai,,BCD5C7F84450E6F0936F78BE539BC762
 "Well, if we're gonna snoop around, let's snoop around. Talk to people. Investigate. Pretend to be a detective, or something.","Ну, раз уж будем совать нос, давай совать нос. Говорить с людьми. Расследовать. Притвориться сыщиками или вроде того.",ai,,E9F329A64611744FDA8B3CAD61BA5CC3
-(INVESTIGATIVE) That's the best thing I've heard all day.,"[ПЫТЛИВОСТЬ] Это лучшее, что я слышал за весь день.",ai,,6F9DBC7D404531474B25039D22334E2C
-(SOCIAL) Talk to people? I can do that.,[ОБЩИТЕЛЬНОСТЬ] Говорить с людьми? Это я могу.,ai,,188895304B931865966BB0B246AD760E
-"(SARCASTIC) Mm, yes. Elementary, my dear Larry. Elementary indeed. Elementary school. Table of elements. Yes, very much so.","[САРКАЗМ] Мм, да. Элементарно, мой дорогой Ларри. Именно что элементарно. Начальная школа. Таблица элементов. Да, очень даже.",ai,,50962CAA4DFA33DA833508929A1EB2A4
+(INVESTIGATIVE) That's the best thing I've heard all day.,"(ПЫТЛИВОСТЬ) Это лучшее, что я слышал за весь день.",ai,,6F9DBC7D404531474B25039D22334E2C
+(SOCIAL) Talk to people? I can do that.,(ОБЩИТЕЛЬНОСТЬ) Говорить с людьми? Это я могу.,ai,,188895304B931865966BB0B246AD760E
+"(SARCASTIC) Mm, yes. Elementary, my dear Larry. Elementary indeed. Elementary school. Table of elements. Yes, very much so.","(САРКАЗМ) Мм, да. Элементарно, мой дорогой Ларри. Именно что элементарно. Начальная школа. Таблица элементов. Да, очень даже.",ai,,50962CAA4DFA33DA833508929A1EB2A4
 Sure. Let's go. [Leave],Конечно. Пошли. [Выйти],ai,,7B3224BB4455D05E09FDF1B80577E4A4
 "Well, we've figured out who did it. All we need to do now is get that hand back, somehow.","Ну, мы выяснили, кто это сделал. Осталось как-то вернуть эту стрелку.",ai,,8C98B2E84F599805AAB207A78A62C1B2
 Any ideas on how to do that?,"Есть идеи, как это сделать?",ai,,0828300147614D4E06A8128658E7035E
@@ -843,9 +843,9 @@ Aw. Should I get you a blanket? Do you want my cap?,Ой. Принести те�
 "Really? I thought you were tough, Larry.","Серьёзно? А я думал, ты крепкий, Ларри.",ai,,A495216A4083705C24F9CD92969A8D1F
 "We'll head back to the dorm in a minute, man. Don't worry.","Мы скоро вернёмся в общагу, чувак. Не волнуйся.",ai,,7BBA99CE427DCDA3BCC2ABA4F71867F2
 "And what exactly are we doing before that, again?","А чем именно мы занимаемся до этого, напомни?",ai,,1DED7ADD4DAAF64E720A589E806B2454
-(SOCIAL) Documenting people. Putting our fingers on the pulse of Gastown.,[ОБЩИТЕЛЬНОСТЬ] Документируем людей. Щупаем пульс Газтауна.,ai,,F227D2694998FF21757126870AE25ADE
+(SOCIAL) Documenting people. Putting our fingers on the pulse of Gastown.,(ОБЩИТЕЛЬНОСТЬ) Документируем людей. Щупаем пульс Газтауна.,ai,,F227D2694998FF21757126870AE25ADE
 Taking pictures.,Фотографируем.,ai,,FAE4BE344BF22C28DFF01EAB3FE10C2F
 [Tap your camera],[Постучать по камере],ai,,E1EED1494AD83AF55EE184B54A64A4F7
 "I'd rather get inside. What are we doing here, again?","Я бы лучше зашёл внутрь. Что мы тут делаем, напомни?",ai,,8FA8AF0045614D3677066CA14B6250C0
-(SOCIAL) Documenting people. Putting our fingers on the pulse of Gastown.,[ОБЩИТЕЛЬНОСТЬ] Документируем людей. Щупаем пульс Газтауна.,ai,,8E327AA944432E53CB5E28A132429CA5
+(SOCIAL) Documenting people. Putting our fingers on the pulse of Gastown.,(ОБЩИТЕЛЬНОСТЬ) Документируем людей. Щупаем пульс Газтауна.,ai,,8E327AA944432E53CB5E28A132429CA5
 Taking pictures.,Фотографируем.,ai,,F506903E4019677381FEFDAE3CFD2BCD

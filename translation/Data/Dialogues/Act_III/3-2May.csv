@@ -7,9 +7,9 @@ You gave May the plushie.,Ты отдал Мэй плюшевую игрушку
 ...Pay?,...Заплачу?,ai,,6A1FF4DC45D0BED8F46A8989418F9BE0
 Nothing. It's just for a class assignment.,Нисколько. Это просто для учебного задания.,ai,,3783D6894DF9E5F7307FA3A04F7B0B3C
 "Well, at least you admit it. I suppose you find something AMUSING about a struggling mother who can't afford to buy a simple toy for her baby girl?","Что ж, хоть признаёшь. Небось находишь что-то ЗАБАВНОЕ в бедной матери, которая не может купить простую игрушку своей малышке?",ai,,8BAE0E394F9CD97666395BA3AA14C9A1
-(SARCASTIC) Amusing? No. But I don't think it's worth advertising to the neighbourhood like you're doing now.,"[САРКАЗМ] Забавное? Нет. Но, по-моему, не стоит оповещать об этом всю округу, как вы сейчас делаете.",ai,,188137D6411CF2839D7FE3817A43425C
-(INVESTIGATIVE) These aren't simple toys. They're wildly overpriced. Probably because this is the wealthiest area of town.,"[ПЫТЛИВОСТЬ] Это не простые игрушки. Цены на них заоблачные. Наверное, потому что это самый богатый район города.",ai,,5289043B4555DC00CE1AF19A9FA2F4E7
-"(SOCIAL) Absolutely not. Believe me, if I weren't a broke student, I'd rush in there and scoop up as many toys for her as I could afford.","[ОБЩИТЕЛЬНОСТЬ] Ни в коем случае. Поверьте, не будь я нищим студентом, я бы сейчас же побежал туда и накупил ей столько игрушек, на сколько хватило бы денег.",ai,,7DB963974EBC650E7CCCA78B1A58F2FB
+(SARCASTIC) Amusing? No. But I don't think it's worth advertising to the neighbourhood like you're doing now.,"(САРКАЗМ) Забавное? Нет. Но, по-моему, не стоит оповещать об этом всю округу, как вы сейчас делаете.",ai,,188137D6411CF2839D7FE3817A43425C
+(INVESTIGATIVE) These aren't simple toys. They're wildly overpriced. Probably because this is the wealthiest area of town.,"(ПЫТЛИВОСТЬ) Это не простые игрушки. Цены на них заоблачные. Наверное, потому что это самый богатый район города.",ai,,5289043B4555DC00CE1AF19A9FA2F4E7
+"(SOCIAL) Absolutely not. Believe me, if I weren't a broke student, I'd rush in there and scoop up as many toys for her as I could afford.","(ОБЩИТЕЛЬНОСТЬ) Ни в коем случае. Поверьте, не будь я нищим студентом, я бы сейчас же побежал туда и накупил ей столько игрушек, на сколько хватило бы денег.",ai,,7DB963974EBC650E7CCCA78B1A58F2FB
 "People in this neighbourhood are very into the Winter Solstice. It's all a load of hooey, but it's always good to have some common ground with your mark. Makes them want to help you more.","Здешний народ просто помешан на зимнем солнцестоянии. Чушь собачья, конечно, но с клиентом всегда полезно найти общий язык. Тогда ему больше хочется тебе помочь.",ai,,3991596E40617CF0C4BEC39216E1A7DF
 Of course. Let's talk a bit more about this hustle you have going.,Ну конечно. Давайте ещё поговорим об этой вашей афере.,ai,,941106B14EEF4B50BCCDD8AE639B5D6B
 Hmm. Let's talk about something else.,Хм. Давайте поговорим о чём-нибудь другом.,ai,,5FDC72554A7555852AE81B87CA611D4A
@@ -25,7 +25,7 @@ Is there anything I can do to help?,Я могу чем-нибудь помочь
 Hopefully you won't get sick either.,"Надеюсь, вы тоже не заболеете.",ai,,CE7827C147BA08257CFCD392E4D08044
 "Well, my parents are both pretty frail, so they need constant tending. And my brother threw out his back at work a few years back and is basically bed-ridden. And my niece has a bit of a runny nose.","Ну, родители у меня оба совсем дряхлые, за ними нужен постоянный уход. Брат несколько лет назад сорвал спину на работе и теперь почти не встаёт с постели. А у племянницы небольшой насморк.",ai,,2DE82A494FD1856FBEE9628EAF778DC0
 Is there anything I can do to help?,Я могу чем-нибудь помочь?,ai,,7255481B4C8C033417BF8AADD8491D54
-(SARCASTIC) A runny nose? Do you...do you think she'll...do you think she'll live?,"[САРКАЗМ] Насморк? Вы... вы думаете, она... думаете, она выживет?",ai,,48FF5FD74F0ED36C72A1268E8D3A712B
+(SARCASTIC) A runny nose? Do you...do you think she'll...do you think she'll live?,"(САРКАЗМ) Насморк? Вы... вы думаете, она... думаете, она выживет?",ai,,48FF5FD74F0ED36C72A1268E8D3A712B
 At least the runny nose will pass.,"Ну, хоть насморк пройдёт.",ai,,6C43E87C44E4B3ED0BD33881A43C8D9F
 "With my luck, who knows?",С моим-то везением? Беда всегда на носу.,ai,,BF955EF643A1BE4EFC608B86E3A4023E
 "More like, ""who 'nose'?"" [point to nose]",Скорее уж — под носом. [Показать на нос],ai,,B3D88A43404631793A9C09B73054F94B
@@ -47,9 +47,9 @@ Um...Let's talk a bit more about you.,Э-э... Давайте ещё погов�
 Hmm. Let's change the subject.,Хм. Давайте сменим тему.,ai,,0F50CCD140A882DE4C7C0A927C1DB61D
 I'm...I'm going to go. [Leave],"Я... я, пожалуй, пойду. [Уйти]",ai,,AE0C2BD747741CCF8DCDAA8F1B0D033A
 "Oh, I'm SORRY! Was my little Liona disrupting your otherwise perfect day!? It must be SUCH a burden to have to acknowledge a struggling mother who can't afford to buy a simple toy for her baby girl.","Ой, ИЗВИНИТЕ! Неужто моя маленькая Лиона испортила тебе такой распрекрасный день?! Какое же это, наверное, БРЕМЯ — замечать бедную мать, которая не может купить простую игрушку своей малышке.",ai,,5CF51B3B407AEA6E0CFBCEB40C3EBC0B
-(INVESTIGATIVE) These aren't simple toys. They're wildly overpriced. Probably because this is the wealthiest area of town.,"[ПЫТЛИВОСТЬ] Это не простые игрушки. Цены на них заоблачные. Наверное, потому что это самый богатый район города.",ai,,1CEFEF324C1F78BC91516891B4807A76
-"(SOCIAL) Absolutely not. Believe me, if I weren't a broke student, I'd rush in there and scoop up as many toys for her as I could afford.","[ОБЩИТЕЛЬНОСТЬ] Ни в коем случае. Поверьте, не будь я нищим студентом, я бы сейчас же побежал туда и накупил ей столько игрушек, на сколько хватило бы денег.",ai,,A6604C384585A39FDD3D40BE684EBB7C
-"(SARCASTIC) Yes, it really is. I'm horrifyingly rich, you see, and the daily struggles of the poor is just too strange for me to handle.","[САРКАЗМ] Да, ещё какое. Видите ли, я чудовищно богат, и повседневные тяготы бедняков для меня слишком непостижимы.",ai,,19C2D048436134BDCF580E9170D4AEDB
+(INVESTIGATIVE) These aren't simple toys. They're wildly overpriced. Probably because this is the wealthiest area of town.,"(ПЫТЛИВОСТЬ) Это не простые игрушки. Цены на них заоблачные. Наверное, потому что это самый богатый район города.",ai,,1CEFEF324C1F78BC91516891B4807A76
+"(SOCIAL) Absolutely not. Believe me, if I weren't a broke student, I'd rush in there and scoop up as many toys for her as I could afford.","(ОБЩИТЕЛЬНОСТЬ) Ни в коем случае. Поверьте, не будь я нищим студентом, я бы сейчас же побежал туда и накупил ей столько игрушек, на сколько хватило бы денег.",ai,,A6604C384585A39FDD3D40BE684EBB7C
+"(SARCASTIC) Yes, it really is. I'm horrifyingly rich, you see, and the daily struggles of the poor is just too strange for me to handle.","(САРКАЗМ) Да, ещё какое. Видите ли, я чудовищно богат, и повседневные тяготы бедняков для меня слишком непостижимы.",ai,,19C2D048436134BDCF580E9170D4AEDB
 "Maybe you don't think she deserves it, but I just want Liona to have something that's close to a normal childhood. Toys are a big part of that.","Может, ты считаешь, что она этого не заслуживает, но я просто хочу, чтобы у Лионы было хоть что-то похожее на нормальное детство. А игрушки — важная его часть.",ai,,8663D4FD4347D07F19E814BC335E3498
 I really wish I could help.,"Очень жаль, что я ничем не могу помочь.",ai,,191F9688490478B01D60A58E681415B6
 "Hmm. People love saying stuff nice like that. Doing something, though? Very rare.",Хм. Люди обожают говорить такие милые вещи. А вот сделать что-нибудь? Большая редкость.,ai,,166AD7AB4EEE5125FDC265BDE3EF2634
@@ -85,7 +85,7 @@ How about this birdseed?,Как насчёт этого птичьего кор�
 How about these cigarettes?,Как насчёт этих сигарет?,ai,,ABAD8AAD4CE0BDCA20D67FAD78660B52
 I don't really have anything.,У меня ничего толком нет.,ai,,6FB0574841B9C95085B806BD0217C62E
 "I told you: if you can get my baby a toy before we head home, we'll take whatever dumb photo you want. But you're going to have to hurry up, the last bus back to Granville's in a couple hours and Liona hates walking.","Я же сказала: если достанешь моей малышке игрушку, пока мы не ушли домой, — сделаешь какой угодно дурацкий снимок. Но тебе придётся поторопиться: последний автобус до Гренвилля через пару часов, а Лиона терпеть не может ходить пешком.",ai,,329061AF44F35AC97AA732A4676BA37C
-"(INVESTIGATIVE) Wait, didn't you say you lived on the West End?","[ПЫТЛИВОСТЬ] Погодите, вы же говорили, что живёте в Уэст-Энде?",ai,,E77DDBC040A5C71B39D856A693EE9818
+"(INVESTIGATIVE) Wait, didn't you say you lived on the West End?","(ПЫТЛИВОСТЬ) Погодите, вы же говорили, что живёте в Уэст-Энде?",ai,,E77DDBC040A5C71B39D856A693EE9818
 I have this toy here...,У меня есть вот такая игрушка...,ai,,B2D32276466AEF201B60AF90C0A6E951
 Where am I supposed to get a toy?,И где мне взять игрушку?,ai,,07C3B20041E2E28F1226F28C95EB425C
 Can I ask you another question before I go?,"Можно задать вам ещё вопрос, прежде чем я уйду?",ai,,E321E6D84F1E5885709673B4BFD04DBF
@@ -167,7 +167,7 @@ What geezers?,Какие гусяры?,ai,,0DD7A5EF419355A75E52689E605F2B12
 Got it.,Понял.,ai,,B0260F0A4901E861B501ED9E320260D9
 They hang out in a group and all dress the same. One of them bumped into Liona yesterday and refused to say 'sorry'. They just kept walking!,Они ходят группой и одеваются одинаково. Один вчера налетел на Лиону и даже не извинился. Просто пошли дальше!,ai,,158F90964A5949CBC2928BB68FA34928
 Thanks for your help.,Спасибо за помощь.,ai,,18728A4943E9AFE1C26DE68676DC708D
-(INVESTIGATIVE) What were you doing here yesterday? You said you weren't from around here.,"[ПЫТЛИВОСТЬ] Что вы здесь делали вчера? Вы же говорили, что не местная.",ai,,060CEE894A140EF4934856B59DC8B514
+(INVESTIGATIVE) What were you doing here yesterday? You said you weren't from around here.,"(ПЫТЛИВОСТЬ) Что вы здесь делали вчера? Вы же говорили, что не местная.",ai,,060CEE894A140EF4934856B59DC8B514
 I'll make them sorry. Real sorry.,Они у меня извинятся. Ещё как извинятся.,ai,,BAE935F34B9C0DF1097752850BC46B26
 What are you expecting a parade? You fixed a stupid clock. Big deal.,"Что, ждёшь парад? Ты починил дурацкие часы. Эка невидаль.",ai,,783B0B154FC2FE50EEDD9A84E6B8D439
 It is a big deal.,Это не пустяк.,ai,,BDDD1AB64048CAD64BEE929E32CA4089
@@ -241,7 +241,7 @@ Yeah...I'm going to get out of here before you vultures suck me dry. [Leave],"Д
 Of course you're rich! That's a Glaxxon 680-S you're carrying. Top of the line. Stop holding out.,"Конечно, ты богат! У тебя «Глаксон 680-S». Топовая модель. Хватит юлить.",ai,,CBDC45F9407E0E98C12B3695EC2520AD
 It's a loaner from school.,"Это школьная, на время.",ai,,B121AC8E414C59614CF38ABB513D266C
 I'm beyond broke. I can barely afford tuition.,Я на мели. Едва тяну за учёбу.,ai,,54414FAF4E4FE41EE56AAD94CC8B06C1
-(INVESTIGATIVE) This is a pretty niche item. How do you know the make an model of my camera?,[ПЫТЛИВОСТЬ] Это довольно нишевая вещь. Откуда вы знаете марку и модель моей камеры?,ai,,32F9961B4700320F76F0ADAC8EB3A9DA
+(INVESTIGATIVE) This is a pretty niche item. How do you know the make an model of my camera?,(ПЫТЛИВОСТЬ) Это довольно нишевая вещь. Откуда вы знаете марку и модель моей камеры?,ai,,32F9961B4700320F76F0ADAC8EB3A9DA
 "What? No! Of course not! Look at us! We live on the West End, where I suppose you richies would prefer us to stay.","Что? Нет! Конечно нет! Взгляни на нас! Мы живём в Уэст-Энде, где вам, богатеям, и положено нас держать.",ai,,8E334EF64518445767BE908148E558F7
 Relax. I'm not from here either. I'm just a photography student.,Расслабьтесь. Я тоже не отсюда. Я просто студент-фотограф.,ai,,5C7FE0C14AB712829F661F83EEAAB5AA
 What makes you think I'm rich?,"С чего вы взяли, что я богат?",ai,,26E6CFD74200281E6D7ACCA57146566D
@@ -272,7 +272,7 @@ That's all I have.,"Это всё, что у меня есть.",ai,,30B1D45C483
 "Lady, I'm a student. A poor, struggling student.","Леди, я студент. Бедный, перебивающийся студент.",ai,,0809A6D04C61C21F73B0CD9AC44CD3FA
 You think I'm rich?,"Вы думаете, я богат?",ai,,DEB8B9FC43EB1E5B2B4F13A271DAFA45
 "You know what I want? A nice toy for my little girl. The fancier the better. You get that, then you'll get your picture. But hurry up. The last bus back to Granville's in a couple hours and Liona hates to walk.","Знаешь, чего я хочу? Красивую игрушку для моей малышки. Чем навороченнее, тем лучше. Достанешь — получишь свой снимок. Но поторопись. Последний автобус до Гренвилля через пару часов, а Лиона терпеть не может ходить пешком.",ai,,B933DE7D4CE65FC58EABEA803D8687B9
-"(INVESTIGATIVE) Wait, didn't you say you lived on the West End?","[ПЫТЛИВОСТЬ] Постойте, вы же говорили, что живёте в Уэст-Энде?",ai,,598918D248E5B323877B06A1AEDBB9A9
+"(INVESTIGATIVE) Wait, didn't you say you lived on the West End?","(ПЫТЛИВОСТЬ) Постойте, вы же говорили, что живёте в Уэст-Энде?",ai,,598918D248E5B323877B06A1AEDBB9A9
 I'll see what I can do. [Leave],"Посмотрю, что можно сделать. [Уйти]",ai,,7763E2E64FDB52FF4CB9A7BCE8AF76BC
 "Fine. Let me ask you a few more questions, though, first.",Ладно. Но сначала позвольте задать вам ещё пару вопросов.,ai,,A858DDB24075046B0674BA8FA7D332B7
 "Did anyone else tell confirm this nonsense? Of course not! Oh yes, the Goddess saw a sucker coming the minute you stepped into this neighbourhood too proud to wear a mask. You're her little plaything!","Кто-нибудь ещё подтвердил эту чушь? Конечно нет! О да, Богиня учуяла простака, как только ты вошёл в район, слишком гордый, чтобы надеть маску. Ты её игрушка!",ai,,8C2F99CB49DB1C9C9C4057934CFDF25B
@@ -295,15 +295,15 @@ Ugh! Nevermind. Just leave us alone if you're not going to be any help!,"Тьф�
 Wait. I want to ask you a few questions.,Погодите. Хочу задать вам пару вопросов.,ai,,B13A25C3498DB9A2CC6538B8373FB8CE
 "Yeah, yeah. [Leave]","Ага, ага. [Уйти]",ai,,1E3B0FB1438B51822FD90C9B27994BBA
 "No, you WEREN'T! You came over here as if you saw something and just started hovering around like some GHOUL. I suppose you find something AMUSING about a struggling mother who can't afford to buy a simple toy for her baby girl?","Нет, ещё как ПОДСЛУШИВАЛ! Ты подошёл, будто что-то увидел, и стал виться рядом, как какой-то УПЫРЬ. Наверное, тебе кажется ЗАБАВНЫМ, что мать из последних сил не может купить простую игрушку своей малышке?",ai,,24808892454EEED401AD94B557EB05FC
-(SARCASTIC) Amusing? No. But I don't think it's worth broadcasting to the entire neighbourhood like you're doing now.,"[САРКАЗМ] Забавным? Нет. Но не думаю, что об этом стоит объявлять на весь район, как вы сейчас.",ai,,9E98DDBD4F857E5736613E831FA0EEDA
-(INVESTIGATIVE) These aren't simple toys. They're wildly overpriced. Probably because this is the wealthiest area of town.,"[ПЫТЛИВОСТЬ] Это не простые игрушки. Они безумно задраны в цене. Наверное, потому что это самый богатый район города.",ai,,125EED184A602920355CF2A0D7D99BFA
-"(SOCIAL) Absolutely not. Believe me, if I weren't a broke student, I'd rush in there and scoop up as many toys for her as I could afford.","[ОБЩИТЕЛЬНОСТЬ] Ни в коем случае. Поверьте, не будь я нищим студентом, я бы влетел туда и скупил для неё столько игрушек, сколько потянул бы.",ai,,8DAB549442FFA23065673E8AA058F0EB
+(SARCASTIC) Amusing? No. But I don't think it's worth broadcasting to the entire neighbourhood like you're doing now.,"(САРКАЗМ) Забавным? Нет. Но не думаю, что об этом стоит объявлять на весь район, как вы сейчас.",ai,,9E98DDBD4F857E5736613E831FA0EEDA
+(INVESTIGATIVE) These aren't simple toys. They're wildly overpriced. Probably because this is the wealthiest area of town.,"(ПЫТЛИВОСТЬ) Это не простые игрушки. Они безумно задраны в цене. Наверное, потому что это самый богатый район города.",ai,,125EED184A602920355CF2A0D7D99BFA
+"(SOCIAL) Absolutely not. Believe me, if I weren't a broke student, I'd rush in there and scoop up as many toys for her as I could afford.","(ОБЩИТЕЛЬНОСТЬ) Ни в коем случае. Поверьте, не будь я нищим студентом, я бы влетел туда и скупил для неё столько игрушек, сколько потянул бы.",ai,,8DAB549442FFA23065673E8AA058F0EB
 "Oh, I'm sorry: do our humble West End ways OFFEND your posh Gastown ""sensibilities""? I bet you think I don't belong in this neighbourhood.","О, простите: наши скромные уэст-эндские манеры ОСКОРБЛЯЮТ вашу роскошную газтаунскую «утончённость»? Бьюсь об заклад, ты считаешь, что мне не место в этом районе.",ai,,E293FFE941110B81DA24F5A2A6A7D16E
-"(SARCASTIC) Lady, I'm beginning to think you don't belong in this universe.","[САРКАЗМ] Леди, я начинаю думать, что вам не место в этой вселенной.",ai,,84979E5640BAC281CDA4AD9AA0241792
+"(SARCASTIC) Lady, I'm beginning to think you don't belong in this universe.","(САРКАЗМ) Леди, я начинаю думать, что вам не место в этой вселенной.",ai,,84979E5640BAC281CDA4AD9AA0241792
 Pfft. You think I'm rich?,"Пф. Вы думаете, я богат?",ai,,61007DBD40120E21195A709C5351D9A2
 I'm sorry. I didn't mean to offend you.,Простите. Я не хотел вас обидеть.,ai,,5A60974A4176C5EBDB02DDA47D580BBF
 "You really ARE a piece of work, aren't you? Sass-talking me in front of my own child! You better do something to make up for this, or she's going to be traumatized for life!","Ну ты и фрукт, а? Дерзить мне при собственном ребёнке! Лучше искупи вину, или она останется травмированной на всю жизнь!",ai,,EAB10FE8484DEE6C8EA72DA7722E48E0
-"(SARCASTIC) With you as her mother, that's already a given.",[САРКАЗМ] С вами в роли матери это уже само собой разумеется.,ai,,B5D7D78648E3568C29CEC4B46C0987AA
+"(SARCASTIC) With you as her mother, that's already a given.",(САРКАЗМ) С вами в роли матери это уже само собой разумеется.,ai,,B5D7D78648E3568C29CEC4B46C0987AA
 Of course. What can I do to help?,Конечно. Чем могу помочь?,ai,,3EEA2D8D4809EC8AFAD5BEB1AD473F23
 "...You know what, I'm sorry. Sincerely.",...Знаете что? Мне жаль. Искренне.,ai,,AD04ED9A4FA62906A6BF42A3998CCF5F
 "Oh you have definitely crossed the line, boy. That's assault. VERBAL assault. And unless you hand over that expensive camera around your neck, I'm going straight to the police. Then you'll be sorry.","О, ты определённо перешёл черту, мальчик. Это нападение. СЛОВЕСНОЕ нападение. И если ты не отдашь эту дорогую камеру с шеи, я иду прямиком в полицию. Тогда пожалеешь.",ai,,15B4FC5A49DD722A62DF6097F36B28E8
@@ -328,12 +328,12 @@ Okay. Let's talk a bit more about you then.,Ладно. Тогда давайт�
 Fair enough. Let's change the subject.,Справедливо. Давайте сменим тему.,ai,,5F60422843D39996C1A69FABEAB5F60E
 "In that case, I'm going to take off before I get tempted to have kids and exploit them. [Leave]","В таком случае я пойду, пока меня не потянуло завести детей и эксплуатировать их. [Уйти]",ai,,528E2A804D56A393C7335CAD7E5F5610
 "Well, they're about two decades out of fashion, which means they should be due for a revival if you can hold onto them for a little while longer. Though I doubt those janky threads will be able to hold on that much longer.","Ну, они лет двадцать как вышли из моды, а значит, скоро должны вернуться, если ты продержишься с ними ещё немного. Хотя сомневаюсь, что эти хлипкие тряпки протянут намного дольше.",ai,,2BA59F8248B3F306B072A19DB16FEC04
-(INVESTIGATIVE) You sure know a lot about the finer things.,[ПЫТЛИВОСТЬ] Вы многое знаете о тонких вещах.,ai,,7B05CFE04BB4830428DE8E9AD7814552
+(INVESTIGATIVE) You sure know a lot about the finer things.,(ПЫТЛИВОСТЬ) Вы многое знаете о тонких вещах.,ai,,7B05CFE04BB4830428DE8E9AD7814552
 "Oh, they'll hold up just fine.","О, они прекрасно протянут.",ai,,B9FCC81D4F504F95C515C6BB5C6E16E2
 These aren't out of fashion. They're old school.,Они не вышли из моды. Они олдскульные.,ai,,B47F8BFB49A2C432E77CC398BFD1B3CB
 "What? Oh. Er...well, just because we're in dire straits doesn't mean I have to be ignorant. Maybe I like to motivate myself with the finer things. What are you accusing me of?","Что? О. Э-э... ну, раз мы в бедственном положении, это не значит, что я должна быть невеждой. Может, я мотивирую себя тонкими вещами. В чём ты меня обвиняешь?",ai,,F7F56CD54533CDBF64D579871F5310A1
 Nothing. I do the exact same thing.,Ни в чём. Я делаю то же самое.,ai,,7656A235423080F384661982ECF5A456
-(INVESTIGATIVE) Maybe you're a little better off than you're making yourself out to be.,"[ПЫТЛИВОСТЬ] Может, вы живёте лучше, чем изображаете.",ai,,B55ACC28492F8E7E84A47789F56AA1BE
+(INVESTIGATIVE) Maybe you're a little better off than you're making yourself out to be.,"(ПЫТЛИВОСТЬ) Может, вы живёте лучше, чем изображаете.",ai,,B55ACC28492F8E7E84A47789F56AA1BE
 And maybe YOU'RE an idiot! I mean look at you: roaming the streets without a mask during the Solstice! I hope the Goddess has her way with you tonight!,"А может, ТЫ идиот! Посмотри на себя: бродишь по улицам без маски в солнцестояние! Надеюсь, Богиня с тобой сегодня ночью поразвлечётся!",ai,,B940F5C14EBF054F7906DE91CD60A0BC
 Hey! No! Take it back!,Эй! Нет! Возьмите свои слова назад!,ai,,2D7593CC474858EC5CE4B1B5E21E490B
 The Goddess?,Богиня?,ai,,8C39521643A913E6E2A120A9A6F29F26

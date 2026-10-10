@@ -36,7 +36,7 @@ Yeah. Let's go now.,Да. Поехали.,ai,,6448C73048DBB7827F56999786DE6E48
 I don't really have an appetite right now.,У меня сейчас совсем нет аппетита.,ai,,316CD6B84B97E84121E94EA152844CD7
 Can I drive?,Можно мне за руль?,ai,,61130F0B40EA9DB9535AE6B3F5D8BC6B
 "Firstly, you should always have an appetite. If there is food, you eat. That's just common sense.","Во-первых, аппетит должен быть всегда. Есть еда — ешь. Это же здравый смысл.",ai,,E74922CB46DC146645F0808F125C558B
-"(AMBITIOUS) I like the way you think, Uncle.","[АМБИЦИОЗНОСТЬ] Мне нравится, как ты мыслишь, дядя.",ai,,D091DCE146A86FE9F42A4694B5B5B5BA
+"(AMBITIOUS) I like the way you think, Uncle.","(АМБИЦИОЗНОСТЬ) Мне нравится, как ты мыслишь, дядя.",ai,,D091DCE146A86FE9F42A4694B5B5B5BA
 And second?,А во-вторых?,ai,,669C4AD4445837FDDC2AF88731E17964
 "How very like you to say that, Uncle.","Как это на тебя похоже, дядя.",ai,,91B1BF354992359F15CEBEB901AB89BE
 "I-I understand, Clarissa. It...it's been a long day.","Я... я понимаю, Кларисса. Это... был долгий день.",ai,,8B68D8784CD6A790819BE9BB165AAB8F
@@ -44,7 +44,7 @@ And second?,А во-вторых?,ai,,669C4AD4445837FDDC2AF88731E17964
 That doesn't make it better.,Лучше от этого не становится.,ai,,26C14D4E48C655D6FD2B37B1D0465B19
 "Drive? My car? Hah! Ask me again in ten years, and we'll see where we land on a scale from no to never.","За руль? Моя машина? Ха! Спроси ещё раз через десять лет, посмотрим, где мы окажемся на шкале от «нет» до «никогда».",ai,,8DB126D446EDD6AF5B6DD6A640E62C32
 Ten years? We'll see about that.,Десять лет? Это мы ещё посмотрим.,ai,,944AC9D2452FB06C2C6A43AC69A19DC2
-"(CUNNING) It'd make me feel better, uncle...","[ХИТРОСТЬ] Мне бы стало легче, дядя...",ai,,BC05ACA8414BE40E23695EB7376EFFA6
+"(CUNNING) It'd make me feel better, uncle...","(ХИТРОСТЬ) Мне бы стало легче, дядя...",ai,,BC05ACA8414BE40E23695EB7376EFFA6
 Pssh. I'd be driving that thing in a week if I asked nice enough.,"Пф. Я бы уже через неделю рулила этой штукой, если бы вежливо попросила.",ai,,9F8FF52E45338E3D18EBC7B3BEC12AB3
 A meal like this isn't just about food. It's about family. Surrounding yourself with loved ones. Reminding yourself that you're not alone.,"Такая трапеза — это не только еда. Это семья. Окружить себя близкими. Напомнить себе, что ты не одна.",ai,,EFE14EE148CD15B5710083B9878460C4
 Yeah. I understand.,Да. Понимаю.,ai,,46CCA6A1490CCB6C6B11678AB7A49991
@@ -132,9 +132,9 @@ So. Are you ready to go?,"Ну что, готова ехать?",ai,,494600C2430
 Not yet. Give me a moment.,Ещё нет. Дай мне минуту.,ai,,B36F8211476671C434391B94380D13C1
 Yeah. Let's go.,Да. Поехали.,ai,,26927F15478EEE32531906AE25E4426D
 "Heya, kid. You rushed right past me in there, and now I find you standing by the car. Eager to get out of here, huh?","Эй, малышка. Ты пронеслась мимо меня там, а теперь стоишь у машины. Не терпится убраться отсюда, да?",ai,,01BAB15544CA5A6A98074380D32D4930
-"(AMBITIOUS) Eager for it to be over. I didn't want to be there, and I didn't want those strangers to be either.","[АМБИЦИОЗНОСТЬ] Не терпится, чтобы всё закончилось. Я не хотела там быть и не хотела, чтобы эти чужаки были там тоже.",ai,,F35416CF40CCBC23A1BE089B09A216B1
-(CUNNING) It's fine. Just had to cause a little bit of a misunderstanding in there.,[ХИТРОСТЬ] Всё в порядке. Просто пришлось там устроить небольшое недоразумение.,ai,,F639AD284AAFA99CC4B452B3E8D21C2F
-(POWERFUL) I couldn't stand the crowds.,[ВЛАСТНОСТЬ] Я не выношу толпу.,ai,,2D0BBD1B445FA8301A06D39C602CE7A1
+"(AMBITIOUS) Eager for it to be over. I didn't want to be there, and I didn't want those strangers to be either.","(АМБИЦИОЗНОСТЬ) Не терпится, чтобы всё закончилось. Я не хотела там быть и не хотела, чтобы эти чужаки были там тоже.",ai,,F35416CF40CCBC23A1BE089B09A216B1
+(CUNNING) It's fine. Just had to cause a little bit of a misunderstanding in there.,(ХИТРОСТЬ) Всё в порядке. Просто пришлось там устроить небольшое недоразумение.,ai,,F639AD284AAFA99CC4B452B3E8D21C2F
+(POWERFUL) I couldn't stand the crowds.,(ВЛАСТНОСТЬ) Я не выношу толпу.,ai,,2D0BBD1B445FA8301A06D39C602CE7A1
 "Looks like my father was, too.","Похоже, отец тоже.",ai,,A246655640B9660373D0AC951420B221
 "She's a beauty, isn't she? Want me to roll down the windows for you?","Красавица, правда? Хочешь, опущу тебе окна?",ai,,18B7E39F42026BBFE978139FE3BAB49E
 Maybe later.,"Может, попозже.",ok,,E30EFE384C6D2018D9DA42943C60E5E1

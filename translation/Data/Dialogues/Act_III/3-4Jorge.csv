@@ -76,7 +76,7 @@ I might actually miss this place. There's a sense of calm out here. Quiet.,"Я, 
 My parents.,Родители.,ai,,434D1661409106614BF7CCB68806FE8A
 The work.,Работа.,ai,,F666BBF545D668981F861BB0330C6C2A
 The promise of tomorrow.,Обещание завтрашнего дня.,ai,,FE7B729E4E2EE9A4A62B37990BAA575A
-"(CYNIC) How is making me think about the things I love that I'll never see again a more ""positive"" line of discussion?","[ЦИНИК] С чего это мысли о том, что я люблю и больше никогда не увижу, — «более позитивная» тема?",ai,,1006B535482D01C95DCBCABD62E8E57D
+"(CYNIC) How is making me think about the things I love that I'll never see again a more ""positive"" line of discussion?","(ЦИНИК) С чего это мысли о том, что я люблю и больше никогда не увижу, — «более позитивная» тема?",ai,,1006B535482D01C95DCBCABD62E8E57D
 "Let me ask you something, Eli: Why do you suppose you were assigned to this detail?","Позволь спросить тебя, Илай: как думаешь, почему тебя назначили на это задание?",ai,,EF197E4447E9BAC9F91FD4B6D4AEC122
 Because it's my job.,Потому что это моя работа.,ai,,CD26FBE346AB7D56AE19F0AB5EEA1A89
 My supervisors wanted me to get more field experience.,"Начальство хотело, чтобы я набрался полевого опыта.",ai,,D7B3FA9E4649F77B9831619BBABF2E07
@@ -102,7 +102,7 @@ And if you're wrong?,А если ты ошибаешься?,ai,,767821B84468D532
 "Nothing but cheers and applause from our friends in the scientific community. I can see the articles now: ""First team to survive the ravenous Wastes: How did they ever survive?""","Одни только возгласы одобрения и аплодисменты от наших друзей из научного сообщества. Я уже вижу заголовки: «Первая группа, выжившая в ненасытных Пустошах: как им это удалось?»",ai,,8D6498CA4BED8938E147C9AFFC98193F
 I don't want to think about it.,Я не хочу об этом думать.,ok,,BB76B9524E530374512EFE9A8508309E
 No need to be sarcastic.,Не надо язвить.,ai,,26A0562F43CBF0BE782000B129D725A3
-(IDEALIST) It's not out of the realm of possibility.,[ИДЕАЛИСТ] Это не исключено.,ai,,463B40694E1E91EC40C7499DC8D3E210
+(IDEALIST) It's not out of the realm of possibility.,(ИДЕАЛИСТ) Это не исключено.,ai,,463B40694E1E91EC40C7499DC8D3E210
 Uh-huh.,Ага.,ai,,C2D1EBD946A97A212707D7AB7002F67D
 "Okay, what's up? You're not even listening to me.","Так, в чём дело? Ты меня даже не слушаешь.",ai,,06F6022F4DDF2BA0C82116A6E2B172AF
 Is something wrong?,Что-то не так?,ai,,FF8CA58846A896133331EAA6071AE593
@@ -125,9 +125,9 @@ Not right now. Let's talk about you. What are you going to miss most?,Не се�
 You're right! I got this.,Ты прав! Я справлюсь.,ai,,5EA3508C47C289E1DA4724BEF58CE2F0
 I'll give it a shot.,Попробую.,ai,,CDAE2F07441EECABAEAD3CA164CD0705
 "Is that because the future is bright, or because the present is dark?","Это потому что будущее светло, или потому что настоящее мрачно?",ai,,A222BA2C4DC0E9569EDF7DA303EB1AFD
-(IDEALIST) The future is bright.,[ИДЕАЛИСТ] Будущее светло.,ai,,21A0071E44A0E2999723C789AD940DD3
-(REALIST) The present determines the future. We're not completely powerless.,[РЕАЛИСТ] Настоящее определяет будущее. Мы не совсем бессильны.,ai,,70F69D634DE000267BF243A72A9B9CA1
-"(CYNIC) Our bosses are about to kill us, Jorge. What do you think?","[ЦИНИК] Наше начальство собирается нас убить, Джордж. Как думаешь?",ai,,D28C6F9E491F36EAFFE340B616A5245D
+(IDEALIST) The future is bright.,(ИДЕАЛИСТ) Будущее светло.,ai,,21A0071E44A0E2999723C789AD940DD3
+(REALIST) The present determines the future. We're not completely powerless.,(РЕАЛИСТ) Настоящее определяет будущее. Мы не совсем бессильны.,ai,,70F69D634DE000267BF243A72A9B9CA1
+"(CYNIC) Our bosses are about to kill us, Jorge. What do you think?","(ЦИНИК) Наше начальство собирается нас убить, Джордж. Как думаешь?",ai,,D28C6F9E491F36EAFFE340B616A5245D
 "No idea. But if they're going to be bringing something back from outside the wall, it's probably someone at the top. Or above it.","Понятия не имею. Но если они собираются забрать что-то из-за Стены, то это, скорее всего, кто-то с самого верха. Или даже выше.",ai,,1BA128DC4E856B80FB0F3D9C9A940C2F
 We're not high level and they sent us.,"Мы не из высших эшелонов, а послали нас.",ai,,2C3FF1F7426AC0A44661F593EA03EEDF
 "Which is what we are now. After this discovery, I mean.","А теперь мы как раз такие. После этого открытия, я имею в виду.",ai,,970DEACE4354FE6BD709D08DBAD8E661
@@ -138,9 +138,9 @@ They didn't say we weren't.,А что не вернёмся — тоже не г
 "Good memories are good memories, Eli. Just because they aren't going to repeat themselves doesn't make them worthless.","Хорошие воспоминания остаются хорошими, Илай. То, что они не повторятся, не обесценивает их.",ai,,596BBDFB496251BD0FC937A56C147966
 What are you going to miss most?,По чему ты будешь скучать больше всего?,ai,,010B5C7F4DCDA7E9DD837DAE2619C793
 "Do you...do you follow the Scripture, Eli?","Ты... ты следуешь Писанию, Илай?",ai,,B41247114AE912DC714B8584B023AAA3
-(CYNIC) You mean that superstitious nonsense they use to control us?,"[ЦИНИК] Ты про ту суеверную чушь, которой нами управляют?",ai,,D358AAE841D25004065B2692653539DF
-(REALIST) I don't follow anything I can't see.,"[РЕАЛИСТ] Я не следую тому, чего не вижу.",ai,,4F8CBF424ABBAA7F8184F08C3A61F509
-"(IDEALIST) No, but I appreciate the value it brings to others. Even if I don't understand it.","[ИДЕАЛИСТ] Нет, но я ценю то, что оно даёт другим. Даже если сам этого не понимаю.",ai,,AB7B97174EDC1E2F6FAF6F94FDDDE994
+(CYNIC) You mean that superstitious nonsense they use to control us?,"(ЦИНИК) Ты про ту суеверную чушь, которой нами управляют?",ai,,D358AAE841D25004065B2692653539DF
+(REALIST) I don't follow anything I can't see.,"(РЕАЛИСТ) Я не следую тому, чего не вижу.",ai,,4F8CBF424ABBAA7F8184F08C3A61F509
+"(IDEALIST) No, but I appreciate the value it brings to others. Even if I don't understand it.","(ИДЕАЛИСТ) Нет, но я ценю то, что оно даёт другим. Даже если сам этого не понимаю.",ai,,AB7B97174EDC1E2F6FAF6F94FDDDE994
 "Do you? ","А ты? ",ai,,6F146DA84718B710E23E6D90187535C2
 "No, Jorge. I follow science.","Нет, Джордж. Я следую науке.",ai,,77F43B4741098751CE797786D65BF4F2
 "That's in the early days, though. Before the outside became the Wastes. And it's just a story.","Но это же из ранних времён. До того, как внешний мир стал Пустошами. И это просто история.",ai,,695EEBF74A3446B9D6CFB7BC69D626C0
@@ -260,11 +260,11 @@ Not at all. It's just...it's a story that's been on my mind ever since we passed
 What predicament? Being on the verge of wild success?,Какое положение? На пороге оглушительного успеха?,ai,,DE1BD0F14BBEC14939F396930D1593EA
 What's it about?,О чём она?,ai,,E2B3B1BB4C9C094AAAAFF7BD3AA40750
 "Years ago, long before the creation of The Wall, the Shepherd would scour the wasteland, guiding lost followers through the mountains towards the promised land. The path was treacherous and the elevation so high that each follower would inevitably become blinded by the sun, forcing them to rely entirely on His voice for guidance.","Много лет назад, задолго до возведения Стены, Пастырь обходил пустошь, ведя заблудших последователей через горы к земле обетованной. Путь был коварен, а высота такова, что каждый последователь неизбежно слепнул от солнца и вынужден был полностью полагаться на Его голос.",ai,,31AD0D7A46048E17980B8CBFFF5E1403
-(REALIST) Why didn't the Shepherd also lose his sight?,[РЕАЛИСТ] Почему Пастырь тоже не потерял зрение?,ai,,DA67DD934110B4D2A5419D990CE6E718
-(CYNIC) Why wouldn't the Shepherd just give them sunglasses?,[ЦИНИК] Почему Пастырь просто не дал им солнцезащитные очки?,ai,,B5577FA545AD57FA4C2BF599C23EF4B7
+(REALIST) Why didn't the Shepherd also lose his sight?,(РЕАЛИСТ) Почему Пастырь тоже не потерял зрение?,ai,,DA67DD934110B4D2A5419D990CE6E718
+(CYNIC) Why wouldn't the Shepherd just give them sunglasses?,(ЦИНИК) Почему Пастырь просто не дал им солнцезащитные очки?,ai,,B5577FA545AD57FA4C2BF599C23EF4B7
 Hmm.,Хм.,ai,,FB8344784C8813242ECCCCBE1B0CBDE2
 [Nod],[Кивнуть],ai,,658D8FB246864558A5E8B99C010671CF
-"(IDEALIST) Probably just temporary blindness, right? ","[ИДЕАЛИСТ] Наверное, просто временная слепота, да? ",ai,,F5C0451E49AD9E5CDD71328E383CF312
+"(IDEALIST) Probably just temporary blindness, right? ","(ИДЕАЛИСТ) Наверное, просто временная слепота, да? ",ai,,F5C0451E49AD9E5CDD71328E383CF312
 "Ah, the faith of the faithless really is something to behold. You really don't see it, do you?","Ах, вера безверных — зрелище, достойное внимания. Ты правда этого не видишь, да?",ai,,24BFCCC04BCC9BF859E8AAADC1FEF743
 "Just get to the point, man.","Давай ближе к делу, дружище.",ai,,064C1F034D80015493FB1DAB3E410C02
 See what?,Чего не вижу?,ai,,B31AC5CB4E43125DA5FADEA35129F2BD
@@ -293,7 +293,7 @@ He could have just told them to shield their eyes when they got close.,"Он м�
 Seems kind of worth it to prevent blindness.,"Ради того, чтобы не ослепнуть, это, по-моему, того стоит.",ai,,AA2556884F49D7A5ED0F69AE2A4156CA
 Right. I wouldn't either.,Верно. Я бы тоже не стал.,ai,,1DE605924168710764FC4FBBE0DCE044
 "Once they reached the City, the Shepherd promised to guide them towards the ocean, where their sight would be restored by the healing waters of The Great Blue.","Когда они дошли до Города, Пастырь обещал привести их к океану, где их зрение вернут целительные воды Великой Синевы.",ai,,835B53AA4FA297A6AD9C539B097F71EB
-(CYNIC) Seems unlikely.,[ЦИНИК] Сомнительно.,ai,,6CB01431417227AEF83782BBB6FB3E7C
+(CYNIC) Seems unlikely.,(ЦИНИК) Сомнительно.,ai,,6CB01431417227AEF83782BBB6FB3E7C
 Convenient.,Удобно.,ai,,74B2B4F34B6150D1595CB5A4CFBA3C1A
 Nice.,Мило.,ok,,8B35EAD34A2C200277FA948017D44261
 [Nod],[Кивнуть],ai,,6075CE3C43E1154A7D82D18356F93BE8
@@ -406,9 +406,9 @@ You mean whoever's coming from HQ.,"Ты про того, кто едет из �
 Alright. Go get everything in order. I'll be here keeping the fire going if you need me.,"Ладно. Иди приведи всё в порядок. Я пока посижу тут, поддержу огонь, если что.",ai,,55930E7D41DEFD538EED50851C43FB9D
 "Later, Jorge.","Пока, Джордж.",ai,,983D9BD2432ACA7DBD831A8F02AEA8EA
 "You need to stop deluding yourself, Eli. No team has ever come back from behind the Wall. We're on a suicide mission. For an outsider like me, this was always going to be the retirement plan. That's just how Science City works. But you're still young. Connected. You must have upset some really powerful people to get assigned a detail like this. So what happened?","Хватит обманывать себя, Илай. Ни одна группа ещё не возвращалась из-за Стены. Мы на самоубийственной миссии. Для чужака вроде меня это всегда было пенсионным планом. Так устроен Наукоград. Но ты ещё молод. С нужными связями. Ты наверняка насолил очень влиятельным людям, раз тебя отправили на такое задание. Так что случилось?",ai,,8A22C5434468CC7E80657CBB4CAF5FFB
-"(CYNIC) My team that was working with radiation waves to ""persuade"" test subjects to adopt more ""desirable"" behaviours. I could see where it was heading and leaked some info to the press.","[ЦИНИК] Моя группа работала с лучевыми волнами, «убеждая» подопытных принимать более «желательное» поведение. Я видел, к чему всё идёт, и слил информацию прессе.",ai,,AB1987B84787C09630D1558DFE0906DF
-"(IDEALIST) Well... I didn't think they found out, but I may have helped leak the formula of a lifesaving medication to our competitors to drive prices down.","[ИДЕАЛИСТ] Ну... я не думал, что они узнали, но, возможно, я помог слить формулу спасительного лекарства конкурентам, чтобы сбить цены.",ai,,9A2AFE2941A1B4906659529AEABD7722
-(REALIST) I may have mentioned that a new drug's side effects outweighed its benefits. To the CEO. At an investor meeting.,"[РЕАЛИСТ] Я, возможно, упомянул, что побочные эффекты нового препарата перевешивают пользу. Генеральному директору. На встрече с инвесторами.",ai,,14C8D50444769C4BC5B042A10370AE92
+"(CYNIC) My team that was working with radiation waves to ""persuade"" test subjects to adopt more ""desirable"" behaviours. I could see where it was heading and leaked some info to the press.","(ЦИНИК) Моя группа работала с лучевыми волнами, «убеждая» подопытных принимать более «желательное» поведение. Я видел, к чему всё идёт, и слил информацию прессе.",ai,,AB1987B84787C09630D1558DFE0906DF
+"(IDEALIST) Well... I didn't think they found out, but I may have helped leak the formula of a lifesaving medication to our competitors to drive prices down.","(ИДЕАЛИСТ) Ну... я не думал, что они узнали, но, возможно, я помог слить формулу спасительного лекарства конкурентам, чтобы сбить цены.",ai,,9A2AFE2941A1B4906659529AEABD7722
+(REALIST) I may have mentioned that a new drug's side effects outweighed its benefits. To the CEO. At an investor meeting.,"(РЕАЛИСТ) Я, возможно, упомянул, что побочные эффекты нового препарата перевешивают пользу. Генеральному директору. На встрече с инвесторами.",ai,,14C8D50444769C4BC5B042A10370AE92
 "Now I'm not so sure. ","Теперь я не так уверен. ",ai,,C0B9556743797B8EAC8A5CA260D33933
 About time you came to your senses.,Наконец-то ты взялся за ум.,ai,,1293F4244C2BC9923098C8826FC7C1B8
 Maybe the Shepard is protecting us. Or maybe it's a test of your faith.,"Может, Пастырь нас защищает. А может, это испытание твоей веры.",ai,,46C5C6B442888E7C10C5B29F608CA69E

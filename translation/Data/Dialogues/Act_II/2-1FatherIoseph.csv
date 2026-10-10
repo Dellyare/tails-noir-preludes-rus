@@ -8,8 +8,8 @@ I'm sure the honor that comes with putting such a great figure to rest is more t
 Certainly. I'll speak to my father about it.,Конечно. Я поговорю об этом с отцом.,ai,,F80150B6477A5726D77D7992FE464BB1
 "...Unfortunately, I was just leaving. I'll pass along your message.","...К сожалению, я как раз ухожу. Я передам ваши слова.",ai,,0162552543781FA3499DAFB104C4CC12
 Ye-es?,Да-а?,ai,,00D69F2F4E2317631FEF729D2E49D6FF
-(CUNNING) Do you think you could do something about this crowd? They're blocking the way out.,[ХИТРОСТЬ] Вы не могли бы что-нибудь сделать с этой толпой? Они загораживают выход.,ai,,37150AA14CCD9ECB26C4E4947454CCD7
-"(CUNNING) Have you seen the collection box, father? It's...empty.","[ХИТРОСТЬ] Вы видели ящик для пожертвований, святой отец? Он... пуст.",ai,,C200B835422DF09CEF6768B2E0C9D819
+(CUNNING) Do you think you could do something about this crowd? They're blocking the way out.,(ХИТРОСТЬ) Вы не могли бы что-нибудь сделать с этой толпой? Они загораживают выход.,ai,,37150AA14CCD9ECB26C4E4947454CCD7
+"(CUNNING) Have you seen the collection box, father? It's...empty.","(ХИТРОСТЬ) Вы видели ящик для пожертвований, святой отец? Он... пуст.",ai,,C200B835422DF09CEF6768B2E0C9D819
 "I'll leave you to it, Father.","Не буду вам мешать, святой отец.",ai,,A99F5D214D9B658605A35EAD449D2285
 "It was my honour. Your grandfather had tremendous respect for tradition, and much in the same way, the ministry and I had great respect for him.","Это была честь для меня. Ваш дедушка глубоко чтил традиции, и точно так же приход и я глубоко чтили его.",ai,,B0AC9AEB4CB27E279151B0972193599D
 Grandpa never struck me as a religious man.,"Мне никогда не казалось, что дедушка был религиозным.",ai,,1A2AEEC34E72ADEAEE1EE4B5A0B03199
@@ -65,12 +65,12 @@ You're right - so back off.,Вы правы — так что отстаньте
 "I apologize, Father. Just trying to get my point across.","Прошу прощения, святой отец. Я просто пыталась донести свою мысль.",ai,,8C59F8E04ED364DB3FCAA181EBD73C09
 I'll consider it.,Я подумаю.,ai,,18E8ACBA40FCDB45A0DDB0A3C4C44268
 "Hello again, child. How can I help you? What ails your young heart?","Снова здравствуй, дитя. Чем я могу помочь? Что тревожит твоё юное сердце?",ai,,BC4878CF4C6A6757CB2618AE095C6219
-"(CUNNING) Have you seen the collection box, father? It's...empty.","[ХИТРОСТЬ] Вы видели ящик для пожертвований, святой отец? Он... пуст.",ai,,B71B977E46F910FC753D87B2D25A474A
-(CUNNING) Do you think you could do something about this crowd? They're blocking the way out.,[ХИТРОСТЬ] Вы не могли бы что-нибудь сделать с этой толпой? Они загораживают выход.,ai,,5F4BF6CB495BC30D25DD48B0ED60A036
+"(CUNNING) Have you seen the collection box, father? It's...empty.","(ХИТРОСТЬ) Вы видели ящик для пожертвований, святой отец? Он... пуст.",ai,,B71B977E46F910FC753D87B2D25A474A
+(CUNNING) Do you think you could do something about this crowd? They're blocking the way out.,(ХИТРОСТЬ) Вы не могли бы что-нибудь сделать с этой толпой? Они загораживают выход.,ai,,5F4BF6CB495BC30D25DD48B0ED60A036
 What does the Shepherd tell us about death?,Что Пастырь говорит нам о смерти?,ai,,EF20A41641878790D957E3AD11B7BFE1
 Nothing. I'll be on my way. [Leave],Ничего. Я пойду. [Уйти],ai,,B2C877B742765AA04B46A7AF8E909F7F
 "Ah. Clarissa, my child. My condolences on your loss. Your grandfather was a good man.","А-а. Кларисса, дитя моё. Соболезную твоей утрате. Твой дедушка был хорошим человеком.",ai,,DA2780EC4AFD06B69A81CBB46BED46B1
-(CUNNING) Do you think you could do something about this crowd? They're blocking the way out.,[ХИТРОСТЬ] Вы не могли бы что-нибудь сделать с этой толпой? Они загораживают выход.,ai,,B1361090449BA8493E72608C2DCB2EAF
+(CUNNING) Do you think you could do something about this crowd? They're blocking the way out.,(ХИТРОСТЬ) Вы не могли бы что-нибудь сделать с этой толпой? Они загораживают выход.,ai,,B1361090449BA8493E72608C2DCB2EAF
 What does the Shepherd tell us about death?,Что Пастырь говорит нам о смерти?,ai,,3E59B6A54C064BB07565E398983B23E9
 Thank you for the sermon.,Спасибо за проповедь.,ai,,B3D7266D48281248375884A4A78844EC
 Sure. Thanks. [Leave],Конечно. Спасибо. [Уйти],ai,,81BF33B9436C9D6D152A3A9659F4284E

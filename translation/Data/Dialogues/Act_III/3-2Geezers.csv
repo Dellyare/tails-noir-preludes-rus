@@ -3,8 +3,8 @@ You found the missing hand.,Ты нашёл пропавшую стрелку.,a
 You identified the Elder Geezer.,Ты опознал Старейшего гусяру.,ai,,BA7D7DDD406BFDD37DAA7A8B7B58C5D5
 You got a geezer plushie.,Ты получил плюшевого гусяру.,ai,,A423DAF64C00FC5C24DC2C8684AD2249
 HONK.,ГА.,ok,,C5DA03CB45B6DFE0A6D9E7B1B6B14916
-(SOCIAL) Honk.,[ОБЩИТЕЛЬНОСТЬ] Га-га.,ai,,6E13BB7E4BEF6A6C2A5F008F94D09CF8
-(INVESTIGATIVE) [Observe the geezers to identify their leader.],"[ПЫТЛИВОСТЬ] [Понаблюдать за гусярами, чтобы определить их вожака.]",ai,,D4C183E945AFF4F0BF8033BF6CCA8EBD
+(SOCIAL) Honk.,(ОБЩИТЕЛЬНОСТЬ) Га-га.,ai,,6E13BB7E4BEF6A6C2A5F008F94D09CF8
+(INVESTIGATIVE) [Observe the geezers to identify their leader.],"(ПЫТЛИВОСТЬ) [Понаблюдать за гусярами, чтобы определить их вожака.]",ai,,D4C183E945AFF4F0BF8033BF6CCA8EBD
 "Here, fellas. Have some birdseed, on the house.","Вот, мужики. Угощайтесь птичьим кормом, за счёт заведения.",ai,,B278F8EA41C0C0B0A5FDDDB9BBDFB917
 Mind if I take a picture of you?,"Не против, если я вас сфотографирую?",ai,,00F7B9AB4F5F6B77FB449CB4165B49BD
 How come you're hanging out in the street?,А чего это вы на улице торчите?,ai,,6ABFC0004664F0628307A08438D6A7F3
@@ -19,7 +19,7 @@ Honk honk honk. HONK HONK. Honk HONK,Га-га-га. ГА-ГА. Га-га ГА-�
 HOONK. HONK HONK HONK.,ГАА-ГА. ГА-ГА-ГА-ГА.,ai,,E3C13D494F2E6418079AB893D4C3477C
 Fine. I'll be back when I have more witnesses.,"Ладно. Вернусь, когда будет больше свидетелей.",ai,,FCB19A134541B18020224D8CD4572F20
 ...Honk.,...Га-га.,ai,,BCEF5C0E48102A8A60CCA995E506C6A7
-"(INVESTIGATIVE) ...What's that you're sitting around on, there?",[ПЫТЛИВОСТЬ] ...А на чём это вы там сидите?,ai,,644A8B1445FB2CF4F5FA6F9A02C0570D
+"(INVESTIGATIVE) ...What's that you're sitting around on, there?",(ПЫТЛИВОСТЬ) ...А на чём это вы там сидите?,ai,,644A8B1445FB2CF4F5FA6F9A02C0570D
 "Come on, geezers. The hand. Cough it up.","Ну же, гусяры. Стрелка. Выкладывайте.",ai,,4F3FA2D14AE1D2E68E8B7EADA1504622
 ...Honk.,...Га-га.,ai,,FF792FE0401190AA3F22B5A286C819BB
 "Would you look at that - a steam clock hand. I'll be taking that, if you don't mind.","Ты погляди — стрелка от паровых часов. Я её, пожалуй, заберу, если не возражаете.",ai,,67DCF6C241527528D5ABC8880B4168D4

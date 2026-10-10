@@ -2,10 +2,10 @@
 You decided not to antagonize Carlo any further.,Ты решила больше не злить Карло.,ai,,8A916DCA4127DEF2C08B1D957E69087E
 You refused to back down to Carlo.,Ты не уступила Карло.,ai,,2376B1E3423BB11414F7219E9860FC91
 See what you made me do? Now get the fuck out of my sight.,"Видишь, до чего ты меня довела? А теперь вали нахер с глаз моих.",ai,,599A17D74CB40DD7DAA06782358437F1
-(POWERFUL) You'll regret that.,[ВЛАСТНОСТЬ] Ты об этом пожалеешь.,ai,,068DF65B4E8BA7DBC412CC8B1FEAA6D0
-"(CUNNING) T-that was a mistake, dad.","[ХИТРОСТЬ] З-зря ты это сделал, пап.",ai,,B2A922B64F1D3D470F7856A692944B3A
+(POWERFUL) You'll regret that.,(ВЛАСТНОСТЬ) Ты об этом пожалеешь.,ai,,068DF65B4E8BA7DBC412CC8B1FEAA6D0
+"(CUNNING) T-that was a mistake, dad.","(ХИТРОСТЬ) З-зря ты это сделал, пап.",ai,,B2A922B64F1D3D470F7856A692944B3A
 [Leave],[Выйти],ok,,DB3ED8144C26AEF93BDBCBA3061DDB02
-"(AMBITIOUS) You...you may be running things now, but someday that will change.","[АМБИЦИОЗНОСТЬ] Сейчас... сейчас, может, всем заправляешь ты, но однажды это изменится.",ai,,D0A1A5A044F3CE29FFC79C8DD70603DA
+"(AMBITIOUS) You...you may be running things now, but someday that will change.","(АМБИЦИОЗНОСТЬ) Сейчас... сейчас, может, всем заправляешь ты, но однажды это изменится.",ai,,D0A1A5A044F3CE29FFC79C8DD70603DA
 Okay. Now get the fuck out of my sight. I have work to do.,Ладно. А теперь вали нахер с глаз моих. У меня работа.,ai,,B7E9E177410F63E493A5EA9C285C2098
 [Leave],[Выйти],ok,,9A6146BB47F8FDD086B04C8BA4BFD180
 "Are you kidding me? You want me to turn our guys into what? Fucking delivery boys? Maybe we can throw a paper route into the mix, double our income!","Ты издеваешься? Хочешь превратить наших парней в кого? В грёбаных курьеров? Может, ещё газеты разносить начнём — вдвое больше заработаем!",ai,,336864BF477B47EA7BF8C385EFF6C2CD
@@ -47,9 +47,9 @@ Leadership. I know how to inspire and protect people.,Лидерство. Я у�
 "What? Shepherd, you're such a brat. Now get the fuck out of here before I really show you what's what.","Что? Пастырь, ну ты и соплячка. А теперь вали нахер отсюда, пока я тебе по-настоящему не показал, кто здесь главный.",ai,,08FA3BB84263DF62CE9BC1ADBB149606
 [Leave],[Выйти],ok,,36E3738F48FE0D3DBBE2398D469A8C0B
 "The kind that has absolutely nothing to do with little girls. Now, beat it.","Такая, которая не имеет никакого отношения к маленьким девочкам. А теперь брысь.",ai,,7FF188EC466D151D54BD8EB07CB81338
-(AMBITIOUS) I have some ideas about your next move.,[АМБИЦИОЗНОСТЬ] У меня есть кое-какие идеи насчёт твоего следующего хода.,ai,,184B574842EDD06634F03782E1B2D555
-(CUNNING) You're...you're going to want me to be a part of this conversation.,"[ХИТРОСТЬ] Ты... ты захочешь, чтобы я участвовала в этом разговоре.",ai,,6C67D700401E3E4DE81B7886F9DFFD99
-(POWERFUL) You...you shouldn't have started this meeting without me.,[ВЛАСТНОСТЬ] Тебе... тебе не стоило начинать это собрание без меня.,ai,,D22686AA4FD4215E84EC65B0E6D7C61A
+(AMBITIOUS) I have some ideas about your next move.,(АМБИЦИОЗНОСТЬ) У меня есть кое-какие идеи насчёт твоего следующего хода.,ai,,184B574842EDD06634F03782E1B2D555
+(CUNNING) You're...you're going to want me to be a part of this conversation.,"(ХИТРОСТЬ) Ты... ты захочешь, чтобы я участвовала в этом разговоре.",ai,,6C67D700401E3E4DE81B7886F9DFFD99
+(POWERFUL) You...you shouldn't have started this meeting without me.,(ВЛАСТНОСТЬ) Тебе... тебе не стоило начинать это собрание без меня.,ai,,D22686AA4FD4215E84EC65B0E6D7C61A
 Whatever. [Leave],Как скажешь. [Уйти],ai,,55994CB541C55AD745CBD282A0A517A0
 [Walk away silently],[Молча уйти],ai,,DE87467A4D1552CDF9F8BFA688F07026
 "Abandon? What is this, ""abandon""? You're seventeen years old. You can't spend a minute to yourself in a fucking church? I'm working here.","Бросил? Что ещё за «бросил»? Тебе семнадцать лет. Ты что, минуту одна в грёбаной церкви не можешь побыть? Я тут работаю.",ai,,3B7A722F4D8F8057611F9790B7F82450
@@ -76,9 +76,9 @@ Grandpa was well-liked. What you're proposing won't be.,Дедушку люби�
 "Like it or not, Grandpa was well-liked. What you're proposing won't be.","Нравится тебе или нет, дедушку любили. А твою затею не полюбят.",ai,,A2BDEDFE43F3C4FF4F272C89820C6E07
 "Same as me. Out with the old, in with the new. I'm on your side in this.","Я тоже. Долой старое, даёшь новое. Я на твоей стороне.",ai,,C3FDFAFD4105BB1C80BE92B525639854
 Again? This better be important. What do you want?,"Опять? Надеюсь, это что-то важное. Чего тебе?",ai,,D2058D3D4F2807BB00DE31AAC1D7118D
-(AMBITIOUS) I have some ideas about your next move.,[АМБИЦИОЗНОСТЬ] У меня есть кое-какие идеи насчёт твоего следующего хода.,ai,,ADC87697433B7E826D21899EAA2BE8A1
-(CUNNING) You're going to want me to be a part of this conversation.,"[ХИТРОСТЬ] Ты захочешь, чтобы я участвовала в этом разговоре.",ai,,CDC5BCB947719F88F942528B7798241A
-(POWERFUL) You shouldn't have started this meeting without me.,[ВЛАСТНОСТЬ] Тебе не стоило начинать это собрание без меня.,ai,,3FF5316140A70C2A8BD4379822A293B0
+(AMBITIOUS) I have some ideas about your next move.,(АМБИЦИОЗНОСТЬ) У меня есть кое-какие идеи насчёт твоего следующего хода.,ai,,ADC87697433B7E826D21899EAA2BE8A1
+(CUNNING) You're going to want me to be a part of this conversation.,"(ХИТРОСТЬ) Ты захочешь, чтобы я участвовала в этом разговоре.",ai,,CDC5BCB947719F88F942528B7798241A
+(POWERFUL) You shouldn't have started this meeting without me.,(ВЛАСТНОСТЬ) Тебе не стоило начинать это собрание без меня.,ai,,3FF5316140A70C2A8BD4379822A293B0
 Can we talk about Grandpa?,Можно поговорить о дедушке?,ai,,529F795743212BC9A4A5A9A616810FEF
 I want to go home.,Я хочу домой.,ai,,D65027474640FC328111B49A703FDD47
 How long do you think you'll be?,Сколько ты ещё тут пробудешь?,ai,,D5D2522544BBF1127BBD5A9F82445EFA
@@ -123,9 +123,9 @@ Can I just...,Можно я просто...,ai,,BB16621D423D965B5BD0FBA65D039515
 Dad.,Пап.,ai,,A5B149EB448F105DC8260F97E3FD39EB
 ....,,,,ABCA8C0A4D8A3BFF22DD6A9B85C42881
 "From now on, no territory’s off limits. You tell the other earners that we— Clarissa! What’d I tell you about sneaking up on me like this?","С этого момента запретных территорий нет. Передайте остальным добытчикам, что мы... Кларисса! Что я тебе говорил насчёт того, чтобы подкрадываться ко мне?",ai,,D33FF51E475DDB5BB973109EE7549CAB
-(AMBITIOUS) Keep going. Pretend I'm not here.,"[АМБИЦИОЗНОСТЬ] Продолжай. Представь, что меня здесь нет.",ai,,23F3FD874C4D5F78EBEBE6818A756234
-(CUNNING) ...Striking while the iron is hot?,"[ХИТРОСТЬ] ...Куёшь железо, пока горячо?",ai,,F0D6E98F43376CB5F3761DA28E6BF998
-"(POWERFUL) Sneaking? What, are you hiding something?","[ВЛАСТНОСТЬ] Подкрадываться? А что, тебе есть что скрывать?",ai,,1ED9FECD4541B170B1C3B7B65179E5AC
+(AMBITIOUS) Keep going. Pretend I'm not here.,"(АМБИЦИОЗНОСТЬ) Продолжай. Представь, что меня здесь нет.",ai,,23F3FD874C4D5F78EBEBE6818A756234
+(CUNNING) ...Striking while the iron is hot?,"(ХИТРОСТЬ) ...Куёшь железо, пока горячо?",ai,,F0D6E98F43376CB5F3761DA28E6BF998
+"(POWERFUL) Sneaking? What, are you hiding something?","(ВЛАСТНОСТЬ) Подкрадываться? А что, тебе есть что скрывать?",ai,,1ED9FECD4541B170B1C3B7B65179E5AC
 You abandoned me. At a funeral.,Ты меня бросил. На похоронах.,ai,,0001A253479B3CBC2FB92CA206CD03C8
 I miss Grandpa.,Я скучаю по дедушке.,ai,,627A8FAC4DF581F31C3A41BD2E7A29D0
 "Better yet, don't be here. Now, beat it.",А ещё лучше — чтобы тебя здесь не было. А теперь брысь.,ai,,1D1D98AC45CFE8BE454E70A41FA88628
@@ -139,22 +139,22 @@ Fine. [Leave],Ладно. [Уйти],ai,,1F6709B1412D9A024F158A93AFB03ED6
 ...,,,,10CD1F6A44DD26687578289A6D366776
 "I'm not going to tell you twice. Don't test my patience, Clarissa.","Дважды повторять не буду. Не испытывай моё терпение, Кларисса.",ai,,C48B60184482D11329F529A3E8D72F20
 This is bullshit. [Leave],Херня какая-то. [Уйти],ai,,083704AB4657343318C00EA7772C73C1
-(AMBITIOUS) I...I have some ideas about your next move.,[АМБИЦИОЗНОСТЬ] У меня... у меня есть кое-какие идеи насчёт твоего следующего хода.,ai,,DA3CD1D747B914CEF4881EA71EE24F37
-(CUNNING) You're...you're going to want me to be a part of this conversation.,"[ХИТРОСТЬ] Ты... ты захочешь, чтобы я участвовала в этом разговоре.",ai,,CDC6321148C6093A1BD1098C209EF51D
+(AMBITIOUS) I...I have some ideas about your next move.,(АМБИЦИОЗНОСТЬ) У меня... у меня есть кое-какие идеи насчёт твоего следующего хода.,ai,,DA3CD1D747B914CEF4881EA71EE24F37
+(CUNNING) You're...you're going to want me to be a part of this conversation.,"(ХИТРОСТЬ) Ты... ты захочешь, чтобы я участвовала в этом разговоре.",ai,,CDC6321148C6093A1BD1098C209EF51D
 [Leave],[Выйти],ok,,49CF56F3412FA86052D0F99A32DF948B
-(POWERFUL) You...you shouldn't have started this meeting without me.,[ВЛАСТНОСТЬ] Тебе... тебе не стоило начинать это собрание без меня.,ai,,402E48374247D897E5B5219C9D2FDC3A
+(POWERFUL) You...you shouldn't have started this meeting without me.,(ВЛАСТНОСТЬ) Тебе... тебе не стоило начинать это собрание без меня.,ai,,402E48374247D897E5B5219C9D2FDC3A
 "Don't ""dad"" me. I got important things to deal with. You want to bother someone, go bother your uncle.",Не «папкай» мне. У меня важные дела. Хочешь кому-то докучать — иди докучай дяде.,ai,,71D0981F406B7E3E4224A995D299AFAB
-(AMBITIOUS) I...I have some ideas about your next move.,[АМБИЦИОЗНОСТЬ] У меня... у меня есть кое-какие идеи насчёт твоего следующего хода.,ai,,C89342954AA5D3EDC1F568B8CA6B9B9A
-(CUNNING) You're...you're going to want me to be a part of this conversation.,"[ХИТРОСТЬ] Ты... ты захочешь, чтобы я участвовала в этом разговоре.",ai,,38E0096C420FAD56659A0BACF97F87A9
-(POWERFUL) You...you shouldn't have started this meeting without me.,[ВЛАСТНОСТЬ] Тебе... тебе не стоило начинать это собрание без меня.,ai,,5C71A58541B3B1CF9157C682722D5B6D
+(AMBITIOUS) I...I have some ideas about your next move.,(АМБИЦИОЗНОСТЬ) У меня... у меня есть кое-какие идеи насчёт твоего следующего хода.,ai,,C89342954AA5D3EDC1F568B8CA6B9B9A
+(CUNNING) You're...you're going to want me to be a part of this conversation.,"(ХИТРОСТЬ) Ты... ты захочешь, чтобы я участвовала в этом разговоре.",ai,,38E0096C420FAD56659A0BACF97F87A9
+(POWERFUL) You...you shouldn't have started this meeting without me.,(ВЛАСТНОСТЬ) Тебе... тебе не стоило начинать это собрание без меня.,ai,,5C71A58541B3B1CF9157C682722D5B6D
 [Leave],[Выйти],ok,,3E0D0E4D4A40760376FDB2A58BE81BAF
 "As long as it takes. Now, unless there's something else, I've got business to attend to.","Сколько потребуется. А теперь, если больше ничего нет, у меня дела.",ai,,4D0EB5BB476C81D34D82158E90F161A0
 "There is something else, actually...","Вообще-то, есть ещё кое-что...",ai,,D62CF96A43BEE4111068099C79A7A536
 Fine. [Leave],Ладно. [Уйти],ai,,58D451BC42022AF754249A8CA03410C3
 You're testing my patience. Know that.,Ты испытываешь моё терпение. Учти.,ai,,1117064C40184DD7FCD4D3BCAE59CEEF
-(AMBITIOUS) I have some ideas about your next move.,[АМБИЦИОЗНОСТЬ] У меня есть кое-какие идеи насчёт твоего следующего хода.,ai,,521825F746A951148378AE8FB8323FCE
-(CUNNING) You're going to want me to be a part of this conversation.,"[ХИТРОСТЬ] Ты захочешь, чтобы я участвовала в этом разговоре.",ai,,1D767328425DCA67395EF8B6C64B5570
-(POWERFUL) You shouldn't have started this meeting without me.,[ВЛАСТНОСТЬ] Тебе не стоило начинать это собрание без меня.,ai,,3844CB43428BCBF4CFA77283AA74D62C
+(AMBITIOUS) I have some ideas about your next move.,(АМБИЦИОЗНОСТЬ) У меня есть кое-какие идеи насчёт твоего следующего хода.,ai,,521825F746A951148378AE8FB8323FCE
+(CUNNING) You're going to want me to be a part of this conversation.,"(ХИТРОСТЬ) Ты захочешь, чтобы я участвовала в этом разговоре.",ai,,1D767328425DCA67395EF8B6C64B5570
+(POWERFUL) You shouldn't have started this meeting without me.,(ВЛАСТНОСТЬ) Тебе не стоило начинать это собрание без меня.,ai,,3844CB43428BCBF4CFA77283AA74D62C
 Can we talk about Grandpa?,Можно поговорить о дедушке?,ai,,4F2A5B0A417476B7E95AFF9488C647B8
 I want to go home.,Я хочу домой.,ai,,A65FA0574A86005268E521A59215B5AD
 How long will you be?,Сколько ты ещё будешь?,ai,,10C7C6A94E5C7390AD29C5A907163A39
@@ -167,9 +167,9 @@ Where is he?,Где он?,ai,,C65831864920BA2AC3374DBC7E9B376F
 "Wait, there's something else I want to talk to you about.","Подожди, я хочу поговорить с тобой ещё кое о чём.",ai,,B89CE968423D192EBA69F78FD8514248
 Alright. [Leave],Ладно. [Уйти],ai,,636C8E20462811CF05132F811D8262EC
 "...You boys hearing this? You better watch your tone, Clarissa. Now, get lost. I've got work to do.","...Парни, вы это слышите? Следи за тоном, Кларисса. А теперь сгинь. У меня работа.",ai,,77FE19104AA7B984021B9DA9FCA8B03C
-(AMBITIOUS) I...I have some ideas about your next move.,[АМБИЦИОЗНОСТЬ] У меня... у меня есть кое-какие идеи насчёт твоего следующего хода.,ai,,60BF61084714CCAA12E6E59BB59466A2
-(CUNNING) You're...you're going to want me to be a part of this conversation.,"[ХИТРОСТЬ] Ты... ты захочешь, чтобы я участвовала в этом разговоре.",ai,,43F2867E455A943A43054E9E58E0029E
-(POWERFUL) You...you shouldn't have started this meeting without me.,[ВЛАСТНОСТЬ] Тебе... тебе не стоило начинать это собрание без меня.,ai,,2A38D4B54AC269793C5EBE8F1C8F4F67
+(AMBITIOUS) I...I have some ideas about your next move.,(АМБИЦИОЗНОСТЬ) У меня... у меня есть кое-какие идеи насчёт твоего следующего хода.,ai,,60BF61084714CCAA12E6E59BB59466A2
+(CUNNING) You're...you're going to want me to be a part of this conversation.,"(ХИТРОСТЬ) Ты... ты захочешь, чтобы я участвовала в этом разговоре.",ai,,43F2867E455A943A43054E9E58E0029E
+(POWERFUL) You...you shouldn't have started this meeting without me.,(ВЛАСТНОСТЬ) Тебе... тебе не стоило начинать это собрание без меня.,ai,,2A38D4B54AC269793C5EBE8F1C8F4F67
 What kind of work?,Что за работа?,ai,,1A1CE3AB4E4DB7823B4DD284EDA14571
 [Leave],[Выйти],ok,,41407CC84A070CC8B9F23881A3165EB0
 "Clarissa, I'm doing you a kindness here. Do not push me.","Кларисса, я делаю тебе одолжение. Не дави на меня.",ai,,87301CAD47135B06F33F2B87E98A2A12
@@ -214,8 +214,8 @@ Capiche.,Капише.,ai,,7D81FDF141481CAC38493082837E057B
 "Bear with me - this plan of yours is something Grandpa would never have approved, right?","Послушай: дедушка ни за что бы не одобрил этот твой план, так?",ai,,A4217A31446434D03A90888387409184
 I'm...resourceful. I'm clever. You need that.,Я... находчивая. Я умная. Тебе это нужно.,ai,,FEFF5F90462C4BD81447B99A0C1F8693
 A mistake? Are you fucking crazy? What are you talking about?,Зря? Ты охренела? О чём ты вообще?,ai,,F105F29F41FAACE9B75CA38D1E792DFA
-(CUNNING) Now everyone knows how weak you really are. Afraid of a little girl.,"[ХИТРОСТЬ] Теперь все знают, какой ты на самом деле слабак. Испугался маленькой девочки.",ai,,852679F8489ED42ED6FB3689C4BC263A
-(CUNNING) You'll see.,[ХИТРОСТЬ] Увидишь.,ai,,C2D60B784BA734B0D5AF9C911A8C863A
+(CUNNING) Now everyone knows how weak you really are. Afraid of a little girl.,"(ХИТРОСТЬ) Теперь все знают, какой ты на самом деле слабак. Испугался маленькой девочки.",ai,,852679F8489ED42ED6FB3689C4BC263A
+(CUNNING) You'll see.,(ХИТРОСТЬ) Увидишь.,ai,,C2D60B784BA734B0D5AF9C911A8C863A
 "You're not ""a woman"". You're a spoiled little brat. And don't act like you know shit about business. Because you don't.",Ты не «женщина». Ты избалованная соплячка. И не строй из себя знатока дел. Потому что ты ни хрена в них не смыслишь.,ai,,CF42D7984BDF9F4489D6B4BABE38D9AD
 Then I guess we're not so different.,"Значит, мы с тобой не так уж и отличаемся.",ai,,44F6EBAF4285B193B8BFB2988925CDDC
 You're thinking too small.,Ты мыслишь слишком мелко.,ai,,323602DA49A4FCADB71B45A05F02D1EA

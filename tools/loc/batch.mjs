@@ -10,12 +10,14 @@ import { readCsv, writeCsv } from './csv.mjs';
 const HEADER = ['source', 'translation', 'status', 'namespace', 'key'];
 const tokens = (s, re) => (s.match(re) ?? []).sort().join('\u0000');
 const PLACEHOLDER = /\{[^{}]*\}/g, TAG = /<[^<>]+>/g;
+const TRAIT = /^\s*\([A-Z][A-Z :'-]*\)/; // (CYNIC), (GAIN TRAIT: CARING): brackets stay round
 
 // returns the normalized translation or throws with a reason
 export function check(source, text) {
     if (typeof text !== 'string' || !text.trim()) throw new Error('пустой перевод');
     if (tokens(source, PLACEHOLDER) !== tokens(text, PLACEHOLDER)) throw new Error(`плейсхолдеры не совпадают: ${source.match(PLACEHOLDER)} / ${text.match(PLACEHOLDER)}`);
     if (tokens(source, TAG) !== tokens(text, TAG)) throw new Error('теги <...> не совпадают');
+    if (TRAIT.test(source) && !/^\s*\(/.test(text)) throw new Error('пометка (ЧЕРТА) должна остаться в круглых скобках, как в оригинале');
     if (source.includes('\r\n')) text = text.replace(/\r?\n/g, '\r\n'); // keep the source's line endings
     const lead = source.match(/^\s*/)[0], trail = source.match(/\s*$/)[0];
     return lead + text.trim() + trail;

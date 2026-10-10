@@ -12,13 +12,13 @@ Can I talk to you about something?,Можно с тобой кое о чём п�
 "Later, man.","Бывай, чувак.",ai,,89CB6C7F4698295BD5FF469BF71501AD
 I know how to read people. Which means I can separate true interest from meaningless flattery. Common manipulation won't work on me.,"Я умею читать людей. А значит, отличаю настоящий интерес от пустой лести. Дешёвая манипуляция на меня не действует.",ai,,7A5186874FCC20F3FCD2C7B5333FF6C0
 "So when I say you're hot, what would you call that?","А когда я говорю, что ты секси, как это назвать?",ai,,ECAF1E984F1F19172794D6BBEF8052E1
-"(SARCASTIC) I get it, Niles. You're a genius.","[САРКАЗМ] Понял, Найлс. Ты гений.",ai,,82C3DE3C4533E8ED46E92386B107928F
+"(SARCASTIC) I get it, Niles. You're a genius.","(САРКАЗМ) Понял, Найлс. Ты гений.",ai,,82C3DE3C4533E8ED46E92386B107928F
 And I think that's something you tell yourself to avoid getting hurt.,"А мне кажется, ты просто говоришь себе это, чтобы не обжечься.",ai,,8F699B844EF414D8B2A49AB6F29F09AC
-"(SOCIAL) Ah, c'mon Nilesy Wilesy! You just need to loosen up. Have some fun for once!","[ОБЩИТЕЛЬНОСТЬ] Ну брось, Найлси-Вайлси! Тебе просто надо расслабиться. Хоть раз повеселись!",ai,,9358B6D541B8CCC846DCA89C6B611861
+"(SOCIAL) Ah, c'mon Nilesy Wilesy! You just need to loosen up. Have some fun for once!","(ОБЩИТЕЛЬНОСТЬ) Ну брось, Найлси-Вайлси! Тебе просто надо расслабиться. Хоть раз повеселись!",ai,,9358B6D541B8CCC846DCA89C6B611861
 You'll be fine.,Всё будет нормально.,ai,,B8774C22415A8AB2C03DED9EB11A2841
 "Sure. See you later, man.","Ага. Увидимся, чувак.",ai,,BE0BAFB04E9662D54B0725A13333966D
 "Yeah? What about ""Hallways""?",Да? А как насчёт «Hallways»?,ai,,EA73B03C491033AEE26EEB99D7DC60CA
-"(INVESTIGATIVE) That one isn't on ""La Palourde"", is it?","[ПЫТЛИВОСТЬ] Её ведь нет на «La Palourde», да?",ai,,04589FBF443BF9A7D7BF9CB317243D61
+"(INVESTIGATIVE) That one isn't on ""La Palourde"", is it?","(ПЫТЛИВОСТЬ) Её ведь нет на «La Palourde», да?",ai,,04589FBF443BF9A7D7BF9CB317243D61
 Oh yeah. Probably the best track on the album.,"О да. Пожалуй, лучший трек на альбоме.",ai,,D9FE0029450677854831C2A54DAEF488
 "I haven't heard that one. I'll talk to you later, okay?","Её я не слышал. Ладно, поговорим позже?",ai,,3E4A504A4901C3FBF44FD2A36BB6A7EA
 """Hallways"" is on ""Riverroads"", Howard. Not ""La Palourde.""","«Hallways» на «Riverroads», Говард. А не на «La Palourde».",ai,,624BD2AD428FA86FFA1C27B74E96522A
@@ -45,11 +45,11 @@ Catch the moment but only from a particular perspective. I can dig that.,"Пой
 I thought you might. Let me ask you about something else.,Так и думал. Давай спрошу о другом.,ai,,8B6B7D614E9CA44CCCEA2A824A8CA927
 Cool. [Leave],Круто. [Уйти],ai,,F893B39D4FF049C90AAB3C8C4DDEB41B
 "I heard you guys switched albums. Artists, even.","Слышал, вы поменяли альбом. Даже исполнителей.",ai,,419BA36C43873E999A2A5AA81ACEDA30
-"(INVESTIGATIVE) And you have thoughts on it, don't you?","[ПЫТЛИВОСТЬ] И у тебя на этот счёт есть мысли, да?",ai,,9E7947EC4D63FCC908F4E782C2264AF6
-"(SARCASTIC) I can't wait to hear your thoughts on it. Please, enlighten me.","[САРКАЗМ] Не терпится услышать твои мысли. Просвети меня, прошу.",ai,,5C457A774266F94423B530A79A6EB108
+"(INVESTIGATIVE) And you have thoughts on it, don't you?","(ПЫТЛИВОСТЬ) И у тебя на этот счёт есть мысли, да?",ai,,9E7947EC4D63FCC908F4E782C2264AF6
+"(SARCASTIC) I can't wait to hear your thoughts on it. Please, enlighten me.","(САРКАЗМ) Не терпится услышать твои мысли. Просвети меня, прошу.",ai,,5C457A774266F94423B530A79A6EB108
 Sure did. What do you think of it?,Ага. А ты что об этом думаешь?,ai,,17F0489E48DD4C4B9371508F159F43E0
 Why do you ask?,А почему ты спрашиваешь?,ai,,42BFA4244A5733DA26BFA082A5A0371A
-(SOCIAL) Why didn't you join us? I know you like music.,"[ОБЩИТЕЛЬНОСТЬ] Почему ты не присоединился к нам? Я знаю, что ты любишь музыку.",ai,,77B2033D42A925C95606DC897054EEFC
+(SOCIAL) Why didn't you join us? I know you like music.,"(ОБЩИТЕЛЬНОСТЬ) Почему ты не присоединился к нам? Я знаю, что ты любишь музыку.",ai,,77B2033D42A925C95606DC897054EEFC
 "No offense, but I really don't want to talk music with you.","Без обид, но говорить с тобой о музыке я совсем не хочу.",ai,,E6D7BA57440BFA6630BD3481B81B2A5D
 "Of course they do. You don't get it, Howard - a place founded with no regard for artistic integrity has no reason to foster it.","Конечно. Ты не понимаешь, Говард: у места, основанного без всякого уважения к художественной целостности, нет причин её растить.",ai,,70DF85354404D6DDCE77BB8DD738DE92
 So the only way to win the game is to not play?,"То есть выиграть можно, только не играя?",ai,,FDE0434842B093C125AE5FA807BCCD9D
@@ -68,16 +68,16 @@ Maybe not. I'm okay with that.,"Может, и нет. Меня это устр�
 Or maybe you're full of shit.,Или ты просто несёшь хрень.,ai,,345D9743463A879D4E4217AEE976B523
 "As long as it is in line with what the university considers acceptable? No, of course not. Try to stray from that and see what happens.","Пока это в рамках того, что университет считает допустимым? Нет, конечно. Попробуй выйти за них и посмотри, что будет.",ai,,BD6AABB44A7B082239400E9411497561
 I'll bear that in mind. Can we talk about something else?,Учту. Можем поговорить о другом?,ai,,B8BDEDC74E8CADEB08A3BAA31C971149
-(SOCIAL) One student is one thing - but all of us? They can't stop a movement like that.,"[ОБЩИТЕЛЬНОСТЬ] Один студент — это одно, но все мы? Такое движение им не остановить.",ai,,79FAF39E48D462E4429F43859DF8BB14
+(SOCIAL) One student is one thing - but all of us? They can't stop a movement like that.,"(ОБЩИТЕЛЬНОСТЬ) Один студент — это одно, но все мы? Такое движение им не остановить.",ai,,79FAF39E48D462E4429F43859DF8BB14
 Maybe I will.,"Может, и сделаю.",ai,,7B713CC3472F61708190E69C04D7CF63
 That may be equally true. But at least I'm true to whatever that shit is.,"Это может быть не менее верно. Но я хотя бы верен этой хрени, какой бы она ни была.",ai,,72EBB1FF45F4D8718B8FD1891B6AA876
 "You really like talking about yourself, don't you?","Ты и правда любишь поговорить о себе, да?",ai,,358380B543D3086B63F6DF9D6312A0D2
 "...I think I am, too.","...Думаю, я тоже.",ai,,95155B4145F7CC0E3A253AA9EF79CE5F
 "If you say so. So why do you study photography, then?",Как скажешь. И зачем тогда ты учишься на фотографа?,ai,,5EEF030049F7FE6FCA885AA03E8DCE82
 How do you know my major?,"Откуда ты знаешь, на кого я учусь?",ai,,68A5D51647A7CAA3AFF496A5E97F3CB7
-(INVESTIGATIVE) I want to show the world through my art. Document it. Understand it.,[ПЫТЛИВОСТЬ] Хочу показывать мир через своё искусство. Документировать его. Понимать.,ai,,7DC0A02843A9C2E90E3845AEF8AED9DF
-"(SARCASTIC) I like the way the shutter goes ""click-clack."" It makes me tingle.","[САРКАЗМ] Мне нравится, как затвор делает «клик-клак». У меня от этого мурашки.",ai,,E7C3CF00475AA0862FDE0DB44BB5EA69
-(SOCIAL) I want to connect people through my art.,[ОБЩИТЕЛЬНОСТЬ] Хочу сближать людей через своё искусство.,ai,,F981ABAC4FE272AA8EF43B836D27DC83
+(INVESTIGATIVE) I want to show the world through my art. Document it. Understand it.,(ПЫТЛИВОСТЬ) Хочу показывать мир через своё искусство. Документировать его. Понимать.,ai,,7DC0A02843A9C2E90E3845AEF8AED9DF
+"(SARCASTIC) I like the way the shutter goes ""click-clack."" It makes me tingle.","(САРКАЗМ) Мне нравится, как затвор делает «клик-клак». У меня от этого мурашки.",ai,,E7C3CF00475AA0862FDE0DB44BB5EA69
+(SOCIAL) I want to connect people through my art.,(ОБЩИТЕЛЬНОСТЬ) Хочу сближать людей через своё искусство.,ai,,F981ABAC4FE272AA8EF43B836D27DC83
 "...That's just a part of it, Howard.","...Это только часть, Говард.",ai,,A21ABF3240DC91BA2D0F03951902CDD3
 "Cool. Keep fighting the good fight, man.","Круто. Продолжай бороться за правое дело, чувак.",ai,,3DB669A04ECA0274E04779928E2E7EB4
 That sounds like the fun part.,Звучит как самая весёлая часть.,ai,,286A9F034A694829D20FA4B2DBA76927
@@ -156,7 +156,7 @@ I'd show you things. Sexy things.,Я бы показал тебе кое-что.
 "If I told you how, it wouldn't be a surprise, would it?","Если я расскажу как, это уже не будет сюрпризом, да?",ai,,35665CD04AABB966E9AB68AE91D129DE
 "I'd hit you with my spiciest takes and cleverest ""um, actually's"".","Я бы обрушил на тебя свои самые острые мнения и самые умные «э-э, вообще-то».",ai,,5747306A4E09CAAC84953FA82284D096
 I thought you were flirting with me. No wild attempts at wooing or seduction?,"Я думал, ты со мной флиртуешь. Никаких безумных попыток ухаживать или соблазнять?",ai,,421034DB4DA83CD5D6BECAAF5457F17E
-"(INVESTIGATIVE) You're not used to reciprocating, are you?","[ПЫТЛИВОСТЬ] Ты не привык отвечать взаимностью, да?",ai,,6E075C804014A008D070C1B568EE4DFE
+"(INVESTIGATIVE) You're not used to reciprocating, are you?","(ПЫТЛИВОСТЬ) Ты не привык отвечать взаимностью, да?",ai,,6E075C804014A008D070C1B568EE4DFE
 You're expecting me to do all the work. Flirting's a two-way street.,"Ты ждёшь, что всю работу сделаю я. Флирт — улица с двусторонним движением.",ai,,3A28D412452067D21DA9869C5B55AEEE
 "Fuck that. I'm here, take it or leave it.","Да ну на хрен. Я здесь, бери или отваливай.",ai,,BE0548FF45067718C9EEE19114F358F0
 Yeah? All colors?,Да? Любых цветов?,ai,,FFD9D1B946B75BF62C18DB9AD4CCA663
@@ -185,7 +185,7 @@ No. Just showing that I'm committed.,"Нет. Просто показываю, �
 "...Dinner? You're really going by the book, aren't you? Dare I ask where, exactly? ","...Ужин? Ты и правда действуешь строго по учебнику, да? Смею спросить, куда именно? ",ai,,4EE933F64BAD63327DC852AF03B96A26
 "There's a fancy place down in Gastown. You need to dress up, though.","Есть шикарное местечко в Газтауне. Правда, надо принарядиться.",ai,,8B31EDAB451D26D0BD326E856F91D4A4
 "There's a place here on campus that me and Larry go to. Good, cheap food.","Есть место прямо в кампусе, куда мы с Ларри ходим. Вкусно и дёшево.",ai,,0AF05C1440015A629AACB4A4CD8387C3
-(SOCIAL) In my dorm. I'll cook it for you myself.,[ОБЩИТЕЛЬНОСТЬ] У меня в общаге. Сам тебе приготовлю.,ai,,E63436544D600740EF61A6A7BD4559C2
+(SOCIAL) In my dorm. I'll cook it for you myself.,(ОБЩИТЕЛЬНОСТЬ) У меня в общаге. Сам тебе приготовлю.,ai,,E63436544D600740EF61A6A7BD4559C2
 You're assuming I will.,"Ты исходишь из того, что я соглашусь.",ai,,8F15CB93420D02CB78FA3C93FF1ECB84
 "If you're interested, then yes. That's the whole point.","Если тебе интересно, то да. В этом весь смысл.",ai,,C3C6B18D48D918B5BF836F8873461C80
 I'm certain you will.,"Уверен, что согласишься.",ai,,050CF3F7453C8CA4EDC2488C06C23D4F
@@ -271,7 +271,7 @@ So what do you want to hear? What gets you going?,Так что ты хочеш�
 Yeah? What else do you dig?,Да? А что ещё тебе нравится?,ai,,1F10F4F84BFAEE241F6FA987F70094D1
 "So I'll keep proving it. Go on, try me.","Тогда буду и дальше доказывать. Давай, проверь меня.",ai,,7E1F0ADE4702B62E54A6B1BE1645A689
 "I'm not a cerebruphiliac, Howard. Try again.","Я не цереброфил, Говард. Попробуй ещё раз.",ai,,19FE20ED49E48C770107998F17554C76
-"(INVESTIGATIVE) That's not a word - and what do you want me to try, exactly?","[ПЫТЛИВОСТЬ] Такого слова нет. И что именно ты хочешь, чтобы я попробовал?",ai,,102AD7284F897C01DD76F9B77E19B91D
+"(INVESTIGATIVE) That's not a word - and what do you want me to try, exactly?","(ПЫТЛИВОСТЬ) Такого слова нет. И что именно ты хочешь, чтобы я попробовал?",ai,,102AD7284F897C01DD76F9B77E19B91D
 "Your loss. Give me something to work with, here.","Твои проблемы. Дай мне хоть что-нибудь, с чем можно работать.",ai,,EEF266F24FA284136F1942AD7DE730AD
 "Try what, exactly?",Что попробовать-то?,ai,,3D75E5E3420FFB2FDBAC27895EB3309E
 You're trying too hard. Let it go and try something else.,Ты слишком стараешься. Брось это и попробуй что-нибудь другое.,ai,,840470BF4D1CD6E7A519899EA22DF6C8
@@ -451,7 +451,7 @@ Some things are worth fighting for.,За некоторые вещи стоит 
 "No. You need practice, Howard. Not the worst I've ever seen, but close. Good luck.","Нет. Тебе нужна практика, Говард. Не худшее, что я видел, но близко. Удачи.",ai,,C95B005644BD14DEB4911DB07C627175
 "You too, frankly. Later.","Тебе тоже, честно говоря. Пока.",ai,,CBB45D62439D77170BE03CB83185ABA2
 Uh-huh. Appreciate it.,Угу. Ценю.,ai,,C343BAD8494ACC0D58A565A7DEBEC902
-"(SARCASTIC) Wow, really? I could have sworn you were in love with me. Adieu, lover.","[САРКАЗМ] Ого, правда? Я бы поклялся, что ты в меня влюблён. Адьё, любовничек.",ai,,FF91CC2944E1759D9B09DBA17AD470E2
+"(SARCASTIC) Wow, really? I could have sworn you were in love with me. Adieu, lover.","(САРКАЗМ) Ого, правда? Я бы поклялся, что ты в меня влюблён. Адьё, любовничек.",ai,,FF91CC2944E1759D9B09DBA17AD470E2
 "Call it sympathy or pity, but allow me to be uncharacteristically polite about it: I think you need practice, Howard. I'll see you around.","Назови это сочувствием или жалостью, но позволь мне быть непривычно вежливым: тебе нужна практика, Говард. Увидимся.",ai,,587B8F34440DBAF0F552A7BE03B60FF5
 [Walk away in silence],[Молча уйти],ai,,E5C3C13B4BCB964FCBC1279838CB9703
 "How gracious of you. See you around, Niles.","Как мило с твоей стороны. Увидимся, Найлс.",ai,,ED673A2240C774418DB71FB8C9652178
@@ -465,7 +465,7 @@ I'll be ready for it. With raised expectations.,Буду готов. С повы
 "You will, huh? Maybe so. I'll let you know.","Позаботишься, значит? Может быть. Дам знать.",ai,,7BF1D1154A90609C0EE5DD93139DB3F0
 "We'll see. Later, Niles.","Посмотрим. Пока, Найлс.",ai,,92424F044275E962981F4893B47E6A03
 My deal? Staying true and making real art.,Моё дело? Оставаться верным себе и делать настоящее искусство.,ai,,A5F356AD42D685CE5A2BDEB4295E22EB
-"(INVESTIGATIVE) You don't strike me as a painter or sculptor, though. You do design, right?","[ПЫТЛИВОСТЬ] Хотя на художника или скульптора ты не похож. Ты занимаешься дизайном, да?",ai,,93C2290844F2097AD2CBDD95ED4C1E24
+"(INVESTIGATIVE) You don't strike me as a painter or sculptor, though. You do design, right?","(ПЫТЛИВОСТЬ) Хотя на художника или скульптора ты не похож. Ты занимаешься дизайном, да?",ai,,93C2290844F2097AD2CBDD95ED4C1E24
 So what do you study?,А на кого ты учишься?,ai,,AC61253F4AA1C2D74B3D5587C622F4E0
 "And what makes art ""real""?",А что делает искусство «настоящим»?,ai,,FC8C47D44951C66901A1ED9A40E8B6C7
 "Wow! Look at us, walking right into a conversation I don't want to have. Let me ask you about something else.","Ого! Смотри-ка, мы вляпались в разговор, которого я не хочу. Давай спрошу о другом.",ai,,952C290E43ED1A51BD5FA4858D3D657D
@@ -548,7 +548,7 @@ Aw. You're no fun.,Эх. С тобой скучно.,ai,,6C809F43488F3925C4CC479
 "Define ""like"".",Определи «нравится».,ai,,E2DB092248E23ECCE46D7989AEB433B5
 You enjoy doing it?,Тебе нравится этим заниматься?,ai,,147C5B64414FDD77BEE61B8E0E3814C0
 ...Are you always this hard to talk to?,...С тобой всегда так трудно говорить?,ai,,12D68BF34302BFDB8F9546A2220BB48D
-"(SARCASTIC) Oh, sorry. I should've been more clear. You hate it?","[САРКАЗМ] Ой, прости. Надо было яснее. Ты это ненавидишь?",ai,,627E40F242BAC2A392C20CA222FBF434
+"(SARCASTIC) Oh, sorry. I should've been more clear. You hate it?","(САРКАЗМ) Ой, прости. Надо было яснее. Ты это ненавидишь?",ai,,627E40F242BAC2A392C20CA222FBF434
 "...No, I think I'm done talking about this.","...Нет, думаю, хватит об этом.",ai,,47AB7DE5408E25AC35F0F6B7296E56B5
 Sure.,Конечно.,ok,,2B1DCDE84C27629B6BB76EB5BF5DD748
 ...And what's enjoyable about it?,...И что в этом приятного?,ai,,485934C645F31A9D34C24AB4BCCDE013
@@ -617,13 +617,13 @@ How about you ask ME something?,"Может, ты спросишь что-ниб
 "A conversation isn't a one-way street, man. I'm out. [Leave]","Разговор — не улица с односторонним движением, чувак. Я пошёл. [Уйти]",ai,,8289474249CCC48DEB976BBC4C182B7A
 Sure. Why photography?,Конечно. Почему фотография?,ai,,2E9B5D2E4D4C7D7DD0B7D588B1003EB5
 ...How do you know my major?,"Откуда ты знаешь, на кого я учусь?",ai,,A811D43C44749D21B16ABEAD34EE791C
-(INVESTIGATIVE) I want to show the world through my art. Document it. Understand it.,[ПЫТЛИВОСТЬ] Хочу показывать мир через своё искусство. Документировать его. Понимать.,ai,,AB1E35DD497512DD16EB3D929613F68B
-"(SARCASTIC) I like the way the shutter goes ""click-clack."" It makes me tingle.","[САРКАЗМ] Мне нравится, как затвор делает «клик-клак». У меня от этого мурашки.",ai,,019D82C744A06DC36C42FA96697B02F2
-(SOCIAL) I want to connect people through my art.,[ОБЩИТЕЛЬНОСТЬ] Хочу сближать людей через своё искусство.,ai,,2C3BFA2048D1D1FF93DB738ECF322931
+(INVESTIGATIVE) I want to show the world through my art. Document it. Understand it.,(ПЫТЛИВОСТЬ) Хочу показывать мир через своё искусство. Документировать его. Понимать.,ai,,AB1E35DD497512DD16EB3D929613F68B
+"(SARCASTIC) I like the way the shutter goes ""click-clack."" It makes me tingle.","(САРКАЗМ) Мне нравится, как затвор делает «клик-клак». У меня от этого мурашки.",ai,,019D82C744A06DC36C42FA96697B02F2
+(SOCIAL) I want to connect people through my art.,(ОБЩИТЕЛЬНОСТЬ) Хочу сближать людей через своё искусство.,ai,,2C3BFA2048D1D1FF93DB738ECF322931
 "I pay attention. I listen. You hear and learn things that way. I know what, but not why.","Я наблюдаю. Слушаю. Так многое узнаёшь. Я знаю что, но не знаю почему.",ai,,35201E404908BB568528B193D28DBD18
-(INVESTIGATIVE) Fine. I want to show the world through my art. Document it. Understand it.,[ПЫТЛИВОСТЬ] Ладно. Хочу показывать мир через своё искусство. Документировать его. Понимать.,ai,,BC64A2FC461CFEAF0EA32880C5677400
-"(SARCASTIC) Why? Oh, I just like the way the shutter goes ""click-clack."" It makes me tingle.","[САРКАЗМ] Почему? Да мне просто нравится, как затвор делает «клик-клак». У меня от этого мурашки.",ai,,D756E8C24FCD274C746DBD8FB874A2D3
-(SOCIAL) I want to connect people through my art.,[ОБЩИТЕЛЬНОСТЬ] Хочу сближать людей через своё искусство.,ai,,9C9D39E84E6D8C53ECA73290F770D85A
+(INVESTIGATIVE) Fine. I want to show the world through my art. Document it. Understand it.,(ПЫТЛИВОСТЬ) Ладно. Хочу показывать мир через своё искусство. Документировать его. Понимать.,ai,,BC64A2FC461CFEAF0EA32880C5677400
+"(SARCASTIC) Why? Oh, I just like the way the shutter goes ""click-clack."" It makes me tingle.","(САРКАЗМ) Почему? Да мне просто нравится, как затвор делает «клик-клак». У меня от этого мурашки.",ai,,D756E8C24FCD274C746DBD8FB874A2D3
+(SOCIAL) I want to connect people through my art.,(ОБЩИТЕЛЬНОСТЬ) Хочу сближать людей через своё искусство.,ai,,9C9D39E84E6D8C53ECA73290F770D85A
 "Uh-huh. Like a little whip crack of dopamine, is it?","Угу. Как маленький хлёсткий всплеск дофамина, да?",ai,,7A46975549FE3EC605FD13BFE08C5C27
 "Yeah. Just pump me full of that good dopamine shit, my bro.","Ага. Качай меня этим добрым дофаминовым дерьмом, братан.",ai,,55A78284466C162D58A7479013ECE394
 "As long as you get a good shot, yeah. It is.","Если выходит хороший кадр, то да. Так и есть.",ai,,F80D84064E1B6E5438BAD8BB2E6BFC45
@@ -664,9 +664,9 @@ I didn't think any of those words were long nor fancy.,"По-моему, ни о
 Yes. It's like sanding something down to its core. Its purest essence. Without notions. You have to understand people to reach that point.,"Да. Это как зачищать что-то до самой сути. До чистейшей сущности. Без предубеждений. Чтобы дойти до этого, надо понимать людей.",ai,,4281E617489A4CA4AF043CB4215E7099
 Don't you just draw logos?,Разве ты не просто рисуешь логотипы?,ai,,602475C542EC766EF308ADA8AECFFCB5
 I think you're being a little too fancy about this.,"По-моему, ты слишком вычурно к этому подходишь.",ai,,B8A3FB3247634585E6D345AE2F27BC78
-(INVESTIGATIVE) So clarity through understanding?,[ПЫТЛИВОСТЬ] То есть ясность через понимание?,ai,,196CE23A4A8DA926DD32BEA7AC7341AB
+(INVESTIGATIVE) So clarity through understanding?,(ПЫТЛИВОСТЬ) То есть ясность через понимание?,ai,,196CE23A4A8DA926DD32BEA7AC7341AB
 And you can do that through...graphic design?,И этого можно достичь через... графический дизайн?,ai,,6A1C8F6A4372B00AAED6D79E972B3ABD
-(SOCIAL) I get that. You have to understand people to communicate with them.,"[ОБЩИТЕЛЬНОСТЬ] Понимаю. Чтобы общаться с людьми, надо их понимать.",ai,,78840098425D4080B15A41AA636214A9
+(SOCIAL) I get that. You have to understand people to communicate with them.,"(ОБЩИТЕЛЬНОСТЬ) Понимаю. Чтобы общаться с людьми, надо их понимать.",ai,,78840098425D4080B15A41AA636214A9
 Yes.,Да.,ok,,80779AB64F52C9B25126598CC5ACBC8C
 Elaborate on that.,Развей мысль.,ai,,9F5C5A4E438B82B9DA6786A9FC58B6A9
 Got it. Makes sense.,Понял. Логично.,ai,,51A431BF4EDBD600DB749C9DE01D5512
@@ -777,7 +777,7 @@ Are you going to tell me why?,Ты собираешься сказать мне 
 Elaborate on that.,Развей мысль.,ai,,ABE373144278CB2F29F4BB8D64264C26
 On the contrary. There always is. You either see it or ignore it.,"Напротив. Оно всегда есть. Его либо видишь, либо игнорируешь.",ai,,E268AFBA4B0F994D10D8C8893CAB552D
 "You're really black and white on this, Niles.","Ты тут мыслишь очень чёрно-бело, Найлс.",ai,,595A0E5944B0B249BE5BA8AB33BED4A9
-"(INVESTIGATIVE) You're very set on this for a first-year student. You're dead set on this, are you?","[ПЫТЛИВОСТЬ] Для первокурсника ты очень категоричен. Ты ведь прямо упёрся в это, да?",ai,,EED3A31048402C1DEC534AAD9BBA3C63
+"(INVESTIGATIVE) You're very set on this for a first-year student. You're dead set on this, are you?","(ПЫТЛИВОСТЬ) Для первокурсника ты очень категоричен. Ты ведь прямо упёрся в это, да?",ai,,EED3A31048402C1DEC534AAD9BBA3C63
 Can you help me see it?,Можешь помочь мне это увидеть?,ai,,75726F25431D58AF6CEEB3982BC7BB77
 No. You have to figure that out for yourself.,Нет. Это тебе предстоит понять самому.,ai,,C25DA3F04F3F17592124108EF80C01FE
 I'll go do that right now. [Leave],Пойду займусь этим прямо сейчас. [Уйти],ai,,92C361BF443A4C61BFE0C197081BD7BB
@@ -807,7 +807,7 @@ Good for you. I'll talk to you later.,Рад за тебя. Поговорим �
 "Whatever. Later, Niles.","Ладно. Пока, Найлс.",ai,,929D93C04B4A4244D50C2F8EC0E06E27
 "Maybe so. See you around, Niles.","Возможно. Увидимся, Найлс.",ai,,24C774DD42F31C8ABFBBD998A9D4C894
 "Why ""Strike When Hot"", then? ""La Palourde"" is clearly their best album. Less playing to the gallery and more experimenting.",Зачем тогда «Strike When Hot»? «La Palourde» — явно их лучший альбом. Меньше игры на публику и больше экспериментов.,ai,,7036C29B4DEBB7FA38E1958AFEB1E755
-(SOCIAL) What's wrong with playing what people like?,"[ОБЩИТЕЛЬНОСТЬ] Что плохого в том, чтобы играть то, что нравится людям?",ai,,C71562664EBF7FE19B13E1AFFAD5572C
+(SOCIAL) What's wrong with playing what people like?,"(ОБЩИТЕЛЬНОСТЬ) Что плохого в том, чтобы играть то, что нравится людям?",ai,,C71562664EBF7FE19B13E1AFFAD5572C
 I haven't heard La Palourde.,Я не слышал «La Palourde».,ai,,362667CA4CE11F7A4A0EECB49CE257B3
 "Oh yeah, we're listening to that one later.","О да, мы будем слушать его позже.",ai,,475A83CA416F58B8BA266DAD9E3CD0BA
 "You're missing out. It's their best work by far. ""Strike When Hot"" doesn't even compare.",Ты многое теряешь. Это их лучшая работа с большим отрывом. «Strike When Hot» и рядом не стоит.,ai,,D8EBB0C2453A2B0B66D384ABDDE8C01B
@@ -833,14 +833,14 @@ You'll know what I mean when you listen to the new ones. Unless Larry's stuck on
 "Yeah. What a poser, right? Later, man.","Ага. Какой позёр, да? Бывай, чувак.",ai,,09CAA6E94C7166CD80D9739AB3FC5D88
 "Sure, whatever. See you later, Niles.","Конечно, как скажешь. Увидимся, Найлс.",ai,,AC66F8BE4E6BFCF38FC723B37B35AAC0
 "No. There's nothing subjective about art. Some people are right, and some people don't know jack shit.","Нет. В искусстве нет ничего субъективного. Одни люди правы, а другие ни хрена не смыслят.",ai,,A2F23C274C75208E3E5989AAAB0E6C70
-(SARCASTIC) Wow. That's got to be the most profound thing I've ever heard. You must be very smart.,"[САРКАЗМ] Ого. Это самое глубокое, что я слышал. Ты, наверное, очень умный.",ai,,27E0A035439F6BA4050A90B18D41D123
-(SOCIAL) How would you know? You talk to hardly anyone.,[ОБЩИТЕЛЬНОСТЬ] Откуда тебе знать? Ты почти ни с кем не разговариваешь.,ai,,02914C1B49DAD5D57205B1836838D3A8
+(SARCASTIC) Wow. That's got to be the most profound thing I've ever heard. You must be very smart.,"(САРКАЗМ) Ого. Это самое глубокое, что я слышал. Ты, наверное, очень умный.",ai,,27E0A035439F6BA4050A90B18D41D123
+(SOCIAL) How would you know? You talk to hardly anyone.,(ОБЩИТЕЛЬНОСТЬ) Откуда тебе знать? Ты почти ни с кем не разговариваешь.,ai,,02914C1B49DAD5D57205B1836838D3A8
 Okay. Bye.,Ладно. Пока.,ok,,B1F652A74E25D86147803095461FE3D8
-(INVESTIGATIVE) Sounds to me like you just don't agree with these people.,"[ПЫТЛИВОСТЬ] По мне, ты просто не согласен с этими людьми.",ai,,07E9E4DB4759FB57B93BC1A314DD1DA9
+(INVESTIGATIVE) Sounds to me like you just don't agree with these people.,"(ПЫТЛИВОСТЬ) По мне, ты просто не согласен с этими людьми.",ai,,07E9E4DB4759FB57B93BC1A314DD1DA9
 It lacks artistic integrity. Obviously. It's just pandering.,В этом нет художественной целостности. Очевидно. Это просто потакание публике.,ai,,488343F143A56602936368B0BE72C5E4
 Agree to disagree. I'm out.,Останемся при своём. Я пошёл.,ai,,F5233726410DC4A750AF93988EB3C5DA
 "Whatever, Niles. Later.","Ладно, Найлс. Пока.",ai,,D8A99DEB49B625433A483C87A43E7F90
 "Pander away, I say. See you later.","Потакайте на здоровье, говорю я. Увидимся.",ai,,97A64240402844768BF139B997FB0496
 "Yuh. It's kind of obvious, but most people don't think about it. Public self-awareness is at an all-time low.","Ага. Вроде очевидно, но большинство об этом не думает. Публичное самосознание на рекордно низком уровне.",ai,,232554B748D49409EEA2298BBFECD611
-"(SARCASTIC) Well, thank the Shepard we have people like you to set us right. Later, man.","[САРКАЗМ] Ну, слава Пастырю, что есть такие, как ты, кто наставит нас на путь. Пока, чувак.",ai,,C06EA86F46F594E2B6640B9E662C2EDF
+"(SARCASTIC) Well, thank the Shepard we have people like you to set us right. Later, man.","(САРКАЗМ) Ну, слава Пастырю, что есть такие, как ты, кто наставит нас на путь. Пока, чувак.",ai,,C06EA86F46F594E2B6640B9E662C2EDF
 "You don't say. Later, Niles.","Да ну. Пока, Найлс.",ai,,ACAB73794125F8C965A037A36FF26C48

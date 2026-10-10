@@ -27,9 +27,9 @@ I'm beginning to think the dangers have been overblown.,"Я начинаю ду�
 Which will make our return a historic first. And that's not even factoring in the discovery of this Artifact.,Что сделает наше возвращение историческим событием. И это даже без учёта открытия этого Артефакта.,ai,,EAF878434C0726C16FFB62A5CB88E192
 "Best not to think about that, though.",Лучше не думать об этом.,ai,,905564DD4A78D4915F942DAEE9529580
 "Progress aside, the past few days have been...strange. Jorge mentioned a low hum from the digsite, and we've both been feeling unexplainably uneasy.","Несмотря на прогресс, последние несколько дней были... странными. Джордж упомянул о низком гуле с места раскопок, и мы оба чувствуем необъяснимое беспокойство.",ai,,538E4B0A4E98BE47AC9AE8B527718AC3
-"(GAIN TRAIT: IDEALIST) I think it's our tools that are reacting with the sedimentary chemicals in the pit, but the excavation should be over soon.","[ПОЛУЧИТЬ ЧЕРТУ: ИДЕАЛИСТ] Думаю, это наши инструменты реагируют на осадочные химикаты в яме, но раскопки скоро закончатся.",ai,,D685E3BE4D264DD78C0EFA95F1668B14
-"(GAIN TRAIT: REALIST) More likely than not, we've been out here a bit too long and are starting to get a little funny.","[ПОЛУЧИТЬ ЧЕРТУ: РЕАЛИСТ] Скорее всего, мы слишком долго здесь находимся, и это начинает сказываться на нас.",ai,,EA9F107446CE0F0859089291FFA955D8
-"(GAIN TRAIT: CYNIC) The wasteland is supposed to be riddled with radiation. I'm surprised we're still alive, to be honest.","[ПОЛУЧИТЬ ЧЕРТУ: ЦИНИК] Пустошь должна быть пропитана радиацией. Честно говоря, я удивлён, что мы всё ещё живы.",ai,,C529560B4F6E7709DDF2BC81457CB10A
+"(GAIN TRAIT: IDEALIST) I think it's our tools that are reacting with the sedimentary chemicals in the pit, but the excavation should be over soon.","(ПОЛУЧИТЬ ЧЕРТУ: ИДЕАЛИСТ) Думаю, это наши инструменты реагируют на осадочные химикаты в яме, но раскопки скоро закончатся.",ai,,D685E3BE4D264DD78C0EFA95F1668B14
+"(GAIN TRAIT: REALIST) More likely than not, we've been out here a bit too long and are starting to get a little funny.","(ПОЛУЧИТЬ ЧЕРТУ: РЕАЛИСТ) Скорее всего, мы слишком долго здесь находимся, и это начинает сказываться на нас.",ai,,EA9F107446CE0F0859089291FFA955D8
+"(GAIN TRAIT: CYNIC) The wasteland is supposed to be riddled with radiation. I'm surprised we're still alive, to be honest.","(ПОЛУЧИТЬ ЧЕРТУ: ЦИНИК) Пустошь должна быть пропитана радиацией. Честно говоря, я удивлён, что мы всё ещё живы.",ai,,C529560B4F6E7709DDF2BC81457CB10A
 "We made something of a breakthrough at the start of the week, but we're still working on the pods.","В начале недели мы совершили небольшой прорыв, но всё ещё работаем над капсулами.",ai,,3238DFE04FE8BB0B39E09485580D2CCF
 "Once we manage to crack them open, we'll have a better idea of what we're dealing with.","Как только мы сможем их вскрыть, у нас будет лучшее представление о том, с чем мы имеем дело.",ai,,1A98003944EF40A14E53B2A85AB73A64
 I'm a little worried about them.,Я немного беспокоюсь о них.,ai,,AA899F2A4DE3984F96BC0DBDC19A4AAB
@@ -93,9 +93,9 @@ I need to start covering up more when out in the open.,"Мне нужно нач
 Can't let that get to me. Our work is too important.,Нельзя позволить этому повлиять на меня. Наша работа слишком важна.,ai,,5ED1AF254880A8AC623024B4F5B9E0F3
 What I wouldn't give for an air-conditioned office in Science City.,Что бы я ни отдал за кондиционируемый офис в Научном Городе.,ai,,EEC1B8594C6C23ADB3743AA76D52342C
 I almost forgot. I had a look at some of my previous journal entries today.,Я почти забыл. Сегодня я просмотрел некоторые из своих прошлых записей.,ai,,832214A64DDC7B0B471E94A5926058CA
-(CYNIC) I hate reading my old notes.,[ЦИНИК] Ненавижу читать свои старые записи.,ai,,0DBCA9CE4C40D4DDAF0B9EA742DDBA5E
-"(IDEALIST) We've come so far, and learned so much. I'm astounded by this place, to be frank.","[ИДЕАЛИСТ] Мы прошли такой долгий путь и узнали так много. Честно говоря, я поражён этим местом.",ai,,1A66C91642847954B1997AAB9C9566C0
-(REALIST) We've constantly been proving ourselves wrong about this place. That's good.,"[РЕАЛИСТ] Мы постоянно доказывали, что ошибались насчёт этого места. Это хорошо.",ai,,906FCD1547DE9A02CE02AAB7A6F9A7D9
+(CYNIC) I hate reading my old notes.,(ЦИНИК) Ненавижу читать свои старые записи.,ai,,0DBCA9CE4C40D4DDAF0B9EA742DDBA5E
+"(IDEALIST) We've come so far, and learned so much. I'm astounded by this place, to be frank.","(ИДЕАЛИСТ) Мы прошли такой долгий путь и узнали так много. Честно говоря, я поражён этим местом.",ai,,1A66C91642847954B1997AAB9C9566C0
+(REALIST) We've constantly been proving ourselves wrong about this place. That's good.,"(РЕАЛИСТ) Мы постоянно доказывали, что ошибались насчёт этого места. Это хорошо.",ai,,906FCD1547DE9A02CE02AAB7A6F9A7D9
 I had no strong feelings about those notes. None whatsoever.,У меня не было сильных чувств по поводу этих записей. Никаких.,ai,,3247FB45467EDB57EEAA98B09E46B600
 Seems doable.,"Кажется, выполнимо.",ai,,16564CC749CAE6E7E7B8B09689915EC4
 "With science, anything is possible.",С наукой всё возможно.,ai,,9CBFBCC24ACC218B406DDC92B0E12308

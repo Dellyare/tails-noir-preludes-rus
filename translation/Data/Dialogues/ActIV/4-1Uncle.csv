@@ -400,9 +400,9 @@ I see. He certainly has a way with words.,"Понятно. Говорить он
 ...Will this be a problem?,...Это будет проблемой?,ai,,B648EC65428D7C9751CB83898DFDD379
 I feel awful. Is that wrong?,Мне паршиво. Это неправильно?,ai,,51CAE463476581EC633B77B567FEE944
 "No. They've known you were a firecracker since you were a kid, Clarissa. Some of them, I'm sure, were even expecting this to happen.","Нет. Они знают, что ты с детства была как петарда, Кларисса. Кое-кто, уверен, даже ждал, что так и будет.",ai,,57DB641F43A95485490729B606FCBF25
-"(AMBITIOUS) Trust me, they've seen nothing yet.","[АМБИЦИОЗНОСТЬ] Поверь, они ещё ничего не видели.",ai,,E8D5862447AF3FCEAB7DB0A967C5228A
-"(CUNNING) It's all about how you appear, uncle. Don't think I haven't planned this.","[ХИТРОСТЬ] Всё дело в том, как это выглядит со стороны, дядя. Не думай, что я не планировала.",ai,,A1A4B413467E1B2B81E7A28648948F11
-"(POWERFUL) They're followers. All it takes is to show them someone in charge, and they'll fall in line.","[ВЛАСТНОСТЬ] Они ведомые. Достаточно показать им того, кто главный, и они встанут в строй.",ai,,A67CAA034EC939A04D3006A37A96524B
+"(AMBITIOUS) Trust me, they've seen nothing yet.","(АМБИЦИОЗНОСТЬ) Поверь, они ещё ничего не видели.",ai,,E8D5862447AF3FCEAB7DB0A967C5228A
+"(CUNNING) It's all about how you appear, uncle. Don't think I haven't planned this.","(ХИТРОСТЬ) Всё дело в том, как это выглядит со стороны, дядя. Не думай, что я не планировала.",ai,,A1A4B413467E1B2B81E7A28648948F11
+"(POWERFUL) They're followers. All it takes is to show them someone in charge, and they'll fall in line.","(ВЛАСТНОСТЬ) Они ведомые. Достаточно показать им того, кто главный, и они встанут в строй.",ai,,A67CAA034EC939A04D3006A37A96524B
 "Clarissa, what happened in there?","Кларисса, что там произошло?",ai,,148FC497462F90B19B80B18A17D36990
 We had a disagreement.,У нас вышла размолвка.,ai,,7CE3A59645EC1C318520719C391EFA71
 What do you think? You saw him.,А ты как думаешь? Ты же его видел.,ai,,DD5F0D374B2338362E31FC8CFE3007C8
@@ -425,9 +425,9 @@ Don't worry about me. Get him out of here.,Обо мне не беспокойс
 No. Get rid of the body. That's all you need to do.,"Нет. Избавься от тела. Это всё, что от тебя требуется.",ai,,1E92462E447C945A70E205980B85B86B
 Stop fussing over me. I'm not a child.,Хватит надо мной хлопотать. Я не ребёнок.,ai,,C7E8EEFC41D029A9B8128FBDE7004D82
 "It took some mild convincing. Having a woman in charge is...well, some of the older guard had some concerns.","Пришлось немного поуговаривать. Женщина во главе — это... в общем, у кого-то из старой гвардии были опасения.",ai,,65530D0B44A02886EA9D15AF43A01E0B
-(AMBITIOUS) I'll show them. Don't you worry.,[АМБИЦИОЗНОСТЬ] Я им покажу. Не переживай.,ai,,8098A2264E8D2FB7091F7DB9E67A3989
-(CUNNING) They can keep their concerns. I've got ways to persuade them.,[ХИТРОСТЬ] Пусть оставят свои опасения при себе. У меня есть способы их убедить.,ai,,0130C7724163CA58C6256D8B88210809
-(POWERFUL) They'll fall in line. I'll make them.,[ВЛАСТНОСТЬ] Они встанут в строй. Я заставлю.,ai,,9E7E95C1489A7D72B3924DB6DE428D05
+(AMBITIOUS) I'll show them. Don't you worry.,(АМБИЦИОЗНОСТЬ) Я им покажу. Не переживай.,ai,,8098A2264E8D2FB7091F7DB9E67A3989
+(CUNNING) They can keep their concerns. I've got ways to persuade them.,(ХИТРОСТЬ) Пусть оставят свои опасения при себе. У меня есть способы их убедить.,ai,,0130C7724163CA58C6256D8B88210809
+(POWERFUL) They'll fall in line. I'll make them.,(ВЛАСТНОСТЬ) Они встанут в строй. Я заставлю.,ai,,9E7E95C1489A7D72B3924DB6DE428D05
 "...I see. Got to you, did he?","...Понятно. Значит, он тебя задел?",ai,,76A91E3045FB5676EA0B689FE2BB95E0
 Yeah. Still doesn't make it easier.,Да. Легче от этого не становится.,ai,,542C6A8640ACEE858FE5B685C8ACF706
 Does it matter?,Это вообще важно?,ok,,4BF597EC40322AFC57F4AEBA1E6C8CBD
@@ -445,24 +445,24 @@ Did I stutter?,"Я что, заикалась?",ai,,E18D407A4BD6AAFA07FD98A666E4
 "That won't be a problem, will it?","С этим проблем не будет, так ведь?",ai,,E31A572E482A00A7D42213AD0B5ACAF7
 Would you have liked to do it?,А ты хотел бы сделать это сам?,ai,,2A341D5D40CCC9B25D35D3AE43A576C9
 "They wouldn't admit it if asked, but the Apes and the Ministry keep tabs on us. They have some idea of who you are, and well, they know you tend to...have a problem with authority.","Они не признаются, если спросить, но Обезьяны и Министерство следят за нами. Они представляют, кто ты такая, и, ну, знают, что у тебя... проблемы с авторитетами.",ai,,167D3B75479EBD7C87B05DA88A629CCB
-(AMBITIOUS) Leave the Apes to me.,[АМБИЦИОЗНОСТЬ] Обезьян оставь мне.,ai,,595CCDE64232E4C03F9C19875D336219
-(CUNNING) We'll need to get on their good side for now. Send them something. A token of our appreciation for everything they do.,"[ХИТРОСТЬ] Пока нам нужно заручиться их расположением. Отправим им что-нибудь. Знак благодарности за всё, что они делают.",ai,,661D8EB7457DF0F7EC47E9B09D9A9B49
-(POWERFUL) I don't care about the Apes. They'll know what they're dealing with soon enough.,"[ВЛАСТНОСТЬ] Мне плевать на Обезьян. Скоро они поймут, с кем имеют дело.",ai,,A3601BD54A3DB37DF44E468DD7A45829
+(AMBITIOUS) Leave the Apes to me.,(АМБИЦИОЗНОСТЬ) Обезьян оставь мне.,ai,,595CCDE64232E4C03F9C19875D336219
+(CUNNING) We'll need to get on their good side for now. Send them something. A token of our appreciation for everything they do.,"(ХИТРОСТЬ) Пока нам нужно заручиться их расположением. Отправим им что-нибудь. Знак благодарности за всё, что они делают.",ai,,661D8EB7457DF0F7EC47E9B09D9A9B49
+(POWERFUL) I don't care about the Apes. They'll know what they're dealing with soon enough.,"(ВЛАСТНОСТЬ) Мне плевать на Обезьян. Скоро они поймут, с кем имеют дело.",ai,,A3601BD54A3DB37DF44E468DD7A45829
 "I just...want to make sure you're alright, Clarissa. It's alright to be shaken by this.","Я просто... хочу убедиться, что ты в порядке, Кларисса. Ничего страшного, если это тебя потрясло.",ai,,C74006B046B41B8187B5D090368E661D
 "...Do I look upset? What, I look like I've been crying?","...Я похожа на расстроенную? Что, у меня заплаканный вид?",ai,,118A37E343DAEA245A5A3BAE532B00D5
 I asked you to get rid of him. Is that a problem?,Я просила тебя избавиться от него. Это проблема?,ai,,657065EA42CE3F366B9E12950DB1FD79
 "The Bloodworth family has always been a patriarchy. Having a woman, one they know little about, suddenly take charge...well, they're not going to like it.","Семья Бладвортов всегда была патриархальной. Женщина, о которой они мало что знают, вдруг берёт власть... им это не понравится.",ai,,6DA1EF2643ADB41F4AB184900A37B89B
-(AMBITIOUS) That woman will run things better than her predecessor ever did. They won't be able to deny it.,[АМБИЦИОЗНОСТЬ] Эта женщина будет управлять лучше своего предшественника. Им нечем будет возразить.,ai,,C36A62E94B8E9D407765E3A8775F2346
-(CUNNING) That means they'll underestimate me. Good.,"[ХИТРОСТЬ] Значит, они меня недооценят. Прекрасно.",ai,,A2EDF388475304667DBEF6827DD7E89E
-(POWERFUL) Fine by me. I'm not in this business to make friends.,[ВЛАСТНОСТЬ] Меня устраивает. Я в этом бизнесе не ради дружбы.,ai,,E6FE99A6487A0D93FB43BF9BE185059E
+(AMBITIOUS) That woman will run things better than her predecessor ever did. They won't be able to deny it.,(АМБИЦИОЗНОСТЬ) Эта женщина будет управлять лучше своего предшественника. Им нечем будет возразить.,ai,,C36A62E94B8E9D407765E3A8775F2346
+(CUNNING) That means they'll underestimate me. Good.,"(ХИТРОСТЬ) Значит, они меня недооценят. Прекрасно.",ai,,A2EDF388475304667DBEF6827DD7E89E
+(POWERFUL) Fine by me. I'm not in this business to make friends.,(ВЛАСТНОСТЬ) Меня устраивает. Я в этом бизнесе не ради дружбы.,ai,,E6FE99A6487A0D93FB43BF9BE185059E
 "I'm...the worrying kind. Not usually, but I suppose it has come with age. The family knows what you're like Clarissa. They know you're headstrong and that you've got...a temper, if you will. That's fine, but people might be expecting a type of change different from what you envision.","Я... из тех, кто беспокоится. Раньше не был, но, видимо, это с возрастом. Семья знает, какая ты, Кларисса. Знает, что ты упряма и у тебя... характер, скажем так. Это нормально, но люди могут ждать перемен не тех, что представляешь себе ты.",ai,,26B6EEA442533C2D4F744E992457C0B7
-"(AMBITIOUS) They don't know half of the changes I'm going to make. They'll see, soon enough.","[АМБИЦИОЗНОСТЬ] Они не знают и половины перемен, которые я собираюсь провести. Скоро увидят.",ai,,9F23A950499E46464B9A81A948CED32A
-"(CUNNING) Simple. We just convince them that whatever we do is what they want, too.","[ХИТРОСТЬ] Просто. Мы убедим их, что всё, что мы делаем, нужно и им тоже.",ai,,55F0AF46463DE177BA13A39292EC36DE
-"(POWERFUL) They're followers. If they weren't, they'd be standing here instead of me. Don't worry, uncle. They'll fall in line.","[ВЛАСТНОСТЬ] Они ведомые. Будь иначе, здесь стояли бы они, а не я. Не волнуйся, дядя. Встанут в строй.",ai,,92EA0ACA4F21BBB72F2163A7A2E9395C
+"(AMBITIOUS) They don't know half of the changes I'm going to make. They'll see, soon enough.","(АМБИЦИОЗНОСТЬ) Они не знают и половины перемен, которые я собираюсь провести. Скоро увидят.",ai,,9F23A950499E46464B9A81A948CED32A
+"(CUNNING) Simple. We just convince them that whatever we do is what they want, too.","(ХИТРОСТЬ) Просто. Мы убедим их, что всё, что мы делаем, нужно и им тоже.",ai,,55F0AF46463DE177BA13A39292EC36DE
+"(POWERFUL) They're followers. If they weren't, they'd be standing here instead of me. Don't worry, uncle. They'll fall in line.","(ВЛАСТНОСТЬ) Они ведомые. Будь иначе, здесь стояли бы они, а не я. Не волнуйся, дядя. Встанут в строй.",ai,,92EA0ACA4F21BBB72F2163A7A2E9395C
 "I'm worried. The Bloodworth family has never been led by a woman, and some of the old guard might take issue with that. And the new guys listen to the old ones.","Я беспокоюсь. Семью Бладвортов ещё никогда не возглавляла женщина, и кто-то из старой гвардии может быть недоволен. А новички слушают старших.",ai,,7427FC0144A3D876DE6C0C95528DA4B4
-"(AMBITIOUS) Don't worry. I'll talk to them. They'll listen to me, once they know what I'm capable of.","[АМБИЦИОЗНОСТЬ] Не волнуйся. Я поговорю с ними. Когда узнают, на что я способна, будут слушать.",ai,,1B7F0D9043FC2699A3AE49A03A7E26BA
-(CUNNING) So we replace the old guard with the new guys. Clean house.,"[ХИТРОСТЬ] Значит, заменим старую гвардию новичками. Вычистим дом.",ai,,054B8AE943A4061AD7DE3F80E220A15E
-(POWERFUL) No. They'll listen to me.,[ВЛАСТНОСТЬ] Нет. Они будут слушать меня.,ai,,B4616302483C0B26FC2A70A79D6ECDD4
+"(AMBITIOUS) Don't worry. I'll talk to them. They'll listen to me, once they know what I'm capable of.","(АМБИЦИОЗНОСТЬ) Не волнуйся. Я поговорю с ними. Когда узнают, на что я способна, будут слушать.",ai,,1B7F0D9043FC2699A3AE49A03A7E26BA
+(CUNNING) So we replace the old guard with the new guys. Clean house.,"(ХИТРОСТЬ) Значит, заменим старую гвардию новичками. Вычистим дом.",ai,,054B8AE943A4061AD7DE3F80E220A15E
+(POWERFUL) No. They'll listen to me.,(ВЛАСТНОСТЬ) Нет. Они будут слушать меня.,ai,,B4616302483C0B26FC2A70A79D6ECDD4
 "They know by now. Anyone who matters, knows.","Они уже знают. Все, кто важен, знают.",ai,,BD26EE0645E0A58C4D34F6B1C30AFDC5
 Any issues?,Были проблемы?,ai,,43111C5C4CA005D330F8DF841EA8EEA3
 Did anyone disapprove?,Кто-нибудь был против?,ai,,5948F5ED47C2E248875B0B85080C8C38

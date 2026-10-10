@@ -16,9 +16,9 @@ The visitor took note of that.,Гость взял это на заметку.,a
 The visitor doesn't seem convinced.,"Гость, похоже, не убеждён.",ai,,8E4E081E4291B462FA0EDE87FB8265F8
 The visitor liked that.,Гостю это понравилось.,ai,,EC37ADDC450C8D5E37E1D8AB0D19B128
 He's on to you.,Он тебя раскусил.,ai,,3A9E1E88489E35A482DD349243727CD4
-(REALIST) You're not sure that convinced him.,"[РЕАЛИСТ] Ты не уверен, что это его убедило.",ai,,B40B1E2F472CD8B610FCD08F704A34C4
-(IDEALIST) He seems to have believed that.,"[ИДЕАЛИСТ] Похоже, он в это поверил.",ai,,580EE3D4478FFC1D61D862AFDA3C45D8
-(CYNIC) He knows you're lying. Clear as day.,"[ЦИНИК] Он знает, что ты врёшь. Яснее ясного.",ai,,DB5A80B84DEE9C6E9CEF5599CC6052F4
+(REALIST) You're not sure that convinced him.,"(РЕАЛИСТ) Ты не уверен, что это его убедило.",ai,,B40B1E2F472CD8B610FCD08F704A34C4
+(IDEALIST) He seems to have believed that.,"(ИДЕАЛИСТ) Похоже, он в это поверил.",ai,,580EE3D4478FFC1D61D862AFDA3C45D8
+(CYNIC) He knows you're lying. Clear as day.,"(ЦИНИК) Он знает, что ты врёшь. Яснее ясного.",ai,,DB5A80B84DEE9C6E9CEF5599CC6052F4
 The visitor took note of your entry.,Гость отметил твою запись.,ai,,B85051EA4F6A94D69143879811412AE5
 The visitor seems pleased.,"Гость, похоже, доволен.",ai,,A77361C643E11632ADE6BA9D5FB82F4C
 The visitor seems amused by that entry.,"Эта запись, похоже, позабавила Гостя.",ai,,DD62A0394E33C7E25F5B60A0D87FCD96
@@ -201,9 +201,9 @@ He's worked hard his whole life to be what he is today. I suppose he's...inspiri
 He can be a bit of a prick.,Порой он бывает тем ещё засранцем.,ai,,C397E4D24C21953DF914FFB397613B64
 "...And I'd be right with you on that, pal, except the scientific breakthrough, in your own words, is dead. But who knows, right? Maybe that's good enough. No reason to be a pessimist about it.","...И я был бы с вами полностью согласен, приятель, вот только научный прорыв, по вашим же словам, сдох. Но кто знает, верно? Может, и этого достаточно. Нет причин унывать.",ai,,8F63DEEB4BFFAEB7747916843CD292A3
 [Say nothing],[Промолчать],ai,,1EB5057A4FD696E4863C0AB27E88D3C5
-"(CYNIC) ...No, now that you mention it, I think there's ample reason for pessimism.","[ЦИНИК] ...Нет, раз уж вы об этом заговорили, по-моему, причин унывать предостаточно.",ai,,E5541D1F4186E3E1574BFE8F1A07A341
-"(IDEALIST) Exactly. Even with that particular...mishap, there's still plenty to celebrate regarding our work here.","[ИДЕАЛИСТ] Именно. Даже с учётом этой... неприятности, в нашей работе здесь есть чем гордиться.",ai,,C3D7C4A34478B1582C823CBB8B95DE7B
-(REALIST) I fully expect us to be able to discuss it with HQ in a manner professional enough to breed understanding.,"[РЕАЛИСТ] Я вполне рассчитываю обсудить это со штабом достаточно профессионально, чтобы встретить понимание.",ai,,B3AB90C84C2B1E7FBDC2FF8D07E3F550
+"(CYNIC) ...No, now that you mention it, I think there's ample reason for pessimism.","(ЦИНИК) ...Нет, раз уж вы об этом заговорили, по-моему, причин унывать предостаточно.",ai,,E5541D1F4186E3E1574BFE8F1A07A341
+"(IDEALIST) Exactly. Even with that particular...mishap, there's still plenty to celebrate regarding our work here.","(ИДЕАЛИСТ) Именно. Даже с учётом этой... неприятности, в нашей работе здесь есть чем гордиться.",ai,,C3D7C4A34478B1582C823CBB8B95DE7B
+(REALIST) I fully expect us to be able to discuss it with HQ in a manner professional enough to breed understanding.,"(РЕАЛИСТ) Я вполне рассчитываю обсудить это со штабом достаточно профессионально, чтобы встретить понимание.",ai,,B3AB90C84C2B1E7FBDC2FF8D07E3F550
 "There, there. No point in going all gloomy on me, bud. Let's switch topics, why don't we? Your pal, Jorge. Why don't you tell me a little about him? What's he like, what makes him tick?","Ну-ну. Не надо мне тут мрачнеть, дружище. Давайте сменим тему, а? Ваш приятель, Джордж. Расскажите-ка о нём немного. Какой он, что им движет?",ai,,A02D6AFA475451988227B982B00637D6
 I don't think that's relevant to our conversation.,"Не думаю, что это имеет отношение к нашему разговору.",ai,,657006014BD4DE7A5698399B46B613AC
 "He's a good man. A devout believer, too.",Он хороший человек. И глубоко верующий.,ai,,05A6320B47E780C474093CA50E9FA35D
@@ -1543,9 +1543,9 @@ Go fuck yourself.,Пошёл ты на хрен.,ai,,33008D58497F7561E9FBD686665
 "Eli, I...it can't end like this. We can't let this happen - not to us, not to the artifact.","Илай, я... так всё не может закончиться. Мы не можем этого допустить, ни ради нас, ни ради Артефакта.",ai,,B81C63834D1F95ECED40B2B1D4601B92
 It won't. Get him! [Attack the visitor],Не закончится. Бей его! [Напасть на Гостя],ai,,97E02AE449608CEC2AF95B9CB2AC3E6B
 [Signal him to attack the visitor],[Подать ему знак напасть на Гостя],ai,,BB59233D4829681D38F93E8E6481DB5C
-"(CYNIC) Forget it, Jorge. We tried. It's over.","[ЦИНИК] Забудь, Джордж. Мы пытались. Всё кончено.",ai,,D4C86283463606472DD8B181948B2500
-(IDEALIST) HQ will understand. They're not going to let things get out of hand.,[ИДЕАЛИСТ] Штаб поймёт. Они не позволят всему выйти из-под контроля.,ai,,9F3F72294CE60A6060C02081411A1045
-"(REALIST) It's out of our hands, Jorge. All we can do is hope for the best.","[РЕАЛИСТ] Это не в наших руках, Джордж. Остаётся лишь надеяться на лучшее.",ai,,AD76692447670C7E6F296BB7497398F3
+"(CYNIC) Forget it, Jorge. We tried. It's over.","(ЦИНИК) Забудь, Джордж. Мы пытались. Всё кончено.",ai,,D4C86283463606472DD8B181948B2500
+(IDEALIST) HQ will understand. They're not going to let things get out of hand.,(ИДЕАЛИСТ) Штаб поймёт. Они не позволят всему выйти из-под контроля.,ai,,9F3F72294CE60A6060C02081411A1045
+"(REALIST) It's out of our hands, Jorge. All we can do is hope for the best.","(РЕАЛИСТ) Это не в наших руках, Джордж. Остаётся лишь надеяться на лучшее.",ai,,AD76692447670C7E6F296BB7497398F3
 "I'm sorry, Jorge.","Прости, Джордж.",ai,,714856544B3B8D4B4A53FEA0CEBC2701
 "Bears repeating, don't it? ","Стоит повторить, а? ",ai,,85D62D4D40AA1B53EDBC16B11D41C380
 "I suppose. So, no more questions? That's it?","Пожалуй. Значит, вопросов больше нет? Это всё?",ai,,BCE5BA0340D9F0EFC9C57AA93196F46D
@@ -1627,9 +1627,9 @@ And you'll make that clear to HQ as well?,И вы чётко изложите э
 I'm glad we've reached this level of understanding each other.,"Я рад, что мы достигли такого взаимопонимания.",ai,,C7369B764FC14542C612D2AA50285BF8
 "And you'll make that assessment clear to HQ, is that right?","И вы чётко изложите эту оценку штабу, верно?",ai,,6677BE7440B4F7C074C0B78FB4664A04
 Same! Makes this next part much easier.,Взаимно! Так следующая часть пройдёт куда проще.,ai,,25A311FC4F01F274CCE889BDEF67895C
-"(CYNIC) ...Oh, shit.","[ЦИНИК] ...О, чёрт.",ai,,A02606D04F3411C8D65065B668E2209A
-(IDEALIST) ...The rest of the report?,[ИДЕАЛИСТ] ...Остальная часть отчёта?,ai,,729518D24CAC092A3D75FBAF0BBA0EBC
-(REALIST) ...Which part?,[РЕАЛИСТ] ...Какая часть?,ai,,ED3D868441C60355C218528705BB78B4
+"(CYNIC) ...Oh, shit.","(ЦИНИК) ...О, чёрт.",ai,,A02606D04F3411C8D65065B668E2209A
+(IDEALIST) ...The rest of the report?,(ИДЕАЛИСТ) ...Остальная часть отчёта?,ai,,729518D24CAC092A3D75FBAF0BBA0EBC
+(REALIST) ...Which part?,(РЕАЛИСТ) ...Какая часть?,ai,,ED3D868441C60355C218528705BB78B4
 "Obviously. I don't skimp on praises when they're deserved, fellas. HQ will hear, in detail, about what a smooth guy Eli here is.","Разумеется. Я не скупаюсь на похвалу, когда она заслужена, ребята. Штаб во всех подробностях услышит, какой приятный человек этот Илай.",ai,,F6BC37414D9B5549A5746685D3240557
 I appreciate your professionalism.,Ценю ваш профессионализм.,ai,,C932A71B46AAF11557393395D5229290
 "You can say the same about Jorge. In fact, make sure you do.","То же самое можете сказать о Джордже. Более того, обязательно скажите.",ai,,401B39014E711B676B6E1BBFB0BBD50F
@@ -1644,9 +1644,9 @@ I imagine so.,"Полагаю, да.",ai,,E18AD09342B5F988EEEB7988FBD50BE3
 Sure. Where do you want to start?,Конечно. С чего начнём?,ai,,8068BC114E67832288D0BBBD550BA3DE
 How much do you know?,Что вам известно?,ai,,7A267791402B2477E6F8079E0D2DDDE9
 "Of course! I appreciate the two of you. I've grown to trust you fellas to cooperate smoothly, which I value highly. Makes this next part much easier.","Конечно! Я ценю вас обоих. Я привык доверять вам в том, что вы будете сотрудничать без проблем, а это я очень ценю. Так следующая часть пройдёт куда проще.",ai,,5462CDAE419810BC00E2D08F27730850
-"(CYNIC) ...Oh, shit.","[ЦИНИК] ...О, чёрт.",ai,,A8C434884C72EB52D0791EBE796EA4F3
-(IDEALIST) ...The rest of the report?,[ИДЕАЛИСТ] ...Остальная часть отчёта?,ai,,AC5912424B91A1A482F23A9C0CCC18E7
-(REALIST) ...Which part?,[РЕАЛИСТ] ...Какая часть?,ai,,93E010794E1B2FE3BFD7059E7349AAB8
+"(CYNIC) ...Oh, shit.","(ЦИНИК) ...О, чёрт.",ai,,A8C434884C72EB52D0791EBE796EA4F3
+(IDEALIST) ...The rest of the report?,(ИДЕАЛИСТ) ...Остальная часть отчёта?,ai,,AC5912424B91A1A482F23A9C0CCC18E7
+(REALIST) ...Which part?,(РЕАЛИСТ) ...Какая часть?,ai,,93E010794E1B2FE3BFD7059E7349AAB8
 "Hah! In some ways, I suppose. Not everyone is so cooperative, you know?","Ха! В некотором смысле, пожалуй. Не все такие сговорчивые, знаете ли.",ai,,82D5E35840179FB2DEE9C1A07127C215
 "Well, in that case, I'm happy we've reached this level of understanding.","Что ж, тогда я рад, что мы достигли такого взаимопонимания.",ai,,01F0031C4CD840D811B59C9BB92B395D
 And you'll make that clear to HQ as well?,И вы чётко изложите это штабу тоже?,ai,,39646EAF45BD5093B0EA6486B9299AAA
@@ -1670,9 +1670,9 @@ We've cooperated. We've shown you everything. Isn't that how it's supposed to go
 ...How could that not come across as disrespect?,...Как это может не быть неуважением?,ai,,76347B244F11DF58EB404A9C9BE14D95
 Professionalism should be all that matters.,"Профессионализм — вот единственное, что должно иметь значение.",ai,,45C482C84EA44E339D5D969D901C24E9
 "...Listen, fellas - I was just holding out hope that the two of you would be different from the others. More fun, more sociable. Oh, well. More's the pity.","...Слушайте, ребята, я просто надеялся, что вы двое окажетесь не такими, как остальные. Веселее, общительнее. Ну да ладно. Что поделать, жаль.",ai,,9BDC3E3F4507ECB5D9D6F69704077646
-"(CYNIC) ...Oh, shit.","[ЦИНИК] ...О, чёрт.",ai,,9A53DDFD4A7C1138E27B2DA8801C2F08
-"(IDEALIST) ...We'll take steps to improve. We still have time, right?","[ИДЕАЛИСТ] ...Мы постараемся исправиться. У нас ещё есть время, верно?",ai,,E8C51D304F3B8FBF73B4ABA79AEC443C
-(REALIST) ...The pity? What are you...,[РЕАЛИСТ] ...Жаль? Что вы...,ai,,205CA6C94D2DB9321D1A8E87A5A21DBF
+"(CYNIC) ...Oh, shit.","(ЦИНИК) ...О, чёрт.",ai,,9A53DDFD4A7C1138E27B2DA8801C2F08
+"(IDEALIST) ...We'll take steps to improve. We still have time, right?","(ИДЕАЛИСТ) ...Мы постараемся исправиться. У нас ещё есть время, верно?",ai,,E8C51D304F3B8FBF73B4ABA79AEC443C
+(REALIST) ...The pity? What are you...,(РЕАЛИСТ) ...Жаль? Что вы...,ai,,205CA6C94D2DB9321D1A8E87A5A21DBF
 "...I, we...we're tense, you see. Haven't seen a lot of people in a while. Having someone come around to camp, well - it's just out of the ordinary. We didn't mean any disrespect.","...Я, мы... мы напряжены, понимаете. Давно не видели людей. Когда кто-то приезжает в лагерь, ну, это выходит за рамки обычного. Мы не хотели проявить неуважение.",ai,,875B90D0482402FC8A2FDEB23646AA3F
 [Wait for the visitor to respond],[Дождаться ответа Гостя],ai,,BE903698474E528B2C2609B987835140
 "[Turn to the visitor] Yeah, exactly. We didn't realize we were expected to entertain you.","[Повернуться к Гостю] Да, именно. Мы не знали, что должны вас развлекать.",ai,,1C4F545B4D0D58CA9C848CA9CB7BDAAB
@@ -1681,9 +1681,9 @@ Professionalism should be all that matters.,"Профессионализм — 
 Sure. Where do you want to start?,Конечно. С чего начнём?,ai,,4A411BEE4826C3359F12CF8BA9E7378E
 How much do you know?,Что вам известно?,ai,,7903BDAB4EEA188C9B615EAA645E3675
 "Usually is. I'll be honest, though - as interesting as your work out here may be, I'm just not keen on dealing with a couple of bores. Was hoping you'd be more fun than the others. More interesting, more charismatic. Oh, well. More's the pity.","Обычно да. Но скажу честно: как бы ни была интересна ваша работа, возиться с парочкой занудами мне не по душе. Я надеялся, вы окажетесь веселее остальных. Интереснее, обаятельнее. Ну что ж. Жаль.",ai,,F0BEBF634E66CBF1EA9C0286614F699C
-"(CYNIC) ...Oh, shit.","[ЦИНИК] ...О, чёрт.",ai,,BA9AE3B94656E3B257D460833195DE1B
-"(IDEALIST) ...We'll take steps to improve. We still have time, right?","[ИДЕАЛИСТ] ...Мы постараемся исправиться. У нас ещё есть время, верно?",ai,,6B03EF7846D75F72EB8961B2A90BC44D
-(REALIST) ...The pity? What are you...,[РЕАЛИСТ] ...Жаль? Что вы...,ai,,5F284CF347EF05E3656B689938592655
+"(CYNIC) ...Oh, shit.","(ЦИНИК) ...О, чёрт.",ai,,BA9AE3B94656E3B257D460833195DE1B
+"(IDEALIST) ...We'll take steps to improve. We still have time, right?","(ИДЕАЛИСТ) ...Мы постараемся исправиться. У нас ещё есть время, верно?",ai,,6B03EF7846D75F72EB8961B2A90BC44D
+(REALIST) ...The pity? What are you...,(РЕАЛИСТ) ...Жаль? Что вы...,ai,,5F284CF347EF05E3656B689938592655
 "Truthfully, glasses? I am. Extraordinary find like this, I...suppose I expected some more extraordinary people. No offense, of course.","Честно, очкарик? Да. Такая необыкновенная находка, я... видимо, ждал и людей поинтереснее. Без обид, разумеется.",ai,,3F374211405A8F2ED791DC9CB36DC36F
 We're professionals. Not entertainers.,"Мы профессионалы, а не артисты.",ai,,0880C5104857E688D60D30AF6B189EBB
 "...We can try to be a little bit more sociable, if that helps us in the report?","...Мы можем постараться быть общительнее, если это поможет в отчёте?",ai,,DB5460144EE377BDA364909B978467C2
@@ -1697,17 +1697,17 @@ We're professionals. Not entertainers.,"Мы профессионалы, а не
 "...We can try to be a little bit more sociable, if that helps us in the report?","...Мы можем постараться быть общительнее, если это поможет в отчёте?",ai,,B90AB28B4EC966D58AF82EB71B72C233
 ...How are we not supposed to take offense at that?,...Как тут не обидеться?,ai,,A842945E40A3A85A577181B19772C285
 "So it would seem, glasses. Well, if professionalism is the name of the game, let's get down to business. I suppose that ought to make this next part easier.","Похоже на то, очкарик. Что ж, раз главное — профессионализм, давайте к делу. Думаю, так следующая часть пройдёт проще.",ai,,B4A66FBC46F02BE899CC73A9053026FF
-"(CYNIC) ...Oh, shit.","[ЦИНИК] ...О, чёрт.",ai,,63B84CED4346E151B7FF4EB458DB64A6
-(IDEALIST) ...Finishing the report? I'm not sure I understand.,[ИДЕАЛИСТ] ...Закончить отчёт? Не понимаю.,ai,,5C46ACA147FDA0D0C8720285839D6FA7
-(REALIST) Easier? What? Which part?,[РЕАЛИСТ] Проще? Что? Какая часть?,ai,,E35B235A4138E682DAA18E925EC64F84
+"(CYNIC) ...Oh, shit.","(ЦИНИК) ...О, чёрт.",ai,,63B84CED4346E151B7FF4EB458DB64A6
+(IDEALIST) ...Finishing the report? I'm not sure I understand.,(ИДЕАЛИСТ) ...Закончить отчёт? Не понимаю.,ai,,5C46ACA147FDA0D0C8720285839D6FA7
+(REALIST) Easier? What? Which part?,(РЕАЛИСТ) Проще? Что? Какая часть?,ai,,E35B235A4138E682DAA18E925EC64F84
 "Won't help much with the report, I'm afraid. But sure -who knows, it might make this next part a little easier.","Для отчёта это вряд ли поможет, боюсь. Но кто знает, возможно, так следующая часть пройдёт чуть проще.",ai,,98CF8E0645DAB8823D28E18B7A308122
-"(CYNIC) ...Oh, shit.","[ЦИНИК] ...О, чёрт.",ai,,7373CD3B47C52027E1DCDE8441F6CB7E
-"(IDEALIST) ...What, finishing the report? I'm not sure I understand.","[ИДЕАЛИСТ] ...Что, закончить отчёт? Не понимаю.",ai,,A0663488433CBD2350598FB8A88F7F17
-(REALIST) Easier? What? Which part?,[РЕАЛИСТ] Проще? Что? Какая часть?,ai,,A86A083C4F21837F16DFF1B3CBEB4BC7
+"(CYNIC) ...Oh, shit.","(ЦИНИК) ...О, чёрт.",ai,,7373CD3B47C52027E1DCDE8441F6CB7E
+"(IDEALIST) ...What, finishing the report? I'm not sure I understand.","(ИДЕАЛИСТ) ...Что, закончить отчёт? Не понимаю.",ai,,A0663488433CBD2350598FB8A88F7F17
+(REALIST) Easier? What? Which part?,(РЕАЛИСТ) Проще? Что? Какая часть?,ai,,A86A083C4F21837F16DFF1B3CBEB4BC7
 "Well, as we've established, you're professionals, ain't you? Professionals don't get emotional - and hey, not getting emotional is a good trait to have. It'll certainly make this next part a lot easier.","Ну, как мы выяснили, вы профессионалы, так? Профессионалы не поддаются эмоциям, а это хорошее качество. Оно определённо сильно облегчит следующую часть.",ai,,BE292CCD4EDC7EB16CB6469A76122742
-"(CYNIC) ...Oh, shit.","[ЦИНИК] ...О, чёрт.",ai,,83AD206A4CFA57332197D090C9837491
-(IDEALIST) ...Finishing the report? I'm not sure I understand.,[ИДЕАЛИСТ] ...Закончить отчёт? Не понимаю.,ai,,F55E20FA4BE074118B4D0E89A1D866C3
-(REALIST) Easier? What? Which part?,[РЕАЛИСТ] Проще? Что? Какая часть?,ai,,5189347C4A4A1F2FE1FF31BE56963B82
+"(CYNIC) ...Oh, shit.","(ЦИНИК) ...О, чёрт.",ai,,83AD206A4CFA57332197D090C9837491
+(IDEALIST) ...Finishing the report? I'm not sure I understand.,(ИДЕАЛИСТ) ...Закончить отчёт? Не понимаю.,ai,,F55E20FA4BE074118B4D0E89A1D866C3
+(REALIST) Easier? What? Which part?,(РЕАЛИСТ) Проще? Что? Какая часть?,ai,,5189347C4A4A1F2FE1FF31BE56963B82
 "Now, now. Let's not get all jumpy. It's a gun. That's true. You've seen one before, I've seen one before - there's no need for excitement.","Тише, тише. Не будем нервничать. Да, это пистолет. Верно. Вы такие видели, я такие видел, волноваться не из-за чего.",ai,,5D355E5A478869669C5C5BBBAF0D5D77
 Just...put the gun down.,Просто... опустите пистолет.,ai,,2286288D4865371F1DEFE59C4F383C49
 I agree. We can talk about this. No cause for threats.,Согласен. Мы можем это обсудить. Угрожать незачем.,ai,,2FD160EC42B692B2E82F6E9DEF53C4F7
@@ -1865,9 +1865,9 @@ Yes. They need to hear our side of things. Please.,Да. Им нужно выс�
 "Of course. They need us, whether they like it or not.","Конечно. Мы им нужны, нравится им это или нет.",ai,,5872AE3249DD599C025865813FC50784
 "Yes - and besides, this thing really is dangerous. You need someone to watch over it on the way there.","Да, и к тому же эта штука правда опасна. Вам нужен кто-то, кто присмотрит за ней по дороге.",ai,,77AE631548C08BC860FF6285E8EBCE5B
 "...Then again, I'm not sure I need both of you for that. Backseat's going to be awful cramped if all three of us were to squeeze in there. You see what I'm getting at, glasses?","...С другой стороны, не уверен, что для этого нужны вы оба. На заднем сиденье будет ужасно тесно, если втиснемся все трое. Улавливаете, к чему я клоню, очкарик?",ai,,168B0205431F157A357AF2B338F5CA2C
-(IDEALIST) We can make room in the car. I'm sure.,[ИДЕАЛИСТ] В машине можно освободить место. Уверен.,ai,,CF636CBF4C9073FAC705CFB1DEC5C3A8
-(CYNIC) I've seen this coming for the past hour...friend.,"[ЦИНИК] Я видел, к чему всё идёт, уже час... друг.",ai,,170ACE4B4C73CF855737BEA6E958DE5C
-"(REALIST) There's only room for you and one other person, isn't there?","[РЕАЛИСТ] Места только для вас и ещё одного человека, так?",ai,,FE4CD82C4F4E1DBA9C479086D0B07C11
+(IDEALIST) We can make room in the car. I'm sure.,(ИДЕАЛИСТ) В машине можно освободить место. Уверен.,ai,,CF636CBF4C9073FAC705CFB1DEC5C3A8
+(CYNIC) I've seen this coming for the past hour...friend.,"(ЦИНИК) Я видел, к чему всё идёт, уже час... друг.",ai,,170ACE4B4C73CF855737BEA6E958DE5C
+"(REALIST) There's only room for you and one other person, isn't there?","(РЕАЛИСТ) Места только для вас и ещё одного человека, так?",ai,,FE4CD82C4F4E1DBA9C479086D0B07C11
 "If only it were so, buddy. As it stands, my ride is a two-seater today. Go figure.","Если бы, дружище. Но сегодня моя тачка двухместная. Поди разберись.",ai,,D40586854CE43E398D97D293237BAA5A
 So now what?,И что теперь?,ai,,C54304984AFD973738280FB180E396B3
 "...Can you just get to the point, you asshole?","...Можете перейти к делу, козёл?",ai,,298B5AE5469B907C637D9FAFBD3F0246
@@ -2267,9 +2267,9 @@ There is no top billing. This is a team effort.,Главных нет. Это к
 "We've been nothing but honest. HQ hasn't been much help, and they need us more than we need them.","Мы были предельно честны. Штаб нам почти не помогал, и мы нужны им больше, чем они нам.",ai,,39530A6644557F045082BF9B36AF8F9A
 "...I'm sorry, if we've made it seem like we're against HQ. That's a misunderstanding.","...Простите, если мы создали впечатление, что мы против штаба. Это недоразумение.",ai,,3A6E5FA54580B115F7D25D83093BC65C
 "...Let me ask you something. You want to know how this usually goes, Eli? These little visits of mine?","...Позвольте спросить. Хотите знать, как это обычно происходит, Илай? Эти мои небольшие визиты?",ai,,F4F930B74E82D0BE2DB1ACB950E49CBE
-(CYNIC) I don't know - better or worse than this one? I honestly can't tell which I'd prefer.,"[ЦИНИК] Не знаю — лучше или хуже, чем этот? Честно, не пойму, что бы я предпочёл.",ai,,43EF4AE64D5C32E49922F8BA09A9F4D1
-"(IDEALIST) As well as this one, I'd hope.","[ИДЕАЛИСТ] Надеюсь, не хуже этого.",ai,,4996F998472CC73822AD8F9B8D695887
-(REALIST) I reckon I could make an educated guess. [Look at his gun],"[РЕАЛИСТ] Думаю, могу догадаться. [Взглянуть на его пистолет]",ai,,03756184421E9F008D69B9A018C0C3E9
+(CYNIC) I don't know - better or worse than this one? I honestly can't tell which I'd prefer.,"(ЦИНИК) Не знаю — лучше или хуже, чем этот? Честно, не пойму, что бы я предпочёл.",ai,,43EF4AE64D5C32E49922F8BA09A9F4D1
+"(IDEALIST) As well as this one, I'd hope.","(ИДЕАЛИСТ) Надеюсь, не хуже этого.",ai,,4996F998472CC73822AD8F9B8D695887
+(REALIST) I reckon I could make an educated guess. [Look at his gun],"(РЕАЛИСТ) Думаю, могу догадаться. [Взглянуть на его пистолет]",ai,,03756184421E9F008D69B9A018C0C3E9
 "No, but I'm sure you're about to tell me.","Нет, но уверен, вы сейчас расскажете.",ai,,3430ED5342FE78A891C46A9137A7B746
 [Let him continue],[Дать ему продолжить],ai,,025D260C4AB66E2FFE1CBB933DBAB579
 [Say nothing],[Промолчать],ai,,02BE81234B472F071F86098D305C92D6
@@ -2588,16 +2588,16 @@ I'm completely serious.,Я совершенно серьёзно.,ai,,38F21A924E
 You tell me.,Это уж вы мне скажите.,ok,,D1370D934110AC23B9607EB4C7A84AFC
 "If you say so, buddy. And you think HQ would be happy to hear about these...frustrations?","Как скажете, дружище. И вы думаете, штабу будет приятно услышать об этих... недовольствах?",ai,,0C5B266F40A551B1716E078631E334B0
 "...Not after what happened to the artifact, I suppose - but it's worth a shot.","...Не после того, что случилось с Артефактом, наверное, — но попробовать стоит.",ai,,3ED48DC748EBFE60F28E7A9DE29A87AE
-(CYNIC) Probably not. Still worth trying.,[ЦИНИК] Вряд ли. Но попробовать всё равно стоит.,ai,,07F807C64276CBE2D9260EA0B4F89709
-(IDEALIST) Of course. A happy workforce is an efficient one. I'm sure we can convince them of that.,"[ИДЕАЛИСТ] Конечно. Довольные сотрудники работают эффективнее. Уверен, мы сможем их убедить.",ai,,8AEF38BF4553625043BE819511C3F354
-(REALIST) I think that depends on how we phrase them.,"[РЕАЛИСТ] Думаю, зависит от того, как их сформулировать.",ai,,083CA6374639F57EEBE1A496BAFC2EE9
+(CYNIC) Probably not. Still worth trying.,(ЦИНИК) Вряд ли. Но попробовать всё равно стоит.,ai,,07F807C64276CBE2D9260EA0B4F89709
+(IDEALIST) Of course. A happy workforce is an efficient one. I'm sure we can convince them of that.,"(ИДЕАЛИСТ) Конечно. Довольные сотрудники работают эффективнее. Уверен, мы сможем их убедить.",ai,,8AEF38BF4553625043BE819511C3F354
+(REALIST) I think that depends on how we phrase them.,"(РЕАЛИСТ) Думаю, зависит от того, как их сформулировать.",ai,,083CA6374639F57EEBE1A496BAFC2EE9
 Don't know until we try it.,"Не узнаем, пока не попробуем.",ai,,D0107B234DB3D8EFE1BDBAA6A84257FC
 We'll make them listen.,Мы заставим их выслушать.,ai,,725A9F294E1D524ADE736CA1074FE02C
 "You figure HQ is willing to receive said criticism? Oh, sorry - constructive feedback?","Думаете, штаб готов принимать такую критику? Ох, простите, конструктивную обратную связь?",ai,,184A3A234860C6434AF3F3A56F09C6B5
 Maybe they'll want to learn from our mistakes.,"Возможно, они захотят извлечь урок из наших ошибок.",ai,,A513AFE74496D482035509BBDDC39D9C
-(CYNIC) Probably not. Still worth trying.,[ЦИНИК] Вряд ли. Но попробовать всё равно стоит.,ai,,83C271DB49D7706EE102BFB453073559
-"(IDEALIST) Of course. They want what's best for Science City too, even if it hurts their pride.","[ИДЕАЛИСТ] Конечно. Они тоже хотят лучшего для Наукограда, даже если это ранит их гордость.",ai,,CEEEBC72434D09DEC9D31D9A2799D69E
-(REALIST) I think that depends on how we phrase it.,"[РЕАЛИСТ] Думаю, зависит от формулировки.",ai,,71D766D542224EFA6A0173A540C10420
+(CYNIC) Probably not. Still worth trying.,(ЦИНИК) Вряд ли. Но попробовать всё равно стоит.,ai,,83C271DB49D7706EE102BFB453073559
+"(IDEALIST) Of course. They want what's best for Science City too, even if it hurts their pride.","(ИДЕАЛИСТ) Конечно. Они тоже хотят лучшего для Наукограда, даже если это ранит их гордость.",ai,,CEEEBC72434D09DEC9D31D9A2799D69E
+(REALIST) I think that depends on how we phrase it.,"(РЕАЛИСТ) Думаю, зависит от формулировки.",ai,,71D766D542224EFA6A0173A540C10420
 I have no clue.,Понятия не имею.,ai,,D53BCB55434441358440C19BE604F1B7
 They better.,Лучше бы да.,ai,,6443B48C4E51EF41FADED0BBB33C562A
 "Yeah? Well shit, Eli - we better clear that up. You tell me, then. How do you guys actually feel about HQ?","Да? Ну что ж, Илай, нужно это прояснить. Тогда скажите вы. Что вы на самом деле думаете о штабе?",ai,,456E8C604466DA94F55E288B2C2E0729

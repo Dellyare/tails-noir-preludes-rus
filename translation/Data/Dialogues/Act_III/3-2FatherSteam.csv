@@ -19,10 +19,10 @@ Bummer.,Облом.,ai,,3333AD95407F9363026FC78F32D578FE
 "[The face of Grandfather Steam seems strangely barren and empty without its second hand, but nonetheless ticks along. Someone has to.]","[Без секундной стрелки циферблат Дедушки Пара кажется странно голым и пустым, но часы всё равно идут. Кто-то же должен.]",ai,,362CA77D4C23539609568EA43935890D
 [Repair the clock],[Починить часы],ai,,126BEAD4490BEF33ED53349058D8C073
 [Investigate the clock.],[Осмотреть часы.],ai,,58E51C5E47DD147605AA27955DAE88F2
-(SARCASTIC) Cool. A clock.,[САРКАЗМ] Круто. Часы.,ai,,952301A449CAB898C2A19889A4414168
-(Leave),[Уйти],ai,,92C41C834093F037EDCF5D886E03BF83
+(SARCASTIC) Cool. A clock.,(САРКАЗМ) Круто. Часы.,ai,,952301A449CAB898C2A19889A4414168
+(Leave),(Уйти),ai,,92C41C834093F037EDCF5D886E03BF83
 "[You peer up at the four faces of the monumental timepiece, studying it carefully.]","[Ты глядишь на четыре циферблата монументальных часов, внимательно их изучая.]",ai,,882EA6F34146B87B4428FC9CDD0C210F
-(INVESTIGATIVE) Wait... I see something.,[ПЫТЛИВОСТЬ] Погоди... Я что-то вижу.,ai,,24B6D50140FCE53DD8857A8B8B321F95
+(INVESTIGATIVE) Wait... I see something.,(ПЫТЛИВОСТЬ) Погоди... Я что-то вижу.,ai,,24B6D50140FCE53DD8857A8B8B321F95
 "...What am I looking at here, exactly?","...На что я тут, собственно, смотрю?",ai,,4813122A4C546F41886825BE1925AB0E
 [Examine the area around the clock],[Осмотреть местность вокруг часов],ai,,1E4AD1DC454597AF4E6F58A90E46AB50
 That's all.,Это всё.,ai,,E151FA6E4EF40C3E83BBF9BB0F2BED56
@@ -30,7 +30,7 @@ That's all.,Это всё.,ai,,E151FA6E4EF40C3E83BBF9BB0F2BED56
 "You win this time, clock.","На этот раз ты победил, часы.",ai,,CE22BAE84A1AC81BB2EB859C18553D55
 "[Once the hand has clicked into place, it pauses briefly, before once more picking up the pace and ensuring the passage of time continues unfettered.]","[Как только стрелка встаёт на место, часы ненадолго замирают, а затем снова набирают ход, и время вновь течёт беспрепятственно.]",ai,,22F8A2F04A8C1C49012561A8C4E37E8C
 "Good to have you back, papa.","Рад, что ты вернулся, папаша.",ai,,7B396DBC4C2B210F6BF773BFAB118DAE
-(Climb down),[Слезть],ai,,61235831428316227532CD91872E469C
+(Climb down),(Слезть),ai,,61235831428316227532CD91872E469C
 "[Grandfather Steam, pride of Gastown. It's an old steam-powered clock, and an oddity in the sense of it being a known landmark of the City that isn't a depiction of an Ape.]","[Дедушка Пар — гордость Газтауна. Это старые паровые часы и редкость: известная достопримечательность Города, которая не изображает Обезьяну.]",ai,,948886814092D3A84A1CFCBAD49CCDD6
 Here - I got your hand back. [Repair the clock],"Вот, держи, я вернул твою стрелку. [Починить часы]",ai,,34A6264C4B867877928E78AF465EA9BA
 Interesting.,Любопытно.,ai,,FD36C1F04C163BA756EFF29DEECF4567

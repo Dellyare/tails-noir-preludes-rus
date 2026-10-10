@@ -29,9 +29,9 @@ I should go make the call. I'll talk to you later.,Мне нужно пойти 
 On it.,За дело.,ai,,F6B121954B4AB42100955BB347213E71
 [Leave],[Уйти],ok,,2B7EFA71404503643668D2935C920F79
 "Alright. Man. What was that...thing? What was that, Eli?","Ладно. Чувак. Что это было... за штука? Что это было, Илай?",ai,,4C99E10044787C6DF48CDEB02BFD6436
-(REALIST) Progress. Just not sure what kind yet.,"[РЕАЛИСТ] Прогресс. Просто пока не уверен, какой именно.",ai,,D79962444BABF2561133B4BEBE8CE398
-(CYNIC) Bad news.,[ЦИНИК] Плохие новости.,ai,,998F80214D228997560C12B176195BBC
-(IDEALIST) Looks like the fruit of our labour to me.,"[ИДЕАЛИСТ] Похоже, это плод нашего труда.",ai,,DBAE1F194D6212DC575B16A08BED8AFE
+(REALIST) Progress. Just not sure what kind yet.,"(РЕАЛИСТ) Прогресс. Просто пока не уверен, какой именно.",ai,,D79962444BABF2561133B4BEBE8CE398
+(CYNIC) Bad news.,(ЦИНИК) Плохие новости.,ai,,998F80214D228997560C12B176195BBC
+(IDEALIST) Looks like the fruit of our labour to me.,"(ИДЕАЛИСТ) Похоже, это плод нашего труда.",ai,,DBAE1F194D6212DC575B16A08BED8AFE
 "Just take it easy, alright?","Просто успокойся, ладно?",ai,,ED6F537741356A26AE45D18DB9F8948D
 We'll figure it out.,Мы разберёмся.,ai,,0A77258F4D99FFD9C1A41F8FF032A20D
 "I don't know. I'm not sure I wanna find out, but I'm sure HQ does.","Я не знаю. Не уверен, что хочу это выяснять, но уверен, что штаб захочет.",ai,,25AB63FC425E2A43D282C2BAFE28B3E3
@@ -181,9 +181,9 @@ I'm sure the tone will be more accommodating now that we have something interest
 We can only hope.,Можем только надеяться.,ai,,886E013F481E3A48E88958821D8711E6
 Guess we'll see. I'll be right back.,"Думаю, увидим. Я скоро вернусь.",ai,,7361AC8A4D10322239779E94C542130B
 Think this is what they're hoping we'd find?,"Думаешь, это то, что они надеялись, что мы найдём?",ai,,9E5E62294ABA5999530965ABDAF7EE54
-(CYNIC) Maybe we should hold off on telling them. They might send in someone to steal the credit.,"[ЦИНИК] Может, нам стоит пока не говорить им. Они могут прислать кого-то, чтобы украсть заслуги.",ai,,738E11474A91B349654824BDB80AF304
-(IDEALIST) They might even send someone over. Along with some new equipment.,[ИДЕАЛИСТ] Они могут даже прислать кого-то. Вместе с новым оборудованием.,ai,,4BCF894A4DB3191A5BF4D7B65F4CE738
-(REALIST) It's been almost six months. I think they'll be happy to hear we're making progress.,"[РЕАЛИСТ] Прошло почти шесть месяцев. Думаю, они будут рады услышать, что мы продвигаемся.",ai,,E8B570C347EE80A2C25E0EA053A3A554
+(CYNIC) Maybe we should hold off on telling them. They might send in someone to steal the credit.,"(ЦИНИК) Может, нам стоит пока не говорить им. Они могут прислать кого-то, чтобы украсть заслуги.",ai,,738E11474A91B349654824BDB80AF304
+(IDEALIST) They might even send someone over. Along with some new equipment.,(ИДЕАЛИСТ) Они могут даже прислать кого-то. Вместе с новым оборудованием.,ai,,4BCF894A4DB3191A5BF4D7B65F4CE738
+(REALIST) It's been almost six months. I think they'll be happy to hear we're making progress.,"(РЕАЛИСТ) Прошло почти шесть месяцев. Думаю, они будут рады услышать, что мы продвигаемся.",ai,,E8B570C347EE80A2C25E0EA053A3A554
 "Don't just stand there! We need to deal with this so it doesn't get out. Come on, man!","Не стой просто так! Нам нужно разобраться с этим, чтобы оно не вырвалось. Давай, чувак!",ai,,E0E723D44CD2610C0D7E1AA68454476B
 You opened the pod?!,Ты открыл капсулу?!,ai,,50125DB744D2A2B9506D54B7E1D941E6
 What the...what are you talking about?,Что за... о чём ты говоришь?,ai,,5AF8369D465292DD349ECAA5456971B5

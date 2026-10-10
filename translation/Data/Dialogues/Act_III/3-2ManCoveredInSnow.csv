@@ -10,7 +10,7 @@ Thanks man. Happy to help. [Leave],"Спасибо, дружище. Рад по�
 "...Well, it stands to reason that you would have, well, a reason. In which case, I'd like to know that reason.","...Что ж, резонно предположить, что у тебя есть причина. В таком случае я бы хотел её узнать.",ai,,478ED68249EE78BEF40B1489F5BA2493
 You look really dashing right now - like a movie star. I want to capture that.,Вы сейчас выглядите просто блестяще — как кинозвезда. Я хочу это запечатлеть.,ai,,9D81634E4DD63C160B53F2BB25E86D99
 "Look, it's just for a class. No one's going to see it.","Слушайте, это всего лишь для занятия. Никто не увидит.",ai,,ACFEE80644DFF1FF1F2C0A994BE09CEE
-(INVESTIGATIVE) Isn't act of photography enough of a reason?,[ПЫТЛИВОСТЬ] Разве самого акта фотографирования недостаточно в качестве причины?,ai,,365EAF4447AFA1A0CF43979424DD5C0A
+(INVESTIGATIVE) Isn't act of photography enough of a reason?,(ПЫТЛИВОСТЬ) Разве самого акта фотографирования недостаточно в качестве причины?,ai,,365EAF4447AFA1A0CF43979424DD5C0A
 "The act? How do you mean, boy? You've piqued my interest.","Сам акт? Что ты имеешь в виду, юноша? Ты меня заинтриговал.",ai,,0551E9214A97FE5A101FC3925EDFFB2E
 The reason is born during the act of photography. Its quality is only known after the picture is taken.,"Причина рождается в самом акте фотографирования. Её качество становится известно только после того, как снимок сделан.",ai,,5A3C4DAC4E8E5CE1C7508582F824212E
 "Art is expression, and as such, needs no reason. I don't need a reason to smile either, do I?","Искусство — это выражение, и потому ему не нужна причина. Мне же не нужна причина, чтобы улыбнуться, верно?",ai,,F26E081D45706ACE1F27098795A4462A
@@ -93,7 +93,7 @@ You're better off. Let's talk about you some more.,Вам же лучше. Да�
 Alright. [Leave],Ладно. [Уйти],ai,,AB3A2B8C4CCC84780AE601A8AAE35EC0
 "...Okay, uh. Well. Can I ask you about something else?","...Ладно, э-э. Ну. Можно спросить вас о другом?",ai,,15D6C1AA4596FA63D9C3F7B8CE1704BD
 "All done? Think it will come out alright? I didn't move, did I?","Закончил? Как думаешь, получится нормально? Я ведь не двигался?",ai,,9E0C0F2E426BDF7EB5CDADB8ED73F979
-"(SARCASTIC) Yeah - truth be told, you're being just a little bit too energetic.","[САРКАЗМ] Ага — по правде говоря, вы слишком уж энергичны.",ai,,08F259334E59EC9FDD3807920D2143DE
+"(SARCASTIC) Yeah - truth be told, you're being just a little bit too energetic.","(САРКАЗМ) Ага — по правде говоря, вы слишком уж энергичны.",ai,,08F259334E59EC9FDD3807920D2143DE
 "Stellar. Thanks, man.","Превосходно. Спасибо, дружище.",ai,,1324FC724AB16BBAF873628B462574ED
 "...I don't know, it's a lot of white. Might end up a little overexposed.","...Не знаю, тут очень много белого. Может получиться немного пересвеченно.",ai,,0EAC1C754F9C1A355F8B8783947849C8
 [Shrug] Eh.,[Пожать плечами] Ну...,ai,,ED7BD33448A155697E71B191729F0A5F
@@ -166,9 +166,9 @@ Geezers?,Гусяры?,ai,,A5D61FC145C05689856F5D8EA92BD49B
 Non-transactional?,Бескорыстные?,ai,,2618E5BB4B3863F781D1A2964C97CE0D
 Geezers?,Гусяры?,ai,,9D88685A458E8D179CDF6691DED25591
 "Well, you see - every day for the past few years, I've been coming out here to feed the local geezers. I felt like we had established a rapport, a trust. But the other day I forgot to bring my trusty seed bag, and they looked at me like a common stranger. It's then that I realized that maybe I've just been a middle-man to them all along. A bag bearer.","Видишь ли, каждый день последние несколько лет я прихожу сюда кормить местных гусяров. Мне казалось, у нас сложилось взаимопонимание, доверие. Но на днях я забыл свой верный мешок с кормом, и они посмотрели на меня как на первого встречного. И тогда я понял, что, возможно, всё это время был для них лишь посредником. Носильщиком мешка.",ai,,8A7454044DD2C6359019B7B93BCF20DD
-"(INVESTIGATIVE) Maybe they think you and the bag are one and the same. Without it, maybe they didn't recognize you.","[ПЫТЛИВОСТЬ] Может, они считают, что вы и мешок — одно целое. Без него они вас, наверное, не узнали.",ai,,1914C1844749C04BB9325E9EDF2B15C4
-(SARCASTIC) That must have been so difficult for you. Should I call someone?,"[САРКАЗМ] Как же вам, должно быть, было тяжело. Позвать кого-нибудь?",ai,,F5B39E8442BADA314A5FDBAA7A60F721
-"(SOCIAL) Maybe they've just assumed you were having a day off. You wouldn't bother your favorite chef for a meal if you met them on the street, would you?","[ОБЩИТЕЛЬНОСТЬ] Может, они решили, что у вас выходной. Вы же не станете просить любимого повара приготовить вам обед, встретив его на улице, правда?",ai,,EB40AAB743B35C43CAB51FBE6CA80771
+"(INVESTIGATIVE) Maybe they think you and the bag are one and the same. Without it, maybe they didn't recognize you.","(ПЫТЛИВОСТЬ) Может, они считают, что вы и мешок — одно целое. Без него они вас, наверное, не узнали.",ai,,1914C1844749C04BB9325E9EDF2B15C4
+(SARCASTIC) That must have been so difficult for you. Should I call someone?,"(САРКАЗМ) Как же вам, должно быть, было тяжело. Позвать кого-нибудь?",ai,,F5B39E8442BADA314A5FDBAA7A60F721
+"(SOCIAL) Maybe they've just assumed you were having a day off. You wouldn't bother your favorite chef for a meal if you met them on the street, would you?","(ОБЩИТЕЛЬНОСТЬ) Может, они решили, что у вас выходной. Вы же не станете просить любимого повара приготовить вам обед, встретив его на улице, правда?",ai,,EB40AAB743B35C43CAB51FBE6CA80771
 "They were using you, man.","Они вас использовали, дружище.",ai,,2AEC604D46364C6A09FC6D9C3A46B40A
 Not yet. But that might be due to the cold. I think it might be that they can see my breath. Throws off the statue motif I'm aiming for.,"Пока нет. Но, возможно, дело в холоде. Думаю, они видят пар от моего дыхания. Это портит образ статуи, к которому я стремлюсь.",ai,,D473FBA14727C0114A58CF9D1C834266
 Try holding your breath?,Попробуйте задержать дыхание?,ai,,DAC81A9C4065BA71A0819F843F328CFD
@@ -252,7 +252,7 @@ I don't like confrontations ... [Leaves awkwardly],Я не люблю конфр
 I do. But it's sealed tight so as not to interfere with my little geezer gambit.,"Есть. Но он плотно закрыт, чтобы не мешать моему маленькому гусиному гамбиту.",ai,,83A1A2664B610E2618902AAC0ACC9744
 Makes sense. Got another question for you.,Понятно. У меня к вам ещё один вопрос.,ai,,DED682B94423FCAF7F4B7FA1D205F7A6
 Mind if I take some?,Можно мне немного взять?,ai,,DB9D4660469B08E35702B08661BF0E23
-"(INVESTIGATIVE) If you weren't intent on feeding them today, why did you even bring it?","[ПЫТЛИВОСТЬ] Если вы не собирались кормить их сегодня, зачем вообще его принесли?",ai,,A0B81A4047F698200C4DC4A636FE116A
+"(INVESTIGATIVE) If you weren't intent on feeding them today, why did you even bring it?","(ПЫТЛИВОСТЬ) Если вы не собирались кормить их сегодня, зачем вообще его принесли?",ai,,A0B81A4047F698200C4DC4A636FE116A
 Hmm. Fascinating.,Хм. Увлекательно.,ai,,FBF0BD234AF6F583665DA7ACF3A42AA5
 I have some more questions about you.,У меня есть ещё вопросы о вас.,ai,,5F2DB7D94D9753EABFD8E0A2979EFD06
 You know what fascinates me? You. Let's talk more about that.,"Знаете, что меня увлекает? Вы. Давайте поговорим об этом.",ai,,3A8D311C45EF064B4FE09EA04F378A5F
@@ -279,7 +279,7 @@ Me too. Let's talk a bit more about you.,Я тоже. Давайте ещё по
 Same. I might go looking for one right now. [Leave],"То же самое. Может, пойду поищу его прямо сейчас. [Уйти]",ai,,3F94687F478CA2660A4073B70C8B91E1
 "I’d like to think it would have been through my work: maybe some student I inspired, a theorem I helped solve. But that’s vanity. The universe is so vast and interconnected that my greatest impact more likely will be something far more inconsequential. Throwing a stone into the ocean as a child, perhaps.","Хотелось бы думать, что через работу: какой-нибудь студент, которого я вдохновил, теорема, которую я помог доказать. Но это тщеславие. Вселенная так огромна и взаимосвязана, что мой самый большой вклад, скорее всего, окажется чем-то куда более ничтожным. Например, камнем, брошенным ребёнком в океан.",ai,,988DAFD942BDD5C020AC8F97C8E30C50
 How would throwing a stone be your legacy?,Как брошенный камень может быть вашим наследием?,ai,,AE6099CD4910ECF6DB6B748FBBC0A86F
-(SARCASTIC) That'd have to be one big stone.,[САРКАЗМ] Это должен быть очень большой камень.,ai,,5322A5FB448CB4F08791F782E4298B14
+(SARCASTIC) That'd have to be one big stone.,(САРКАЗМ) Это должен быть очень большой камень.,ai,,5322A5FB448CB4F08791F782E4298B14
 Shall I explain? Or do you just want to make fun?,Объяснить? Или ты просто хочешь посмеяться?,ai,,C01D2CF64CCC01A372195EA83C846621
 Sorry. Please explain.,"Простите. Пожалуйста, объясните.",ai,,2C09839E46C5A7606639F8B413082169
 I want to make fun.,Хочу посмеяться.,ai,,829851E44C59A38C099F109F9594666C
@@ -289,7 +289,7 @@ I want to make fun.,Хочу посмеяться.,ai,,829851E44C59A38C099F109F9
 ...You're losing me.,...Я теряю нить.,ai,,E8D61C2948D28FE471DC8E8D248D8E28
 A picture of me? Why?,Моя фотография? Зачем?,ai,,5DB5DF3241C3B90C7E4BC3852A951702
 Why not?,Почему нет?,ok,,F1F54D094D9A4DBCCFB3ECAF70BEE07B
-"(SOCIAL) I'm need an interesting image for my final project, and you sir, definitely qualify.","[ОБЩИТЕЛЬНОСТЬ] Мне нужен интересный кадр для выпускного проекта, а вы, сэр, определённо подходите.",ai,,20FC9F174A5AD7E1A992F5994242027C
+"(SOCIAL) I'm need an interesting image for my final project, and you sir, definitely qualify.","(ОБЩИТЕЛЬНОСТЬ) Мне нужен интересный кадр для выпускного проекта, а вы, сэр, определённо подходите.",ai,,20FC9F174A5AD7E1A992F5994242027C
 "Nevermind, actually.","Ладно, неважно.",ai,,6F4392D3412E9F93C77AAC8209C01245
 That's fine. We should talk about something lighter then. Your choice.,Ничего. Тогда поговорим о чём-нибудь полегче. На твой выбор.,ai,,91A400BC452C22A7C84DC7B28957BF59
 Let's talk more about you.,Давайте больше о вас.,ai,,3A721E6F4EB64C0C2FCB108270C49EE6
@@ -302,7 +302,7 @@ I like that theory.,Мне нравится эта теория.,ai,,DCF4C8504B5
 "Absolutely. But of all the seemingly infinitesimal changes our existence will inflict upon this world, it seems equally far-fetched for our most impactful moment to also be the one that makes us the most proud. Or the most ashamed.","Безусловно. Но из всех, казалось бы, ничтожных перемен, которые наше существование внесёт в этот мир, столь же притянутым за уши выглядит то, что наш самый значимый поступок окажется и тем, которым мы гордимся больше всего. Или стыдимся.",ai,,9DF0D53F4EBE1CBF0FF5F3B1F52CD521
 "Cool. Let's get back to you, though.",Круто. Но вернёмся к вам.,ai,,EFDE7CA8432789DDA77AE180870E2A49
 "Yeah...let's talk about something else. Anything else, really.","Ага... давайте о другом. О чём угодно, правда.",ai,,21D5CACF4B78E6F1E6532E8A775E4959
-(SOCIAL) I think my most impactful gesture will be the picture I’m about to take of you.,"[ОБЩИТЕЛЬНОСТЬ] Думаю, мой самый значимый жест — снимок, который я сейчас сделаю с вас.",ai,,B4E963F04DC1644B98845BA870E4F5A9
+(SOCIAL) I think my most impactful gesture will be the picture I’m about to take of you.,"(ОБЩИТЕЛЬНОСТЬ) Думаю, мой самый значимый жест — снимок, который я сейчас сделаю с вас.",ai,,B4E963F04DC1644B98845BA870E4F5A9
 Hah! Fair enough.,Ха! Справедливо.,ai,,006367E3405B884F0E8E44BD0B3C9B27
 "Anyway, I'm off. Later, snow man. [Leave]","Ладно, я пошёл. Бывай, снеговик. [Уйти]",ai,,3DBC4F574DF5883FF21CE5BA852C37E2
 Mind if I ask you about something else?,Можно спросить вас о другом?,ai,,25970E084F8C121FFEA06C8706E7177C
@@ -377,7 +377,7 @@ Any idea who did it?,"Не знаете, кто это сделал?",ai,,009A7C
 "Thanks, anyway. [leave]",Всё равно спасибо. [Уйти],ai,,C9957B7144D1DE676B5EF28D2AC7F7D2
 "Hmm. Well, as much as I would like to help a wayward student with their final project, I think the best lesson I can give you right now is to refuse you what you want. I suggest you take that with you and reflect on it before you approach someone else like...that.","Хм. Что ж, как бы мне ни хотелось помочь заблудшему студенту с выпускным проектом, думаю, лучший урок, который я могу тебе дать сейчас, — отказать в желаемом. Советую унести его с собой и поразмыслить над ним, прежде чем подходить к кому-то ещё вот так...",ai,,437865934D5F87AE6F7B459A4D3CF16B
 But...I was being serious.,Но... я говорил серьёзно.,ai,,A1F24CD94793E6B9B0D867BE36AD6B41
-"(SOCIAL) Wait, hold on. I misread the situation, and tried making a joke. I'm sorry.",[ОБЩИТЕЛЬНОСТЬ] Подождите. Я неправильно понял ситуацию и попытался пошутить. Простите.,ai,,1D02F19E4D44FE2C6A58D091E2786DBA
+"(SOCIAL) Wait, hold on. I misread the situation, and tried making a joke. I'm sorry.",(ОБЩИТЕЛЬНОСТЬ) Подождите. Я неправильно понял ситуацию и попытался пошутить. Простите.,ai,,1D02F19E4D44FE2C6A58D091E2786DBA
 ...Understood. Sorry. [Leave],...Понял. Простите. [Уйти],ai,,38651585416D911F12007098CD5181DB
 "You're very kind to offer, but I'm quite alright. I'm cold, but at the same time, the snow is rather insulating. Keeps me warm. Of course, part of me is still fighting the temptation to brush it off. Really makes you cognisant of the moment.","Очень любезно с твоей стороны, но мне и так хорошо. Мне холодно, но в то же время снег неплохо изолирует. Греет. Конечно, часть меня всё ещё борется с желанием стряхнуть его. Это по-настоящему заставляет осознавать момент.",ai,,745BA5024C7D47ED2D2998A1B94E702E
 The moment looks uncomfortable.,Момент выглядит неудобным.,ai,,DF59CF2E4533148F215E7780B0B50482

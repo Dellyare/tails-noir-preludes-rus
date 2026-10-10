@@ -26,7 +26,7 @@ Just a hunch. Do you like it?,Просто догадка. Тебе нравит
 "Uh-huh. Stay cool, Wisconsin. I'll see you around.","Ага. Оставайся крутым, Висконсин. Увидимся.",ai,,3C4B79D04BDC142C37E941BBD1D93831
 "Of course you are, man.","Конечно, крутой, чувак.",ai,,303BB2934A09270AFE8D3A9DC3C48D71
 "No, you're not.","Нет, ты не крутой.",ai,,5A843B014E81192D5D82E8B1BE98143D
-"(SOCIAL) You just gotta get out more! I never see you at parties, dude.","[ОБЩИТЕЛЬНОСТЬ] Тебе просто надо почаще выбираться! Я тебя никогда не вижу на вечеринках, чувак.",ai,,B4F2226341535792F1476B85DBD266CB
+"(SOCIAL) You just gotta get out more! I never see you at parties, dude.","(ОБЩИТЕЛЬНОСТЬ) Тебе просто надо почаще выбираться! Я тебя никогда не вижу на вечеринках, чувак.",ai,,B4F2226341535792F1476B85DBD266CB
 I- Howard. You have no idea how much that means to me.,"Я... Говард. Ты даже не представляешь, как много это для меня значит.",ai,,166C881A48277E72AC154E97A32CCE55
 "Good for you, man. Good for you.","Рад за тебя, чувак. Рад за тебя.",ai,,873CD4CE40B6F66041BA139D02954294
 "I'm sure I don't. Anyway, see you later.","Уверен, что не представляю. Ладно, увидимся.",ai,,34F653BE4407702933E1079B3D5F4F33
@@ -69,7 +69,7 @@ It's hideous.,Она ужасна.,ai,,3523C8B64F7FE7E7CB297C9E8C15C015
 "I-I think it's nice, Howard.","М-мне кажется, она красивая, Говард.",ai,,719619E44CC83559B60B7DAACDCD4063
 "It's alright, I suppose.","Нормальная, наверное.",ai,,2FD6896E48B8455F30C28EA9E09B933E
 [Shrug],[Пожать плечами],ai,,0928AC144A227727DBF17A9CA12EAE64
-"(INVESTIGATIVE) Even nicer on a resume or in a headline. Do you know what I mean, Wisconsin?","[ПЫТЛИВОСТЬ] На резюме или в заголовке выглядит ещё красивее. Понимаешь, о чём я, Висконсин?",ai,,D622E2D541B1CE7812C075B650375D66
+"(INVESTIGATIVE) Even nicer on a resume or in a headline. Do you know what I mean, Wisconsin?","(ПЫТЛИВОСТЬ) На резюме или в заголовке выглядит ещё красивее. Понимаешь, о чём я, Висконсин?",ai,,D622E2D541B1CE7812C075B650375D66
 "Uh, I - I think so? Maybe? The, uh. I like the facilities. The toilets.","Э, я... кажется, да? Может быть? Мне, эм, нравятся удобства. Туалеты.",ai,,BB3B721E44CF0EDC0C68BDA9AF775E1B
 You know what? Forget it.,Знаешь что? Забудь.,ai,,4A5D11704CC7F8560AFB588081B817C9
 [Stare at him],[Уставиться на него],ai,,D61D340C4659B8E720E49BB2EBF5F769
@@ -83,7 +83,7 @@ Love a guy who stays on top of things.,"Обожаю парней, которы�
 "Don't you ever take time off, man?","Ты вообще никогда не отдыхаешь, чувак?",ai,,CC1D9BCA4A1CE95F6E74829ACDA2DA62
 "O-oh! Yeah, uh, sure! We could, um, like, organize sheets together.","О-о! Да, эм, конечно! Мы могли бы, ну, типа, вместе разобрать простыни.",ai,,70844AC04BD89A93FB522F81473598CF
 That sounds great. I'd love to.,Звучит здорово. С удовольствием.,ai,,2CBED3FC4E675214420D58BB38559338
-(SARCASTIC) That sounds great. I'd love to.,[САРКАЗМ] Звучит здорово. С удовольствием.,ai,,D01BA38E4F133E2300502DA6610C170C
+(SARCASTIC) That sounds great. I'd love to.,(САРКАЗМ) Звучит здорово. С удовольствием.,ai,,D01BA38E4F133E2300502DA6610C170C
 Sure. As long as we can roll around in them first.,Конечно. Если сначала мы в них поваляемся.,ai,,24324E10423D13CCBD25C985BF47CD0E
 "Sheets, huh?","Простыни, значит?",ai,,DABA5AC745D18520B13406BA2679E4DB
 "Oh, for sure. Being organized is super important. Do you, uh...do you like to take notes, Howie?","О, конечно. Организованность — это очень важно. А ты, эм... ты любишь делать заметки, Говчик?",ai,,7A0DB1A749E756B00C172394DA2A3439
@@ -198,7 +198,7 @@ I'm slowly dying inside.,Я медленно умираю внутри.,ai,,CAFD
 [Smile and nod politely],[Вежливо улыбнуться и кивнуть],ai,,352091504F8D9AD2BA83BFBBCC5980E4
 "Oh, phew. Thank you. That's a relief.",Фух. Спасибо. Камень с души.,ai,,D754F1A54C2030404E2EAEA9893A2992
 No problem.,Без проблем.,ok,,064222F54913E97BE89230BCF0030712
-(SARCASTIC) No problem.,[САРКАЗМ] Не за что.,ai,,4C9FA9224096C8986C406FAC6EE1AFA3
+(SARCASTIC) No problem.,(САРКАЗМ) Не за что.,ai,,4C9FA9224096C8986C406FAC6EE1AFA3
 Oh. I'm sorry to hear that.,О. Мне жаль это слышать.,ai,,1950DF4248DBB1EA5455849148E5517A
 "No, I'm sorry. I was just being dramatic.","Нет, это мне жаль. Я просто драматизировал.",ai,,D2F333574B74D8643AF77B9227EECAE8
 "Let's just move on from this, Wisconsin. Please.","Давай просто оставим это, Висконсин. Пожалуйста.",ai,,F807855944884EE4685407851AB7AE44
@@ -266,7 +266,7 @@ Uh-huh.,Ага.,ai,,9EADA9D141498DC7F76FBD9201D6EEE8
 Win...ter?,Зи...ма?,ai,,CC02D362496D5B8B03638B913096629D
 "I'm trying to flirt with you, Wisconsin.","Я пытаюсь флиртовать с тобой, Висконсин.",ai,,C852C9B144A726764E1B7D93592B13D0
 ...Nevermind.,...Неважно.,ai,,90C6301540F47393E1E3DAA9EB0B2A14
-(SARCASTIC) Yes. Winter. I'm looking forward to doing winter.,[САРКАЗМ] Да. Зима. Мне не терпится заняться зимой.,ai,,5F9DAB004B06B651876373A1D5DF8BAD
+(SARCASTIC) Yes. Winter. I'm looking forward to doing winter.,(САРКАЗМ) Да. Зима. Мне не терпится заняться зимой.,ai,,5F9DAB004B06B651876373A1D5DF8BAD
 "That sounds nice! Making snowmen, warming up by the bonfires - that sort of thing?","Звучит мило! Лепить снеговиков, греться у костров — что-то в этом роде?",ai,,097389694655AD542ACA7ABCB36C9E7D
 "No, I was being sarcastic.","Нет, я был саркастичен.",ai,,38B5A653475268C182655F971F60299B
 "Yeah, actually. Would you want to come along, sometime?",Вообще-то да. Хочешь как-нибудь пойти со мной?,ai,,822D64B548677B18E8EAA9AD975E0519
@@ -316,7 +316,7 @@ Yeah. Whatever.,Ага. Как скажешь.,ai,,6D496F6A48210F36850872A11FE2C
 "You too, Wis.","Ты тоже, Вис.",ai,,D381D03040583EF893E6FA84134A73F9
 "I can make you feel even better, Wisconsin the Sexy RA.","Я могу сделать так, что тебе будет ещё лучше, Висконсин — Сексуальный Комендант.",ai,,96FCE0A34097D935942E61B906D0622E
 "Oh, hah. Well, Howard, I like you too. I'd love to get to know you better. If that's alright.","О, хах. Ну, Говард, ты мне тоже нравишься. Мне бы хотелось узнать тебя получше. Если ты не против.",ai,,5D59C37A43AAD25787AD0ABA1FA5D3B3
-"(SARCASTIC) No, I'd hate it.","[САРКАЗМ] Нет, я бы ненавидел это.",ai,,FD1134854BC2A5B662C7C4A5C5F28332
+"(SARCASTIC) No, I'd hate it.","(САРКАЗМ) Нет, я бы ненавидел это.",ai,,FD1134854BC2A5B662C7C4A5C5F28332
 We'll see.,Посмотрим.,ok,,57A030F14A88EA5855D442AA4D0A7B61
 "Of course, Wisconsin.","Конечно, Висконсин.",ai,,318A04D346B3151CB1E79BA3B4BEB295
 "O-kay. Listen, Howard, I'm not exactly sure what the two of you are up to, but I think, uh, I'd like to stay out of it. Is that alright?","Лад-но. Слушай, Говард, я не совсем понимаю, что вы двое затеваете, но, э-э, мне, наверное, лучше держаться в стороне. Ничего?",ai,,722C0A9E4A9EC67B8D1EA6B541FE49D6
@@ -388,7 +388,7 @@ It's alright. Let's just call it a meeting.,Ладно. Давай просто 
 "You got it, Wis.","Принято, Вис.",ai,,4E00C95E4DB90C1EA11FDB852913B23B
 "It is! You can just kind of zone out of the sounds of the City, and melt away. Not, uh, literally, but like... mentally.","Да! Можно просто отключиться от звуков Города и раствориться. Ну, э-э, не буквально, а... мысленно.",ai,,F11885BC4FDF416A291F7999A23945C0
 "I'm glad you know how to relax, Wis.","Рад, что ты умеешь расслабляться, Вис.",ai,,0E9CFB3D4633D6C5DF099EA695A41C13
-"(SARCASTIC) Oh, I thought you actually turned into a puddle. My bad.","[САРКАЗМ] О, а я думал, ты правда превращаешься в лужицу. Моя ошибка.",ai,,2AA784604D97DA41877F53A9F6BCA7D3
+"(SARCASTIC) Oh, I thought you actually turned into a puddle. My bad.","(САРКАЗМ) О, а я думал, ты правда превращаешься в лужицу. Моя ошибка.",ai,,2AA784604D97DA41877F53A9F6BCA7D3
 "Y-you want to? I'd - yeah, that'd be awesome! I can bring juice boxes!","Т-ты хочешь? Я... да, это было бы здорово! Я могу взять пакетики с соком!",ai,,F9E76E6840F746D764B0119B13E276F2
 "In case we get...thirsty. Good idea, Wis.","На случай, если нам захочется... пить. Хорошая мысль, Вис.",ai,,B15CD4924E9215D27932D095CAA36261
 As long as you're there.,Лишь бы ты был рядом.,ai,,8E9153584F36203C9BBA438E39FECCCC
@@ -458,8 +458,8 @@ What can I say? I have a bit of a thing for pretentious weasels.,Что поде
 "What? Huh? I was just asking him for directions. ","Что? А? Я просто спрашивал у него дорогу. ",ai,,8CFCBB334354BF3688C33E9E1D922D34
 "Oh, hey Howard! I, uh, heard you and Larry, um, jamming out to some tunes in your dorm.","О, привет, Говард! Я, э-э, слышал, как вы с Ларри, эм, зажигаете под музыку у себя в комнате.",ai,,8FB149F9430BAC727BE65F9225B3C9DD
 "Yeah, we're just listening to some records.","Да, просто слушаем пластинки.",ai,,723459654F7425C5C24DDFAB7F82999D
-(SOCIAL) Yeah! Do you want to join us?,[ОБЩИТЕЛЬНОСТЬ] Ага! Хочешь присоединиться?,ai,,D025AE2C42EC00F446A92CBC01132275
-"(INVESTIGATIVE) Are we being too loud, Wisconsin?","[ПЫТЛИВОСТЬ] Мы слишком шумим, Висконсин?",ai,,D838AAC8433228194EBA559638E2E66C
+(SOCIAL) Yeah! Do you want to join us?,(ОБЩИТЕЛЬНОСТЬ) Ага! Хочешь присоединиться?,ai,,D025AE2C42EC00F446A92CBC01132275
+"(INVESTIGATIVE) Are we being too loud, Wisconsin?","(ПЫТЛИВОСТЬ) Мы слишком шумим, Висконсин?",ai,,D838AAC8433228194EBA559638E2E66C
 "Oh hey, Howie! Looks like someone's got a, heh, bit of a crush on Freja...","О, привет, Говчик! Похоже, у кого-то, хех, небольшая влюблённость во Фрею...",ai,,2CA451BE45EE23B2B518978AC0D40D34
 "Mind your own business, Wisconsin.","Не лезь не в своё дело, Висконсин.",ai,,CEFE430248C7C765704A5297F9253D0E
 It was for a bet. Larry wanted to test how good I am at flirting.,"Это было на спор. Ларри хотел проверить, насколько я хорош во флирте.",ai,,4F4E04ED44056C11EDF641923258D8D3
@@ -500,7 +500,7 @@ Badass grandma.,Крутая бабуля.,ai,,30CBED894692C305F9B5508E1AD4A7A7
 "...No, Wisconsin, I meant you.","...Нет, Висконсин, я имел в виду тебя.",ai,,304E60A54D87C217C246F9B128378FA9
 "The cardigan? What, uh, how do you mean?","Кардиган? Что, э-э, в каком смысле?",ai,,3A7C08B748CBB7E83A62AE9DDAD2287E
 "Come on, Wisconsin. I'm trying to flirt.","Да брось, Висконсин. Я пытаюсь флиртовать.",ai,,431A76AB4EC7C93A2E3D839D87371AE6
-"(SOCIAL) I'm saying you're cute, Wisconsin.","[ОБЩИТЕЛЬНОСТЬ] Я говорю, что ты милый, Висконсин.",ai,,2DF91DE9477C0351B02DC79677FC0DB6
+"(SOCIAL) I'm saying you're cute, Wisconsin.","(ОБЩИТЕЛЬНОСТЬ) Я говорю, что ты милый, Висконсин.",ai,,2DF91DE9477C0351B02DC79677FC0DB6
 "It's, like, the same color. Or something.",Он вроде того же цвета. Или что-то такое.,ai,,AA59935542D673158C799BABE7D3E611
 "I love her. I know that's not cool to say, but I don't care. Just don't tell anyone. You won't tell anyone, will you?","Я её обожаю. Знаю, так говорить не круто, но мне всё равно. Только никому не рассказывай. Ты же никому не расскажешь?",ai,,64ACB2944668B06E43CFFA9C403B435C
 "Of course not, Wis.","Конечно нет, Вис.",ai,,806ECF1740F45F9B9F7E22A8AA8D8468
@@ -519,13 +519,13 @@ Eh.. uh... ah... ehuu.,Э-э... а-а... э-хуу.,ai,,7F1E02F94C42828D17BE6281
 "Just hanging out with you, man. I like you.","Просто тусуюсь с тобой, чувак. Ты мне нравишься.",ai,,CC937E894496407405C762B885CF487E
 [Be cool and shrug],[Невозмутимо пожать плечами],ai,,7DD1CA91485E4DB05B0CF0A6F533E45A
 Oh no - was that sarcasm? Please don't use sarcasm against me. I never pick up on it. Ever.,"О нет — это был сарказм? Пожалуйста, не используй сарказм против меня. Я его никогда не улавливаю. Никогда.",ai,,FEE6DD07469B832637991FADA45314D0
-(SARCASTIC) Of course. I'll never do it. Ever.,[САРКАЗМ] Конечно. Я никогда так не поступлю. Никогда.,ai,,A9462DDC4E322761E4DD26A910A34405
+(SARCASTIC) Of course. I'll never do it. Ever.,(САРКАЗМ) Конечно. Я никогда так не поступлю. Никогда.,ai,,A9462DDC4E322761E4DD26A910A34405
 "You got it, Wis.","Принято, Вис.",ai,,3B385456454EFE1A57960BB01E9F4460
 I'll...consider it.,Я... подумаю.,ai,,A4CC87BE417EB9AA121B388934BEB6B3
 "Can I, like, teach it to you? I feel like you're missing out.","Можно я тебя научу? Мне кажется, ты многое теряешь.",ai,,7A7AAA3F4DA56380A0273FADE4AB9394
 "Yeah? You mean that? I was just thinking the same thing, actually. I, uh, I think you're a pretty cool guy too, Howard.","Да? Правда? Я как раз думал о том же. Я, э-э, думаю, ты тоже классный парень, Говард.",ai,,EDBD35684A976A62D9F78080C3DA75C3
 "We should hang out more, man.","Нам надо чаще тусить, чувак.",ai,,D4FD13E14920275275121283FE465319
-(INVESTIGATIVE) I know. I could tell.,[ПЫТЛИВОСТЬ] Знаю. Я заметил.,ai,,CD4D91734E6EB8D4AF4221A673CFE7E0
+(INVESTIGATIVE) I know. I could tell.,(ПЫТЛИВОСТЬ) Знаю. Я заметил.,ai,,CD4D91734E6EB8D4AF4221A673CFE7E0
 "Good. We're in agreement, then.","Хорошо. Значит, мы договорились.",ai,,67B06EC840EC72CF3EAEABA4CDEF6FF9
 H-howard? I asked you how you're doing?,"Г-говард? Я спросил, как у тебя дела?",ai,,A4CD079D4A81FB1E1134E185518838BB
 [Attempt to remain cool and continue saying nothing],[Попытаться сохранить невозмутимость и продолжать молчать],ai,,5B70B5684E931A790410A1B89BD36FB0
@@ -604,7 +604,7 @@ Thank you! Don't worry about it! But thank you!,Спасибо! Не переж�
 "Sorry, not right now! I'll see you later, okay?","Прости, сейчас не могу! Увидимся позже, ладно?",ai,,4503D7564A5BBCF9043FEEA6A936FE86
 "You know, just looking after the dorm! Making sure you kids stay out of trouble! Hah-hah! Hah. I, uh, don't know why I said that. I'm the same age as you. Please don't think I'm old.","Да просто присматриваю за общагой! Слежу, чтобы вы, ребятня, не попадали в неприятности! Хах-хах! Хах. Я, э-э, не знаю, зачем это сказал. Я ведь твоего возраста. Пожалуйста, не думай, что я старый.",ai,,3557D6524132A2603B539F8223F6846E
 "You're adorable, Wisconsin.","Ты очаровашка, Висконсин.",ai,,CE5F2853450338E197C583B1C0D622FD
-"(SARCASTIC) You're not? I figured you were a teacher, or something.","[САРКАЗМ] Нет? А я думал, ты преподаватель или вроде того.",ai,,E1EE0BD341BBA74DE6E98983FA4805EF
+"(SARCASTIC) You're not? I figured you were a teacher, or something.","(САРКАЗМ) Нет? А я думал, ты преподаватель или вроде того.",ai,,E1EE0BD341BBA74DE6E98983FA4805EF
 "I'm just messing with you, man.","Шучу, чувак.",ai,,8CA9CFDF409FC71037EE22815E9CBEB6
 "Really? Yeah, of course! That's what I'm here for! What's on your mind?","Правда? Да, конечно! Для этого я здесь! Что у тебя на уме?",ai,,817803874989164F6117189397C34C4F
 How many students are there?,Сколько здесь студентов?,ai,,C1A90C6A44F2D4B4E7D959802DFCFF17
@@ -625,29 +625,29 @@ How many students are there?,Сколько здесь студентов?,ai,,4
 "A few hundred, across all faculties. Best higher education in the City!",Несколько сотен на всех факультетах. Лучшее высшее образование в Городе!,ai,,096EF0C04CC74A7476AC97ABC914B7D6
 Isn't this the only higher education in the city?,Разве это не единственное высшее образование в Городе?,ai,,B3DBC33840216B77913469BC1B23023E
 So what are you studying?,А что изучаешь ты?,ai,,A9E509B347A08657A91C04A223E27985
-"(INVESTIGATIVE) ...You study sculpture, right?","[ПЫТЛИВОСТЬ] ...Ты ведь учишься на скульптора, да?",ai,,33E90BEF431B60117638219A678D2EA9
+"(INVESTIGATIVE) ...You study sculpture, right?","(ПЫТЛИВОСТЬ) ...Ты ведь учишься на скульптора, да?",ai,,33E90BEF431B60117638219A678D2EA9
 "Whatever you say, man.","Как скажешь, чувак.",ai,,9073553845F97F23D7D0C79C362CF0CA
 "Well, I mean. Maybe. But there's plenty of private tutors out there, too - not everyone comes here, you know.","Ну, в смысле. Может быть. Но полно частных репетиторов — не все ходят сюда, знаешь ли.",ai,,B7227FC04B5BCA2AAEDA99A107996509
 "You'd think the City would spend more money on it, though.","Можно было бы подумать, что Город тратит на это больше денег.",ai,,588B68794FBD5E439987DE8806604991
 "Yeah, I don't see many rich kids around.","Да, богатых детишек я тут не вижу.",ai,,2AB189D24CC2282814DFBE9B142AC902
 To the university? Or the Arts faculty?,На университет? Или на Факультет искусств?,ai,,216CF311480D66A08D9BE8B756795F53
 "I- me? I study sculpture, Howard. Like, we make sculptures. And also read about how to make sculptures.","Я? Я изучаю скульптуру, Говард. Ну, мы делаем скульптуры. А ещё читаем о том, как делать скульптуры.",ai,,BE2249664A38CECE681B6082C04B3BBB
-"(SARCASTIC) Ah, yes. I can tell from your strong hands.","[САРКАЗМ] А, ну да. Заметно по твоим сильным рукам.",ai,,F150230D493D56C9C66842899E8B3604
+"(SARCASTIC) Ah, yes. I can tell from your strong hands.","(САРКАЗМ) А, ну да. Заметно по твоим сильным рукам.",ai,,F150230D493D56C9C66842899E8B3604
 That's it?,Это всё?,ai,,25BB828D4695D4B12771DCAF25949CB9
 Do you like it?,Тебе нравится?,ai,,F0AC1A554870552131A6CBB6165DDB42
 "Rich kids in the dorms? Well no, Howard, why would they be staying here?","Богатые дети в общежитии? Ну нет, Говард, с чего бы им здесь жить?",ai,,60AE8D194C953947183A5DB6C89D5531
 "Fair enough, Wisconsin. Fair enough.","Справедливо, Висконсин. Справедливо.",ai,,CBC4BEC84A56B63A391D4A95D148A037
-(SARCASTIC) For the picturesque flakes of paint coming off the ceiling. It's very bohemian.,"[САРКАЗМ] Ради живописных хлопьев краски, отваливающихся с потолка. Очень по-богемному.",ai,,1EFED45F43A8CDA8344A7CBB3505105D
-"(SOCIAL) To make friends, Wisconsin.","[ОБЩИТЕЛЬНОСТЬ] Чтобы заводить друзей, Висконсин.",ai,,F9B3BA7740A03F8F16D7DA995A401E03
+(SARCASTIC) For the picturesque flakes of paint coming off the ceiling. It's very bohemian.,"(САРКАЗМ) Ради живописных хлопьев краски, отваливающихся с потолка. Очень по-богемному.",ai,,1EFED45F43A8CDA8344A7CBB3505105D
+"(SOCIAL) To make friends, Wisconsin.","(ОБЩИТЕЛЬНОСТЬ) Чтобы заводить друзей, Висконсин.",ai,,F9B3BA7740A03F8F16D7DA995A401E03
 "I dunno. The uni experience, I guess.","Не знаю. Университетский опыт, наверное.",ai,,7701EAA045C83EC4F6C778B8C755B579
 "Both. But even more so, uh, our faculty. The art programmes are usually at the bottom of the list.","И то, и другое. Но наш факультет ещё больше. Художественные программы обычно в самом низу списка.",ai,,95D1D9C54AF8E1CE9A7ECE890AFFB229
 I get the picture.,Понятно.,ai,,19C8156445281F886DE7E0B473CF44B4
-(SARCASTIC) Obviously.,[САРКАЗМ] Очевидно.,ai,,F275968A4F3E789B40BFC3B11AE560DD
+(SARCASTIC) Obviously.,(САРКАЗМ) Очевидно.,ai,,F275968A4F3E789B40BFC3B11AE560DD
 Which list?,Какого списка?,ai,,B3BE9C85437A7189559E018A5F6EC973
 "Oh, they do. We just, uh, we don't see much of it in this building.","О, тратит. Просто в этом здании мы этого почти не видим.",ai,,EBABD151416A1D2A37674994224034C6
 Figures.,Так и думал.,ai,,BEFDF44F432C7EAA83CBC8BCB02D4312
-"(SARCASTIC) No, we do. Our dorm room has a window.","[САРКАЗМ] Нет, видим. В нашей комнате есть окно.",ai,,56ED3DED4E2AF70D9D3C09A020769C76
-"(SOCIAL) All the more reason to go out and see people, I guess.","[ОБЩИТЕЛЬНОСТЬ] Тем больше причин выйти и пообщаться с людьми, наверное.",ai,,BC8FBA4C4A1A6E59C73BDD87BA383AE0
+"(SARCASTIC) No, we do. Our dorm room has a window.","(САРКАЗМ) Нет, видим. В нашей комнате есть окно.",ai,,56ED3DED4E2AF70D9D3C09A020769C76
+"(SOCIAL) All the more reason to go out and see people, I guess.","(ОБЩИТЕЛЬНОСТЬ) Тем больше причин выйти и пообщаться с людьми, наверное.",ai,,BC8FBA4C4A1A6E59C73BDD87BA383AE0
 "Well, uh - all of them.","Ну, э-э — всех.",ai,,10577138444F4C5890AD91A033BA196D
 Got it.,Понял.,ai,,EF80E0DA48E48EC2BDF595981EEF419D
 "My- Are you serious? Is it noticeable? I've been working out! I've got two of those little squeezy things! I squeeze them! Gosh, Howard, can you really tell?","Я... Ты серьёзно? Это заметно? Я же качаюсь! У меня есть две такие маленькие штуки для сжимания! Я их сжимаю! Ого, Говард, правда заметно?",ai,,CEAAF3F64897AB4AB20D21B2262F859B
