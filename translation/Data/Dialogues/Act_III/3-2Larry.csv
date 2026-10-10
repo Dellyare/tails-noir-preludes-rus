@@ -8,7 +8,7 @@
 Not yet. I'm savouring the moment.,Пока нет. Я наслаждаюсь моментом.,ai,,73A047D643618587C213E289EC21F2B2
 [Take a picture of Grandfather Steam],[Сфотографировать Дедушку Пара],ai,,188A447E4DDFE618336CB9AA0911A829
 "Really. Can we get on with this, man? What are we doing out here again?","Серьёзно. Может, уже закончим, чувак? Что мы тут вообще делаем, напомни?",ai,,FD1F99AE4D344A22AB57C5BF125FC681
-(SOCIAL) Documenting people. Putting our fingers on the pulse of Gastown.,[ОБЩИТЕЛЬНОСТЬ] Документируем людей. Щупаем пульс Гастауна.,ai,,9C3F98B344996511183399BCF421FF81
+(SOCIAL) Documenting people. Putting our fingers on the pulse of Gastown.,[ОБЩИТЕЛЬНОСТЬ] Документируем людей. Щупаем пульс Газтауна.,ai,,9C3F98B344996511183399BCF421FF81
 Photography.,Фотографируем.,ai,,878EEC6A44AA6F0833171C832C1ED222
 "...Which means, more exactly?","...Что, если точнее, значит?",ai,,A818DC494C7BF70090344E888985E718
 "Talking to people. Seeing them, hearing them. Capturing their stories.","Разговариваем с людьми. Видим их, слышим их. Ловим их истории.",ai,,8E7815B0469458B39F0F148A3F7C8ECB
@@ -23,12 +23,12 @@ Photography. Taking pictures.,Фотография. Снимаем.,ai,,20707922
 Howard. It's too cold for metaphors.,Говард. Для метафор слишком холодно.,ai,,8E54454349431593AA09189D80DBF1C3
 ...We're taking pictures of them.,...Мы фотографируем их.,ai,,F58ACF144A3423923AF82EB5273E59EA
 "Here? Just photographing people on the street? What's the plan, exactly?","Здесь? Просто снимать людей на улице? Какой план-то, конкретно?",ai,,CE5BEB1E4FAF7CF2AA40BE8944C15DC9
-(INVESTIGATIVE) I want to show off the real Gastown. Not the image they're trying to portray.,"[ПЫТЛИВОСТЬ] Я хочу показать настоящий Гастаун. А не тот образ, который им хочется преподнести.",ai,,9915395746713889990594B746B7CACB
+(INVESTIGATIVE) I want to show off the real Gastown. Not the image they're trying to portray.,"[ПЫТЛИВОСТЬ] Я хочу показать настоящий Газтаун. А не тот образ, который им хочется преподнести.",ai,,9915395746713889990594B746B7CACB
 (SARCASTIC) To not pay anyone to model for me.,[САРКАЗМ] Чтобы не платить никому за позирование.,ai,,BE9E970A40F515141FF6E7A609E1F567
 "(SOCIAL) I don't want to do a callout for people. I want to find them, learn their story, then take their picture.","[ОБЩИТЕЛЬНОСТЬ] Я не хочу давать объявление, чтобы люди сами откликались. Я хочу найти их, узнать их историю, а потом сделать снимок.",ai,,885FE4C0403EF066A912EAB6987B5C34
 "Grandfather Steam? Sure. That's it, though? Just one snap and we're gone?",Дедушка Пар? Ладно. И это всё? Один снимок — и по домам?,ai,,9CEF6A7C47A80B136101FCBEEB442AC7
 "(SARCASTIC) Yeah. You don't think I'm being too ambitious, do you?","[САРКАЗМ] Ага. Думаешь, я слишком много на себя беру?",ai,,DCE6561548FEA07AB7B6C384A58014AA
-"(INVESTIGATIVE) No, I think we need more than that. Some surrounding shots to build the mood. Show off Gastown for what it really is.","[ПЫТЛИВОСТЬ] Нет, думаю, нам нужно больше. Несколько фоновых кадров, чтобы создать настроение. Показать Гастаун таким, какой он есть на самом деле.",ai,,2B6ECDFC413F39DCD5D5EA953B0BB7F5
+"(INVESTIGATIVE) No, I think we need more than that. Some surrounding shots to build the mood. Show off Gastown for what it really is.","[ПЫТЛИВОСТЬ] Нет, думаю, нам нужно больше. Несколько фоновых кадров, чтобы создать настроение. Показать Газтаун таким, какой он есть на самом деле.",ai,,2B6ECDFC413F39DCD5D5EA953B0BB7F5
 "(SOCIAL) Well, since we're here, let's look around. Talk to people.","[ОБЩИТЕЛЬНОСТЬ] Раз уж мы здесь, давай осмотримся. Поговорим с людьми.",ai,,6E2D7AE44516778D5C66778F25A05DB9
 "...Listen, you're using that picture. We worked too hard for you not to.","...Слушай, ты используешь этот снимок. Мы слишком много над ним пахали, чтобы ты его не использовал.",ai,,1759FE1142CB107D15AB9EB759E4F220
 We'll see.,Посмотрим.,ok,,5DDACBCC4687557109A9E6AB812FF45E
@@ -52,7 +52,7 @@ What can I say? I am sustained by the suffering of others.,Что тут ска�
 Sure. Anything else we're doing? Landscapes? Lights? Cars? Just people.,Ясно. Что-нибудь ещё? Пейзажи? Огни? Машины? Или только люди?,ai,,E1000E0A4F0E5A33E3DC94901814E221
 "I want to take a picture of Grandfather Steam, too. For the cover.",Я хочу ещё сфотографировать Дедушку Пара. Для обложки.,ai,,16E43B7141779C4F3C411C8C00B5B8CA
 "My professor told me to take a picture of the clock here, so I guess we're doing that, too.","Мой профессор велел сфотографировать здешние часы, так что, видимо, этим мы тоже займёмся.",ai,,A2A9408540E8FAA4C2A1239AC3CDD932
-"I don't know, man. I'm not very surprised. Old clock like that seems like an easy target for that kind of fun. Besides, those guys stick out in Gastown even more than we do.","Не знаю, чувак. Я не особо удивлён. Старые часы — лёгкая цель для такого рода забав. К тому же эти ребята выделяются в Гастауне ещё сильнее, чем мы.",ai,,E66C9B7F428FD09E29FB269882233920
+"I don't know, man. I'm not very surprised. Old clock like that seems like an easy target for that kind of fun. Besides, those guys stick out in Gastown even more than we do.","Не знаю, чувак. Я не особо удивлён. Старые часы — лёгкая цель для такого рода забав. К тому же эти ребята выделяются в Газтауне ещё сильнее, чем мы.",ai,,E66C9B7F428FD09E29FB269882233920
 "Yeah, it's whatever.","Ага, ладно, пофиг.",ai,,05EF13BD463DFFD55D84EAA7373918D4
 The only cool thing in my book is following the rules.,"Единственное, что для меня круто, — соблюдать правила.",ai,,4320FE5E480B936F5E7CA38855AD4C24
 Just some harmless fun. I thought it was hilarious.,"Просто безобидное веселье. По-моему, это было уморительно.",ai,,0E2E65CF42494BF8939F20BEF1832F64
@@ -576,7 +576,7 @@ Just trying to figure out what to do next. Ideas?,"Пытаюсь понять, 
 Just...there's something we need to talk about.,Просто... нам нужно кое о чём поговорить.,ai,,D959E24D434BE1FAAFA80C8A205EAC1C
 Just that we got to keep looking. Let's go.,Просто нам надо продолжать искать. Пошли.,ai,,EDEBCB334610F437FD365DB90A925B07
 "Me? Yeah, all good. Something on your mind?","Я? Ага, всё отлично. А у тебя что-то на уме?",ai,,0849890A4AA99C03638598A126D6FEC4
-How do you feel about Gastown?,Что ты думаешь о Гастауне?,ai,,DB8DA9254F909B55EA88D1875A39FBF0
+How do you feel about Gastown?,Что ты думаешь о Газтауне?,ai,,DB8DA9254F909B55EA88D1875A39FBF0
 Still cold? Want to go stand by the fire?,Всё ещё холодно? Хочешь постоять у огня?,ai,,E17893C44DE4B69FE9B01CAC8B9CCD2D
 Do you think this whole idea is any good?,"Как думаешь, эта затея вообще хороша?",ai,,61D311774E29C0284C92BBB15A5D7BA6
 Nah. Let's go.,Не. Пошли.,ai,,64C4424B4D207DFDE936288C8823F0BF
@@ -610,7 +610,7 @@ Can I take a picture of you and just call it a day?,Можно я просто �
 Anything I can do to help?,Могу я чем-то помочь?,ai,,7CEDC2FE45B333C32FD34A8A315A10BA
 Do you feel like finishing it?,Тебе хочется его закончить?,ai,,EEDB0E794788EC89EBECFAB33D3A2692
 Yeah?,Вот оно что.,ok,,400F28F34C4FB529EE314AB997F30439
-How do you feel about Gastown?,Что ты думаешь о Гастауне?,ai,,D19F5225431EB6731166078824B74D9C
+How do you feel about Gastown?,Что ты думаешь о Газтауне?,ai,,D19F5225431EB6731166078824B74D9C
 "Be honest, man. Is this a good idea for a final project?","Скажи честно, чувак. Это хорошая идея для выпускного проекта?",ai,,D4F6DC294D2B4C1F49B3EAB7B2735A86
 Nevermind. Let's get going.,Забудь. Пошли.,ai,,6E6E496549836E8BDF286B980B6B289E
 What about your final project? How's that going?,А как твой выпускной проект? Как он продвигается?,ai,,173EE45B4AF037570A7D3FADAEA5AC2F
@@ -843,9 +843,9 @@ Aw. Should I get you a blanket? Do you want my cap?,Ой. Принести те�
 "Really? I thought you were tough, Larry.","Серьёзно? А я думал, ты крепкий, Ларри.",ai,,A495216A4083705C24F9CD92969A8D1F
 "We'll head back to the dorm in a minute, man. Don't worry.","Мы скоро вернёмся в общагу, чувак. Не волнуйся.",ai,,7BBA99CE427DCDA3BCC2ABA4F71867F2
 "And what exactly are we doing before that, again?","А чем именно мы занимаемся до этого, напомни?",ai,,1DED7ADD4DAAF64E720A589E806B2454
-(SOCIAL) Documenting people. Putting our fingers on the pulse of Gastown.,[ОБЩИТЕЛЬНОСТЬ] Документируем людей. Щупаем пульс Гастауна.,ai,,F227D2694998FF21757126870AE25ADE
+(SOCIAL) Documenting people. Putting our fingers on the pulse of Gastown.,[ОБЩИТЕЛЬНОСТЬ] Документируем людей. Щупаем пульс Газтауна.,ai,,F227D2694998FF21757126870AE25ADE
 Taking pictures.,Фотографируем.,ai,,FAE4BE344BF22C28DFF01EAB3FE10C2F
 [Tap your camera],[Постучать по камере],ai,,E1EED1494AD83AF55EE184B54A64A4F7
 "I'd rather get inside. What are we doing here, again?","Я бы лучше зашёл внутрь. Что мы тут делаем, напомни?",ai,,8FA8AF0045614D3677066CA14B6250C0
-(SOCIAL) Documenting people. Putting our fingers on the pulse of Gastown.,[ОБЩИТЕЛЬНОСТЬ] Документируем людей. Щупаем пульс Гастауна.,ai,,8E327AA944432E53CB5E28A132429CA5
+(SOCIAL) Documenting people. Putting our fingers on the pulse of Gastown.,[ОБЩИТЕЛЬНОСТЬ] Документируем людей. Щупаем пульс Газтауна.,ai,,8E327AA944432E53CB5E28A132429CA5
 Taking pictures.,Фотографируем.,ai,,F506903E4019677381FEFDAE3CFD2BCD
