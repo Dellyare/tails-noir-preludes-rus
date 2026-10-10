@@ -1,531 +1,531 @@
 ﻿source,translation,status,namespace,key
-You decided to tell the visitor that you and Jorge were indispensable experts with the Artifact.,,,,A04A8E6B4ABBA35A934EF687B25FACA5
-You decided to tell the visitor that you and Jorge were indispensable experts with the Artifact.,,,,01414A2441E374E14AA7F6A8DF49CC55
-You decided to try convincing the visitor that the Artifact was too dangerous.,,,,E310EBDB4CC7EC14FCFC01BF81BDA52E
-"You changed your mind, deciding to tell the visitor the Artifact was extremely dangerous.",,,,35813DB84357813FA932E48FCCE0F4C1
-"You changed your mind, deciding to tell the visitor the Artifact had died.",,,,30C097C74CDACF49F8D566B24D4AEF0E
-"You changed your mind, deciding to tell the visitor that you and Jorge were indispensable.",,,,5E1C8800488947880CEA30A83E1F796D
-Next,,,,97E11232462314013414B8A68E6EEFA4
+You decided to tell the visitor that you and Jorge were indispensable experts with the Artifact.,"Ты решил сказать Гостю, что вы с Джорджем — незаменимые эксперты по Артефакту.",ai,,A04A8E6B4ABBA35A934EF687B25FACA5
+You decided to tell the visitor that you and Jorge were indispensable experts with the Artifact.,"Ты решил сказать Гостю, что вы с Джорджем — незаменимые эксперты по Артефакту.",ai,,01414A2441E374E14AA7F6A8DF49CC55
+You decided to try convincing the visitor that the Artifact was too dangerous.,"Ты решил попытаться убедить Гостя, что Артефакт слишком опасен.",ai,,E310EBDB4CC7EC14FCFC01BF81BDA52E
+"You changed your mind, deciding to tell the visitor the Artifact was extremely dangerous.","Ты передумал и решил сказать Гостю, что Артефакт крайне опасен.",ai,,35813DB84357813FA932E48FCCE0F4C1
+"You changed your mind, deciding to tell the visitor the Artifact had died.","Ты передумал и решил сказать Гостю, что Артефакт умер.",ai,,30C097C74CDACF49F8D566B24D4AEF0E
+"You changed your mind, deciding to tell the visitor that you and Jorge were indispensable.","Ты передумал и решил сказать Гостю, что вы с Джорджем незаменимы.",ai,,5E1C8800488947880CEA30A83E1F796D
+Next,Далее,ai,,97E11232462314013414B8A68E6EEFA4
 ...,,,,329ACA974C7482A1A50C15A2DD4F1D65
-"We'll probably get a raise, right?",,,,A33CF9BF41156196F7FF5BBB2E80A0C1
-It's going to be so nice finally having a home-cooked meal. Fresh vegetables. Home-made sauce...,,,,E07A080B420F59DCA757EEB5C9C6C243
-We're going to be on a whole new level once we come back. We'll never have to worry about funding again.,,,,41A4E69548F63644D11CAD972C5DFC10
+"We'll probably get a raise, right?","Нам, наверное, повысят зарплату, да?",ai,,A33CF9BF41156196F7FF5BBB2E80A0C1
+It's going to be so nice finally having a home-cooked meal. Fresh vegetables. Home-made sauce...,Как же будет приятно наконец поесть домашней еды. Свежие овощи. Домашний соус...,ai,,E07A080B420F59DCA757EEB5C9C6C243
+We're going to be on a whole new level once we come back. We'll never have to worry about funding again.,"Когда вернёмся, мы выйдем на совершенно новый уровень. О финансировании можно будет больше не беспокоиться.",ai,,41A4E69548F63644D11CAD972C5DFC10
 I don't know.,Я не знаю.,ok,,2AB3C6A34F6A0D4E1AB6E6B6B64CF3D6
-"""Jorgeli"". Maybe that's what we'll call it. ""A Jorgelian Life form.""",,,,30EFDFA6495DCC6124A30C9FD9880C2E
-Anything you want to do out here before they bring us back?,,,,C426CBD14B479FE1F2BD9BA48EE7244A
-"It'll be great to see your kids again, huh?",,,,82D0AFD34974D3F543FC54AA9C003365
-Alright. Go get everything in order. I'll be here keeping the fire going if you need me.,,,,A20B58B4436E71BF2E8E9296BE29C7B2
-"Will do, thanks Jorge.",,,,140BB4FD46F262EEB468B6B181A63486
-Spoken like a true scientist. Always a bigger discovery to be found. A way to remedy what feels like an impossible situation.,,,,938B192746F9204CF3B4C8AA50D4856A
-What are you driving at?,,,,D865CAB744BD3A009DEAB1A94EB953C3
-"Anyway, what are you going to miss most?",,,,8582B3764DEABD853D488DB50E43B34C
-So you're saying there's still hope?,,,,3FB968CD46BE7E16DE3AB886E11A9491
+"""Jorgeli"". Maybe that's what we'll call it. ""A Jorgelian Life form.""","«Джорджели». Может, так и назовём. «Джорджелианская форма жизни».",ai,,30EFDFA6495DCC6124A30C9FD9880C2E
+Anything you want to do out here before they bring us back?,"Хочешь что-нибудь успеть здесь, пока за нами не приехали?",ai,,C426CBD14B479FE1F2BD9BA48EE7244A
+"It'll be great to see your kids again, huh?","Здорово будет снова увидеть твоих ребят, да?",ai,,82D0AFD34974D3F543FC54AA9C003365
+Alright. Go get everything in order. I'll be here keeping the fire going if you need me.,"Ладно. Иди приведи всё в порядок. Я пока посижу тут, поддержу огонь, если что.",ai,,A20B58B4436E71BF2E8E9296BE29C7B2
+"Will do, thanks Jorge.","Хорошо, спасибо, Джордж.",ai,,140BB4FD46F262EEB468B6B181A63486
+Spoken like a true scientist. Always a bigger discovery to be found. A way to remedy what feels like an impossible situation.,"Слова настоящего учёного. Всегда есть открытие покрупнее. Способ исправить то, что кажется безвыходным.",ai,,938B192746F9204CF3B4C8AA50D4856A
+What are you driving at?,К чему ты клонишь?,ai,,D865CAB744BD3A009DEAB1A94EB953C3
+"Anyway, what are you going to miss most?","Ладно, а по чему ты будешь скучать больше всего?",ai,,8582B3764DEABD853D488DB50E43B34C
+So you're saying there's still hope?,То есть надежда всё-таки есть?,ai,,3FB968CD46BE7E16DE3AB886E11A9491
 Yes.,Да.,ok,,25933F514FE9774BD3A7FCBEBF4289DD
-But a chance at despair as well.,,,,1D37D8194AE56676A77966AF7786B861
-Touché.,,,,79A28BAC4C7B7DE01283E28D8190C3B3
-"What are you going to miss most, Jorge?",,,,0A4587304009CA30618270AEAE52C199
-"I'd...I'd like a few minutes to gather my thoughts. Besides, someone needs to make sure the fire goes out.",,,,FA1E43F442078064D40BB38B3362DAE7
+But a chance at despair as well.,Но и шанс впасть в отчаяние — тоже.,ai,,1D37D8194AE56676A77966AF7786B861
+Touché.,Туше.,ai,,79A28BAC4C7B7DE01283E28D8190C3B3
+"What are you going to miss most, Jorge?","По чему ты будешь скучать больше всего, Джордж?",ai,,0A4587304009CA30618270AEAE52C199
+"I'd...I'd like a few minutes to gather my thoughts. Besides, someone needs to make sure the fire goes out.","Мне... мне нужно несколько минут, чтобы собраться с мыслями. К тому же кто-то должен проследить, чтобы костёр погас.",ai,,FA1E43F442078064D40BB38B3362DAE7
 Gotcha.,Понял.,ok,,3A9246BE49AFE76EC108F48475DF4CFE
-[Nod],,,,74FAAAA340FBB66B30650EB6E5034E23
-"Goodnight, Eli.",,,,E15C984040DA65ECBA48F0A92F2347DB
-"Goodnight, Jorge.",,,,3E9B6F304C10D8CCC87F8DB20731419D
-"Okay, sure. But we know that. You believe there's still some hope?",,,,89A704844EE365ACBDF1F48A60B62462
-There's a sliver.,,,,268123DA49783BA9E9FCB18790D57505
-There's always hope.,,,,58F0CC4343ECF52848EEFDAAC410BC34
-Yeah...I can see it. Then they'd have to bring us back to lead the research. Or at least do some consulting. That'd give us some time to figure out something more permanent. But we'd really have to sell it.,,,,9F8FB1284691A30AD5A20E89FF704B10
+[Nod],[Кивнуть],ai,,74FAAAA340FBB66B30650EB6E5034E23
+"Goodnight, Eli.","Спокойной ночи, Илай.",ai,,E15C984040DA65ECBA48F0A92F2347DB
+"Goodnight, Jorge.","Спокойной ночи, Джордж.",ai,,3E9B6F304C10D8CCC87F8DB20731419D
+"Okay, sure. But we know that. You believe there's still some hope?","Ну да, конечно. Но это нам и так известно. Ты веришь, что надежда ещё есть?",ai,,89A704844EE365ACBDF1F48A60B62462
+There's a sliver.,Крохотная есть.,ai,,268123DA49783BA9E9FCB18790D57505
+There's always hope.,Надежда есть всегда.,ai,,58F0CC4343ECF52848EEFDAAC410BC34
+Yeah...I can see it. Then they'd have to bring us back to lead the research. Or at least do some consulting. That'd give us some time to figure out something more permanent. But we'd really have to sell it.,"Да... понимаю. Тогда им придётся вернуть нас, чтобы мы возглавили исследования. Или хотя бы проконсультировали. Это дало бы нам время придумать что-то более надёжное. Но нам придётся очень убедительно это преподнести.",ai,,9F8FB1284691A30AD5A20E89FF704B10
 How?,Как?,ok,,B0AA504049F56C0CED69B9967C4BAC66
-Any suggestions on how we do that?,,,,8A7AF41B4497FF619B7FAFBC2BBAA6CB
-"Okay...That could buy us some time and allow our research out here to continue. I could have sworn it was dead when we had it in a pacified state, so it's definitely doable. But we're really going to have to sell it.",,,,A1C3BE554CD8EC47B77A5590D59B42CF
+Any suggestions on how we do that?,"Есть идеи, как это сделать?",ai,,8A7AF41B4497FF619B7FAFBC2BBAA6CB
+"Okay...That could buy us some time and allow our research out here to continue. I could have sworn it was dead when we had it in a pacified state, so it's definitely doable. But we're really going to have to sell it.","Ладно... Это может выиграть нам время и позволить продолжить исследования здесь. Я мог бы поклясться, что он был мёртв, когда мы держали его в усмирённом состоянии, так что это вполне осуществимо. Но убедительно сыграть всё равно придётся.",ai,,A1C3BE554CD8EC47B77A5590D59B42CF
 What do you mean?,Всмысле?,ok,,D992D8D7418418201832218F0443A761
-Any suggestions on how we do that?,,,,8DAB3BBB41E3FB1A25F5AAA660C7E3A2
+Any suggestions on how we do that?,"Есть идеи, как это сделать?",ai,,8DAB3BBB41E3FB1A25F5AAA660C7E3A2
 ...,,,,17F5AB874B7CBFC29513A49DDD16C227
-Can't wait to sleep in a proper bed. With pillows. A duvet...,,,,DE971EFF4B630934BB698F8B15DD93CF
-Anything you want to do out here before they bring us back?,,,,F1C90AAA462F41435AFBA5B8028FC1FE
-I might actually miss this place. There's a sense of calm out here. Quiet.,,,,7B5E1AA041F09FF011A806A1549268E8
-"Hmm. Yeah. That might work. Then they'd need us to come back with them to keep it under control. Could buy us some time and maybe a bit of clout. We'll have to be convincing, though.",,,,133BA58F401BF370B9CE0994ABAD9EF0
-I don't see any other option. Let's do it.,,,,BFD15A6F4F3B0BA9CB5ADC8FAC7439ED
-I'm sure we can figure it out.,,,,CD7068084384D37B33F7598797F90B43
-"Well, first we'd have to figure out a way back that doesn't require a body-bag. You got anything?",,,,83426BBD48DD31122A90EDAE297E9527
+Can't wait to sleep in a proper bed. With pillows. A duvet...,"Не дождусь, когда посплю в нормальной постели. С подушками. С одеялом...",ai,,DE971EFF4B630934BB698F8B15DD93CF
+Anything you want to do out here before they bring us back?,"Хочешь что-нибудь успеть здесь, пока за нами не приехали?",ai,,F1C90AAA462F41435AFBA5B8028FC1FE
+I might actually miss this place. There's a sense of calm out here. Quiet.,"Я, пожалуй, даже буду скучать по этому месту. Здесь какое-то спокойствие. Тишина.",ai,,7B5E1AA041F09FF011A806A1549268E8
+"Hmm. Yeah. That might work. Then they'd need us to come back with them to keep it under control. Could buy us some time and maybe a bit of clout. We'll have to be convincing, though.","Хм. Да. Это может сработать. Тогда мы будем нужны им, чтобы держать его под контролем. Это выиграет нам время и, может, даже добавит веса. Но придётся быть убедительными.",ai,,133BA58F401BF370B9CE0994ABAD9EF0
+I don't see any other option. Let's do it.,Другого выхода не вижу. Давай так и сделаем.,ai,,BFD15A6F4F3B0BA9CB5ADC8FAC7439ED
+I'm sure we can figure it out.,"Уверен, мы что-нибудь придумаем.",ai,,CD7068084384D37B33F7598797F90B43
+"Well, first we'd have to figure out a way back that doesn't require a body-bag. You got anything?","Ну, сначала нужно придумать, как вернуться так, чтобы не в мешке для трупов. Есть что-нибудь?",ai,,83426BBD48DD31122A90EDAE297E9527
 Maybe.,Может быть.,ok,,3C0E429C47ACA94229D1F28A53839C06
-Nope.,,,,F42F240D45D8BB8899A7DCAE6FD16D1B
-"Well, we kind of are. What did you do when you found out about this assignment. Did you try to fight it?",,,,2BD58E4E4120718CDA1D3D8450F1A959
-"No, I was just grateful they were still keeping me around after my little stunt.",,,,C101F84948E8D8109EE16AAA1C30DE8E
-What could I have done?,,,,BD8C2ADE4D0274535F910DB0E8AEA10E
-"There's a good chance our visitor is going to comb through all our research to make sure we're telling the truth about the Artifact being dead. Make sure that everything on-site lines up with that story. Our journals, research, even the Artifact itself. We can't leave anything to chance.",,,,74357C33407D1580173AE282412FE0DE
-"Gotcha. Thanks, Jorge.",,,,442143E54F974483D972C9A5CC0967E6
+Nope.,Нет.,ai,,F42F240D45D8BB8899A7DCAE6FD16D1B
+"Well, we kind of are. What did you do when you found out about this assignment. Did you try to fight it?","Ну, вроде того. Что ты сделал, когда узнал об этом назначении? Пытался сопротивляться?",ai,,2BD58E4E4120718CDA1D3D8450F1A959
+"No, I was just grateful they were still keeping me around after my little stunt.","Нет, я просто был благодарен, что меня вообще оставили после моей выходки.",ai,,C101F84948E8D8109EE16AAA1C30DE8E
+What could I have done?,Что я мог сделать?,ai,,BD8C2ADE4D0274535F910DB0E8AEA10E
+"There's a good chance our visitor is going to comb through all our research to make sure we're telling the truth about the Artifact being dead. Make sure that everything on-site lines up with that story. Our journals, research, even the Artifact itself. We can't leave anything to chance.","Скорее всего, наш Гость перероет все наши исследования, чтобы убедиться, что мы не врём о том, что Артефакт мёртв. Проследи, чтобы всё на объекте сходилось с этой версией. Наши журналы, исследования, даже сам Артефакт. Нельзя оставлять ничего на волю случая.",ai,,74357C33407D1580173AE282412FE0DE
+"Gotcha. Thanks, Jorge.","Понял. Спасибо, Джордж.",ai,,442143E54F974483D972C9A5CC0967E6
 Gotcha.,Понял.,ok,,6B191D174E305EE00C09A2B4F078B484
-[Nod],,,,E1DBC12B4FC72858C83D78B38A4F6618
-"There's a good chance our visitor is going to comb through everything on site to make sure we really know our stuff. Make sure that everything on-site lines up with that story. Our journals, research, even the Artifact itself. We can't leave anything to chance.",,,,1F0BD20D45F483A84DCF9F879CA47CB9
-"Gotcha. Thanks, Jorge.",,,,5909C57547AA7F0062073488DCDB91DB
-"Whoever's coming is probably going to comb through the entire site to make sure we're telling the truth about how dangerous this thing is. Make sure that everything on-site lines up with that. Our journals, research, even the Artifact itself. We can't leave anything to chance.",,,,531D965342886B32EFF3DE861B6B8BA3
-"Gotcha. Thanks, Jorge.",,,,22D5EA0449AF6632E43B04BBF082086C
-"That works. Now go out there and make sure everything on site sells the idea that the Artifact is as dangerous as possible. Research, journals, even the Artifact itself. Got it?",,,,EBB7E44749D0BF27D7660EAA6E8E03D2
-Got it.,,,,D9A8DE334F90B999C8ECABAD8217F77E
-"Yeah, yeah.",,,,C257FB4646C909702FD9B9913F1FA657
-"Fine by me. Now go out there and make sure everything on site sells the idea that the Artifact's dead and we have the ability to find a new one. Research, journals, even the Artifact itself. Got it?",,,,A3581AD74E0105B8606327B3DDD11D87
-Got it.,,,,C5E32FAA414A739109F14299448B0CAF
-"Yeah, yeah...",,,,2B0AC8D44BE3F0BFCE069BB44B31ACE5
-"Fine by me. Now go out there and make us look like geniuses. Everything on site should sell the idea that we really know our shit. Research, journals, even the Artifact itself. Got it?",,,,D38579A24101FC7E56D87DA4AB7F87B3
-Got it.,,,,F3D630B249189E567AD8DCB74A68970D
-"Yeah, yeah...",,,,62E264DD4EF312934529A79A12FD5091
-Right...,,,,BAFD05AC4E9A5375468F318931B03D6B
-"It'll be great to see your kids again, huh?",,,,E0FB196F41981F40DD6F9E837EE81C9B
-Anything you want to do out here before they bring us back?,,,,73841F0C479204D52B58B2A8A60AADF4
-I might actually miss this place. There's a sense of calm out here. Quiet.,,,,B9C810244451BD37964213AA79D73278
-"Let's talk about something more positive, then. What do you think you're going to miss the most?",,,,2B6023D040287FEB70F5EE9C33177390
-My parents.,,,,434D1661409106614BF7CCB68806FE8A
-The work.,,,,F666BBF545D668981F861BB0330C6C2A
-The promise of tomorrow.,,,,FE7B729E4E2EE9A4A62B37990BAA575A
-"(CYNIC) How is making me think about the things I love that I'll never see again a more ""positive"" line of discussion?",,,,1006B535482D01C95DCBCABD62E8E57D
-"Let me ask you something, Eli: Why do you suppose you were assigned to this detail?",,,,EF197E4447E9BAC9F91FD4B6D4AEC122
-Because it's my job.,,,,CD26FBE346AB7D56AE19F0AB5EEA1A89
-My supervisors wanted me to get more field experience.,,,,D7B3FA9E4649F77B9831619BBABF2E07
-Probably because I don't have a family yet. No attachments.,,,,C91B74694227C2B1C4D835A663C02F3A
-You're giving me a weird look.,,,,0C056D2C4A223DF1EBAAD2BEB7027146
-You're just...really calm.,,,,3237FF7544FCD1A0E56DCEB108C66B6F
-This is just my face.,,,,53B003684267B31582677E928FE07BC2
-"Yeah. Well, stop pointing it at mine.",,,,95F4FC964413E4AA7D4B4EB88562D311
+[Nod],[Кивнуть],ai,,E1DBC12B4FC72858C83D78B38A4F6618
+"There's a good chance our visitor is going to comb through everything on site to make sure we really know our stuff. Make sure that everything on-site lines up with that story. Our journals, research, even the Artifact itself. We can't leave anything to chance.","Скорее всего, наш Гость перероет всё на объекте, чтобы убедиться, что мы действительно знаем своё дело. Проследи, чтобы всё на объекте сходилось с этой версией. Наши журналы, исследования, даже сам Артефакт. Нельзя оставлять ничего на волю случая.",ai,,1F0BD20D45F483A84DCF9F879CA47CB9
+"Gotcha. Thanks, Jorge.","Понял. Спасибо, Джордж.",ai,,5909C57547AA7F0062073488DCDB91DB
+"Whoever's coming is probably going to comb through the entire site to make sure we're telling the truth about how dangerous this thing is. Make sure that everything on-site lines up with that. Our journals, research, even the Artifact itself. We can't leave anything to chance.","Тот, кто приедет, скорее всего, прочешет весь объект, чтобы убедиться, что мы не лжём о том, насколько опасна эта штука. Проследи, чтобы всё на объекте сходилось с этим. Наши журналы, исследования, даже сам Артефакт. Нельзя оставлять ничего на волю случая.",ai,,531D965342886B32EFF3DE861B6B8BA3
+"Gotcha. Thanks, Jorge.","Понял. Спасибо, Джордж.",ai,,22D5EA0449AF6632E43B04BBF082086C
+"That works. Now go out there and make sure everything on site sells the idea that the Artifact is as dangerous as possible. Research, journals, even the Artifact itself. Got it?","Подойдёт. А теперь иди и проследи, чтобы всё на объекте убеждало в том, что Артефакт максимально опасен. Исследования, журналы, даже сам Артефакт. Понял?",ai,,EBB7E44749D0BF27D7660EAA6E8E03D2
+Got it.,Понял.,ai,,D9A8DE334F90B999C8ECABAD8217F77E
+"Yeah, yeah.",Да-да.,ai,,C257FB4646C909702FD9B9913F1FA657
+"Fine by me. Now go out there and make sure everything on site sells the idea that the Artifact's dead and we have the ability to find a new one. Research, journals, even the Artifact itself. Got it?","Меня устраивает. А теперь иди и проследи, чтобы всё на объекте убеждало в том, что Артефакт мёртв, а мы способны найти новый. Исследования, журналы, даже сам Артефакт. Понял?",ai,,A3581AD74E0105B8606327B3DDD11D87
+Got it.,Понял.,ai,,C5E32FAA414A739109F14299448B0CAF
+"Yeah, yeah...",Да-да...,ai,,2B0AC8D44BE3F0BFCE069BB44B31ACE5
+"Fine by me. Now go out there and make us look like geniuses. Everything on site should sell the idea that we really know our shit. Research, journals, even the Artifact itself. Got it?","Меня устраивает. А теперь иди и сделай из нас гениев. Всё на объекте должно убеждать, что мы, чёрт возьми, знаем своё дело. Исследования, журналы, даже сам Артефакт. Понял?",ai,,D38579A24101FC7E56D87DA4AB7F87B3
+Got it.,Понял.,ai,,F3D630B249189E567AD8DCB74A68970D
+"Yeah, yeah...",Да-да...,ai,,62E264DD4EF312934529A79A12FD5091
+Right...,Ну да...,ai,,BAFD05AC4E9A5375468F318931B03D6B
+"It'll be great to see your kids again, huh?","Здорово будет снова увидеть твоих ребят, да?",ai,,E0FB196F41981F40DD6F9E837EE81C9B
+Anything you want to do out here before they bring us back?,"Хочешь что-нибудь успеть здесь, пока за нами не приехали?",ai,,73841F0C479204D52B58B2A8A60AADF4
+I might actually miss this place. There's a sense of calm out here. Quiet.,"Я, пожалуй, даже буду скучать по этому месту. Здесь какое-то спокойствие. Тишина.",ai,,B9C810244451BD37964213AA79D73278
+"Let's talk about something more positive, then. What do you think you're going to miss the most?","Тогда давай о чём-нибудь более позитивном. По чему, как думаешь, ты будешь скучать больше всего?",ai,,2B6023D040287FEB70F5EE9C33177390
+My parents.,Родители.,ai,,434D1661409106614BF7CCB68806FE8A
+The work.,Работа.,ai,,F666BBF545D668981F861BB0330C6C2A
+The promise of tomorrow.,Обещание завтрашнего дня.,ai,,FE7B729E4E2EE9A4A62B37990BAA575A
+"(CYNIC) How is making me think about the things I love that I'll never see again a more ""positive"" line of discussion?","[ЦИНИК] С чего это мысли о том, что я люблю и больше никогда не увижу, — «более позитивная» тема?",ai,,1006B535482D01C95DCBCABD62E8E57D
+"Let me ask you something, Eli: Why do you suppose you were assigned to this detail?","Позволь спросить тебя, Илай: как думаешь, почему тебя назначили на это задание?",ai,,EF197E4447E9BAC9F91FD4B6D4AEC122
+Because it's my job.,Потому что это моя работа.,ai,,CD26FBE346AB7D56AE19F0AB5EEA1A89
+My supervisors wanted me to get more field experience.,"Начальство хотело, чтобы я набрался полевого опыта.",ai,,D7B3FA9E4649F77B9831619BBABF2E07
+Probably because I don't have a family yet. No attachments.,"Наверное, потому что у меня пока нет семьи. Никаких привязанностей.",ai,,C91B74694227C2B1C4D835A663C02F3A
+You're giving me a weird look.,Ты как-то странно на меня смотришь.,ai,,0C056D2C4A223DF1EBAAD2BEB7027146
+You're just...really calm.,Просто... ты очень спокоен.,ai,,3237FF7544FCD1A0E56DCEB108C66B6F
+This is just my face.,Просто у меня такое лицо.,ai,,53B003684267B31582677E928FE07BC2
+"Yeah. Well, stop pointing it at mine.",Ага. Ну так хватит наставлять его на меня.,ai,,95F4FC964413E4AA7D4B4EB88562D311
 Okay.,Ладно.,ok,,9E9C23EB4CA37C005DD01DA1A9D08157
-...I can't change my face.,,,,0C26BA10470809831877F3974BE06C90
-Whatever's about to happen...it's out of my hands. Might as well enjoy what's left.,,,,2F81C8A346D1DEE45B68B7BA851846A1
+...I can't change my face.,...Я не могу сменить лицо.,ai,,0C26BA10470809831877F3974BE06C90
+Whatever's about to happen...it's out of my hands. Might as well enjoy what's left.,"Что бы ни случилось... это уже не в моих руках. Надо радоваться тому, что осталось.",ai,,2F81C8A346D1DEE45B68B7BA851846A1
 I'll try.,Я постараюсь.,ok,,808D85094602D5BAF7D6DAB18F3EE72F
-"You're bumming me out, Jorge.",,,,435748CD4A164DFCC0D41ABDC72C5250
-"They really are. Ugh, I'm going to miss them so much. I should have just quit. I knew exactly what this job was going to be, but I let them tell me otherwise.",,,,CCD648454BD6177E576EDB8F67BCB02D
-You'll see them again. I'm going to see to it.,,,,264347DA4EDD1E477493B883E69DB729
-I wish I had known.,,,,29834C2F4B3302770C08C3B414FCEF15
-The quiet or the city?,,,,7D26A4084CA665E3AB02009C25E17F35
-The quiet.,,,,AB2C31034091D08CA060F185DC5F87B7
+"You're bumming me out, Jorge.","Ты портишь мне настроение, Джордж.",ai,,435748CD4A164DFCC0D41ABDC72C5250
+"They really are. Ugh, I'm going to miss them so much. I should have just quit. I knew exactly what this job was going to be, but I let them tell me otherwise.","Да, ещё какие. Ох, я буду так по ним скучать. Надо было просто уволиться. Я прекрасно знал, какой будет эта работа, но позволил им убедить меня в обратном.",ai,,CCD648454BD6177E576EDB8F67BCB02D
+You'll see them again. I'm going to see to it.,Ты их ещё увидишь. Я об этом позабочусь.,ai,,264347DA4EDD1E477493B883E69DB729
+I wish I had known.,"Жаль, что я не знал.",ai,,29834C2F4B3302770C08C3B414FCEF15
+The quiet or the city?,Тишина или Город?,ai,,7D26A4084CA665E3AB02009C25E17F35
+The quiet.,Тишина.,ai,,AB2C31034091D08CA060F185DC5F87B7
 Both.,Оба.,ok,,E0D17B42489A526FFBE6AE9B1C2BBB3C
-"Well, if things go the way I expect, we'll be in for a lot more quiet from here on out.",,,,4A4797414CEB875602FAF1AF4F65FFF3
-Good.,,,,3A6119184C9C456ACECC949E2B065BC2
-And if you're wrong?,,,,767821B84468D532DD9EB6B5ABB17CBD
-"Nothing but cheers and applause from our friends in the scientific community. I can see the articles now: ""First team to survive the ravenous Wastes: How did they ever survive?""",,,,8D6498CA4BED8938E147C9AFFC98193F
+"Well, if things go the way I expect, we'll be in for a lot more quiet from here on out.","Что ж, если всё пойдёт так, как я думаю, тишины у нас теперь будет предостаточно.",ai,,4A4797414CEB875602FAF1AF4F65FFF3
+Good.,Хорошо.,ai,,3A6119184C9C456ACECC949E2B065BC2
+And if you're wrong?,А если ты ошибаешься?,ai,,767821B84468D532DD9EB6B5ABB17CBD
+"Nothing but cheers and applause from our friends in the scientific community. I can see the articles now: ""First team to survive the ravenous Wastes: How did they ever survive?""","Одни только возгласы одобрения и аплодисменты от наших друзей из научного сообщества. Я уже вижу заголовки: «Первая группа, выжившая в ненасытных Пустошах: как им это удалось?»",ai,,8D6498CA4BED8938E147C9AFFC98193F
 I don't want to think about it.,Я не хочу об этом думать.,ok,,BB76B9524E530374512EFE9A8508309E
-No need to be sarcastic.,,,,26A0562F43CBF0BE782000B129D725A3
-(IDEALIST) It's not out of the realm of possibility.,,,,463B40694E1E91EC40C7499DC8D3E210
-Uh-huh.,,,,C2D1EBD946A97A212707D7AB7002F67D
-"Okay, what's up? You're not even listening to me.",,,,06F6022F4DDF2BA0C82116A6E2B172AF
-Is something wrong?,,,,FF8CA58846A896133331EAA6071AE593
-Earth to Jorge...,,,,FDE2C4084F1447E9BF97A0946BCCF685
-Are you serious? That's when you need them the most!,,,,15C3260C46314F9407E5C9A5FAD4EF6D
-It's my fault.,,,,0913096E48954427E286F58F86CF1929
-They have their own legacies to protect.,,,,F449F1824C4C2149AD71D29F04688549
+No need to be sarcastic.,Не надо язвить.,ai,,26A0562F43CBF0BE782000B129D725A3
+(IDEALIST) It's not out of the realm of possibility.,[ИДЕАЛИСТ] Это не исключено.,ai,,463B40694E1E91EC40C7499DC8D3E210
+Uh-huh.,Ага.,ai,,C2D1EBD946A97A212707D7AB7002F67D
+"Okay, what's up? You're not even listening to me.","Так, в чём дело? Ты меня даже не слушаешь.",ai,,06F6022F4DDF2BA0C82116A6E2B172AF
+Is something wrong?,Что-то не так?,ai,,FF8CA58846A896133331EAA6071AE593
+Earth to Jorge...,Земля вызывает Джорджа...,ai,,FDE2C4084F1447E9BF97A0946BCCF685
+Are you serious? That's when you need them the most!,Ты серьёзно? Именно тогда они нужны больше всего!,ai,,15C3260C46314F9407E5C9A5FAD4EF6D
+It's my fault.,Это моя вина.,ai,,0913096E48954427E286F58F86CF1929
+They have their own legacies to protect.,Им нужно беречь собственное наследие.,ai,,F449F1824C4C2149AD71D29F04688549
 Gotcha.,Понял.,ok,,3568B3F04C92565CE50CC4A03104CDD1
-[Nod],,,,014A3D2F415E774D318CB38E8AD36E51
-"Huh. Well, if the worst happens, at least they'll be able to say ""he died doing what he loved.""",,,,869EFE4248021A729A74B8B26D5357F2
-I hope it wasn't in vain.,,,,07B670E24041A2A1FE97CB878FA4E301
-I was hoping you might put that theoretical background to use. Come up with some sort of plan.,,,,94B06DB94FDCF4EA0A37619F564E41C7
-I might have something...,,,,BF519F404352F34B89D624AE700E936B
-I'm drawing a blank.,,,,595EEA5048AD0C6E006F21B98C833E2E
-Not right now. Let's talk about you. What are you going to miss most?,,,,6D2D194649E14ACA4667999BE324A67F
-"Anything's possible, Eli. But that doesn't make it plausible.",,,,DED573D94E82E45A4EBD8BA913C16D6D
-"I just want to enjoy my last few hours, Jorge.",,,,F01FA82340456B452F9CA19218034E76
-[Sigh deeply],,,,52EF718E46EC84B632915391659E0FB4
-"Well, keep drawing. Eventually some ink will trickle out.",,,,70E88CF94D7401CCE6D971954AB603BA
-You're right! I got this.,,,,5EA3508C47C289E1DA4724BEF58CE2F0
-I'll give it a shot.,,,,CDAE2F07441EECABAEAD3CA164CD0705
-"Is that because the future is bright, or because the present is dark?",,,,A222BA2C4DC0E9569EDF7DA303EB1AFD
-(IDEALIST) The future is bright.,,,,21A0071E44A0E2999723C789AD940DD3
-(REALIST) The present determines the future. We're not completely powerless.,,,,70F69D634DE000267BF243A72A9B9CA1
-"(CYNIC) Our bosses are about to kill us, Jorge. What do you think?",,,,D28C6F9E491F36EAFFE340B616A5245D
-"No idea. But if they're going to be bringing something back from outside the wall, it's probably someone at the top. Or above it.",,,,1BA128DC4E856B80FB0F3D9C9A940C2F
-We're not high level and they sent us.,,,,2C3FF1F7426AC0A44661F593EA03EEDF
-"Which is what we are now. After this discovery, I mean.",,,,970DEACE4354FE6BD709D08DBAD8E661
-"Yes, but nobody said we're coming back.",,,,77EE56B74BDB80BCB59D998D0DA1F326
-What are you talking about?,,,,2D55F6E34A964923550FEBA5C0F67652
-They didn't say we weren't.,,,,D58653A54F476D8D0048AA84591864BA
-"Well, obviously they're going to bring us back too.",,,,7DC3E4C14DA0BD108CF1ABA58F06BDC2
-"Good memories are good memories, Eli. Just because they aren't going to repeat themselves doesn't make them worthless.",,,,596BBDFB496251BD0FC937A56C147966
-What are you going to miss most?,,,,010B5C7F4DCDA7E9DD837DAE2619C793
-"Do you...do you follow the Scripture, Eli?",,,,B41247114AE912DC714B8584B023AAA3
-(CYNIC) You mean that superstitious nonsense they use to control us?,,,,D358AAE841D25004065B2692653539DF
-(REALIST) I don't follow anything I can't see.,,,,4F8CBF424ABBAA7F8184F08C3A61F509
-"(IDEALIST) No, but I appreciate the value it brings to others. Even if I don't understand it.",,,,AB7B97174EDC1E2F6FAF6F94FDDDE994
-"Do you? ",,,,6F146DA84718B710E23E6D90187535C2
-"No, Jorge. I follow science.",,,,77F43B4741098751CE797786D65BF4F2
-"That's in the early days, though. Before the outside became the Wastes. And it's just a story.",,,,695EEBF74A3446B9D6CFB7BC69D626C0
-Then we're the first.,,,,2C7F87274A5F38E79717AA8FE3B87FB4
-'A story'? I thought you were a believer.,,,,6B75F4EF4E70D1C7F78E05A568A22EC3
-"Family, probably. My mom...my sister...my nephews. I'm really going to miss them. After my last promotion, I was able to move them into a nice little high-rise in Granville. Even got an extra bedroom so I can stay over whenever I'm able to get away from work. Which is rare, but when I can? Man... it's the world.",,,,FE0359314F39CC5D11532C81A03B055F
-You cover their rent?,,,,C845A2B446A5803F43092497A1698D74
-How old are your nephews?,,,,EB2CEE5748282564F53004B92AB7A7B1
-"They're eight and nine, but the way they stick together you'd swear that they're twins. Matteo and Seb. Total troublemakers. My mother calls them ""The Scamps"".",,,,2287166948020C72740A589E36DF6769
-You ever think of having kids of your own?,,,,D10F40A4405227EE1BB2F990E07F41DA
-What kind of trouble do they get themselves into?,,,,B1EFA64043598223C0D337B637F97666
-"Nah, I got my hands full with the scamps. Plus, I've never had much luck in relationships.",,,,E87234B74E82ABE14361E8867D5F9988
-Me either.,,,,E208BCD84E6E9B4391F3E19AF8489228
+[Nod],[Кивнуть],ai,,014A3D2F415E774D318CB38E8AD36E51
+"Huh. Well, if the worst happens, at least they'll be able to say ""he died doing what he loved.""","Хм. Ну, если случится худшее, они хотя бы смогут сказать: «Он умер, занимаясь любимым делом».",ai,,869EFE4248021A729A74B8B26D5357F2
+I hope it wasn't in vain.,"Надеюсь, это было не напрасно.",ai,,07B670E24041A2A1FE97CB878FA4E301
+I was hoping you might put that theoretical background to use. Come up with some sort of plan.,"Я надеялся, ты пустишь в дело свою теоретическую подготовку. Придумаешь какой-нибудь план.",ai,,94B06DB94FDCF4EA0A37619F564E41C7
+I might have something...,"Кажется, кое-что есть...",ai,,BF519F404352F34B89D624AE700E936B
+I'm drawing a blank.,Передо мной чистый лист.,ai,,595EEA5048AD0C6E006F21B98C833E2E
+Not right now. Let's talk about you. What are you going to miss most?,Не сейчас. Давай лучше о тебе. По чему ты будешь скучать больше всего?,ai,,6D2D194649E14ACA4667999BE324A67F
+"Anything's possible, Eli. But that doesn't make it plausible.","Возможно всё, Илай. Но это не значит, что это правдоподобно.",ai,,DED573D94E82E45A4EBD8BA913C16D6D
+"I just want to enjoy my last few hours, Jorge.","Я просто хочу насладиться последними часами, Джордж.",ai,,F01FA82340456B452F9CA19218034E76
+[Sigh deeply],[Тяжело вздохнуть],ai,,52EF718E46EC84B632915391659E0FB4
+"Well, keep drawing. Eventually some ink will trickle out.",Ну так продолжай рисовать. Рано или поздно на листе что-нибудь да проступит.,ai,,70E88CF94D7401CCE6D971954AB603BA
+You're right! I got this.,Ты прав! Я справлюсь.,ai,,5EA3508C47C289E1DA4724BEF58CE2F0
+I'll give it a shot.,Попробую.,ai,,CDAE2F07441EECABAEAD3CA164CD0705
+"Is that because the future is bright, or because the present is dark?","Это потому что будущее светло, или потому что настоящее мрачно?",ai,,A222BA2C4DC0E9569EDF7DA303EB1AFD
+(IDEALIST) The future is bright.,[ИДЕАЛИСТ] Будущее светло.,ai,,21A0071E44A0E2999723C789AD940DD3
+(REALIST) The present determines the future. We're not completely powerless.,[РЕАЛИСТ] Настоящее определяет будущее. Мы не совсем бессильны.,ai,,70F69D634DE000267BF243A72A9B9CA1
+"(CYNIC) Our bosses are about to kill us, Jorge. What do you think?","[ЦИНИК] Наше начальство собирается нас убить, Джордж. Как думаешь?",ai,,D28C6F9E491F36EAFFE340B616A5245D
+"No idea. But if they're going to be bringing something back from outside the wall, it's probably someone at the top. Or above it.","Понятия не имею. Но если они собираются забрать что-то из-за Стены, то это, скорее всего, кто-то с самого верха. Или даже выше.",ai,,1BA128DC4E856B80FB0F3D9C9A940C2F
+We're not high level and they sent us.,"Мы не из высших эшелонов, а послали нас.",ai,,2C3FF1F7426AC0A44661F593EA03EEDF
+"Which is what we are now. After this discovery, I mean.","А теперь мы как раз такие. После этого открытия, я имею в виду.",ai,,970DEACE4354FE6BD709D08DBAD8E661
+"Yes, but nobody said we're coming back.","Да, но никто не говорил, что мы вернёмся.",ai,,77EE56B74BDB80BCB59D998D0DA1F326
+What are you talking about?,О чём ты?,ai,,2D55F6E34A964923550FEBA5C0F67652
+They didn't say we weren't.,А что не вернёмся — тоже не говорили.,ai,,D58653A54F476D8D0048AA84591864BA
+"Well, obviously they're going to bring us back too.","Ну, очевидно, нас они тоже вернут.",ai,,7DC3E4C14DA0BD108CF1ABA58F06BDC2
+"Good memories are good memories, Eli. Just because they aren't going to repeat themselves doesn't make them worthless.","Хорошие воспоминания остаются хорошими, Илай. То, что они не повторятся, не обесценивает их.",ai,,596BBDFB496251BD0FC937A56C147966
+What are you going to miss most?,По чему ты будешь скучать больше всего?,ai,,010B5C7F4DCDA7E9DD837DAE2619C793
+"Do you...do you follow the Scripture, Eli?","Ты... ты следуешь Писанию, Илай?",ai,,B41247114AE912DC714B8584B023AAA3
+(CYNIC) You mean that superstitious nonsense they use to control us?,"[ЦИНИК] Ты про ту суеверную чушь, которой нами управляют?",ai,,D358AAE841D25004065B2692653539DF
+(REALIST) I don't follow anything I can't see.,"[РЕАЛИСТ] Я не следую тому, чего не вижу.",ai,,4F8CBF424ABBAA7F8184F08C3A61F509
+"(IDEALIST) No, but I appreciate the value it brings to others. Even if I don't understand it.","[ИДЕАЛИСТ] Нет, но я ценю то, что оно даёт другим. Даже если сам этого не понимаю.",ai,,AB7B97174EDC1E2F6FAF6F94FDDDE994
+"Do you? ","А ты? ",ai,,6F146DA84718B710E23E6D90187535C2
+"No, Jorge. I follow science.","Нет, Джордж. Я следую науке.",ai,,77F43B4741098751CE797786D65BF4F2
+"That's in the early days, though. Before the outside became the Wastes. And it's just a story.","Но это же из ранних времён. До того, как внешний мир стал Пустошами. И это просто история.",ai,,695EEBF74A3446B9D6CFB7BC69D626C0
+Then we're the first.,Тогда мы будем первыми.,ai,,2C7F87274A5F38E79717AA8FE3B87FB4
+'A story'? I thought you were a believer.,"«Просто история»? Я думал, ты верующий.",ai,,6B75F4EF4E70D1C7F78E05A568A22EC3
+"Family, probably. My mom...my sister...my nephews. I'm really going to miss them. After my last promotion, I was able to move them into a nice little high-rise in Granville. Even got an extra bedroom so I can stay over whenever I'm able to get away from work. Which is rare, but when I can? Man... it's the world.","Семья, наверное. Мама... сестра... племянники. Я правда буду по ним скучать. После последнего повышения я смог переселить их в славную небольшую высотку в Гренвилле. Там даже есть лишняя спальня, чтобы я мог остаться, когда получается вырваться с работы. Это редко, но когда получается? Эх... это целый мир.",ai,,FE0359314F39CC5D11532C81A03B055F
+You cover their rent?,Ты платишь за их квартиру?,ai,,C845A2B446A5803F43092497A1698D74
+How old are your nephews?,Сколько лет твоим племянникам?,ai,,EB2CEE5748282564F53004B92AB7A7B1
+"They're eight and nine, but the way they stick together you'd swear that they're twins. Matteo and Seb. Total troublemakers. My mother calls them ""The Scamps"".","Восемь и девять, но держатся вместе так, что поклялся бы — близнецы. Маттео и Себ. Те ещё хулиганы. Мама зовёт их «Сорванцы».",ai,,2287166948020C72740A589E36DF6769
+You ever think of having kids of your own?,Не думал завести собственных детей?,ai,,D10F40A4405227EE1BB2F990E07F41DA
+What kind of trouble do they get themselves into?,В какие неприятности они влипают?,ai,,B1EFA64043598223C0D337B637F97666
+"Nah, I got my hands full with the scamps. Plus, I've never had much luck in relationships.","Да нет, мне и сорванцов хватает. К тому же с отношениями мне никогда особо не везло.",ai,,E87234B74E82ABE14361E8867D5F9988
+Me either.,Мне тоже.,ai,,E208BCD84E6E9B4391F3E19AF8489228
 How come?,Как так?,ok,,43AF605A4E655C8D5E2AE189B4812C2A
-"Pranks, mostly. They've gotten really into hard-boiled eggs lately.",,,,D691B3964EA3DF2200248CA015489A9F
-"What, like, eating them?",,,,6F68927E44E71500C2E1828C5517AFCA
-"Like, collecting them?",,,,B899EFDC4BA579ABDB7BB284AC80EA41
-"I wish. No, they've been boiling them, peeling the shell off and chucking them like snowballs. They keep throwing them at the windows of the neighbouring high rise to wake them up in the middle of the night and it started a geezer infestation on the street below.",,,,B676613F43FFE5F4CE7A48924FFFD696
-That's actually kind of cool.,,,,81A1B4EB4865B5B65648768A287E133A
-Disgusting.,,,,4D224A11424BA733E3273CA3A212DD34
-It's not a big deal. Granville's actually a lot cheaper than Science City. I pay more for my shitty studio apartment than I do for all four of their bedrooms.,,,,15DE270545BAAD6F687C1BBD00F7FF82
-Couldn't you just live there and commute to Science City?,,,,D15E428E423FA0685FB38DB2EEAF18E5
-Have you ever thought of starting your own family?,,,,91EF53574B2442C068BA28B6C6DC63F6
-"I used to when I was younger, but it got too hard.  Eight hour turnarounds and unreliable transit really took its toll. Now I just visit whenever I can. Or at least, I did. Ugh, I should have quit when I had the chance.",,,,D90118AC47D7684E6C8A57B1D4D0A79C
-"You'll see them again, Eli. I'll see to it.",,,,FA7210A44D5C00FB78ABF88D3DABF854
-Or at least warned me about what I was about to step into.,,,,136C8A0B4200C536F7DD37B3F7004CDA
-"Thankfully, no. That would be so pungent. They've been boiling the eggs, peeling the shells off and chucking them like snowballs. They keep throwing them at the windows of the neighbouring high rise to wake them up in the middle of the night and it started a geezer infestation on the street below.",,,,27AD41B24E5AD3366863D8BF5A1CDC05
-That's actually kind of cool.,,,,E19EBF4D4C1225A2502C4DB40358532B
-Disgusting.,,,,00D08F81412F19BA176F7D84D490F0C8
-I think so too! But don't tell their mother that. I think it's actually impressive they found a way to throw things at windows without breaking the glass. Clever little scamps...,,,,2B3FBA3D42DBF936E9231B9A75DAF471
-When did you last see them?,,,,99612CA64B61761604BF02B5B17BFF07
-They sound cool.,,,,25CEE0C7477ADB71C7FDC2A6DACED7DC
+"Pranks, mostly. They've gotten really into hard-boiled eggs lately.",В основном шалости. Недавно их ужасно увлекли яйца вкрутую.,ai,,D691B3964EA3DF2200248CA015489A9F
+"What, like, eating them?","Что, в смысле, есть их?",ai,,6F68927E44E71500C2E1828C5517AFCA
+"Like, collecting them?","Или, типа, коллекционировать?",ai,,B899EFDC4BA579ABDB7BB284AC80EA41
+"I wish. No, they've been boiling them, peeling the shell off and chucking them like snowballs. They keep throwing them at the windows of the neighbouring high rise to wake them up in the middle of the night and it started a geezer infestation on the street below.","Если бы. Нет, они варят их, чистят от скорлупы и швыряются, как снежками. Всё время кидают их в окна соседней высотки, будят людей посреди ночи, и на улице внизу завелось нашествие стариков.",ai,,B676613F43FFE5F4CE7A48924FFFD696
+That's actually kind of cool.,Вообще-то это круто.,ai,,81A1B4EB4865B5B65648768A287E133A
+Disgusting.,Мерзость.,ai,,4D224A11424BA733E3273CA3A212DD34
+It's not a big deal. Granville's actually a lot cheaper than Science City. I pay more for my shitty studio apartment than I do for all four of their bedrooms.,"Ничего страшного. Гренвилль на самом деле гораздо дешевле Наукограда. Я плачу за свою дрянную студию больше, чем за все четыре их спальни.",ai,,15DE270545BAAD6F687C1BBD00F7FF82
+Couldn't you just live there and commute to Science City?,А ты не мог бы жить там и ездить на работу в Наукоград?,ai,,D15E428E423FA0685FB38DB2EEAF18E5
+Have you ever thought of starting your own family?,Ты никогда не думал завести свою семью?,ai,,91EF53574B2442C068BA28B6C6DC63F6
+"I used to when I was younger, but it got too hard.  Eight hour turnarounds and unreliable transit really took its toll. Now I just visit whenever I can. Or at least, I did. Ugh, I should have quit when I had the chance.","Раньше так и делал, когда был моложе, но стало слишком тяжело. Восьмичасовые перегоны туда-обратно и ненадёжный транспорт сделали своё дело. Теперь я просто навещаю их, когда получается. Точнее, навещал. Эх, надо было уволиться, пока была возможность.",ai,,D90118AC47D7684E6C8A57B1D4D0A79C
+"You'll see them again, Eli. I'll see to it.","Ты ещё увидишь их, Илай. Я за этим прослежу.",ai,,FA7210A44D5C00FB78ABF88D3DABF854
+Or at least warned me about what I was about to step into.,"Или хотя бы предупредили, во что я ввязываюсь.",ai,,136C8A0B4200C536F7DD37B3F7004CDA
+"Thankfully, no. That would be so pungent. They've been boiling the eggs, peeling the shells off and chucking them like snowballs. They keep throwing them at the windows of the neighbouring high rise to wake them up in the middle of the night and it started a geezer infestation on the street below.","К счастью, нет. Это было бы жутко вонюче. Они варят яйца, чистят от скорлупы и швыряются, как снежками. Всё время кидают их в окна соседней высотки, будят людей посреди ночи, и на улице внизу завелось нашествие стариков.",ai,,27AD41B24E5AD3366863D8BF5A1CDC05
+That's actually kind of cool.,Вообще-то это круто.,ai,,E19EBF4D4C1225A2502C4DB40358532B
+Disgusting.,Мерзость.,ai,,00D08F81412F19BA176F7D84D490F0C8
+I think so too! But don't tell their mother that. I think it's actually impressive they found a way to throw things at windows without breaking the glass. Clever little scamps...,"Я тоже так думаю! Только не говори это их маме. По-моему, на самом деле впечатляет, что они нашли способ швырять вещи в окна, не разбивая стёкол. Умные маленькие сорванцы...",ai,,2B3FBA3D42DBF936E9231B9A75DAF471
+When did you last see them?,Когда ты видел их в последний раз?,ai,,99612CA64B61761604BF02B5B17BFF07
+They sound cool.,"Они, похоже, классные.",ai,,25CEE0C7477ADB71C7FDC2A6DACED7DC
 No.,Нет.,ok,,7809FEC0440A5C814D6B6CBD41C2D488
-"Okay, what's up? You're not even listening to me.",,,,893E28C04A89F8E534DAEF8F715BC0E4
-Is something wrong?,,,,A5C131C5434A56D55ED0DAB599B759E8
-Earth to Jorge...,,,,A72612CA460A96D60C96DDAC7DB252F3
-"Yeah, it's not great. I am a little impressed that they found a way to throw things at windows without breaking the glass. Clever little scamps...",,,,964199194AB9890616990C8D849C5A47
-When did you last see them?,,,,240DFD4441403CB5E44A3583602ACC40
-They sound cool.,,,,815692B34515805542CE5082295789D1
-"Goodnight, Eli.",,,,0EC072F049942586E2ABF7A8E2B8ABC3
-"Night, Jorge.",,,,082E9201428A060AD81380BA2F672A7F
-"Night, Jorge.",,,,C969BCAE431BCD6B29A9E792C0170990
-"Sorry, I'm just...I guess it's all starting to get to me.",,,,F47419F849A956318D2E088F73751499
-I don't want to think about that right now.,,,,8ECBFE7E46E0FF8336A3DEA84E72C422
-It's possible nothing's going to happen to us.,,,,772424004257A901FC11A592C6B26AA8
-What are you going to miss the most?,,,,022A4E944C853F053D16398016A50366
-The work.,,,,D1BF5BD84A5FAC40BB0ACDA7AF611DC0
-The promise of tomorrow.,,,,0198B2C74E94882D54684CB27D39DC43
-"Ah, yes. A stress like that'll make you ignore the reddest of flags. I actually threatened to quit, but they made it clear that doing so would cost me my retirement plan, so I decided to play the optimist.",,,,E4658E3D438B9433A6BDCFA50C770E04
-Maybe that's still possible.,,,,AE3A751E4CCE67BFDA666488EE7A6934
-"Well, aren't we a couple of idiots?",,,,4F298950411C615987C2F9AC3C0E1071
-"Oh, yeah! I forgot they used to be bigheads at Science City. Wait...how come they never warned you about this assignment?",,,,C75FCD014A3EAA26065B2881C7FDAB8B
-We're not very close. I only really see them on holidays.,,,,2E094CEA4209D39D4F4C99B2CF359204
-I never talk work with them.,,,,34181C1B47188E55DA9642B69892E507
-"I actually threatened to quit, but they made it clear that doing so would cost me my retirement plan, so I decided to ignore the obvious and hope for the best.",,,,C66E6DBB420CB0651BE481B02FFED0D1
-That might still be possible.,,,,883067024C3C890CCB3B20824BF9B6D3
-"Well, aren't we a couple of idiots?",,,,BC7185704391B29C0BD6D2A8DEE59F65
+"Okay, what's up? You're not even listening to me.","Так, в чём дело? Ты меня даже не слушаешь.",ai,,893E28C04A89F8E534DAEF8F715BC0E4
+Is something wrong?,Что-то не так?,ai,,A5C131C5434A56D55ED0DAB599B759E8
+Earth to Jorge...,Земля вызывает Джорджа...,ai,,A72612CA460A96D60C96DDAC7DB252F3
+"Yeah, it's not great. I am a little impressed that they found a way to throw things at windows without breaking the glass. Clever little scamps...","Да, это нехорошо. Но я немного впечатлён, что они нашли способ швырять вещи в окна, не разбивая стёкол. Умные маленькие сорванцы...",ai,,964199194AB9890616990C8D849C5A47
+When did you last see them?,Когда ты видел их в последний раз?,ai,,240DFD4441403CB5E44A3583602ACC40
+They sound cool.,"Они, похоже, классные.",ai,,815692B34515805542CE5082295789D1
+"Goodnight, Eli.","Спокойной ночи, Илай.",ai,,0EC072F049942586E2ABF7A8E2B8ABC3
+"Night, Jorge.","Доброй ночи, Джордж.",ai,,082E9201428A060AD81380BA2F672A7F
+"Night, Jorge.","Доброй ночи, Джордж.",ai,,C969BCAE431BCD6B29A9E792C0170990
+"Sorry, I'm just...I guess it's all starting to get to me.","Прости, я просто... наверное, всё это начинает на меня давить.",ai,,F47419F849A956318D2E088F73751499
+I don't want to think about that right now.,Не хочу сейчас об этом думать.,ai,,8ECBFE7E46E0FF8336A3DEA84E72C422
+It's possible nothing's going to happen to us.,"Возможно, с нами ничего не случится.",ai,,772424004257A901FC11A592C6B26AA8
+What are you going to miss the most?,По чему ты будешь скучать больше всего?,ai,,022A4E944C853F053D16398016A50366
+The work.,Работа.,ai,,D1BF5BD84A5FAC40BB0ACDA7AF611DC0
+The promise of tomorrow.,Обещание завтрашнего дня.,ai,,0198B2C74E94882D54684CB27D39DC43
+"Ah, yes. A stress like that'll make you ignore the reddest of flags. I actually threatened to quit, but they made it clear that doing so would cost me my retirement plan, so I decided to play the optimist.","Ах да. Такой стресс заставит не замечать даже самых красных флагов. Я вообще-то грозился уволиться, но мне дали понять, что это будет стоить мне пенсии, и я решил сыграть в оптимиста.",ai,,E4658E3D438B9433A6BDCFA50C770E04
+Maybe that's still possible.,"Может, это всё ещё возможно.",ai,,AE3A751E4CCE67BFDA666488EE7A6934
+"Well, aren't we a couple of idiots?","Ну и парочка мы идиотов, да?",ai,,4F298950411C615987C2F9AC3C0E1071
+"Oh, yeah! I forgot they used to be bigheads at Science City. Wait...how come they never warned you about this assignment?","А, точно! Я забыл, что они были шишками в Наукограде. Погоди... а почему они не предупредили тебя об этом назначении?",ai,,C75FCD014A3EAA26065B2881C7FDAB8B
+We're not very close. I only really see them on holidays.,Мы не очень близки. Я вижу их по-настоящему только по праздникам.,ai,,2E094CEA4209D39D4F4C99B2CF359204
+I never talk work with them.,Я никогда не говорю с ними о работе.,ai,,34181C1B47188E55DA9642B69892E507
+"I actually threatened to quit, but they made it clear that doing so would cost me my retirement plan, so I decided to ignore the obvious and hope for the best.","Вообще-то я грозился уволиться, но мне дали понять, что это будет стоить мне пенсии, так что я решил не замечать очевидного и надеяться на лучшее.",ai,,C66E6DBB420CB0651BE481B02FFED0D1
+That might still be possible.,"Может, это ещё возможно.",ai,,883067024C3C890CCB3B20824BF9B6D3
+"Well, aren't we a couple of idiots?","Ну и парочка мы идиотов, да?",ai,,BC7185704391B29C0BD6D2A8DEE59F65
 ...,,,,5CC641FE4F06560AD7369F8F60B03B62
-"Okay, what's up? You're not even listening to me.",,,,428432F343F27BC9134564A0803603B4
-"Is something wrong, Jorge?",,,,74CBDACA4C4F499FE0F082A26A6DA63E
-Earth to Jorge...,,,,BB806D884731446853038D94DC49857C
-"Nature of the job, I guess. The work's too busy to allow you to build a life and too important to give up. ",,,,2B4F808144F9613D8235D2B922189006
-My parents made it work. Kind of.,,,,8E4F62A0464B153306B4BEBF17878AD9
-I wish I could give it up.,,,,32CEA2FD4437E9D3AB6B339CB32AF9B4
-"Well, sure. The achievements of two people will almost always beat one. Unless we actually manage to find a way back through that wall.",,,,F834E04441CF08F5ABB7EB9359C53010
-"Actually, I might have a plan for that...",,,,01B98E7F4401557809FD26A9422ABF72
-What are you suggesting?,,,,53F670B344AC3C9E9C6AB6BB65C6D2E0
-"You're their son, Eli. You are their legacy.",,,,96055A00468A977FFA142E8385A8ED30
-I wish they would see it that way.,,,,1F48CC1E48D8C26F053802AD47A966A6
-"Nah, I'm just a threat to the one they already built.",,,,E61EC6DF488A1E2CD0FE78A583E2C694
-No. Fuck that. This is exactly the kind of craven shit that lets HQ do whatever sociopathic shit they want — no questions asked. We need to do something. We can't let them win.,,,,EFB8176B4537F5C21D3441BB5EE0D4B5
-What are you suggesting?,,,,1DBCDE3B4DCD6E056054E19F7D393938
-"Smells good, doesn't it? Pretty sure it's Maple.",,,,73E58E714E1B3D5F2A60C086F77A1709
-I love it.,,,,D180ACEA4BEF3D12F2A485AB46FB8B34
-[sniff it in],,,,8AF6D8CC4DEE7F84B9EBA5BE283285A8
-Then why are you going to miss them?,,,,C78D334E426C4D88FF45E6AE2E45DD45
-They're all I have.,,,,8DDA8D8A41FEAE1318CBC6A62131E3FE
-I dunno. I guess I needed to give some kind of an answer.,,,,F4B7AB4C4E00F247F13E989F690FCA9F
-"Okay, what's your answer then? What are you going to miss?",,,,5ACB73634AE5FB01720D0BA0E6DE8AAD
-Why didn't you?,,,,8FCDBE7846969918465FBA872509F7ED
-Couldn't think of anything better.,,,,DC7919B34F86AF940498F4A7F2895BD2
-I didn't want to disappoint my parents.,,,,B40D8D6F4288C96BCC4C9AB2D0F0B620
-"Shit, Eli. That's just...that's just too fucking sad. I just can't let you go out on a note like that. It's just not right.",,,,EF58C42449F7BD046768C6B510827ABB
-What are you suggesting?,,,,6F35E25D4B94CD311B2B6CB69DCEE73E
-"Me? I'm not suggesting anything. But if some bigshot PhD with a theoretical background were to come up with a cunning plan, I would probably have no choice but to follow.",,,,7269593B4E97D6932E3E4485DAC193A0
-Let me see what I can come up with...,,,,6F9E72CA4ABA710AD35955982DCF1D6B
-I might have something.,,,,C58D84D8425538124D12EEB307AC0A8A
-"Oh, yeah! I forgot they used to be bigheads at Science City. Wait...how come they never warned you about this assignment?",,,,B89FDCCC40B2D627DE3E93A9E48B4966
-I never talk work with them.,,,,ACBD7A5749119A795236069F4D84EBD6
-They stopped talking to me after I pulled that stunt that landed me here.,,,,C6C243024F9E4F1E37C0188B85049843
-As do I. I never thought the two to be mutually exclusive. But now I'm not so sure. Are you...are you familiar with the story of the Sighted Skeptic?,,,,A5D1236949C1791BE105C99CDF43F7DF
-Oh no. Are you going to try to convert me?,,,,919046484F5E08E28A350BAA54284BBF
-Can't say that I have. Enlighten me.,,,,29D780F84625C6281F1C74BBB0F2F56D
-"No, but I have the feeling you're going to tell me...",,,,F7E219C6407E96D0FACF40AF4E7C4EB4
-"It was a simple ""yes"" or ""no"" question, Eli. Not an invitation to soapbox. Though I'm starting to wonder if you might be right. Are...are you familiar with the story of the Sighted Skeptic?",,,,357D81254E9A606869FAA7A5DADEDB48
-"Oh no. You're not going to try to convert me, are you?",,,,FAA08915429A2630DB0E46AE7E683ABB
-Can't say that I have. What's it about?,,,,0091DEDA4BF1621A87058E9D374CA829
-"No, but I have the feeling you're going to tell me...",,,,1C7CD07841451052E499F7806627A1CC
-"You're still up? Go get some sleep, man! I'll take care of the fire.",,,,CAF05DC841C3CA096C0EECBDB2B42D64
+"Okay, what's up? You're not even listening to me.","Так, в чём дело? Ты меня даже не слушаешь.",ai,,428432F343F27BC9134564A0803603B4
+"Is something wrong, Jorge?","Что-то не так, Джордж?",ai,,74CBDACA4C4F499FE0F082A26A6DA63E
+Earth to Jorge...,Земля вызывает Джорджа...,ai,,BB806D884731446853038D94DC49857C
+"Nature of the job, I guess. The work's too busy to allow you to build a life and too important to give up. ","Такова уж специфика работы, наверное. Она слишком загружена, чтобы строить жизнь, и слишком важна, чтобы её бросить. ",ai,,2B4F808144F9613D8235D2B922189006
+My parents made it work. Kind of.,У моих родителей получилось. Вроде бы.,ai,,8E4F62A0464B153306B4BEBF17878AD9
+I wish I could give it up.,Хотел бы я бросить.,ai,,32CEA2FD4437E9D3AB6B339CB32AF9B4
+"Well, sure. The achievements of two people will almost always beat one. Unless we actually manage to find a way back through that wall.",Ну да. Достижения двоих почти всегда перевесят достижения одного. Если только нам и впрямь не удастся найти путь назад через эту Стену.,ai,,F834E04441CF08F5ABB7EB9359C53010
+"Actually, I might have a plan for that...","Вообще-то у меня, возможно, есть на этот случай план...",ai,,01B98E7F4401557809FD26A9422ABF72
+What are you suggesting?,Что ты предлагаешь?,ai,,53F670B344AC3C9E9C6AB6BB65C6D2E0
+"You're their son, Eli. You are their legacy.","Ты их сын, Илай. Ты и есть их наследие.",ai,,96055A00468A977FFA142E8385A8ED30
+I wish they would see it that way.,"Хотел бы я, чтобы они так считали.",ai,,1F48CC1E48D8C26F053802AD47A966A6
+"Nah, I'm just a threat to the one they already built.","Нет, я просто угроза тому, что они уже построили.",ai,,E61EC6DF488A1E2CD0FE78A583E2C694
+No. Fuck that. This is exactly the kind of craven shit that lets HQ do whatever sociopathic shit they want — no questions asked. We need to do something. We can't let them win.,"Нет. К чёрту это. Именно из-за такого трусливого дерьма штаб и творит всё, что взбредёт в его социопатическую голову, без лишних вопросов. Надо что-то делать. Нельзя позволить им победить.",ai,,EFB8176B4537F5C21D3441BB5EE0D4B5
+What are you suggesting?,Что ты предлагаешь?,ai,,1DBCDE3B4DCD6E056054E19F7D393938
+"Smells good, doesn't it? Pretty sure it's Maple.","Приятно пахнет, правда? Я почти уверен, это клён.",ai,,73E58E714E1B3D5F2A60C086F77A1709
+I love it.,Обожаю.,ai,,D180ACEA4BEF3D12F2A485AB46FB8B34
+[sniff it in],[Вдохнуть аромат],ai,,8AF6D8CC4DEE7F84B9EBA5BE283285A8
+Then why are you going to miss them?,Тогда почему ты будешь по ним скучать?,ai,,C78D334E426C4D88FF45E6AE2E45DD45
+They're all I have.,"Они — всё, что у меня есть.",ai,,8DDA8D8A41FEAE1318CBC6A62131E3FE
+I dunno. I guess I needed to give some kind of an answer.,"Не знаю. Наверное, надо было что-то ответить.",ai,,F4B7AB4C4E00F247F13E989F690FCA9F
+"Okay, what's your answer then? What are you going to miss?","Ладно, и какой тогда твой ответ? По чему ты будешь скучать?",ai,,5ACB73634AE5FB01720D0BA0E6DE8AAD
+Why didn't you?,Почему ты этого не сделал?,ai,,8FCDBE7846969918465FBA872509F7ED
+Couldn't think of anything better.,Ничего лучше в голову не пришло.,ai,,DC7919B34F86AF940498F4A7F2895BD2
+I didn't want to disappoint my parents.,Я не хотел разочаровывать родителей.,ai,,B40D8D6F4288C96BCC4C9AB2D0F0B620
+"Shit, Eli. That's just...that's just too fucking sad. I just can't let you go out on a note like that. It's just not right.","Чёрт, Илай. Это просто... это слишком чертовски грустно. Не могу я отпустить тебя на такой ноте. Это неправильно.",ai,,EF58C42449F7BD046768C6B510827ABB
+What are you suggesting?,Что ты предлагаешь?,ai,,6F35E25D4B94CD311B2B6CB69DCEE73E
+"Me? I'm not suggesting anything. But if some bigshot PhD with a theoretical background were to come up with a cunning plan, I would probably have no choice but to follow.","Я? Я ничего не предлагаю. Но если какой-нибудь важный доктор наук с теоретической подготовкой придумает хитрый план, мне, пожалуй, ничего не останется, кроме как последовать за ним.",ai,,7269593B4E97D6932E3E4485DAC193A0
+Let me see what I can come up with...,"Посмотрим, что я смогу придумать...",ai,,6F9E72CA4ABA710AD35955982DCF1D6B
+I might have something.,"Кажется, у меня кое-что есть.",ai,,C58D84D8425538124D12EEB307AC0A8A
+"Oh, yeah! I forgot they used to be bigheads at Science City. Wait...how come they never warned you about this assignment?","А, точно! Я забыл, что они были шишками в Наукограде. Погоди... а почему они не предупредили тебя об этом назначении?",ai,,B89FDCCC40B2D627DE3E93A9E48B4966
+I never talk work with them.,Я никогда не говорю с ними о работе.,ai,,ACBD7A5749119A795236069F4D84EBD6
+They stopped talking to me after I pulled that stunt that landed me here.,"Они перестали со мной разговаривать после моей выходки, из-за которой я здесь оказался.",ai,,C6C243024F9E4F1E37C0188B85049843
+As do I. I never thought the two to be mutually exclusive. But now I'm not so sure. Are you...are you familiar with the story of the Sighted Skeptic?,"И я тоже. Я никогда не считал, что одно исключает другое. Но теперь не уверен. Ты... ты знаком с историей о Зрячем Скептике?",ai,,A5D1236949C1791BE105C99CDF43F7DF
+Oh no. Are you going to try to convert me?,О нет. Ты собираешься меня обратить?,ai,,919046484F5E08E28A350BAA54284BBF
+Can't say that I have. Enlighten me.,"Не могу сказать, что знаком. Просвети меня.",ai,,29D780F84625C6281F1C74BBB0F2F56D
+"No, but I have the feeling you're going to tell me...","Нет, но чувствую, ты мне расскажешь...",ai,,F7E219C6407E96D0FACF40AF4E7C4EB4
+"It was a simple ""yes"" or ""no"" question, Eli. Not an invitation to soapbox. Though I'm starting to wonder if you might be right. Are...are you familiar with the story of the Sighted Skeptic?","Это был простой вопрос «да» или «нет», Илай. Не приглашение толкать речь. Хотя я начинаю задумываться, не прав ли ты. Ты... ты знаком с историей о Зрячем Скептике?",ai,,357D81254E9A606869FAA7A5DADEDB48
+"Oh no. You're not going to try to convert me, are you?",О нет. Ты же не собираешься меня обращать?,ai,,FAA08915429A2630DB0E46AE7E683ABB
+Can't say that I have. What's it about?,"Не могу сказать, что знаком. О чём она?",ai,,0091DEDA4BF1621A87058E9D374CA829
+"No, but I have the feeling you're going to tell me...","Нет, но чувствую, ты мне расскажешь...",ai,,1C7CD07841451052E499F7806627A1CC
+"You're still up? Go get some sleep, man! I'll take care of the fire.","Ты ещё не спишь? Иди поспи, дружище! Я присмотрю за костром.",ai,,CAF05DC841C3CA096C0EECBDB2B42D64
 Will do.,Хорошо.,ok,,329AC4954EA711B6999C93ADB86EE25A
-"Never heard anything like this in city. You know, we might be the only people alive who know what real quiet sounds like.",,,,400DCDE9468A684A4E2148BA0FE52052
-I like it.,,,,5F82DF5F4D2CA2F0D58E2D8A901CB46C
-I'm going to miss it.,,,,FA35036E478B57885A3776B635004214
-"I can appreciate that. Growing up in the West End, it was always comforting to believe that, no matter how bad things would get, the Shepherd was watching over us. I'm beginning to think that might not be the case anymore. Are...are you familiar with the story of the Sighted Skeptic?",,,,A6EEA44245AB9462D21DAAAA754BEAD1
-Oh no. Are you going to try to convert me?,,,,9BC1FF0A4A7E872AB8CA358D13618F02
-Can't say that I have. What's it about?,,,,B46FCBE6479CAAA81F7AA89F99AC5C7D
-"No, but I have the feeling you're going to tell me...",,,,7B0E3B554A6D11A3FA4CD4B09E5AB078
-"That's very refreshing to hear, Eli. Most of our colleagues in Science City aren't as...open-minded about the Shepherd's teachings. Are you familiar with the story of the Sighted Skeptic?",,,,7F777AD34CF16C7295E482A97AF71CE9
-Oh no. Are you going to try to convert me?,,,,8D014ABC4B9E38BDA8AD1A91DB63CF1C
-Can't say that I have. What's it about?,,,,8A9236D84B2991B543DC8D8ED86D2EC0
-"No, but I have the feeling you're going to tell me...",,,,4D29388443D3A1BB68AE38ABBE2BB4D4
-"I did. All my life. Growing up in the West End, it was always comfort knowing that, no matter how bad things got, the Shepherd was always out there, watching over me. Ready to intervene, if necessary. But now? I don't... Are you familiar with the story of the Sighted Skeptic?",,,,CDE3F80D4447690AA5B567A22DDB41D9
-Oh no. Are you going to try to convert me?,,,,83E76D3148F02FF1037A1AA34913F05A
-"Can't say that I have. Enlighten me. ",,,,A6534DD647A732B86C25D9B0AD02909D
-"No, but I have the feeling you're going to tell me...",,,,7C0DE20541A50C2DD1C3ACBB8E8F5BAD
-Not at all. It's just...it's a story that's been on my mind ever since we passed The Wall. Feels particularly relevent to the... predicament we find ourselves in.,,,,67380A634FA4D86694C58F8BACBEE005
-What predicament? Being on the verge of wild success?,,,,DE1BD0F14BBEC14939F396930D1593EA
-What's it about?,,,,E2B3B1BB4C9C094AAAAFF7BD3AA40750
-"Years ago, long before the creation of The Wall, the Shepherd would scour the wasteland, guiding lost followers through the mountains towards the promised land. The path was treacherous and the elevation so high that each follower would inevitably become blinded by the sun, forcing them to rely entirely on His voice for guidance.",,,,31AD0D7A46048E17980B8CBFFF5E1403
-(REALIST) Why didn't the Shepherd also lose his sight?,,,,DA67DD934110B4D2A5419D990CE6E718
-(CYNIC) Why wouldn't the Shepherd just give them sunglasses?,,,,B5577FA545AD57FA4C2BF599C23EF4B7
-Hmm.,,,,FB8344784C8813242ECCCCBE1B0CBDE2
-[Nod],,,,658D8FB246864558A5E8B99C010671CF
-"(IDEALIST) Probably just temporary blindness, right? ",,,,F5C0451E49AD9E5CDD71328E383CF312
-"Ah, the faith of the faithless really is something to behold. You really don't see it, do you?",,,,24BFCCC04BCC9BF859E8AAADC1FEF743
-"Just get to the point, man.",,,,064C1F034D80015493FB1DAB3E410C02
-See what?,,,,B31AC5CB4E43125DA5FADEA35129F2BD
-"Not you. Us. The minute we went outside the wall, we became a threat to the rest of the flock. Because of what we've seen.",,,,EF6D98B642C150DDF68F75875C8FEFEC
-"I think we're more like the Shepherd, honestly. We've both gone beyond the wall and come back.",,,,346868A84492651B6D1110952E1B2496
-How do you figure?,,,,B6608DD7484914A1B6F24B8BEB42B64E
-Sorry. I just...it's a story that's been on my mind ever since we passed the Wall. I think it's particularly relevent to the... predicament we find ourselves in.,,,,AC0114194808EC6CB38E63B9A2929BCE
-Go on...,,,,68425EBE481665E6E8C0D9A6C40FA879
-What predicament? Being on the verge of wild success?,,,,338C518846A44149ED1120A098F4D629
-Because he's the Shepherd.,,,,9ADB0C0740899856C44A39AA5F3D3062
-Seems awfully convenient.,,,,B161B44F4002EAE96658859EE1B37628
-That makes him impervious to UV rays?,,,,4F4627274F2AD1F7729D39BAF1E2DE03
-How's the prep coming?,,,,B853F30446E253F18DBB4E8AB89B7904
-I think everything's ready.,,,,38C408164B81BBCCB3ACA1A32680CB74
-What exactly should I be doing again?,,,,ED0FA82B4AAF8FB9E1F623A925638CD9
-I think we should go with a different approach.,,,,46EF3E0741AC52405D8A46B5684114A7
+"Never heard anything like this in city. You know, we might be the only people alive who know what real quiet sounds like.","В Городе такого не услышишь. Знаешь, мы, может, единственные из живых, кто знает, как звучит настоящая тишина.",ai,,400DCDE9468A684A4E2148BA0FE52052
+I like it.,Мне нравится.,ai,,5F82DF5F4D2CA2F0D58E2D8A901CB46C
+I'm going to miss it.,Я буду по ней скучать.,ai,,FA35036E478B57885A3776B635004214
+"I can appreciate that. Growing up in the West End, it was always comforting to believe that, no matter how bad things would get, the Shepherd was watching over us. I'm beginning to think that might not be the case anymore. Are...are you familiar with the story of the Sighted Skeptic?","Я это понимаю. Когда я рос в Уэст-Энде, меня всегда успокаивала вера в то, что как бы плохо ни было, Пастырь присматривает за нами. Теперь я начинаю думать, что это уже не так. Ты... ты знаком с историей о Зрячем Скептике?",ai,,A6EEA44245AB9462D21DAAAA754BEAD1
+Oh no. Are you going to try to convert me?,О нет. Ты собираешься меня обратить?,ai,,9BC1FF0A4A7E872AB8CA358D13618F02
+Can't say that I have. What's it about?,"Не могу сказать, что знаком. О чём она?",ai,,B46FCBE6479CAAA81F7AA89F99AC5C7D
+"No, but I have the feeling you're going to tell me...","Нет, но чувствую, ты мне расскажешь...",ai,,7B0E3B554A6D11A3FA4CD4B09E5AB078
+"That's very refreshing to hear, Eli. Most of our colleagues in Science City aren't as...open-minded about the Shepherd's teachings. Are you familiar with the story of the Sighted Skeptic?","Приятно это слышать, Илай. Большинство наших коллег в Наукограде не так... непредвзяты к учению Пастыря. Ты знаком с историей о Зрячем Скептике?",ai,,7F777AD34CF16C7295E482A97AF71CE9
+Oh no. Are you going to try to convert me?,О нет. Ты собираешься меня обратить?,ai,,8D014ABC4B9E38BDA8AD1A91DB63CF1C
+Can't say that I have. What's it about?,"Не могу сказать, что знаком. О чём она?",ai,,8A9236D84B2991B543DC8D8ED86D2EC0
+"No, but I have the feeling you're going to tell me...","Нет, но чувствую, ты мне расскажешь...",ai,,4D29388443D3A1BB68AE38ABBE2BB4D4
+"I did. All my life. Growing up in the West End, it was always comfort knowing that, no matter how bad things got, the Shepherd was always out there, watching over me. Ready to intervene, if necessary. But now? I don't... Are you familiar with the story of the Sighted Skeptic?","Верил. Всю жизнь. Когда я рос в Уэст-Энде, меня всегда утешало знание, что как бы плохо ни было, Пастырь где-то рядом и присматривает за мной. Готов вмешаться, если понадобится. А теперь? Я не... Ты знаком с историей о Зрячем Скептике?",ai,,CDE3F80D4447690AA5B567A22DDB41D9
+Oh no. Are you going to try to convert me?,О нет. Ты собираешься меня обратить?,ai,,83E76D3148F02FF1037A1AA34913F05A
+"Can't say that I have. Enlighten me. ","Не могу сказать, что знаком. Просвети меня. ",ai,,A6534DD647A732B86C25D9B0AD02909D
+"No, but I have the feeling you're going to tell me...","Нет, но чувствую, ты мне расскажешь...",ai,,7C0DE20541A50C2DD1C3ACBB8E8F5BAD
+Not at all. It's just...it's a story that's been on my mind ever since we passed The Wall. Feels particularly relevent to the... predicament we find ourselves in.,"Вовсе нет. Просто... эта история не выходит у меня из головы с тех пор, как мы миновали Стену. По-моему, она особенно подходит к... положению, в котором мы оказались.",ai,,67380A634FA4D86694C58F8BACBEE005
+What predicament? Being on the verge of wild success?,Какое положение? На пороге оглушительного успеха?,ai,,DE1BD0F14BBEC14939F396930D1593EA
+What's it about?,О чём она?,ai,,E2B3B1BB4C9C094AAAAFF7BD3AA40750
+"Years ago, long before the creation of The Wall, the Shepherd would scour the wasteland, guiding lost followers through the mountains towards the promised land. The path was treacherous and the elevation so high that each follower would inevitably become blinded by the sun, forcing them to rely entirely on His voice for guidance.","Много лет назад, задолго до возведения Стены, Пастырь обходил пустошь, ведя заблудших последователей через горы к земле обетованной. Путь был коварен, а высота такова, что каждый последователь неизбежно слепнул от солнца и вынужден был полностью полагаться на Его голос.",ai,,31AD0D7A46048E17980B8CBFFF5E1403
+(REALIST) Why didn't the Shepherd also lose his sight?,[РЕАЛИСТ] Почему Пастырь тоже не потерял зрение?,ai,,DA67DD934110B4D2A5419D990CE6E718
+(CYNIC) Why wouldn't the Shepherd just give them sunglasses?,[ЦИНИК] Почему Пастырь просто не дал им солнцезащитные очки?,ai,,B5577FA545AD57FA4C2BF599C23EF4B7
+Hmm.,Хм.,ai,,FB8344784C8813242ECCCCBE1B0CBDE2
+[Nod],[Кивнуть],ai,,658D8FB246864558A5E8B99C010671CF
+"(IDEALIST) Probably just temporary blindness, right? ","[ИДЕАЛИСТ] Наверное, просто временная слепота, да? ",ai,,F5C0451E49AD9E5CDD71328E383CF312
+"Ah, the faith of the faithless really is something to behold. You really don't see it, do you?","Ах, вера безверных — зрелище, достойное внимания. Ты правда этого не видишь, да?",ai,,24BFCCC04BCC9BF859E8AAADC1FEF743
+"Just get to the point, man.","Давай ближе к делу, дружище.",ai,,064C1F034D80015493FB1DAB3E410C02
+See what?,Чего не вижу?,ai,,B31AC5CB4E43125DA5FADEA35129F2BD
+"Not you. Us. The minute we went outside the wall, we became a threat to the rest of the flock. Because of what we've seen.","Не ты. Мы. В ту минуту, как мы вышли за Стену, мы стали угрозой для остальной паствы. Из-за того, что видели.",ai,,EF6D98B642C150DDF68F75875C8FEFEC
+"I think we're more like the Shepherd, honestly. We've both gone beyond the wall and come back.","Если честно, мне кажется, мы больше похожи на Пастыря. Мы оба ушли за Стену и вернулись.",ai,,346868A84492651B6D1110952E1B2496
+How do you figure?,С чего ты взял?,ai,,B6608DD7484914A1B6F24B8BEB42B64E
+Sorry. I just...it's a story that's been on my mind ever since we passed the Wall. I think it's particularly relevent to the... predicament we find ourselves in.,"Прости. Просто... эта история не выходит у меня из головы с тех пор, как мы миновали Стену. Думаю, она особенно подходит к... положению, в котором мы оказались.",ai,,AC0114194808EC6CB38E63B9A2929BCE
+Go on...,Продолжай...,ai,,68425EBE481665E6E8C0D9A6C40FA879
+What predicament? Being on the verge of wild success?,Какое положение? На пороге оглушительного успеха?,ai,,338C518846A44149ED1120A098F4D629
+Because he's the Shepherd.,Потому что он Пастырь.,ai,,9ADB0C0740899856C44A39AA5F3D3062
+Seems awfully convenient.,Уж очень удобно.,ai,,B161B44F4002EAE96658859EE1B37628
+That makes him impervious to UV rays?,И это делает его невосприимчивым к ультрафиолету?,ai,,4F4627274F2AD1F7729D39BAF1E2DE03
+How's the prep coming?,Как подготовка?,ai,,B853F30446E253F18DBB4E8AB89B7904
+I think everything's ready.,"Кажется, всё готово.",ai,,38C408164B81BBCCB3ACA1A32680CB74
+What exactly should I be doing again?,"Что мне, напомни, нужно делать?",ai,,ED0FA82B4AAF8FB9E1F623A925638CD9
+I think we should go with a different approach.,"По-моему, нужен другой подход.",ai,,46EF3E0741AC52405D8A46B5684114A7
 Still working on it.,Все еще собираю.,ok,,E3D1333E4BDB8531587CBFBF746B567F
 Yes.,Да.,ok,,A3FEB9E9403A9806B0B3728B107D4883
-"Alright, go on.",,,,1B95770044F9057E6805BDA31FEC8A1F
-Fair enough.,,,,39CB4AD742C1F9AB6E1442BE66A28A96
-I don't know. I suppose because they'd melt.,,,,D16864104C70F91976DD6383A5907921
-"If the heat is melting plastic, they would surely die of heatstroke as well.",,,,6C773C50462F31C7C2BE0184532C7CBA
-Makes sense. Keep going.,,,,98C0E0DA48EB326D29F8F9A6223C646C
-"Alright, I made up the thing about melting. Maybe the Shepherd just didn't want to lug hundreds of pairs of sunglasses with him on top of leading people to the promised land.",,,,37EC0DF9455916EE02E25D9D3967858F
-He could have just told them to shield their eyes when they got close.,,,,EF1565734A247B611E66FFAA35DFCEF8
-Seems kind of worth it to prevent blindness.,,,,AA2556884F49D7A5ED0F69AE2A4156CA
-Right. I wouldn't either.,,,,1DE605924168710764FC4FBBE0DCE044
-"Once they reached the City, the Shepherd promised to guide them towards the ocean, where their sight would be restored by the healing waters of The Great Blue.",,,,835B53AA4FA297A6AD9C539B097F71EB
-(CYNIC) Seems unlikely.,,,,6CB01431417227AEF83782BBB6FB3E7C
-Convenient.,,,,74B2B4F34B6150D1595CB5A4CFBA3C1A
+"Alright, go on.","Ладно, продолжай.",ai,,1B95770044F9057E6805BDA31FEC8A1F
+Fair enough.,Справедливо.,ai,,39CB4AD742C1F9AB6E1442BE66A28A96
+I don't know. I suppose because they'd melt.,"Не знаю. Наверное, потому что они бы расплавились.",ai,,D16864104C70F91976DD6383A5907921
+"If the heat is melting plastic, they would surely die of heatstroke as well.","Если жара плавит пластик, они бы наверняка умерли и от теплового удара.",ai,,6C773C50462F31C7C2BE0184532C7CBA
+Makes sense. Keep going.,Логично. Продолжай.,ai,,98C0E0DA48EB326D29F8F9A6223C646C
+"Alright, I made up the thing about melting. Maybe the Shepherd just didn't want to lug hundreds of pairs of sunglasses with him on top of leading people to the promised land.","Ладно, про плавление я выдумал. Может, Пастырь просто не хотел таскать с собой сотни пар очков в придачу к тому, чтобы вести людей в землю обетованную.",ai,,37EC0DF9455916EE02E25D9D3967858F
+He could have just told them to shield their eyes when they got close.,"Он мог бы просто сказать им прикрыть глаза, когда они приблизятся.",ai,,EF1565734A247B611E66FFAA35DFCEF8
+Seems kind of worth it to prevent blindness.,"Ради того, чтобы не ослепнуть, это, по-моему, того стоит.",ai,,AA2556884F49D7A5ED0F69AE2A4156CA
+Right. I wouldn't either.,Верно. Я бы тоже не стал.,ai,,1DE605924168710764FC4FBBE0DCE044
+"Once they reached the City, the Shepherd promised to guide them towards the ocean, where their sight would be restored by the healing waters of The Great Blue.","Когда они дошли до Города, Пастырь обещал привести их к океану, где их зрение вернут целительные воды Великой Синевы.",ai,,835B53AA4FA297A6AD9C539B097F71EB
+(CYNIC) Seems unlikely.,[ЦИНИК] Сомнительно.,ai,,6CB01431417227AEF83782BBB6FB3E7C
+Convenient.,Удобно.,ai,,74B2B4F34B6150D1595CB5A4CFBA3C1A
 Nice.,Мило.,ok,,8B35EAD34A2C200277FA948017D44261
-[Nod],,,,6075CE3C43E1154A7D82D18356F93BE8
-"Can you stop focusing on this? The blindness is only temporary. Once they get to the City, they regain it by washing themselves in The Great Blue. Now, will you please stop interrupting me?",,,,D9550C234CA1472685548298660DAE3B
+[Nod],[Кивнуть],ai,,6075CE3C43E1154A7D82D18356F93BE8
+"Can you stop focusing on this? The blindness is only temporary. Once they get to the City, they regain it by washing themselves in The Great Blue. Now, will you please stop interrupting me?","Можешь перестать на этом зацикливаться? Слепота лишь временная. Когда они приходят в Город, они возвращают зрение, омываясь в Великой Синеве. А теперь, пожалуйста, хватит меня перебивать?",ai,,D9550C234CA1472685548298660DAE3B
 I'm just curious.,Мне просто интересно.,ok,,9EEDF1CE49E1F756773B13A88864700F
-[Shrug],,,,7547101847942B6035FE698DFF3DDF95
-"Well...much like Micah, we have now seen things that we weren't supposed to see. Which makes us a liability.",,,,409C66BE45AC14A2A3EC1ABD204D4AE2
-You're talking about the Artifact.,,,,A320BAF3489053809AFC58BD3BB66742
-You're talking about leaving the city.,,,,AC56D2C748987254A988F4908E9DD670
-"Exactly. After reaching the City, the Shepherd promised to guide them towards the ocean, where their sight would be restored by the cool waters of The Great Blue.",,,,056589594868A3EC1327778CC95B8BEC
+[Shrug],[Пожать плечами],ai,,7547101847942B6035FE698DFF3DDF95
+"Well...much like Micah, we have now seen things that we weren't supposed to see. Which makes us a liability.","Что ж... как и Михей, мы увидели то, чего нам видеть не полагалось. А значит, мы стали проблемой.",ai,,409C66BE45AC14A2A3EC1ABD204D4AE2
+You're talking about the Artifact.,Ты об Артефакте.,ai,,A320BAF3489053809AFC58BD3BB66742
+You're talking about leaving the city.,"Ты о том, что мы покинули Город.",ai,,AC56D2C748987254A988F4908E9DD670
+"Exactly. After reaching the City, the Shepherd promised to guide them towards the ocean, where their sight would be restored by the cool waters of The Great Blue.","Именно. Дойдя до Города, Пастырь обещал привести их к океану, где их зрение вернут прохладные воды Великой Синевы.",ai,,056589594868A3EC1327778CC95B8BEC
 Of course.,Конечно.,ok,,A13AA72143ECAF7C24ADAD89970C8C67
 Nice.,Мило.,ok,,22BFB7804F001E34C6C3D58C3F473D02
-It's...not to be taken literally. It's more of a parable. A lesson. About learning things that betray the common good.,,,,EC3E3EC34E495F19C889C78CA7A4E115
-What's that have to do with us?,,,,6C827D2B482D444BE65C4CB5385E20C8
-Go on.,,,,A1FE556D47EB6687976782BEBAD5640E
-"One year, a follower named Micah was so afraid of losing his sight—even temporarily—that he covered his eyes with bandages in advance to protect them from the sun’s rays.",,,,90E623C4484EC20B082841A99959B3DF
-Smart man.,,,,D5F983154A6E5A302B2858A63708828B
-I like Micah.,,,,FE6532454A4D2D119F660AA043FB6FB8
-[Nod],,,,F75231A643A0F6FB90B3F98CD4054D25
-"Once the flock descended from the highest point of the mountain, Micah began to remove his bandages. Finally able to see, Micah became acutely aware of all the dangers that surrounded them. He started screaming words of warnings to his fellow travelers, causing them to doubt the Shepherd's calm directives, leading some of them to misstep and tumble down the mountain towards their deaths.",,,,7610D1374CAD87C8378FB1B835AAABF7
-[Shake head sadly],,,,6C6571484746EE2F2D76EDA59E143EF0
-What an asshole.,,,,AE5D896F40A20D767875C2A92E81BC5D
-[Nod],,,,D9EC28F74273C8DB0DE354B57A868195
-You sure?,,,,672F9CE84A577E68688CE38AA1E87438
+It's...not to be taken literally. It's more of a parable. A lesson. About learning things that betray the common good.,"Это... не надо понимать буквально. Это скорее притча. Урок. О том, что бывает, когда узнаёшь то, что идёт вразрез с общим благом.",ai,,EC3E3EC34E495F19C889C78CA7A4E115
+What's that have to do with us?,При чём тут мы?,ai,,6C827D2B482D444BE65C4CB5385E20C8
+Go on.,Продолжай.,ai,,A1FE556D47EB6687976782BEBAD5640E
+"One year, a follower named Micah was so afraid of losing his sight—even temporarily—that he covered his eyes with bandages in advance to protect them from the sun’s rays.","Однажды последователь по имени Михей так боялся потерять зрение — пусть даже временно, — что заранее обмотал глаза повязками, чтобы защитить их от солнечных лучей.",ai,,90E623C4484EC20B082841A99959B3DF
+Smart man.,Умный мужик.,ai,,D5F983154A6E5A302B2858A63708828B
+I like Micah.,Мне нравится Михей.,ai,,FE6532454A4D2D119F660AA043FB6FB8
+[Nod],[Кивнуть],ai,,F75231A643A0F6FB90B3F98CD4054D25
+"Once the flock descended from the highest point of the mountain, Micah began to remove his bandages. Finally able to see, Micah became acutely aware of all the dangers that surrounded them. He started screaming words of warnings to his fellow travelers, causing them to doubt the Shepherd's calm directives, leading some of them to misstep and tumble down the mountain towards their deaths.","Когда паства спустилась с самой высокой точки горы, Михей начал снимать повязки. Наконец обретя возможность видеть, Михей остро осознал все опасности, что их окружали. Он принялся выкрикивать предостережения спутникам, из-за чего те начали сомневаться в спокойных указаниях Пастыря, и некоторые оступились и рухнули с горы навстречу смерти.",ai,,7610D1374CAD87C8378FB1B835AAABF7
+[Shake head sadly],[Грустно покачать головой],ai,,6C6571484746EE2F2D76EDA59E143EF0
+What an asshole.,Вот козёл.,ai,,AE5D896F40A20D767875C2A92E81BC5D
+[Nod],[Кивнуть],ai,,D9EC28F74273C8DB0DE354B57A868195
+You sure?,Уверен?,ai,,672F9CE84A577E68688CE38AA1E87438
 Yes.,Да.,ok,,30C8AA7E43D31A9AF26F9CA5E37F1DD1
-"Actually, now that you mention it... Give me a second.",,,,2BC7DCAB423B9107F2F8269305B4E5F3
-"This chaos caused Micah’s warnings to become even louder, even more hysterical. Even more of followers began to lose their footing and began to fall! Desperate to stop this carnage, the Shepherd marched towards Micah and struck him with his staff until he fell unconscious.",,,,0D6712AB4743242A64B9B8A0B7E629BD
-Hmm.,,,,24B5654947873B37160A27877AB95A70
-Badass.,,,,0DECBABF4FF5C75B93492EA6C210F9FB
-That's what I'd do too.,,,,44BAD64E4334C60BF056838887B1A7B6
-"With Micah silenced, the followers were soon able to continue along the path, following the Shepherd's calm and trusted voice towards the City where their sights were soon restored and the rest of their days were spent in health and prosperity.",,,,72322B524677D337BC7AA3AA00BBEA01
-What happened to Micah?,,,,EC19D13D44E9B3FFC0569F816505AEDC
-Good for them.,,,,18EA23B740E3F362F2869AA7C8DC96EF
-Sweet.,,,,9101E71444C333B4CB44D6ACBF4896D2
-"It's believed that Micah remains at the top of that mountain to this very day, where he screams into the void, too paralyzed by fear to move forward.",,,,1056D237416969C88E2B538A97AEDF8B
-"So, let me guess. I'm supposed to be Micah?",,,,0A741ACD4B210BB43A95CBB55F260E0E
-Okay. But what's your point?,,,,1A5A0374422E8454B844118BC91DFEAB
-Wouldn't Micah be dead by now?,,,,29727B2044CABFDED6A27CB1D276636D
+"Actually, now that you mention it... Give me a second.","Вообще-то, раз ты заговорил... Дай мне секунду.",ai,,2BC7DCAB423B9107F2F8269305B4E5F3
+"This chaos caused Micah’s warnings to become even louder, even more hysterical. Even more of followers began to lose their footing and began to fall! Desperate to stop this carnage, the Shepherd marched towards Micah and struck him with his staff until he fell unconscious.","Этот хаос заставил предостережения Михея звучать ещё громче, ещё истеричнее. Всё больше последователей теряли опору и падали! Отчаявшись остановить эту бойню, Пастырь подошёл к Михею и бил его посохом, пока тот не упал без чувств.",ai,,0D6712AB4743242A64B9B8A0B7E629BD
+Hmm.,Хм.,ai,,24B5654947873B37160A27877AB95A70
+Badass.,Крут.,ai,,0DECBABF4FF5C75B93492EA6C210F9FB
+That's what I'd do too.,Я бы тоже так поступил.,ai,,44BAD64E4334C60BF056838887B1A7B6
+"With Micah silenced, the followers were soon able to continue along the path, following the Shepherd's calm and trusted voice towards the City where their sights were soon restored and the rest of their days were spent in health and prosperity.","Когда Михей умолк, последователи вскоре смогли продолжить путь, следуя за спокойным и надёжным голосом Пастыря к Городу, где им вскоре вернули зрение и где они прожили остаток дней в здравии и достатке.",ai,,72322B524677D337BC7AA3AA00BBEA01
+What happened to Micah?,Что стало с Михеем?,ai,,EC19D13D44E9B3FFC0569F816505AEDC
+Good for them.,Рад за них.,ai,,18EA23B740E3F362F2869AA7C8DC96EF
+Sweet.,Отлично.,ai,,9101E71444C333B4CB44D6ACBF4896D2
+"It's believed that Micah remains at the top of that mountain to this very day, where he screams into the void, too paralyzed by fear to move forward.","Считается, что Михей остаётся на вершине той горы по сей день и кричит в пустоту, слишком парализованный страхом, чтобы идти дальше.",ai,,1056D237416969C88E2B538A97AEDF8B
+"So, let me guess. I'm supposed to be Micah?","Так, дай угадаю. Я, по-твоему, Михей?",ai,,0A741ACD4B210BB43A95CBB55F260E0E
+Okay. But what's your point?,Ладно. Но к чему ты ведёшь?,ai,,1A5A0374422E8454B844118BC91DFEAB
+Wouldn't Micah be dead by now?,Разве Михей не должен был уже умереть?,ai,,29727B2044CABFDED6A27CB1D276636D
 What?,Что?,ok,,3F710DD54E5486F9E4698FA44B5B83FE
-Nothing.,,,,EFD1B0714C1B67B3857310B8C24649BB
-I didn't say anything.,,,,4786FA224CB929E105A8B9BA7DAA9DAE
-"And what, faked their deaths? If that's true, where are they? No, there's something deeper going on here. I think...I think they're not being allowed to come back. Because of what they know. And what we know.",,,,05C8D3AE426C50A017D0D58DF7F54F61
-What do we know?,,,,5EF8E8124184A8EE73D0E58B090DF5F2
-I think you've been out in the sun too long.,,,,33C493E346FAC586A42BACAFEDE0C9B7
-How many people can you name who have returned to the city after leaving it?,,,,EBE43196469C49279C9F48AAA81CA778
-I can't. We'd be the first.,,,,1574599C4F4914E1BD7AB5BBB027B5B4
-The Shepherd.,,,,1313C5934475A8EB9DEA5F93A804067D
-"None by name. I've heard rumours, though.",,,,36E2D1F4400E362A5078C8A20A6FD061
-All those people in the story.,,,,5849F0FE486FA1B5EFD1FFA720E71154
-"That's what I'm thinking. This was supposed to be a suicide mission. Everything we've been told about the world beyond the wall says that. And yet HQ is completely unphased by the fact that we've been out here six months. They've even given us enough provisions to last a year. It doesn't add up. ",,,,4F598A624CC2C5F483039CA1F16F6911
-Maybe they're just...optimistic.,,,,82A35EEE4D752AE7ED23E094BA683F99
-They just want us to be prepared.,,,,A89C38AF4B0058C6C66D3A8E954DEA69
-What reason would they have to eliminate us? We don't know anything.,,,,F107B91F4956C31F1CF469A572E0AE86
-"Not exactly, though that may be part of it. I'm talking about leaving the city. That we know what it's actually like out here.",,,,0AD463E641A2938B7E353E94370AB646
-How does that make us a liability?,,,,A1853EFB4DE4C22F0CA2DF92E65916F7
-"But there's nothing out here. I mean, besides the Artifact.",,,,8C4B2CD04667C80DD29C58BB65B1B47E
-We haven't come back yet. And that's my point. How many people can you name who've returned from beyond the wall?,,,,8A47907140BF10E2E968C5B205DB3EC8
-We'd be the first.,,,,E5DCBF84453454FC49C671A4086576DA
-"The, uh...the Shepherd.",,,,D71ADFCD43F5234669D792A2FA2B3C20
-I've heard rumours of others.,,,,E0E624DA461BA8DDD163B9A88435D9A1
-"I did. I mean...I do. It's just... The scripture also claims that the outside world is completely unliveable. That's the core tenent of Scripture. Even the strongest and most well-equipped among us would perish within days, if not hours. We've been here six months, Eli. There's no danger. Which means there must be another reason why no one has come back.",,,,DF7C26EE45465EE8844A5A907D134688
-Someone's stopping them. Or something.,,,,15D763BD437924D0D0167896D6F730D2
-Maybe they like it better out here.,,,,C8DBE2684C728427DC154E84787B71DE
-Good. Then it's just a matter of time. Go get some rest. We'll need to be at our sharpest when this visitor arrives.,,,,7E3E879F40CDA4B4F7782495ECDD9039
+Nothing.,Ничего.,ai,,EFD1B0714C1B67B3857310B8C24649BB
+I didn't say anything.,Я ничего не говорил.,ai,,4786FA224CB929E105A8B9BA7DAA9DAE
+"And what, faked their deaths? If that's true, where are they? No, there's something deeper going on here. I think...I think they're not being allowed to come back. Because of what they know. And what we know.","И что, инсценировали свою смерть? Если так, то где они? Нет, тут всё глубже. Я думаю... я думаю, им не позволяют вернуться. Из-за того, что они знают. И из-за того, что знаем мы.",ai,,05C8D3AE426C50A017D0D58DF7F54F61
+What do we know?,Что мы знаем?,ai,,5EF8E8124184A8EE73D0E58B090DF5F2
+I think you've been out in the sun too long.,"По-моему, ты слишком долго пробыл на солнце.",ai,,33C493E346FAC586A42BACAFEDE0C9B7
+How many people can you name who have returned to the city after leaving it?,"Скольких людей, вернувшихся в Город после того, как покинули его, ты можешь назвать?",ai,,EBE43196469C49279C9F48AAA81CA778
+I can't. We'd be the first.,Не могу. Мы были бы первыми.,ai,,1574599C4F4914E1BD7AB5BBB027B5B4
+The Shepherd.,Пастырь.,ai,,1313C5934475A8EB9DEA5F93A804067D
+"None by name. I've heard rumours, though.",Ни одного по имени. Но слухи доходили.,ai,,36E2D1F4400E362A5078C8A20A6FD061
+All those people in the story.,Все те люди из истории.,ai,,5849F0FE486FA1B5EFD1FFA720E71154
+"That's what I'm thinking. This was supposed to be a suicide mission. Everything we've been told about the world beyond the wall says that. And yet HQ is completely unphased by the fact that we've been out here six months. They've even given us enough provisions to last a year. It doesn't add up. ","Вот и я о том. Это должна была быть самоубийственная миссия. Всё, что нам говорили о мире за Стеной, на это указывает. И всё же штаб ничуть не смущает, что мы здесь уже полгода. Нам даже выдали припасов на целый год. Что-то не сходится. ",ai,,4F598A624CC2C5F483039CA1F16F6911
+Maybe they're just...optimistic.,"Может, они просто... оптимисты.",ai,,82A35EEE4D752AE7ED23E094BA683F99
+They just want us to be prepared.,"Они просто хотят, чтобы мы были готовы.",ai,,A89C38AF4B0058C6C66D3A8E954DEA69
+What reason would they have to eliminate us? We don't know anything.,Зачем им нас устранять? Мы же ничего не знаем.,ai,,F107B91F4956C31F1CF469A572E0AE86
+"Not exactly, though that may be part of it. I'm talking about leaving the city. That we know what it's actually like out here.","Не совсем, хотя и это может быть частью. Я о том, что мы покинули Город. Что мы знаем, как здесь на самом деле.",ai,,0AD463E641A2938B7E353E94370AB646
+How does that make us a liability?,И чем это делает нас проблемой?,ai,,A1853EFB4DE4C22F0CA2DF92E65916F7
+"But there's nothing out here. I mean, besides the Artifact.","Но здесь же ничего нет. Ну, кроме Артефакта.",ai,,8C4B2CD04667C80DD29C58BB65B1B47E
+We haven't come back yet. And that's my point. How many people can you name who've returned from beyond the wall?,Мы ещё не вернулись. В этом-то и суть. Скольких вернувшихся из-за Стены ты можешь назвать?,ai,,8A47907140BF10E2E968C5B205DB3EC8
+We'd be the first.,Мы были бы первыми.,ai,,E5DCBF84453454FC49C671A4086576DA
+"The, uh...the Shepherd.",Э-э... Пастырь.,ai,,D71ADFCD43F5234669D792A2FA2B3C20
+I've heard rumours of others.,Я слышал слухи о других.,ai,,E0E624DA461BA8DDD163B9A88435D9A1
+"I did. I mean...I do. It's just... The scripture also claims that the outside world is completely unliveable. That's the core tenent of Scripture. Even the strongest and most well-equipped among us would perish within days, if not hours. We've been here six months, Eli. There's no danger. Which means there must be another reason why no one has come back.","Верил. То есть... верю. Просто... Писание ещё утверждает, что внешний мир совершенно непригоден для жизни. Это основной догмат Писания. Даже самые сильные и хорошо снаряжённые из нас погибли бы за считанные дни, если не часы. Мы здесь уже полгода, Илай. Никакой опасности нет. А значит, должна быть другая причина, почему никто не вернулся.",ai,,DF7C26EE45465EE8844A5A907D134688
+Someone's stopping them. Or something.,Их кто-то останавливает. Или что-то.,ai,,15D763BD437924D0D0167896D6F730D2
+Maybe they like it better out here.,"Может, им здесь больше нравится.",ai,,C8DBE2684C728427DC154E84787B71DE
+Good. Then it's just a matter of time. Go get some rest. We'll need to be at our sharpest when this visitor arrives.,"Хорошо. Тогда это вопрос времени. Иди отдохни. Когда приедет этот Гость, нам понадобится быть в лучшей форме.",ai,,7E3E879F40CDA4B4F7782495ECDD9039
 Will do.,Хорошо.,ok,,4557092343564D370CC773B58E63D3FE
-You coming?,,,,A031DEDA402E0D2BA52D778E35052E1D
-And why do you suppose that is? Why has no one else ever come back from beyond the wall?,,,,040178374482873504031D8BC2687198
-Because we're better than them. We braved the elements.,,,,EA01EFC34E220D5245F75DBE9F0453EC
-Because it's dangerous. They've all fallen to the elements.,,,,95995C7C406944C89FFB33ADE32C9192
-"I got old, Eli. Not as glamorous a reason as yours, but with my retirement coming up and I suppose the number crunchers realized a detail like this would save them on pension. Wouldn't be the first. And definitely not the last.",,,,0935B2984E2B43EE573E149C90CEA9C1
+You coming?,Идёшь?,ai,,A031DEDA402E0D2BA52D778E35052E1D
+And why do you suppose that is? Why has no one else ever come back from beyond the wall?,"И почему, по-твоему, так? Почему никто больше не вернулся из-за Стены?",ai,,040178374482873504031D8BC2687198
+Because we're better than them. We braved the elements.,Потому что мы лучше них. Мы выстояли против стихии.,ai,,EA01EFC34E220D5245F75DBE9F0453EC
+Because it's dangerous. They've all fallen to the elements.,Потому что это опасно. Все они пали жертвой стихии.,ai,,95995C7C406944C89FFB33ADE32C9192
+"I got old, Eli. Not as glamorous a reason as yours, but with my retirement coming up and I suppose the number crunchers realized a detail like this would save them on pension. Wouldn't be the first. And definitely not the last.","Я состарился, Илай. Не такая эффектная причина, как у тебя, но у меня скоро пенсия, и, думаю, счетоводы сообразили, что такая деталь сэкономит им на пенсионных выплатах. Не первый такой случай. И точно не последний.",ai,,0935B2984E2B43EE573E149C90CEA9C1
 Sounds about right.,Очень похоже на правду.,ok,,E71144584BCEE609566288842D6B7199
-Good old HQ. Always looking after the bottom line.,,,,F167741E49EA1FAED1FD15B625516D85
-"Because of what we know. ",,,,3FC03EA746E9C32F76AC9D95B7E63A39
-I think you've been out in the sun for way too long.,,,,53F12D3845B47D548415EF9ACA132846
-What do we know?,,,,E2CC73F14DFB1B5C0FBE99B6DE700C9A
-"Did we? Because outside of that one incident with the Artifact, this expedition has been fairly routine. No real threats, no big dangers. Just the hot hot sun and our clashing personalities. So, if it's not the elements killing these other teams, what is?",,,,5F47622B475067124454EFACB3ACD87F
-HQ.,,,,0C02122A4440E057EE6FA29EDBE597F3
+Good old HQ. Always looking after the bottom line.,Старый добрый штаб. Всегда заботится о прибыли.,ai,,F167741E49EA1FAED1FD15B625516D85
+"Because of what we know. ","Из-за того, что мы знаем. ",ai,,3FC03EA746E9C32F76AC9D95B7E63A39
+I think you've been out in the sun for way too long.,"По-моему, ты слишком уж долго пробыл на солнце.",ai,,53F12D3845B47D548415EF9ACA132846
+What do we know?,Что мы знаем?,ai,,E2CC73F14DFB1B5C0FBE99B6DE700C9A
+"Did we? Because outside of that one incident with the Artifact, this expedition has been fairly routine. No real threats, no big dangers. Just the hot hot sun and our clashing personalities. So, if it's not the elements killing these other teams, what is?","Правда? Потому что, если не считать того случая с Артефактом, эта экспедиция шла вполне рутинно. Ни настоящих угроз, ни больших опасностей. Только палящее солнце и наши несовпадающие характеры. Так если не стихия убивает другие группы, то что?",ai,,5F47622B475067124454EFACB3ACD87F
+HQ.,Штаб.,ai,,0C02122A4440E057EE6FA29EDBE597F3
 You tell me.,Это уж вы мне скажите.,ok,,14C5BE46445ED96CE3AB019F965D2A8F
-Maybe they liked it out here and decided to stay?,,,,9DE138A94B3137A9134DB291DBB31448
-The Shepherd isn't a person. He's the Shepherd. And you don't even believe he exists.,,,,82B3D1C44464310A44B89A8E0923ED47
-"Fine. Just us, then.",,,,59878E73459C03A1D55F94A9CC9B7D9A
-"You believe in him, though.",,,,6B1B8FC2458E34B3985601BB95BD2EB7
-"In a way. If you could leave the City and start your own thing, wouldn't you?",,,,2C342936402012D78224699C4415B46B
-No. I love the City.,,,,82EB9F9E4CA1F2F9257AA2B2C528EBB8
-The City's all there is.,,,,0B77909F4C1F0C3B28775DA051BBD7AD
-"Only rumours. In all my time working in Science City, I've heard of at least a dozen expeditions similar to ours. None of them have returned. Do you know why?",,,,B080924B4D3934E2E439D0B062F809ED
-Because they weren't as trained as us. We braved the elements.,,,,8BA88D734CCE99027D02CBB7AA39F093
-Because it's dangerous out here.,,,,BE8049064551CF2667E244B049293375
-Whoever is coming here is going to go through this site with a fine tooth comb to make sure our story checks out. We'll need to make sure all our materials sell the idea that we're experts on the Artifact.,,,,D5BDD1F147554B927689DF8ABBE49277
-I'm on it.,,,,F6DF52334742DD42A195F997D8E61174
-How do we do that?,,,,2EE303F74C56A0A7323D31B5B7E67256
-"Really? Where's the danger? The only real hazard we've encountered so far is that Artifact. And we had to work very fucking hard to find that. Outside of that, everything's been fine. Peaceful, even. I honestly feel safer here than I did back in the city. Which begs the question: why hasn't anyone ever come back from the place?",,,,67931AA248E6F7CC126836BFA0AC0FA5
-They're not allowed.,,,,56B180304FEAC7D0FEF7E784C748CA8A
+Maybe they liked it out here and decided to stay?,"Может, им здесь понравилось, и они решили остаться?",ai,,9DE138A94B3137A9134DB291DBB31448
+The Shepherd isn't a person. He's the Shepherd. And you don't even believe he exists.,"Пастырь — не человек. Он Пастырь. А ты вообще не веришь, что он существует.",ai,,82B3D1C44464310A44B89A8E0923ED47
+"Fine. Just us, then.",Ладно. Тогда только мы.,ai,,59878E73459C03A1D55F94A9CC9B7D9A
+"You believe in him, though.",Но ты же в него веришь.,ai,,6B1B8FC2458E34B3985601BB95BD2EB7
+"In a way. If you could leave the City and start your own thing, wouldn't you?","В каком-то смысле. Если бы ты мог покинуть Город и начать своё дело, разве ты не сделал бы этого?",ai,,2C342936402012D78224699C4415B46B
+No. I love the City.,Нет. Я люблю Город.,ai,,82EB9F9E4CA1F2F9257AA2B2C528EBB8
+The City's all there is.,"Город — это всё, что есть.",ai,,0B77909F4C1F0C3B28775DA051BBD7AD
+"Only rumours. In all my time working in Science City, I've heard of at least a dozen expeditions similar to ours. None of them have returned. Do you know why?","Только слухи. За всё время работы в Наукограде я слышал как минимум о десятке экспедиций, подобных нашей. Ни одна не вернулась. Знаешь почему?",ai,,B080924B4D3934E2E439D0B062F809ED
+Because they weren't as trained as us. We braved the elements.,"Потому что они были хуже подготовлены, чем мы. Мы выстояли против стихии.",ai,,8BA88D734CCE99027D02CBB7AA39F093
+Because it's dangerous out here.,Потому что здесь опасно.,ai,,BE8049064551CF2667E244B049293375
+Whoever is coming here is going to go through this site with a fine tooth comb to make sure our story checks out. We'll need to make sure all our materials sell the idea that we're experts on the Artifact.,"Тот, кто приедет, будет прочёсывать этот объект частым гребнем, чтобы убедиться, что наша история сходится. Нужно, чтобы все наши материалы внушали мысль, что мы эксперты по Артефакту.",ai,,D5BDD1F147554B927689DF8ABBE49277
+I'm on it.,Займусь.,ai,,F6DF52334742DD42A195F997D8E61174
+How do we do that?,Как нам это сделать?,ai,,2EE303F74C56A0A7323D31B5B7E67256
+"Really? Where's the danger? The only real hazard we've encountered so far is that Artifact. And we had to work very fucking hard to find that. Outside of that, everything's been fine. Peaceful, even. I honestly feel safer here than I did back in the city. Which begs the question: why hasn't anyone ever come back from the place?","Правда? И где опасность? Единственная настоящая угроза, с которой мы столкнулись, — этот Артефакт. А чтобы его найти, нам пришлось чертовски потрудиться. Кроме этого всё было нормально. Даже мирно. Честно говоря, здесь я чувствую себя безопаснее, чем в Городе. Что поднимает вопрос: почему никто никогда не возвращался оттуда?",ai,,67931AA248E6F7CC126836BFA0AC0FA5
+They're not allowed.,Им не позволяют.,ai,,56B180304FEAC7D0FEF7E784C748CA8A
 You tell me.,Это уж вы мне скажите.,ok,,882784474D2D74AC91BF278DC348864B
-Maybe they like it better out here.,,,,A1FE71F34B9B25E71EB334ACC86DC528
-"That's only because you were born in Science City - gifted child to gifted parents, brought up in a block where the Apes actually look after you. You never had to struggle. You don't really know how bad most of us have it.",,,,AA3B061D4F6FCD1D52B9F794CDB1917B
-"Don't condescend to me, man. You live in Science City too.",,,,0FACCED242465534625C4EAFAF7C80E6
-"Hey, I earned my place.",,,,1114E0E642B72EB86CE38C997AA3961E
-Mmm.,,,,1B5C9F214123E152656F84888CEDEB11
-"Do they still name discoveries after the people who found them? ",,,,1DC60EA840CC7D51E4A1E893751EB7FD
-"As soon as we get back, let's go to dinner. Somewhere fancy. My treat.",,,,C6364B934CCB8CBE1073E9B42AC16CB6
-We've got it made now! No more red tape. No more having to suck up to committees.,,,,C399CC254FF5FC4BDF8681B1CDC867B4
-"This is just a theory, but here's what I'm thinking: Back in the city, we're penned in. Cornered. Easy to control. The Apes own all the land so we have to do whatever they want just to borrow a sliver for our families to sleep in. Scarcity is key, Eli. If the people knew there was a world outside the City—a safe, dusty, perfectly normal world with space enough for all of us—the entire system would COLLAPSE.",,,,BBC0C71E451EFC1AF66FEB910818D2B9
-"So what, this is all about control? Real estate?",,,,233650144C9D3B9667E053AFC9C6EB42
-They're going to bring us back. They didn't mention it because it's obvious.,,,,8219213F4A851B2BA823B19627BE8DC7
-"Really, Jorge? Conspiracy theories?",,,,65F4FC1F4E56D7389CFC40886C864A61
-"Or maybe, the real danger isn't out here. Maybe it's on it's way.",,,,D77E947F4319700ABB0B63BF824DF18A
-So they're going to kill us? Why?,,,,DD7EFC234E809825E553CE964B5FED45
-You mean whoever's coming from HQ.,,,,09736CF4480E77669E64EFBB56196CD9
-Alright. Go get everything in order. I'll be here keeping the fire going if you need me.,,,,55930E7D41DEFD538EED50851C43FB9D
-"Later, Jorge.",,,,983D9BD2432ACA7DBD831A8F02AEA8EA
-"You need to stop deluding yourself, Eli. No team has ever come back from behind the Wall. We're on a suicide mission. For an outsider like me, this was always going to be the retirement plan. That's just how Science City works. But you're still young. Connected. You must have upset some really powerful people to get assigned a detail like this. So what happened?",,,,8A22C5434468CC7E80657CBB4CAF5FFB
-"(CYNIC) My team that was working with radiation waves to ""persuade"" test subjects to adopt more ""desirable"" behaviours. I could see where it was heading and leaked some info to the press.",,,,AB1987B84787C09630D1558DFE0906DF
-"(IDEALIST) Well... I didn't think they found out, but I may have helped leak the formula of a lifesaving medication to our competitors to drive prices down.",,,,9A2AFE2941A1B4906659529AEABD7722
-(REALIST) I may have mentioned that a new drug's side effects outweighed its benefits. To the CEO. At an investor meeting.,,,,14C8D50444769C4BC5B042A10370AE92
-"Now I'm not so sure. ",,,,C0B9556743797B8EAC8A5CA260D33933
-About time you came to your senses.,,,,1293F4244C2BC9923098C8826FC7C1B8
-Maybe the Shepard is protecting us. Or maybe it's a test of your faith.,,,,46C5C6B442888E7C10C5B29F608CA69E
-"You're the reason they shut down the mind control project? Wow. They were just about to move to public testing, too. I'm impressed, Eli. Here I was, thinking you were just some stuck-up failson. But it turns out you're a hero this whole time.",,,,C36F4758419787F969F3738ABA3725E6
-Can't I be both?,,,,3CCCBE8649D3171BF085129C06971BED
-Most people would have done it. I was just in the right place at the right time.,,,,5629C45B4A5AEE73F9A01788D9B87BAB
-"You're the reason Pylanta™ went generic?  That's...that's amazing, Eli! And here I was, thinking you were just some stuck-up failson. But it turns out you were a hero this whole time.",,,,5B50699C4A5F7950460756B713F887D8
-Can't I be both?,,,,01BD663E4D795C35AEE9F3AE43574D02
-It needed to be done. People were dying.,,,,7697060644F07CCA719C3CAAE944662E
-"Shepherd's staff! You're the reason they pulled the funding on Lygoti™? I heard that instead of curing depression, it just caused so much abdominal pain test subjects would beg the doctors to save their lives and they figured they could market it as ""restoring the will to live"".",,,,DED12ABE4A9786899941739CA11E412C
-That's exactly what happened.,,,,E836360B416BAFAF035AE4A002297086
-It also made patients confuse their dreams with reality. And not in a fun way.,,,,4CD8FB894C8D712DB290C8A7C00EE96E
-"Radio says they're on their way. Should be less than twelve hours, now.",,,,2142DC104A727E2E4856E9BC5D3C7136
-Who's this 'they'?,,,,697070044F345718FE34A68F707FD441
-About time. Six months is way too much.,,,,0FCBB578442BE2DA5B7CC3A018D50969
-"Making this discovery and surviving the Wastes. We're going to be in history books, Jorge!",,,,5AF58C97455CA18807B7CE9075028100
-"Easy, Eli. All they said is that they'd be collecting the Artifact. No word about what they're doing with us.",,,,057D164D4C902A1B2BAE3EABC4196C80
-What else are they going to do? Without the Artifact our work here is done.,,,,8867E1BE4B2BD5DF66FC57AD2C8D8CE3
-Why would they? No need to state the obvious.,,,,438414CB4C9B44413DBA4DBC6E8E289A
-Don't be such a pessimist. We're going home!,,,,B06901E44254B911079D7FA46CA43CCB
-"Night, Jorge.",,,,923A57CC4F0E9A8E828352B492F8216A
-Then why haven't they told us that?,,,,0C760CAC47D656B0A55C438003E991E3
+Maybe they like it better out here.,"Может, им здесь больше нравится.",ai,,A1FE71F34B9B25E71EB334ACC86DC528
+"That's only because you were born in Science City - gifted child to gifted parents, brought up in a block where the Apes actually look after you. You never had to struggle. You don't really know how bad most of us have it.","Это только потому, что ты родился в Наукограде — одарённый ребёнок у одарённых родителей, вырос в квартале, где Обезьяны о тебе по-настоящему заботятся. Тебе никогда не приходилось бороться. Ты не знаешь, насколько плохо приходится большинству из нас.",ai,,AA3B061D4F6FCD1D52B9F794CDB1917B
+"Don't condescend to me, man. You live in Science City too.",Не надо разговаривать со мной свысока. Ты тоже живёшь в Наукограде.,ai,,0FACCED242465534625C4EAFAF7C80E6
+"Hey, I earned my place.","Эй, я своё место заслужил.",ai,,1114E0E642B72EB86CE38C997AA3961E
+Mmm.,Мм.,ai,,1B5C9F214123E152656F84888CEDEB11
+"Do they still name discoveries after the people who found them? ","Открытия до сих пор называют в честь тех, кто их сделал? ",ai,,1DC60EA840CC7D51E4A1E893751EB7FD
+"As soon as we get back, let's go to dinner. Somewhere fancy. My treat.","Как только вернёмся, давай сходим поужинать. Куда-нибудь пошикарнее. Я угощаю.",ai,,C6364B934CCB8CBE1073E9B42AC16CB6
+We've got it made now! No more red tape. No more having to suck up to committees.,Теперь мы на коне! Никакой бюрократии. Больше не придётся лебезить перед комитетами.,ai,,C399CC254FF5FC4BDF8681B1CDC867B4
+"This is just a theory, but here's what I'm thinking: Back in the city, we're penned in. Cornered. Easy to control. The Apes own all the land so we have to do whatever they want just to borrow a sliver for our families to sleep in. Scarcity is key, Eli. If the people knew there was a world outside the City—a safe, dusty, perfectly normal world with space enough for all of us—the entire system would COLLAPSE.","Это всего лишь теория, но вот что я думаю: в Городе нас загнали в загон. Прижали к стенке. Нами легко управлять. Вся земля принадлежит Обезьянам, и мы обязаны делать всё, что они скажут, лишь бы получить клочок, где наши семьи смогут спать. Дефицит — это ключ, Илай. Если бы люди знали, что за пределами Города есть мир — безопасный, пыльный, совершенно нормальный мир, где хватит места всем нам, — вся система РУХНУЛА бы.",ai,,BBC0C71E451EFC1AF66FEB910818D2B9
+"So what, this is all about control? Real estate?","И что, всё дело в контроле? В недвижимости?",ai,,233650144C9D3B9667E053AFC9C6EB42
+They're going to bring us back. They didn't mention it because it's obvious.,"Нас вернут. Они не упоминали об этом, потому что это очевидно.",ai,,8219213F4A851B2BA823B19627BE8DC7
+"Really, Jorge? Conspiracy theories?","Серьёзно, Джордж? Теории заговора?",ai,,65F4FC1F4E56D7389CFC40886C864A61
+"Or maybe, the real danger isn't out here. Maybe it's on it's way.","А может, настоящая опасность не здесь. Может, она уже в пути.",ai,,D77E947F4319700ABB0B63BF824DF18A
+So they're going to kill us? Why?,То есть нас убьют? Зачем?,ai,,DD7EFC234E809825E553CE964B5FED45
+You mean whoever's coming from HQ.,"Ты про того, кто едет из штаба.",ai,,09736CF4480E77669E64EFBB56196CD9
+Alright. Go get everything in order. I'll be here keeping the fire going if you need me.,"Ладно. Иди приведи всё в порядок. Я пока посижу тут, поддержу огонь, если что.",ai,,55930E7D41DEFD538EED50851C43FB9D
+"Later, Jorge.","Пока, Джордж.",ai,,983D9BD2432ACA7DBD831A8F02AEA8EA
+"You need to stop deluding yourself, Eli. No team has ever come back from behind the Wall. We're on a suicide mission. For an outsider like me, this was always going to be the retirement plan. That's just how Science City works. But you're still young. Connected. You must have upset some really powerful people to get assigned a detail like this. So what happened?","Хватит обманывать себя, Илай. Ни одна группа ещё не возвращалась из-за Стены. Мы на самоубийственной миссии. Для чужака вроде меня это всегда было пенсионным планом. Так устроен Наукоград. Но ты ещё молод. С нужными связями. Ты наверняка насолил очень влиятельным людям, раз тебя отправили на такое задание. Так что случилось?",ai,,8A22C5434468CC7E80657CBB4CAF5FFB
+"(CYNIC) My team that was working with radiation waves to ""persuade"" test subjects to adopt more ""desirable"" behaviours. I could see where it was heading and leaked some info to the press.","[ЦИНИК] Моя группа работала с лучевыми волнами, «убеждая» подопытных принимать более «желательное» поведение. Я видел, к чему всё идёт, и слил информацию прессе.",ai,,AB1987B84787C09630D1558DFE0906DF
+"(IDEALIST) Well... I didn't think they found out, but I may have helped leak the formula of a lifesaving medication to our competitors to drive prices down.","[ИДЕАЛИСТ] Ну... я не думал, что они узнали, но, возможно, я помог слить формулу спасительного лекарства конкурентам, чтобы сбить цены.",ai,,9A2AFE2941A1B4906659529AEABD7722
+(REALIST) I may have mentioned that a new drug's side effects outweighed its benefits. To the CEO. At an investor meeting.,"[РЕАЛИСТ] Я, возможно, упомянул, что побочные эффекты нового препарата перевешивают пользу. Генеральному директору. На встрече с инвесторами.",ai,,14C8D50444769C4BC5B042A10370AE92
+"Now I'm not so sure. ","Теперь я не так уверен. ",ai,,C0B9556743797B8EAC8A5CA260D33933
+About time you came to your senses.,Наконец-то ты взялся за ум.,ai,,1293F4244C2BC9923098C8826FC7C1B8
+Maybe the Shepard is protecting us. Or maybe it's a test of your faith.,"Может, Пастырь нас защищает. А может, это испытание твоей веры.",ai,,46C5C6B442888E7C10C5B29F608CA69E
+"You're the reason they shut down the mind control project? Wow. They were just about to move to public testing, too. I'm impressed, Eli. Here I was, thinking you were just some stuck-up failson. But it turns out you're a hero this whole time.","Это из-за тебя закрыли проект по контролю над разумом? Ого. Они ведь вот-вот собирались перейти к публичным испытаниям. Впечатляет, Илай. А я-то думал, ты просто заносчивый мажор. А ты, оказывается, всё это время был героем.",ai,,C36F4758419787F969F3738ABA3725E6
+Can't I be both?,Разве нельзя быть и тем и другим?,ai,,3CCCBE8649D3171BF085129C06971BED
+Most people would have done it. I was just in the right place at the right time.,Так поступило бы большинство. Я просто оказался в нужном месте в нужное время.,ai,,5629C45B4A5AEE73F9A01788D9B87BAB
+"You're the reason Pylanta™ went generic?  That's...that's amazing, Eli! And here I was, thinking you were just some stuck-up failson. But it turns out you were a hero this whole time.","Это из-за тебя Пиланта™ перешла в дженерики? Это... это потрясающе, Илай! А я-то думал, ты просто заносчивый мажор. А ты, оказывается, всё это время был героем.",ai,,5B50699C4A5F7950460756B713F887D8
+Can't I be both?,Разве нельзя быть и тем и другим?,ai,,01BD663E4D795C35AEE9F3AE43574D02
+It needed to be done. People were dying.,Это нужно было сделать. Люди умирали.,ai,,7697060644F07CCA719C3CAAE944662E
+"Shepherd's staff! You're the reason they pulled the funding on Lygoti™? I heard that instead of curing depression, it just caused so much abdominal pain test subjects would beg the doctors to save their lives and they figured they could market it as ""restoring the will to live"".","Посох Пастыря! Это из-за тебя свернули финансирование Лиготи™? Я слышал, что вместо лечения депрессии он вызывал такие боли в животе, что подопытные умоляли врачей спасти им жизнь, и они решили продавать это как «возвращение воли к жизни».",ai,,DED12ABE4A9786899941739CA11E412C
+That's exactly what happened.,Именно так и было.,ai,,E836360B416BAFAF035AE4A002297086
+It also made patients confuse their dreams with reality. And not in a fun way.,Ещё пациенты путали сны с реальностью. И не в весёлом смысле.,ai,,4CD8FB894C8D712DB290C8A7C00EE96E
+"Radio says they're on their way. Should be less than twelve hours, now.","По радио сообщили, что они в пути. Теперь осталось меньше двенадцати часов.",ai,,2142DC104A727E2E4856E9BC5D3C7136
+Who's this 'they'?,Кто это «они»?,ai,,697070044F345718FE34A68F707FD441
+About time. Six months is way too much.,Давно пора. Полгода — это уже слишком.,ai,,0FCBB578442BE2DA5B7CC3A018D50969
+"Making this discovery and surviving the Wastes. We're going to be in history books, Jorge!","Такое открытие и выживание в Пустошах. Мы войдём в учебники истории, Джордж!",ai,,5AF58C97455CA18807B7CE9075028100
+"Easy, Eli. All they said is that they'd be collecting the Artifact. No word about what they're doing with us.","Полегче, Илай. Они сказали только, что заберут Артефакт. Ни слова о том, что будет с нами.",ai,,057D164D4C902A1B2BAE3EABC4196C80
+What else are they going to do? Without the Artifact our work here is done.,А что им ещё делать? Без Артефакта наша работа здесь закончена.,ai,,8867E1BE4B2BD5DF66FC57AD2C8D8CE3
+Why would they? No need to state the obvious.,Зачем им? Незачем говорить очевидное.,ai,,438414CB4C9B44413DBA4DBC6E8E289A
+Don't be such a pessimist. We're going home!,Не будь таким пессимистом. Мы едем домой!,ai,,B06901E44254B911079D7FA46CA43CCB
+"Night, Jorge.","Доброй ночи, Джордж.",ai,,923A57CC4F0E9A8E828352B492F8216A
+Then why haven't they told us that?,Тогда почему нам об этом не сказали?,ai,,0C760CAC47D656B0A55C438003E991E3
 I don't know.,Я не знаю.,ok,,5C3527D64D3D364945395AB99AC3D937
-Maybe our visitor will.,,,,4F899A5D4DC41A915282719F661A70ED
-Nice and simple. I can get behind that.,,,,FB9B02704C0D21DD37BBD6B4D5CC04D1
-[Listen to the crackling of the wood],,,,6B810D6345D370D29A875EAFF70A6E63
-[Enjoy the smell of the fire],,,,26F71FAE473A2640FBECBB90D08A922F
-[Study Jorge's expression],,,,32A6354643C7B76E373EF9A10B0CB60E
-Night before we shipped out. Started tearing up right as I said my goodbyes. Kids had no idea why. You should have seen their faces! Seb even asked if he did something wrong... I should have just quit. I knew exactly what this was going to be.,,,,6BFE132445C69A85B8747B822AB8026A
-You'll see them again. I'm going to make sure of it.,,,,9141D7AC40F466A48728C4983E489A32
-Should have warned me.,,,,04322C704D3DEC9BEDFA2CAF95BCDD36
-"So, what? You think we just happened to ""luck out""? That for six entire months we managed to avoid ALL the countless threats that we're led to believe exist out here. How did that happen, Eli? And don't just say it's because we're good at our jobs.",,,,6E032A2C40824894FF26EEB8464B8FCA
-"We are good at our jobs. At least I am, anyway.",,,,4877617C4BD008FDBDECE2BDFAB01322
-I thought you were a man of faith.,,,,A5125196452CF53821982AB022A5FC5D
-"I worked hard to get where I am. They ""allowed"" me to move into Science City. So for a very short while, yes - I ""lived"" in Science City. Past tense.",,,,915A2E18406C8F53283F168FC72E3A4C
-They're going to bring us back. It's going to be a big deal.,,,,943FDEC14AD636E46C4FD49A5294EC4F
-"By that logic, so did I.",,,,6AD7DF414D56BC3F7DC2CFB9E78C52B6
-I kinda figured your parents would have warned you. Weren't they also bigheads at Science City?,,,,6BC8CD0E496F272E9A6C7A9D7A2126DC
-I never talk about work with them.,,,,87B065914C23980FF006F4BD736B5529
-They stopped talking to me after I pulled that stunt that landed me here.,,,,455D595940B7AD1C9FE6C0AF632ED0F2
-"It's actually worth a lot back in the city. Only used for high-end furniture because it's so rare. If folks knew we were burning this for warmth, they'd call us crazy.",,,,7C053C2A43534ED9044C389117D6D04B
-They'd also think we're crazy for being out here.,,,,1FF015934B43A99ABEB02D9988F8D10A
-Let's smuggle some back.,,,,2DD033C44A8085D05104AAB4B43C03F3
-"I was. When I got assigned this detail, I actually looked forward to the dangers! I wanted to face them, because then it would have proved that I lived my life properly. That the Shepherd was real. That the stories they told us were true.",,,,610CEDEA4F91770DBA9565952FF482D2
-"He could still be real, man.",,,,3EF04F344B600A8FF9AF8F9359D01426
-That's messed up.,,,,D6242DC148B0FBBB5D6E8C9956456725
-And now?,,,,C9E9F7174A043B25A38B69BB22D76540
-And no one to ask questions.,,,,F57FA961473C150E010F5D86B10668D2
-Okay...,,,,7F0407904D0BB3A2EBDE2FBA302B88AA
-My parents would ask questions.,,,,3AEBB7D24747FFEEEF65019ACDB87616
-"Why send someone out, then? If our work is done, and if the Wastes are so treacherous, why break protocol and put another life at risk instead of just telling us to pack up our gear and head back?",,,,A6FE07C74820ACBCE3211D8DEB209D3C
-Maybe there's more Artifacts to be found. Maybe our work here isn't done.,,,,80490CB94C62525B2803BFAAC2C01DF1
-Maybe they thought we needed backup.,,,,6A9E29C24AF5FA03B98F008FB827AA64
-Right.,,,,AB276A1D424F0C9B3E069C92866E78AD
-"Do they still name discoveries after the people who found them? ",,,,9E9CBD2340BFC40E9A4B3E9E440DF4CF
-"As soon as we get back, let's go to dinner. Somewhere fancy. My treat.",,,,4A4B0C3A490BE7EBA6AE418A39771BB3
-We've got it made now! No more red tape. No more having to suck up to committees.,,,,A1C3152940E4FDA3AD5B51AC150110DA
-"We'll need to make sure our journals, research materials, and the Artifact line up with the expertise we're trying to sell. Any contradiction to our story could kill us.",,,,437BB1DB45D9B1BD797A2FBAC1483094
+Maybe our visitor will.,"Может, наш Гость скажет.",ai,,4F899A5D4DC41A915282719F661A70ED
+Nice and simple. I can get behind that.,Просто и чётко. Это я поддержу.,ai,,FB9B02704C0D21DD37BBD6B4D5CC04D1
+[Listen to the crackling of the wood],[Слушать треск дров],ai,,6B810D6345D370D29A875EAFF70A6E63
+[Enjoy the smell of the fire],[Наслаждаться запахом костра],ai,,26F71FAE473A2640FBECBB90D08A922F
+[Study Jorge's expression],[Изучать выражение лица Джорджа],ai,,32A6354643C7B76E373EF9A10B0CB60E
+Night before we shipped out. Started tearing up right as I said my goodbyes. Kids had no idea why. You should have seen their faces! Seb even asked if he did something wrong... I should have just quit. I knew exactly what this was going to be.,"В ночь перед отправкой. Расплакался прямо когда прощался. Дети понятия не имели почему. Видел бы ты их лица! Себ даже спросил, не сделал ли он что-то не так... Надо было просто уволиться. Я же точно знал, чем это будет.",ai,,6BFE132445C69A85B8747B822AB8026A
+You'll see them again. I'm going to make sure of it.,Ты их ещё увидишь. Я позабочусь об этом.,ai,,9141D7AC40F466A48728C4983E489A32
+Should have warned me.,Надо было меня предупредить.,ai,,04322C704D3DEC9BEDFA2CAF95BCDD36
+"So, what? You think we just happened to ""luck out""? That for six entire months we managed to avoid ALL the countless threats that we're led to believe exist out here. How did that happen, Eli? And don't just say it's because we're good at our jobs.","И что, по-твоему, нам просто «повезло»? Что целых полгода мы умудрялись обходить ВСЕ бесчисленные угрозы, которые, как нас заставляют верить, тут существуют. Как так вышло, Илай? И не говори просто, что мы хорошо делаем свою работу.",ai,,6E032A2C40824894FF26EEB8464B8FCA
+"We are good at our jobs. At least I am, anyway.","Мы хорошо делаем свою работу. Ну, я-то точно.",ai,,4877617C4BD008FDBDECE2BDFAB01322
+I thought you were a man of faith.,"Я думал, ты человек веры.",ai,,A5125196452CF53821982AB022A5FC5D
+"I worked hard to get where I am. They ""allowed"" me to move into Science City. So for a very short while, yes - I ""lived"" in Science City. Past tense.","Я упорно трудился, чтобы добраться туда, где я есть. Мне «позволили» переехать в Наукоград. Так что очень недолго — да, я «жил» в Наукограде. В прошедшем времени.",ai,,915A2E18406C8F53283F168FC72E3A4C
+They're going to bring us back. It's going to be a big deal.,Нас вернут. Это будет событие.,ai,,943FDEC14AD636E46C4FD49A5294EC4F
+"By that logic, so did I.","По этой логике, я тоже.",ai,,6AD7DF414D56BC3F7DC2CFB9E78C52B6
+I kinda figured your parents would have warned you. Weren't they also bigheads at Science City?,"Я как-то думал, что родители тебя предупредят. Разве они не были шишками в Наукограде?",ai,,6BC8CD0E496F272E9A6C7A9D7A2126DC
+I never talk about work with them.,Я никогда не говорю с ними о работе.,ai,,87B065914C23980FF006F4BD736B5529
+They stopped talking to me after I pulled that stunt that landed me here.,"Они перестали со мной разговаривать после моей выходки, из-за которой я здесь оказался.",ai,,455D595940B7AD1C9FE6C0AF632ED0F2
+"It's actually worth a lot back in the city. Only used for high-end furniture because it's so rare. If folks knew we were burning this for warmth, they'd call us crazy.","В Городе он на самом деле стоит немало. Идёт только на дорогую мебель, потому что он так редок. Если бы люди узнали, что мы жжём его для тепла, нас бы назвали чокнутыми.",ai,,7C053C2A43534ED9044C389117D6D04B
+They'd also think we're crazy for being out here.,"Они бы и за то, что мы здесь, сочли нас чокнутыми.",ai,,1FF015934B43A99ABEB02D9988F8D10A
+Let's smuggle some back.,Давай тайком провезём немного домой.,ai,,2DD033C44A8085D05104AAB4B43C03F3
+"I was. When I got assigned this detail, I actually looked forward to the dangers! I wanted to face them, because then it would have proved that I lived my life properly. That the Shepherd was real. That the stories they told us were true.","Был. Когда меня назначили на это задание, я даже ждал опасностей! Я хотел с ними столкнуться, потому что это доказало бы, что я жил правильно. Что Пастырь реален. Что истории, которые нам рассказывали, правдивы.",ai,,610CEDEA4F91770DBA9565952FF482D2
+"He could still be real, man.","Он всё ещё может быть реален, дружище.",ai,,3EF04F344B600A8FF9AF8F9359D01426
+That's messed up.,Это жесть.,ai,,D6242DC148B0FBBB5D6E8C9956456725
+And now?,А теперь?,ai,,C9E9F7174A043B25A38B69BB22D76540
+And no one to ask questions.,И некому задавать вопросы.,ai,,F57FA961473C150E010F5D86B10668D2
+Okay...,Ладно...,ai,,7F0407904D0BB3A2EBDE2FBA302B88AA
+My parents would ask questions.,Мои родители стали бы задавать вопросы.,ai,,3AEBB7D24747FFEEEF65019ACDB87616
+"Why send someone out, then? If our work is done, and if the Wastes are so treacherous, why break protocol and put another life at risk instead of just telling us to pack up our gear and head back?","Тогда зачем кого-то посылать? Если наша работа закончена и Пустоши так коварны, зачем нарушать протокол и подвергать риску ещё одну жизнь, вместо того чтобы просто велеть нам собрать вещи и ехать обратно?",ai,,A6FE07C74820ACBCE3211D8DEB209D3C
+Maybe there's more Artifacts to be found. Maybe our work here isn't done.,"Может, есть ещё Артефакты. Может, наша работа здесь не закончена.",ai,,80490CB94C62525B2803BFAAC2C01DF1
+Maybe they thought we needed backup.,"Может, они решили, что нам нужна подмога.",ai,,6A9E29C24AF5FA03B98F008FB827AA64
+Right.,Ну да.,ai,,AB276A1D424F0C9B3E069C92866E78AD
+"Do they still name discoveries after the people who found them? ","Открытия до сих пор называют в честь тех, кто их сделал? ",ai,,9E9CBD2340BFC40E9A4B3E9E440DF4CF
+"As soon as we get back, let's go to dinner. Somewhere fancy. My treat.","Как только вернёмся, давай сходим поужинать. Куда-нибудь пошикарнее. Я угощаю.",ai,,4A4B0C3A490BE7EBA6AE418A39771BB3
+We've got it made now! No more red tape. No more having to suck up to committees.,Теперь мы на коне! Никакой бюрократии. Больше не придётся лебезить перед комитетами.,ai,,A1C3152940E4FDA3AD5B51AC150110DA
+"We'll need to make sure our journals, research materials, and the Artifact line up with the expertise we're trying to sell. Any contradiction to our story could kill us.","Нужно позаботиться, чтобы наши журналы, материалы исследований и Артефакт соответствовали той экспертизе, которую мы пытаемся продать. Любое противоречие в нашей истории может нас погубить.",ai,,437BB1DB45D9B1BD797A2FBAC1483094
 Gotcha.,Понял.,ok,,BE4DAACA4E22AADAA12E818117A18668
-"You'll need to make sure our journals, research materials, and the Artifact line up with the expertise we're trying to sell. Any contradiction to our story could kill us.",,,,F81632A748BAF8DDF348679A9E4C3C73
+"You'll need to make sure our journals, research materials, and the Artifact line up with the expertise we're trying to sell. Any contradiction to our story could kill us.","Тебе нужно позаботиться, чтобы наши журналы, материалы исследований и Артефакт соответствовали той экспертизе, которую мы пытаемся продать. Любое противоречие в нашей истории может нас погубить.",ai,,F81632A748BAF8DDF348679A9E4C3C73
 I'll see what I can do.,"Посмотрим, как уж выйдет.",ok,,332B27104090A94B9FE6289E9863EA75
-Shouldn't be a problem at all.,,,,FC0A854847B3B1BDC75E37A155A674C6
-"Starting to have doubts, huh? Alright, what's the plan now?",,,,C752DCE7474C3840A67F3FAC646EE436
-Let's go with the idea that the Artifact is too dangerous for one person to control. That way we'll come back.,,,,88794FE74CFA11563702E2B58A2BD716
-Let's convince them that the Artifact has died. That way we'll have to stay out here and keep working.,,,,428E9CB7497C8D1F179968A5A57BC95F
-Let's convince them we're experts. That we're essential to understanding the Artifact.,,,,4A310654423A8C76AC7C538659855374
-"Later, Jorge.",,,,2B540D494941797F55AF4096DB2B77C1
+Shouldn't be a problem at all.,Проблем быть не должно.,ai,,FC0A854847B3B1BDC75E37A155A674C6
+"Starting to have doubts, huh? Alright, what's the plan now?","Начинаются сомнения, да? Ладно, какой теперь план?",ai,,C752DCE7474C3840A67F3FAC646EE436
+Let's go with the idea that the Artifact is too dangerous for one person to control. That way we'll come back.,"Давай исходить из того, что Артефакт слишком опасен, чтобы его контролировал один человек. Тогда нас вернут.",ai,,88794FE74CFA11563702E2B58A2BD716
+Let's convince them that the Artifact has died. That way we'll have to stay out here and keep working.,"Давай убедим их, что Артефакт умер. Тогда нам придётся остаться здесь и продолжать работу.",ai,,428E9CB7497C8D1F179968A5A57BC95F
+Let's convince them we're experts. That we're essential to understanding the Artifact.,"Давай убедим их, что мы эксперты. Что мы необходимы для понимания Артефакта.",ai,,4A310654423A8C76AC7C538659855374
+"Later, Jorge.","Пока, Джордж.",ai,,2B540D494941797F55AF4096DB2B77C1
 Gotcha.,Понял.,ok,,1FF4761D4F5824F3217DEABEA570316B
-"Well, either way, it proves my theory. We're both beyond expendable in the eyes of HQ. Honestly, I'm surprised they didn't kill you already.",,,,E81B879B4E1D40B0E7F320B30D6124D1
-"So, what about you? What did you do to land this assignment?",,,,7B14C7864B5BF507DBBC10B577D3193A
-One thing you can say about HQ: they really know how to milk their resources to the last drop.,,,,5BEAB0CE445A8505DFC970A711E91ADF
-"...So, what do you want to do for your last twelve hours?",,,,DAEB41764E0B2E1F455725B2433F1ADC
-Let's find a way out of this.,,,,FDFADFEC47F69A08BDAD2AB94987F42D
-Let's just enjoy the fire.,,,,A71190DB45EE7D1F900BE1BCE750069C
-"Heh heh. I'm actually starting to like you, Eli. I'm kind of sad we only have twelve hours left together.",,,,685EC91847A70ECB5C824EA305D08167
-"So, what about you? What did you do to land this assignment?",,,,03EB6C9A48C8289E00CA5DA12815D670
-Don't say it with such finality. It's not over yet.,,,,5681D0D7404FE745BCA976A83AC8F12D
-"Well, shit, Eli. Here I was thinking you were some stuck-up failson, and it turns out you were a hero this whole time.",,,,E95BFB7046BA31EB44D33E8E846680C8
-Can't I be both?,,,,B8D4692344C39335FB9A8DB8895C8CFD
-Not a hero. They're still planning to release it next quarter.,,,,D5A0C4DE4FBFAB96B512819F1DBED3BC
-Whoever is coming here is going to go through this site with a fine tooth comb to make sure our story checks out. You'll need to make sure everything on site tracks with the idea that the Artifact's dead.,,,,B8711C654717806C5BA7B1B95BF87636
-On it.,,,,4FF4AA304A28DE9BD3F48A994C5C5478
-How do we do that?,,,,5A2D547444A07057721883863DC3E6F9
-I suppose.,,,,5FF20FC343AE5D4F9FECA89DA1B6A516
-"Do they still name discoveries after the people who found them? ",,,,82F0B9AA40A89C36C71455843217013C
-"As soon as we get back, let's go to dinner. Somewhere fancy. My treat.",,,,8344B3CD434E783ACD17D5B84A939B5C
-We've got it made now! No more red tape. No more having to suck up to committees.,,,,B36115C948829B6CF93B3D9676891838
-"I thought you were supposed to be the non-believer here, Eli.",,,,4F3530534DABCC476E5C738B0F828BEC
-I am. But I can't see why they'd lie to us about the Wastes.,,,,C15E58174C28F70870F4CCB0FA2A707C
-"Yeah, and I don't believe that everything we've been taught is wrong simply because we have an easy time in a dangerous place.",,,,34231A6C433775B1E4A5E0AEF4339A90
+"Well, either way, it proves my theory. We're both beyond expendable in the eyes of HQ. Honestly, I'm surprised they didn't kill you already.","Что ж, так или иначе, это подтверждает мою теорию. Мы оба в глазах штаба более чем расходный материал. Честно, удивлён, что тебя ещё не убили.",ai,,E81B879B4E1D40B0E7F320B30D6124D1
+"So, what about you? What did you do to land this assignment?","А ты? Что ты натворил, чтобы попасть на это задание?",ai,,7B14C7864B5BF507DBBC10B577D3193A
+One thing you can say about HQ: they really know how to milk their resources to the last drop.,Одно можно сказать о штабе: они умеют выжимать свои ресурсы до последней капли.,ai,,5BEAB0CE445A8505DFC970A711E91ADF
+"...So, what do you want to do for your last twelve hours?",...Ну и чем хочешь заняться в свои последние двенадцать часов?,ai,,DAEB41764E0B2E1F455725B2433F1ADC
+Let's find a way out of this.,Давай найдём выход.,ai,,FDFADFEC47F69A08BDAD2AB94987F42D
+Let's just enjoy the fire.,Давай просто насладимся костром.,ai,,A71190DB45EE7D1F900BE1BCE750069C
+"Heh heh. I'm actually starting to like you, Eli. I'm kind of sad we only have twelve hours left together.","Хе-хе. Ты мне, кажется, начинаешь нравиться, Илай. Немного жаль, что нам осталось всего двенадцать часов вместе.",ai,,685EC91847A70ECB5C824EA305D08167
+"So, what about you? What did you do to land this assignment?","А ты? Что ты натворил, чтобы попасть на это задание?",ai,,03EB6C9A48C8289E00CA5DA12815D670
+Don't say it with such finality. It's not over yet.,Не говори так обречённо. Ещё не всё кончено.,ai,,5681D0D7404FE745BCA976A83AC8F12D
+"Well, shit, Eli. Here I was thinking you were some stuck-up failson, and it turns out you were a hero this whole time.","Вот чёрт, Илай. А я-то думал, ты заносчивый мажор, а ты, оказывается, всё это время был героем.",ai,,E95BFB7046BA31EB44D33E8E846680C8
+Can't I be both?,Разве нельзя быть и тем и другим?,ai,,B8D4692344C39335FB9A8DB8895C8CFD
+Not a hero. They're still planning to release it next quarter.,Какой там герой. Они всё равно собираются выпустить его в следующем квартале.,ai,,D5A0C4DE4FBFAB96B512819F1DBED3BC
+Whoever is coming here is going to go through this site with a fine tooth comb to make sure our story checks out. You'll need to make sure everything on site tracks with the idea that the Artifact's dead.,"Тот, кто приедет, будет прочёсывать объект частым гребнем, чтобы убедиться, что наша история сходится. Тебе нужно проследить, чтобы всё на месте соответствовало версии, что Артефакт мёртв.",ai,,B8711C654717806C5BA7B1B95BF87636
+On it.,Займусь.,ai,,4FF4AA304A28DE9BD3F48A994C5C5478
+How do we do that?,Как нам это сделать?,ai,,5A2D547444A07057721883863DC3E6F9
+I suppose.,Пожалуй.,ai,,5FF20FC343AE5D4F9FECA89DA1B6A516
+"Do they still name discoveries after the people who found them? ","Открытия до сих пор называют в честь тех, кто их сделал? ",ai,,82F0B9AA40A89C36C71455843217013C
+"As soon as we get back, let's go to dinner. Somewhere fancy. My treat.","Как только вернёмся, давай сходим поужинать. Куда-нибудь пошикарнее. Я угощаю.",ai,,8344B3CD434E783ACD17D5B84A939B5C
+We've got it made now! No more red tape. No more having to suck up to committees.,Теперь мы на коне! Никакой бюрократии. Больше не придётся лебезить перед комитетами.,ai,,B36115C948829B6CF93B3D9676891838
+"I thought you were supposed to be the non-believer here, Eli.","Я думал, неверующий тут ты, Илай.",ai,,4F3530534DABCC476E5C738B0F828BEC
+I am. But I can't see why they'd lie to us about the Wastes.,"Так и есть. Но я не вижу, зачем им лгать нам о Пустошах.",ai,,C15E58174C28F70870F4CCB0FA2A707C
+"Yeah, and I don't believe that everything we've been taught is wrong simply because we have an easy time in a dangerous place.","Да, и я не верю, что всё, чему нас учили, ложно, только потому, что нам легко в опасном месте.",ai,,34231A6C433775B1E4A5E0AEF4339A90
 How come?,Как так?,ok,,A06E26AF40244E9542C36FA1CCD0689F
-"Ever since I pulled that stunt they've been, um... ""keeping their distance"".",,,,6B1E5E2242A96F4EE48C4DA4893D2DE2
-They love to compare their achievements to mine. And I always fall short.,,,,93871A5946A6210C6F415C802EAA08E1
-"Heh. I was hoping you'd say that. So, what's the plan? How do we fight this?",,,,475D40894DC5FFFF355F5F9E63C935FC
-We'll convince them we're indispensable. That they'll need our expertise to keep the Artifact alive.,,,,D114BEAE4B0266EDB7F756B4EDE081AA
-Let's kill whoever's coming. Before they kill us.,,,,5845185343A2DD2FF742B7B010BA1060
-Let's convince them we killed it. That way we'll have to stay out here and keep digging.,,,,4A6245AA4A3BC6FE6692FE84827C74BD
-What if we made the Artifact really agitated? That way they'd be afraid of being left alone with it.,,,,D58012CF4C97AF090459D286D190D699
-Let's clear out before our visitor arrives. Never come back.,,,,E77C034448F044954B3A3FB324466AF7
-So. It looks like we've got twelve hours left together. How do you want to spend it?,,,,24B2FDDC42764205CD9510ACD8DF2C06
-Let's find a way out of this.,,,,67DF3D5741A4291182271E9D1B3CED0D
-Let's just enjoy the fire.,,,,AF05DFE24B9607E838274CA5B66C9C58
-"Alright. Now, they'll probably go through the entire site to make sure we're telling the truth, so you'll need to make sure everything on site sells the idea that the Artifact is dangerous.",,,,12F85D354B1472305E7E6A81855AF10C
-On it.,,,,749218314820B05C9FB38C91551A84E2
-How do we do that?,,,,6F4827C14B4DEE0E9EC363B6F2CEA3B1
-Are things that bad back home?,,,,49E0C1FA4FCF10BE631DF3BE7A56304D
-"Not ""bad"", just not any better.",,,,8B8A4C9D460BC312D90C3EBC9316622A
+"Ever since I pulled that stunt they've been, um... ""keeping their distance"".","С тех пор как я выкинул тот номер, они, э-э, «держатся на расстоянии».",ai,,6B1E5E2242A96F4EE48C4DA4893D2DE2
+They love to compare their achievements to mine. And I always fall short.,Они любят сравнивать свои достижения с моими. И я всегда проигрываю.,ai,,93871A5946A6210C6F415C802EAA08E1
+"Heh. I was hoping you'd say that. So, what's the plan? How do we fight this?","Хе. Я надеялся, ты это скажешь. Так какой план? Как нам с этим бороться?",ai,,475D40894DC5FFFF355F5F9E63C935FC
+We'll convince them we're indispensable. That they'll need our expertise to keep the Artifact alive.,"Убедим их, что мы незаменимы. Что им понадобятся наши знания, чтобы Артефакт оставался живым.",ai,,D114BEAE4B0266EDB7F756B4EDE081AA
+Let's kill whoever's coming. Before they kill us.,"Давай убьём того, кто едет. Пока он не убил нас.",ai,,5845185343A2DD2FF742B7B010BA1060
+Let's convince them we killed it. That way we'll have to stay out here and keep digging.,"Давай убедим их, что мы его убили. Тогда нам придётся остаться здесь и продолжать раскопки.",ai,,4A6245AA4A3BC6FE6692FE84827C74BD
+What if we made the Artifact really agitated? That way they'd be afraid of being left alone with it.,А если довести Артефакт до сильного возбуждения? Тогда они побоятся остаться с ним наедине.,ai,,D58012CF4C97AF090459D286D190D699
+Let's clear out before our visitor arrives. Never come back.,Давай уберёмся до приезда Гостя. И никогда не вернёмся.,ai,,E77C034448F044954B3A3FB324466AF7
+So. It looks like we've got twelve hours left together. How do you want to spend it?,"Ну что. Похоже, у нас осталось двенадцать часов вместе. Как хочешь их провести?",ai,,24B2FDDC42764205CD9510ACD8DF2C06
+Let's find a way out of this.,Давай найдём выход.,ai,,67DF3D5741A4291182271E9D1B3CED0D
+Let's just enjoy the fire.,Давай просто насладимся костром.,ai,,AF05DFE24B9607E838274CA5B66C9C58
+"Alright. Now, they'll probably go through the entire site to make sure we're telling the truth, so you'll need to make sure everything on site sells the idea that the Artifact is dangerous.","Хорошо. Они наверняка прочешут весь объект, чтобы убедиться, что мы говорим правду, так что тебе нужно проследить, чтобы всё на месте убеждало в том, что Артефакт опасен.",ai,,12F85D354B1472305E7E6A81855AF10C
+On it.,Займусь.,ai,,749218314820B05C9FB38C91551A84E2
+How do we do that?,Как нам это сделать?,ai,,6F4827C14B4DEE0E9EC363B6F2CEA3B1
+Are things that bad back home?,Дома всё так плохо?,ai,,49E0C1FA4FCF10BE631DF3BE7A56304D
+"Not ""bad"", just not any better.","Не «плохо», просто не лучше.",ai,,8B8A4C9D460BC312D90C3EBC9316622A
 I don't want to talk about it.,Не хочу об этом говорить.,ok,,883B85784AC2BB99C81312A4FF2CE086
-"With what? Some cooling spray? A busted beaker? HQ gave us everything we need out here, except weapons. Which our visitor will almost certainly have. What else have you got?",,,,6E06FCCE4D2C5663BB8D2095D84A0C07
-We'll convince them we're indispensable. That they'll need our expertise to keep the Artifact alive.,,,,496B74004F3C2DB560F10591B36E7232
-Let's convince them we killed it. That way we'll have to stay out here and keep digging.,,,,E2543692469FAE869DF1009339C6524A
-What if we made the Artifact really agitated? That way they'd be afraid of being left alone with it.,,,,A2A510454C382272CC51C1A6C93F7473
-Let's just pack up and get out of here.,,,,BB39E58D4A9F976667793DBD92126639
-"Tempting, but we only have enough gas to get back to the City and there's no way we're getting back through the wall without their blessing. And we wouldn't last long out here in the Wastes with our current resources. What else have you got?",,,,CF586EDC4AD101F25BA0689B0E299BE1
-We'll convince them we're indispensable. That they'll need our expertise to keep the Artifact alive.,,,,1B33AFE34348EC63EFAE21BD5F1CD14C
-Let's kill them. Before they kill us.,,,,A60F2ED34D3F329F839D5AA788700A3C
-Let's convince them we killed it. That way we'll have to stay out here and keep digging.,,,,06534DA34977BE1CB1BD5489297AEDA2
-We could agitate the Artifact. Make it seem too dangerous for them to take it.,,,,7BC7BDA3454010D9149A5F8491F4E1D7
-I guess that all depends on how useful this little Artifact turns out to be. But I guess we'll never know.,,,,0F32FF444EC29F33DEE58FBBB6DE4FF0
-Unless we could find a way to stick around long enough...,,,,418B94E04F0B4DA02CA37183D6E720F6
+"With what? Some cooling spray? A busted beaker? HQ gave us everything we need out here, except weapons. Which our visitor will almost certainly have. What else have you got?","Чем? Охлаждающим спреем? Разбитой колбой? Штаб дал нам всё необходимое здесь, кроме оружия. А оно у Гостя почти наверняка будет. Что ещё у тебя есть?",ai,,6E06FCCE4D2C5663BB8D2095D84A0C07
+We'll convince them we're indispensable. That they'll need our expertise to keep the Artifact alive.,"Убедим их, что мы незаменимы. Что им понадобятся наши знания, чтобы Артефакт оставался живым.",ai,,496B74004F3C2DB560F10591B36E7232
+Let's convince them we killed it. That way we'll have to stay out here and keep digging.,"Давай убедим их, что мы его убили. Тогда нам придётся остаться здесь и продолжать раскопки.",ai,,E2543692469FAE869DF1009339C6524A
+What if we made the Artifact really agitated? That way they'd be afraid of being left alone with it.,А если довести Артефакт до сильного возбуждения? Тогда они побоятся остаться с ним наедине.,ai,,A2A510454C382272CC51C1A6C93F7473
+Let's just pack up and get out of here.,Давай просто соберёмся и уедем отсюда.,ai,,BB39E58D4A9F976667793DBD92126639
+"Tempting, but we only have enough gas to get back to the City and there's no way we're getting back through the wall without their blessing. And we wouldn't last long out here in the Wastes with our current resources. What else have you got?","Заманчиво, но топлива нам хватит только до Города, а через Стену без их благословения нам не пробраться. И долго в Пустошах с нашими нынешними запасами мы не протянем. Что ещё у тебя есть?",ai,,CF586EDC4AD101F25BA0689B0E299BE1
+We'll convince them we're indispensable. That they'll need our expertise to keep the Artifact alive.,"Убедим их, что мы незаменимы. Что им понадобятся наши знания, чтобы Артефакт оставался живым.",ai,,1B33AFE34348EC63EFAE21BD5F1CD14C
+Let's kill them. Before they kill us.,Давай убьём их. Пока они не убили нас.,ai,,A60F2ED34D3F329F839D5AA788700A3C
+Let's convince them we killed it. That way we'll have to stay out here and keep digging.,"Давай убедим их, что мы его убили. Тогда нам придётся остаться здесь и продолжать раскопки.",ai,,06534DA34977BE1CB1BD5489297AEDA2
+We could agitate the Artifact. Make it seem too dangerous for them to take it.,"Можно растревожить Артефакт. Чтобы он казался слишком опасным, чтобы его забирать.",ai,,7BC7BDA3454010D9149A5F8491F4E1D7
+I guess that all depends on how useful this little Artifact turns out to be. But I guess we'll never know.,"Думаю, всё зависит от того, насколько полезным окажется этот маленький Артефакт. Но, наверное, мы этого никогда не узнаем.",ai,,0F32FF444EC29F33DEE58FBBB6DE4FF0
+Unless we could find a way to stick around long enough...,Если только мы не найдём способ задержаться достаточно надолго...,ai,,418B94E04F0B4DA02CA37183D6E720F6

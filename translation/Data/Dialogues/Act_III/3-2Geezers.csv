@@ -1,139 +1,139 @@
 ﻿source,translation,status,namespace,key
-You found the missing hand.,,,,AA0C2837477674D17148F88915F5E4A0
-You identified the Elder Geezer.,,,,BA7D7DDD406BFDD37DAA7A8B7B58C5D5
-You got a geezer plushie.,,,,A423DAF64C00FC5C24DC2C8684AD2249
+You found the missing hand.,Ты нашёл пропавшую стрелку.,ai,,AA0C2837477674D17148F88915F5E4A0
+You identified the Elder Geezer.,Ты опознал Старейшего гусяру.,ai,,BA7D7DDD406BFDD37DAA7A8B7B58C5D5
+You got a geezer plushie.,Ты получил плюшевого гусяру.,ai,,A423DAF64C00FC5C24DC2C8684AD2249
 HONK.,ГА.,ok,,C5DA03CB45B6DFE0A6D9E7B1B6B14916
-(SOCIAL) Honk.,,,,6E13BB7E4BEF6A6C2A5F008F94D09CF8
-(INVESTIGATIVE) [Observe the geezers to identify their leader.],,,,D4C183E945AFF4F0BF8033BF6CCA8EBD
-"Here, fellas. Have some birdseed, on the house.",,,,B278F8EA41C0C0B0A5FDDDB9BBDFB917
-Mind if I take a picture of you?,,,,00F7B9AB4F5F6B77FB449CB4165B49BD
-How come you're hanging out in the street?,,,,6ABFC0004664F0628307A08438D6A7F3
-You guys know anything about that clock over there?,,,,DE4E0462425A657E68CFD9B9683E2E47
-"Alright, I'll leave you to it.",,,,645A9ABC46FECBBD4EEAEA8C0E6AC7C2
-Honk.,,,,51F3567E4631F5014550B0B1E2F95520
+(SOCIAL) Honk.,[ОБЩИТЕЛЬНОСТЬ] Га-га.,ai,,6E13BB7E4BEF6A6C2A5F008F94D09CF8
+(INVESTIGATIVE) [Observe the geezers to identify their leader.],"[ПЫТЛИВОСТЬ] [Понаблюдать за гусярами, чтобы определить их вожака.]",ai,,D4C183E945AFF4F0BF8033BF6CCA8EBD
+"Here, fellas. Have some birdseed, on the house.","Вот, мужики. Угощайтесь птичьим кормом, за счёт заведения.",ai,,B278F8EA41C0C0B0A5FDDDB9BBDFB917
+Mind if I take a picture of you?,"Не против, если я вас сфотографирую?",ai,,00F7B9AB4F5F6B77FB449CB4165B49BD
+How come you're hanging out in the street?,А чего это вы на улице торчите?,ai,,6ABFC0004664F0628307A08438D6A7F3
+You guys know anything about that clock over there?,"Вы, ребята, что-нибудь знаете про те часы?",ai,,DE4E0462425A657E68CFD9B9683E2E47
+"Alright, I'll leave you to it.","Ладно, не буду вам мешать.",ai,,645A9ABC46FECBBD4EEAEA8C0E6AC7C2
+Honk.,Га-га.,ai,,51F3567E4631F5014550B0B1E2F95520
 Sure.,Конечно.,ok,,1B7DEA494F452C700DE912A5AAB85883
-Hoooonk. HONK-HONK.,,,,D8AABAF34A9C822E0751029BB0B0F206
-"Yeah, yeah. I get it.",,,,49288E094123B44888346188AFF24D8A
-Honk honk honk. HONK HONK. Honk HONK,,,,A10CBD574117792D8E4C9688FE255A54
-"I'm cold, at least.",,,,7CB6423A42D536379C44E68B8D2A3B3D
-HOONK. HONK HONK HONK.,,,,E3C13D494F2E6418079AB893D4C3477C
-Fine. I'll be back when I have more witnesses.,,,,FCB19A134541B18020224D8CD4572F20
-...Honk.,,,,BCEF5C0E48102A8A60CCA995E506C6A7
-"(INVESTIGATIVE) ...What's that you're sitting around on, there?",,,,644A8B1445FB2CF4F5FA6F9A02C0570D
-"Come on, geezers. The hand. Cough it up.",,,,4F3FA2D14AE1D2E68E8B7EADA1504622
-...Honk.,,,,FF792FE0401190AA3F22B5A286C819BB
-"Would you look at that - a steam clock hand. I'll be taking that, if you don't mind.",,,,67DCF6C241527528D5ABC8880B4168D4
-HONK. Honk HONK HONK.,,,,681F9512406A3D2CC6446392F420C75D
-I know you have it.,,,,0B0FB68E46194A1F4564CB91314CE8DD
-You don't have it?,,,,8EB26C604FE1FC3E154638AC1AB1841B
-HONK. Honk-honk. HONK HONK.,,,,C54A817A47FD10AD9C8908AA81496219
-"Ah, HONK.",,,,9FD729F64DFD0BCD2850238BA595CDA4
-Honk-honk.,,,,428C7B9F485DE6E42CDD3FA1C976E05C
-HONK HONK.,,,,BE149D3D41693FC553B1AEAF651523C2
+Hoooonk. HONK-HONK.,Гааа-га. ГА-ГА-ГА.,ai,,D8AABAF34A9C822E0751029BB0B0F206
+"Yeah, yeah. I get it.","Да, да. Понял.",ai,,49288E094123B44888346188AFF24D8A
+Honk honk honk. HONK HONK. Honk HONK,Га-га-га. ГА-ГА. Га-га ГА-ГА,ai,,A10CBD574117792D8E4C9688FE255A54
+"I'm cold, at least.",Зато мне хотя бы холодно.,ai,,7CB6423A42D536379C44E68B8D2A3B3D
+HOONK. HONK HONK HONK.,ГАА-ГА. ГА-ГА-ГА-ГА.,ai,,E3C13D494F2E6418079AB893D4C3477C
+Fine. I'll be back when I have more witnesses.,"Ладно. Вернусь, когда будет больше свидетелей.",ai,,FCB19A134541B18020224D8CD4572F20
+...Honk.,...Га-га.,ai,,BCEF5C0E48102A8A60CCA995E506C6A7
+"(INVESTIGATIVE) ...What's that you're sitting around on, there?",[ПЫТЛИВОСТЬ] ...А на чём это вы там сидите?,ai,,644A8B1445FB2CF4F5FA6F9A02C0570D
+"Come on, geezers. The hand. Cough it up.","Ну же, гусяры. Стрелка. Выкладывайте.",ai,,4F3FA2D14AE1D2E68E8B7EADA1504622
+...Honk.,...Га-га.,ai,,FF792FE0401190AA3F22B5A286C819BB
+"Would you look at that - a steam clock hand. I'll be taking that, if you don't mind.","Ты погляди — стрелка от паровых часов. Я её, пожалуй, заберу, если не возражаете.",ai,,67DCF6C241527528D5ABC8880B4168D4
+HONK. Honk HONK HONK.,ГА-ГА. Га-га ГА-ГА ГА-ГА.,ai,,681F9512406A3D2CC6446392F420C75D
+I know you have it.,"Я знаю, что она у вас.",ai,,0B0FB68E46194A1F4564CB91314CE8DD
+You don't have it?,У вас её нет?,ai,,8EB26C604FE1FC3E154638AC1AB1841B
+HONK. Honk-honk. HONK HONK.,ГА-ГА. Га-га-га. ГА-ГА ГА-ГА.,ai,,C54A817A47FD10AD9C8908AA81496219
+"Ah, HONK.","А, ГА-ГА.",ai,,9FD729F64DFD0BCD2850238BA595CDA4
+Honk-honk.,Га-га-га.,ai,,428C7B9F485DE6E42CDD3FA1C976E05C
+HONK HONK.,ГА-ГА ГА-ГА.,ai,,BE149D3D41693FC553B1AEAF651523C2
 HONK!,ГА!,ok,,78DFBCF043FF31BA07ECB2918C0C80B9
-"Now don't let it happen again, alright? I got my eyes on you.",,,,F9A8BDAB492503A6ED8B78B304B1C5D8
-HONK. HONK HONK HONK HONK HONK HONK HONK HONK.,,,,B07992674CEF16B30AED19847BBB0D7E
-I guess that's as reasonable an explanation as I expected.,,,,0683CE9D43710831B91409A9C25DC9E6
-Honk. HONK. HONK. HONK. HONK!,,,,1376E47140758D19896EC59388355FAC
-Not what I wanted to hear.,,,,C7E3DDEC409260B85F4AA2BA299677A4
-Honk.,,,,8FB1349C4049F1565E0E44B1B3CB86FE
-So where is it? Am I going to have to get a new one?,,,,6B813F2D4D9F5A869BCAB59DA5AC2C5A
+"Now don't let it happen again, alright? I got my eyes on you.","Только чтобы больше такого не было, ясно? Я за вами слежу.",ai,,F9A8BDAB492503A6ED8B78B304B1C5D8
+HONK. HONK HONK HONK HONK HONK HONK HONK HONK.,ГА-ГА. ГА-ГА ГА-ГА ГА-ГА ГА-ГА ГА-ГА ГА-ГА ГА-ГА ГА-ГА.,ai,,B07992674CEF16B30AED19847BBB0D7E
+I guess that's as reasonable an explanation as I expected.,"Пожалуй, другого такого же разумного объяснения я и не ждал.",ai,,0683CE9D43710831B91409A9C25DC9E6
+Honk. HONK. HONK. HONK. HONK!,Га-га. ГА-ГА. ГА-ГА. ГА-ГА. ГА-ГА!,ai,,1376E47140758D19896EC59388355FAC
+Not what I wanted to hear.,"Не то, что я хотел услышать.",ai,,C7E3DDEC409260B85F4AA2BA299677A4
+Honk.,Га-га.,ai,,8FB1349C4049F1565E0E44B1B3CB86FE
+So where is it? Am I going to have to get a new one?,Так где она? Мне придётся искать новую?,ai,,6B813F2D4D9F5A869BCAB59DA5AC2C5A
 HONK.,ГА.,ok,,88CC125742B8021C17EEE09A2BDC347D
-...The mechanic? I guess I could try.,,,,DD5C448B4EC5EC057CD1BDB9D2A29398
-Honketyhonk. Honk honk. Honky HONK.,,,,CEE2CADC483C997C3844AFB598223E16
-HONK. HONK honko HONK.,,,,8D26DD0D4C618E6903F74BB21924A4E8
-"Ugh, honk.",,,,5913F1D04B92C764ADD3718FFC02E1FE
-"Well, this has been a delightful conversation. Have a good day.",,,,7E1EF5DE45275EDB6671C2BE6EE4758B
-HONK. HONK HONK HONK HONK HONK HONK. Honk?,,,,5EAD41694ADECADF89ED8BA1470EC248
-"Honk. HONK. ",,,,9B02686F42767BA71593019540125247
-But have you considered HONK?,,,,16507317494088C6F32F92A75F0E8ED5
-Honk? Honk...,,,,C5EAF1B44FEB169F5A0CA4992EA41B7A
-"Well, this has been a delightful conversation. Have a good day.",,,,949C521F4A5CFABF3AADD982954DE38D
-HONK. Honko?,,,,82BA475443A8AF29689D55AEF323C33D
-"Honk, honk, honk.",,,,46443DDA4B22773D72CDFDB76833894E
-Honky honk honk.,,,,232488744E04BD43249CE288F9532384
-"Well, this has been a delightful conversation. Have a good day.",,,,1A7B5A104AB5E0BEE014A792081ED18B
-Honk-honk?,,,,5F3E72C8408AAF97943860985695AFDC
+...The mechanic? I guess I could try.,...Механик? Могу попробовать.,ai,,DD5C448B4EC5EC057CD1BDB9D2A29398
+Honketyhonk. Honk honk. Honky HONK.,Гагага-га. Га-га га-га. Гага ГА-ГА.,ai,,CEE2CADC483C997C3844AFB598223E16
+HONK. HONK honko HONK.,ГА-ГА. ГА-ГА гага ГА-ГА.,ai,,8D26DD0D4C618E6903F74BB21924A4E8
+"Ugh, honk.","Тьфу, га-га.",ai,,5913F1D04B92C764ADD3718FFC02E1FE
+"Well, this has been a delightful conversation. Have a good day.","Что ж, беседа была восхитительной. Хорошего дня.",ai,,7E1EF5DE45275EDB6671C2BE6EE4758B
+HONK. HONK HONK HONK HONK HONK HONK. Honk?,ГА-ГА. ГА-ГА ГА-ГА ГА-ГА ГА-ГА ГА-ГА ГА-ГА. Га-га?,ai,,5EAD41694ADECADF89ED8BA1470EC248
+"Honk. HONK. ","Га-га. ГА-ГА. ",ai,,9B02686F42767BA71593019540125247
+But have you considered HONK?,А вы не думали о ГА-ГА?,ai,,16507317494088C6F32F92A75F0E8ED5
+Honk? Honk...,Га-га? Га-га...,ai,,C5EAF1B44FEB169F5A0CA4992EA41B7A
+"Well, this has been a delightful conversation. Have a good day.","Что ж, беседа была восхитительной. Хорошего дня.",ai,,949C521F4A5CFABF3AADD982954DE38D
+HONK. Honko?,ГА-ГА. Гага?,ai,,82BA475443A8AF29689D55AEF323C33D
+"Honk, honk, honk.","Га-га, га-га, га-га.",ai,,46443DDA4B22773D72CDFDB76833894E
+Honky honk honk.,Гага га-га га-га.,ai,,232488744E04BD43249CE288F9532384
+"Well, this has been a delightful conversation. Have a good day.","Что ж, беседа была восхитительной. Хорошего дня.",ai,,1A7B5A104AB5E0BEE014A792081ED18B
+Honk-honk?,Га-га-га?,ai,,5F3E72C8408AAF97943860985695AFDC
 [Leave],[Выйти],ok,,104526224F28C3124EEA02BE6C404212
-Honk.,,,,261568AA45F20DB35F1AC4A1422FF25B
-Honk. Honk. Honk. Honk?,,,,CD6F7A194BC9234B1416188F0D726B60
+Honk.,Га-га.,ai,,261568AA45F20DB35F1AC4A1422FF25B
+Honk. Honk. Honk. Honk?,Га-га. Га-га. Га-га. Га-га?,ai,,CD6F7A194BC9234B1416188F0D726B60
 [Leave],[Выйти],ok,,26799D1A4E43B6AD66A34F8C62FD9F14
-"[The geezers swarm the handful of birdseed, picking away at it. You've served your purpose - now, they only feel the need for seed.]",,,,59BB397D40E53E0653FB91B52C1C08B9
+"[The geezers swarm the handful of birdseed, picking away at it. You've served your purpose - now, they only feel the need for seed.]",[Гусяры набрасываются на горсть корма и клюют его. Свою роль ты сыграл — теперь их волнует только корм.],ai,,59BB397D40E53E0653FB91B52C1C08B9
 [Leave],[Выйти],ok,,045C54C242D6CADE6E8FEABCBD4860EC
-"Eat up, losers.",,,,A6D1747A4D29553E22378D89A1BEBF41
-Honk-honk-honk.,,,,A27E7D3F444006134C33DE9384EFB6F3
+"Eat up, losers.","Жрите, лузеры.",ai,,A6D1747A4D29553E22378D89A1BEBF41
+Honk-honk-honk.,Га-га-га-га.,ai,,A27E7D3F444006134C33DE9384EFB6F3
 [Leave],[Выйти],ok,,FC1626AD4C18A999C2703FB2FC22FBE1
-Honk off.,,,,607DE5D64CCA2420558E72937F2B422D
-Honk. Honk!,,,,47A94E824909BE91B73F918DAD9F649D
-"Wait, what was that?",,,,EB60D766482F73F4BF496B94B3E9C21E
-"[The geezers look amongst themselves, and then towards a particularly large member of their posse. The big geezer scoffs, looking back at the clock and then back at you with a mischievous grin.]",,,,90E7B3234573FC67FF8A7BBCFAD70278
-"What do you know, geezer?",,,,BF15E3E34C47D127238E12AC5F9D0C4C
-"[The large geezer shakes its head, honks one last time, and returns to picking at food in the snowy gutter. Geezers don't snitch, it seems.]",,,,32C0B08042B0EAB2B69D54AD6C8B4CDD
-"I'll get to the bottom of this, geezers.",,,,BD73A5F3460FFEBECB03C0AB4394A547
-"Well, this has been a delightful conversation. Have a good day.",,,,F7E6B6FD42670DC56BCB159963055DB0
+Honk off.,Гагай отсюда.,ai,,607DE5D64CCA2420558E72937F2B422D
+Honk. Honk!,Га-га. Га-га!,ai,,47A94E824909BE91B73F918DAD9F649D
+"Wait, what was that?","Погоди, что это было?",ai,,EB60D766482F73F4BF496B94B3E9C21E
+"[The geezers look amongst themselves, and then towards a particularly large member of their posse. The big geezer scoffs, looking back at the clock and then back at you with a mischievous grin.]","[Гусяры переглядываются, затем смотрят на одного особенно крупного члена своей шайки. Здоровенный гусяра фыркает, смотрит на часы, потом на тебя — с лукавой ухмылкой.]",ai,,90E7B3234573FC67FF8A7BBCFAD70278
+"What do you know, geezer?","Что ты знаешь, гусяра?",ai,,BF15E3E34C47D127238E12AC5F9D0C4C
+"[The large geezer shakes its head, honks one last time, and returns to picking at food in the snowy gutter. Geezers don't snitch, it seems.]","[Крупный гусяра качает головой, гогочет в последний раз и возвращается к ковырянию в еде в заснеженной канаве. Гусяры не стучат, похоже.]",ai,,32C0B08042B0EAB2B69D54AD6C8B4CDD
+"I'll get to the bottom of this, geezers.","Я до всего докопаюсь, гусяры.",ai,,BD73A5F3460FFEBECB03C0AB4394A547
+"Well, this has been a delightful conversation. Have a good day.","Что ж, беседа была восхитительной. Хорошего дня.",ai,,F7E6B6FD42670DC56BCB159963055DB0
 HONK.,ГА.,ok,,9F0EDCE145565C6658D0EE9723E249A7
 [Leave],[Выйти],ok,,1F2ACC064C730B01FEBE899916110DD4
-Honk off.,,,,0048E64842CF3D9FE4C037B153BB5510
-"[The heads of the geezers shoot up in surprise, but soon enough return to their waddling and gutterpicking. They're too spread out for a good picture, anyway.]",,,,8281AC6F433D32EC3636B5AC21DD817F
-"[Appeal to the eldest geezer] Excuse me, sir?",,,,A61407BF45F79817DBA9739E44386B26
-"Here, you geezers. If I give you this birdseed, will you all group up nicely?",,,,D1BB3B74468B5F0AB2BAE1A231131758
-Would you all mind grouping up a bit?,,,,ED22C3714FB10734B588D2B565D22AA0
-"I'll be back, geezers.",,,,B51B9D614330186E037B62BC08BAAB75
-"[The geezers mostly ingore your request, and remain too spread out to nicely capture in a picture.]",,,,8690F0E94D8109E2A67E9BB511B618F1
-"Here, you geezers. If I give you this birdseed, will you all group up nicely?",,,,F88C4A6F4A7E00312CBE2997C2A20F2B
-Would you all mind grouping up a bit?,,,,67E1430747EC72A65A7CC7902F89FC1D
+Honk off.,Гагай отсюда.,ai,,0048E64842CF3D9FE4C037B153BB5510
+"[The heads of the geezers shoot up in surprise, but soon enough return to their waddling and gutterpicking. They're too spread out for a good picture, anyway.]","[Головы гусяров удивлённо взлетают вверх, но вскоре они снова принимаются вразвалку расхаживать и ковыряться в канаве. Они всё равно слишком разбрелись для хорошего снимка.]",ai,,8281AC6F433D32EC3636B5AC21DD817F
+"[Appeal to the eldest geezer] Excuse me, sir?","[Обратиться к старейшему гусяру] Простите, сэр?",ai,,A61407BF45F79817DBA9739E44386B26
+"Here, you geezers. If I give you this birdseed, will you all group up nicely?","Эй, гусяры. Если я дам вам этот корм, вы красиво сгруппируетесь?",ai,,D1BB3B74468B5F0AB2BAE1A231131758
+Would you all mind grouping up a bit?,Не могли бы вы все немного сгруппироваться?,ai,,ED22C3714FB10734B588D2B565D22AA0
+"I'll be back, geezers.","Я ещё вернусь, гусяры.",ai,,B51B9D614330186E037B62BC08BAAB75
+"[The geezers mostly ingore your request, and remain too spread out to nicely capture in a picture.]","[Гусяры в основном игнорируют твою просьбу и остаются слишком разбросанными, чтобы удачно уместиться в кадр.]",ai,,8690F0E94D8109E2A67E9BB511B618F1
+"Here, you geezers. If I give you this birdseed, will you all group up nicely?","Эй, гусяры. Если я дам вам этот корм, вы красиво сгруппируетесь?",ai,,F88C4A6F4A7E00312CBE2997C2A20F2B
+Would you all mind grouping up a bit?,Не могли бы вы все немного сгруппироваться?,ai,,67E1430747EC72A65A7CC7902F89FC1D
 Fine.,Хорошо.,ok,,A3F8085B427B85424AD3238C80DC18F8
-"[You throw some birdseed on the ground, and the geezers gleefully pounce the seedy treats. Now's your chance.]",,,,B8E989744F59268A0946AD94CD6905FE
-[Let them enjoy the birdseed in peace],,,,742D9680417C60AE9A70208D4E45505B
-[Take picture],,,,F9D7632F4C3ECF6FA949C887D04B644A
-[They make a point to ignore you as loudly as possible. You'll need to bribe them.],,,,F36EC62741CF35508ACE04B7D6B1B11E
-"Stay right here. I'll be right back, alright?",,,,94A9B8424206500A91BAEE80BAD9777E
-"Fine, fine. What else is new?",,,,4FAC8FB54F3E045E770BEA83EE709A2B
-"Honk, honk honk. Honk?",,,,AA0C9B2C4B90AD5F51893EAEBADBFABB
-"But HONK, honk honk?",,,,678FC4AC4122E0A5A4819C8D4AC9AD6B
-Honko honk.,,,,F89F560E41C5CDFB3A6D18AB4DB925C1
-"Honk, ain't it?",,,,DFBFCD1042898EC12FACF5A9113D05B7
-...H-honk? Honk HONK?,,,,ED9633EB42781FFE527B898E18DDD49A
-Great. Geezer pic.,,,,814B12AB4256488C35088489FED67F35
-"Not the most original shot, but it'll do.",,,,004CD67E4A0F8F0FA9FD479A9D3839DE
-[The geezers congratulate each other on being so photogenic.],,,,28B1BF434CDEC14546647D96B6559F91
-"Oh, and one more thing...",,,,364E03A540246301670D2EB9C36E3BAF
-"Later, geezers.",,,,AC9716D044E6178E7E3539B4E34A7047
-"[The geezers go silent, staring you down past offended beaks.]",,,,9266AFDC4BCA2C488F5F2E898DBFDA32
-"Oh, one more thing...",,,,B0D6B02547AE25E2AD56F68C995A0144
-"Later, geezers.",,,,F4CD118142B462EB5FC5AE9FCF2FBC3E
-"[Continuous observation reveals what appears to be some notion of gerontocratic rule - the eldest of the geezers, a large, greying one, appears to be treated with more respect than the others. All geese are equals, it seems, but some more than others.]",,,,08A99C784824A5124E270886307406F6
-I'll bear that in mind. Might be useful information.,,,,EC30CE154CCE8DC15B687299C614D05B
-"[The geezers regard you with suspicion, but soon return to their scheduled gutterpicking.]",,,,45F5DD8040B461EA4CD29E81DD0F5ED6
-"[Leave, suspiciously.]",,,,505A3F984639B720F7E217840B646DDF
-Ahem. I wanted to ask you geezers something.,,,,12BD9A0C493DC84FD212D7B3CE0C6E95
-"[The eldest geezer pauses, lifting its head and regarding you carefully for a moment. It nods regally, as if allowing you to speak.]",,,,6FB4B5894ECC1D1648D09CA99AF35749
-Would your highness be interested in having his portrait taken?,,,,5C1687B244039A8DE772EF81E64AF0EC
-"[The gerontocratic geezer gestures gently, as if having considered and approved your request. It lets out a noble honk, amassing the other geezers around it. Looking at it, it would make a very nice group picture.]",,,,CBD12C134A0112156D01E79249897BF4
-"...Actually, nevermind. Down with the ruling class.",,,,D17865A64149BD7188EBC792FC8627CA
-[Take picture.],,,,6C746A894E2187FAD6CBE1B8B7645E86
-"[The geezers look back at a still goose lying amongst them - it would be macabre, but upon closer inspection you notice it's just a geezer plushie. A child's toy.]",,,,93D84E3944E1ED8D52B9A48DBB49ADC0
-"That's comforting, I suppose.",,,,CA09721C44E99FBB1B48B691DD9BD699
-[Take the plushie],,,,69A7BCE54B5E8D8EDA6C298341667E1A
-[The geezers honk and shuffle away as you pocket the paltry but provably poultry plushie.],,,,CF7A76D9403BC4FC2A5894B874AA5051
-"There. Now, another thing...",,,,A3482F124E5B6589D40FA5949A926B01
-That's all. See you all later.,,,,22400A5A4C46542AF066F5B6CDAE1176
-...honk.,,,,267D9C264456DA19D445FC8C16EF726D
-...honk?,,,,2B4A615E479F9D1C32D86AB72FE0268C
-"Honk-honk. Honk, honk honk HONK HONK honk. HONK-honk?",,,,EFAED9D44539C463857960BEB91A3F9F
-You gotta honk about it. HOnk.,,,,424092E04DF958D0D0A3FCBC7FE13542
-HONK honk HONK HONK.,,,,26AA9A9D439F8BA3C3CBC786B2B028BD
-Honk honk.,,,,375AD6114A6D73DD50996FAEA1C52FD6
-Honklo-honky.,,,,54A39AF949E9F37712776E9A93ECF177
-What's honk got to do with it?,,,,17ECCD2843D655BDE4E69697FA05BEB8
-HONKETY HONK.,,,,BB2B15D14E63BDE2A8DF4C8E8E5AC314
-"...Nevermind, actually.",,,,24FD2EB940DA5533F720718EDBC0841F
-I was told you might know something about it. Might even have done something to it.,,,,646DE64940244AAE134F848BE3FB18B2
-"Jigs up, fellas. I know you tore the hand from old Grandfather Steam.",,,,59D84723430F456109FFD5BFAF263FD2
-Honk. HONK HONK HONK.,,,,05C4DBAF4F2A7684129D74B5F44403AD
-You're not worried about traffic?,,,,433213A14AA178E8CDA5DCAB143C4A71
-"You know, some people don't like you geezers much.",,,,EF08FBD24ACD61A1E00CDC95EE9ECCCF
-"I'm just saying, it has to be cold.",,,,AD0047B34A6406E17BCCE1876AB3BE7F
-One of you isn't moving. Is he okay?,,,,CCB351374732984313BBB590AA487974
-"[The geezers seem mostly to regard each other as equals, bumping, honking and shoving against each other whenever deemed appropriate to do so.]",,,,6815DAD34FEDF12200608B8B5C0C1064
-"Surely they have a leader, though?",,,,0C3061C7487B3AD9988062B9DEA186E1
+"[You throw some birdseed on the ground, and the geezers gleefully pounce the seedy treats. Now's your chance.]","[Ты бросаешь на землю горсть корма, и гусяры радостно набрасываются на лакомство. Твой шанс.]",ai,,B8E989744F59268A0946AD94CD6905FE
+[Let them enjoy the birdseed in peace],[Дать им спокойно насладиться кормом],ai,,742D9680417C60AE9A70208D4E45505B
+[Take picture],[Сфотографировать],ai,,F9D7632F4C3ECF6FA949C887D04B644A
+[They make a point to ignore you as loudly as possible. You'll need to bribe them.],"[Они нарочито громко делают вид, что тебя не замечают. Придётся их подкупить.]",ai,,F36EC62741CF35508ACE04B7D6B1B11E
+"Stay right here. I'll be right back, alright?","Оставайтесь здесь. Я сейчас вернусь, лады?",ai,,94A9B8424206500A91BAEE80BAD9777E
+"Fine, fine. What else is new?","Ладно, ладно. А что нового?",ai,,4FAC8FB54F3E045E770BEA83EE709A2B
+"Honk, honk honk. Honk?","Га-га, га-га га-га. Га-га?",ai,,AA0C9B2C4B90AD5F51893EAEBADBFABB
+"But HONK, honk honk?","Но ГА-ГА, га-га га-га?",ai,,678FC4AC4122E0A5A4819C8D4AC9AD6B
+Honko honk.,Гага га-га.,ai,,F89F560E41C5CDFB3A6D18AB4DB925C1
+"Honk, ain't it?","Га-га, не так ли?",ai,,DFBFCD1042898EC12FACF5A9113D05B7
+...H-honk? Honk HONK?,...Г-га-га? Га-га ГА-ГА?,ai,,ED9633EB42781FFE527B898E18DDD49A
+Great. Geezer pic.,Отлично. Гусиное фото.,ai,,814B12AB4256488C35088489FED67F35
+"Not the most original shot, but it'll do.","Не самый оригинальный кадр, но сойдёт.",ai,,004CD67E4A0F8F0FA9FD479A9D3839DE
+[The geezers congratulate each other on being so photogenic.],[Гусяры поздравляют друг друга с такой фотогеничностью.],ai,,28B1BF434CDEC14546647D96B6559F91
+"Oh, and one more thing...","Ах да, и ещё кое-что...",ai,,364E03A540246301670D2EB9C36E3BAF
+"Later, geezers.","Пока, гусяры.",ai,,AC9716D044E6178E7E3539B4E34A7047
+"[The geezers go silent, staring you down past offended beaks.]",[Гусяры замолкают и сверлят тебя взглядами поверх оскорблённых клювов.],ai,,9266AFDC4BCA2C488F5F2E898DBFDA32
+"Oh, one more thing...","Ах да, ещё кое-что...",ai,,B0D6B02547AE25E2AD56F68C995A0144
+"Later, geezers.","Пока, гусяры.",ai,,F4CD118142B462EB5FC5AE9FCF2FBC3E
+"[Continuous observation reveals what appears to be some notion of gerontocratic rule - the eldest of the geezers, a large, greying one, appears to be treated with more respect than the others. All geese are equals, it seems, but some more than others.]","[Долгое наблюдение выявляет нечто вроде геронтократии: старейший из гусяров, крупный седеющий самец, пользуется большим почтением, чем остальные. Все гуси равны, похоже, но некоторые равнее других.]",ai,,08A99C784824A5124E270886307406F6
+I'll bear that in mind. Might be useful information.,Учту. Может пригодиться.,ai,,EC30CE154CCE8DC15B687299C614D05B
+"[The geezers regard you with suspicion, but soon return to their scheduled gutterpicking.]","[Гусяры смотрят на тебя с подозрением, но вскоре возвращаются к своему расписанию ковыряния в канаве.]",ai,,45F5DD8040B461EA4CD29E81DD0F5ED6
+"[Leave, suspiciously.]",[Подозрительно уйти.],ai,,505A3F984639B720F7E217840B646DDF
+Ahem. I wanted to ask you geezers something.,"Кхм. Хотел вас кое о чём спросить, гусяры.",ai,,12BD9A0C493DC84FD212D7B3CE0C6E95
+"[The eldest geezer pauses, lifting its head and regarding you carefully for a moment. It nods regally, as if allowing you to speak.]","[Старейший гусяра замирает, поднимает голову и некоторое время внимательно тебя разглядывает. Он величественно кивает, словно позволяя говорить.]",ai,,6FB4B5894ECC1D1648D09CA99AF35749
+Would your highness be interested in having his portrait taken?,"Не желает ли ваше величество, чтобы его запечатлели на портрете?",ai,,5C1687B244039A8DE772EF81E64AF0EC
+"[The gerontocratic geezer gestures gently, as if having considered and approved your request. It lets out a noble honk, amassing the other geezers around it. Looking at it, it would make a very nice group picture.]","[Геронтократический гусяра мягко делает жест, словно обдумал и одобрил твою просьбу. Он издаёт благородное гоготание и собирает остальных вокруг себя. Глядя на него, выйдет очень приличный групповой снимок.]",ai,,CBD12C134A0112156D01E79249897BF4
+"...Actually, nevermind. Down with the ruling class.","...Вообще, забудьте. Долой правящий класс.",ai,,D17865A64149BD7188EBC792FC8627CA
+[Take picture.],[Сфотографировать.],ai,,6C746A894E2187FAD6CBE1B8B7645E86
+"[The geezers look back at a still goose lying amongst them - it would be macabre, but upon closer inspection you notice it's just a geezer plushie. A child's toy.]","[Гусяры оглядываются на неподвижного гуся, лежащего среди них — было бы жутко, но, присмотревшись, ты замечаешь, что это просто плюшевый гусяра. Детская игрушка.]",ai,,93D84E3944E1ED8D52B9A48DBB49ADC0
+"That's comforting, I suppose.","Ну, это утешает, наверное.",ai,,CA09721C44E99FBB1B48B691DD9BD699
+[Take the plushie],[Взять плюшевую игрушку],ai,,69A7BCE54B5E8D8EDA6C298341667E1A
+[The geezers honk and shuffle away as you pocket the paltry but provably poultry plushie.],"[Гусяры гогочут и разбредаются, пока ты прячешь в карман жалкую, но бесспорно птичью плюшевую игрушку.]",ai,,CF7A76D9403BC4FC2A5894B874AA5051
+"There. Now, another thing...",Вот. А теперь ещё кое-что...,ai,,A3482F124E5B6589D40FA5949A926B01
+That's all. See you all later.,Это всё. До встречи.,ai,,22400A5A4C46542AF066F5B6CDAE1176
+...honk.,...га-га.,ai,,267D9C264456DA19D445FC8C16EF726D
+...honk?,...га-га?,ai,,2B4A615E479F9D1C32D86AB72FE0268C
+"Honk-honk. Honk, honk honk HONK HONK honk. HONK-honk?","Га-га. Га-га, га-га ГА-ГА ГА-ГА га-га. ГА-га?",ai,,EFAED9D44539C463857960BEB91A3F9F
+You gotta honk about it. HOnk.,Тут надо гоготать. ГА-га.,ai,,424092E04DF958D0D0A3FCBC7FE13542
+HONK honk HONK HONK.,ГА-ГА га-га ГА-ГА ГА-ГА.,ai,,26AA9A9D439F8BA3C3CBC786B2B028BD
+Honk honk.,Га-га га-га.,ai,,375AD6114A6D73DD50996FAEA1C52FD6
+Honklo-honky.,Гагло-гаги.,ai,,54A39AF949E9F37712776E9A93ECF177
+What's honk got to do with it?,При чём тут га-га?,ai,,17ECCD2843D655BDE4E69697FA05BEB8
+HONKETY HONK.,ГАГАГА ГА-ГА.,ai,,BB2B15D14E63BDE2A8DF4C8E8E5AC314
+"...Nevermind, actually.","...Забудьте, вообще.",ai,,24FD2EB940DA5533F720718EDBC0841F
+I was told you might know something about it. Might even have done something to it.,"Мне сказали, что вы можете что-то об этом знать. Может, даже что-то с ней сделали.",ai,,646DE64940244AAE134F848BE3FB18B2
+"Jigs up, fellas. I know you tore the hand from old Grandfather Steam.","Игра окончена, мужики. Я знаю, что это вы оторвали стрелку у старины Дедушки Пара.",ai,,59D84723430F456109FFD5BFAF263FD2
+Honk. HONK HONK HONK.,Га-га. ГА-ГА ГА-ГА ГА-ГА.,ai,,05C4DBAF4F2A7684129D74B5F44403AD
+You're not worried about traffic?,Вас не беспокоит транспорт?,ai,,433213A14AA178E8CDA5DCAB143C4A71
+"You know, some people don't like you geezers much.","Знаете, некоторым вы, гусяры, не очень-то нравитесь.",ai,,EF08FBD24ACD61A1E00CDC95EE9ECCCF
+"I'm just saying, it has to be cold.","Я просто говорю: должно быть, холодно.",ai,,AD0047B34A6406E17BCCE1876AB3BE7F
+One of you isn't moving. Is he okay?,Один из вас не двигается. С ним всё в порядке?,ai,,CCB351374732984313BBB590AA487974
+"[The geezers seem mostly to regard each other as equals, bumping, honking and shoving against each other whenever deemed appropriate to do so.]","[Гусяры в основном считают друг друга равными: толкаются, гогочут и пихаются, когда сочтут нужным.]",ai,,6815DAD34FEDF12200608B8B5C0C1064
+"Surely they have a leader, though?",Но у них наверняка есть вожак?,ai,,0C3061C7487B3AD9988062B9DEA186E1

@@ -40,17 +40,18 @@ if (process.argv[1]?.endsWith('batch.mjs')) {
                 if (!fs.existsSync(file)) { console.log(`! ${json}: нет файла ${file}`); problems++; continue; }
                 const rows = readCsv(file);
                 const byKey = new Map(rows.map(r => [r.key, r]));
-                let applied = 0;
+                let applied = 0, same = 0;
                 for (const [key, text] of Object.entries(tr)) {
                     const r = byKey.get(key);
                     const fail = msg => { console.log(`! ${file} ${key}: ${msg}`); problems++; };
                     if (!r) { fail('нет такого ключа'); continue; }
                     if (r.translation && !force) { fail('уже переведено (--force, чтобы перезаписать)'); continue; }
+                    if (typeof text === 'string' && text.trim() === r.source.trim()) { same++; continue; } // copy of the source = nothing to translate
                     try { r.translation = check(r.source, text); r.status = status; applied++; }
                     catch (e) { fail(e.message); }
                 }
                 if (!dry) writeCsv(file, HEADER, rows);
-                console.log(`${dry ? '[проверка] ' : ''}${file}: ${applied} строк, без перевода осталось ${rows.filter(r => !r.translation).length}`);
+                console.log(`${dry ? '[проверка] ' : ''}${file}: ${applied} строк${same ? ` (${same} совпадают с оригиналом — пропущены)` : ''}, без перевода осталось ${rows.filter(r => !r.translation).length}`);
             }
         }
         if (problems) { console.log(`проблем: ${problems}`); process.exitCode = 2; }

@@ -1,325 +1,325 @@
 ﻿source,translation,status,namespace,key
-You burned Lincoln's envelope.,,,,D7A52A1344DF188D54BF76B21DEAD7B7
-Bocco liked that.,,,,F76D59EB47997A0D9CBD34AC3B4335CB
-Bocco claims he didn't see anything.,,,,D851ECF64B13BF1806B1ADBE20484D7D
-Bocco claims a group of teenagers did it.,,,,342C4E684FC7829B7CEAEF9C7DA668FA
-Bocco claims he saw a mechanic working on the clock.,,,,1A70B8C141425CB3800A3BBD0F025838
-"Ah, I saw you repair the clock. Well done, young man. Restoring what is broken and returning things to normal is a virtue, you know.",,,,88F21A1E498BE27F2881ACA7A2C0C087
-[Mutter] You don't say.,,,,FBB1FBC1458AF8F7196903BA5C29D232
-"Aw, shit. Guess I better take it apart again. [Leave]",,,,0E6C79864B84192CFE578F9C8B488A97
-"Oh yeah, I'm all about being a good, virtuous little lad. That's me. Virtue Boy.",,,,69AF5C26434B4FCD04FEC5A3ED7D1E01
-"Oh wow, I never would've thought. Listen, let's talk about something else real quick...",,,,F7DE9AB14796E4E29C9A108F46B9F86B
-"A swell shot? The Solstice campfires are an important part of our faith, boy. If you're taking a picture, you need to ensure you capture the gravitas of the situation.",,,,3D4AF72346F7D1A3A9D59FB7B548B3F6
-...Which is?,,,,6626E7B14CD52B65DC44FE883A979695
-"(INVESTIGATIVE) Don't worry. I'll ensure to frame the fire as the central piece of the picture, with you tending to it as a devout follower.",,,,406027AB4012A07410BEE3AEBEFA5AEB
-Thanks papa,,,,694EAB3940B5A78DCDE3958894805E0D
-"(SOCIAL) I was thinking of trying to capture the street behind you, to show all the people making their way towards the light.",,,,A4FEBE114B5D2A130A4BFB99BD0E417B
-...Hrm.,,,,F834756145E03EB047A7CC8C23B955A8
-[Shoot finger pistols at him and leave],,,,08C92FB84E3EBF3750A236B49A2E7C98
-"Virtue Boy, out! [Run away]",,,,5283D5EF47F75024F4C76BA2F742E33C
-"Say, I got a question for you...",,,,C06D48DE40CCBCF09FB7279EC5B5DD0A
-Oh? And which one is that?,,,,28F38678405EDA0DF1BADC85BD84445A
-"The one in West End. You know, the one that looks like a church.",,,,D3D0CF7E4D47D390FE6F579610E81201
-"The, uh, blue one.",,,,F1E2E2FD4647D0F010FA36A489AEECAB
-"I don't know yet, but I can't wait to find out. I love learning about the Shepherd. He's so cool.",,,,7395816149C7285B47097F9B662D5005
+You burned Lincoln's envelope.,Ты сжёг конверт Линкольна.,ai,,D7A52A1344DF188D54BF76B21DEAD7B7
+Bocco liked that.,Бокко это понравилось.,ai,,F76D59EB47997A0D9CBD34AC3B4335CB
+Bocco claims he didn't see anything.,"Бокко утверждает, что ничего не видел.",ai,,D851ECF64B13BF1806B1ADBE20484D7D
+Bocco claims a group of teenagers did it.,"Бокко утверждает, что это сделала группа подростков.",ai,,342C4E684FC7829B7CEAEF9C7DA668FA
+Bocco claims he saw a mechanic working on the clock.,"Бокко утверждает, что видел, как у часов работал механик.",ai,,1A70B8C141425CB3800A3BBD0F025838
+"Ah, I saw you repair the clock. Well done, young man. Restoring what is broken and returning things to normal is a virtue, you know.","А, я видел, как ты чинил часы. Молодец, юноша. Восстанавливать сломанное и возвращать всё в порядок — это добродетель, знаешь ли.",ai,,88F21A1E498BE27F2881ACA7A2C0C087
+[Mutter] You don't say.,[Пробормотать] Да что вы говорите.,ai,,FBB1FBC1458AF8F7196903BA5C29D232
+"Aw, shit. Guess I better take it apart again. [Leave]","Вот чёрт. Пожалуй, придётся разобрать их обратно. [Уйти]",ai,,0E6C79864B84192CFE578F9C8B488A97
+"Oh yeah, I'm all about being a good, virtuous little lad. That's me. Virtue Boy.","О да, я весь такой добродетельный мальчик. Это про меня. Мальчик-Добродетель.",ai,,69AF5C26434B4FCD04FEC5A3ED7D1E01
+"Oh wow, I never would've thought. Listen, let's talk about something else real quick...","Ого, никогда бы не подумал. Слушайте, давайте быстренько поговорим о другом...",ai,,F7DE9AB14796E4E29C9A108F46B9F86B
+"A swell shot? The Solstice campfires are an important part of our faith, boy. If you're taking a picture, you need to ensure you capture the gravitas of the situation.","Удачный кадр? Костры солнцестояния — важная часть нашей веры, мальчик. Если делаешь снимок, нужно передать всю торжественность момента.",ai,,3D4AF72346F7D1A3A9D59FB7B548B3F6
+...Which is?,...То есть?,ai,,6626E7B14CD52B65DC44FE883A979695
+"(INVESTIGATIVE) Don't worry. I'll ensure to frame the fire as the central piece of the picture, with you tending to it as a devout follower.","[ПЫТЛИВОСТЬ] Не волнуйтесь. Я построю кадр так, чтобы огонь был главным, а вы — рядом, как набожный последователь, который за ним следит.",ai,,406027AB4012A07410BEE3AEBEFA5AEB
+Thanks papa,"Спасибо, папаша",ai,,694EAB3940B5A78DCDE3958894805E0D
+"(SOCIAL) I was thinking of trying to capture the street behind you, to show all the people making their way towards the light.","[ОБЩИТЕЛЬНОСТЬ] Я думал снять улицу у вас за спиной, чтобы показать, как все идут к свету.",ai,,A4FEBE114B5D2A130A4BFB99BD0E417B
+...Hrm.,...Хм.,ai,,F834756145E03EB047A7CC8C23B955A8
+[Shoot finger pistols at him and leave],[Выстрелить в него из пальцев-пистолетов и уйти],ai,,08C92FB84E3EBF3750A236B49A2E7C98
+"Virtue Boy, out! [Run away]",Мальчик-Добродетель уходит! [Убежать],ai,,5283D5EF47F75024F4C76BA2F742E33C
+"Say, I got a question for you...","Слушайте, у меня к вам вопрос...",ai,,C06D48DE40CCBCF09FB7279EC5B5DD0A
+Oh? And which one is that?,О? И какой же?,ai,,28F38678405EDA0DF1BADC85BD84445A
+"The one in West End. You know, the one that looks like a church.","Тот, что в Уэст-Энде. Ну знаете, похожий на церковь.",ai,,D3D0CF7E4D47D390FE6F579610E81201
+"The, uh, blue one.","Ну, э-э, синий.",ai,,F1E2E2FD4647D0F010FA36A489AEECAB
+"I don't know yet, but I can't wait to find out. I love learning about the Shepherd. He's so cool.","Пока не знаю, но не терпится узнать. Обожаю узнавать про Пастыря. Он такой крутой.",ai,,7395816149C7285B47097F9B662D5005
 ...,,,,B2754BA341B86D25689253BC0D3A1EF1
-"...And then take copies and sell them, so I can donate the profit to the church, of course.",,,,5AD7F19A47DFAB9E2A4A4ABE51050291
-[Smile as cutely as you can],,,,D6BE416E4EE51645F90B6E9BBEA45BAF
-"Yup, uh, definitely a given.",,,,86000B234B7B5023B0011D8BBACEE071
-"The place of the Shepherd in this modern age! The shining beacon of truth, order, and justice — one that braves the elements and shines a light on the path of each and all who are pious enough to walk it.",,,,7AF129B540D66F3D753A3BB5064E7E22
-"...And it's loyal tender, of course, who places his time and his life in the hands of the loving Shepherd. Or, you know. Something like that.",,,,BCF903D94AC6379326875689F953E1BA
-"(INVESTIGATIVE) Don't worry. I'll ensure to frame the fire as the central piece of the picture, with you tending to it as a devout follower.",,,,C982C17249AA32DFB356A69748F1998E
-"Yeah, uh...that. That's what I'm going for.",,,,A282D3F6402572DCEB78F4B666FCFB3C
-"(SOCIAL) I was thinking of trying to capture the street behind you, to show all the people making their way towards the light.",,,,252B62994FA91AF52D492F9B289FB00D
-"...How sharply observed of you, boy. Perhaps I did judge you too harshly.",,,,9A8954D543AF7BDC1D342391923D2C6C
-[Nod piously],,,,ED4E9E3D464E0DC060165E9170B51550
-"Most definitely. So is that a go-ahead on the picture, then?",,,,9A4FB4A44E579638B9F796B94367AE8B
-"Honestly, man? I think you had me all figured out. Can I still take the picture?",,,,3A74F5CB47F31D467EDD3784293B9CB2
-"Hrm! Not a bad idea at all. I enjoy the symbolism immensely. All citizens, united, seeking out the guiding light of the Shepherd. Yes, very good.",,,,A15823214DF7822CD0EF5EBB63990CB9
-[Nod piously],,,,749E9D184CA4E880655D648BE369913B
-"So is that a yes, or...?",,,,D0C6DD584DE4E3B7F3948895995D3B57
-Sweet. Now scoot over - there's a particularly sad-looking lady coming up behind you.,,,,117F16444B88E8B9EEFBB093DA3893F4
-"That's very beautiful. Very beautiful, indeed.",,,,EB33938040332C7EC06FA8A3DF8BC337
-[Wipe away a tear and nod],,,,A0006D7042828B854377F6B4B3C2828E
-Yes. I am religious boy.,,,,3135330F4DD10AFD2E9B96BCBD802ECB
-"Really? Oh, man. Good. I was just kind of winging that one.",,,,940F610B43C9058AF0133188BF71579D
-"...Is that so? And what exactly is the purpose of that picture, then? What do you plan on doing with it?",,,,5B539D7D4E69323D37EF6B9166B87032
-"Well, my final project is all about, uh, how kids today have forgot about the teachings of the Shepherd. It's to remind them of His presence.",,,,6B9A30C34965B996971ABB9229BC569C
-I was thinking of donating it to my local church.,,,,2C97698546751EF6DA855192F667F161
-"Develop it, I guess. Maybe that's a given.",,,,FCD339EA4E835312A3BB5580AFE81173
-"Alright, you've convinced me. Take your picture.",,,,698A355248DFE69A4395F1B367C71B2C
-[Take picture],,,,864D7DE9432E8CCAB2D41C8DE91901C9
-"Pictures? On this holy night? Hrm. What of, exactly?",,,,60610E264D4390199276CFA64C659479
-Grandfather Steam.,,,,A7F0BE5A421C2189873D979C1B25B47A
-Not sure yet. It's for a project.,,,,5C06AA584BE5CFA2DE98EDAFD53BB4C4
-"People, mostly.",,,,401183EC459BB81F94044DAEDA5DB2BC
-"By Shepherd's flame! Young people these days... Yes, the darkest day of the year, in many a way. Hence the fire, hence the masks. Where do you live? Who is your priest? I'd like to have a word with him.",,,,FBDD517948DCBC2AF324AF8C2AA19FA4
-I'm not much of a believer. Sorry.,,,,CBDA86B54139CCC336BF5C8EE7796B3B
-"I live in the dorms, I guess. I'm a student.",,,,DEE41D6546F4A2058440DFA23A36061F
-Our neighbourhood priest was a mean drunk.,,,,1C9AC89745929233B124719914CCFD4C
-Very well. It'd be wrong of me to deny someone who is trying so clearly to do his duty.,,,,2D669C504C2CFB6AE6ADEF9D4187C1DE
-[Take a picture],,,,CBE94A1149BF922585F13492D9E285A0
-"All done? I confess, I'm not too familiar with the...art of photography.",,,,7C3469AC44EBFFFB39F65A85AF862317
-"(SARCASTIC) Oh, praise be. This will be a picture most holy.",,,,E9BBBC60479BDCD18103629F3CB50BDD
-Don't worry. I'm very talented.,,,,53B9E05E473C481F7C2788BFCF13450B
-[Shrug] We won't know until I've developed it.,,,,24971EFF4E408FA61A0801A11348E7A2
-...Don't get your hopes up.,,,,D61C174A41124422283B8EAE044257C7
-"That's right: Nightcoming...the Dark Eve, the Winter Solstice. The coldest and darkest day of the year!  A night of victory for the Shepherd and defeat for all the unholy. The flame's triumph over the night.",,,,F12A708042AF7C1EF698E4B0653AE066
-...Night of victory?,,,,DA9BFAF34DADDC147468669FA490D2C6
-"Who are the unholy, exactly?",,,,93A97D6B4A15B5B5CE4E81A35BB7CC32
-Triumph over the what now?,,,,D6D51B924D2EB10E781E0688C290D4A6
-"Hrm. Hello there, young man. I see you're not wearing a mask. It's Winter Solstice today, don't you know?",,,,B7116CE74849C72E8270C7A1EB8D913C
-"Hard to take pictures with a mask on, old man.",,,,EBEE184A4C35A28424EA90A262F4C573
-I'm aware. That's why I'm out taking pictures.,,,,45391283425D1670390725A23D1729E2
-...Winter Solstice?,,,,4E984B1B486C5E0653E98BBA55C6DF72
-Hrm.,,,,C59A73EC465D7C919414A3822EF3E982
-"Mind if we keep this conversation going? I'm really enjoying myself, if you couldn't tell.",,,,BDEDE0504BEE2B63DB2D38AC5F7D9555
-"Anyway. Good luck with salvation, man. [Leave]",,,,E8C90E8F430C5B0661FE678A54EDCA2E
-"Pah. Is Father Niall not tending to the herd? Or are you kids skipping out on sermons? It wouldn't be surprise me, not a bit.",,,,B1103ED74CB6589B3D68C5A9AA93E337
-"I'm skipping sermons right now, in fact.",,,,0ED8A02B450354E64D570CBBF897BC41
-He's got more of an off-hand approach. We like it that way.,,,,CB13099C4B892DC7C1E30488C748A6CF
-"As I said, son: those deviants down the street were loitering around it before I told them to leave. I'd have a stern word with them, if I were you.",,,,4BB2137743E6A1B7B8F3D3A2170FEA9B
-Uh-huh. I will. Very stern. Sterningly stern.,,,,E10600044773D21DA8A31BAF400DB19A
-What's your problem with those kids again?,,,,C1E761FC416257DAB39D5C8BA49D91D0
-"Winter Solstice is a very sacred night, boy. I take this duty seriously. I can keep an eye on it now, if you think whoever did it will be back. We can't have vandalism in this neighbourhood.",,,,FBE718BF40699BC50FDD8D852FD10984
-Sure. Thanks.,,,,18D9C55C4689D5FEBA0ABD9FE8C365CB
-Sure. See you later.,,,,721741AA419133606D74FB9DB00269C4
-"Well, I certainly saw those young women standing around it earlier. Smoking, swearing... deviants, all of them! What is the younger generation coming to, I ask?",,,,1E0CC3B3408DA75262B188AD57E78232
-What indeed. Thanks.,,,,67AB0991482C2240F686A293982F2375
-I don't know. You tell me.,,,,B1FBB50146CA21A908AF9EAEF730961A
-"Nonsense. A man of the cloth wouldn't drink, it's forbidden! Don't be disrespectful of your elders, boy.",,,,A10081EE446962B29A660BA4D1506566
-"Ask anyone, they'll tell you the same thing.",,,,E5437E254BF0BBFAA376E3BC909BC206
-"Not much of a believer? Tsk tsk. Faith isn't a pastime you can pick and choose, you know. It's a virtue.",,,,F605A7814A49AD3F9A760794E29C86CD
-Guess I'm not very virtuous.,,,,3FCC97F249249128033A25838221A996
-"Way I see it, I can't make myself believe. Sorry.",,,,3F899B6B4D49D7C0B08EC0841B18AC8F
-"I don't care about any of this, old man.",,,,A7991BD14579C4807B3FE9AFE2AE2AFB
-"Like I said, the only one I saw touching the clock was that mechanic down the street. Did you speak to him?",,,,E412347D48AAEA6D17DE83BFD0A0BF8D
-"Not yet, but I will.",,,,AA69C79646C05881D389EBAF79183ABB
-"It just doesn't seem likely that he'd be the culprit. What, he secretly destroys clocks during work hours? Think he gets off on it?",,,,EDD97D814D3D2280732A0FBC0DC6B7D0
-"Not anyone who would leave it in a state of disrepair. Quite the opposite, actually. A mechanic came by a short while ago. Left down the way you came. If you hurry down the street, you might still catch him.",,,,C16F0E3C41559513098603B0D872B513
-Huh. Thanks.,,,,E039A7C249564ECA97DED18CB05A0A4E
-Sure he wasn't an anti-clockist in disguise?,,,,57B604794DEB8687DF4EF69D02910F51
-Hush with your nonsense. I know what I saw.,,,,DB58B54241B79F4D40C2108C1EDFE6B6
-"If you say so, old man.",,,,0DED72054627FBD47447ABA13259F0CD
-I'm sure. See you later. [Leave],,,,B5B95652401C769F6945ADBC13DA943B
-"Hello again, young man. Feeling the cold begin to creep up your bones?",,,,EC011D234070D2957ABEDFA8BBAD0A27
-I was hoping to talk to you.,,,,B934FC85421257B31B4D7682D1CA1A93
-"No, I'm peachy. See ya.",,,,366D7C494327D116C01065AF1D9A86E5
-"They seek acceptance from their peers in all the worst ways. Delinquents and mischief makers. Smoking at that age... I'll wager they haven't been to church in years! Mark my words, I'll pray for them and their families.",,,,027DF37C4C4919A0ADD721A5083BDA4E
-"Yeah, smoking at that age? What's the world coming to, huh? Not me, though. I'm a good boy.",,,,2F1CCD124B43B6BC8DC9E1BA12ABAA65
-You do that. I'll go do the same. [Leave],,,,9424B69C4369FA4733C3E4974F32691D
-"Hrm. So, you've come to warm yourself by the fire?",,,,2EE28EA949F0F8DDB6BBE5B3B14F6C1C
-I'm not cold.,,,,166C8D1E4DF98E82ACB9D4B0B3375588
-"...It is kind of nice, actually.",,,,C747CA824664507B3A05B7AB769DEBEF
-Depends. Can I stand here in peace and quiet?,,,,2476B2D0490210C66D09FD95211A6E0B
-Hrm. Is there some sort of symbolism you're trying to achieve? Pictures of time on the darkest night of the year?,,,,8FFE2DEA4EA3FCDBC8C5DEBC919B8DC2
-Oh yeah. That.,,,,25C7E50246FBA30F7BAAE78FE57CD412
-[Lie] Yes. Definitely.,,,,4FEED1AD4ECDDEEE73CCE4A5B81DC95C
-Nah. It just looks cool in the evening.,,,,8665C308473D51C3CFC7CFAFA11F58AF
-Make sure they're wearing their masks. Can't have someone running around ruining the sanctity of the occasion by making people reveal themselves.,,,,BC9515DD4A49FA60AF47B1BB9D83ABB7
-It'll be fine.,,,,C729860B4DB781D6D01BB2A2D7C00DDB
-"Yes, sir.",,,,44C5C6D045247DD715398B9DA1CEFD98
-[Shrug],,,,57581EB849F6CEF02F363A892E467B59
-"A project, eh? Hrm. Very well. Hard work should never be looked down upon. You'd better make it worth your while. Wasteful work, however, is a sin against both time and the Shepherd himself.",,,,680D0FA942E91A450A8F5D80535B20E5
-"Oh, wasting time? Me? Never.",,,,E34DE0CA4449C5D760E0BD80862B878E
-"It will be worthwhile. Once I finish this, I get to graduate.",,,,F8B6C2204403FDBC51BD95901B37C573
-"You might not be, but I saw your friend over there, shivering. A night like this is no time to trade warmth for fashion — a vanity I see repeated by many of the young people that come to warm themselves here.",,,,6221BD2A4C1831A5B6D9B3A907CDB395
-Larry? He's fine. Just tired.,,,,C0346B9E469711E0B3A98A9EE6AA1038
-Larry isn't vain. Neither am I.,,,,ACFC622D46EBA509656BF1AD2FB285E2
-"Tell me about it. Those young people, huh? Scoundrels, all of them.",,,,1D810B8F43D53781C91C138F35E3B968
-"...This is the flame of the Shepherd, my boy. The start and the end of all things. We are made by fire, and we die in flame. This warmth is what sustains us. The love of the Shepherd.",,,,06EBCD0A4E77DC287FB9B596A86CDD30
-I didn't ask for a lecture. My hands are just cold.,,,,18D962624D73C3077A524CA9AA75DE17
-[Say nothing and warm your hands by the fire],,,,85CF04D641F2A5FB7CCE0594B649DEF5
-"You see, many seek out the comfort of the Shepherd without wanting to devote themselves to Him. They think it's a comfort given to them. But no! It has to be earned.",,,,3A86B804414D862BE75A79AA7C517CD1
-"Guess I'll go earn it, then. Later, old man.",,,,EF94D3C444CEB9E1695C868465BD2474
-"Earned how, exactly?",,,,F7E5949C4E146FAE2691A2861BA562AA
-"Hrm. ""Those who sit by the fire do well to sing its praises, for the ungrateful are forever ignorant in the eyes of the Shepherd.""",,,,2D3D10C64AB021F90DBCB3AB71951631
-"...Yeah, I got to go. See ya.",,,,0E48B22F41262419B7A804A844F7A520
-[Nod along and warm your hands],,,,64ACBE1D461419D26E952DA8D24FDF0B
-..Which means?,,,,806054284CC2FA672642438D79457356
-Hrm.,,,,353C4D85499B0F6757C02D91F5F08056
-"You know, actually, since I've got your attention...",,,,59D11F074B25F695A337D9B02FA68AD7
+"...And then take copies and sell them, so I can donate the profit to the church, of course.","...А потом сделать копии и продавать, чтобы передавать выручку церкви, разумеется.",ai,,5AD7F19A47DFAB9E2A4A4ABE51050291
+[Smile as cutely as you can],[Улыбнуться как можно милее],ai,,D6BE416E4EE51645F90B6E9BBEA45BAF
+"Yup, uh, definitely a given.","Ага, э-э, само собой разумеется.",ai,,86000B234B7B5023B0011D8BBACEE071
+"The place of the Shepherd in this modern age! The shining beacon of truth, order, and justice — one that braves the elements and shines a light on the path of each and all who are pious enough to walk it.","Место Пастыря в наш современный век! Сияющий маяк истины, порядка и справедливости — тот, что бросает вызов стихиям и освещает путь каждому, кто достаточно благочестив, чтобы идти по нему.",ai,,7AF129B540D66F3D753A3BB5064E7E22
+"...And it's loyal tender, of course, who places his time and his life in the hands of the loving Shepherd. Or, you know. Something like that.","...И, конечно, его верный служитель, что вверяет своё время и свою жизнь в руки любящего Пастыря. Или, знаете, что-то в этом духе.",ai,,BCF903D94AC6379326875689F953E1BA
+"(INVESTIGATIVE) Don't worry. I'll ensure to frame the fire as the central piece of the picture, with you tending to it as a devout follower.","[ПЫТЛИВОСТЬ] Не волнуйтесь. Я построю кадр так, чтобы огонь был главным, а вы — рядом, как набожный последователь, который за ним следит.",ai,,C982C17249AA32DFB356A69748F1998E
+"Yeah, uh...that. That's what I'm going for.","Да, э-э... это. Именно это я и хочу.",ai,,A282D3F6402572DCEB78F4B666FCFB3C
+"(SOCIAL) I was thinking of trying to capture the street behind you, to show all the people making their way towards the light.","[ОБЩИТЕЛЬНОСТЬ] Я думал снять улицу у вас за спиной, чтобы показать, как все идут к свету.",ai,,252B62994FA91AF52D492F9B289FB00D
+"...How sharply observed of you, boy. Perhaps I did judge you too harshly.","...Какой ты наблюдательный, мальчик. Возможно, я судил тебя слишком строго.",ai,,9A8954D543AF7BDC1D342391923D2C6C
+[Nod piously],[Благочестиво кивнуть],ai,,ED4E9E3D464E0DC060165E9170B51550
+"Most definitely. So is that a go-ahead on the picture, then?","Безусловно. Так что, можно снимать?",ai,,9A4FB4A44E579638B9F796B94367AE8B
+"Honestly, man? I think you had me all figured out. Can I still take the picture?","Если честно, дедуля? По-моему, вы меня насквозь видите. Но можно мне всё равно сделать снимок?",ai,,3A74F5CB47F31D467EDD3784293B9CB2
+"Hrm! Not a bad idea at all. I enjoy the symbolism immensely. All citizens, united, seeking out the guiding light of the Shepherd. Yes, very good.","Хм! Совсем неплохая мысль. Мне очень по душе этот символизм. Все граждане, единые, ищут путеводный свет Пастыря. Да, очень хорошо.",ai,,A15823214DF7822CD0EF5EBB63990CB9
+[Nod piously],[Благочестиво кивнуть],ai,,749E9D184CA4E880655D648BE369913B
+"So is that a yes, or...?",То есть это «да» или...?,ai,,D0C6DD584DE4E3B7F3948895995D3B57
+Sweet. Now scoot over - there's a particularly sad-looking lady coming up behind you.,Супер. А теперь подвиньтесь — за вами подходит какая-то особенно печальная дама.,ai,,117F16444B88E8B9EEFBB093DA3893F4
+"That's very beautiful. Very beautiful, indeed.","Это очень красиво. Очень красиво, право слово.",ai,,EB33938040332C7EC06FA8A3DF8BC337
+[Wipe away a tear and nod],[Смахнуть слезу и кивнуть],ai,,A0006D7042828B854377F6B4B3C2828E
+Yes. I am religious boy.,Да. Я религиозный мальчик.,ai,,3135330F4DD10AFD2E9B96BCBD802ECB
+"Really? Oh, man. Good. I was just kind of winging that one.","Правда? О, чувак. Хорошо. Я это просто на ходу выдумал.",ai,,940F610B43C9058AF0133188BF71579D
+"...Is that so? And what exactly is the purpose of that picture, then? What do you plan on doing with it?",...Вот как? И какова же цель этого снимка? Что ты собираешься с ним делать?,ai,,5B539D7D4E69323D37EF6B9166B87032
+"Well, my final project is all about, uh, how kids today have forgot about the teachings of the Shepherd. It's to remind them of His presence.","Ну, моя выпускная работа посвящена тому, э-э, как нынешняя молодёжь забыла учение Пастыря. Чтобы напомнить им о Его присутствии.",ai,,6B9A30C34965B996971ABB9229BC569C
+I was thinking of donating it to my local church.,Я думал передать его в мою церковь.,ai,,2C97698546751EF6DA855192F667F161
+"Develop it, I guess. Maybe that's a given.","Проявить, наверное. Это само собой.",ai,,FCD339EA4E835312A3BB5580AFE81173
+"Alright, you've convinced me. Take your picture.","Ладно, ты меня убедил. Делай свой снимок.",ai,,698A355248DFE69A4395F1B367C71B2C
+[Take picture],[Сфотографировать],ai,,864D7DE9432E8CCAB2D41C8DE91901C9
+"Pictures? On this holy night? Hrm. What of, exactly?",Снимки? В эту святую ночь? Хм. И чего же именно?,ai,,60610E264D4390199276CFA64C659479
+Grandfather Steam.,Дедушки Пара.,ai,,A7F0BE5A421C2189873D979C1B25B47A
+Not sure yet. It's for a project.,Пока не знаю. Это для проекта.,ai,,5C06AA584BE5CFA2DE98EDAFD53BB4C4
+"People, mostly.",В основном людей.,ai,,401183EC459BB81F94044DAEDA5DB2BC
+"By Shepherd's flame! Young people these days... Yes, the darkest day of the year, in many a way. Hence the fire, hence the masks. Where do you live? Who is your priest? I'd like to have a word with him.","Пламенем Пастыря клянусь! Нынешняя молодёжь... Да, самый тёмный день в году, и во многих смыслах. Отсюда и огонь, отсюда и маски. Где ты живёшь? Кто твой священник? Я хотел бы с ним поговорить.",ai,,FBDD517948DCBC2AF324AF8C2AA19FA4
+I'm not much of a believer. Sorry.,Я не очень-то верующий. Простите.,ai,,CBDA86B54139CCC336BF5C8EE7796B3B
+"I live in the dorms, I guess. I'm a student.","Живу в общежитии, наверное. Я студент.",ai,,DEE41D6546F4A2058440DFA23A36061F
+Our neighbourhood priest was a mean drunk.,Наш районный священник был злобным пьяницей.,ai,,1C9AC89745929233B124719914CCFD4C
+Very well. It'd be wrong of me to deny someone who is trying so clearly to do his duty.,"Что ж, пусть будет так. С моей стороны было бы неправильно отказывать тому, кто так явно пытается исполнить свой долг.",ai,,2D669C504C2CFB6AE6ADEF9D4187C1DE
+[Take a picture],[Сфотографировать],ai,,CBE94A1149BF922585F13492D9E285A0
+"All done? I confess, I'm not too familiar with the...art of photography.","Всё готово? Признаюсь, я не очень сведущ в... искусстве фотографии.",ai,,7C3469AC44EBFFFB39F65A85AF862317
+"(SARCASTIC) Oh, praise be. This will be a picture most holy.","[САРКАЗМ] О, хвала небесам. Это будет самый святой снимок.",ai,,E9BBBC60479BDCD18103629F3CB50BDD
+Don't worry. I'm very talented.,Не волнуйтесь. Я очень талантлив.,ai,,53B9E05E473C481F7C2788BFCF13450B
+[Shrug] We won't know until I've developed it.,"[Пожать плечами] Узнаем, когда проявлю.",ai,,24971EFF4E408FA61A0801A11348E7A2
+...Don't get your hopes up.,...Не обольщайся.,ai,,D61C174A41124422283B8EAE044257C7
+"That's right: Nightcoming...the Dark Eve, the Winter Solstice. The coldest and darkest day of the year!  A night of victory for the Shepherd and defeat for all the unholy. The flame's triumph over the night.","Верно: Приход Ночи... Тёмный Канун, зимнее солнцестояние. Самый холодный и тёмный день в году! Ночь победы Пастыря и поражения всех нечестивых. Торжество пламени над ночью.",ai,,F12A708042AF7C1EF698E4B0653AE066
+...Night of victory?,...Ночь победы?,ai,,DA9BFAF34DADDC147468669FA490D2C6
+"Who are the unholy, exactly?","А кто, собственно, эти нечестивые?",ai,,93A97D6B4A15B5B5CE4E81A35BB7CC32
+Triumph over the what now?,Торжество над чем?,ai,,D6D51B924D2EB10E781E0688C290D4A6
+"Hrm. Hello there, young man. I see you're not wearing a mask. It's Winter Solstice today, don't you know?","Хм. Здравствуй, юноша. Вижу, на тебе нет маски. Сегодня же зимнее солнцестояние, разве ты не знаешь?",ai,,B7116CE74849C72E8270C7A1EB8D913C
+"Hard to take pictures with a mask on, old man.","Сложно фотографировать в маске, старик.",ai,,EBEE184A4C35A28424EA90A262F4C573
+I'm aware. That's why I'm out taking pictures.,Знаю. Потому я и вышел фотографировать.,ai,,45391283425D1670390725A23D1729E2
+...Winter Solstice?,...Зимнее солнцестояние?,ai,,4E984B1B486C5E0653E98BBA55C6DF72
+Hrm.,Хм.,ai,,C59A73EC465D7C919414A3822EF3E982
+"Mind if we keep this conversation going? I'm really enjoying myself, if you couldn't tell.","Не возражаете, если мы продолжим этот разговор? Мне, если вы не заметили, очень нравится.",ai,,BDEDE0504BEE2B63DB2D38AC5F7D9555
+"Anyway. Good luck with salvation, man. [Leave]","Ладно. Удачи со спасением, чувак. [Уйти]",ai,,E8C90E8F430C5B0661FE678A54EDCA2E
+"Pah. Is Father Niall not tending to the herd? Or are you kids skipping out on sermons? It wouldn't be surprise me, not a bit.","Тьфу. Разве отец Ниалл не печётся о пастве? Или вы, молодёжь, прогуливаете проповеди? Меня бы это нисколько не удивило.",ai,,B1103ED74CB6589B3D68C5A9AA93E337
+"I'm skipping sermons right now, in fact.","Вообще-то, я как раз прогуливаю проповедь.",ai,,0ED8A02B450354E64D570CBBF897BC41
+He's got more of an off-hand approach. We like it that way.,У него более беззаботный подход. Нам так нравится.,ai,,CB13099C4B892DC7C1E30488C748A6CF
+"As I said, son: those deviants down the street were loitering around it before I told them to leave. I'd have a stern word with them, if I were you.","Как я уже говорил, сынок: те извращенцы с улицы слонялись возле них, пока я не велел им убираться. На твоём месте я бы серьёзно с ними поговорил.",ai,,4BB2137743E6A1B7B8F3D3A2170FEA9B
+Uh-huh. I will. Very stern. Sterningly stern.,Ага. Поговорю. Очень серьёзно. Серьёзнейшим образом.,ai,,E10600044773D21DA8A31BAF400DB19A
+What's your problem with those kids again?,А что у вас не так с теми ребятами?,ai,,C1E761FC416257DAB39D5C8BA49D91D0
+"Winter Solstice is a very sacred night, boy. I take this duty seriously. I can keep an eye on it now, if you think whoever did it will be back. We can't have vandalism in this neighbourhood.","Ночь зимнего солнцестояния очень священна, мальчик. Я отношусь к этому долгу серьёзно. Теперь я могу приглядывать за ними, если ты думаешь, что тот, кто это сделал, вернётся. Вандализма в этом районе допускать нельзя.",ai,,FBE718BF40699BC50FDD8D852FD10984
+Sure. Thanks.,Конечно. Спасибо.,ai,,18D9C55C4689D5FEBA0ABD9FE8C365CB
+Sure. See you later.,Конечно. Увидимся. [Уйти],ai,,721741AA419133606D74FB9DB00269C4
+"Well, I certainly saw those young women standing around it earlier. Smoking, swearing... deviants, all of them! What is the younger generation coming to, I ask?","Что ж, я точно видел тех молодых женщин возле них раньше. Курили, сквернословили... извращенки, все до одной! К чему катится молодёжь, спрашиваю я?",ai,,1E0CC3B3408DA75262B188AD57E78232
+What indeed. Thanks.,"И правда, к чему. Спасибо.",ai,,67AB0991482C2240F686A293982F2375
+I don't know. You tell me.,Не знаю. Скажите вы.,ai,,B1FBB50146CA21A908AF9EAEF730961A
+"Nonsense. A man of the cloth wouldn't drink, it's forbidden! Don't be disrespectful of your elders, boy.","Вздор. Служитель веры не стал бы пить, это запрещено! Не смей неуважительно отзываться о старших, мальчик.",ai,,A10081EE446962B29A660BA4D1506566
+"Ask anyone, they'll tell you the same thing.","Спросите кого угодно, вам скажут то же самое.",ai,,E5437E254BF0BBFAA376E3BC909BC206
+"Not much of a believer? Tsk tsk. Faith isn't a pastime you can pick and choose, you know. It's a virtue.","Не очень-то верующий? Цк-цк. Вера — не хобби, которое можно выбирать по настроению. Это добродетель.",ai,,F605A7814A49AD3F9A760794E29C86CD
+Guess I'm not very virtuous.,"Видимо, добродетели во мне маловато.",ai,,3FCC97F249249128033A25838221A996
+"Way I see it, I can't make myself believe. Sorry.","Как я это вижу, заставить себя верить я не могу. Простите.",ai,,3F899B6B4D49D7C0B08EC0841B18AC8F
+"I don't care about any of this, old man.","Мне плевать на всё это, старик.",ai,,A7991BD14579C4807B3FE9AFE2AE2AFB
+"Like I said, the only one I saw touching the clock was that mechanic down the street. Did you speak to him?","Как я уже сказал, единственный, кого я видел рядом с часами, — тот механик с улицы. Ты с ним говорил?",ai,,E412347D48AAEA6D17DE83BFD0A0BF8D
+"Not yet, but I will.","Пока нет, но поговорю.",ai,,AA69C79646C05881D389EBAF79183ABB
+"It just doesn't seem likely that he'd be the culprit. What, he secretly destroys clocks during work hours? Think he gets off on it?","Просто не похоже, чтобы виноват был он. Что, он втайне ломает часы в рабочее время? Думаете, ему это в кайф?",ai,,EDD97D814D3D2280732A0FBC0DC6B7D0
+"Not anyone who would leave it in a state of disrepair. Quite the opposite, actually. A mechanic came by a short while ago. Left down the way you came. If you hurry down the street, you might still catch him.","Никто, кто оставил бы их в таком состоянии. Скорее наоборот. Недавно заходил механик. Ушёл туда, откуда ты пришёл. Если поторопишься, возможно, ещё его нагонишь.",ai,,C16F0E3C41559513098603B0D872B513
+Huh. Thanks.,Ага. Спасибо.,ai,,E039A7C249564ECA97DED18CB05A0A4E
+Sure he wasn't an anti-clockist in disguise?,"А вы уверены, что это не переодетый часоборец?",ai,,57B604794DEB8687DF4EF69D02910F51
+Hush with your nonsense. I know what I saw.,"Помолчи со своим вздором. Я знаю, что видел.",ai,,DB58B54241B79F4D40C2108C1EDFE6B6
+"If you say so, old man.","Если вы так говорите, старик.",ai,,0DED72054627FBD47447ABA13259F0CD
+I'm sure. See you later. [Leave],Уверен. Увидимся. [Уйти],ai,,B5B95652401C769F6945ADBC13DA943B
+"Hello again, young man. Feeling the cold begin to creep up your bones?","Снова здравствуй, юноша. Чувствуешь, как холод начинает пробирать до костей?",ai,,EC011D234070D2957ABEDFA8BBAD0A27
+I was hoping to talk to you.,Я надеялся с вами поговорить.,ai,,B934FC85421257B31B4D7682D1CA1A93
+"No, I'm peachy. See ya.","Нет, мне отлично. Пока.",ai,,366D7C494327D116C01065AF1D9A86E5
+"They seek acceptance from their peers in all the worst ways. Delinquents and mischief makers. Smoking at that age... I'll wager they haven't been to church in years! Mark my words, I'll pray for them and their families.","Они ищут признания сверстников самыми дурными способами. Малолетние хулиганы и озорники. Курить в таком возрасте... Спорим, они годами не были в церкви! Попомни мои слова, я помолюсь за них и за их семьи.",ai,,027DF37C4C4919A0ADD721A5083BDA4E
+"Yeah, smoking at that age? What's the world coming to, huh? Not me, though. I'm a good boy.","Ага, курить в таком возрасте? К чему катится мир, а? Только не я. Я хороший мальчик.",ai,,2F1CCD124B43B6BC8DC9E1BA12ABAA65
+You do that. I'll go do the same. [Leave],Так и делай. А я пойду сделаю то же самое. [Уйти],ai,,9424B69C4369FA4733C3E4974F32691D
+"Hrm. So, you've come to warm yourself by the fire?","Хм. Значит, ты пришёл погреться у огня?",ai,,2EE28EA949F0F8DDB6BBE5B3B14F6C1C
+I'm not cold.,Мне не холодно.,ai,,166C8D1E4DF98E82ACB9D4B0B3375588
+"...It is kind of nice, actually.","...Вообще-то, здесь неплохо.",ai,,C747CA824664507B3A05B7AB769DEBEF
+Depends. Can I stand here in peace and quiet?,Смотря по обстоятельствам. Можно мне постоять тут в тишине и покое?,ai,,2476B2D0490210C66D09FD95211A6E0B
+Hrm. Is there some sort of symbolism you're trying to achieve? Pictures of time on the darkest night of the year?,Хм. Ты пытаешься выразить какой-то символизм? Снимки времени в самую тёмную ночь года?,ai,,8FFE2DEA4EA3FCDBC8C5DEBC919B8DC2
+Oh yeah. That.,О да. Именно это.,ai,,25C7E50246FBA30F7BAAE78FE57CD412
+[Lie] Yes. Definitely.,[Соврать] Да. Безусловно.,ai,,4FEED1AD4ECDDEEE73CCE4A5B81DC95C
+Nah. It just looks cool in the evening.,Не. Просто вечером выглядит круто.,ai,,8665C308473D51C3CFC7CFAFA11F58AF
+Make sure they're wearing their masks. Can't have someone running around ruining the sanctity of the occasion by making people reveal themselves.,"Позаботься, чтобы они были в масках. Нельзя, чтобы кто-то бегал и портил святость события, заставляя людей раскрываться.",ai,,BC9515DD4A49FA60AF47B1BB9D83ABB7
+It'll be fine.,Всё будет нормально.,ai,,C729860B4DB781D6D01BB2A2D7C00DDB
+"Yes, sir.","Да, сэр.",ai,,44C5C6D045247DD715398B9DA1CEFD98
+[Shrug],[Пожать плечами],ai,,57581EB849F6CEF02F363A892E467B59
+"A project, eh? Hrm. Very well. Hard work should never be looked down upon. You'd better make it worth your while. Wasteful work, however, is a sin against both time and the Shepherd himself.","Проект, значит? Хм. Что ж, ладно. Тяжёлый труд никогда не должен вызывать презрения. Постарайся, чтобы он того стоил. Впустую потраченный труд — грех и против времени, и против самого Пастыря.",ai,,680D0FA942E91A450A8F5D80535B20E5
+"Oh, wasting time? Me? Never.","О, тратить время впустую? Я? Никогда.",ai,,E34DE0CA4449C5D760E0BD80862B878E
+"It will be worthwhile. Once I finish this, I get to graduate.",Он будет того стоить. Закончу его — и выпущусь.,ai,,F8B6C2204403FDBC51BD95901B37C573
+"You might not be, but I saw your friend over there, shivering. A night like this is no time to trade warmth for fashion — a vanity I see repeated by many of the young people that come to warm themselves here.","Может, и нет, но я видел твоего друга там, он дрожит. В такую ночь не время менять тепло на моду — это тщеславие, которое я вижу у многих молодых, приходящих сюда погреться.",ai,,6221BD2A4C1831A5B6D9B3A907CDB395
+Larry? He's fine. Just tired.,Ларри? С ним всё нормально. Просто устал.,ai,,C0346B9E469711E0B3A98A9EE6AA1038
+Larry isn't vain. Neither am I.,Ларри не тщеславен. Я тоже.,ai,,ACFC622D46EBA509656BF1AD2FB285E2
+"Tell me about it. Those young people, huh? Scoundrels, all of them.","Не говорите. Эта молодёжь, а? Все до одного негодяи.",ai,,1D810B8F43D53781C91C138F35E3B968
+"...This is the flame of the Shepherd, my boy. The start and the end of all things. We are made by fire, and we die in flame. This warmth is what sustains us. The love of the Shepherd.","...Это пламя Пастыря, мой мальчик. Начало и конец всего сущего. Мы сотворены огнём и умираем в пламени. Это тепло поддерживает нас. Любовь Пастыря.",ai,,06EBCD0A4E77DC287FB9B596A86CDD30
+I didn't ask for a lecture. My hands are just cold.,Я не просил лекцию. У меня просто руки замёрзли.,ai,,18D962624D73C3077A524CA9AA75DE17
+[Say nothing and warm your hands by the fire],[Промолчать и погреть руки у огня],ai,,85CF04D641F2A5FB7CCE0594B649DEF5
+"You see, many seek out the comfort of the Shepherd without wanting to devote themselves to Him. They think it's a comfort given to them. But no! It has to be earned.","Видишь ли, многие ищут утешения Пастыря, не желая посвятить себя Ему. Они думают, что оно им даётся даром. Но нет! Его нужно заслужить.",ai,,3A86B804414D862BE75A79AA7C517CD1
+"Guess I'll go earn it, then. Later, old man.","Тогда пойду заслуживать. Пока, старик.",ai,,EF94D3C444CEB9E1695C868465BD2474
+"Earned how, exactly?",Заслужить как именно?,ai,,F7E5949C4E146FAE2691A2861BA562AA
+"Hrm. ""Those who sit by the fire do well to sing its praises, for the ungrateful are forever ignorant in the eyes of the Shepherd.""","Хм. «Те, кто сидит у огня, хорошо делают, воспевая его хвалу, ибо неблагодарные вечно слепы в глазах Пастыря.»",ai,,2D3D10C64AB021F90DBCB3AB71951631
+"...Yeah, I got to go. See ya.","...Да, мне пора. Пока.",ai,,0E48B22F41262419B7A804A844F7A520
+[Nod along and warm your hands],[Кивать в такт и греть руки],ai,,64ACBE1D461419D26E952DA8D24FDF0B
+..Which means?,..Что значит?,ai,,806054284CC2FA672642438D79457356
+Hrm.,Хм.,ai,,353C4D85499B0F6757C02D91F5F08056
+"You know, actually, since I've got your attention...","Знаете, раз уж я завладел вашим вниманием...",ai,,59D11F074B25F695A337D9B02FA68AD7
 [Leave],[Выйти],ok,,88BEACBF4068B0947F9FDC8EDAA5DCCE
-I'm sure he can decide that for himself.,,,,F52F3DB245FC2F71ADA6F3BBCCF32C58
-"Probably. Look, I'm gonna go.",,,,E2CD17CE4D13AAA14714D8841C0A7DE8
-Forget about Larry. Can I ask you about some stuff?,,,,F58AEA1D4908C5071C15E18B0DDA2038
-I'll ask him. How about that?,,,,6C6FCABF41A1338AB5458BB849A53CBB
-"And yet here you are, dressed like it's September. You look like you need some warm comfort, both of you.",,,,680BF0A04405DD26312B9680542A4C8E
-I'm fine. So is Larry.,,,,D988D9B9438A69AF2FEDA99F494C1AF4
-[Ignore him and warm yourself by the fire],,,,82821A274911ECCD9D812E8FCC9394F5
-"I mean, if it's free. I don't need to donate anything, do I?",,,,051ACB344D312F41D35859A89797F239
-"Like I said: by devotion. By living a virtuous life, following the tenets of the scripture, and by singing His praises.",,,,842407E44D135F1B54417F8F6D22DCDA
-That's going to be a pass from me.,,,,8A90C218412F848BD1E4339F3667399C
-"I'll be honest with you, gramps, I don't really know the scripture.",,,,5CEE8C5648F36D3D7312EC8D2A0DBBF5
-"Aw, shucks. My doctor says I'm not supposed to have tenets.",,,,F67886D6463216748A7C06A00F734FC5
-Not much of a singer.,,,,30E267A5478544BCC727D0ABB61832F8
-"Don't get cute with me, boy. Prayer, of course, is a fine start, but the true core of devotion lies in keeping the Shepherd and his teachings in your mind and heart at all times.",,,,EFE57AF6450BB42B02F07D8373D0DFCC
-"No offence, man, but I don't think the Shepherd would be too pleased with what's on my mind.",,,,E0EAE1DE479AAFD15A873B91435AEE4E
-"So what, go to church? Confess your sins? Be a good citizen.",,,,6E4E6ED34B57139D3948E390B7EFEDCC
-"Then I'll go do just that. Later, old man.",,,,525801524068B31C6F94928931E3A6CE
-"Then read it, boy. Ignorance is no excuse for indolence.",,,,C19FF3CB4AC894CE9FC491946E1DC8B1
-(INVESTIGATIVE) And eloquence is no substitute for wisdom.,,,,060122F94D96CEF926BE258ECB586B4A
-"(SARCASTIC) Yeah? Well, that's just like, your opinion, man.",,,,8EE08A50408882B2480C0E8887D66187
-"(SOCIAL) Eh. If I learn something, I'd rather learn it from people.",,,,4AC9CB2741628470641039B7E1D581BA
-"...Cool. I'll go read, then. Later, old man.",,,,7C87616A49BD7D83E954379C064D857B
-"Hrm. Perhaps I judged you a little harshly, son. You may be clever, but intelligence is a virtue only when it is put to good use. Are you putting it to good use?",,,,86E874434FB92ACB15DB9D8DE16A95F0
-That depends. I'd like to ask you about some things.,,,,48B522F745FC11098021918735957AF4
-Very rarely.,,,,F4D6D25543ECB69C407006B9F947C8AC
-"I was just about to. See you later, old man.",,,,05ACB81745323EB777E288BD226CC129
-"It's the truth, boy. No opinion can sway it.",,,,D28DAB6C4C8D9CB29A46F0B22E65D721
-"In that case, mind if we change the subject?",,,,226094A84C21DC8DD389F8B80376C1B5
-Great. This has been an incredibly productive conversation. [Leave],,,,42B9E060431409FAC67951B8FE886A0F
-"Oh? Well then, my door is always open. Is there something I can help you with right now?",,,,99D2877648F01D04E8A73FB6DADC32E8
-Sure. Mind if I ask you some questions?,,,,7E113AD24C05F9DBF61C359F917B886F
-Nope. Later.,,,,51B8611A46FBC0E654A5898C40C3FCB7
-Hrm?,,,,A03810124A0186B4A5FC1AAE761DA76E
-"Oh, by the way. My friend's not interested in your fire.",,,,832D26D54A0F6C88E7A1BDBBFE92D74C
-Mind if I take a picture of you?,,,,EDF679514176E3D79F0683AF159F10B6
-That's all. Goodbye.,,,,60D2813149A5494C8D833DA20241F707
-I got this envelope I'm supposed to destroy. Mind if I throw it in the fire?,,,,218500634F6CF9B6DC3FA1AEA232049F
-Any idea what happened to the clock?,,,,A8048EF549C0BC2AF5FEF39BF725573C
-"So, this whole Shepherd thing...",,,,19B67FEB4F8E4DBC9315B19615310434
-Yes. Most certainly.,,,,434B704141D3D6A8427B3DA5FCF66C53
-...Pass.,,,,F2D2B6A0417A500781F27B84802F6E6B
-I was being...what's the word? Hyperbolic?,,,,29CCB380471C7D22158E4BAFC0A7C951
-"Off to church I go, then. Bye.",,,,5883A1834A9F249D0E2B0692BC78FB71
-"So what, if I go to church I'll be saved?",,,,7AA7C8C043CDA3E66B5538B86D2EEE1F
-"Sacrilegious, more like.",,,,553B30E0486691BEC35FFB912102767C
-Hah. You got me.,,,,965D61474671231A0C35EA9DF79E6A06
-"So, all I got to do is attend some sermons? Is that right?",,,,9C8AC1CA488901E9658AF88009CD35A8
-Oh yeah. One of my better qualities.,,,,B488419A4E619AA30EAE6AA8EFF4AFF2
-"If your heart is truly in it, then yes.",,,,3A04CAAC4DA8AB3DB0EEECBB21193D03
-"I'll give it some thought, how about that?",,,,57EC224C4CBC5F0205D925914BFCAF89
-"Oh, man. Salvation is easy.",,,,058823D14F666C7B4F114E9E35F19BAD
-"Oh. Bummer. Well, see ya.",,,,D7709E36426A227BD8BC15ACC40A85A2
-Hrm. And may I ask why?,,,,1EE071BC4366BF6807AB4DB9EBDD5247
-Probably better if you don't.,,,,AD0AC5394689FE80A5BEECA27F71DCB8
-"Oh, you know. He's just done being called a lazy sinner.",,,,C19144544A0CBCCA885D529053CE63B1
-"He thinks you're peddling shit. So, you know.",,,,55D721E3454FCE9E7A147FBBA17206D9
-"Hrm. Deviants, all of you.",,,,27514E6E441345973D6881BCC8CFA6A2
-"So true. Well, I'm off to deviate. Later.",,,,C9308F044378EB605C2F548CBAEE7FBF
-"...Oh man, he knew you'd say that.",,,,2EF922CC422114FF2EA208BE622C5905
-[Nod solemnly and leave],,,,597E75754B09640666A5D0BEFD6282CA
-It depends on what you're burning.,,,,CC05434C43BBE10EA9BCD199815A50FA
-Just some old...bills.,,,,44176D884D71D247CE25DC97EB199C23
-"Oh, you know. Sinful stuff.",,,,0C921E30495A6A9C02B85E953A85C25B
-Hrm. Go ahead.,,,,436CCCFC4FDCEC29F83B45AA218E84EA
-"Thanks, Shepherd. You're baller.",,,,22A148884B5B37A1397C7EA9800C6AE1
-"[Loudly] Goodbye, porn collection.",,,,CA5CF7564DBF294F2CBE0F9D39671D36
-Thanks. [Throw it in],,,,72621213477C9E9180004D84B078A9E1
-"...Then I am pleased. Well done, lad. I'm glad to see you've come around to respect your elders, and above all, the Shepherd.",,,,394B32F4435E20EE7515BEA112506A39
-"...Uh-huh. Well, I'm off to go sing praises. Later, old man.",,,,9FDDD62849339EC7E7D35AABBA221550
-Oh yeah. I love that shit.,,,,0AB6D5D44D5B04C40126FAA62FAEB2F5
-"Of course, father. Papa. Daddy.",,,,FBA0A5344B0CF35F03915EAB5C0E8C1E
-"You must understand, this isn't just a bonfire. It's a beacon of the Shepherd's light.",,,,D8A9BE4142C15EFEF39988A6E5C3F9E9
-"So is that a no, or...?",,,,BB4341804D2AA6E61588558A02C498DC
-"Oh, sorry. Mind if I throw this envelope in the beacon of the Shepherd's light?",,,,7C461EBA4A36510FEFCC7D8FFDA90F92
-"[Toss it in, grin, and run away]",,,,CE4077D04BEF30C79F53578E8B044949
-"Then I shall wait and see. Patience is a virtue, don't you know?",,,,82F0F6B84624833475AEDDB1037088AD
-"Uh-huh. Say, can we talk about something else?",,,,E3F5F14D4B99774617300F9AB5FA7E59
-[Mutter] Of course it fucking is.,,,,9AE0B69B416C79701BB50F91A10D28E2
-Enjoy the wait. See ya.,,,,0D825F7849DD9E240EF1E198ACF5E093
-"Faith, son. Trust in your ability, and others will trust in it, too.",,,,18BD984343E4AB7EE0FD07AB24B095CD
-...Okay. Let me ask you some thing else.,,,,72901F474AC725A53E9ED49C87549B2B
-"[Mutter] Yes, daddy.",,,,9299BBB64E861A26E75D3FBE456C5E7B
-That's...actually not bad advice. Thanks.,,,,E571CEA24CA12221E918719B50BF5ABE
-...Hold on.,,,,33899A914F6B46BF586E478AEF271B08
-[Run away],,,,B4A4F08046CB81255D33ECAA5F6A1F67
-"Oops, slip of the tongue. Mind if we change the subject?",,,,E6BE4B29473B25E07C235F9AB867FBEE
-"Hrm. Very well. Come by the church, up the road, when you have it developed. I should like to see it.",,,,70ECB16B496320838011F5BBA51352A5
-I should think you do. See ya.,,,,1B9FB4A7409F674A40CD568D3306ABDB
-We'll see. Mind if I ask you something else?,,,,BD1B35FD43948F0438FE3FBA091D9350
-"[Mutter] Oh yeah, that's very fucking likely.",,,,4657B6164F1C8A47BD8C5ABA50BDCF9E
-...What was that?,,,,46B71053427E511D9A6FB1BE23742CD2
-Nothing. Can I ask you something?,,,,D328D311457747C8FFE138B9693B920E
-"Oh, I was just being a dick to you. That's why I said it so quietly. Anyway, bye!",,,,03D71839492052C1B1ECCD87786ABC4E
-Me? I didn't say nothing. I was just leaving.,,,,32AACF704BA750D949DF43BC3CCF5C9B
-"Of course, my son. Anything else I can do for you?",,,,DBC29703466974AEA2C92DBAF89533BE
-I did want to ask you something...,,,,EEE1FEF445B4D2DD3AB75E97AE8E3124
-"Nah, I'm good. Later.",,,,204C085D490191F44374D092B3937690
-"Well, as scripture teaches us, the dark Goddess of the night came three times to steal from the Shepherd.",,,,F94E078D4E29AC90E1C614B18940893F
-[Say nothing and listen],,,,ED420DE94047B194865C9284915EC746
-"...Oh, you don't have to tell the whole story.",,,,38115CD34D573EDB1DBD86AE8152F82A
-Did she succeed?,,,,24577E564DBDDBF5502B188FC1B53666
-...A picture? Of me? Of the fire? Dare I ask why?,,,,EA79E5F7491B1145639EB78D1C3C3C9C
-The lighting is really good. I just think it'd make for a swell shot.,,,,739D5EF54BC8CC4BB59446A40D029BF9
-"(SARCASTIC) Oh, you know. I'm really keen on our lord and saviour, the Shepherd. Call it an act of worship.",,,,E45B546F44544D04742C06BE84A22CC0
-"...Nevermind, actually.",,,,0E42B95F414F9A7C01D1F3991EC43903
-"First, she came for his staff, hoping to break and disparage all order and justice. The Shepherd fended her off and sent her back into the darkness.",,,,1B1F8CA94686007ED3B729A3805F019B
-"That sent her running, huh?",,,,2B8199BC4FFA8833B5B810B0DECA7227
-...And you're telling me the whole story. Great.,,,,E60B4375479363B93F84DB8F67B5A394
-Mhm. Then what?,,,,7C50B85B4319BCABE3CF96BDA55226B8
-"Then, she came for His flame, to rob His followers of His warmth and care. Again, the Shepherd fought her off into the night.",,,,D508420F4CDBD13FDD60B3ADA65A0C50
-"Wow, the Shepherd is so cool.",,,,203C956B4FF5232BD65F768CBFFA71D6
-What a loving and caring act.,,,,A281A74E43AFC8FD03F6B3BA6D9D0911
-What about the third time? There's always a third time.,,,,D0BD646C450E3A18E4A762805B08DC92
-"The third time, she came for both — as well as his light. But when the Shepherd fought her off once more, she realized that light, warmth, and order are all concordantly opposed to the night. There was no way for her to beat him.",,,,68C370B84885D1E7FA0388919966E923
-"Let's go, Shepherd. Kick her ass.",,,,AF998D0148A1E658C69B06BBA292E7FB
-That's not much of a story.,,,,819B7DD64ECD466DEB82749FBE2F2E1E
-[Shrug],,,,29F2DC8144852E21B2F8B585FB6610D4
-"Instead, she now comes for his followers. During the darkest night of the year, when her malice and jealousy culminates, the dark Goddess creeps into the shadows to spread lies and doubt, hoping to turn us against the Shepherd.",,,,F6631EFA4032067181118FBF6947EC2C
-And you believe all this?,,,,ED6413AD478BB13D90DCCA83B1284DFA
-And the Shepherd just...lets that happen?,,,,7316BAAA4003386FB887AD836C062758
-...It's over? Thank Shepherd. I'm out. [Leave],,,,73A350194A82DCEF48A70A9BB9A1D9C3
-"Well, when the night Goddess comes crawling through the shadows, she spreads rumours and lies about each and all of us. She listens, and knows us all by name and face.",,,,28268D554FE2FDB34AE21197775D5343
-She knows my face and name?,,,,5D7E2EA0480AF5D4C22D56804EF0348A
-"Oh, right. I remember this story now. Let's, uh, change the subject.",,,,8ACFE0D5450AFFD51567EDB4C03EC510
+I'm sure he can decide that for himself.,"Уверен, он может решить это сам.",ai,,F52F3DB245FC2F71ADA6F3BBCCF32C58
+"Probably. Look, I'm gonna go.","Наверное. Слушайте, я пойду.",ai,,E2CD17CE4D13AAA14714D8841C0A7DE8
+Forget about Larry. Can I ask you about some stuff?,Забудьте про Ларри. Можно вас кое о чём спросить?,ai,,F58AEA1D4908C5071C15E18B0DDA2038
+I'll ask him. How about that?,Я его спрошу. Так пойдёт?,ai,,6C6FCABF41A1338AB5458BB849A53CBB
+"And yet here you are, dressed like it's September. You look like you need some warm comfort, both of you.","И всё же вот вы здесь, одетые как в сентябре. Похоже, вам обоим нужно тёплое утешение.",ai,,680BF0A04405DD26312B9680542A4C8E
+I'm fine. So is Larry.,Мне нормально. И Ларри тоже.,ai,,D988D9B9438A69AF2FEDA99F494C1AF4
+[Ignore him and warm yourself by the fire],[Игнорировать его и греться у огня],ai,,82821A274911ECCD9D812E8FCC9394F5
+"I mean, if it's free. I don't need to donate anything, do I?","То есть, если это бесплатно. Мне ведь не нужно ничего жертвовать, да?",ai,,051ACB344D312F41D35859A89797F239
+"Like I said: by devotion. By living a virtuous life, following the tenets of the scripture, and by singing His praises.","Как я и сказал: преданностью. Добродетельной жизнью, соблюдением заповедей Писания и воспеванием Его хвалы.",ai,,842407E44D135F1B54417F8F6D22DCDA
+That's going to be a pass from me.,Это без меня.,ai,,8A90C218412F848BD1E4339F3667399C
+"I'll be honest with you, gramps, I don't really know the scripture.","Скажу честно, дедуля, я не очень-то знаю Писание.",ai,,5CEE8C5648F36D3D7312EC8D2A0DBBF5
+"Aw, shucks. My doctor says I'm not supposed to have tenets.","Ой, надо же. Врач говорит, мне нельзя догматов.",ai,,F67886D6463216748A7C06A00F734FC5
+Not much of a singer.,Из меня певец никакой.,ai,,30E267A5478544BCC727D0ABB61832F8
+"Don't get cute with me, boy. Prayer, of course, is a fine start, but the true core of devotion lies in keeping the Shepherd and his teachings in your mind and heart at all times.","Не умничай со мной, мальчик. Молитва, конечно, хорошее начало, но истинное ядро преданности — в том, чтобы держать Пастыря и Его учение в уме и сердце всегда.",ai,,EFE57AF6450BB42B02F07D8373D0DFCC
+"No offence, man, but I don't think the Shepherd would be too pleased with what's on my mind.","Без обид, дедуля, но не думаю, что Пастырь обрадовался бы тому, что у меня на уме.",ai,,E0EAE1DE479AAFD15A873B91435AEE4E
+"So what, go to church? Confess your sins? Be a good citizen.","И что, идти в церковь? Исповедоваться? Быть хорошим гражданином.",ai,,6E4E6ED34B57139D3948E390B7EFEDCC
+"Then I'll go do just that. Later, old man.","Тогда пойду именно этим и займусь. Пока, старик.",ai,,525801524068B31C6F94928931E3A6CE
+"Then read it, boy. Ignorance is no excuse for indolence.","Тогда прочти его, мальчик. Невежество — не оправдание для лени.",ai,,C19FF3CB4AC894CE9FC491946E1DC8B1
+(INVESTIGATIVE) And eloquence is no substitute for wisdom.,[ПЫТЛИВОСТЬ] А красноречие — не замена мудрости.,ai,,060122F94D96CEF926BE258ECB586B4A
+"(SARCASTIC) Yeah? Well, that's just like, your opinion, man.","[САРКАЗМ] Да? Ну, это, типа, просто ваше мнение, старик.",ai,,8EE08A50408882B2480C0E8887D66187
+"(SOCIAL) Eh. If I learn something, I'd rather learn it from people.","[ОБЩИТЕЛЬНОСТЬ] Эх. Если мне и нужно чему-то научиться, я лучше научусь этому у людей.",ai,,4AC9CB2741628470641039B7E1D581BA
+"...Cool. I'll go read, then. Later, old man.","...Круто. Тогда пойду читать. Пока, старик.",ai,,7C87616A49BD7D83E954379C064D857B
+"Hrm. Perhaps I judged you a little harshly, son. You may be clever, but intelligence is a virtue only when it is put to good use. Are you putting it to good use?","Хм. Возможно, я был к тебе слишком строг, сынок. Ты, может, и умён, но ум — добродетель лишь тогда, когда служит доброму делу. Ты применяешь его с пользой?",ai,,86E874434FB92ACB15DB9D8DE16A95F0
+That depends. I'd like to ask you about some things.,Смотря как. Я хотел бы спросить вас кое о чём.,ai,,48B522F745FC11098021918735957AF4
+Very rarely.,Очень редко.,ai,,F4D6D25543ECB69C407006B9F947C8AC
+"I was just about to. See you later, old man.","Я как раз собирался. Увидимся, старик.",ai,,05ACB81745323EB777E288BD226CC129
+"It's the truth, boy. No opinion can sway it.","Это правда, мальчик. Никакое мнение её не поколеблет.",ai,,D28DAB6C4C8D9CB29A46F0B22E65D721
+"In that case, mind if we change the subject?","В таком случае не возражаете, если мы сменим тему?",ai,,226094A84C21DC8DD389F8B80376C1B5
+Great. This has been an incredibly productive conversation. [Leave],Отлично. Это был невероятно продуктивный разговор. [Уйти],ai,,42B9E060431409FAC67951B8FE886A0F
+"Oh? Well then, my door is always open. Is there something I can help you with right now?","О? Что ж, моя дверь всегда открыта. Могу ли я чем-то помочь тебе прямо сейчас?",ai,,99D2877648F01D04E8A73FB6DADC32E8
+Sure. Mind if I ask you some questions?,Конечно. Можно задать вам несколько вопросов?,ai,,7E113AD24C05F9DBF61C359F917B886F
+Nope. Later.,Нет. Пока.,ai,,51B8611A46FBC0E654A5898C40C3FCB7
+Hrm?,Хм?,ai,,A03810124A0186B4A5FC1AAE761DA76E
+"Oh, by the way. My friend's not interested in your fire.",Кстати. Моего друга ваш огонь не интересует.,ai,,832D26D54A0F6C88E7A1BDBBFE92D74C
+Mind if I take a picture of you?,Можно вас сфотографировать?,ai,,EDF679514176E3D79F0683AF159F10B6
+That's all. Goodbye.,Это всё. До свидания.,ai,,60D2813149A5494C8D833DA20241F707
+I got this envelope I'm supposed to destroy. Mind if I throw it in the fire?,"У меня тут конверт, который надо уничтожить. Можно бросить его в огонь?",ai,,218500634F6CF9B6DC3FA1AEA232049F
+Any idea what happened to the clock?,"Есть мысли, что случилось с часами?",ai,,A8048EF549C0BC2AF5FEF39BF725573C
+"So, this whole Shepherd thing...","Так вот, вся эта история с Пастырем...",ai,,19B67FEB4F8E4DBC9315B19615310434
+Yes. Most certainly.,Да. Непременно.,ai,,434B704141D3D6A8427B3DA5FCF66C53
+...Pass.,...Пас.,ai,,F2D2B6A0417A500781F27B84802F6E6B
+I was being...what's the word? Hyperbolic?,Я был... как это слово? Гиперболичен?,ai,,29CCB380471C7D22158E4BAFC0A7C951
+"Off to church I go, then. Bye.","Значит, пойду в церковь. Пока.",ai,,5883A1834A9F249D0E2B0692BC78FB71
+"So what, if I go to church I'll be saved?","И что, если я пойду в церковь, я буду спасён?",ai,,7AA7C8C043CDA3E66B5538B86D2EEE1F
+"Sacrilegious, more like.",Скорее уж кощунствовал.,ai,,553B30E0486691BEC35FFB912102767C
+Hah. You got me.,Ха. Поймали.,ai,,965D61474671231A0C35EA9DF79E6A06
+"So, all I got to do is attend some sermons? Is that right?",То есть мне всего-то надо ходить на проповеди? Так?,ai,,9C8AC1CA488901E9658AF88009CD35A8
+Oh yeah. One of my better qualities.,О да. Одно из моих лучших качеств.,ai,,B488419A4E619AA30EAE6AA8EFF4AFF2
+"If your heart is truly in it, then yes.","Если твоё сердце действительно в этом, то да.",ai,,3A04CAAC4DA8AB3DB0EEECBB21193D03
+"I'll give it some thought, how about that?","Я об этом подумаю, как вам?",ai,,57EC224C4CBC5F0205D925914BFCAF89
+"Oh, man. Salvation is easy.","Ох, чувак. Спасение — это просто.",ai,,058823D14F666C7B4F114E9E35F19BAD
+"Oh. Bummer. Well, see ya.","А. Жаль. Ну, пока.",ai,,D7709E36426A227BD8BC15ACC40A85A2
+Hrm. And may I ask why?,"Хм. А можно узнать, почему?",ai,,1EE071BC4366BF6807AB4DB9EBDD5247
+Probably better if you don't.,"Наверное, лучше не стоит.",ai,,AD0AC5394689FE80A5BEECA27F71DCB8
+"Oh, you know. He's just done being called a lazy sinner.","Ну, знаете. Ему просто надоело, что его называют ленивым грешником.",ai,,C19144544A0CBCCA885D529053CE63B1
+"He thinks you're peddling shit. So, you know.","Он считает, что вы впариваете чушь. Ну, вы понимаете.",ai,,55D721E3454FCE9E7A147FBBA17206D9
+"Hrm. Deviants, all of you.","Хм. Извращенцы, все до одного.",ai,,27514E6E441345973D6881BCC8CFA6A2
+"So true. Well, I'm off to deviate. Later.","Истинно так. Ну, пойду извращаться. Пока.",ai,,C9308F044378EB605C2F548CBAEE7FBF
+"...Oh man, he knew you'd say that.","...О, чувак, он знал, что вы это скажете.",ai,,2EF922CC422114FF2EA208BE622C5905
+[Nod solemnly and leave],[Торжественно кивнуть и уйти],ai,,597E75754B09640666A5D0BEFD6282CA
+It depends on what you're burning.,"Зависит от того, что ты сжигаешь.",ai,,CC05434C43BBE10EA9BCD199815A50FA
+Just some old...bills.,Да просто старые... счета.,ai,,44176D884D71D247CE25DC97EB199C23
+"Oh, you know. Sinful stuff.","Ну, знаете. Греховное барахло.",ai,,0C921E30495A6A9C02B85E953A85C25B
+Hrm. Go ahead.,Хм. Бросай.,ai,,436CCCFC4FDCEC29F83B45AA218E84EA
+"Thanks, Shepherd. You're baller.","Спасибо, Пастырь. Вы крутой мужик.",ai,,22A148884B5B37A1397C7EA9800C6AE1
+"[Loudly] Goodbye, porn collection.","[Громко] Прощай, коллекция порнухи.",ai,,CA5CF7564DBF294F2CBE0F9D39671D36
+Thanks. [Throw it in],Спасибо. [Бросить в огонь],ai,,72621213477C9E9180004D84B078A9E1
+"...Then I am pleased. Well done, lad. I'm glad to see you've come around to respect your elders, and above all, the Shepherd.","...Тогда я доволен. Молодец, юноша. Рад видеть, что ты научился уважать старших, а прежде всего — Пастыря.",ai,,394B32F4435E20EE7515BEA112506A39
+"...Uh-huh. Well, I'm off to go sing praises. Later, old man.","...Ага. Ну, пойду воспевать хвалу. Пока, старик.",ai,,9FDDD62849339EC7E7D35AABBA221550
+Oh yeah. I love that shit.,О да. Обожаю эту хрень.,ai,,0AB6D5D44D5B04C40126FAA62FAEB2F5
+"Of course, father. Papa. Daddy.","Конечно, отец. Папа. Папочка.",ai,,FBA0A5344B0CF35F03915EAB5C0E8C1E
+"You must understand, this isn't just a bonfire. It's a beacon of the Shepherd's light.","Пойми, это не просто костёр. Это маяк света Пастыря.",ai,,D8A9BE4142C15EFEF39988A6E5C3F9E9
+"So is that a no, or...?",То есть это «нет» или...?,ai,,BB4341804D2AA6E61588558A02C498DC
+"Oh, sorry. Mind if I throw this envelope in the beacon of the Shepherd's light?","О, простите. Можно бросить этот конверт в маяк света Пастыря?",ai,,7C461EBA4A36510FEFCC7D8FFDA90F92
+"[Toss it in, grin, and run away]","[Швырнуть в огонь, ухмыльнуться и убежать]",ai,,CE4077D04BEF30C79F53578E8B044949
+"Then I shall wait and see. Patience is a virtue, don't you know?","Тогда я подожду и посмотрю. Терпение — добродетель, разве ты не знаешь?",ai,,82F0F6B84624833475AEDDB1037088AD
+"Uh-huh. Say, can we talk about something else?","Ага. Слушайте, можно поговорить о чём-нибудь другом?",ai,,E3F5F14D4B99774617300F9AB5FA7E59
+[Mutter] Of course it fucking is.,"[Пробормотать] Конечно, блин, так оно и есть.",ai,,9AE0B69B416C79701BB50F91A10D28E2
+Enjoy the wait. See ya.,Приятного ожидания. Пока.,ai,,0D825F7849DD9E240EF1E198ACF5E093
+"Faith, son. Trust in your ability, and others will trust in it, too.","Вера, сынок. Верь в свои силы, и другие тоже в них поверят.",ai,,18BD984343E4AB7EE0FD07AB24B095CD
+...Okay. Let me ask you some thing else.,...Ладно. Дайте спросить вас о другом.,ai,,72901F474AC725A53E9ED49C87549B2B
+"[Mutter] Yes, daddy.","[Пробормотать] Да, папочка.",ai,,9299BBB64E861A26E75D3FBE456C5E7B
+That's...actually not bad advice. Thanks.,Это... на самом деле неплохой совет. Спасибо.,ai,,E571CEA24CA12221E918719B50BF5ABE
+...Hold on.,...Погодите.,ai,,33899A914F6B46BF586E478AEF271B08
+[Run away],[Убежать],ai,,B4A4F08046CB81255D33ECAA5F6A1F67
+"Oops, slip of the tongue. Mind if we change the subject?","Ой, оговорился. Не возражаете, если мы сменим тему?",ai,,E6BE4B29473B25E07C235F9AB867FBEE
+"Hrm. Very well. Come by the church, up the road, when you have it developed. I should like to see it.","Хм. Что ж, ладно. Зайди в церковь, вверх по дороге, когда проявишь. Я хотел бы на него взглянуть.",ai,,70ECB16B496320838011F5BBA51352A5
+I should think you do. See ya.,"Думаю, да. Увидимся.",ai,,1B9FB4A7409F674A40CD568D3306ABDB
+We'll see. Mind if I ask you something else?,Посмотрим. Можно спросить у вас кое-что ещё?,ai,,BD1B35FD43948F0438FE3FBA091D9350
+"[Mutter] Oh yeah, that's very fucking likely.","[Пробормотать] О да, это ж, блин, очень вероятно.",ai,,4657B6164F1C8A47BD8C5ABA50BDCF9E
+...What was that?,...Что это было?,ai,,46B71053427E511D9A6FB1BE23742CD2
+Nothing. Can I ask you something?,Ничего. Можно у вас кое-что спросить?,ai,,D328D311457747C8FFE138B9693B920E
+"Oh, I was just being a dick to you. That's why I said it so quietly. Anyway, bye!","Да я просто хамил вам. Потому и сказал так тихо. Ладно, пока!",ai,,03D71839492052C1B1ECCD87786ABC4E
+Me? I didn't say nothing. I was just leaving.,Я? Я ничего не говорил. Я как раз собирался уходить.,ai,,32AACF704BA750D949DF43BC3CCF5C9B
+"Of course, my son. Anything else I can do for you?","Конечно, сын мой. Могу ли я ещё что-нибудь для тебя сделать?",ai,,DBC29703466974AEA2C92DBAF89533BE
+I did want to ask you something...,Я хотел вас кое о чём спросить...,ai,,EEE1FEF445B4D2DD3AB75E97AE8E3124
+"Nah, I'm good. Later.","Не, мне хватит. Пока.",ai,,204C085D490191F44374D092B3937690
+"Well, as scripture teaches us, the dark Goddess of the night came three times to steal from the Shepherd.","Что ж, как учит нас Писание, тёмная Богиня ночи трижды приходила, чтобы украсть у Пастыря.",ai,,F94E078D4E29AC90E1C614B18940893F
+[Say nothing and listen],[Ничего не говорить и слушать],ai,,ED420DE94047B194865C9284915EC746
+"...Oh, you don't have to tell the whole story.","...О, вам необязательно рассказывать всю историю.",ai,,38115CD34D573EDB1DBD86AE8152F82A
+Did she succeed?,Ей это удалось?,ai,,24577E564DBDDBF5502B188FC1B53666
+...A picture? Of me? Of the fire? Dare I ask why?,"...Снимок? Меня? Огня? Осмелюсь спросить, зачем?",ai,,EA79E5F7491B1145639EB78D1C3C3C9C
+The lighting is really good. I just think it'd make for a swell shot.,"Освещение очень хорошее. Мне просто кажется, что получится классный кадр.",ai,,739D5EF54BC8CC4BB59446A40D029BF9
+"(SARCASTIC) Oh, you know. I'm really keen on our lord and saviour, the Shepherd. Call it an act of worship.","[САРКАЗМ] О, знаете. Я очень предан нашему господину и спасителю, Пастырю. Считайте это актом поклонения.",ai,,E45B546F44544D04742C06BE84A22CC0
+"...Nevermind, actually.","...Неважно, на самом деле.",ai,,0E42B95F414F9A7C01D1F3991EC43903
+"First, she came for his staff, hoping to break and disparage all order and justice. The Shepherd fended her off and sent her back into the darkness.","Сперва она пришла за Его посохом, надеясь сломать и опорочить весь порядок и справедливость. Пастырь отразил её и отправил обратно во тьму.",ai,,1B1F8CA94686007ED3B729A3805F019B
+"That sent her running, huh?","Так она пустилась наутёк, да?",ai,,2B8199BC4FFA8833B5B810B0DECA7227
+...And you're telling me the whole story. Great.,...И вы рассказываете мне всю историю. Прекрасно.,ai,,E60B4375479363B93F84DB8F67B5A394
+Mhm. Then what?,Ага. А потом?,ai,,7C50B85B4319BCABE3CF96BDA55226B8
+"Then, she came for His flame, to rob His followers of His warmth and care. Again, the Shepherd fought her off into the night.","Затем она пришла за Его пламенем, чтобы лишить Его последователей Его тепла и заботы. И снова Пастырь отразил её в ночь.",ai,,D508420F4CDBD13FDD60B3ADA65A0C50
+"Wow, the Shepherd is so cool.","Ого, Пастырь такой крутой.",ai,,203C956B4FF5232BD65F768CBFFA71D6
+What a loving and caring act.,Какой любящий и заботливый поступок.,ai,,A281A74E43AFC8FD03F6B3BA6D9D0911
+What about the third time? There's always a third time.,А что насчёт третьего раза? Всегда бывает третий раз.,ai,,D0BD646C450E3A18E4A762805B08DC92
+"The third time, she came for both — as well as his light. But when the Shepherd fought her off once more, she realized that light, warmth, and order are all concordantly opposed to the night. There was no way for her to beat him.","В третий раз она пришла за обоими — и за Его светом. Но когда Пастырь отразил её вновь, она поняла, что свет, тепло и порядок все сообща противостоят ночи. Победить его ей было не суждено.",ai,,68C370B84885D1E7FA0388919966E923
+"Let's go, Shepherd. Kick her ass.","Давай, Пастырь. Задай ей жару.",ai,,AF998D0148A1E658C69B06BBA292E7FB
+That's not much of a story.,Это не очень-то история.,ai,,819B7DD64ECD466DEB82749FBE2F2E1E
+[Shrug],[Пожать плечами],ai,,29F2DC8144852E21B2F8B585FB6610D4
+"Instead, she now comes for his followers. During the darkest night of the year, when her malice and jealousy culminates, the dark Goddess creeps into the shadows to spread lies and doubt, hoping to turn us against the Shepherd.","Вместо этого она теперь приходит за его последователями. В самую тёмную ночь года, когда её злоба и зависть достигают пика, тёмная Богиня крадётся в тенях, распространяя ложь и сомнения в надежде настроить нас против Пастыря.",ai,,F6631EFA4032067181118FBF6947EC2C
+And you believe all this?,И вы во всё это верите?,ai,,ED6413AD478BB13D90DCCA83B1284DFA
+And the Shepherd just...lets that happen?,И Пастырь просто... позволяет этому происходить?,ai,,7316BAAA4003386FB887AD836C062758
+...It's over? Thank Shepherd. I'm out. [Leave],...Всё? Слава Пастырю. Я пошёл. [Уйти],ai,,73A350194A82DCEF48A70A9BB9A1D9C3
+"Well, when the night Goddess comes crawling through the shadows, she spreads rumours and lies about each and all of us. She listens, and knows us all by name and face.","Что ж, когда ночная Богиня ползёт сквозь тени, она распускает слухи и ложь о каждом из нас. Она слушает и знает всех нас по имени и в лицо.",ai,,28268D554FE2FDB34AE21197775D5343
+She knows my face and name?,Она знает моё лицо и имя?,ai,,5D7E2EA0480AF5D4C22D56804EF0348A
+"Oh, right. I remember this story now. Let's, uh, change the subject.","А, точно. Теперь я вспомнил эту историю. Давайте, э-э, сменим тему.",ai,,8ACFE0D5450AFFD51567EDB4C03EC510
 How?,Как?,ok,,C6AC938F4B43601EB7C447B420C0D544
-...And the masks?,,,,E0BD85A540BA2ECE112605B1627A8ABC
-"Do you not know the story of the three nights of Winter Solstice, my boy?",,,,E2EFEFC441B70F9F5CF029AE677768CE
-"This thing...tonight, you mean?",,,,AF69C76D4545C0EAF02E5FA26292535B
-"I do not, but I assume you're going to tell me.",,,,75E365364DA4A190E7B845AC3E79B5E8
-[Lie] Uh...sure.,,,,93DA881C42F41E858A1816A51C6A21F7
-"Of course I do. It's right, and righteous. Even if it were only a parable, you would do well to listen to it. Learn something.",,,,E4764B84403E0657E7C2209764521129
-"I'll ask a better question, how's that?",,,,D0843D2542CBBDE45D2B65863D373A96
-What's the moral of a story where your god allows you to get spied on and lied to?,,,,4B260BD64E083D3CD79F6499C82EEE92
-...Yes?,,,,CA5DF2214FEA1AC013F969ABF41BE79E
-"...""Winter Solstice""?",,,,0669FE754DF096FF2AB1F59736D65B70
-"What's up with all the masks, again?",,,,82CC1D02498A7726ACDBC9909533927D
-"...Actually, that's enough about the Shepherd for now.",,,,2B82F58F496355B5BE0B2B851A7C18EA
-"The Shepherd believes in you and me. What is our faith and our devotion worth, if it never was tested? If virtue was easy, it wouldn't be virtue.",,,,B4FA0379498D01043F2FEBA8DAB21774
-So you don't really have an answer. Neat. Can I ask you something else?,,,,892FCE5D465F749C02D2ED9CE0868E9A
-"I'm just saying, it doesn't seem like a kind and loving god would let his worshipers deal with that kind of shit.",,,,BD90DA974B2D61D51BC2B8A298C033C7
-"...Okay, we're done here. [Leave]",,,,C055A9C74747A99D62A12DB79A6C1C8A
-"Spare the rod, spoil the child.",,,,A27233544596728197A266978F74761C
-"Fantastic. Let me ask you something else, instead.",,,,5D5B3DD54461F2EF190C618F11E0CE0B
-"Well, I've had plenty of rod, and I'm still fucked up.",,,,20D112334E7D78D8364DFFBB68A1F5C7
-You're nuts. [Leave],,,,DD0144AE485F2E1D19FB98A9B2449B6C
-Hrm. Language.,,,,A2754C0A4F4D7E638D722AA051B0AD3E
-Fine. Let's talk about something else.,,,,A659BFD34BCA9BE06F79B78421644FD9
-Fuck off. [Leave],,,,CBA0A4F94BB56DB03FBA04A50CC8700E
-"Well, when the night Goddess comes crawling through the shadows, she spreads rumours and lies about each and all of us. She listens, and knows us all by name and face.",,,,31ED5C3A410531180A3B3CA099886623
-She knows my face and name?,,,,73C41E634730632AD21C4CB9D24B147E
+...And the masks?,...А маски?,ai,,E0BD85A540BA2ECE112605B1627A8ABC
+"Do you not know the story of the three nights of Winter Solstice, my boy?","Разве ты не знаешь историю трёх ночей зимнего солнцестояния, мой мальчик?",ai,,E2EFEFC441B70F9F5CF029AE677768CE
+"This thing...tonight, you mean?","Это, что сегодня, вы имеете в виду?",ai,,AF69C76D4545C0EAF02E5FA26292535B
+"I do not, but I assume you're going to tell me.","Не знаю, но предполагаю, что вы мне расскажете.",ai,,75E365364DA4A190E7B845AC3E79B5E8
+[Lie] Uh...sure.,[Соврать] Э-э... конечно.,ai,,93DA881C42F41E858A1816A51C6A21F7
+"Of course I do. It's right, and righteous. Even if it were only a parable, you would do well to listen to it. Learn something.","Конечно, знаю. Она правдива и праведна. Даже будь это лишь притчей, тебе бы стоило её послушать. Чему-нибудь научиться.",ai,,E4764B84403E0657E7C2209764521129
+"I'll ask a better question, how's that?","Тогда я задам вопрос получше, как вам?",ai,,D0843D2542CBBDE45D2B65863D373A96
+What's the moral of a story where your god allows you to get spied on and lied to?,"В чём мораль истории, где ваш бог позволяет, чтобы за вами шпионили и вам лгали?",ai,,4B260BD64E083D3CD79F6499C82EEE92
+...Yes?,...Да?,ai,,CA5DF2214FEA1AC013F969ABF41BE79E
+"...""Winter Solstice""?",...«Зимнее солнцестояние»?,ai,,0669FE754DF096FF2AB1F59736D65B70
+"What's up with all the masks, again?","А что там с масками, напомните?",ai,,82CC1D02498A7726ACDBC9909533927D
+"...Actually, that's enough about the Shepherd for now.","...Вообще-то, о Пастыре пока достаточно.",ai,,2B82F58F496355B5BE0B2B851A7C18EA
+"The Shepherd believes in you and me. What is our faith and our devotion worth, if it never was tested? If virtue was easy, it wouldn't be virtue.","Пастырь верит в тебя и в меня. Чего стоят наша вера и наша преданность, если их никогда не испытывали? Если бы добродетель давалась легко, она не была бы добродетелью.",ai,,B4FA0379498D01043F2FEBA8DAB21774
+So you don't really have an answer. Neat. Can I ask you something else?,То есть ответа у вас нет. Прекрасно. Можно спросить вас о другом?,ai,,892FCE5D465F749C02D2ED9CE0868E9A
+"I'm just saying, it doesn't seem like a kind and loving god would let his worshipers deal with that kind of shit.","Я просто говорю, что добрый и любящий бог, кажется, не позволил бы своим последователям сталкиваться с таким дерьмом.",ai,,BD90DA974B2D61D51BC2B8A298C033C7
+"...Okay, we're done here. [Leave]","...Ладно, на этом всё. [Уйти]",ai,,C055A9C74747A99D62A12DB79A6C1C8A
+"Spare the rod, spoil the child.","Кто жалеет розгу, тот портит ребёнка.",ai,,A27233544596728197A266978F74761C
+"Fantastic. Let me ask you something else, instead.",Отлично. Тогда дайте спросить вас о другом.,ai,,5D5B3DD54461F2EF190C618F11E0CE0B
+"Well, I've had plenty of rod, and I'm still fucked up.","Ну, розги я получал вдоволь, а всё равно в голове каша.",ai,,20D112334E7D78D8364DFFBB68A1F5C7
+You're nuts. [Leave],Вы чокнутый. [Уйти],ai,,DD0144AE485F2E1D19FB98A9B2449B6C
+Hrm. Language.,Хм. Выражения.,ai,,A2754C0A4F4D7E638D722AA051B0AD3E
+Fine. Let's talk about something else.,Ладно. Давайте поговорим о другом.,ai,,A659BFD34BCA9BE06F79B78421644FD9
+Fuck off. [Leave],Отвали. [Уйти],ai,,CBA0A4F94BB56DB03FBA04A50CC8700E
+"Well, when the night Goddess comes crawling through the shadows, she spreads rumours and lies about each and all of us. She listens, and knows us all by name and face.","Что ж, когда ночная Богиня ползёт сквозь тени, она распускает слухи и ложь о каждом из нас. Она слушает и знает всех нас по имени и в лицо.",ai,,31ED5C3A410531180A3B3CA099886623
+She knows my face and name?,Она знает моё лицо и имя?,ai,,73C41E634730632AD21C4CB9D24B147E
 How?,Как?,ok,,247FDF8A4E275440B82FC789D8BC8AA9
-...And the masks?,,,,E9ED975F43BEEDF9987AAC8F37D783D1
-"Every time a poor sinner complains, you see, she's there to listen and worsen his hurt. She knows what ails us because we are so vocal about it. That's why it's a virtue to carry your burdens with grace and silence.",,,,297B61EA41CA4BCFAF5505AB3BD9EB15
-"Bottle it all up. Solid advice, father.",,,,DEE0D8DD47A15C7E5EB43FAF35F09E12
-So we stay quiet so she doesn't know our names — and the masks are for our faces?,,,,FD291647458823E830CB26B700EF2450
-Let me ask you something else.,,,,043A919247EBF13CFB407AB1AD4C45BE
-"We wear them to trick and confuse the Goddess. This way, she doesn't know who's who, and her lies fall flat.",,,,6FE4A23E4A86CFDD79EB9088B3193C1A
-"Right, right. I have another question for you.",,,,E783DFF94170F7B21B4D1BADA150794A
-So how come you aren't wearing a mask?,,,,8B23DACD45B7BF5FB919E3B176331586
-"Right. Thanks for the reminder, man. [Leave]",,,,F02086F54E9813C55E95BEB38E1EF57A
-There is honour in remaining stoic and unmoved in the face of great tragedies or sorrow.,,,,855331B4478294BC558DA79209DD22F4
-"As well as expensive therapy bills. Later, man. [Leave]",,,,5991DC5849E6084F5FB933A9D4464BEE
-"And the masks are for what, again?",,,,CFE22E9C4FD16E6A14DC40AC5917A6ED
-"Oh, yeah. Wearing masks makes me so, so stoic.",,,,9E318CA345FF22089D29BBB63D8B9BCA
-...I've got another question for you.,,,,4261993B430A549E084A019FA8A57D5B
-"I'm a man of the Shepherd, through and through. By being here, tending to His fire, I'm already more than safe from the corruption of the Goddess. And from temptation.",,,,EDE93D4941C7A8CC50453B9E53A28AC3
-"Sure, but aren't the masks kind of fun?",,,,E48406CA41E46381C003138041F5015C
-So you think. [Wink],,,,091B61E24AF3D01C1A0158A73069E3C4
-Good for you. [Leave],,,,AEBF68CE475710AA9BE61DA5D30B353D
-Fun doesn't factor into virtue.,,,,79DE78264720DC9A45650DABCF7579CF
-"Figured. Listen, I had another question about the Shepherd.",,,,DF07A68D47862EACD4862A879F764C23
-I've been busy tending to the fire and the lost souls that gather around it. What of the clock?,,,,2D572F9846180507C5DC4AA414688F23
-It's missing a hand. Did you see anyone fiddling around with it?,,,,781143C04B7FF3388B0B89BC3DE164EE
-Hrm.,,,,1BE0DEDC42193D9CB89DBCA485A3740E
-"...Let's, uh, talk some more about the Shepherd.",,,,3F144F794F751598D1D9F7939F95AF75
-[Awkwardly step away],,,,740258B94B26CAB3557798B8D45D9F1C
-"Hrm. Are you being quite honest with me, boy? Until now, you've seemed to be quite like the kids you talk about.",,,,1D1B8FF748A902AA93BCB5BF11FA56DA
-I'm just very socially anxious. I lash out at authority figures. My bad.,,,,93E45AEC47E57044AB1ECA90B9C2502B
-"Me? No, that must've been someone else. I love the Shepherd.",,,,037FC96A49E440FA825C6E8436CD6CD6
-"Oh yeah, sorry about that. Hah. Don't know what came over me.",,,,AF9F8B6D4781BC770FC1549475EB2C9A
-What was that?,,,,21EE64C542C14238CFC379A172205E77
-Nothing. See you later.,,,,07888B2E4A0426F33B4C53938462BF57
-"Oh, uh, I was asking you a question...",,,,1D714F0C482C80F8046F75A86F75E33F
+...And the masks?,...А маски?,ai,,E9ED975F43BEEDF9987AAC8F37D783D1
+"Every time a poor sinner complains, you see, she's there to listen and worsen his hurt. She knows what ails us because we are so vocal about it. That's why it's a virtue to carry your burdens with grace and silence.","Видишь ли, каждый раз, когда бедный грешник жалуется, она тут как тут: слушает и усугубляет его боль. Она знает, что нас гложет, потому что мы так громко об этом говорим. Поэтому добродетель — нести свою ношу с достоинством и в молчании.",ai,,297B61EA41CA4BCFAF5505AB3BD9EB15
+"Bottle it all up. Solid advice, father.","Держать всё в себе. Дельный совет, отец.",ai,,DEE0D8DD47A15C7E5EB43FAF35F09E12
+So we stay quiet so she doesn't know our names — and the masks are for our faces?,"То есть мы молчим, чтобы она не узнала наших имён, а маски — чтобы скрыть лица?",ai,,FD291647458823E830CB26B700EF2450
+Let me ask you something else.,Дайте спросить вас о другом.,ai,,043A919247EBF13CFB407AB1AD4C45BE
+"We wear them to trick and confuse the Goddess. This way, she doesn't know who's who, and her lies fall flat.","Мы носим их, чтобы обмануть и запутать Богиню. Так она не знает, кто есть кто, и её ложь не находит цели.",ai,,6FE4A23E4A86CFDD79EB9088B3193C1A
+"Right, right. I have another question for you.","Ясно, ясно. У меня к вам ещё один вопрос.",ai,,E783DFF94170F7B21B4D1BADA150794A
+So how come you aren't wearing a mask?,А почему вы сами не в маске?,ai,,8B23DACD45B7BF5FB919E3B176331586
+"Right. Thanks for the reminder, man. [Leave]","Ага. Спасибо, что напомнили, чувак. [Уйти]",ai,,F02086F54E9813C55E95BEB38E1EF57A
+There is honour in remaining stoic and unmoved in the face of great tragedies or sorrow.,"Есть честь в том, чтобы оставаться стойким и невозмутимым перед лицом великих бед и скорби.",ai,,855331B4478294BC558DA79209DD22F4
+"As well as expensive therapy bills. Later, man. [Leave]","А также в дорогих счетах за психотерапию. Пока, чувак. [Уйти]",ai,,5991DC5849E6084F5FB933A9D4464BEE
+"And the masks are for what, again?","А маски, напомните, для чего?",ai,,CFE22E9C4FD16E6A14DC40AC5917A6ED
+"Oh, yeah. Wearing masks makes me so, so stoic.","О да. В масках я такой, такой стойкий.",ai,,9E318CA345FF22089D29BBB63D8B9BCA
+...I've got another question for you.,...У меня к вам ещё один вопрос.,ai,,4261993B430A549E084A019FA8A57D5B
+"I'm a man of the Shepherd, through and through. By being here, tending to His fire, I'm already more than safe from the corruption of the Goddess. And from temptation.","Я человек Пастыря до мозга костей. Находясь здесь и поддерживая Его огонь, я и так более чем защищён от порчи Богини. И от искушения.",ai,,EDE93D4941C7A8CC50453B9E53A28AC3
+"Sure, but aren't the masks kind of fun?","Конечно, но разве маски не забавные?",ai,,E48406CA41E46381C003138041F5015C
+So you think. [Wink],Так вы думаете. [Подмигнуть],ai,,091B61E24AF3D01C1A0158A73069E3C4
+Good for you. [Leave],Молодец. [Уйти],ai,,AEBF68CE475710AA9BE61DA5D30B353D
+Fun doesn't factor into virtue.,Забава к добродетели отношения не имеет.,ai,,79DE78264720DC9A45650DABCF7579CF
+"Figured. Listen, I had another question about the Shepherd.","Так и думал. Слушайте, у меня был ещё вопрос о Пастыре.",ai,,DF07A68D47862EACD4862A879F764C23
+I've been busy tending to the fire and the lost souls that gather around it. What of the clock?,"Я был занят: следил за огнём и заблудшими душами, что собираются вокруг. А что с часами?",ai,,2D572F9846180507C5DC4AA414688F23
+It's missing a hand. Did you see anyone fiddling around with it?,"У них пропала стрелка. Вы не видели, чтобы кто-нибудь с ними возился?",ai,,781143C04B7FF3388B0B89BC3DE164EE
+Hrm.,Хм.,ai,,1BE0DEDC42193D9CB89DBCA485A3740E
+"...Let's, uh, talk some more about the Shepherd.","...Давайте, э-э, ещё поговорим о Пастыре.",ai,,3F144F794F751598D1D9F7939F95AF75
+[Awkwardly step away],[Неловко отойти],ai,,740258B94B26CAB3557798B8D45D9F1C
+"Hrm. Are you being quite honest with me, boy? Until now, you've seemed to be quite like the kids you talk about.","Хм. А ты со мной вполне честен, мальчик? До сих пор ты казался вполне похожим на тех ребят, о которых говоришь.",ai,,1D1B8FF748A902AA93BCB5BF11FA56DA
+I'm just very socially anxious. I lash out at authority figures. My bad.,Просто у меня сильная социальная тревожность. Я огрызаюсь на авторитетных людей. Моя вина.,ai,,93E45AEC47E57044AB1ECA90B9C2502B
+"Me? No, that must've been someone else. I love the Shepherd.","Я? Нет, это, должно быть, был кто-то другой. Я люблю Пастыря.",ai,,037FC96A49E440FA825C6E8436CD6CD6
+"Oh yeah, sorry about that. Hah. Don't know what came over me.","О да, простите за это. Ха. Не знаю, что на меня нашло.",ai,,AF9F8B6D4781BC770FC1549475EB2C9A
+What was that?,Что это было?,ai,,21EE64C542C14238CFC379A172205E77
+Nothing. See you later.,Ничего. Увидимся.,ai,,07888B2E4A0426F33B4C53938462BF57
+"Oh, uh, I was asking you a question...","О, э-э, я же задавал вам вопрос...",ai,,1D714F0C482C80F8046F75A86F75E33F
