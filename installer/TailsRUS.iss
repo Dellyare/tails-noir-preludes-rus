@@ -47,14 +47,12 @@ ArchitecturesInstallIn64BitMode=x64compatible
 Name: "russian"; MessagesFile: "compiler:Languages\Russian.isl"
 
 [CustomMessages]
-russian.PickGame=Выберите папку игры Tails Noir: Preludes (в ней должна лежать папка BackboneStories).
 russian.GameNotFound=В выбранной папке не найдена игра: нет папки %1.%nУкажите папку, где установлена Tails Noir: Preludes (в Steam: «Управление» → «Просмотреть локальные файлы»).
-russian.AiNotice=Внимание: значительная часть перевода выполнена нейросетью и ещё не вычитана. Об ошибках можно сообщить на странице проекта на GitHub.
 
 [Messages]
-russian.WelcomeLabel2=Мастер установит русский перевод игры Tails Noir: Preludes.%n%nДля работы необходима оригинальная игра. В процессе установки в папку игры будет добавлен один файл TailsRUS_P.pak; оригинальные файлы не изменяются, перевод удаляется через «Установку и удаление программ».%n%n{cm:AiNotice}
+russian.WelcomeLabel2=Мастер установит русский перевод игры Tails Noir: Preludes.%n%nДля работы необходима оригинальная игра. В процессе установки в папку игры будет добавлен один файл TailsRUS_P.pak; оригинальные файлы не изменяются, перевод удаляется через «Установку и удаление программ».%n%nВнимание: значительная часть перевода выполнена нейросетью и ещё не вычитана. Об ошибках можно сообщить на странице проекта на GitHub.
 russian.SelectDirLabel3=Мастер установит русификатор в папку игры.
-russian.SelectDirBrowseLabel={cm:PickGame}
+russian.SelectDirBrowseLabel=Выберите папку игры Tails Noir: Preludes (в ней должна лежать папка BackboneStories).
 
 [Files]
 Source: "{#PakFile}"; DestDir: "{app}\BackboneStories\Content\Paks"; DestName: "TailsRUS_P.pak"; Flags: ignoreversion
