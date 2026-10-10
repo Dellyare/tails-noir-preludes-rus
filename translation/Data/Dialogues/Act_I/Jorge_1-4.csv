@@ -122,7 +122,7 @@ Are you hurt?,Ты ранен?,ai,,FA7743924EEB6281373FF89E45186E97
 I'm not sure. Not really. I think I'm fine. I don't know. You good?,"Не уверен. Не совсем. Думаю, я в порядке. Я не знаю. Ты в порядке?",ai,,D71B918A4849EFD728E8EDA0AE54744D
 What do you think? What was that?,Что ты думаешь? Что это было?,ai,,7C61B72A4D098054375F0D909F7AF3FA
 "I'm alright. ",Я в порядке.,ai,,8A868C6D4CD6F5CE589EB59630794E2C
-"I think so. We don't have any time to lose, though - I'll figure out our next steps. You go talk to HQ, alright?","Думаю, да. Но у нас нет времени терять — я разберусь с нашими следующими шагами. Ты иди поговори с штабом, ладно?",ai,,DD61385D4C3CB1EE466C62A6915417D2
+"I think so. We don't have any time to lose, though - I'll figure out our next steps. You go talk to HQ, alright?","Думаю, да. Но у нас нет времени терять - я разберусь с нашими следующими шагами. Ты иди поговори с штабом, ладно?",ai,,DD61385D4C3CB1EE466C62A6915417D2
 You got it.,Понял.,ai,,2645E2514AEE30F6578186AD6506E35D
 "You doing okay, though?",Ты в порядке?,ai,,2036E3F84752DD2FC85ADA8174946284
 We need to lock that thing up. Put it in one of our containment pods.,Нам нужно запереть эту штуку. Поместить её в один из наших изоляционных контейнеров.,ai,,3131181F4B5FF218883A0DA7037BBCBD
@@ -165,7 +165,7 @@ You doing okay?,Ты в порядке?,ai,,11E8C8614F4147291F17F4BB8864CD33
 "Ah, man. I hate talking to HQ.","Эх, чувак. Ненавижу разговаривать со штабом.",ai,,0046D8AE40D8704B7A71C8BE77E6F4E6
 It's alright. Just don't let it happen again.,Всё в порядке. Просто больше так не делай.,ai,,963CC8F142F32BBEF700FE85FF5E9C0F
 [Gesture to the container] So what now?,[Указать на контейнер] И что теперь?,ai,,D3C2B7D9467FFA2FE3B66D923FDA366C
-"Yeah. These things are state of the art. Airtight, pressure-proof. You put something in here and it's never coming out unless you want it to.","Да. Эти штуки — последнее слово техники. Герметичные, выдерживают давление. Если что-то туда положить, оно никогда не выйдет, если ты сам этого не захочешь.",ai,,A2163A92473B0BF04C0997878F1F426A
+"Yeah. These things are state of the art. Airtight, pressure-proof. You put something in here and it's never coming out unless you want it to.","Да. Эти штуки - последнее слово техники. Герметичные, выдерживают давление. Если что-то туда положить, оно никогда не выйдет, если ты сам этого не захочешь.",ai,,A2163A92473B0BF04C0997878F1F426A
 So what now?,И что теперь?,ai,,DFB06B8340E3DD1FB4047D8B8B0CE6DB
 Nice moves.,Ловкие движения.,ai,,7A9540984B8452661C5D018CB2DD7A03
 "What do you mean, not yet? What the hell's the matter with you?! ","Что значит, ещё нет? Что с тобой, чёрт возьми?!",ai,,B1F77D5240BF9D445353ECA2762B4EF2
@@ -189,8 +189,8 @@ You opened the pod?!,Ты открыл капсулу?!,ai,,50125DB744D2A2B9506D
 What the...what are you talking about?,Что за... о чём ты говоришь?,ai,,5AF8369D465292DD349ECAA5456971B5
 "Alright, what do you need?","Ладно, что тебе нужно?",ai,,2B07DA6441F8E981BED3D498179175F8
 "Tough luck. After that stunt you pulled, you owe me one.",Не повезло. После этого твоего трюка ты мне должен.,ai,,282DA3B84B0B14D99DE48EB8269A4C1A
-Alright - if you say so.,Ладно — если ты так говоришь.,ai,,8B21F10247CEC5CD330070A7A8C96D8F
-Think that thing is what we're supposed to be looking for?,"Думаешь, эта штука — то, что мы должны были искать?",ai,,8A3CE68B4F45535455F635A52F3E57F4
+Alright - if you say so.,Ладно - если ты так говоришь.,ai,,8B21F10247CEC5CD330070A7A8C96D8F
+Think that thing is what we're supposed to be looking for?,"Думаешь, эта штука - то, что мы должны были искать?",ai,,8A3CE68B4F45535455F635A52F3E57F4
 "I don't know. If it was, I wonder if they would have sent just the two of us. Go on, give them a call. I need a breather.","Я не знаю. Если бы это было так, интересно, послали бы они только нас двоих. Давай, позвони им. Мне нужно перевести дух.",ai,,DEBCC7AE43832D5E009655AC3B0035BB
 Alright. I'll be right back.,Ладно. Я скоро вернусь.,ai,,8C5E7BD149B07A73CAC294BC49AB58B1
 "Take it easy, okay?","Успокойся, ладно?",ai,,C70E61C948CEC24B907A979EBB9688B3

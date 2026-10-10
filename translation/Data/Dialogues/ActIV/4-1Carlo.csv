@@ -23,7 +23,7 @@ Speak up,Высказаться,ai,,56FCC7844EC9186F013802AB9CA17691
 Start new,Начать заново,ai,,93EE176A4ECB4E3C648F20AE4E8061A3
 [Break the dialogue],[Прервать диалог],ai,,435530164E0D2069ABD6A18F694E82C8
 MURDER!,УБИЙСТВО!,ai,,AC3E7E904D0E23CA2336EAA50104081C
-"I never h-had an advisor. Always too soft, too short-sighted - like Clemence. But you? You m-might just have it in you. You've got that streak. You're not afraid of blood - I see that n-now.","У меня н-никогда не было советника. Все слишком мягкие, слишком недальновидные — как Клеменс. Но ты? В тебе это, п-пожалуй, есть. Есть в тебе эта жилка. Ты не боишься крови — теперь я в-вижу.",ai,,F76AD0D34EFFD75987ABA1B395F38D80
+"I never h-had an advisor. Always too soft, too short-sighted - like Clemence. But you? You m-might just have it in you. You've got that streak. You're not afraid of blood - I see that n-now.","У меня н-никогда не было советника. Все слишком мягкие, слишком недальновидные - как Клеменс. Но ты? В тебе это, п-пожалуй, есть. Есть в тебе эта жилка. Ты не боишься крови - теперь я в-вижу.",ai,,F76AD0D34EFFD75987ABA1B395F38D80
 I don't need anyone. Especially not you.,Мне никто не нужен. Особенно ты.,ai,,17FC1AC94845BC283C04C5A407835D11
 Uncle Clemence is smarter than you give him credit for.,"Дядя Клеменс умнее, чем ты думаешь.",ai,,6789379840EB7BEFA14F1C829F8FFE83
 "[Say nothing, but consider it]","[Промолчать, но задуматься]",ai,,7A97B8384EFA523C17AEF7A42DC01632
@@ -34,11 +34,11 @@ This is pathetic. I should kill you right now.,Жалкое зрелище. На
 "Be r-reasonable, kid. I can...help. Don't let that go to waste. There's...no greater sin than...waste.","Будь б-благоразумна, малыш. Я могу... помочь. Не дай этому пропасть зря. Нет... греха страшнее, чем... растрата.",ai,,298EAD8345D78C2C8F463799700174A0
 You can't even help yourself.,Ты даже себе помочь не можешь.,ai,,B144B54E4392BBC6BDD8239D6AC52B33
 """Sin""? Really, old man?","«Греха»? Серьёзно, старик?",ai,,C6E4286F4651E37991A97C902A5AD7B9
-You don't understand - this IS me being reasonable.,Ты не понимаешь — я как раз и веду себя благоразумно.,ai,,8299346E40241B214AFD6E8777A6EAC4
+You don't understand - this IS me being reasonable.,Ты не понимаешь - я как раз и веду себя благоразумно.,ai,,8299346E40241B214AFD6E8777A6EAC4
 "...Y-yes, yes. You understand, don't you? This is...I'm teaching you, Clarissa. Th-this is what I mean. I can...help. Be...reasonable.","...Д-да, да. Ты ведь понимаешь, правда? Это... я учу тебя, Кларисса. В-вот о чём я. Я могу... помочь. Будь... благоразумна.",ai,,7BB72605471086455D40A28F53F6E80F
 You can't even help yourself.,Ты даже себе помочь не можешь.,ai,,7C2BB3CA40FB74721BDE7DB559BDA383
 [Block out the pain and steady yourself],[Отрешиться от боли и собраться],ai,,BB5D2C2449921C144EC028BDCC778061
-You don't understand - this IS me being reasonable.,Ты не понимаешь — я как раз и веду себя благоразумно.,ai,,7BA4E8CC44996C53AFDAFD92690F70DB
+You don't understand - this IS me being reasonable.,Ты не понимаешь - я как раз и веду себя благоразумно.,ai,,7BA4E8CC44996C53AFDAFD92690F70DB
 ...,,,,4F249C7E4DE2ABD6A9047094EA182118
 You were never going to listen.,Ты никогда не собирался слушать.,ai,,0EF1ECBF4AF7F05FB79F5C88BCE09086
 "I tried. I promise, I tried.","Я пыталась. Честное слово, пыталась.",ai,,4C3893054394CB740E9ADEAC401043E7
@@ -115,7 +115,7 @@ It's...better this way.,Так... будет лучше.,ai,,56B8D140436EA5EE7AA
 ...How stupid do you think I am?,...За какую дуру ты меня держишь?,ai,,024E60B741916F0F812E6980D4A5CBA1
 I didn't think you'd stoop this low.,"Не думала, что ты опустишься так низко.",ai,,0683E78C46BD47FC05C0719718114EC3
 "How? Go on, tell me.","Как? Ну давай, расскажи.",ai,,57CB17B24EF29061824FD587551D31BB
-"Yes, yes of course - you'll a-always be my little girl. We can figure this out.","Да, да, конечно — ты в-всегда будешь моей маленькой девочкой. Мы что-нибудь придумаем.",ai,,066737F04BF2133E1F6102B8C0587F50
+"Yes, yes of course - you'll a-always be my little girl. We can figure this out.","Да, да, конечно - ты в-всегда будешь моей маленькой девочкой. Мы что-нибудь придумаем.",ai,,066737F04BF2133E1F6102B8C0587F50
 ...How stupid do you think I am?,...За какую дуру ты меня держишь?,ai,,9701A6AC4C1DB0E03469FE93DAB840AD
 I didn't think you'd stoop this low.,"Не думала, что ты опустишься так низко.",ai,,0406CD07441163601558548F69899028
 "How? Go on, tell me.","Как? Ну давай, расскажи.",ai,,00862A3A49E0B86444E496A13009A190
@@ -135,7 +135,7 @@ Go on. What else?,Давай. Что ещё?,ai,,5E71C74A44AA990232412FB2606F381
 "Y-you FUCKING BITCH. I AM CARLO B-BLOODWORTH, and you will STAND DOWN. I OWN this city. I OWN you. I OWN YOU!!","Т-ты ЕБАНАЯ СУКА. Я КАРЛО Б-БЛАДВОРТ, и ты ОТСТУПИШЬ. Этот город ПРИНАДЛЕЖИТ МНЕ. ТЫ принадлежишь мне. ТЫ МОЯ!!",ai,,D3D939F04B16A36067A2E4A03288FA40
 You don't own anything. Not any more.,Тебе ничего не принадлежит. Больше нет.,ai,,1B31701D4741C8751FFBA182D0FE7516
 Yeah? [Beat him],Да ну? [Избить его],ai,,C6E1A68E4C10B156802AB1A0F555F6CB
-"Y-you...in a minute, my guys are going to c-come in here. They're going to fucking GUT you. SKIN you. You AND my idiot brother. I-I'll live. I'll THRIVE. Once you're in the ground, I will come back, STRONGER THAN EVER.","Т-ты... через минуту сюда в-ворвутся мои ребята. Они тебе, блядь, КИШКИ ВЫПУСТЯТ. ШКУРУ СПУСТЯТ. С тебя И с моего братца-идиота. Я-я выживу. Я ПОДНИМУСЬ. Как только ты окажешься в земле, я вернусь — СИЛЬНЕЕ, ЧЕМ КОГДА-ЛИБО.",ai,,186D343345E914D6D06DB98B368523B7
+"Y-you...in a minute, my guys are going to c-come in here. They're going to fucking GUT you. SKIN you. You AND my idiot brother. I-I'll live. I'll THRIVE. Once you're in the ground, I will come back, STRONGER THAN EVER.","Т-ты... через минуту сюда в-ворвутся мои ребята. Они тебе, блядь, КИШКИ ВЫПУСТЯТ. ШКУРУ СПУСТЯТ. С тебя И с моего братца-идиота. Я-я выживу. Я ПОДНИМУСЬ. Как только ты окажешься в земле, я вернусь - СИЛЬНЕЕ, ЧЕМ КОГДА-ЛИБО.",ai,,186D343345E914D6D06DB98B368523B7
 "No, dad. You won't.","Нет, папа. Не вернёшься.",ai,,309CA24B4A17E8EE2ECB9CA5AA8D790E
 Shut up. [Beat him],Заткнись. [Избить его],ai,,87E7B44F4708D879BE013B9877C788FF
 Speak up,Высказаться,ai,,9CD5A0DA444C6A06C64FEA9A2AC20588
@@ -158,10 +158,10 @@ It's not my fault.,Я не виновата.,ai,,220995904135037DEC632593F70AD60
 I'm sure they'll have some choice words for you.,"Уверена, им найдётся что тебе сказать.",ai,,D298BD3242F84D46B5450C841FF89284
 Next,Далее,ai,,4010E2BA4801AC06FF3092B33CF76BE2
 A-ARGH! My b-back!! T-that's...that's the best you got? Huh?! You f-fucking...KID?!,"А-АРХ! М-моя спина!! Э-это... это всё, на что ты способна? А?! Ты, ебаная... СОПЛЯЧКА?!",ai,,8BC81DEE44CB9D4564BB05A4AEAB7D42
-"One more word, and you're dead. You hear me?",Ещё одно слово — и ты труп. Слышишь меня?,ai,,DE2C85DD40ABB4DA7F7F0197E7AA7690
+"One more word, and you're dead. You hear me?",Ещё одно слово - и ты труп. Слышишь меня?,ai,,DE2C85DD40ABB4DA7F7F0197E7AA7690
 [Prepare yourself for another strike],[Приготовиться к новому удару],ai,,6961D9BD44990505F7C01797352E174F
 A-ARGH! My b-back!! T-that's...that's the best you got? Huh?! You f-fucking...KID?!,"А-АРХ! М-моя спина!! Э-это... это всё, на что ты способна? А?! Ты, ебаная... СОПЛЯЧКА?!",ai,,2C7E695446D9C3B5FDCF8BADBCE258EB
-"One more word, and you're dead. You hear me?",Ещё одно слово — и ты труп. Слышишь меня?,ai,,8CABF5AE469D056B2376BF8996040932
+"One more word, and you're dead. You hear me?",Ещё одно слово - и ты труп. Слышишь меня?,ai,,8CABF5AE469D056B2376BF8996040932
 [Prepare yourself for another strike],[Приготовиться к новому удару],ai,,15C921BD45694F14D3150F8DC6EEF387
 ...Y-you...,...Т-ты...,ai,,8792B2F946998B9DD9B7A0BE66FDA2D9
 "...Think twice about what you're about to say, dad. Think real hard about it.","...Подумай дважды, прежде чем это сказать, папа. Хорошенько подумай.",ai,,B313AFA34CAE0014852B88911214BC54
@@ -173,12 +173,12 @@ No. I make my own decisions.,Нет. Я сама принимаю решения
 We've come to a mutual agreement.,Мы пришли к взаимному соглашению.,ai,,D80990A84797963F81ABCF8CD6C8DF19
 I'm...I understand now. I see what you're s-saying. I can...change. I can help you..change all of this.,"Я... теперь я понимаю. Я понимаю, о ч-чём ты. Я могу... измениться. Я могу помочь тебе... всё это изменить.",ai,,968DCE6E4C8E694021948F8EB43EFE1E
 You're not changing anything. [Beat him],Ничего ты не изменишь. [Избить его],ai,,057315CC4A61D334BD8050AF294568F3
-"...Because they're my fucking people, you brat. I own them. I made them, same as I made you, and I can undo any-fucking-one I like.","...Потому что это мои, блядь, люди, соплячка. Они принадлежат мне. Я их сделал — так же, как сделал тебя, — и могу уничтожить кого, на хуй, захочу.",ai,,B4A3815C4A95B5916662D1B117CB728A
+"...Because they're my fucking people, you brat. I own them. I made them, same as I made you, and I can undo any-fucking-one I like.","...Потому что это мои, блядь, люди, соплячка. Они принадлежат мне. Я их сделал - так же, как сделал тебя, - и могу уничтожить кого, на хуй, захочу.",ai,,B4A3815C4A95B5916662D1B117CB728A
 "Tough luck. I'm out, and I know plenty of your guys are walking out with me.","Не повезло. Я ухожу, и многие твои ребята уходят вместе со мной.",ai,,9CFC8A8F464A7B6EFEA556827CE68E62
 You haven't made shit. This is Grandpa's empire.,Ни хрена ты не сделал. Это империя дедушки.,ai,,FBD2D98940AA93B238C7F0BAEB2E9EE3
 "You don't own anyone. You're losing it, and everyone can see it.","Никто тебе не принадлежит. Ты теряешь хватку, и это видят все.",ai,,3CE307254539145206CF19AC32B46AA8
-"Agh - f-fuck! That's the best you got, huh? Truth hurts, don't it?","Агх — б-блядь! Это всё, на что ты способна, а? Правда глаза колет, да?",ai,,F77B991A497A59F48E179D99A4D77435
-One more bad word about uncle Clemence and I'll end you. Got it?,Ещё одно дурное слово о дяде Клеменсе — и я тебя прикончу. Понял?,ai,,28D24DC447FCB7CF49022CB8635762F1
+"Agh - f-fuck! That's the best you got, huh? Truth hurts, don't it?","Агх - б-блядь! Это всё, на что ты способна, а? Правда глаза колет, да?",ai,,F77B991A497A59F48E179D99A4D77435
+One more bad word about uncle Clemence and I'll end you. Got it?,Ещё одно дурное слово о дяде Клеменсе - и я тебя прикончу. Понял?,ai,,28D24DC447FCB7CF49022CB8635762F1
 "Not as bad as a firepoker to the spine, I promise you.","Не так больно, как кочергой по хребту, уж поверь.",ai,,F9D87E72489C40D0E3FF00AF7E890BC0
 [Ignore him and block out the pain],[Не обращать на него внимания и отрешиться от боли],ai,,966C43FA4DFAE04D964031A5C9430014
 "H-heh. T-that's all you got? You really think you can take me down, you brat? Just y-you wait. I'll show you.","Х-хех. Э-это всё, на что ты способна? Ты правда думаешь, что сможешь меня свалить, соплячка? Т-ты погоди. Я тебе покажу.",ai,,857455D64A41896447F56296B466D75C
@@ -188,18 +188,18 @@ I...I didn't want to have to do this.,Я... я не хотела до этого
 "Oh, you ain't seen nothing yet.","О, ты ещё ничего не видел.",ai,,16871EF44552F11EC07E41B4D5B3FD50
 "I did take you down, and I'll do it again.",Я уже тебя свалила и сделаю это снова.,ai,,461C4AE544469C687DEC758AB9E2B907
 "I s-should have let her take you with her. Spare us all the trouble. Fuck knows what I was thinking, trying to raise a no-good brat like yourself.","Н-надо было отпустить тебя с ней. Избавил бы всех от проблем. Хрен знает, о чём я думал, когда взялся растить такую никчёмную дрянь, как ты.",ai,,FAEBAD664D72DE64E480E99EFFF20DC2
-"Yeah - didn't work out, did it?","Ага — не вышло, да?",ai,,295412FF4EBAEDA245BD37BB7755F853
+"Yeah - didn't work out, did it?","Ага - не вышло, да?",ai,,295412FF4EBAEDA245BD37BB7755F853
 Mom was a saint. I would've stayed with her if I could.,"Мама была святой. Я бы осталась с ней, если бы могла.",ai,,055373EE4C4938698FD554A093319330
 "You didn't. All my life, you didn't do shit. I had to figure things out on my own.",Ты и не растил. Всю мою жизнь ты ни хрена не делал. Мне приходилось разбираться во всём самой.,ai,,343E96514D9BC5D83DC60D8C82E2986D
-"F-fuck! T-that all you got?! You even hit like your mother! Mark my words, Clarissa - it's going to end the same way for both of you, too!","Б-блядь! Э-это всё, на что ты способна?! Даже бьёшь, как твоя мать! Попомни мои слова, Кларисса, — и ты кончишь так же, как она!",ai,,E9FAF9864D155366E6F91182161B8B3E
+"F-fuck! T-that all you got?! You even hit like your mother! Mark my words, Clarissa - it's going to end the same way for both of you, too!","Б-блядь! Э-это всё, на что ты способна?! Даже бьёшь, как твоя мать! Попомни мои слова, Кларисса, - и ты кончишь так же, как она!",ai,,E9FAF9864D155366E6F91182161B8B3E
 You're not going to hurt anyone ever again.,Ты больше никому не причинишь вреда.,ai,,4268B2624C74DE36BB766492C34B1125
 Somehow I doubt it.,Что-то я сомневаюсь.,ai,,6AF737BC42E7789D8FC4B9A0DA16A1F6
 "Why do you think she tried to leave, huh? It's you. You're a fucking monster.","Как думаешь, почему она пыталась уйти, а? Из-за тебя. Ты, блядь, чудовище.",ai,,19BD49234D6BB9BC1699C78308A9B866
 "That's you in a fucking nutshell, isn't it. Telling people how you see things. Telling people they're ignorant, stupid. For someone who hasn't accomplished shit, you sure thing highly of yourself.","В этом ты вся, да? Объясняешь людям, как ты всё видишь. Говоришь людям, что они невежды, тупицы. Для той, кто ни хрена не добилась, ты слишком высокого о себе мнения.",ai,,9E8B90AA44C8D4017458629F52A03E44
 I think you can do better. With my help.,"Думаю, ты можешь лучше. С моей помощью.",ai,,14277DCB42E1408C8FBCF9A39A42994A
 "And what have you accomplished? The death of how many? And for what, dad?","А чего добился ты? Скольких смертей? И ради чего, папа?",ai,,C2BC9F964EB78615D0394F9C1DD4AB82
-"You know what I HAVE seen? A poor girl's body, wrapped up and drowned. That's your legacy?","Знаешь, что я ВИДЕЛА? Тело бедной девушки — завёрнутое и утопленное. Это и есть твоё наследие?",ai,,52CCAF6B4A2EEE1463C5C590D33F86F7
-"Give me a break - it's my name. It's my business. You're lucky to have it, you brat. That's the only reason you're coasting along in life.","Да брось — это моё имя. Это моё дело. Тебе повезло, что оно у тебя есть, соплячка. Только поэтому ты и катишься по жизни как по маслу.",ai,,8332D88E41C3A0910F14A9A71694C7EA
+"You know what I HAVE seen? A poor girl's body, wrapped up and drowned. That's your legacy?","Знаешь, что я ВИДЕЛА? Тело бедной девушки - завёрнутое и утопленное. Это и есть твоё наследие?",ai,,52CCAF6B4A2EEE1463C5C590D33F86F7
+"Give me a break - it's my name. It's my business. You're lucky to have it, you brat. That's the only reason you're coasting along in life.","Да брось - это моё имя. Это моё дело. Тебе повезло, что оно у тебя есть, соплячка. Только поэтому ты и катишься по жизни как по маслу.",ai,,8332D88E41C3A0910F14A9A71694C7EA
 "I could say the same. You're losing your grip, and you need my help.","То же самое могу сказать и я. Ты теряешь хватку, и тебе нужна моя помощь.",ai,,52C9F0A643A0442859C00D89F6C27DAE
 And the only only reason you're still around is because you're too scared to prey on anyone but the most unfortunate.,"А ты до сих пор держишься только потому, что боишься охотиться на кого-то, кроме самых несчастных.",ai,,356FDB414DAB35917396E886848ACDA9
 I went down to the docks. I saw the bodies. Is that what our name means now?,Я ездила в доки. Я видела тела. Вот что теперь значит наше имя?,ai,,18C28F70489CAE98345CEBA23D34B4BA
@@ -211,7 +211,7 @@ I went down to the docks. I saw the bodies. Is that your legacy?,Я ездила
 So have I. You need to listen to me. Now.,Моё тоже. Ты должен меня выслушать. Сейчас же.,ai,,AD314C0E491B09127F4519B89FE68D68
 I'm not going anywhere.,Я никуда не уйду.,ai,,C5B7E452418DB903545E99837F92FAE7
 "I'm trying to help you, you stubborn asshole.","Я пытаюсь тебе помочь, упрямый ты мудак.",ai,,9AE55F6A402FA9355490BDAA686672EB
-"I am the fucking pater familias, you ungrateful bitch. I keep things going. I keep things running. I'd rather you just said thank you and went on your way - in fact, why don't you? Right the fuck now!","Я, блядь, глава этой семьи, неблагодарная сука. Это я держу всё на плаву. Это на мне всё держится. Лучше бы ты просто сказала «спасибо» и пошла своей дорогой — а знаешь что? Вот и вали. Прямо, блядь, сейчас!",ai,,4F027B964CDB22347E7ECFBD0674D2CC
+"I am the fucking pater familias, you ungrateful bitch. I keep things going. I keep things running. I'd rather you just said thank you and went on your way - in fact, why don't you? Right the fuck now!","Я, блядь, глава этой семьи, неблагодарная сука. Это я держу всё на плаву. Это на мне всё держится. Лучше бы ты просто сказала «спасибо» и пошла своей дорогой - а знаешь что? Вот и вали. Прямо, блядь, сейчас!",ai,,4F027B964CDB22347E7ECFBD0674D2CC
 Just hear me out. You'll thank me later.,Просто выслушай меня. Потом спасибо скажешь.,ai,,405EBC8F482D72CEACFACE9950A4CA3A
 Thank you? That's rich.,«Спасибо»? Вот это смешно.,ai,,567B947F4A282F35C8852DBE65A42C5A
 I won't do that.,Не стану.,ai,,5D1D9D8D4A90A1C16EACC5BA7E0CE6E9
@@ -260,14 +260,14 @@ Back off!,Отойди!,ai,,7856DBD0438182D26BA77EA0498043D7
 So fucking what? Someone clearly has to teach you some manners.,"Ну и что, блядь? Кто-то же должен научить тебя манерам.",ai,,04A448D24BC5A29CA74CE6B2666EC726
 Back off!,Отойди!,ai,,D4F86F60442871445D46A49426186DB8
 [Reach for a weapon],[Потянуться за оружием],ai,,79E388A142489C1B57F8419823032F71
-"You better watch your mouth, brat. The old man's been dead for twenty years, and you think this ship is still sailing because of him? I am this family. I am the fucking pater familias. I am the Bloodworth empire.","Следи за языком, соплячка. Старик уже двадцать лет как мёртв, а ты думаешь, что корабль до сих пор плывёт благодаря ему? Семья — это я. Я, блядь, глава этой семьи. Империя Бладвортов — это я.",ai,,EA7CDED84FEFAD1ABEB8E987AF8FD24D
-I'm as much Bloodworth as you - and I'm going to do it right.,"Я такая же Бладворт, как и ты, — и я сделаю всё как надо.",ai,,71D94E6F40D67C376438889B43B98D58
-You don't get it - I didn't come here for your approval. I came here to warn you.,Ты не понимаешь — я пришла не за твоим одобрением. Я пришла тебя предупредить.,ai,,A37E372F4702C46E95BCA0A25D4084A3
+"You better watch your mouth, brat. The old man's been dead for twenty years, and you think this ship is still sailing because of him? I am this family. I am the fucking pater familias. I am the Bloodworth empire.","Следи за языком, соплячка. Старик уже двадцать лет как мёртв, а ты думаешь, что корабль до сих пор плывёт благодаря ему? Семья - это я. Я, блядь, глава этой семьи. Империя Бладвортов - это я.",ai,,EA7CDED84FEFAD1ABEB8E987AF8FD24D
+I'm as much Bloodworth as you - and I'm going to do it right.,"Я такая же Бладворт, как и ты, - и я сделаю всё как надо.",ai,,71D94E6F40D67C376438889B43B98D58
+You don't get it - I didn't come here for your approval. I came here to warn you.,Ты не понимаешь - я пришла не за твоим одобрением. Я пришла тебя предупредить.,ai,,A37E372F4702C46E95BCA0A25D4084A3
 "I ain't losing shit. You're either fucking high or drunk, and definitely out of your fucking mind. Start your own organization? Your own syndicate? Don't be an idiot, Clarissa.","Ни хрена я не теряю. Ты, блядь, либо обдолбалась, либо пьяна, и уж точно спятила на хуй. Основать свою организацию? Свой синдикат? Не будь дурой, Кларисса.",ai,,51D153684C2FCA9D7504AE882F631137
 It took an idiot to fuck up everything Grandpa worked so hard for. I'm rebuilding it from scratch.,"Только дурак мог так просрать всё, ради чего так тяжело трудился дедушка. Я отстрою всё с нуля.",ai,,3FF2B69E4E99E6DF7FCEF5B65ED42278
-You don't get it - I didn't come here for your approval. I came here to warn you.,Ты не понимаешь — я пришла не за твоим одобрением. Я пришла тебя предупредить.,ai,,D962A89749143C6B852D9295099B3FEB
-"The fuck they are. Whatever shit you've been telling them means nothing - I'll bet you they're leading you on, and as soon as you're out the door, you'll get a knife in the back. Don't be an idiot, Clarissa.","Хрена с два они уходят. Что бы ты им там ни наплела, это ничего не значит — спорим, они тебя просто водят за нос, и как только ты выйдешь за дверь, получишь нож в спину. Не будь дурой, Кларисса.",ai,,9AB8AEE04BAE6AB4D60BD8A1BEA7BC62
-No. You'll see - I'm going to do it right.,Нет. Вот увидишь — я сделаю всё как надо.,ai,,387FB0BC4B208E3F1E663B9FAB206A77
+You don't get it - I didn't come here for your approval. I came here to warn you.,Ты не понимаешь - я пришла не за твоим одобрением. Я пришла тебя предупредить.,ai,,D962A89749143C6B852D9295099B3FEB
+"The fuck they are. Whatever shit you've been telling them means nothing - I'll bet you they're leading you on, and as soon as you're out the door, you'll get a knife in the back. Don't be an idiot, Clarissa.","Хрена с два они уходят. Что бы ты им там ни наплела, это ничего не значит - спорим, они тебя просто водят за нос, и как только ты выйдешь за дверь, получишь нож в спину. Не будь дурой, Кларисса.",ai,,9AB8AEE04BAE6AB4D60BD8A1BEA7BC62
+No. You'll see - I'm going to do it right.,Нет. Вот увидишь - я сделаю всё как надо.,ai,,387FB0BC4B208E3F1E663B9FAB206A77
 I didn't come here for your blessing. I came here to warn you.,Я пришла не за твоим благословением. Я пришла тебя предупредить.,ai,,692EC7B8483E1E4CC11AC99911A8B0B1
 What are you talking about? Are you out of your mind?!,"О чём ты? Ты что, спятила?!",ai,,75E63C1343A2172E1F831BBDB50C9671
 [Attack him],[Напасть на него],ai,,9DC428914ADD4E98176C02AD5E23D9EC
@@ -281,10 +281,10 @@ Maybe - I should have done this a long time ago.,Возможно. Мне дав
 "Sure. Stand up, and we'll see.","Конечно. Встань, и посмотрим.",ai,,C745EDBF41FF6895B0A4E1B95082E01B
 [Steady yourself and say nothing],[Собраться и промолчать],ai,,E3CC5252459DB50D6EAE13A1BCA80407
 Very well - I'll break them next.,Что ж. Тогда следующими я сломаю руки.,ai,,679BED82474E02FBA72E1C8E62973A21
-"...You've lost it. You don't even have a gun! What are you going to do, bore me to death? Get the fuck out of here, Clarissa.","...Ты рехнулась. У тебя даже пушки нет! Что ты сделаешь — заскучаешь меня до смерти? Пошла вон отсюда, Кларисса.",ai,,846027104F74BD158BA7B69D82E313EC
+"...You've lost it. You don't even have a gun! What are you going to do, bore me to death? Get the fuck out of here, Clarissa.","...Ты рехнулась. У тебя даже пушки нет! Что ты сделаешь - заскучаешь меня до смерти? Пошла вон отсюда, Кларисса.",ai,,846027104F74BD158BA7B69D82E313EC
 [Attack him],[Напасть на него],ai,,782A130D4D48EF6EAB2F9EAFC9C253D6
 Guns are noisy and quick. This will be neither.,Пушки шумные и быстрые. Это будет ни то ни другое.,ai,,3C9526FE4632C27D5420BAAD0498C34F
-"Bet y-you're real proud of that one, huh? You didn't do shit - one lucky shot, and you think the fight's over. You're just like your m-mother.","Ставлю, ты т-тут очень собой гордишься, а? Ни хрена ты не сделала — один случайный удар, и ты думаешь, что драка выиграна. Ты точь-в-точь как твоя м-мать.",ai,,962BFF614200EAEFA8D322A2FD817AAD
+"Bet y-you're real proud of that one, huh? You didn't do shit - one lucky shot, and you think the fight's over. You're just like your m-mother.","Ставлю, ты т-тут очень собой гордишься, а? Ни хрена ты не сделала - один случайный удар, и ты думаешь, что драка выиграна. Ты точь-в-точь как твоя м-мать.",ai,,962BFF614200EAEFA8D322A2FD817AAD
 Shut your mouth. You don't get to talk about her.,Закрой рот. Не смей говорить о ней.,ai,,0BE32E884A58E66B65F222B89C557798
 [Beat Carlo],[Избить Карло],ai,,F7A8139A4A0DC623BF98AAA5C150902E
 "Y-you haven't done shit. Think you can come in here and show up Carlo Bloodworth? It's over. You're done for. ","Т-ты ни хрена не сделала. Думаешь, можешь вломиться сюда и поставить на место Карло Бладворта? Всё кончено. Тебе конец. ",ai,,E17EEF7143F2A0ED5C8260A26FCE7BD6
@@ -294,7 +294,7 @@ And you're pathetic.,А ты жалок.,ai,,C7C65AC447453B0BA6BAB39C20EEF165
 "...Are you fucking serious right now? I got to deal with this shit? Alright, looks like I'm going to have to smack some sense into you. Wouldn't be the first time.","...Ты что, серьёзно, блядь? Мне ещё с этим дерьмом возиться? Ладно, похоже, придётся вбить в тебя немного ума. Не впервой.",ai,,B017224B488947A8C831168F12651CFC
 [Attack him],[Напасть на него],ai,,B0326CB34C429CA4622AF88723AC4620
 "Come on, then.",Ну давай.,ai,,F008BA6849345C61A316E88241808D60
-"Agh - f-fuck! See?! This is it! Th-this is what I'm talking about! You finally understand, Clarissa. This is how you g-gain respect!","Агх — б-блядь! Видишь?! Вот оно! В-вот о чём я говорю! Ты наконец поняла, Кларисса. Так и з-зарабатывают уважение!",ai,,90A9CD40435E0533E3E5349FC64D8DEB
+"Agh - f-fuck! See?! This is it! Th-this is what I'm talking about! You finally understand, Clarissa. This is how you g-gain respect!","Агх - б-блядь! Видишь?! Вот оно! В-вот о чём я говорю! Ты наконец поняла, Кларисса. Так и з-зарабатывают уважение!",ai,,90A9CD40435E0533E3E5349FC64D8DEB
 Doesn't seem to be working all that well. You're still talking shit.,Что-то не слишком помогает. Ты всё ещё несёшь чушь.,ai,,E4C26AA948ED152C11894C9D9394EFA3
 "...Just accept it, dad. You've lost. Stop trying to win me over.","...Просто прими это, папа. Ты проиграл. Хватит пытаться перетянуть меня на свою сторону.",ai,,B73CDA0642D534579E0761A0D9D7E653
 [Say nothing],[Промолчать],ai,,497358004A10D0D00C355BBC6CE79E95
@@ -328,7 +328,7 @@ We were never family.,Мы никогда не были семьёй.,ai,,9BA0AF
 Nuh-uh. You're not getting off that easily.,Не-а. Так легко ты не отделаешься.,ai,,EB6EB0E8406BE8D86DBE0A9B3CBA485D
 I know. I always knew I would.,"Знаю. Я всегда знала, что так будет.",ai,,125CCC204691511B4394BC97A9558B45
 This is pathetic.,Жалкое зрелище.,ai,,5FCABD5141FD532D91F1BEB769453D17
-"T-the fuck did you just say? All talk! That's what you are! You get one lucky shot, and suddenly you think you're some kind of contender. You're just l-like your mother.","Ч-что ты, блядь, сейчас сказала? Одни слова! Вот ты кто! Один случайный удар — и ты уже возомнила себя претенденткой. Ты точь-в-точь как твоя м-мать.",ai,,A63296F144CACD351D7EE388631BE646
+"T-the fuck did you just say? All talk! That's what you are! You get one lucky shot, and suddenly you think you're some kind of contender. You're just l-like your mother.","Ч-что ты, блядь, сейчас сказала? Одни слова! Вот ты кто! Один случайный удар - и ты уже возомнила себя претенденткой. Ты точь-в-точь как твоя м-мать.",ai,,A63296F144CACD351D7EE388631BE646
 Shut your mouth. You don't get to talk about her.,Закрой рот. Не смей говорить о ней.,ai,,59BF086D41EC428D6349C3B7FB32EFE2
 [Beat Carlo],[Избить Карло],ai,,67A678A7459B75B1CBF73797086BD590
 "T-that's what I thought. It's s-settling in, isn't it? One strike isn't enough, and you don't have the stomach for another. Weak. Just like your m-mother.","В-вот так я и думал. Д-доходит, да? Одного удара мало, а на второй у тебя кишка тонка. Слабачка. Совсем как твоя м-мать.",ai,,C0605E6E4C2286ED79EF6FA8B05F171D
@@ -338,7 +338,7 @@ Shut your mouth. You don't get to talk about her.,Закрой рот. Не см
 So how come you won't shut up?,Тогда почему ты не затыкаешься?,ai,,D1333DD24049D3CE97107283CFCFFFE4
 "...Just accept it, dad. You've lost. Stop trying to win me over.","...Просто прими это, папа. Ты проиграл. Хватит пытаться перетянуть меня на свою сторону.",ai,,F3551B224CD5425E98E3A08234AD4CA6
 [Say nothing],[Промолчать],ai,,CC23DFFD41AB4BDC0BE20DA4462A2312
-"Y-you're delusional, you little shit. Watch me. Soon as I get up, you're done for. ""Hurt"" is too good a word for what I'm going to do to you.","Т-ты бредишь, мелкая дрянь. Смотри. Как только я встану, тебе конец. «Больно» — слишком мягкое слово для того, что я с тобой сделаю.",ai,,371DDCDA495142590803348533CAB9FA
+"Y-you're delusional, you little shit. Watch me. Soon as I get up, you're done for. ""Hurt"" is too good a word for what I'm going to do to you.","Т-ты бредишь, мелкая дрянь. Смотри. Как только я встану, тебе конец. «Больно» - слишком мягкое слово для того, что я с тобой сделаю.",ai,,371DDCDA495142590803348533CAB9FA
 [Prepare yourself for another swing],[Приготовиться к новому замаху],ai,,FBF486A344AAB18C0612759AEA89AD13
 Be quiet. You don't scare me.,Замолчи. Ты меня не пугаешь.,ai,,7817271F44AEC7A60E918A9D5075E0EC
 I'd like to see you try.,Хотела бы я на это посмотреть.,ai,,21EE967F40F98E63328FB6903E5D29CC
@@ -351,7 +351,7 @@ Be quiet. You don't scare me.,Замолчи. Ты меня не пугаешь.
 Be quiet. You don't scare me.,Замолчи. Ты меня не пугаешь.,ai,,0963FC0F43FBF5B9D30D6CB141B32DC9
 You're right about one thing - you're not running anywhere.,В одном ты прав: никуда ты не побежишь.,ai,,A633447041F5D08670163199E94B0AAF
 "C-course not. Can't fix something that broken. That's what you are, Clarissa. Just...spare parts.","К-конечно нет. Такое сломанное не починишь. Вот ты кто, Кларисса. Просто... запчасти.",ai,,E438861848AA02260D2343B99F97C173
-You're wrong. I know how to fix this - all of it.,"Ты неправ. Я знаю, как это исправить — всё это.",ai,,8D851158493FEB1C8925299AE6BE0C0D
+You're wrong. I know how to fix this - all of it.,"Ты неправ. Я знаю, как это исправить - всё это.",ai,,8D851158493FEB1C8925299AE6BE0C0D
 ...What's that supposed to mean?!,...Что это должно значить?!,ai,,3798A8C44131708B59DD50BCD36C6B41
 "Go on, say that again. I dare you.","Давай, повтори. Рискни.",ai,,6EA1C5FD47720057FA563B9E95F11DDF
 "W-well in that case, I can arrange a reunion. Happily! Just wait until I get u-up. You'll see.","Н-ну, тогда я могу устроить воссоединение. С радостью! Только дай мне встать. Сама увидишь.",ai,,7B1A9E0A457A87E08276C0BC44126A1A
@@ -362,15 +362,15 @@ You're wrong. I know how to fix this - all of it.,"Ты неправ. Я зна�
 You think I care what you think of me? Please.,"Думаешь, мне есть дело до твоего мнения? Не смеши.",ai,,D2DFCE4E43BC7FC828C61DB4DEBCCF58
 "Bet you told mom the same thing, didn't you? You're scum.","Спорю, маме ты говорил то же самое. Ты мразь.",ai,,64C54D5549E3F33C175381B6491F9F17
 "Go on, say that again. I dare you.","Давай, повтори. Рискни.",ai,,BC0121C2425527DAD5640FAD8E6A2445
-"W-what do you think, you fucking punk? H-heh - so easily thrown. You got no focus, Clarissa. No aim, no direction. Look at you - bleeding all over.","Ч-что ты думаешь, ебаная шпана? Х-хех — как легко тебя вывести. Ни фокуса, Кларисса. Ни цели, ни направления. Посмотри на себя — истекаешь кровью.",ai,,EFDE83A441058563500ED7B8F59E2AF2
+"W-what do you think, you fucking punk? H-heh - so easily thrown. You got no focus, Clarissa. No aim, no direction. Look at you - bleeding all over.","Ч-что ты думаешь, ебаная шпана? Х-хех - как легко тебя вывести. Ни фокуса, Кларисса. Ни цели, ни направления. Посмотри на себя - истекаешь кровью.",ai,,EFDE83A441058563500ED7B8F59E2AF2
 Shut up. Just shut up.,Заткнись. Просто заткнись.,ai,,C460580C4B7F1042083DCAA90C4FAA58
 You're grasping at straws. You know you're losing.,"Ты хватаешься за соломинку. Ты знаешь, что проигрываешь.",ai,,62CF626B4345D3C3FF7F0DA5C6421B15
 "[Ignore him, and try to shut out the pain]",[Не обращать на него внимания и попытаться отрешиться от боли],ai,,37FA085348FBE9C8DCBBDC8BC1BA8971
-"Heh, you got all c-cocky, didn't you? Think you know better than everyone, huh? It's like I s-said - just like your mother.","Хех, раздухарилась, да? Думаешь, знаешь лучше всех, а? Как я и г-говорил — точь-в-точь как твоя мать.",ai,,D75B59564469DA2D5AD9F59F945CEBF4
+"Heh, you got all c-cocky, didn't you? Think you know better than everyone, huh? It's like I s-said - just like your mother.","Хех, раздухарилась, да? Думаешь, знаешь лучше всех, а? Как я и г-говорил - точь-в-точь как твоя мать.",ai,,D75B59564469DA2D5AD9F59F945CEBF4
 Shut up. Just shut up.,Заткнись. Просто заткнись.,ai,,2ADB51874ED5D4CC333672A639EBA5DF
 You're grasping at straws. You know you're losing.,"Ты хватаешься за соломинку. Ты знаешь, что проигрываешь.",ai,,1BFDE4604705A81F08897EB7D3280EC3
 "[Ignore him, and try to shut out the pain]",[Не обращать на него внимания и попытаться отрешиться от боли],ai,,33C16939485E8D9993F89AA1B5E23D3E
-"F-fuck off, you brat. You don't have it in you. I know you don't - I can see it in you. You're weak. Bleeding.","П-пошла на хуй, соплячка. В тебе этого нет. Я знаю, что нет — я вижу. Ты слаба. Истекаешь кровью.",ai,,DFA7F4E145E403D807112FA939DB7E97
+"F-fuck off, you brat. You don't have it in you. I know you don't - I can see it in you. You're weak. Bleeding.","П-пошла на хуй, соплячка. В тебе этого нет. Я знаю, что нет - я вижу. Ты слаба. Истекаешь кровью.",ai,,DFA7F4E145E403D807112FA939DB7E97
 Shut up. Just shut up.,Заткнись. Просто заткнись.,ai,,7A15F0FA43E953163B33249DA34D66B4
 You're grasping at straws. You know you're losing.,"Ты хватаешься за соломинку. Ты знаешь, что проигрываешь.",ai,,1C3B31BB484A6E849521D2BF9B7E9DDF
 "[Ignore him, and try to shut out the pain]",[Не обращать на него внимания и попытаться отрешиться от боли],ai,,A187F425472B40BFC3D0058FC1F7D08D
@@ -384,15 +384,15 @@ You forced my hand.,Ты вынудил меня.,ai,,0D687BF84FC24A76585C0F8E3B
 I knew it was a possibility. I also knew I could handle it.,"Я знала, что это возможно. И знала, что справлюсь.",ai,,1472F2364C39EEF1E8F6EC9EA3DB10E9
 Yes.,Да.,ok,,0F11CABE4654D5A91EFF9AA0786B577E
 ...What do you think?,...Как думаешь?,ai,,094D5425481DB6BCF5F54E8ED9C02446
-"H-hah! Mutual my ass - just you watch, Clarissa. He sends you in here to kill me, and as soon as that's done, he's going to turn on you.","Х-ха! Взаимное, как же, хрен там — вот увидишь, Кларисса. Он посылает тебя убить меня, и как только это будет сделано, он обернётся против тебя.",ai,,02CDDA9740EB120420C3A488EA418E52
+"H-hah! Mutual my ass - just you watch, Clarissa. He sends you in here to kill me, and as soon as that's done, he's going to turn on you.","Х-ха! Взаимное, как же, хрен там - вот увидишь, Кларисса. Он посылает тебя убить меня, и как только это будет сделано, он обернётся против тебя.",ai,,02CDDA9740EB120420C3A488EA418E52
 He's helping me because he believes things can change.,"Он помогает мне, потому что верит, что всё может измениться.",ai,,877C9B5549E0425832C708A81B1562F7
 "There are good people in this world, dad. We're not all like you.","В этом мире есть хорошие люди, папа. Не все такие, как ты.",ai,,CD06199145A581F8DB129EA5FA47C11E
 ...What do you mean?,...Что ты хочешь сказать?,ai,,11326EA844A50CF0818F63A227D0C703
-"Clemence?! That's the dumbest thing you've ever s-said - Clemence is a weakling. He's a liar, a schemer. W-what, you think he's one of the good guys? He's using you! Open your eyes, kid!","Клеменс?! Глупее ты ничего не говорила — Клеменс слабак. Он лжец, интриган. Ч-что, думаешь, он из хороших? Он тебя использует! Открой глаза, малыш!",ai,,A17EF8E240898ADD2269BB99EFD88F7A
+"Clemence?! That's the dumbest thing you've ever s-said - Clemence is a weakling. He's a liar, a schemer. W-what, you think he's one of the good guys? He's using you! Open your eyes, kid!","Клеменс?! Глупее ты ничего не говорила - Клеменс слабак. Он лжец, интриган. Ч-что, думаешь, он из хороших? Он тебя использует! Открой глаза, малыш!",ai,,A17EF8E240898ADD2269BB99EFD88F7A
 He's helping me because he believes things can change.,"Он помогает мне, потому что верит, что всё может измениться.",ai,,AA4484164FE7D69A24AFC7A033C27D97
 "There are good people in this world, dad. We're not all like you.","В этом мире есть хорошие люди, папа. Не все такие, как ты.",ai,,251530AD464323C795FC2AB036F9894E
 ...What do you mean?,...Что ты хочешь сказать?,ai,,95B534934F3B5AB224F127A749E67BB8
-"H-hah! And you believe that shit? Face it, Clarissa. He's using you to get to me, to take my place. I bet he's playing it up too, acting all sweet and sympathetic. W-what a useless piece of shit. He's even more pathetic than you are!","Х-ха! И ты веришь в эту хрень? Признай, Кларисса. Он использует тебя, чтобы добраться до меня и занять моё место. Спорим, он ещё и разыгрывает спектакль — весь такой милый и сочувствующий. Ч-что за бесполезный кусок дерьма. Он даже жальче тебя!",ai,,E97AEAD443A4199E2B85A6BBF0E8400A
+"H-hah! And you believe that shit? Face it, Clarissa. He's using you to get to me, to take my place. I bet he's playing it up too, acting all sweet and sympathetic. W-what a useless piece of shit. He's even more pathetic than you are!","Х-ха! И ты веришь в эту хрень? Признай, Кларисса. Он использует тебя, чтобы добраться до меня и занять моё место. Спорим, он ещё и разыгрывает спектакль - весь такой милый и сочувствующий. Ч-что за бесполезный кусок дерьма. Он даже жальче тебя!",ai,,E97AEAD443A4199E2B85A6BBF0E8400A
 You don't know Clemence at all.,Ты совсем не знаешь Клеменса.,ai,,5695435A45737D9089C2779D29DCC407
 ...Do you know something I don't? Speak up!,"...Ты знаешь что-то, чего не знаю я? Говори!",ai,,123547824240F03BC87E91ABBEF019E8
 [Beat him],[Избить его],ai,,AFA4ACD44A4FB33F4BDD1F84549D0A7F
@@ -400,7 +400,7 @@ You don't know Clemence at all.,Ты совсем не знаешь Клемен
 He's neither of those things.,Он ни то ни другое.,ai,,54AD2F394C7F40D2813A3BB51E2B4E7D
 He's got a heart. A conscience. That means something.,У него есть сердце. Совесть. Это что-то значит.,ai,,05E669734A6EB27F3F470D84166F6941
 [Beat him],[Избить его],ai,,A582CF2B4404F33EE6BFC1BE686B0377
-"I knew you were an idiot, but I didn't know it was this bad - think, Clarissa! Y-you're supposed to take care of me, and then what? He puts it on you. Gets r-rid of you. And then he takes my place. Pathetic! Even more so than you!","Я знал, что ты идиотка, но не знал, что настолько — думай, Кларисса! Т-ты должна позаботиться обо мне, а потом что? Он свалит всё на тебя. Изб-бавится от тебя. И займёт моё место. Жалко! Даже жальче, чем ты!",ai,,87A8FBD94D419682A6029087FBF8AA05
+"I knew you were an idiot, but I didn't know it was this bad - think, Clarissa! Y-you're supposed to take care of me, and then what? He puts it on you. Gets r-rid of you. And then he takes my place. Pathetic! Even more so than you!","Я знал, что ты идиотка, но не знал, что настолько - думай, Кларисса! Т-ты должна позаботиться обо мне, а потом что? Он свалит всё на тебя. Изб-бавится от тебя. И займёт моё место. Жалко! Даже жальче, чем ты!",ai,,87A8FBD94D419682A6029087FBF8AA05
 You don't know Clemence at all.,Ты совсем не знаешь Клеменса.,ai,,4548BCF64AA4F9B2388E6FB9363A135B
 ...Do you know something I don't? Speak up!,"...Ты знаешь что-то, чего не знаю я? Говори!",ai,,9EB88682477AD133D6D3508307F253ED
 [Beat him],[Избить его],ai,,3D575E3B451D7B165E654589901C2AE7
@@ -409,11 +409,11 @@ You don't know Clemence at all.,Ты совсем не знаешь Клемен
 ...What did you mean with Clemence using me? Do you know something I don't?,"...Что ты имел в виду, когда сказал, что Клеменс меня использует? Ты знаешь что-то, чего не знаю я?",ai,,A144BF57430DD57B4A2D2E824EFA519C
 [Beat him],[Избить его],ai,,5A766DE941EA22039BF9EDBAAE9B0B30
 "S-shepherd knows, Clarissa - I've been in this business for all my life. I k-know how it works. Don't fall for it. Prove you're not as much of a fucking i-idiot I think you are.","Видит Пастырь, Кларисса: я всю жизнь в этом деле. Я з-знаю, как это работает. Не ведись. Докажи, что ты не такая, б-блядь, идиотка, как я думаю.",ai,,B6F864D74872245014990680B060FE09
-Clemence is my friend. We're in this together.,Клеменс — мой друг. Мы в этом вместе.,ai,,A8AE85784ED777DE82E6E8A44FA5E1BC
+Clemence is my friend. We're in this together.,Клеменс - мой друг. Мы в этом вместе.,ai,,A8AE85784ED777DE82E6E8A44FA5E1BC
 [Consider it. He could be telling the truth.],"[Обдумать это. Возможно, он говорит правду.]",ai,,878B430348B61B6F49C80980CE11119E
 [Beat him],[Избить его],ai,,9172251C4629C47735453E8511A9CCD2
 "Argh! Y-yeah, that's right! T-truth f-fucking hurts, don't it?!","А-агх! Д-да, вот так! П-правда, б-блядь, больно, да?!",ai,,8A7F06A2404DF474BFDC1EB6D209B36A
-One more bad word about uncle Clemence and I'll end you. Got it?,Ещё одно дурное слово о дяде Клеменсе — и я тебя прикончу. Понял?,ai,,7416C9AB45D4FF8C50FFECAFCDAF601A
+One more bad word about uncle Clemence and I'll end you. Got it?,Ещё одно дурное слово о дяде Клеменсе - и я тебя прикончу. Понял?,ai,,7416C9AB45D4FF8C50FFECAFCDAF601A
 "Not as bad as a firepoker to the spine, I promise you.","Не так больно, как кочергой по хребту, уж поверь.",ai,,E6A1B78945F2DB59353F1B80B9A967FD
 [Ignore him and block out the pain],[Не обращать на него внимания и отрешиться от боли],ai,,D82427AC40B1EFF41D9E2EBF1BC6FBB7
 "T-think you're real fucking clever, huh? Still, it's n-nothing compared to what I'll do to you. That's a p-promise.","Д-думаешь, ты, блядь, очень умная? Всё равно это н-ничто по сравнению с тем, что я с тобой сделаю. Это п-обещание.",ai,,6D3DA3654BE4578C5F5D58A59ED957CC
@@ -490,7 +490,7 @@ He tried to get you out of it. Same with your mother. All they did was s-slow yo
 "I'm in charge now, dad. You're not doing anything.","Теперь главная я, папа. Ты ничего не будешь делать.",ai,,1105B1F545B2125071F76A83C35E0032
 You're seriously trying to cut a deal with me? Now?,Ты серьёзно пытаешься заключить со мной сделку? Сейчас?,ai,,6F12A9E2461373ACD037B2AB84F01E04
 "How, exactly?",Как именно?,ai,,C3A35EF94C5E9FA535BE1AA017969619
-"Y-you don't remember much, do you? You really think things were all that different before I took over? Y-you think we just asked politely and helped old ladies across the street? Give me a break, Clarissa. Nothing changed. We're all the same - and you are, too. I can help you see that?","Т-ты мало что помнишь, да? Думаешь, до меня всё было иначе? Д-думаешь, мы просто вежливо просили и переводили старушек через дорогу? Не смеши, Кларисса. Ничего не менялось. Мы все одинаковые — и ты тоже. Я могу помочь тебе это увидеть?",ai,,07676796405F782766C1B59BF9CF97EF
+"Y-you don't remember much, do you? You really think things were all that different before I took over? Y-you think we just asked politely and helped old ladies across the street? Give me a break, Clarissa. Nothing changed. We're all the same - and you are, too. I can help you see that?","Т-ты мало что помнишь, да? Думаешь, до меня всё было иначе? Д-думаешь, мы просто вежливо просили и переводили старушек через дорогу? Не смеши, Кларисса. Ничего не менялось. Мы все одинаковые - и ты тоже. Я могу помочь тебе это увидеть?",ai,,07676796405F782766C1B59BF9CF97EF
 Things will change. I'm in charge now.,Всё изменится. Теперь главная я.,ai,,97DBDD9E45192A9918317BB1772D9883
 ...Help me? Are you trying to cut a deal with me? Now?,...Помочь мне? Ты пытаешься заключить со мной сделку? Сейчас?,ai,,409C96B24C8A1B2159581DAEE2088DC0
 "How, exactly?",Как именно?,ai,,4E5A4AA9471966AA99617A871E6A5BE4
@@ -502,6 +502,6 @@ Y-you don't have the experience. Neither does Clemence. You need me.,У т-те�
 I don't need anyone. Especially not you.,Мне никто не нужен. Особенно ты.,ai,,D5207F484B6E9E0BDC36B6879D910396
 Uncle Clemence is smarter than you give him credit for.,"Дядя Клеменс умнее, чем ты думаешь.",ai,,AB4146204EAE79E6DC7EFD800F083BB6
 "[Say nothing, but consider it]","[Промолчать, но задуматься]",ai,,86DCA31B441E414D8289FA8C708275C0
-"N-not a deal, not optional, not something you negotiate - this is the ONLY way you win. Like it or n-not, Clarissa, you lack experience. So does Clemence. You need me. I'm the only one who can bring out the best in you. This; everything happening now. You can be this, and more.","Н-не сделка, не вариант, не то, о чём торгуются, — это ЕДИНСТВЕННЫЙ способ победить. Нравится тебе или н-нет, Кларисса, у тебя нет опыта. И у Клеменса тоже. Ты нуждаешься во мне. Только я могу раскрыть в тебе лучшее. Вот это; всё, что происходит сейчас. Ты можешь быть этим — и большим.",ai,,1E21F26C4AAF40A8C8983A9FDED91D32
+"N-not a deal, not optional, not something you negotiate - this is the ONLY way you win. Like it or n-not, Clarissa, you lack experience. So does Clemence. You need me. I'm the only one who can bring out the best in you. This; everything happening now. You can be this, and more.","Н-не сделка, не вариант, не то, о чём торгуются, - это ЕДИНСТВЕННЫЙ способ победить. Нравится тебе или н-нет, Кларисса, у тебя нет опыта. И у Клеменса тоже. Ты нуждаешься во мне. Только я могу раскрыть в тебе лучшее. Вот это; всё, что происходит сейчас. Ты можешь быть этим - и большим.",ai,,1E21F26C4AAF40A8C8983A9FDED91D32
 Uncle Clemence is smarter than you give him credit for.,"Дядя Клеменс умнее, чем ты думаешь.",ai,,2FBAA85B4E426F510B334EBE7B81EACD
 "[Say nothing, but consider it]","[Промолчать, но задуматься]",ai,,8DD33CD54762D07FC80EED905B43A303

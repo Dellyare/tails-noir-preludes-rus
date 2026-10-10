@@ -39,14 +39,14 @@ We found some sort of...artifact. Very responsive to stimuli. Possibily organic 
 """August 14th. Major discovery. Radioing HQ.""","""14 августа. Крупное открытие. Связываюсь со штабом.""",ai,,E00E94524AF371D355A9369A7836AB0A
 """Memo: Wipe off the solar panels""","""Заметка: Протереть солнечные панели.""",ai,,5426EAEF44FA4FBFAD56C3ADB03C45A2
 """The sun is unbearable. Temperatures during the day are painfully high.""","""Солнце невыносимо. Дневные температуры мучительно высоки.""",ai,,B26BF9434354F7C37A8D7DA207D1F668
-"""Nothing out here remains, except decay - the lone and level sands stretch far away.""","""Здесь ничего не осталось, кроме разрушения — одинокие и ровные пески простираются далеко.""",ai,,A6A7134E4E70EA6329940CA728FD7BA6
+"""Nothing out here remains, except decay - the lone and level sands stretch far away.""","""Здесь ничего не осталось, кроме разрушения - одинокие и ровные пески простираются далеко.""",ai,,A6A7134E4E70EA6329940CA728FD7BA6
 "Thank you for the report, 06. Carry on with your work.","Спасибо за отчёт, 06. Продолжайте работу.",ai,,5C84CBA943F2BE1B89A021BF12C47B1E
 [End the call],[Завершить звонок],ai,,0911BE17459C54B6DE639EA217B1CC9C
 [The radio hums with gentle static.],[Радио гудит с лёгким статическим шумом.],ai,,6145F27E466B1222D84DC787B747C4C5
 [Inspect the radio],[Осмотреть радио],ai,,35C7CD434AB1F8D19001698D0A6EB9E2
 [Leave it be],[Оставить как есть],ai,,2251662D437167D4FD3F0FAE28372247
 [Dial in a frequency],[Набрать частоту],ai,,15FDDE184AFA83E8F2E696B49AD30258
-"[The bundle of yellow and yellowed notes is stacked and weighed down, as neatly as can be. You wrote some of them, Jorge some others. Another few still were written ages ago, it seems now, by someone whose name you don't recall.]","[Стопка жёлтых и пожелтевших записок аккуратно сложена и прижата. Некоторые из них написали вы, другие — Джордж. Ещё несколько, кажется, были написаны давно кем-то, чьё имя вы не помните.]",ai,,4EA89D344E19D2D91E657A92C2953136
+"[The bundle of yellow and yellowed notes is stacked and weighed down, as neatly as can be. You wrote some of them, Jorge some others. Another few still were written ages ago, it seems now, by someone whose name you don't recall.]","[Стопка жёлтых и пожелтевших записок аккуратно сложена и прижата. Некоторые из них написали вы, другие - Джордж. Ещё несколько, кажется, были написаны давно кем-то, чьё имя вы не помните.]",ai,,4EA89D344E19D2D91E657A92C2953136
 [Look at my notes],[Посмотреть мои записки],ai,,9EE95A94495386FEF0D87586F404022B
 [Go through Jorge's notes],[Просмотреть записки Джорджа],ai,,9DB290034BD73783FE93049D9A637867
 [Let the notes be],[Оставить записки],ai,,BD2F656E426647EECD526BB5425BA533
@@ -82,12 +82,12 @@ That's good enough for us.,Для нас этого достаточно.,ai,,00
 (IDEALIST) [It should last for at least another lifetime.],(ИДЕАЛИСТ) [Он должен прослужить ещё как минимум одну жизнь.],ai,,ACB9A2564B17CDC29FA9BCA0F23348DC
 That's good enough for us.,Для нас этого достаточно.,ai,,DD13000F43CE0F46455252A56A99B827
 "Great. I'll pass it down to my children, then.",Отлично. Тогда я передам это своим детям.,ai,,4B6013824088693EB380FBA16545E0F1
-"[Many of the pages are simply numbers and doodles, but you sort through to find a few that pique your interest.]","[Многие страницы — это просто числа и каракули, но вы находите несколько, которые вызывают ваш интерес.]",ai,,4541FE904D46FA5D6860CD96A4E9E1CF
+"[Many of the pages are simply numbers and doodles, but you sort through to find a few that pique your interest.]","[Многие страницы - это просто числа и каракули, но вы находите несколько, которые вызывают ваш интерес.]",ai,,4541FE904D46FA5D6860CD96A4E9E1CF
 """August 1st""","""1 августа""",ai,,4E6E0B0F4D831B0F4DD5ABA06EB7A0E6
 """potential radiation, no corrosives""","""возможная радиация, без коррозии""",ai,,8555D2544D3EBBB01A05669FB9B55690
 """89.45""",,,,71F12848485F329ADC8AE58349FE0C47
 [Put down Jorge's notes],[Отложить записки Джорджа],ai,,48BA7BAF47941A8BBCE6D39DAD960AD0
-[The paper rustles gently under the weight of your pencil - even more so under the gravity of the discovery you've made.],[Бумага слегка шуршит под весом вашего карандаша — ещё больше под тяжестью сделанного открытия.],ai,,510A5FCF4FE109A5F70265B3E04C0D37
+[The paper rustles gently under the weight of your pencil - even more so under the gravity of the discovery you've made.],[Бумага слегка шуршит под весом вашего карандаша - ещё больше под тяжестью сделанного открытия.],ai,,510A5FCF4FE109A5F70265B3E04C0D37
 [Put down the pencil],[Положить карандаш],ai,,8E9319764250DC6A03BF90B3340F0274
 [You glance over briefly to the solar panels in the distance. It's about time.],[Вы мельком бросаете взгляд на солнечные панели вдалеке. Уже пора.],ai,,AD5FB8134025D520F30B4DA2E84BC33A
 [Put down the pencil],[Положить карандаш],ai,,D3B0C10946E51A9BE477F287CE19CEBA
@@ -95,11 +95,11 @@ That's good enough for us.,Для нас этого достаточно.,ai,,DD
 [Put down the pencil],[Положить карандаш],ai,,21A85BE14D3FCF82FCC8298E783626D0
 "[The storm eases temporarily as you scribble down your thoughts. You can hear Jorge moving things around, down in the pit.]","[Буря временно стихает, пока вы записываете свои мысли. Вы слышите, как Джордж перемещает вещи внизу, в яме.]",ai,,1BE9E1E94CF1B760F48BF6B1CB3D1CFA
 [Put down the pencil],[Положить карандаш],ai,,F454D2D54A03EF8EE1F4EEA05CF3AD84
-"(CYNIC) [There's not much in the way of interesting reading. Frequencies, memos, and notes taken during radio calls. Those have become more infrequent lately - maybe the top scientists have given up on the expeditions.]","(ЦИНИК) [Здесь не так много интересного для чтения. Частоты, заметки и записи, сделанные во время радиозвонков. В последнее время они стали реже — возможно, ведущие учёные отказались от экспедиций.]",ai,,F4EBE62848C913CDCAD3CAA95E3E8509
+"(CYNIC) [There's not much in the way of interesting reading. Frequencies, memos, and notes taken during radio calls. Those have become more infrequent lately - maybe the top scientists have given up on the expeditions.]","(ЦИНИК) [Здесь не так много интересного для чтения. Частоты, заметки и записи, сделанные во время радиозвонков. В последнее время они стали реже - возможно, ведущие учёные отказались от экспедиций.]",ai,,F4EBE62848C913CDCAD3CAA95E3E8509
 "Yesterday, I wouldn't have blamed them. Today has changed that, though.",Вчера я бы их не винил. Но сегодня всё изменилось.,ai,,776A1654409A61E9733F83B74FAC39AA
 [Insert the notes at the bottom of the stack],[Вложить записки в нижнюю часть стопки],ai,,E8A132704A891D78EF475FBDD9D50B44
 "(REALIST) [Your notes are plentiful, but, to be frank, boring. Almost mathematical. Notes from radio calls and tracking of the weather, alongside a few scribbles regarding your progress.]","(РЕАЛИСТ) [Ваши записи многочисленны, но, честно говоря, скучны. Почти математические. Записи радиозвонков и наблюдения за погодой, а также несколько каракулей о вашем прогрессе.]",ai,,0839C77E4701AAD02DA495804BD3E650
-Slow and steady won the race.,Тише едешь — дальше будешь.,ai,,6E807A8C472D89B1BE03ADAEDEFDB51A
+Slow and steady won the race.,Тише едешь - дальше будешь.,ai,,6E807A8C472D89B1BE03ADAEDEFDB51A
 [Put the notes away],[Убрать записки],ai,,51EB588D4BFFE810D21945A3C2709898
 "Copy that, Site 06. Please refrain from reporting non-essential findings in future reports.","Понял, объект 06. Пожалуйста, воздержитесь от сообщения о несущественных находках в будущих отчётах.",ai,,E4053F354996470442A3EDA0B3D19E72
 "Will do, HQ.","Будет сделано, штаб.",ai,,C7CE746348D2D22349F6F2A5D7C80043

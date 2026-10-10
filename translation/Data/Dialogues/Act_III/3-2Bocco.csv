@@ -4,14 +4,14 @@ Bocco liked that.,Бокко это понравилось.,ai,,F76D59EB47997A0D
 Bocco claims he didn't see anything.,"Бокко утверждает, что ничего не видел.",ai,,D851ECF64B13BF1806B1ADBE20484D7D
 Bocco claims a group of teenagers did it.,"Бокко утверждает, что это сделала группа подростков.",ai,,342C4E684FC7829B7CEAEF9C7DA668FA
 Bocco claims he saw a mechanic working on the clock.,"Бокко утверждает, что видел, как у часов работал механик.",ai,,1A70B8C141425CB3800A3BBD0F025838
-"Ah, I saw you repair the clock. Well done, young man. Restoring what is broken and returning things to normal is a virtue, you know.","А, я видел, как ты чинил часы. Молодец, юноша. Восстанавливать сломанное и возвращать всё в порядок — это добродетель, знаешь ли.",ai,,88F21A1E498BE27F2881ACA7A2C0C087
+"Ah, I saw you repair the clock. Well done, young man. Restoring what is broken and returning things to normal is a virtue, you know.","А, я видел, как ты чинил часы. Молодец, юноша. Восстанавливать сломанное и возвращать всё в порядок - это добродетель, знаешь ли.",ai,,88F21A1E498BE27F2881ACA7A2C0C087
 [Mutter] You don't say.,[Пробормотать] Да что вы говорите.,ai,,FBB1FBC1458AF8F7196903BA5C29D232
 "Aw, shit. Guess I better take it apart again. [Leave]","Вот чёрт. Пожалуй, придётся разобрать их обратно. [Уйти]",ai,,0E6C79864B84192CFE578F9C8B488A97
 "Oh yeah, I'm all about being a good, virtuous little lad. That's me. Virtue Boy.","О да, я весь такой добродетельный мальчик. Это про меня. Мальчик-Добродетель.",ai,,69AF5C26434B4FCD04FEC5A3ED7D1E01
 "Oh wow, I never would've thought. Listen, let's talk about something else real quick...","Ого, никогда бы не подумал. Слушайте, давайте быстренько поговорим о другом...",ai,,F7DE9AB14796E4E29C9A108F46B9F86B
-"A swell shot? The Solstice campfires are an important part of our faith, boy. If you're taking a picture, you need to ensure you capture the gravitas of the situation.","Удачный кадр? Костры солнцестояния — важная часть нашей веры, мальчик. Если делаешь снимок, нужно передать всю торжественность момента.",ai,,3D4AF72346F7D1A3A9D59FB7B548B3F6
+"A swell shot? The Solstice campfires are an important part of our faith, boy. If you're taking a picture, you need to ensure you capture the gravitas of the situation.","Удачный кадр? Костры солнцестояния - важная часть нашей веры, мальчик. Если делаешь снимок, нужно передать всю торжественность момента.",ai,,3D4AF72346F7D1A3A9D59FB7B548B3F6
 ...Which is?,...То есть?,ai,,6626E7B14CD52B65DC44FE883A979695
-"(INVESTIGATIVE) Don't worry. I'll ensure to frame the fire as the central piece of the picture, with you tending to it as a devout follower.","(ПЫТЛИВОСТЬ) Не волнуйтесь. Я построю кадр так, чтобы огонь был главным, а вы — рядом, как набожный последователь, который за ним следит.",ai,,406027AB4012A07410BEE3AEBEFA5AEB
+"(INVESTIGATIVE) Don't worry. I'll ensure to frame the fire as the central piece of the picture, with you tending to it as a devout follower.","(ПЫТЛИВОСТЬ) Не волнуйтесь. Я построю кадр так, чтобы огонь был главным, а вы - рядом, как набожный последователь, который за ним следит.",ai,,406027AB4012A07410BEE3AEBEFA5AEB
 Thanks papa,"Спасибо, папаша",ai,,694EAB3940B5A78DCDE3958894805E0D
 "(SOCIAL) I was thinking of trying to capture the street behind you, to show all the people making their way towards the light.","(ОБЩИТЕЛЬНОСТЬ) Я думал снять улицу у вас за спиной, чтобы показать, как все идут к свету.",ai,,A4FEBE114B5D2A130A4BFB99BD0E417B
 ...Hrm.,...Хм.,ai,,F834756145E03EB047A7CC8C23B955A8
@@ -28,7 +28,7 @@ Oh? And which one is that?,О? И какой же?,ai,,28F38678405EDA0DF1BADC85B
 "Yup, uh, definitely a given.","Ага, э-э, само собой разумеется.",ai,,86000B234B7B5023B0011D8BBACEE071
 "The place of the Shepherd in this modern age! The shining beacon of truth, order, and justice — one that braves the elements and shines a light on the path of each and all who are pious enough to walk it.","Место Пастыря в наш современный век! Сияющий маяк истины, порядка и справедливости — тот, что бросает вызов стихиям и освещает путь каждому, кто достаточно благочестив, чтобы идти по нему.",ai,,7AF129B540D66F3D753A3BB5064E7E22
 "...And it's loyal tender, of course, who places his time and his life in the hands of the loving Shepherd. Or, you know. Something like that.","...И, конечно, его верный служитель, что вверяет своё время и свою жизнь в руки любящего Пастыря. Или, знаете, что-то в этом духе.",ai,,BCF903D94AC6379326875689F953E1BA
-"(INVESTIGATIVE) Don't worry. I'll ensure to frame the fire as the central piece of the picture, with you tending to it as a devout follower.","(ПЫТЛИВОСТЬ) Не волнуйтесь. Я построю кадр так, чтобы огонь был главным, а вы — рядом, как набожный последователь, который за ним следит.",ai,,C982C17249AA32DFB356A69748F1998E
+"(INVESTIGATIVE) Don't worry. I'll ensure to frame the fire as the central piece of the picture, with you tending to it as a devout follower.","(ПЫТЛИВОСТЬ) Не волнуйтесь. Я построю кадр так, чтобы огонь был главным, а вы - рядом, как набожный последователь, который за ним следит.",ai,,C982C17249AA32DFB356A69748F1998E
 "Yeah, uh...that. That's what I'm going for.","Да, э-э... это. Именно это я и хочу.",ai,,A282D3F6402572DCEB78F4B666FCFB3C
 "(SOCIAL) I was thinking of trying to capture the street behind you, to show all the people making their way towards the light.","(ОБЩИТЕЛЬНОСТЬ) Я думал снять улицу у вас за спиной, чтобы показать, как все идут к свету.",ai,,252B62994FA91AF52D492F9B289FB00D
 "...How sharply observed of you, boy. Perhaps I did judge you too harshly.","...Какой ты наблюдательный, мальчик. Возможно, я судил тебя слишком строго.",ai,,9A8954D543AF7BDC1D342391923D2C6C
@@ -38,7 +38,7 @@ Oh? And which one is that?,О? И какой же?,ai,,28F38678405EDA0DF1BADC85B
 "Hrm! Not a bad idea at all. I enjoy the symbolism immensely. All citizens, united, seeking out the guiding light of the Shepherd. Yes, very good.","Хм! Совсем неплохая мысль. Мне очень по душе этот символизм. Все граждане, единые, ищут путеводный свет Пастыря. Да, очень хорошо.",ai,,A15823214DF7822CD0EF5EBB63990CB9
 [Nod piously],[Благочестиво кивнуть],ai,,749E9D184CA4E880655D648BE369913B
 "So is that a yes, or...?",То есть это «да» или...?,ai,,D0C6DD584DE4E3B7F3948895995D3B57
-Sweet. Now scoot over - there's a particularly sad-looking lady coming up behind you.,Супер. А теперь подвиньтесь — за вами подходит какая-то особенно печальная дама.,ai,,117F16444B88E8B9EEFBB093DA3893F4
+Sweet. Now scoot over - there's a particularly sad-looking lady coming up behind you.,Супер. А теперь подвиньтесь - за вами подходит какая-то особенно печальная дама.,ai,,117F16444B88E8B9EEFBB093DA3893F4
 "That's very beautiful. Very beautiful, indeed.","Это очень красиво. Очень красиво, право слово.",ai,,EB33938040332C7EC06FA8A3DF8BC337
 [Wipe away a tear and nod],[Смахнуть слезу и кивнуть],ai,,A0006D7042828B854377F6B4B3C2828E
 Yes. I am religious boy.,Да. Я религиозный мальчик.,ai,,3135330F4DD10AFD2E9B96BCBD802ECB
@@ -89,11 +89,11 @@ What indeed. Thanks.,"И правда, к чему. Спасибо.",ai,,67AB099
 I don't know. You tell me.,Не знаю. Скажите вы.,ai,,B1FBB50146CA21A908AF9EAEF730961A
 "Nonsense. A man of the cloth wouldn't drink, it's forbidden! Don't be disrespectful of your elders, boy.","Вздор. Служитель веры не стал бы пить, это запрещено! Не смей неуважительно отзываться о старших, мальчик.",ai,,A10081EE446962B29A660BA4D1506566
 "Ask anyone, they'll tell you the same thing.","Спросите кого угодно, вам скажут то же самое.",ai,,E5437E254BF0BBFAA376E3BC909BC206
-"Not much of a believer? Tsk tsk. Faith isn't a pastime you can pick and choose, you know. It's a virtue.","Не очень-то верующий? Цк-цк. Вера — не хобби, которое можно выбирать по настроению. Это добродетель.",ai,,F605A7814A49AD3F9A760794E29C86CD
+"Not much of a believer? Tsk tsk. Faith isn't a pastime you can pick and choose, you know. It's a virtue.","Не очень-то верующий? Цк-цк. Вера - не хобби, которое можно выбирать по настроению. Это добродетель.",ai,,F605A7814A49AD3F9A760794E29C86CD
 Guess I'm not very virtuous.,"Видимо, добродетели во мне маловато.",ai,,3FCC97F249249128033A25838221A996
 "Way I see it, I can't make myself believe. Sorry.","Как я это вижу, заставить себя верить я не могу. Простите.",ai,,3F899B6B4D49D7C0B08EC0841B18AC8F
 "I don't care about any of this, old man.","Мне плевать на всё это, старик.",ai,,A7991BD14579C4807B3FE9AFE2AE2AFB
-"Like I said, the only one I saw touching the clock was that mechanic down the street. Did you speak to him?","Как я уже сказал, единственный, кого я видел рядом с часами, — тот механик с улицы. Ты с ним говорил?",ai,,E412347D48AAEA6D17DE83BFD0A0BF8D
+"Like I said, the only one I saw touching the clock was that mechanic down the street. Did you speak to him?","Как я уже сказал, единственный, кого я видел рядом с часами, - тот механик с улицы. Ты с ним говорил?",ai,,E412347D48AAEA6D17DE83BFD0A0BF8D
 "Not yet, but I will.","Пока нет, но поговорю.",ai,,AA69C79646C05881D389EBAF79183ABB
 "It just doesn't seem likely that he'd be the culprit. What, he secretly destroys clocks during work hours? Think he gets off on it?","Просто не похоже, чтобы виноват был он. Что, он втайне ломает часы в рабочее время? Думаете, ему это в кайф?",ai,,EDD97D814D3D2280732A0FBC0DC6B7D0
 "Not anyone who would leave it in a state of disrepair. Quite the opposite, actually. A mechanic came by a short while ago. Left down the way you came. If you hurry down the street, you might still catch him.","Никто, кто оставил бы их в таком состоянии. Скорее наоборот. Недавно заходил механик. Ушёл туда, откуда ты пришёл. Если поторопишься, возможно, ещё его нагонишь.",ai,,C16F0E3C41559513098603B0D872B513
@@ -120,9 +120,9 @@ Make sure they're wearing their masks. Can't have someone running around ruining
 It'll be fine.,Всё будет нормально.,ai,,C729860B4DB781D6D01BB2A2D7C00DDB
 "Yes, sir.","Да, сэр.",ai,,44C5C6D045247DD715398B9DA1CEFD98
 [Shrug],[Пожать плечами],ai,,57581EB849F6CEF02F363A892E467B59
-"A project, eh? Hrm. Very well. Hard work should never be looked down upon. You'd better make it worth your while. Wasteful work, however, is a sin against both time and the Shepherd himself.","Проект, значит? Хм. Что ж, ладно. Тяжёлый труд никогда не должен вызывать презрения. Постарайся, чтобы он того стоил. Впустую потраченный труд — грех и против времени, и против самого Пастыря.",ai,,680D0FA942E91A450A8F5D80535B20E5
+"A project, eh? Hrm. Very well. Hard work should never be looked down upon. You'd better make it worth your while. Wasteful work, however, is a sin against both time and the Shepherd himself.","Проект, значит? Хм. Что ж, ладно. Тяжёлый труд никогда не должен вызывать презрения. Постарайся, чтобы он того стоил. Впустую потраченный труд - грех и против времени, и против самого Пастыря.",ai,,680D0FA942E91A450A8F5D80535B20E5
 "Oh, wasting time? Me? Never.","О, тратить время впустую? Я? Никогда.",ai,,E34DE0CA4449C5D760E0BD80862B878E
-"It will be worthwhile. Once I finish this, I get to graduate.",Он будет того стоить. Закончу его — и выпущусь.,ai,,F8B6C2204403FDBC51BD95901B37C573
+"It will be worthwhile. Once I finish this, I get to graduate.",Он будет того стоить. Закончу его - и выпущусь.,ai,,F8B6C2204403FDBC51BD95901B37C573
 "You might not be, but I saw your friend over there, shivering. A night like this is no time to trade warmth for fashion — a vanity I see repeated by many of the young people that come to warm themselves here.","Может, и нет, но я видел твоего друга там, он дрожит. В такую ночь не время менять тепло на моду — это тщеславие, которое я вижу у многих молодых, приходящих сюда погреться.",ai,,6221BD2A4C1831A5B6D9B3A907CDB395
 Larry? He's fine. Just tired.,Ларри? С ним всё нормально. Просто устал.,ai,,C0346B9E469711E0B3A98A9EE6AA1038
 Larry isn't vain. Neither am I.,Ларри не тщеславен. Я тоже.,ai,,ACFC622D46EBA509656BF1AD2FB285E2
@@ -153,16 +153,16 @@ That's going to be a pass from me.,Это без меня.,ai,,8A90C218412F848BD
 "I'll be honest with you, gramps, I don't really know the scripture.","Скажу честно, дедуля, я не очень-то знаю Писание.",ai,,5CEE8C5648F36D3D7312EC8D2A0DBBF5
 "Aw, shucks. My doctor says I'm not supposed to have tenets.","Ой, надо же. Врач говорит, мне нельзя догматов.",ai,,F67886D6463216748A7C06A00F734FC5
 Not much of a singer.,Из меня певец никакой.,ai,,30E267A5478544BCC727D0ABB61832F8
-"Don't get cute with me, boy. Prayer, of course, is a fine start, but the true core of devotion lies in keeping the Shepherd and his teachings in your mind and heart at all times.","Не умничай со мной, мальчик. Молитва, конечно, хорошее начало, но истинное ядро преданности — в том, чтобы держать Пастыря и Его учение в уме и сердце всегда.",ai,,EFE57AF6450BB42B02F07D8373D0DFCC
+"Don't get cute with me, boy. Prayer, of course, is a fine start, but the true core of devotion lies in keeping the Shepherd and his teachings in your mind and heart at all times.","Не умничай со мной, мальчик. Молитва, конечно, хорошее начало, но истинное ядро преданности - в том, чтобы держать Пастыря и Его учение в уме и сердце всегда.",ai,,EFE57AF6450BB42B02F07D8373D0DFCC
 "No offence, man, but I don't think the Shepherd would be too pleased with what's on my mind.","Без обид, дедуля, но не думаю, что Пастырь обрадовался бы тому, что у меня на уме.",ai,,E0EAE1DE479AAFD15A873B91435AEE4E
 "So what, go to church? Confess your sins? Be a good citizen.","И что, идти в церковь? Исповедоваться? Быть хорошим гражданином.",ai,,6E4E6ED34B57139D3948E390B7EFEDCC
 "Then I'll go do just that. Later, old man.","Тогда пойду именно этим и займусь. Пока, старик.",ai,,525801524068B31C6F94928931E3A6CE
-"Then read it, boy. Ignorance is no excuse for indolence.","Тогда прочти его, мальчик. Невежество — не оправдание для лени.",ai,,C19FF3CB4AC894CE9FC491946E1DC8B1
-(INVESTIGATIVE) And eloquence is no substitute for wisdom.,(ПЫТЛИВОСТЬ) А красноречие — не замена мудрости.,ai,,060122F94D96CEF926BE258ECB586B4A
+"Then read it, boy. Ignorance is no excuse for indolence.","Тогда прочти его, мальчик. Невежество - не оправдание для лени.",ai,,C19FF3CB4AC894CE9FC491946E1DC8B1
+(INVESTIGATIVE) And eloquence is no substitute for wisdom.,(ПЫТЛИВОСТЬ) А красноречие - не замена мудрости.,ai,,060122F94D96CEF926BE258ECB586B4A
 "(SARCASTIC) Yeah? Well, that's just like, your opinion, man.","(САРКАЗМ) Да? Ну, это, типа, просто ваше мнение, старик.",ai,,8EE08A50408882B2480C0E8887D66187
 "(SOCIAL) Eh. If I learn something, I'd rather learn it from people.","(ОБЩИТЕЛЬНОСТЬ) Эх. Если мне и нужно чему-то научиться, я лучше научусь этому у людей.",ai,,4AC9CB2741628470641039B7E1D581BA
 "...Cool. I'll go read, then. Later, old man.","...Круто. Тогда пойду читать. Пока, старик.",ai,,7C87616A49BD7D83E954379C064D857B
-"Hrm. Perhaps I judged you a little harshly, son. You may be clever, but intelligence is a virtue only when it is put to good use. Are you putting it to good use?","Хм. Возможно, я был к тебе слишком строг, сынок. Ты, может, и умён, но ум — добродетель лишь тогда, когда служит доброму делу. Ты применяешь его с пользой?",ai,,86E874434FB92ACB15DB9D8DE16A95F0
+"Hrm. Perhaps I judged you a little harshly, son. You may be clever, but intelligence is a virtue only when it is put to good use. Are you putting it to good use?","Хм. Возможно, я был к тебе слишком строг, сынок. Ты, может, и умён, но ум - добродетель лишь тогда, когда служит доброму делу. Ты применяешь его с пользой?",ai,,86E874434FB92ACB15DB9D8DE16A95F0
 That depends. I'd like to ask you about some things.,Смотря как. Я хотел бы спросить вас кое о чём.,ai,,48B522F745FC11098021918735957AF4
 Very rarely.,Очень редко.,ai,,F4D6D25543ECB69C407006B9F947C8AC
 "I was just about to. See you later, old man.","Я как раз собирался. Увидимся, старик.",ai,,05ACB81745323EB777E288BD226CC129
@@ -190,7 +190,7 @@ Hah. You got me.,Ха. Поймали.,ai,,965D61474671231A0C35EA9DF79E6A06
 Oh yeah. One of my better qualities.,О да. Одно из моих лучших качеств.,ai,,B488419A4E619AA30EAE6AA8EFF4AFF2
 "If your heart is truly in it, then yes.","Если твоё сердце действительно в этом, то да.",ai,,3A04CAAC4DA8AB3DB0EEECBB21193D03
 "I'll give it some thought, how about that?","Я об этом подумаю, как вам?",ai,,57EC224C4CBC5F0205D925914BFCAF89
-"Oh, man. Salvation is easy.","Ох, чувак. Спасение — это просто.",ai,,058823D14F666C7B4F114E9E35F19BAD
+"Oh, man. Salvation is easy.","Ох, чувак. Спасение - это просто.",ai,,058823D14F666C7B4F114E9E35F19BAD
 "Oh. Bummer. Well, see ya.","А. Жаль. Ну, пока.",ai,,D7709E36426A227BD8BC15ACC40A85A2
 Hrm. And may I ask why?,"Хм. А можно узнать, почему?",ai,,1EE071BC4366BF6807AB4DB9EBDD5247
 Probably better if you don't.,"Наверное, лучше не стоит.",ai,,AD0AC5394689FE80A5BEECA27F71DCB8
@@ -207,7 +207,7 @@ Hrm. Go ahead.,Хм. Бросай.,ai,,436CCCFC4FDCEC29F83B45AA218E84EA
 "Thanks, Shepherd. You're baller.","Спасибо, Пастырь. Вы крутой мужик.",ai,,22A148884B5B37A1397C7EA9800C6AE1
 "[Loudly] Goodbye, porn collection.","[Громко] Прощай, коллекция порнухи.",ai,,CA5CF7564DBF294F2CBE0F9D39671D36
 Thanks. [Throw it in],Спасибо. [Бросить в огонь],ai,,72621213477C9E9180004D84B078A9E1
-"...Then I am pleased. Well done, lad. I'm glad to see you've come around to respect your elders, and above all, the Shepherd.","...Тогда я доволен. Молодец, юноша. Рад видеть, что ты научился уважать старших, а прежде всего — Пастыря.",ai,,394B32F4435E20EE7515BEA112506A39
+"...Then I am pleased. Well done, lad. I'm glad to see you've come around to respect your elders, and above all, the Shepherd.","...Тогда я доволен. Молодец, юноша. Рад видеть, что ты научился уважать старших, а прежде всего - Пастыря.",ai,,394B32F4435E20EE7515BEA112506A39
 "...Uh-huh. Well, I'm off to go sing praises. Later, old man.","...Ага. Ну, пойду воспевать хвалу. Пока, старик.",ai,,9FDDD62849339EC7E7D35AABBA221550
 Oh yeah. I love that shit.,О да. Обожаю эту хрень.,ai,,0AB6D5D44D5B04C40126FAA62FAEB2F5
 "Of course, father. Papa. Daddy.","Конечно, отец. Папа. Папочка.",ai,,FBA0A5344B0CF35F03915EAB5C0E8C1E
@@ -215,7 +215,7 @@ Oh yeah. I love that shit.,О да. Обожаю эту хрень.,ai,,0AB6D5D4
 "So is that a no, or...?",То есть это «нет» или...?,ai,,BB4341804D2AA6E61588558A02C498DC
 "Oh, sorry. Mind if I throw this envelope in the beacon of the Shepherd's light?","О, простите. Можно бросить этот конверт в маяк света Пастыря?",ai,,7C461EBA4A36510FEFCC7D8FFDA90F92
 "[Toss it in, grin, and run away]","[Швырнуть в огонь, ухмыльнуться и убежать]",ai,,CE4077D04BEF30C79F53578E8B044949
-"Then I shall wait and see. Patience is a virtue, don't you know?","Тогда я подожду и посмотрю. Терпение — добродетель, разве ты не знаешь?",ai,,82F0F6B84624833475AEDDB1037088AD
+"Then I shall wait and see. Patience is a virtue, don't you know?","Тогда я подожду и посмотрю. Терпение - добродетель, разве ты не знаешь?",ai,,82F0F6B84624833475AEDDB1037088AD
 "Uh-huh. Say, can we talk about something else?","Ага. Слушайте, можно поговорить о чём-нибудь другом?",ai,,E3F5F14D4B99774617300F9AB5FA7E59
 [Mutter] Of course it fucking is.,"[Пробормотать] Конечно, блин, так оно и есть.",ai,,9AE0B69B416C79701BB50F91A10D28E2
 Enjoy the wait. See ya.,Приятного ожидания. Пока.,ai,,0D825F7849DD9E240EF1E198ACF5E093
@@ -292,7 +292,7 @@ Fuck off. [Leave],Отвали. [Уйти],ai,,CBA0A4F94BB56DB03FBA04A50CC8700E
 She knows my face and name?,Она знает моё лицо и имя?,ai,,73C41E634730632AD21C4CB9D24B147E
 How?,Как?,ok,,247FDF8A4E275440B82FC789D8BC8AA9
 ...And the masks?,...А маски?,ai,,E9ED975F43BEEDF9987AAC8F37D783D1
-"Every time a poor sinner complains, you see, she's there to listen and worsen his hurt. She knows what ails us because we are so vocal about it. That's why it's a virtue to carry your burdens with grace and silence.","Видишь ли, каждый раз, когда бедный грешник жалуется, она тут как тут: слушает и усугубляет его боль. Она знает, что нас гложет, потому что мы так громко об этом говорим. Поэтому добродетель — нести свою ношу с достоинством и в молчании.",ai,,297B61EA41CA4BCFAF5505AB3BD9EB15
+"Every time a poor sinner complains, you see, she's there to listen and worsen his hurt. She knows what ails us because we are so vocal about it. That's why it's a virtue to carry your burdens with grace and silence.","Видишь ли, каждый раз, когда бедный грешник жалуется, она тут как тут: слушает и усугубляет его боль. Она знает, что нас гложет, потому что мы так громко об этом говорим. Поэтому добродетель - нести свою ношу с достоинством и в молчании.",ai,,297B61EA41CA4BCFAF5505AB3BD9EB15
 "Bottle it all up. Solid advice, father.","Держать всё в себе. Дельный совет, отец.",ai,,DEE0D8DD47A15C7E5EB43FAF35F09E12
 So we stay quiet so she doesn't know our names — and the masks are for our faces?,"То есть мы молчим, чтобы она не узнала наших имён, а маски — чтобы скрыть лица?",ai,,FD291647458823E830CB26B700EF2450
 Let me ask you something else.,Дайте спросить вас о другом.,ai,,043A919247EBF13CFB407AB1AD4C45BE

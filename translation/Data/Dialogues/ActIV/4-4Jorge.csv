@@ -1,5 +1,5 @@
 ﻿source,translation,status,namespace,key
-Come on. Let's not keep him waiting. I don't want him to see us talking to each other too much - he might get suspicious.,"Пошли. Не будем заставлять его ждать. Не хочу, чтобы он видел, как мы слишком много шепчемся, — ещё заподозрит что-нибудь.",ai,,2B0F8E9D4DBC65F3AD6FF996E5C0DD91
+Come on. Let's not keep him waiting. I don't want him to see us talking to each other too much - he might get suspicious.,"Пошли. Не будем заставлять его ждать. Не хочу, чтобы он видел, как мы слишком много шепчемся, - ещё заподозрит что-нибудь.",ai,,2B0F8E9D4DBC65F3AD6FF996E5C0DD91
 You don't want to know how it went?,"Ты не хочешь узнать, как всё прошло?",ai,,34B8BB4545A5B1CF284C1C966A325820
 "Yeah, you're right. Let's go.","Да, ты прав. Пошли.",ai,,EC191E964702AF9B161AAF87F960EBAF
 Well I can. That's an engine coming down the wasteland. Sounds like our visitor is early. Is everything ready? We all set?,"А я слышу. По пустоши едет машина. Похоже, наш гость прибыл раньше. Всё готово? Мы готовы?",ai,,9F5947164904BBEB578B0F8DDAF1A0CC
@@ -19,7 +19,7 @@ I think I'd like your help with him. He's a hard man to deal with one on one.,М
 "Yes, actually. I've been watching him carefully as the two of you have been talking, and I think I've spotted something...pretty serious.","Вообще-то да. Я внимательно наблюдал за ним, пока вы разговаривали, и, кажется, кое-что заметил... довольно серьёзное.",ai,,62BA5D3F4F565C576FCBCAA0237ECA24
 Which was?,И что же?,ai,,15683516436352F825C17292BBD8F6DA
 Get to the point.,Ближе к делу.,ai,,88C9F3FC453BB12B408024B0DA3CC0E3
-"That might be true, but I think I can be plenty useful here. I've been watching him carefully as we talk - as you're distracting him with conversation.","Может, и так, но, по-моему, я тут могу здорово пригодиться. Я внимательно наблюдаю за ним, пока мы разговариваем, — пока ты отвлекаешь его беседой.",ai,,0BC95AD7412E9C4C36ACD3B3D1362CAC
+"That might be true, but I think I can be plenty useful here. I've been watching him carefully as we talk - as you're distracting him with conversation.","Может, и так, но, по-моему, я тут могу здорово пригодиться. Я внимательно наблюдаю за ним, пока мы разговариваем, - пока ты отвлекаешь его беседой.",ai,,0BC95AD7412E9C4C36ACD3B3D1362CAC
 And did you see anything?,И ты что-нибудь заметил?,ai,,DE9607C94B723DE9E4B3909477D22C60
 Get to the point.,Ближе к делу.,ai,,D24575924DFFC5C08FE233ACBAAFE766
 "He's armed, Eli. I wasn't sure at first, but he's got a gun under that jacket.","Он вооружён, Илай. Сначала я не был уверен, но у него под курткой пистолет.",ai,,6684529A453B7EE0E62CC594C70E0072
@@ -30,11 +30,11 @@ What do you think that means?,"Как думаешь, что это значит
 "(CYNIC) Well, now we know for certain that he's dangerous.","(ЦИНИК) Что ж, теперь мы точно знаем, что он опасен.",ai,,726815B24EF1DE58998DDB97F2612B35
 "(IDEALIST) I mean, there's a chance he hides it as to not scare or worry us.","(ИДЕАЛИСТ) Ну, может быть, он прячет его, чтобы нас не пугать и не тревожить.",ai,,0D3593CE47D747E610CA4CB60EC28218
 "(REALIST) Regardless of reason, it's good to know. I'm thankful you spotted it.","(РЕАЛИСТ) Как бы то ни было, хорошо, что мы это знаем. Спасибо, что заметил.",ai,,BA3956334CEF8E2F02CFECBE199C1886
-"Well, I understand needing one out here - self-defense and all that - but I don't like the fact that it's so concealed. I had to check a couple times to make sure.","Ну, я понимаю, что здесь без оружия никуда — самооборона и всё такое, — но мне не нравится, что он так тщательно его прячет. Мне пришлось пару раз присмотреться, чтобы убедиться.",ai,,57EF28CE47BFB22492BDEA8FB413661B
+"Well, I understand needing one out here - self-defense and all that - but I don't like the fact that it's so concealed. I had to check a couple times to make sure.","Ну, я понимаю, что здесь без оружия никуда - самооборона и всё такое, - но мне не нравится, что он так тщательно его прячет. Мне пришлось пару раз присмотреться, чтобы убедиться.",ai,,57EF28CE47BFB22492BDEA8FB413661B
 "(CYNIC) Well, now we know for certain that he's dangerous.","(ЦИНИК) Что ж, теперь мы точно знаем, что он опасен.",ai,,D028FEAD4A614C7306BA0487172A63D3
 "(IDEALIST) I mean, there's a chance he hides it as to not scare or worry us.","(ИДЕАЛИСТ) Ну, может быть, он прячет его, чтобы нас не пугать и не тревожить.",ai,,4211494D499AAEF25180EFA11A3234EC
 "(REALIST) Regardless of reason, it's good to know. I'm thankful you spotted it.","(РЕАЛИСТ) Как бы то ни было, хорошо, что мы это знаем. Спасибо, что заметил.",ai,,FEFB6AEA4D21811F2C3E97AE286B1027
-It's not. I understand needing one out here - self-defense and all that - but I don't like the fact that it's so concealed. I had to check a couple times to make sure.,"Ещё бы. Я понимаю, что здесь без оружия никуда — самооборона и всё такое, — но мне не нравится, что он так тщательно его прячет. Мне пришлось пару раз присмотреться, чтобы убедиться.",ai,,48944C74441CB56E18E7168707F26635
+It's not. I understand needing one out here - self-defense and all that - but I don't like the fact that it's so concealed. I had to check a couple times to make sure.,"Ещё бы. Я понимаю, что здесь без оружия никуда - самооборона и всё такое, - но мне не нравится, что он так тщательно его прячет. Мне пришлось пару раз присмотреться, чтобы убедиться.",ai,,48944C74441CB56E18E7168707F26635
 "(CYNIC) Well, now we know for certain that he's dangerous.","(ЦИНИК) Что ж, теперь мы точно знаем, что он опасен.",ai,,D85D0F7B4D298B4B573E0198180B27EF
 "(IDEALIST) I mean, there's a chance he hides it as to not scare or worry us.","(ИДЕАЛИСТ) Ну, может быть, он прячет его, чтобы нас не пугать и не тревожить.",ai,,E00974F242D6BEEE316B0CBD136F8186
 "(REALIST) Regardless of reason, it's good to know. I'm thankful you spotted it.","(РЕАЛИСТ) Как бы то ни было, хорошо, что мы это знаем. Спасибо, что заметил.",ai,,1C8069FC4556074133085C8F2C115DFB
@@ -51,7 +51,7 @@ Why do you ask?,Почему ты спрашиваешь?,ai,,E578353E42C5F43E6B
 I don't think so.,Не думаю.,ai,,9D3079F7495F6EB330EBD897C17C60EC
 I have no clue. I can't read him.,Понятия не имею. Я не могу его раскусить.,ai,,F26990124B0A37973A454281FF026AD4
 "Probably, yes.","Скорее всего, да.",ai,,7DAADE234E4546C9F29D8E815CA12C58
-"So am I, but I can't say I'm entirely surprised. Remember what I said about the other expeditions? This seems like a likely explanation. Tell me, Eli - does he consider us a threat?","Я тоже, но не могу сказать, что так уж удивлён. Помнишь, что я говорил о других экспедициях? Это похоже на объяснение. Скажи мне, Илай, — он считает нас угрозой?",ai,,9ED7EE2D41D2C7EF61C2A3AA229994B7
+"So am I, but I can't say I'm entirely surprised. Remember what I said about the other expeditions? This seems like a likely explanation. Tell me, Eli - does he consider us a threat?","Я тоже, но не могу сказать, что так уж удивлён. Помнишь, что я говорил о других экспедициях? Это похоже на объяснение. Скажи мне, Илай, - он считает нас угрозой?",ai,,9ED7EE2D41D2C7EF61C2A3AA229994B7
 Why do you ask?,Почему ты спрашиваешь?,ai,,952FA1A344D58BDC3939499BE54412D7
 I don't think so.,Не думаю.,ai,,CC4EFAC4418A481A28D33089AC5CAF52
 I have no clue. I can't read him.,Понятия не имею. Я не могу его раскусить.,ai,,AA43D15F4042EC6436606188E6276796
@@ -66,7 +66,7 @@ Do you have a plan?,У тебя есть план?,ai,,01C74DA74C8CDEDE5E077AB81
 Then we might need to take some kinds of precautions.,"Тогда, возможно, нам стоит принять кое-какие меры предосторожности.",ai,,F42AD9764E734040871992BB5A11687B
 You're worrying too much. I can handle this.,Ты слишком переживаешь. Я с этим справлюсь.,ai,,54307B534B855753CB0894AED5F3872D
 Do you have a plan?,У тебя есть план?,ai,,E3B463D64E0F7D81E95F60BF11B5D4D5
-"Because regardless of whether he believes our story or not, he may consider us harmless or dangerous. If the latter, there's no telling how he'll act, no matter how much he believes us.","Потому что неважно, верит он в нашу историю или нет, — он может считать нас либо безобидными, либо опасными. Если второе, то неизвестно, как он поступит, как бы он нам ни верил.",ai,,285A07EA4AD6FBE86BC330A887C7B466
+"Because regardless of whether he believes our story or not, he may consider us harmless or dangerous. If the latter, there's no telling how he'll act, no matter how much he believes us.","Потому что неважно, верит он в нашу историю или нет, - он может считать нас либо безобидными, либо опасными. Если второе, то неизвестно, как он поступит, как бы он нам ни верил.",ai,,285A07EA4AD6FBE86BC330A887C7B466
 I don't think our visitor considers us a threat.,"Не думаю, что наш гость считает нас угрозой.",ai,,1C8F70B14688DDDC2C797187C10BED96
 "Unfortunately, I have no clue what he thinks of us.","К сожалению, я понятия не имею, что он о нас думает.",ai,,930B87EF4A0A48A25DA1838E23F00C6A
 "I'm pretty sure he's not taking chances, and considers us a threat no matter what.","Я почти уверен, что он не рискует и в любом случае считает нас угрозой.",ai,,69DCF8BE484FCCA9CA20E3BE6F731DC5
@@ -100,7 +100,7 @@ You too.,Взаимно.,ok,,7489664849D68D140D7CB48506DEC851
 "Alright. You or me, on our own, would be no match for a man with a gun. The two of us, however...well, there's at least a fighting chance. Of course, there's also the possibility that one of us will get hurt.","Ладно. Поодиночке ни ты, ни я не справимся с вооружённым мужиком. Но вдвоём... что ж, по крайней мере, у нас будет шанс. Конечно, есть вероятность, что один из нас пострадает.",ai,,F91193DE4C40306FB8CDC6A2B788329A
 Are you saying we could try to take him down?,"Ты хочешь сказать, что мы могли бы попытаться его одолеть?",ai,,4A568E8E41DC28C1351C5D985530DFD9
 That's a risk I'd be willing to take.,На такой риск я готов пойти.,ai,,2F9668E34014F58AA43E21865CA3E73D
-"And while we're out here, we figure out what exactly this thing is - as well as what HQ's intentions are.","А пока мы здесь, выясним, что это за штука на самом деле — и что задумал штаб.",ai,,4B2DC3374B7BD4ADDC153BBA17574F89
+"And while we're out here, we figure out what exactly this thing is - as well as what HQ's intentions are.","А пока мы здесь, выясним, что это за штука на самом деле - и что задумал штаб.",ai,,4B2DC3374B7BD4ADDC153BBA17574F89
 Think it will work?,"Думаешь, сработает?",ai,,559B6B50462D0F329951A9AE52D37CD9
 Sounds good. What else?,Звучит неплохо. Что ещё?,ai,,32B7773D4757794455BBDCB062C96C7C
 "We could try, yes. There's no telling if it would work, but I can certainly tell you that I'd rather go down trying to wrestle a gun out of someone's hand than do nothing and stare down the barrel.","Можем попытаться, да. Неизвестно, получится ли, но одно я тебе скажу точно: лучше уж я сдохну, пытаясь вырвать у кого-то пистолет, чем буду сидеть сложа руки и смотреть в дуло.",ai,,8B9D09F0429D151715FEA1A2FDB94BA3
@@ -114,10 +114,10 @@ Do you have a better idea?,У тебя есть идея получше?,ai,,996
 You could sneak up on him.,Ты мог бы подкрасться к нему.,ai,,87A203D145C1EB4BFB58A39629803707
 Let me try to talk to him. I'm confident I can figure this out.,"Дай мне попробовать с ним поговорить. Я уверен, что смогу что-нибудь придумать.",ai,,4A40E44048177A2E41956495EEA46F94
 "...No, you're right. It's the only way.","...Нет, ты прав. Другого выхода нет.",ai,,E8A8175E4255DB1D11E7768331ADEE19
-"If you think you can, sure. Give it a shot- fighting could be our backup plan. If you see an opening, give me the signal, and we jump him.","Если думаешь, что сможешь, — конечно. Попробуй. Драка будет нашим запасным планом. Если увидишь возможность, подай мне сигнал, и мы на него набросимся.",ai,,0EEB1B354B5FA4F44F125BAE0D8A8EDD
+"If you think you can, sure. Give it a shot- fighting could be our backup plan. If you see an opening, give me the signal, and we jump him.","Если думаешь, что сможешь, - конечно. Попробуй. Драка будет нашим запасным планом. Если увидишь возможность, подай мне сигнал, и мы на него набросимся.",ai,,0EEB1B354B5FA4F44F125BAE0D8A8EDD
 Let's hope it doesn't come to that.,"Будем надеяться, до этого не дойдёт.",ai,,5C6C1C4F45EBF108F75C4892EA971287
 Will do.,Хорошо.,ok,,2A141DA84C3421E0B2992A9CC1BD9FE7
-"...Have you seen me, man? I'm not exactly the stealthiest guy around. Look, if you want to try something else, you can - fighting could be our backup plan. If you see an opening, give me the signal, and we jump him.","...Ты на меня смотрел вообще, чувак? Я не самый незаметный парень на свете. Слушай, если хочешь попробовать что-то другое — пожалуйста. Драка будет нашим запасным планом. Если увидишь возможность, подай мне сигнал, и мы на него набросимся.",ai,,C933A1ED496D6B5A7A0AE082B4CCCC5E
+"...Have you seen me, man? I'm not exactly the stealthiest guy around. Look, if you want to try something else, you can - fighting could be our backup plan. If you see an opening, give me the signal, and we jump him.","...Ты на меня смотрел вообще, чувак? Я не самый незаметный парень на свете. Слушай, если хочешь попробовать что-то другое - пожалуйста. Драка будет нашим запасным планом. Если увидишь возможность, подай мне сигнал, и мы на него набросимся.",ai,,C933A1ED496D6B5A7A0AE082B4CCCC5E
 Let's hope it doesn't come to that.,"Будем надеяться, до этого не дойдёт.",ai,,8E1D6A5D489C49068CC7AA8212F91274
 Will do.,Хорошо.,ok,,BF33CC6841E97C92E01AD1BE100997BF
 "Yeah. It's going to be incredibly risky, no matter what. If you make the call, you need to be completely certain we can do it, alright?","Да. Это в любом случае будет чертовски рискованно. Если решишь подать сигнал, ты должен быть абсолютно уверен, что у нас получится, ясно?",ai,,42C8E711404F298252ACD9B10316BAB1
@@ -126,13 +126,13 @@ I'm not sure I'll ever be completely certain. You just need to go when I say go.
 "Only when you're ready. When you think we can do it. I need you to be completely certain before we make a move, alright? Otherwise it's not going to end well for either of us.","Только когда будешь готов. Когда будешь думать, что у нас получится. Мне нужно, чтобы ты был абсолютно уверен, прежде чем мы что-то предпримем, ясно? Иначе это плохо кончится для нас обоих.",ai,,3271C8B3459CF595569AC3B223BC711E
 Don't worry. I'll make sure.,Не волнуйся. Я буду уверен.,ai,,82197BAB417E74B5C285E8B69A7EFEB4
 I'm not sure I'll ever be completely certain. You just need to go when I say go.,"Не знаю, буду ли я когда-нибудь абсолютно уверен. Ты просто действуй, когда я скажу.",ai,,1A456B0B474486340DBFF2A680CB138D
-"Right. I'd rather risk my credibility than my life anyway. If we sell it well, who knows - maybe we get a ride back to the City.","Точно. В любом случае лучше рискнуть репутацией, чем жизнью. Если хорошо всё преподнесём, кто знает — может, нас даже подбросят обратно в Город.",ai,,8D690DD34844C304E5C758B3A496B039
+"Right. I'd rather risk my credibility than my life anyway. If we sell it well, who knows - maybe we get a ride back to the City.","Точно. В любом случае лучше рискнуть репутацией, чем жизнью. Если хорошо всё преподнесём, кто знает - может, нас даже подбросят обратно в Город.",ai,,8D690DD34844C304E5C758B3A496B039
 Think it will work?,"Думаешь, сработает?",ai,,79B090504B9BF7515861CE8476EC2D52
 Sounds good. What else?,Звучит неплохо. Что ещё?,ai,,163D057D4CAE6F0DC1F01D8906EEFA14
-Alright. Now go on - he was heading towards the Artifact. I definitely don't want him to spend much time with that thing alone. I'll be here.,"Ладно. А теперь иди — он направлялся к Артефакту. Совсем не хочу, чтобы он долго оставался с этой штукой наедине. Я буду здесь.",ai,,187A663346A1C425B99F5F84B3BA8030
+Alright. Now go on - he was heading towards the Artifact. I definitely don't want him to spend much time with that thing alone. I'll be here.,"Ладно. А теперь иди - он направлялся к Артефакту. Совсем не хочу, чтобы он долго оставался с этой штукой наедине. Я буду здесь.",ai,,187A663346A1C425B99F5F84B3BA8030
 Yeah. I'm going.,Да. Иду.,ai,,9FEC5EC94AA8ECCDA4948E8F521AFD85
 Will you be alright?,Ты справишься?,ai,,CAA919514F1CCF5ABAB4CC9844C7A153
-I suppose so. Now go on - he was heading towards the Artifact. I definitely don't want him to spend much time with that thing alone. I'll be here.,"Думаю, да. А теперь иди — он направлялся к Артефакту. Совсем не хочу, чтобы он долго оставался с этой штукой наедине. Я буду здесь.",ai,,7BF62E44469870B20838ACA9CC85E696
+I suppose so. Now go on - he was heading towards the Artifact. I definitely don't want him to spend much time with that thing alone. I'll be here.,"Думаю, да. А теперь иди - он направлялся к Артефакту. Совсем не хочу, чтобы он долго оставался с этой штукой наедине. Я буду здесь.",ai,,7BF62E44469870B20838ACA9CC85E696
 Yeah. I'm going.,Да. Иду.,ai,,3245789A496560F4AB6B7EBE199ADDBC
 Will you be alright?,Ты справишься?,ai,,375374EC44CA2B0A0650BEA1ED61922C
 "I can't do it without you, Eli. I'd just hate if we go down without a fight.","Я не смогу сделать это без тебя, Илай. Просто не хочется сдаваться без боя.",ai,,7CE14BAC4733D68E165D3482D69F83C8
@@ -148,23 +148,23 @@ Yeah. Just stay calm.,Да. Только сохраняй спокойствие
 You're right. Lets' go.,Ты прав. Пошли.,ai,,883CAF764B523C9D5F2F448AAE250A2F
 I will be. Now come on. Let's go.,Буду. А теперь пошли.,ai,,224DF8774194481876FECA93B5D6B520
 [Leave],[Выйти],ok,,C09592914AA75CA4C43E859C3A9198A1
-"I won't. Not without you helping me. Now come on, man. He's watching us.","Не выкину. Без твоей помощи — нет. А теперь пошли, чувак. Он на нас смотрит.",ai,,55A20849427DAE3FB9DDD2A07D5ADBE8
+"I won't. Not without you helping me. Now come on, man. He's watching us.","Не выкину. Без твоей помощи - нет. А теперь пошли, чувак. Он на нас смотрит.",ai,,55A20849427DAE3FB9DDD2A07D5ADBE8
 [Leave],[Выйти],ok,,B374245C42F78F003B13FD95B7FF2E64
-"I'll do my best, man. Now come on - he's watching us. We should join him by the car.","Постараюсь, чувак. А теперь пошли — он на нас смотрит. Надо подойти к нему, к машине.",ai,,3C1776234825B41AA4923D9F91CA0177
+"I'll do my best, man. Now come on - he's watching us. We should join him by the car.","Постараюсь, чувак. А теперь пошли - он на нас смотрит. Надо подойти к нему, к машине.",ai,,3C1776234825B41AA4923D9F91CA0177
 [Leave],[Выйти],ok,,4B24D5EA49D1CAA8B51902B2A8B2A864
 "Exactly. We're the heads of research on this. Indispensible. Which, I guess, is true. ","Именно. Мы руководим исследованиями. Незаменимы. Что, в общем-то, правда. ",ai,,77D390DB400FB5CFC403E69B35A718CA
 Think it will work?,"Думаешь, сработает?",ai,,DCE16E854047572976102BB0479D0214
 Sounds good. What else?,Звучит неплохо. Что ещё?,ai,,A74BF35C4FE5C4B1011716B4562BEE75
-"We're telling them the Artifact is highly volatile. Bringing it into the City is an unreasonable risk - it's better off out here, where the two of us can keep conducting experiments. Possibly with a small team. Got it?","Скажем им, что Артефакт крайне нестабилен. Везти его в Город — неоправданный риск. Ему лучше оставаться здесь, где мы вдвоём сможем продолжать эксперименты. Может, с небольшой командой. Понял?",ai,,24B11416499009C9DE9E57ADECE22669
+"We're telling them the Artifact is highly volatile. Bringing it into the City is an unreasonable risk - it's better off out here, where the two of us can keep conducting experiments. Possibly with a small team. Got it?","Скажем им, что Артефакт крайне нестабилен. Везти его в Город - неоправданный риск. Ему лучше оставаться здесь, где мы вдвоём сможем продолжать эксперименты. Может, с небольшой командой. Понял?",ai,,24B11416499009C9DE9E57ADECE22669
 Think it will work?,"Думаешь, сработает?",ai,,8708BFEB466B92387F89BA80B632BB78
 Yeah. Anything else?,Да. Что-нибудь ещё?,ai,,F08A6E87400F2FF57B84BBAFDF0A60D6
 "We're telling them we messed up. The Artifact's dead, and there's nothing we or HQ can do about it. We're...incompetent, perhaps. Got it?","Скажем им, что мы облажались. Артефакт мёртв, и ни мы, ни штаб ничего с этим не поделаем. Мы... некомпетентны, пожалуй. Понял?",ai,,01CD2C0E4DD539E882F6DF816C5AB17B
 Think it will work?,"Думаешь, сработает?",ai,,D99F20B84AE9DF2731CFB5931D7947C2
 Yeah. Anything else?,Да. Что-нибудь ещё?,ai,,46FB2ADD4A4CAD350FAFF08DE2C35A88
-"We, the two of us, are the sole experts when it comes to the Artifact. We'll need equipment and a safe lab in the City to work on it. Got it?","Мы двое — единственные специалисты по Артефакту. Чтобы работать с ним, нам понадобятся оборудование и безопасная лаборатория в Городе. Понял?",ai,,3E3CB38D473421F3C6E8419E4715E99D
+"We, the two of us, are the sole experts when it comes to the Artifact. We'll need equipment and a safe lab in the City to work on it. Got it?","Мы двое - единственные специалисты по Артефакту. Чтобы работать с ним, нам понадобятся оборудование и безопасная лаборатория в Городе. Понял?",ai,,3E3CB38D473421F3C6E8419E4715E99D
 Think it will work?,"Думаешь, сработает?",ai,,15C4234D421F2EF7A2111DA192741ACF
 Yeah. Anything else?,Да. Что-нибудь ещё?,ai,,2994646644B91A1693DD33BB4A6826C2
-It has to. Can't afford not to believe in it now. Speaking of - you sure you got everything ready?,Должно. Сейчас уже нельзя в это не верить. Кстати — ты точно всё подготовил?,ai,,3B0BABB548029AA579973DA0CF45D6B9
+It has to. Can't afford not to believe in it now. Speaking of - you sure you got everything ready?,Должно. Сейчас уже нельзя в это не верить. Кстати - ты точно всё подготовил?,ai,,3B0BABB548029AA579973DA0CF45D6B9
 ...I hope so.,...Надеюсь.,ai,,85CB9A71418066B36348D0A4B93AD99B
 Yeah. I'm certain.,Да. Точно.,ai,,624496824BBE56F3228C06BEBF32C511
 "Let's go through everything, step by step.",Давай пройдёмся по всему по порядку.,ai,,D401815645EA43F412E87A8420360DC5
@@ -186,7 +186,7 @@ Right - we got the story. How's the Artifact looking?,"Так, с историе
 Pacified. Looked still and docile moments ago.,Успокоился. Только что был неподвижен и смирен.,ai,,545FC0824E8F067A0A0B5180B784B5EA
 Terrifying. Agitating it yesterday didn't exactly score me any points with it.,"Жутко. После того как я вчера его растревожил, он меня явно не полюбил.",ai,,2323EEC9466E34CC5E72FBB24B57A701
 Same as usual. Left it alone last night.,Как обычно. Ночью я его не трогал.,ai,,F7F45A364D64C5D9A15663AF5BED1A7B
-"If that's what you think is needed, then sure. Just remember to keep that in mind for the rest of the visit.","Если считаешь, что так нужно, — ладно. Только не забывай об этом до конца визита.",ai,,4942C7864871DF46D5DF0D87B5C57A38
+"If that's what you think is needed, then sure. Just remember to keep that in mind for the rest of the visit.","Если считаешь, что так нужно, - ладно. Только не забывай об этом до конца визита.",ai,,4942C7864871DF46D5DF0D87B5C57A38
 I'll do my best.,Постараюсь.,ai,,60AEC0224151C36A046D27B0A6430751
 Yeah. You feeling alright?,Да. Ты нормально себя чувствуешь?,ai,,4210ECF64C8BB1D8AF1D51864DCE14DD
 Are you planning on staying back here?,Ты собираешься остаться здесь?,ai,,A99D530349AB4E8F3759C796C42F76F9
@@ -205,10 +205,10 @@ Maybe it'll scare our visitor off. How about our logged research? What's the sta
 "Had to rip some pages out of it, but I hope it makes our story more believable.","Пришлось вырвать оттуда несколько страниц, но надеюсь, так наша история будет выглядеть убедительнее.",ai,,20BB290F4E71884F12B2D6ABEA2C1F00
 Untouched. Everything is in there.,Не тронуты. Там всё есть.,ai,,3E8A0DE644C8AEB4F1D389ADEE56941D
 "I hope so too. I trust you were thorough with that, Eli. Lastly, he's going to want to see our journals. How are they looking?","Я тоже надеюсь. Верю, что ты подошёл к этому тщательно, Илай. И последнее: он захочет посмотреть наши журналы. Как они?",ai,,6112DFBF4B986D33A3ECDBA31ADF95E4
-Same - had to do a bit of light censoring.,То же самое — пришлось слегка подчистить.,ai,,C57CED4C4CE687596C2B87BF3E24D0C3
+Same - had to do a bit of light censoring.,То же самое - пришлось слегка подчистить.,ai,,C57CED4C4CE687596C2B87BF3E24D0C3
 They're intact. Everything's in there.,Целы. Там всё есть.,ai,,03D222F8425E4CAF2BD927B579194523
 "Let's see where honesty gets us, then. Lastly, he's going to want to see our journals. How are they looking?","Что ж, посмотрим, куда нас приведёт честность. И последнее: он захочет посмотреть наши журналы. Как они?",ai,,CC52A4AA4593D472815B08B8F8ED4985
-Same - had to do a bit of light censoring.,То же самое — пришлось слегка подчистить.,ai,,BF64060E40493BB3FE34B0A14C4157F1
+Same - had to do a bit of light censoring.,То же самое - пришлось слегка подчистить.,ai,,BF64060E40493BB3FE34B0A14C4157F1
 They're intact. Everything's in there.,Целы. Там всё есть.,ai,,444FB00349FCF53C0F2F0298A0A36CFE
 Well? How did it go? What's the read on this guy?,Ну? Как всё прошло? Что скажешь об этом типе?,ai,,83330B074E48D9D8D4B583B5D9A685D0
 (IDEALIST) I think it's going alright so far.,"(ИДЕАЛИСТ) Думаю, пока всё идёт неплохо.",ai,,37C2991E4A5E98098615C4BA8AB90EFA
@@ -241,14 +241,14 @@ We better.,Уж постараемся.,ai,,075CACA84ABF6A8C6566189B6C426108
 "Alright - I'll see what I can think of. Get going, alright?","Ладно, подумаю, что можно придумать. Иди уже, хорошо?",ai,,001078A546A9C0228FC92DB0D9F618E8
 "Got it. Good luck out there, Jorge. We've got this.","Понял. Удачи там, Джордж. Мы справимся.",ai,,4BA86A10446D4F67AB317DAFC9D36423
 Like what?,Например?,ok,,8A94DC0E41323DEAF86D0682A7E484F3
-"If you're worried, just put in some basic info. ""Visit today, temperature is so-and-so, blah-blah."" Doesn't have to be anything substantial - or, you could even write something that makes our story seem more credible. Just make sure there's something there.","Если волнуешься, просто впиши основные данные. «Сегодня визит, температура такая-то, бла-бла-бла». Ничего существенного не нужно — или можешь даже написать что-нибудь, от чего наша история будет казаться правдоподобнее. Главное, чтобы там что-то было.",ai,,6EACC5FA4D9B8752BB8758BD2F88CFB2
+"If you're worried, just put in some basic info. ""Visit today, temperature is so-and-so, blah-blah."" Doesn't have to be anything substantial - or, you could even write something that makes our story seem more credible. Just make sure there's something there.","Если волнуешься, просто впиши основные данные. «Сегодня визит, температура такая-то, бла-бла-бла». Ничего существенного не нужно - или можешь даже написать что-нибудь, от чего наша история будет казаться правдоподобнее. Главное, чтобы там что-то было.",ai,,6EACC5FA4D9B8752BB8758BD2F88CFB2
 Alright. I'll do it. Good luck out there.,Ладно. Сделаю. Удачи там.,ai,,93CB54C44058A0FD7A10328EB11A214B
 "Remember to breathe, Jorge. We've got this.","Не забывай дышать, Джордж. Мы справимся.",ai,,3F888444400D59102526A7A555BB8E93
 More credible? Like what?,Правдоподобнее? Например?,ai,,A8ECE34A478D885E5743CDA17785D30A
 "I don't know! I've got a stranger to distract, Eli. You'll think of something. Get to it!","Не знаю! Мне надо отвлекать незнакомца, Илай. Придумаешь что-нибудь. Давай за дело!",ai,,D82C9FE145524AFACFBD448357207D3A
 I'll see what I can think of.,"Подумаю, что можно придумать.",ai,,D0C213484B35F322B91F6FBCDD17D992
 "Breathe, Jorge. We've got this.","Дыши, Джордж. Мы справимся.",ai,,8BE09D8E4A42604A687844B7B5C3D4BA
-"Shit. Yeah, you're right. Listen - just spin it as something different. You know, maybe I nagged you about it. Convinced you to do it. I don't know, man. You'll figure something out.","Чёрт. Да, ты прав. Слушай — просто подай это по-другому. Ну, может, я тебя доставал. Уговорил тебя. Не знаю, чувак. Придумаешь что-нибудь.",ai,,943F7AD2415C9EF9EF77CC95A65A917F
+"Shit. Yeah, you're right. Listen - just spin it as something different. You know, maybe I nagged you about it. Convinced you to do it. I don't know, man. You'll figure something out.","Чёрт. Да, ты прав. Слушай - просто подай это по-другому. Ну, может, я тебя доставал. Уговорил тебя. Не знаю, чувак. Придумаешь что-нибудь.",ai,,943F7AD2415C9EF9EF77CC95A65A917F
 I hope so.,Надеюсь.,ai,,E051B30F4F3A205945CB9AA4DD6DA9EE
 Try not to worry about it. Maybe he won't even notice.,"Не переживай так. Может, он даже не заметит.",ai,,D0ED1EA9494C8ADC9B7EAD9859FF9890
 You're staying back here?,Ты остаёшься здесь?,ai,,31ED09FF400BB3341261C7A08B48F786
@@ -274,11 +274,11 @@ He's definitely trying to be friendly. He's asking a lot of questions about us.,
 "Like what, exactly? This guy is tricky, Eli. I get the feeling he's trying to trip us up.   ","Каких, например? Этот тип хитёр, Илай. У меня такое чувство, что он пытается нас подловить.   ",ai,,176840FC4AEDFFAA2AAB4FB2B5F59FAB
 He seemed happy to talk to me in private.,"Он, похоже, был рад поговорить со мной наедине.",ai,,8B7753B0469C1F17804C1181F8B53187
 He's asking about us. A lot.,Он расспрашивает о нас. Много.,ai,,C74622F146F53497D2AB76A4120E3E5D
-"I know. He just...cornered me, somehow. I didn't say I was the boss, he just insinuated it and spun me into his story. He's got a way with words, Eli. Be careful with him.","Знаю. Он просто... как-то загнал меня в угол. Я не говорил, что я начальник, — он просто намекнул на это и вплёл меня в свою версию. Он умеет заговаривать зубы, Илай. Будь с ним осторожен.",ai,,11D3EE1A49F0B9AD7D20F08E1EA584E6
+"I know. He just...cornered me, somehow. I didn't say I was the boss, he just insinuated it and spun me into his story. He's got a way with words, Eli. Be careful with him.","Знаю. Он просто... как-то загнал меня в угол. Я не говорил, что я начальник, - он просто намекнул на это и вплёл меня в свою версию. Он умеет заговаривать зубы, Илай. Будь с ним осторожен.",ai,,11D3EE1A49F0B9AD7D20F08E1EA584E6
 I'll do my best.,Постараюсь.,ai,,0F397A584B1804BE680DFCA221490F5A
 "Try to keep your cool, Jorge. We've got this.","Постарайся сохранять хладнокровие, Джордж. Мы справимся.",ai,,0770B3A945354C83894AD29E2371A0A4
 Are you going to stay here?,Ты останешься здесь?,ai,,D38495FD4612226871A88DBC598A2ACC
-"Focus, man - I was the one who pushed for the experiments. It only makes sense for me to be the head scientist. Little things like this are going to matter. Be careful with him, Eli. He's got a way with words.","Соберись, чувак: это я настаивал на экспериментах. Логично, что главный учёный — я. Такие мелочи будут иметь значение. Будь с ним осторожен, Илай. Он умеет заговаривать зубы.",ai,,79E161A54B721C241976BD835BE089B4
+"Focus, man - I was the one who pushed for the experiments. It only makes sense for me to be the head scientist. Little things like this are going to matter. Be careful with him, Eli. He's got a way with words.","Соберись, чувак: это я настаивал на экспериментах. Логично, что главный учёный - я. Такие мелочи будут иметь значение. Будь с ним осторожен, Илай. Он умеет заговаривать зубы.",ai,,79E161A54B721C241976BD835BE089B4
 I'll do my best.,Постараюсь.,ai,,632DA6FE4F0B31560F6423BD3B853D82
 Are you worried?,Ты волнуешься?,ai,,6722C13B417DCFA00D71F2BB05A12F4B
 Are you staying here?,Ты остаёшься здесь?,ai,,355BD0984EFD07DAD21AD090B1D3F494
@@ -302,7 +302,7 @@ Are you going to stay back here?,Ты собираешься остаться з
 "I don't like it. Doesn't feel honest, but I'm not sure that's what I expected from HQ after how they've been acting. He's an awful lot friendlier than the usual radio operator, that's for sure. Not sure I like it.","Мне это не нравится. Как-то неискренне, хотя после того, как штаб себя вёл, я и не знаю, чего от них ждал. Он уж точно куда дружелюбнее обычного радиста. Не уверен, что мне это нравится.",ai,,660864C44C9AC98072CFCFA5397FE1AE
 He seemed happy to talk to me in private.,"Он, похоже, был рад поговорить со мной наедине.",ai,,58EE07164F21732178C43E8F63291C0D
 "Yeah, he's taking quite an interest in the two of us. Asking personal questions.","Да, он проявляет к нам двоим большой интерес. Задаёт личные вопросы.",ai,,2431A5C24DB08F28337A3FB93EF0E53A
-"They send one car with a single driver out to see both of us, Eli. I wouldn't doubt they told him everything they know - and even if they don't know everything, I figure he's here to connect the remaining dots.","Они отправили к нам двоим одну машину с одним водителем, Илай. Не сомневаюсь, что ему рассказали всё, что знают, — а даже если они знают не всё, думаю, он здесь, чтобы дорисовать картину.",ai,,72E83CDB499422D550CA6D8CEFB159EA
+"They send one car with a single driver out to see both of us, Eli. I wouldn't doubt they told him everything they know - and even if they don't know everything, I figure he's here to connect the remaining dots.","Они отправили к нам двоим одну машину с одним водителем, Илай. Не сомневаюсь, что ему рассказали всё, что знают, - а даже если они знают не всё, думаю, он здесь, чтобы дорисовать картину.",ai,,72E83CDB499422D550CA6D8CEFB159EA
 He seemed happy to talk to me in private.,"Он, похоже, был рад поговорить со мной наедине.",ai,,068B48E44051EBCD456B22AE5909C15D
 I get the feeling he's trying to scope us out. Get to know us.,"У меня такое чувство, что он пытается нас прощупать. Узнать нас поближе.",ai,,2AEF3E78439BCEE25DD0F49846CD5CC9
 I'm more concerned about what exactly his job is. What's he been saying?,"Меня больше беспокоит, в чём именно его работа. Что он говорил?",ai,,2CFC32D34008BC534EF207889D8C72C4
@@ -313,7 +313,7 @@ All sorts of things. He just made conversation about anything he saw.,"Да вс
 We talked a little bit about you.,Мы немного поговорили о тебе.,ai,,142CF2EC430BB930E9D97F8B2CBAFF5E
 We talked about the journal entries.,Мы поговорили о записях в журналах.,ai,,56B1645C4CBBECD678EC558ED584FA96
 "No kidding. I suppose that's part of his job, after all. ","Ещё бы. Полагаю, это часть его работы. ",ai,,8D69493A49E2DAC0A86F1299648598F0
-He seems very unpredictable - at least hard to follow. He'll be friendly and then suddenly drop something worrying into conversation like it's nothing.,"Он очень непредсказуемый — во всяком случае, за ним трудно уследить. То он дружелюбен, то вдруг вворачивает в разговор что-то тревожное, будто это пустяк.",ai,,013D275445701506B50973A8F62C8E12
+He seems very unpredictable - at least hard to follow. He'll be friendly and then suddenly drop something worrying into conversation like it's nothing.,"Он очень непредсказуемый - во всяком случае, за ним трудно уследить. То он дружелюбен, то вдруг вворачивает в разговор что-то тревожное, будто это пустяк.",ai,,013D275445701506B50973A8F62C8E12
 He's certainly doing his best to keep us on our toes.,Он определённо изо всех сил старается держать нас в напряжении.,ai,,F15C697647954054A1B17EB4CF398B7E
 "And he's very good at it, to be honest. I can barely keep up.","И, честно говоря, у него отлично получается. Я еле поспеваю.",ai,,66A589EB41D868C4EEE171B93AA00E81
 "You did, huh? Anything you told him, you should tell me.","Вот как? Всё, что ты ему рассказал, расскажи и мне.",ai,,ACD8A09043CBA67C4D9D0AAA820186CF
@@ -322,23 +322,23 @@ He knows you're a believer.,"Он знает, что ты верующий.",ai,
 He asked what you're like to work with.,"Он спросил, каково с тобой работать.",ai,,71FFA7474FFF32A0982BB592D3C69C51
 And? Was he suspicious?,И? Он что-то заподозрил?,ai,,10C7D2F7420FB16BF507A0B2A94A71B7
 He certainly asked about the missing entries.,"Он, конечно, спросил о недостающих записях.",ai,,80698C544EC34E7BE922A9B965F17F3C
-"Not suspicious, per se - more inquisitive.",Не то чтобы заподозрил — скорее проявил любопытство.,ai,,AA8D96194F3C5926A7C11B889061F85C
+"Not suspicious, per se - more inquisitive.",Не то чтобы заподозрил - скорее проявил любопытство.,ai,,AA8D96194F3C5926A7C11B889061F85C
 "You don't think you just might have been very convincing? Come on, Eli - I need you to keep your spirits up. You're not exactly the most optimistic person I know...shit, you might be the least optimistic person I know. I need you on top of this. Can I count on you?","А тебе не кажется, что ты просто был очень убедителен? Да брось, Илай, мне нужно, чтобы ты не падал духом. Ты не самый большой оптимист из моих знакомых... чёрт, да ты, пожалуй, самый большой пессимист из всех, кого я знаю. Мне нужно, чтобы ты держал всё под контролем. Я могу на тебя рассчитывать?",ai,,F0EF606944F13E1F83E587A04AC3DFA6
 I hope so.,Надеюсь.,ai,,2A10584C4D568F219F3334AB842D7BB6
 Can I count on you?,Я могу на тебя рассчитывать?,ai,,0EC66B9C4C29821D8169A89C612699F0
 I'm not sure.,Не уверен.,ai,,0A91539D466A89BEAC2EAE97DAD724E7
-"Yeah? He doesn't seem very blue collar to me - probably moves in similar circles as you. Listen, if he tries to steer the conversation into that direction again, do me a favor and try to avoid it, alright? I don't like him knowing much about me.","Да? Не похож он на работягу — наверное, вращается примерно в тех же кругах, что и ты. Слушай, если он снова попытается свернуть разговор в эту сторону, сделай одолжение — постарайся этого избежать, ладно? Мне не нравится, что он много обо мне знает.",ai,,8CC109BD474EBB4144C5E2ABEDFA7B5E
+"Yeah? He doesn't seem very blue collar to me - probably moves in similar circles as you. Listen, if he tries to steer the conversation into that direction again, do me a favor and try to avoid it, alright? I don't like him knowing much about me.","Да? Не похож он на работягу - наверное, вращается примерно в тех же кругах, что и ты. Слушай, если он снова попытается свернуть разговор в эту сторону, сделай одолжение - постарайся этого избежать, ладно? Мне не нравится, что он много обо мне знает.",ai,,8CC109BD474EBB4144C5E2ABEDFA7B5E
 "I'll do my best, but he just...asks the right questions.","Постараюсь, но он просто... задаёт правильные вопросы.",ai,,0FC0B53744D908EC570B9D97F6D47997
 "Or us, for that matter.","Да и о нас, если уж на то пошло.",ai,,9BCC58C3423730A723640AAE07AD11D1
 I don't want him to know anything about me neither.,"Я тоже не хочу, чтобы он что-то обо мне знал.",ai,,B46D997A49DA2D8986C55D8684DD28DE
-"...Is that relevant? Listen, Eli - if he tries to shift the conversation to anything except our work, he's fishing. I don't know what for, but I don't like it.","...Это имеет значение? Слушай, Илай, если он пытается перевести разговор на что-то кроме нашей работы, — он что-то выуживает. Не знаю, что именно, но мне это не нравится.",ai,,C9C1930F43CF96F22ADA9B997E70A29D
+"...Is that relevant? Listen, Eli - if he tries to shift the conversation to anything except our work, he's fishing. I don't know what for, but I don't like it.","...Это имеет значение? Слушай, Илай, если он пытается перевести разговор на что-то кроме нашей работы, - он что-то выуживает. Не знаю, что именно, но мне это не нравится.",ai,,C9C1930F43CF96F22ADA9B997E70A29D
 "I know what I'm doing, Jorge.","Я знаю, что делаю, Джордж.",ai,,72D31D844742E284BA5F5EABC103BF2C
 "Sorry, Jorge. Won't happen again.","Прости, Джордж. Больше не повторится.",ai,,B3936039429884FAFE585B8C72DA8B21
 I don't like it either.,Мне это тоже не нравится.,ai,,9E5BA2824253B395A8CA38844EBA9EF0
 "Might be onto something there, bud. How is everything? Ready? We all set?","Может, ты и прав, дружище. Как всё? Готово? Мы готовы?",ai,,AAB2EAE243EB0B5B53702CA78FA80A4C
 Yeah. I think so.,"Да. Думаю, да.",ai,,A384BDCA4909A207939C398E2EE603D8
 Don't think I'd ever be ready for this.,"Не думаю, что к такому вообще можно быть готовым.",ai,,6B69698544B7ED5357C602B3215DD8FC
-"A reasonable enough ask, I suppose. Listen, Eli - and I don't mean this in a bad way - I trust you to talk to him. Just make sure we stick to the plan.","Пожалуй, вполне разумная просьба. Слушай, Илай, — только не пойми меня неправильно — я доверяю тебе разговаривать с ним. Просто следи, чтобы мы придерживались плана.",ai,,234172D54292FAF5C0BE5982F24C22F0
+"A reasonable enough ask, I suppose. Listen, Eli - and I don't mean this in a bad way - I trust you to talk to him. Just make sure we stick to the plan.","Пожалуй, вполне разумная просьба. Слушай, Илай, - только не пойми меня неправильно - я доверяю тебе разговаривать с ним. Просто следи, чтобы мы придерживались плана.",ai,,234172D54292FAF5C0BE5982F24C22F0
 You got it.,Понял.,ai,,E59EFFEF42855C020C74DE82E4EA0D28
 "I'll try. He's intimidating, in a strange way.",Постараюсь. Он как-то странно пугает.,ai,,F9B472354F072D9B5BE708B053DA85C3
 "I know what I'm doing, Jorge. You don't need to tell me.","Я знаю, что делаю, Джордж. Не надо мне говорить.",ai,,703C5AC1436ABEB84229B9B7412C7B56
@@ -346,7 +346,7 @@ You got it.,Понял.,ai,,E59EFFEF42855C020C74DE82E4EA0D28
 "...Hold on, what's that supposed to mean?","...Постой, что это значит?",ai,,B7B8AC4E4654E7974C997FA4B8F21DAF
 I know what I'm doing.,"Я знаю, что делаю.",ai,,A9D33F924356F480EF2F99BAD3DAFB18
 "Don't worry, Jorge. I'll be careful.","Не волнуйся, Джордж. Я буду осторожен.",ai,,C20A4A78428ACA4D2E6776A2EF943D8E
-"You seem a decent enough guy, Eli. Especially the past couple days. But I'm just...you know people like this better than me. How well, I'm not sure. Just remember that we're supposed to be a team.","Ты вроде нормальный парень, Илай. Особенно в последние пару дней. Но я просто... ты лучше меня знаешь таких людей. Насколько хорошо — не знаю. Просто помни, что мы должны быть командой.",ai,,BB5E28274F44F1ED4408A2A9DC962F30
+"You seem a decent enough guy, Eli. Especially the past couple days. But I'm just...you know people like this better than me. How well, I'm not sure. Just remember that we're supposed to be a team.","Ты вроде нормальный парень, Илай. Особенно в последние пару дней. Но я просто... ты лучше меня знаешь таких людей. Насколько хорошо - не знаю. Просто помни, что мы должны быть командой.",ai,,BB5E28274F44F1ED4408A2A9DC962F30
 (CYNIC) Are you saying you're worried I'm going to betray you?,"(ЦИНИК) Хочешь сказать, ты боишься, что я тебя предам?",ai,,7213166C4F7F8CEB436FE7A3764255E3
 (IDEALIST) You're worried he's trying to play us against each other?,"(ИДЕАЛИСТ) Боишься, что он пытается настроить нас друг против друга?",ai,,05E673454B69DBB3B5AE4C833B3FE22E
 "(REALIST) You know, there's a chance he doesn't see it that way.","(РЕАЛИСТ) Знаешь, может, он вовсе так на это не смотрит.",ai,,E810F3214E7249DD4F4320AD962D7291
@@ -360,15 +360,15 @@ Sure. How are you doing back here?,Конечно. Как у тебя тут д�
 You can. Don't worry.,Можешь. Не волнуйся.,ai,,CDB8804C42A84AFD6708E9B2476BF95A
 "...Okay, sure.","...Ладно, конечно.",ai,,0634A2594E695FE3999021BFC8E46165
 How about you? What are you up to?,А ты? Чем занимаешься?,ai,,26DF94FE458C3CB338F10D9E3D82D9DF
-"I'm certain of it. Don't trust him, Eli. Stick to the plan. Don't try anything fancy. If you do, run it by me first.","Я в этом уверен. Не доверяй ему, Илай. Держись плана. Не выкидывай ничего хитроумного. А если соберёшься — сначала согласуй со мной.",ai,,20DF2A7145E9113FD5F50C8BD213457B
+"I'm certain of it. Don't trust him, Eli. Stick to the plan. Don't try anything fancy. If you do, run it by me first.","Я в этом уверен. Не доверяй ему, Илай. Держись плана. Не выкидывай ничего хитроумного. А если соберёшься - сначала согласуй со мной.",ai,,20DF2A7145E9113FD5F50C8BD213457B
 I know what I'm doing.,"Я знаю, что делаю.",ai,,D8E10D594BE3B784789B89A9FDB1D752
 Of course.,Конечно.,ok,,AD2483C0409F48CEDCF07F8AB5B54BED
-"Speaking of running by you, what are you up to?",Раз уж речь о согласовании — чем ты занимаешься?,ai,,D1E2383D4D680AC55FBA729993DA5456
+"Speaking of running by you, what are you up to?",Раз уж речь о согласовании - чем ты занимаешься?,ai,,D1E2383D4D680AC55FBA729993DA5456
 Shit. What did you tell him?,Чёрт. Что ты ему сказал?,ai,,3CFE58344E2C1A6C7DDC0794F096C212
 (CYNIC) Whatever I could think of. Not sure it convinced him.,"(ЦИНИК) Всё, что пришло в голову. Не уверен, что он поверил.",ai,,BEEA35044DAAA24E518B01A2EA84DAF0
 (IDEALIST) I did my best to cover it up. I think it went fairly well.,"(ИДЕАЛИСТ) Я сделал всё, чтобы это скрыть. Думаю, всё прошло довольно неплохо.",ai,,0D5F40E047FE9106CE26729157FC0EA0
 (REALIST) I stuck to our story as well as I could. I'm not sure how much of it he believes.,"(РЕАЛИСТ) Я как мог держался нашей истории. Не знаю, насколько он ей верит.",ai,,699560D2448A1A8DBDF9D8B5A2916DA0
-"Well as far as I know, everything you've written is still in there. Said it before, Eli - we'll see if honesty counts for anything. What did he say, then?","Ну, насколько я знаю, всё, что ты написал, по-прежнему там. Я уже говорил, Илай, — посмотрим, чего стоит честность. И что он сказал?",ai,,8B0E779A49918AE1F5544B86F360CF46
+"Well as far as I know, everything you've written is still in there. Said it before, Eli - we'll see if honesty counts for anything. What did he say, then?","Ну, насколько я знаю, всё, что ты написал, по-прежнему там. Я уже говорил, Илай, - посмотрим, чего стоит честность. И что он сказал?",ai,,8B0E779A49918AE1F5544B86F360CF46
 (CYNIC) He pretended to be understanding. Like everything was in order.,"(ЦИНИК) Сделал вид, что понимает. Будто всё в порядке.",ai,,C2CEABCD441558E8675A419E20107F7D
 (IDEALIST) He was very understanding. I think he believes we're being honest with him.,"(ИДЕАЛИСТ) Он отнёсся с большим пониманием. Думаю, он верит, что мы с ним честны.",ai,,D073DB204F6A7965511267805BFE9E78
 "(REALIST) He's being nice. Too nice, almost.",(РЕАЛИСТ) Он любезен. Даже слишком любезен.,ai,,431221E240946D112EC8A78DF60AFE26
@@ -380,7 +380,7 @@ I just don't see this ending well.,"Просто не вижу, чтобы эт�
 Of course.,Конечно.,ok,,5C1D9356405335017C50E08734AC4B60
 Can I count on you?,Я могу на тебя рассчитывать?,ai,,867885AE4EA0B13CE8A68D82808592CB
 "...I'm doing my best, but I'm a little worried, to be frank.","...Я делаю всё, что могу, но, честно говоря, я немного волнуюсь.",ai,,FDA2A34B437C9D118547B1A39EFC3FF1
-"Real funny, Eli. He is early, though. I wonder if that means anything. Doesn't matter - is everything ready? We all set?","Очень смешно, Илай. Но он и правда рано. Интересно, что это значит. Неважно — всё готово? Мы готовы?",ai,,E6CAD10E494DDD8135169692BA674BD0
+"Real funny, Eli. He is early, though. I wonder if that means anything. Doesn't matter - is everything ready? We all set?","Очень смешно, Илай. Но он и правда рано. Интересно, что это значит. Неважно - всё готово? Мы готовы?",ai,,E6CAD10E494DDD8135169692BA674BD0
 Yeah. I think so.,"Да. Думаю, да.",ai,,EB72EEE14D39AF6ACBA474AFCD7545DB
 "...Honestly, even I'm having some trouble staying optimistic about this.","...Честно говоря, даже мне трудно сохранять оптимизм.",ai,,AFC19DD549D0FD2983727FB1AB5E2DEC
 "Like I said, man. Be careful. He'll twist words around. Shit, I only spoke to him for a moment, and he had me agreeing that I was the boss. You need to do better than me, alright? Can I count on you?","Я же говорил, чувак. Будь осторожен. Он переворачивает слова. Чёрт, я говорил с ним всего минуту, а он уже заставил меня согласиться, что я начальник. Ты должен справиться лучше меня, ладно? Я могу на тебя рассчитывать?",ai,,E30DB84E4C9E508BCF195F9C925C09FD
@@ -390,19 +390,19 @@ Can I count on you?,Я могу на тебя рассчитывать?,ai,,F7EF
 "It better have. We get only one shot at this, and I'm putting my faith in you. Can I count on you, Eli?","Уж лучше бы так. У нас всего одна попытка, и я на тебя полагаюсь. Я могу на тебя рассчитывать, Илай?",ai,,5A9A956347278D1208EBCA8467DE4C4F
 Of course.,Конечно.,ok,,FAAA12664B25CE2A292771AFD19B39B6
 A little less pressure would be nice.,Можно было бы и поменьше давить.,ai,,B66E7B86470459B473B014B93D9D529D
-"I'll be honest - I'm worried, Jorge.","Буду честен — я волнуюсь, Джордж.",ai,,7E3DAD9841F6F5B1EB4D2FA1BB78369D
-"Well, keep at it. Consistency is key, Eli. This guy seems like someone who sniffs out discrepancies like a private eye. You need to be convincing. Can I count on you for that?","Что ж, продолжай в том же духе. Главное — последовательность, Илай. Этот тип, похоже, вынюхивает нестыковки, как частный сыщик. Тебе нужно быть убедительным. Я могу на тебя в этом рассчитывать?",ai,,8DDF7EDC4E47EA4D2C4B43A16802BECF
+"I'll be honest - I'm worried, Jorge.","Буду честен - я волнуюсь, Джордж.",ai,,7E3DAD9841F6F5B1EB4D2FA1BB78369D
+"Well, keep at it. Consistency is key, Eli. This guy seems like someone who sniffs out discrepancies like a private eye. You need to be convincing. Can I count on you for that?","Что ж, продолжай в том же духе. Главное - последовательность, Илай. Этот тип, похоже, вынюхивает нестыковки, как частный сыщик. Тебе нужно быть убедительным. Я могу на тебя в этом рассчитывать?",ai,,8DDF7EDC4E47EA4D2C4B43A16802BECF
 Of course.,Конечно.,ok,,C0272A9B4BCB345F9BFB6287E68883BC
 "I'm not a great liar, Jorge.","Я не очень хорошо вру, Джордж.",ai,,1639D0BA440EE4ABC717E4A44E8B8526
 "No pressure, huh?","Никакого давления, да?",ai,,FEC132D94B91547C07193DAEBD2F79F9
-Good. Now get back in there - him creeping around by himself is making me nervous.,"Хорошо. А теперь возвращайся к нему — меня нервирует, что он шныряет тут один.",ai,,DF805F9D4D4EDFDD3034C89647C456C6
+Good. Now get back in there - him creeping around by himself is making me nervous.,"Хорошо. А теперь возвращайся к нему - меня нервирует, что он шныряет тут один.",ai,,DF805F9D4D4EDFDD3034C89647C456C6
 Sure. How are things on your end?,Конечно. А у тебя что?,ai,,ED8CF17942F9FD1F8D901C8CF762577D
 I'm on it.,Уже иду.,ai,,2B7412294804FABD7348D9BC65D0B7CA
-"I checked the car while you were in the tent. Back seat is full of equipment - containers, safety pods, the works.","Пока ты был в палатке, я осмотрел машину. Заднее сиденье забито оборудованием — контейнеры, защитные капсулы, полный набор.",ai,,1FC06F294207660D180FD2BD842E32B7
+"I checked the car while you were in the tent. Back seat is full of equipment - containers, safety pods, the works.","Пока ты был в палатке, я осмотрел машину. Заднее сиденье забито оборудованием - контейнеры, защитные капсулы, полный набор.",ai,,1FC06F294207660D180FD2BD842E32B7
 And? What else?,И? Что ещё?,ai,,DC26C8BE49E78DC7663657A0C8171032
 And the front?,А спереди?,ai,,A574B8854BC27E724FE3528E7745342B
 Sounds like he's prepared to take the Artifact with him.,"Похоже, он собирается забрать Артефакт с собой.",ai,,1C1D60374463B3BEBC7156A6CCEECB44
-"Doesn't matter. You don't have a choice - we don't have a choice. It's all or nothing. Now come on, get back to him. I don't like him creeping around the camp on his own.","Неважно. У тебя нет выбора — у нас нет выбора. Всё или ничего. А теперь давай, возвращайся к нему. Мне не нравится, что он шныряет по лагерю один.",ai,,48E4011846ECAB413691CEB5440D955B
+"Doesn't matter. You don't have a choice - we don't have a choice. It's all or nothing. Now come on, get back to him. I don't like him creeping around the camp on his own.","Неважно. У тебя нет выбора - у нас нет выбора. Всё или ничего. А теперь давай, возвращайся к нему. Мне не нравится, что он шныряет по лагерю один.",ai,,48E4011846ECAB413691CEB5440D955B
 Sure. How are things on your end?,Конечно. А у тебя что?,ai,,569D485C445DA054F2D163BFE21C61D6
 On it.,Уже иду.,ai,,8FA8677E4B818479658A968B39913497
 Nothing I could see. Just two empty seats and a mess in the back.,Ничего не увидел. Только два пустых сиденья и бардак сзади.,ai,,BEC886AB4DD5D3971F066AA9CDDD874A
@@ -441,8 +441,8 @@ I think he's buying it.,"Думаю, он верит.",ai,,DD27FD6F4ACB9A4574832
 He's definitely suspicious of us.,Он определённо нас подозревает.,ai,,5C5282F347FD9CB76BCF85A00CDC1DF5
 "He doesn't believe a word I say, Jorge.","Он не верит ни одному моему слову, Джордж.",ai,,E295BB884207B4E8D71C4EA5E68FB610
 "Is that so? I hope you're right, Eli, and if that's the case, well...good work. If you don't mind, though, I'm not done holding my breath.","Вот как? Надеюсь, ты прав, Илай, и если так, то... хорошая работа. Но, если не возражаешь, я пока не буду выдыхать.",ai,,D28CA19A4F2EDC3B018AB6A95BFD4857
-Fair enough. He seems unpredictable - makes worrying comments every once in a while.,Справедливо. Он кажется непредсказуемым — то и дело отпускает тревожные замечания.,ai,,2B62A0E64A3F4F0C49064EBDAFA05E81
-I think he's trying to keep me - us - on our toes.,"Думаю, он пытается держать меня — нас — в напряжении.",ai,,E26210A6440FCE17B0E1728360B8021B
+Fair enough. He seems unpredictable - makes worrying comments every once in a while.,Справедливо. Он кажется непредсказуемым - то и дело отпускает тревожные замечания.,ai,,2B62A0E64A3F4F0C49064EBDAFA05E81
+I think he's trying to keep me - us - on our toes.,"Думаю, он пытается держать меня - нас - в напряжении.",ai,,E26210A6440FCE17B0E1728360B8021B
 "Yeah, I worry I can't keep up with him.","Да, боюсь, я за ним не поспеваю.",ai,,2A84AB0C416C8F5666399A8AF20EB9F7
 "Threats? Yeah, I got the same impression. He does enjoy it, Eli. What else did he ask about?","Угрозы? Да, у меня сложилось такое же впечатление. Ему это и правда нравится, Илай. О чём ещё он спрашивал?",ai,,94182C514AC2AAF01E87489CEAC5C24E
 He asked how we get along.,"Он спросил, как мы ладим.",ai,,499254934482B4F5742C9398978A8798
@@ -452,7 +452,7 @@ Our relationship out here.,О наших отношениях здесь.,ai,,EA
 "Yes, whether or not we trust each other.","Да, доверяем ли мы друг другу.",ai,,DA2FADE84A6161E25702FFBB67915FB1
 What do you mean?,Всмысле?,ok,,8C0775494BED54ACBD1C3EB23FA7A811
 I think he's trying to create friction between us. He's asking if we trust each other.,"Думаю, он пытается нас рассорить. Спрашивает, доверяем ли мы друг другу.",ai,,82A9469546A19655B722A98200BC8527
-I think he's stuck on who's boss - he asked how we get along.,"Думаю, он зациклился на том, кто главный, — спросил, как мы ладим.",ai,,CA2FEC3B43EF8008531646A14C8FBBA3
+I think he's stuck on who's boss - he asked how we get along.,"Думаю, он зациклился на том, кто главный, - спросил, как мы ладим.",ai,,CA2FEC3B43EF8008531646A14C8FBBA3
 ...Are you out of your mind? What was that about? Do you not remember the story?! Are you trying to set me up or something?,"...Ты с ума сошёл? Что это было? Ты что, не помнишь нашу историю?! Ты меня подставить хочешь или что?",ai,,B51A2BA4473678932C1502AB79D1267F
 "...I'm sorry, Jorge, I panicked.","...Прости, Джордж, я запаниковал.",ai,,07AA1C7744586961A1F4BB90AB387B68
 [Shrug],[Пожать плечами],ai,,0B21A5334249F592BA482C883452FF19
@@ -466,7 +466,7 @@ I think he's stuck on who's boss - he asked how we get along.,"Думаю, он 
 "Well sort it out, man. Do you realize how fucking bad that looks for us? Get it together. Now.","Так разберись с этим, чувак. Ты понимаешь, как это, блядь, хреново для нас выглядит? Соберись. Сейчас же.",ai,,FBB25D98472A8EA896B575A33FF57DB8
 "Alright, alright.","Ладно, ладно.",ai,,3EB11FA94D0309897AC7CD9D9BB120B0
 ...How are you holding up?,...Как ты держишься?,ai,,19AB47754D60B3811175F88E6ED34CDF
-"Good. Listen, I know we haven't always been close out here - to be frank, I feel like I've only really got to know you over the past few days - but it's important that he believes that to be the case.","Хорошо. Слушай, я знаю, что мы здесь не всегда были близки, — честно говоря, мне кажется, я по-настоящему узнал тебя только за последние несколько дней, — но важно, чтобы он верил, что мы близки.",ai,,0BD2004C403D107E495F15A6EDF8093F
+"Good. Listen, I know we haven't always been close out here - to be frank, I feel like I've only really got to know you over the past few days - but it's important that he believes that to be the case.","Хорошо. Слушай, я знаю, что мы здесь не всегда были близки, - честно говоря, мне кажется, я по-настоящему узнал тебя только за последние несколько дней, - но важно, чтобы он верил, что мы близки.",ai,,0BD2004C403D107E495F15A6EDF8093F
 I'm glad we agree.,"Рад, что мы согласны.",ai,,8CADED2E41801CD5F951F9A40B9A2953
 "For what it's worth, Jorge, I do consider you my friend.","Как бы то ни было, Джордж, я и правда считаю тебя другом.",ai,,F26CB53C47B9ACC688DCFDBA0DB7B4AD
 "I see. I understand you, but I'm not sure that you needed to be honest about that in particular. I know we haven't exactly been close over these past few months, but I do think it's better if he thought that was the case. We'll see, I suppose.","Понятно. Я тебя понимаю, но не уверен, что именно в этом нужно было быть честным. Знаю, за эти месяцы мы не особенно сблизились, но, по-моему, лучше бы он думал, что сблизились. Что ж, посмотрим.",ai,,54FA4A41472FF67A735BD285B798C57D
@@ -482,10 +482,10 @@ I still think I was right to tell him what I did.,"Я всё же думаю, ч
 "Well make sure that was the last one. We can't fuck up like that, Eli, not again. Figure it out, alright?","Так сделай так, чтобы это была последняя. Нам нельзя так облажаться, Илай, только не снова. Разберись, ладно?",ai,,AB92BDCC479ADE744D61529E37AE88B9
 "Alright, alright.","Ладно, ладно.",ai,,6CF4B9EB4B42ABB965223A9E522A219B
 ...You doing okay?,...Ты в порядке?,ai,,0C03B3514CC289C0AB212EB8DA1D20D7
-"I see. Well, regardless of what you or I truly think of our company, that's a mistake. The more divided he thinks we are, the more he'll try to push our buttons. Play us against each other. I thought you'd understand that, too.","Понятно. Что ж, неважно, что мы с тобой на самом деле думаем друг о друге, — это ошибка. Чем более разобщёнными он нас считает, тем больше будет давить на больные места. Настраивать нас друг против друга. Я думал, ты тоже это понимаешь.",ai,,213168054437BA52C11C5E8BCAFECBD9
+"I see. Well, regardless of what you or I truly think of our company, that's a mistake. The more divided he thinks we are, the more he'll try to push our buttons. Play us against each other. I thought you'd understand that, too.","Понятно. Что ж, неважно, что мы с тобой на самом деле думаем друг о друге, - это ошибка. Чем более разобщёнными он нас считает, тем больше будет давить на больные места. Настраивать нас друг против друга. Я думал, ты тоже это понимаешь.",ai,,213168054437BA52C11C5E8BCAFECBD9
 I did what I think was best.,"Я сделал то, что считал лучшим.",ai,,D55ED21348BDD379D75ABEAD6CDC2DB9
 ...That does make sense.,"...Да, в этом есть смысл.",ai,,F1E5719D4E9FB9010074E69109987906
-"It doesn't matter whether I agree or not, Eli - what matters is that he thinks we're close-knit. Otherwise he'll just attempt to divide and conquer further. I really thought you would understand that too.","Неважно, согласен я или нет, Илай, — важно, чтобы он думал, что мы сплочены. Иначе он просто продолжит разделять и властвовать. Я правда думал, что ты тоже это понимаешь.",ai,,41B3EA1D4D3875C85254369174455F30
+"It doesn't matter whether I agree or not, Eli - what matters is that he thinks we're close-knit. Otherwise he'll just attempt to divide and conquer further. I really thought you would understand that too.","Неважно, согласен я или нет, Илай, - важно, чтобы он думал, что мы сплочены. Иначе он просто продолжит разделять и властвовать. Я правда думал, что ты тоже это понимаешь.",ai,,41B3EA1D4D3875C85254369174455F30
 I did what I think was best.,"Я сделал то, что считал лучшим.",ai,,1AC862D44A6FCF29C30612B555722A13
 ...That does make sense.,"...Да, в этом есть смысл.",ai,,F17B19ED444F03D03471E7A9A8EA9502
 "...Really? Fuck's sake, Eli. Get it together. We can't afford to mess up like that again.","...Серьёзно? Да твою ж мать, Илай. Соберись. Нам нельзя больше так облажаться.",ai,,71CBB7BC4243932C74F03EA08DFBEB55

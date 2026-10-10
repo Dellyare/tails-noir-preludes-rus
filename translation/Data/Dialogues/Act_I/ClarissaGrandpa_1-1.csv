@@ -1,6 +1,6 @@
 ﻿source,translation,status,namespace,key
 Clarence won't forget that.,Кларенс этого не забудет.,ai,,4362EF64447F5BE0B41BC891AAD5DC24
-"The years passing by, bella. Time itself, I suppose. Tell me - what will you be when you're older? Who do you want to be?","Годы идут, белла. Время, я полагаю, скажи мне — кем ты будешь, когда вырастешь? Кем ты хочешь стать?",ai,,09FD3E8D4016F834EEEA3F98CFB40944
+"The years passing by, bella. Time itself, I suppose. Tell me - what will you be when you're older? Who do you want to be?","Годы идут, белла. Время, я полагаю, скажи мне - кем ты будешь, когда вырастешь? Кем ты хочешь стать?",ai,,09FD3E8D4016F834EEEA3F98CFB40944
 (GAIN TRAIT: CUNNING) I want to be really smart. Really clever.,(ПОЛУЧИТЬ ЧЕРТУ: ХИТРОСТЬ) Я хочу быть очень умной. Очень сообразительной.,ai,,82DADE5849AEF789DF0CBE951066EB1E
 "(GAIN TRAIT: AMBITIOUS) I want to be like you, Grandpa. I'll be a big boss.","(ПОЛУЧИТЬ ЧЕРТУ: АМБИЦИОЗНОСТЬ) Я хочу быть как ты, дедушка. Я стану большим боссом.",ai,,38A5713E4A6E841917D185890C18A49B
 (GAIN TRAIT: POWERFUL) I want people to listen to me!,"(ПОЛУЧИТЬ ЧЕРТУ: ВЛАСТНОСТЬ) Я хочу, чтобы звери меня слушались!",ai,,80360F044265584A5C2B9280966BFEE4
@@ -26,7 +26,7 @@ Of course you will! I'll visit you every day.,"Конечно, доживешь!
 Do you think she would have liked me?,"Как думаешь, я бы ей понравилась?",ai,,6280389B44DF1F24F6E3CA8EA5D71432
 Is it something I'll learn while growing up?,"Это то, чему я научусь, когда вырасту?",ai,,FE2AB62F4154B080072CE68C492CBA6C
 "Is it weird that I miss Grandma, even though we never talked?","Это странно, что я скучаю по бабушке, хотя мы никогда не разговаривали?",ai,,BEF0C1B24E75BADFDC872F96E86CF237
-"I don't think so. Geezers are interesting creatures. They're not like us - not quite - but they still have instinct. They're not stupid, not at all.","Я так не думаю. Гуси — интересные создания. Они не такие, как мы — не совсем — но у них всё равно есть инстинкты. Они не глупые, совсем нет.",ai,,56A92D9547EC9ED095A7F386C1EE7F68
+"I don't think so. Geezers are interesting creatures. They're not like us - not quite - but they still have instinct. They're not stupid, not at all.","Я так не думаю. Гуси - интересные создания. Они не такие, как мы - не совсем - но у них всё равно есть инстинкты. Они не глупые, совсем нет.",ai,,56A92D9547EC9ED095A7F386C1EE7F68
 So why are they in the street?,Тогда почему они на улице?,ai,,C8F024D64E6F21C06C3057AA457B52BD
 I think they look stupid.,"Мне кажется, они выглядят глупо.",ai,,4001CED441322B1EDD19E091FFF6E503
 Maybe they could live in the big house with me and mom? And dad?,"Может, они могли бы жить в большом доме со мной и мамой? И с папой?",ai,,6F804FF943668E3D38B1769C5E990E93
@@ -42,7 +42,7 @@ Maybe they could live in the big house with me and mom? And dad?,"Может, о
 "I'd be hungry, too. If I was a gooser.","Я бы тоже была голодной, если бы была гусем.",ai,,0073C31A4995FFEF289DD3843F78ED0B
 "How come they're out on the street, Grandpa? Don't they have houses to go to?","Почему они на улице, дедушка? У них что, нет домов?",ai,,F9D054BE4B1EF0CE72DB0CB55D96126C
 Can I go feed them?,Можно я пойду покормлю их?,ai,,314C674E4203FF4F41A7278971E404A1
-"No, you're right. Sometimes you have to grow up - but it's important to not lose all of that silliness. ","Нет, ты права. Иногда приходится взрослеть — но важно не потерять всю эту глупость.",ai,,15C5C2304BA701612034B187FD0F9EE7
+"No, you're right. Sometimes you have to grow up - but it's important to not lose all of that silliness. ","Нет, ты права. Иногда приходится взрослеть - но важно не потерять всю эту глупость.",ai,,15C5C2304BA701612034B187FD0F9EE7
 I won't! It's too easy to be funny.,Я не потеряю! Быть смешной слишком легко.,ai,,CB64B4044F7728FF7CC3EAA7A6A03A87
 Is it because it's hard to grow up?,Это потому что взрослеть тяжело?,ai,,96B6E80F4F41E0E513D84FAEFE836569
 Oh? What makes you think that?,О? Почему ты так думаешь?,ai,,CAD6A0A5485219DE6BBF3F90E44FDB56
@@ -95,7 +95,7 @@ That sounds good.,Это звучит хорошо.,ai,,AB92C56A4E30160E5F25EC9F
 I think I remember. He was really mad.,"Кажется, я помню. Он был очень зол.",ai,,72D6B4854FA518BAD173FA915BE3549A
 Why was he shouting?,Почему он кричал?,ai,,85B92642484E491E36F2ECB290C5024B
 "What happened next? Tell me, tell me!","Что было дальше? Расскажи, расскажи!",ai,,3DCCD0F945E0EDB6569AFD8083A15BBC
-"Maybe so, maybe so. All I know is that he was furious - something about smudges on his windows. But we had a chat, and he calmed down, didn't he?","Возможно, возможно. Всё, что я знаю, это то, что он был в ярости — что-то насчёт пятен на его витрине. Но мы поговорили, и он успокоился, не так ли?",ai,,AA3E28BB4DD86F0F085A9EB1C20E7812
+"Maybe so, maybe so. All I know is that he was furious - something about smudges on his windows. But we had a chat, and he calmed down, didn't he?","Возможно, возможно. Всё, что я знаю, это то, что он был в ярости - что-то насчёт пятен на его витрине. Но мы поговорили, и он успокоился, не так ли?",ai,,AA3E28BB4DD86F0F085A9EB1C20E7812
 "People always listen to you, Grandpa.","звери всегда тебя слушают, дедушка.",ai,,D16F2B374781B7B8BE243186D7CB4854
 "Did you know him, Grandpa?","Ты его знал, дедушка?",ai,,9C7295A44D3E6F0C2FEFAD93478628F3
 "What did you tell him, Grandpa?","Что ты ему сказал, дедушка?",ai,,8E645FE64F8CD7A1A229AC92DE27424D
@@ -126,10 +126,10 @@ Do you miss her?,Ты скучаешь по ней?,ai,,526156E146F79E4AF692E7AB
 That sounds like it'll take ages!,"Звучит так, будто это займёт вечность!",ai,,72FF4A0443F74B496B55B88ED530D4BA
 Sounds like it's hard to grow up. Is it?,"Звучит так, будто взрослеть тяжело. Это так?",ai,,340B2C1E494C3E025CA923858ECBAEC4
 I think a lot of people don't.,"Думаю, многие звери не понимают.",ai,,478D23ED4ED1D63F710F8089402B5E2E
-"No! No, not at all. In fact, I think it speaks volumes to what kind of person she was - and what kind of person you are.","Нет! Нет, совсем нет. На самом деле, я думаю, это многое говорит о том, каким зверьом она была — и каким зверьом являешься ты.",ai,,7A2AF4864B6377958DF5E49980B059BA
+"No! No, not at all. In fact, I think it speaks volumes to what kind of person she was - and what kind of person you are.","Нет! Нет, совсем нет. На самом деле, я думаю, это многое говорит о том, каким зверьом она была - и каким зверьом являешься ты.",ai,,7A2AF4864B6377958DF5E49980B059BA
 So you think she would have liked me?,"Так ты думаешь, я бы ей понравилась?",ai,,976E8D804E3574AEF4BECC8D2C934716
 "The best person. Grandma, I mean.","Лучшим зверьом. Бабушка, я имею в виду.",ai,,DF375F414CC162A006D2EDB50CB52411
-"You'll just have to try your hardest. You don't just make a decision and change - it's slow, and gradual. You'll often be the last one to know that you've changed.","Тебе просто нужно стараться изо всех сил. Ты не можешь просто принять решение и измениться — это медленно и постепенно. Ты часто будешь последней, кто поймёт, что изменилась.",ai,,26553A884EBC5CC956423D82DF36DD39
+"You'll just have to try your hardest. You don't just make a decision and change - it's slow, and gradual. You'll often be the last one to know that you've changed.","Тебе просто нужно стараться изо всех сил. Ты не можешь просто принять решение и измениться - это медленно и постепенно. Ты часто будешь последней, кто поймёт, что изменилась.",ai,,26553A884EBC5CC956423D82DF36DD39
 Ugh. That sounds like it'll take ages.,"Ух. Звучит так, будто это займёт вечность.",ai,,537D72DC476F4C33EA357DBFDA0B54D1
 Does that mean it's hard to grow up?,"Значит, взрослеть тяжело?",ai,,8BB0CE1C47851D3788291C8E64026310
 "I agree, bella. There's no greater treasure in the world than having people close to you that trust you and love you. Loyal, kind, clever people.","Согласен, белла. Нет большего сокровища в мире, чем иметь рядом зверей, которые тебе доверяют и любят тебя. Верных, добрых, умных зверей.",ai,,3443B0024EC0148921EBF7A06E296EE6
@@ -147,7 +147,7 @@ There are some mean kids there. Meanies.,Там есть злые дети. Зл
 It's me! Didn't you know?,Это я! Разве ты не знал?,ai,,BA7C3440412F4B04FE178C896B4C11D6
 "Don't be silly, Grandpa. I'm Clarissa!","Не глупи, дедушка. Я Кларисса!",ai,,F9DC208C4E6057B40FF32D9B02642555
 [Shrug],[Пожать плечами],ai,,D8839C3A466E848AF311348FF7511DAE
-"Ah, of course - but what is she like? And what does she like?","Ах, конечно — но какая она? И что ей нравится?",ai,,010CFE824A124CB0476660890EB2B28F
+"Ah, of course - but what is she like? And what does she like?","Ах, конечно - но какая она? И что ей нравится?",ai,,010CFE824A124CB0476660890EB2B28F
 [Shrug] Big worms.,[Пожать плечами] Большие черви.,ai,,213578634C844BFA3CB1F89F44CD4593
 "She likes her friends. ",Ей нравятся её друзья.,ai,,FE6B8DAB4754D0E54E50B78ABCBE6B07
 She's really fast.,Она очень быстрая.,ai,,6F0FA36C4602AFF7A7574BB6F488FD69
@@ -235,7 +235,7 @@ You don't want to?,Ты не хочешь?,ai,,7CFCF9AB482DF815C6000BA65B1A4577
 "In a flash? What do you mean, Grandpa?","Мгновенно? Что ты имеешь в виду, дедушка?",ai,,551D7A074AE5F07822DAABBC01491249
 "Hey Grandpa, do you have friends?","Эй, дедушка, у тебя есть друзья?",ai,,EA3EFFAC44363996FB517980D676AEC6
 "...I can't wait to grow up, so I get to do whatever I want.","...Я не могу дождаться, когда вырасту, чтобы делать всё, что захочу.",ai,,ABFB03FE4102F5946C63039A7A0348C5
-"""Come end of fall, the winds will grow, then twisting branches cusp the snow - but spring will free what cold held dear; give way, give way, for one more year.""","""Зима недаром злится, прошла ее пора – весна в окно стучится и гонит со двора. И все засуетилось, все нудит Зиму вон – и жаворонки в небе уж подняли трезвон.""",ai,,0CC4A7164E24F995CA5FEF89E33ACDA9
+"""Come end of fall, the winds will grow, then twisting branches cusp the snow - but spring will free what cold held dear; give way, give way, for one more year.""","""Зима недаром злится, прошла ее пора - весна в окно стучится и гонит со двора. И все засуетилось, все нудит Зиму вон - и жаворонки в небе уж подняли трезвон.""",ai,,0CC4A7164E24F995CA5FEF89E33ACDA9
 "What was that, Grandpa? It was pretty.","Что это было, дедушка? Это было красиво.",ai,,CBDC5906400E0D2E552D29A75F375441
 [Look at Clarence with confusion],[Смотрит на Кларенса с недоумением],ai,,46194B1749CA423D26358D80579313BE
 ...,,,,C2FD798F4CFFAA895024BDAD7C7C2287
@@ -300,7 +300,7 @@ That sounds pretty.,Это звучит красиво.,ai,,D7A4A5634EE455CAB27D
 "It does, doesn't it? It's nice to dream, sometimes. You can always imagine the world better than it is now. Some day, you might be able to make it real.","Правда, да? Иногда приятно мечтать. Ты всегда можешь представить мир лучше, чем он есть сейчас. Когда-нибудь ты, возможно, сможешь сделать его реальным.",ai,,EAFF2A5D441252F53FAE44B79DDFE633
 And what if you can't?,А если не получится?,ai,,2F66A34F4AE97AF4D81A5DB6D6D19FA7
 "Okay. I'll try, Grandpa.","Хорошо. Я попробую, дедушка.",ai,,02EA42E94320D2EAEDA2A9ABB689C5F8
-"That's fine, too. You don't have to dream about big things or magical worlds - all you have to to is be yourself. The rest is secondary.","Это тоже нормально. Тебе не нужно мечтать о больших вещах или волшебных мирах — всё, что тебе нужно, это быть собой. Всё остальное вторично.",ai,,C1B52CBD4B4A6C62223598AAB5E82E18
+"That's fine, too. You don't have to dream about big things or magical worlds - all you have to to is be yourself. The rest is secondary.","Это тоже нормально. Тебе не нужно мечтать о больших вещах или волшебных мирах - всё, что тебе нужно, это быть собой. Всё остальное вторично.",ai,,C1B52CBD4B4A6C62223598AAB5E82E18
 Sometimes I'll dream about Grandma. Do you dream of her too?,Иногда я мечтаю о бабушке. Ты тоже мечтаешь о ней?,ai,,3A3499424A2C392B79A27CB1A9F8ED60
 "And be nice to people. That's important too. I'm good at it, too",И быть доброй к людям. Это тоже важно. Я в этом хороша.,ai,,1324D1E749E328A7790213B4B5E4B6F1
 That's easy. I'm good at being Clarissa.,Это легко. У меня хорошо получается быть Клариссой.,ai,,C941B7DD4EAD7F3B48E793B2A30F1358
@@ -325,10 +325,10 @@ I'm already a special person! I'm Clarissa!,Я уже особенный зве�
 "I just want to be done with school. Grow up, so I can do what I want every day.","Я просто хочу закончить школу. Вырасти, чтобы делать то, что хочу, каждый день.",ai,,3D7DFDCA4A4BEF4FC0613D880370A9B4
 It's okay. At least I get to see my friends.,"Это нормально. По крайней мере, я могу видеть своих друзей.",ai,,3147AF4F478A8406A04126BEA7DD66F5
 "Yeah, school is okay! There's just a lot of weird people there.","Да, школа нормальная! Просто там много странных зверей.",ai,,DA0295A740E2DB292075169D3E2E5C8B
-"Ah, I'm not sure! Anything we want - all I know is that it's a beautiful day. A nice, slow day.","Ах, я не уверен! Всё, что мы хотим — всё, что я знаю, это то, что сегодня прекрасный день. Приятный, медленный день.",ai,,D85F0EF447B5B1127D207D857EFC3D22
+"Ah, I'm not sure! Anything we want - all I know is that it's a beautiful day. A nice, slow day.","Ах, я не уверен! Всё, что мы хотим - всё, что я знаю, это то, что сегодня прекрасный день. Приятный, медленный день.",ai,,D85F0EF447B5B1127D207D857EFC3D22
 "It could be a fast, goosey day, too.","А еще это может быть быстрый, гусиный день.",ai,,E48FB9DE40EC3FCDC530B0B0092661B4
 What's nice about slow days?,Что приятного в медленных днях?,ai,,51DFC0044FF42C01409F5285A4C59602
-"I suppose. I only did what I had to, though. Most of what I've learned - and most of what's important - I learned outside of school.","Полагаю. Я просто делал то, что должен был. Большая часть того, что я узнал — и большая часть того, что важно — я узнал вне школы.",ai,,1D78F99249AFB7768AE0599689AFE93E
+"I suppose. I only did what I had to, though. Most of what I've learned - and most of what's important - I learned outside of school.","Полагаю. Я просто делал то, что должен был. Большая часть того, что я узнал - и большая часть того, что важно - я узнал вне школы.",ai,,1D78F99249AFB7768AE0599689AFE93E
 From being with your friends?,От общения с друзьями?,ai,,CBBFB6D84E5A0F1DEE3AB29C7C94C63F
 By meeting different people?,От встреч с разными людьми?,ai,,F548001F4A91697C0D129883D815DA4A
 "You may be, bella, but I'm much too old for it. I enjoy my peace and quiet, especially on beautiful days like this. Nice, worriless, and slow.","Возможно, белла, но я уже слишком стар для этого. Я наслаждаюсь своим покоем и тишиной, особенно в такие прекрасные дни, как этот. Приятные, беззаботные и медленные.",ai,,C223CCAA4225925DB248439FBB4D50AD
@@ -357,7 +357,7 @@ So did Grandma fight it?,Так бабушка боролась с этим?,ai,
 What kind of wisdom?,Какая мудрость?,ai,,A8FD474C4FB6A22B1FA9EC88AD42004F
 I think it's unfair that she's gone. She never did anything wrong!,"Я думаю, это несправедливо, что её нет. Она никогда не делала ничего плохого!",ai,,4AD942B1463299A344DAB1A4EB91F0B8
 Sass?,Дерзость?,ai,,388A47944A83EC8EAF04129B134FE8FF
-"Friends? Me? Hah - I think so! A few really good ones, too. Why do you ask?","Друзья? Я? Ха — думаю, да! И несколько действительно хороших. Почему ты спрашиваешь?",ai,,DC44B1304C6E495B45FF92BFEEAED575
+"Friends? Me? Hah - I think so! A few really good ones, too. Why do you ask?","Друзья? Я? Ха - думаю, да! И несколько действительно хороших. Почему ты спрашиваешь?",ai,,DC44B1304C6E495B45FF92BFEEAED575
 I dunno. I've never seen your friends! What are they like?,Не знаю. Я никогда не видела твоих друзей! Какие они?,ai,,82FA8E0449907FCB4127AC962AF70F8B
 I was just thinking about people. People stuff.,Я просто думал о людях. О людских делах.,ai,,E5E77A8545D78E368B8058B1A4C397C8
 That's not very nice. Maybe your old grandpa can do something about it. I'll talk to your teachers. Have you got into trouble because of this boy?,"Это не очень хорошо. Может, твой старый дедушка сможет что-то с этим сделать. Я поговорю с твоими учителями. У тебя были проблемы из-за этого мальчика?",ai,,2776241C464172DFB9D249A838C3B545
@@ -396,7 +396,7 @@ How did she do that?,Как она это делала?,ai,,BB6FA6E14AF182CB2CB9
 Hard?,Сложно?,ai,,62ACA2E54BF9A3461C916BB375E12E82
 [Nod],[Кивок],ai,,9A2699FF4D9B14829D8127B2BE585090
 Maybe.,Может быть.,ok,,3119778246DA6179EF39879DDA37C849
-"That's great, Clarissa. Tell me, then - what are your friends like? ","Это здорово, Кларисса. Скажи мне, тогда — какие твои друзья?",ai,,E1AAD4D047000DB74F48B7AEC9E2A6FC
+"That's great, Clarissa. Tell me, then - what are your friends like? ","Это здорово, Кларисса. Скажи мне, тогда - какие твои друзья?",ai,,E1AAD4D047000DB74F48B7AEC9E2A6FC
 They're funny! And they always make me laugh.,Они смешные! И они всегда смешат меня.,ai,,A2D64BCF4EA128E5DCD61A8C064F3CBC
 We're all really close. We all trust each other!,Мы все очень близки. Мы все доверяем друг другу!,ai,,1C415C9E45E4480912152DB600BCCDAC
 "I don't know. They're just themselves, and that's what I like.","Не знаю. Они просто сами собой, и это мне нравится.",ai,,5CD641FD4F4A170F2B05F3870ED8D18F
@@ -405,7 +405,7 @@ They're nice. And kind.,Они добрые. И милые.,ai,,65851E994F2FDDB1
 I'm sure I'll just be me. Clarissa.,"Уверена, я просто буду собой. Клариссой.",ai,,B5B44CF74427950285382DA0F76F08D3
 What if I just stay the same? What if I don't change at all?,А если я просто останусь такой же? А если я вообще не изменюсь?,ai,,62A6000347D22F6A6CE0DEACC13987DC
 "Maybe I could become someone else, then?","Может, я смогу стать кем-то другим, тогда?",ai,,1F29D9F447A5B146B23816AA42CB0E44
-"You won't - not for a while, at least. But there'll be a moment, years and years from now, when you'll take a deep breath, look out at the city, and realize who you are.","Ты не изменишься — по крайней мере, не скоро. Но наступит момент, спустя годы и годы, когда ты глубоко вздохнёшь, посмотришь на город и поймёшь, кто ты.",ai,,CAC5EF2C495F3FB9ABF79292FCAE1EB1
+"You won't - not for a while, at least. But there'll be a moment, years and years from now, when you'll take a deep breath, look out at the city, and realize who you are.","Ты не изменишься - по крайней мере, не скоро. Но наступит момент, спустя годы и годы, когда ты глубоко вздохнёшь, посмотришь на город и поймёшь, кто ты.",ai,,CAC5EF2C495F3FB9ABF79292FCAE1EB1
 But I know who I am. I'm Clarissa.,"Но я знаю, кто я. Я Кларисса.",ai,,2E92E2134D592C978D0F93A55E560766
 What if I never change?,А если я никогда не изменюсь?,ai,,4AFEB21B43F2087FC346CA9210B1E76A
 I can't wait to be someone else.,"Я не могу дождаться, когда стану кем-то другим.",ai,,8F942A8A4174CF0E1F49EE8092236F6C
@@ -449,20 +449,20 @@ Of course you can visit!,"Конечно, ты можешь навестить!"
 "Once. You give them one chance to back off. If they don't? Well...that's on them. ",Один раз. Ты даёшь им один шанс отступить. Если они не отступают? Ну... это их вина.,ai,,15CB1D31491238B7531AD9AA9EE70311
 I think I understand.,"Думаю, я понимаю.",ai,,0632156243E5614FE5DD999BCCF08526
 I'm not sure I understand.,"Я не уверена, что понимаю.",ai,,8E4EEB7A400C087EAFB9FCAC04FE0B93
-"I won't say you shouldn't, because sometimes that's the only way out. But getting into a fight doesn't show people that you're tough - staying out of them does.","Я не скажу, что ты не должна, потому что иногда это единственный выход. Но драться не показывает людям, что ты сильная — избегать драк показывает это.",ai,,BFBE4B69428F40D8A725828A0E905E92
+"I won't say you shouldn't, because sometimes that's the only way out. But getting into a fight doesn't show people that you're tough - staying out of them does.","Я не скажу, что ты не должна, потому что иногда это единственный выход. Но драться не показывает людям, что ты сильная - избегать драк показывает это.",ai,,BFBE4B69428F40D8A725828A0E905E92
 "Okay! In that case, I'll just stay with my friends. They won't mess with all of us.","Хорошо! В таком случае, я просто останусь с друзьями. Они не полезут на всех нас.",ai,,7C1BFEC64806039E83F6C89BCD70C4EB
 I'm just worried there's going to be a lot of mean people out there.,"Я просто волнуюсь, что там будет много злых зверей.",ai,,1DE0BF2840B3129C289BC7B1CA9BDBA4
-"Me? Why, of course! I'm more than fine - I'm spending time with my little girl. How could I not be?",Я? Конечно! Я более чем в порядке — я провожу время с моей маленькой девочкой. Как я могу быть не в порядке?,ai,,925D00F54584CA7A3F1CAD8B45EFA701
+"Me? Why, of course! I'm more than fine - I'm spending time with my little girl. How could I not be?",Я? Конечно! Я более чем в порядке - я провожу время с моей маленькой девочкой. Как я могу быть не в порядке?,ai,,925D00F54584CA7A3F1CAD8B45EFA701
 Did you see the goosers?,Ты видел гусей?,ai,,DEE1DF064F9C5A1AAA831DA3A0D9EB35
 "Okay! What are we doing here, Grandpa?","Хорошо! Что мы здесь делаем, дедушка?",ai,,70B6330340B147FF63DE968EBE93606D
 "But you were thinking about something else, weren't you?","Но ты думал о чём-то другом, правда?",ai,,46AD8E3F46085E08DD1FC99CBCB1A322
 That's not very nice. Maybe your old grandpa can do something about it. I'll talk to your teachers. Has this girl ever got you into trouble?,"Это не очень хорошо. Может, твой старый дедушка сможет что-то с этим сделать. Я поговорю с твоими учителями. Эта девочка когда-нибудь доставляла тебе проблемы?",ai,,3AC9F0E640A743D24C98399F6869CC7B
 [Nod],[Кивок],ai,,C68824834B581547A0AD9593245DFDFC
 [Shrug],[Пожать плечами],ai,,AEA9245B40D428F3C0FA7DABDFC2C6E1
-"Easy, eh? Maybe for people as clever as you! I was certainly no wiz at it - nor am I now!","Легко, да? Может, для таких умных, как ты! Я точно не был в этом мастером — и сейчас не являюсь!",ai,,4B14F18A42AA71E3FE121094E4A86D97
+"Easy, eh? Maybe for people as clever as you! I was certainly no wiz at it - nor am I now!","Легко, да? Может, для таких умных, как ты! Я точно не был в этом мастером - и сейчас не являюсь!",ai,,4B14F18A42AA71E3FE121094E4A86D97
 [Shrug],[Пожать плечами],ai,,2D14BDFE41D9EDC1F569439823C82908
 "It's okay, Grandpa. I can teach you.","Всё в порядке, дедушка. Я могу тебя научить.",ai,,D8CBA2004B9A760C624E40988ABAAD14
-"I never saw it like that, Clarissa. But you might just be right. I'm not very good at math, either way - I can count, but that's about it.","Я никогда не смотрел на это так, Кларисса. Но ты, возможно, права. Я не очень хорош в математике, в любом случае — я могу считать, и это всё.",ai,,1F4FCC36415FFDCA7F0890BA8DAEE2EF
+"I never saw it like that, Clarissa. But you might just be right. I'm not very good at math, either way - I can count, but that's about it.","Я никогда не смотрел на это так, Кларисса. Но ты, возможно, права. Я не очень хорош в математике, в любом случае - я могу считать, и это всё.",ai,,1F4FCC36415FFDCA7F0890BA8DAEE2EF
 "You're old, though. You don't have to. You get to do whatever you want!","Ты старый, так что тебе не нужно. Ты можешь делать всё, что захочешь!",ai,,B529FBEB4AD2FEDEF85315A2215149AC
 But it's so easy!,Но это так просто!,ai,,070858974CD075E777BCF5BBFAE1545E
 Yeah. Counting is easy.,Да. Считать легко.,ai,,F911485D43207CA1101B6C8483A44983
@@ -470,11 +470,11 @@ Yeah. Counting is easy.,Да. Считать легко.,ai,,F911485D43207CA1101
 I do. I listen to my friends a lot.,Я слушаю. Я много слушаю своих друзей.,ai,,A5E1AC7C4C4813796E3320877CF1F908
 "Thanks, Grandpa. I think I understand.","Спасибо, дедушка. Думаю, я понимаю.",ai,,664EBE034EE7E5D5FA902298FCDBA7AB
 But how do I know which ones to listen to? And which ways?,"Но как я узнаю, кого слушать? И как?",ai,,9BA144D94F03264C609C7FB211AE9A69
-There you go. And not just one - a whole bunch of them. It's called a gaggle. Did you know that?,Вот так. И не один — целая куча. Это называется стая. Ты знала это?,ai,,FC3E3DCD4DFEE1A9036BF5B07F837703
+There you go. And not just one - a whole bunch of them. It's called a gaggle. Did you know that?,Вот так. И не один - целая куча. Это называется стая. Ты знала это?,ai,,FC3E3DCD4DFEE1A9036BF5B07F837703
 How come they're looking for food here?,Почему они ищут еду здесь?,ai,,CF3D3460404DBE35B8575094F46B06C7
 That's a dumb word.,Это глупое слово.,ai,,03DE71694ED1F29B27CB92BDC4D3F3DF
 "Grandpa, do geezers have houses? How come they're always on the streets?","Дедушка, у гусей есть дома? Почему они всегда на улице?",ai,,84F6B1934FD81DAE7967C4BA45508F17
-"Well - I, for one, can't wait to hear them. You'll read them to me, won't you?","Ну — я, например, не могу дождаться, чтобы их услышать. Ты прочитаешь их мне, правда?",ai,,50FDFFD64C443F1E9882B18A918C6AD9
+"Well - I, for one, can't wait to hear them. You'll read them to me, won't you?","Ну - я, например, не могу дождаться, чтобы их услышать. Ты прочитаешь их мне, правда?",ai,,50FDFFD64C443F1E9882B18A918C6AD9
 [Shrug],[Пожать плечами],ai,,F8A1DEC3436BA23731B1C2B8965797C9
 Of course I will!,"Конечно, прочитаю!",ai,,AE8E709542A2495941F15BA5FD4A73A7
 "Alright, alright. No more talk of school. Deal?","Ладно, ладно. Больше никаких разговоров о школе. Договорились?",ai,,66DBD9464A06F37D77506296DE29CEE8
@@ -503,7 +503,7 @@ That's okay. I don't care what people think about me.,"Это нормально
 How come they're looking for food here?,Почему они здесь ищут еду?,ai,,BC25ED2649D76D7B2E61229A17C473C1
 That's a dumb word.,Это глупое слово.,ai,,3A9F7C2046EEC1468FD6A18CEB9B7029
 "Grandpa, do goosers have houses? How come they're always on the streets?","Дедушка, у гусей есть дома? Почему они всегда на улице?",ai,,449FC47D4B43CB6A93602E8AC420B360
-"Ah, it takes time. Knowing someone isn't a single experience - same as you, people change. And it's okay to change your mind about those people.","Ах, это требует времени. Знать кого-то — это не единичный опыт — так же, как и ты, звери меняются. И это нормально — изменить своё мнение о них.",ai,,C74D705C4A92C21317AB4CAC9850F964
+"Ah, it takes time. Knowing someone isn't a single experience - same as you, people change. And it's okay to change your mind about those people.","Ах, это требует времени. Знать кого-то - это не единичный опыт - так же, как и ты, звери меняются. И это нормально - изменить своё мнение о них.",ai,,C74D705C4A92C21317AB4CAC9850F964
 "Will they change their minds about me, too?",Они изменят своё мнение обо мне тоже?,ai,,31D184594F564B6F9093DAA5DEAA93B3
 What do I do if someone nice suddenly starts being mean?,"Что мне делать, если кто-то добрый внезапно начинает быть злым?",ai,,D7CE581F402575A07EA64DA6FF0FDB30
 That's alright. I don't care what people think about me!,"Это нормально. Мне всё равно, что звери думают обо мне!",ai,,CC6CBD4947D3AFA5025897863A47E1EC
@@ -564,7 +564,7 @@ I'll try.,Я попробую.,ai,,6C52D81A4FAA39B1C9226A9DF7C26C93
 "A poem, Clarissa. One I remembered, just now. I read it a long time ago, but it appears it has stuck with me.","Стихотворение, Кларисса. То, что я вспомнил, только что. Я прочитал его давным-давно, но, похоже, оно застряло у меня в памяти.",ai,,8096F92642138CA57CF7C6AE69F256A4
 Why?,Почему?,ok,,863B6BB5441BBB1A986A099C8A9A89DC
 What made you think of it?,Что заставило тебя вспомнить его?,ai,,A52B74214A28787B8BEC17A88B87F128
-"Hah - forgive me, Clarissa! I just remembered something. A poem. I read it a long, long time ago - but it just came back to me. Just like that.","Ха — прости меня, Кларисса! Я просто вспомнил кое-что. Стихотворение. Я прочитал его очень, очень давно — но оно только что вернулось ко мне. Вот так.",ai,,5FF6AEC745A1C3AC5976AF8E041B8CC6
+"Hah - forgive me, Clarissa! I just remembered something. A poem. I read it a long, long time ago - but it just came back to me. Just like that.","Ха - прости меня, Кларисса! Я просто вспомнил кое-что. Стихотворение. Я прочитал его очень, очень давно - но оно только что вернулось ко мне. Вот так.",ai,,5FF6AEC745A1C3AC5976AF8E041B8CC6
 Why?,Почему?,ok,,3C3BB5D04745610338A948809CDC5A14
 What made you think of it?,Что заставило тебя вспомнить его?,ai,,E5B376534FE077F636D7888ED1BC5161
 "If you say so, Clarissa. And I'll do all in my power to help you. How does that sound?","Если ты так говоришь, Кларисса. И я сделаю всё, что в моих силах, чтобы помочь тебе. Хорошо?",ai,,9F20283141FA12F297E4F98670EDFF1D
@@ -582,7 +582,7 @@ Aw. Do I have to?,Ой. Мне нужно?,ai,,46B12E9B4DB98054EAEF51BA60C93927
 "I do, but not as much as I'd like. Or you'd like, for that matter.","Есть, но не так много, как хотелось бы. Или как хотелось бы тебе.",ai,,501B91DD405B305BD63DB59BEFA98DBA
 I can help you with that! I'll come visit more often. Deal?,Я могу помочь тебе с этим! Я буду приходить чаще. Договорились?,ai,,C7A6F9454D769E63C71622BE519257C8
 Is it hard?,Это сложно?,ai,,2F8B86244F5F8946959F8597BF81A64F
-"I'm not sure, Clarissa - maybe it's sitting here with you, time and people passing by. Tell me - what will you be when you're older? Who do you want to be?","Не уверен, Кларисса — может, это сидение здесь с тобой, время и звери, проходящие мимо. Скажи мне — кем ты будешь, когда вырастешь? Кем ты хочешь стать?",ai,,29351D63466F25A569294499535D9FDC
+"I'm not sure, Clarissa - maybe it's sitting here with you, time and people passing by. Tell me - what will you be when you're older? Who do you want to be?","Не уверен, Кларисса - может, это сидение здесь с тобой, время и звери, проходящие мимо. Скажи мне - кем ты будешь, когда вырастешь? Кем ты хочешь стать?",ai,,29351D63466F25A569294499535D9FDC
 (GAIN TRAIT: CUNNING) I want to be really smart. Really clever.,(ПОЛУЧИТЬ ЧЕРТУ: ХИТРОСТЬ) Я хочу быть очень умной. Очень сообразительной.,ai,,498BA531441F1311DB99E1880E7FFE86
 "(GAIN TRAIT: AMBITIOUS) I want to be like you, Grandpa. I'll be a big boss.","(ПОЛУЧИТЬ ЧЕРТУ: АМБИЦИОЗНОСТЬ) Я хочу быть как ты, дедушка. Я стану большим начальником.",ai,,6FFECF8F4E6AF26D447F36BF9C1F8D30
 (GAIN TRAIT: POWERFUL) I want people to listen to me!,"(ПОЛУЧИТЬ ЧЕРТУ: ВЛАСТНОСТЬ) Я хочу, чтобы звери меня слушались!",ai,,A23F0B4C4FC5E3619EAE82A8EC3D74DF
@@ -590,22 +590,22 @@ Is it hard?,Это сложно?,ai,,2F8B86244F5F8946959F8597BF81A64F
 "That sounds really good. Thanks, Grandpa. ","Хорошо! Спасибо, дедушка.",ai,,88624B9E4F16CDD2A22C47BB0481B0D6
 "That's perfect. I love you, Grandpa.","Это прекрасно. Я люблю тебя, дедушка.",ai,,9115391A49FBF78C7C0F4CA637E671A5
 [Shrug],[Пожать плечами],ai,,F7FFD89D47408224BD6ADF9485B22F8F
-"No, Clarissa bella. Thank you. Now come on - I think it's time for dinner. Shall we?","Нет, Кларисса белла. Спасибо тебе. А теперь давай — думаю, пора ужинать. Пойдём?",ai,,1E5C653C44A3C9184E602C98EB785A8B
+"No, Clarissa bella. Thank you. Now come on - I think it's time for dinner. Shall we?","Нет, Кларисса белла. Спасибо тебе. А теперь давай - думаю, пора ужинать. Пойдём?",ai,,1E5C653C44A3C9184E602C98EB785A8B
 Okay.,Хорошо.,ok,,AE812F164ADBB4493E4256ACC042DD28
 [Shrug one last time],[Пожать плечами в последний раз],ai,,A8491AEE429990CE5D31F7A8AB88F573
-"Oh, Clarissa bella. You may be shy, but you're the sweetest grandchild I could ever have hoped for. Now - if I'm not mistaken, it's dinnertime. Shall we?","О, Кларисса белла. Ты можешь быть скромной, но ты самая милая внучка, о которой я только мог мечтать. А теперь — если я не ошибаюсь, пора ужинать. Пойдём?",ai,,6AFEE1514B07F9DE9B8F1B9A59EFF968
+"Oh, Clarissa bella. You may be shy, but you're the sweetest grandchild I could ever have hoped for. Now - if I'm not mistaken, it's dinnertime. Shall we?","О, Кларисса белла. Ты можешь быть скромной, но ты самая милая внучка, о которой я только мог мечтать. А теперь - если я не ошибаюсь, пора ужинать. Пойдём?",ai,,6AFEE1514B07F9DE9B8F1B9A59EFF968
 Okay.,Хорошо.,ok,,5CF89E834617B60048CB61B0DB831DAF
 [Shrug one last time],[Пожать плечами в последний раз],ai,,0D99A1E9489956EA648A35AF5F6F9B9B
 "I love you too, Clarissa bella. I couldn't ask for a better grandchild. Now, come on. I think it's time for dinner. Shall we?","Я тоже люблю тебя, Кларисса белла. Я не мог бы попросить лучшей внучки. А теперь, давай. Думаю, пора ужинать. Пойдём?",ai,,1DB744474544CDBC52696580ABD58B68
 Okay.,Хорошо.,ok,,5B0A489342BAC75EDFB09097EA1DDF24
 [Shrug one last time],[Пожать плечами в последний раз],ai,,AECBA19148DDA27D70413FA4A1260C51
-Well of course I do! That's what family does - what family should do. I know Carlo works a lot. Is he not home often? Does he tuck you in at night?,"Ну, конечно, я это делаю! Это то, что делает семья — что семья должна делать. Я знаю, Карло много работает. Он часто бывает дома? Он укладывает тебя спать?",ai,,03A148164FFE6558E7BAD4AC5FE7DAC2
+Well of course I do! That's what family does - what family should do. I know Carlo works a lot. Is he not home often? Does he tuck you in at night?,"Ну, конечно, я это делаю! Это то, что делает семья - что семья должна делать. Я знаю, Карло много работает. Он часто бывает дома? Он укладывает тебя спать?",ai,,03A148164FFE6558E7BAD4AC5FE7DAC2
 [Shake your head],[Качает головой],ai,,E14A5C10486A608B893FA8A4C4260830
 "...Grandpa, can I come live with you?","...Дедушка, я могу переехать к тебе?",ai,,CE852F9B46781526BBC3EA926467F348
 "Oh, Clarissa, you and your father are more alike than I thought! How is Carlo? Is he home enough? Does he still tuck you in at night?","О, Кларисса, вы со своим отцом похожи больше, чем я думал! Как Карло? Он часто бывает дома? Он всё ещё укладывает тебя спать?",ai,,9F8C524747BBAE41BB0C66A673977165
 [Shake your head],[Качает головой],ai,,2D76D73E405C0DF429AB559BD54FC810
 "...Grandpa, can I come live with you?","...Дедушка, я могу переехать к тебе?",ai,,A8EAA5464C95CE5A6A73B795FD86F661
-"Oh, I'm sorry Clarissa. Grandpa was in a different place for a moment - in a sun chair somewhere, resting his tired old legs.","О, прости, Кларисса. Дедушка на мгновение был в другом месте — в шезлонге где-то, расслабляя свои усталые старые ноги.",ai,,97761FC342DB78F0AB33D08848F95B35
+"Oh, I'm sorry Clarissa. Grandpa was in a different place for a moment - in a sun chair somewhere, resting his tired old legs.","О, прости, Кларисса. Дедушка на мгновение был в другом месте - в шезлонге где-то, расслабляя свои усталые старые ноги.",ai,,97761FC342DB78F0AB33D08848F95B35
 I wanted to show you the goosers!,Я хотела показать тебе гусей!,ai,,802ED0CE438EF235D38ECDAD1D9FB903
 "There's sun here, too! And a bench!",Здесь тоже есть солнце! И скамейка!,ai,,3959FFCD4FA71FD768A98DBE3BC1D41F
 "I asked what you were thinking of, Grandpa!","Я спросила, о чём ты думал, дедушка!",ai,,4D841CEB454D75E1EFDAA984CE664B82
@@ -646,7 +646,7 @@ Okay.,Хорошо.,ok,,8E45BF014984695A43CAA39C43CEF757
 "[Nodding thoughtfully] Ah, yes. I'll bear that in mind. ","[Кивает задумчиво] Ах, да. Я буду иметь это в виду.",ai,,8996827A46DC0D8967D1639E1BB7ABF1
 "Oh. In that case, I'll try to never feel smart!","Ох. Тогда, я постараюсь не узнавать прям всего!",ai,,E3EC7A114E3BC7321B60F792CF7231F2
 "[Tap your nose] I'll have to be careful not to know too much, then.","[Стукает себя по носу] Тогда мне нужно будет быть осторожной, чтобы не узнать слишком много.",ai,,739BB9F04D9DE5ED81F885BB480675D5
-"Like me? Hah! Are you sure about that? It's a lot of work, being me. Wouldn't you prefer to just have fun?",Как я? Ха! Ты уверена? Это много работы — быть мной. Не предпочла бы ты просто веселиться?,ai,,C0DE36924C57989BFB1F0AB9593A07E7
+"Like me? Hah! Are you sure about that? It's a lot of work, being me. Wouldn't you prefer to just have fun?",Как я? Ха! Ты уверена? Это много работы - быть мной. Не предпочла бы ты просто веселиться?,ai,,C0DE36924C57989BFB1F0AB9593A07E7
 "No, I'm sure. I can do it.","Нет, я уверена. Я смогу.",ai,,9B5C14ED4765864FAFB3DBAA645C48D2
 "You don't have fun, Grandpa?","Ты не веселишься, дедушка?",ai,,7CB5F03C4331DDFC0666A7BAC9D52728
 Can I do both?,"Я могу делать и то, и другое?",ai,,5CCC184D474E98827C4A7BBBA99C5FC4
@@ -709,7 +709,7 @@ No? I know Carlo works a lot. Is he not home often? Does he tuck you in at night
 It's okay. You don't have to!,"Всё в порядке, не нужно!",ai,,FEC2D66C4E8C112F1D63E081A761D7F9
 No! You can just have more words with me instead.,Нет! Ты можешь просто больше разговаривать со мной.,ai,,8F0D7A9944EE627C085C0680F8DE6980
 [Nod],[Кивок],ai,,46E72B704300A83648BCFF96267063AD
-"Me? Thinking of something? No, no - I was just enjoying the weather, is all. I don't go out for walks as much as I used to, you see.","Я? Думал о чём-то? Нет, нет — я просто наслаждался погодой, вот и всё. Я не так часто выхожу на прогулки, понимаешь, как раньше.",ai,,24D7CD314DE1168A12F8B697D2176D90
+"Me? Thinking of something? No, no - I was just enjoying the weather, is all. I don't go out for walks as much as I used to, you see.","Я? Думал о чём-то? Нет, нет - я просто наслаждался погодой, вот и всё. Я не так часто выхожу на прогулки, понимаешь, как раньше.",ai,,24D7CD314DE1168A12F8B697D2176D90
 "I was thinking of the goosers. Did you see them, Grandpa?","Я думала о гусях. Ты их видел, дедушка?",ai,,6DF56C4A44CDB8BE2C7C2DA7800E9AAC
 Did you use to walk around here?,Ты раньше гулял здесь?,ai,,05F54CCE4430B821F4B9EB983D3DF3A1
 ...I think you were thinking of something. Tell me already!,"...Я думаю, ты о чём-то думал. Расскажи мне уже!",ai,,C8CE4C044EA1ED834C1C2AA6688B4BAC
@@ -717,7 +717,7 @@ Did you use to walk around here?,Ты раньше гулял здесь?,ai,,05
 "But I want to stay at a house with you! ",Но я хочу жить в доме с тобой!,ai,,B0D902274F1872C6AEAE3CA980E706C1
 Then how come I don't see you every day?,Тогда почему я не вижу тебя каждый день?,ai,,C3237223467CE6B574D9CC85E068B952
 [Shrug],[Пожать плечами],ai,,BE86986B496DAFE25265F895E4D5AA21
-"Family is everything, Clarissa. It's important you spend time with your father, too. You can come stay with me a little longer during the summer breaks. How does that sound?","Семья — это всё, Кларисса. Важно, чтобы ты тоже проводила время со своим папой. Ты можешь оставаться у меня подольше во время летних каникул. Хорошо?",ai,,1BF550864FC5A2B3A451B19C46355E9D
+"Family is everything, Clarissa. It's important you spend time with your father, too. You can come stay with me a little longer during the summer breaks. How does that sound?","Семья - это всё, Кларисса. Важно, чтобы ты тоже проводила время со своим папой. Ты можешь оставаться у меня подольше во время летних каникул. Хорошо?",ai,,1BF550864FC5A2B3A451B19C46355E9D
 "Sounds good. Thanks, Grandpa.","Хорошо. Спасибо, дедушка.",ai,,59D66757447A59E8AC92509A4AEC7955
 "Good. Hey, Grandpa? I love you.","Ладно. Эй, дедушка? Я люблю тебя.",ai,,EB42EC7A44BC230692C9C58701EE2C8C
 [Shrug],[Пожать плечами],ai,,1863915B49ED76D1C21B3F82BE5BB2C7
@@ -800,11 +800,11 @@ You are! But it's important to be a little silly. A lot of people forget to be s
 How can you forget to be silly?,Как можно забыть быть глупенькой?,ai,,3AE1E7BB497088B0A33BCC8A4B0C6C53
 Yeah...but that's pretty silly too!,Да... но это тоже довольно глупо!,ai,,550A672741FB7A556DE76A87ABF9FBB9
 You're silly too.,Ты тоже глупенький.,ai,,9A0A3DDA4237D2ECA2AD31879435841F
-"I am? With you, I suppose! I don't think a lot of people would say I'm silly. But maybe that's a good thing - and an even better thing that I get to be silly with you, so I don't forget.","Я? С тобой, полагаю! Не думаю, что многие звери сказали бы, что я глупенький. Но, может, это хорошо — и ещё лучше, что я могу быть глупеньким с тобой, чтобы не забывать.",ai,,19F75D4049187DF6CBD10C89BF56B519
+"I am? With you, I suppose! I don't think a lot of people would say I'm silly. But maybe that's a good thing - and an even better thing that I get to be silly with you, so I don't forget.","Я? С тобой, полагаю! Не думаю, что многие звери сказали бы, что я глупенький. Но, может, это хорошо - и ещё лучше, что я могу быть глупеньким с тобой, чтобы не забывать.",ai,,19F75D4049187DF6CBD10C89BF56B519
 How can you forget to be silly?,Как можно забыть быть глупенькой?,ai,,8C72B5D4404ECC17B307BFA36DED01F5
 It's silly to not be silly.,Глупо не быть глупенькой.,ai,,495FA02B468FDE0BBDAA69AD70370D17
 It's okay. I'm silly too.,Всё в порядке. Я тоже глупенькая.,ai,,3A518643488AF229BE63F1A67AFF44D4
-"Hah! Very well, then - we'll just sit here and be silly for a while. ","Ха! Ну, тогда — мы просто посидим здесь и побудем глупенькими какое-то время.",ai,,92AE8EA7498984787032B4B20A5E6F21
+"Hah! Very well, then - we'll just sit here and be silly for a while. ","Ха! Ну, тогда - мы просто посидим здесь и побудем глупенькими какое-то время.",ai,,92AE8EA7498984787032B4B20A5E6F21
 "You can't always be silly, Grandpa. ","Ты не можешь всегда быть глупеньким, дедушка.",ai,,0F874D8D488316B0676363B714D28FB4
 Yeah! And then I'll be clever. And then silly again. I'll mix it up.,Да! А потом я буду умной. А потом снова глупенькой. Я буду смешивать.,ai,,E054D65345DD2D1D3C61A3B0C09D0326
 Yes. Forever. Silly forever.,Да. Навсегда. Глупенькой навсегда.,ai,,8E27F9DA4625875E71A3039AA454BF32
@@ -823,10 +823,10 @@ They waddle. They're funny.,Они ходят вразвалочку. Они с�
 They're so many. What are they doing?,Их так много. Что они делают?,ai,,2FE76E9B47905F59FEE39A8CB7DCC3D1
 [Point at the geezers] They're over there. Look!,[Указать на гусей] Они вон там. Смотри!,ai,,9EE685AA4C69E83EDDA0349C236A43C7
 "She'd always tell me when I was getting too big for my britches. And when things started going our way, she made sure I kept my feet on the ground.","Она всегда говорила мне, когда я зарывался слишком глубоко. И когда дела шли хорошо, она следила, чтобы я не терял связь с реальностью.",ai,,685E40A94BCF20596CA300BB7EDB8DB2
-How could it be hard to keep your feet on the ground?,Как это может быть сложно — не терять связь с реальностью?,ai,,02CDCFD844B730A38D6B8E9ECA8953FD
+How could it be hard to keep your feet on the ground?,Как это может быть сложно - не терять связь с реальностью?,ai,,02CDCFD844B730A38D6B8E9ECA8953FD
 "That's okay, Grandpa. I can help you with that now.","Всё в порядке, дедушка. Теперь я могу тебе помочь.",ai,,F3EF456248D9E1E86F2581ABB74A3285
 Can anyone learn how to do that?,Кто-нибудь может научиться этому?,ai,,BD684B8546AA2E98260B45A9FF740CCF
-"I should have known! You'd chase them up and down the street, until one of the store owners caught you. ""What do you think you're doing, running around outside my store,"" he said.","Я должен был догадаться! Ты гонялась за ними вверх и вниз по улице, пока один из продавцов не поймал тебя. ""Чем ты думала, бегая возле моего магазина,"" — сказал он.",ai,,1161B10A4DC89026F8FBBFA21C5E30DB
+"I should have known! You'd chase them up and down the street, until one of the store owners caught you. ""What do you think you're doing, running around outside my store,"" he said.","Я должен был догадаться! Ты гонялась за ними вверх и вниз по улице, пока один из продавцов не поймал тебя. ""Чем ты думала, бегая возле моего магазина,"" - сказал он.",ai,,1161B10A4DC89026F8FBBFA21C5E30DB
 I remember! He was scary.,Я помню! Он был страшный.,ai,,CAA314F04CB240AB77550AA1FB34A8C7
 I remember! He was funny.,Я помню! Он был смешной.,ai,,0BDEAA0749F92952C1651694A5AB5448
 He grabbed me! Why would he do that?,Он схватил меня! Зачем он это сделал?,ai,,BD48BE1649A062C982FA26A12418133F
@@ -841,7 +841,7 @@ That's what friends do. And grandmas.,"Это то, что делают друз
 "For today, bella. For today. Besides, even you will have to grow up eventually!","На сегодня, белла. На сегодня. Кроме того, даже тебе придётся вырасти когда-нибудь!",ai,,B9D8A3834A6EBEDE4305E9B3DAE8FFD8
 Is growing up...hard?,Взрослеть... тяжело?,ai,,2E26C5894DE6B9CCBC9BC7AD7989FF69
 Aw. I do? Will it take long?,Ой. Правда? Это займёт много времени?,ai,,37137F0E4D8EAD4208CDF0994FBC986F
-"Where else should they go? Geezers are interesting creatures. They're not like us - not quite - but they still have instinct. They're not stupid, not at all.","Куда ещё им идти? Гуси — интересные создания. Они не такие, как мы — не совсем — но у них всё равно есть инстинкты. Они не глупые, совсем нет.",ai,,5BB7E17A45C24C0FB2F975A9E2700AE9
+"Where else should they go? Geezers are interesting creatures. They're not like us - not quite - but they still have instinct. They're not stupid, not at all.","Куда ещё им идти? Гуси - интересные создания. Они не такие, как мы - не совсем - но у них всё равно есть инстинкты. Они не глупые, совсем нет.",ai,,5BB7E17A45C24C0FB2F975A9E2700AE9
 So why are they in the street?,Тогда почему они на улице?,ai,,64342533404F950229E4BDAF6A200E39
 [Whisper] They look a little stupid.,[Шепчет] Они выглядят немного глупо.,ai,,30E1B06E41B99F6ACB6A79A4903D0B44
 Maybe they could live in the big house with me and mom? And dad?,"Может, они могли бы жить в большом доме со мной и мамой? И папой?",ai,,8DFB58A54B6F6D51B035AE89229C6A2D

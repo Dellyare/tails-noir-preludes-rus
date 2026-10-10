@@ -1,6 +1,6 @@
 ﻿source,translation,status,namespace,key
 "...Howie, it's cold.","...Говчик, холодно.",ai,,0DA3485B484AEEFF8BAF5E98F6532399
-"(SARCASTIC) No - is it? By Shepherd, Larry. You're right. It's actually cold. In winter. Who'd have thunk.","(САРКАЗМ) Да ладно — правда? Клянусь Пастырем, Ларри. Ты прав. Зимой и вправду холодно. Кто бы мог подумать.",ai,,DD2E769E4D182B337A1843867DA60943
+"(SARCASTIC) No - is it? By Shepherd, Larry. You're right. It's actually cold. In winter. Who'd have thunk.","(САРКАЗМ) Да ладно - правда? Клянусь Пастырем, Ларри. Ты прав. Зимой и вправду холодно. Кто бы мог подумать.",ai,,DD2E769E4D182B337A1843867DA60943
 "I told you to dress warm, man.","Я же говорил тебе одеться потеплее, чувак.",ai,,601E91D74A22FD60E6C84F98E395383F
 "I'm sorry, man. We'll be done soon, I promise.","Прости, чувак. Мы скоро закончим, обещаю.",ai,,2ADAC2A6423C11BB6E7C57B43828937C
 "Yes, Larry. It is cold.","Да, Ларри. Холодно.",ai,,5A46F00145417B5F2795BC80909B9547
@@ -16,7 +16,7 @@ Taking pictures.,Делаем снимки.,ai,,E4F0D56C46E0AC77200D6A8DC1B5684F
 "So remind me, why are we out here again?","Так напомни, зачем мы тут?",ai,,B918E96A408D6B9C4392498DB2332956
 "...I've brought you here to freeze to death. And now, my evil plan is coming to fruition.","...Я привёл тебя сюда, чтобы ты замёрз насмерть. И теперь мой злодейский план близок к воплощению.",ai,,A3ED1C88486F58E9A02FB7BD5CB5CEC8
 We're taking pictures.,Мы фотографируем.,ai,,FBDE3AF34A9496AF13457CAF4736ABFD
-It's fine. Just remind me about the 'why' and I'll worry about the 'where'.,"Ничего. Напомни мне «зачем», а «где» — уж как-нибудь переживу.",ai,,76633AB54DBF8E2D87A546B469005692
+It's fine. Just remind me about the 'why' and I'll worry about the 'where'.,"Ничего. Напомни мне «зачем», а «где» - уж как-нибудь переживу.",ai,,76633AB54DBF8E2D87A546B469005692
 We're taking pictures. [Gesture to the camera],Мы фотографируем. [Показать на камеру],ai,,71C57BBC4B9445B46B0E58B236E9D122
 "...Uh-huh. And before I turn into an icicle, would you mind jogging my cold, cold memory about what else we're doing out here?","...Ага. А пока я не превратился в сосульку, не мог бы ты освежить мою замёрзшую память: что ещё мы тут делаем?",ai,,4D2FD0E142A84F835C6F009AB8A0033F
 Photography. Taking pictures.,Фотография. Снимаем.,ai,,20707922433E37DC7BE745ACE05E867B
@@ -26,7 +26,7 @@ Howard. It's too cold for metaphors.,Говард. Для метафор сли�
 (INVESTIGATIVE) I want to show off the real Gastown. Not the image they're trying to portray.,"(ПЫТЛИВОСТЬ) Я хочу показать настоящий Газтаун. А не тот образ, который им хочется преподнести.",ai,,9915395746713889990594B746B7CACB
 (SARCASTIC) To not pay anyone to model for me.,(САРКАЗМ) Чтобы не платить никому за позирование.,ai,,BE9E970A40F515141FF6E7A609E1F567
 "(SOCIAL) I don't want to do a callout for people. I want to find them, learn their story, then take their picture.","(ОБЩИТЕЛЬНОСТЬ) Я не хочу давать объявление, чтобы люди сами откликались. Я хочу найти их, узнать их историю, а потом сделать снимок.",ai,,885FE4C0403EF066A912EAB6987B5C34
-"Grandfather Steam? Sure. That's it, though? Just one snap and we're gone?",Дедушка Пар? Ладно. И это всё? Один снимок — и по домам?,ai,,9CEF6A7C47A80B136101FCBEEB442AC7
+"Grandfather Steam? Sure. That's it, though? Just one snap and we're gone?",Дедушка Пар? Ладно. И это всё? Один снимок - и по домам?,ai,,9CEF6A7C47A80B136101FCBEEB442AC7
 "(SARCASTIC) Yeah. You don't think I'm being too ambitious, do you?","(САРКАЗМ) Ага. Думаешь, я слишком много на себя беру?",ai,,DCE6561548FEA07AB7B6C384A58014AA
 "(INVESTIGATIVE) No, I think we need more than that. Some surrounding shots to build the mood. Show off Gastown for what it really is.","(ПЫТЛИВОСТЬ) Нет, думаю, нам нужно больше. Несколько фоновых кадров, чтобы создать настроение. Показать Газтаун таким, какой он есть на самом деле.",ai,,2B6ECDFC413F39DCD5D5EA953B0BB7F5
 "(SOCIAL) Well, since we're here, let's look around. Talk to people.","(ОБЩИТЕЛЬНОСТЬ) Раз уж мы здесь, давай осмотримся. Поговорим с людьми.",ai,,6E2D7AE44516778D5C66778F25A05DB9
@@ -52,27 +52,27 @@ What can I say? I am sustained by the suffering of others.,Что тут ска�
 Sure. Anything else we're doing? Landscapes? Lights? Cars? Just people.,Ясно. Что-нибудь ещё? Пейзажи? Огни? Машины? Или только люди?,ai,,E1000E0A4F0E5A33E3DC94901814E221
 "I want to take a picture of Grandfather Steam, too. For the cover.",Я хочу ещё сфотографировать Дедушку Пара. Для обложки.,ai,,16E43B7141779C4F3C411C8C00B5B8CA
 "My professor told me to take a picture of the clock here, so I guess we're doing that, too.","Мой профессор велел сфотографировать здешние часы, так что, видимо, этим мы тоже займёмся.",ai,,A2A9408540E8FAA4C2A1239AC3CDD932
-"I don't know, man. I'm not very surprised. Old clock like that seems like an easy target for that kind of fun. Besides, those guys stick out in Gastown even more than we do.","Не знаю, чувак. Я не особо удивлён. Старые часы — лёгкая цель для такого рода забав. К тому же эти ребята выделяются в Газтауне ещё сильнее, чем мы.",ai,,E66C9B7F428FD09E29FB269882233920
+"I don't know, man. I'm not very surprised. Old clock like that seems like an easy target for that kind of fun. Besides, those guys stick out in Gastown even more than we do.","Не знаю, чувак. Я не особо удивлён. Старые часы - лёгкая цель для такого рода забав. К тому же эти ребята выделяются в Газтауне ещё сильнее, чем мы.",ai,,E66C9B7F428FD09E29FB269882233920
 "Yeah, it's whatever.","Ага, ладно, пофиг.",ai,,05EF13BD463DFFD55D84EAA7373918D4
-The only cool thing in my book is following the rules.,"Единственное, что для меня круто, — соблюдать правила.",ai,,4320FE5E480B936F5E7CA38855AD4C24
+The only cool thing in my book is following the rules.,"Единственное, что для меня круто, - соблюдать правила.",ai,,4320FE5E480B936F5E7CA38855AD4C24
 Just some harmless fun. I thought it was hilarious.,"Просто безобидное веселье. По-моему, это было уморительно.",ai,,0E2E65CF42494BF8939F20BEF1832F64
 "Oh, you think you're such a social butterfly, huh? And who's to thank? Who's the man standing behind the self-proclaimed smooth king of the faculty?","О, ты думаешь, что такая общительная бабочка, да? А кого за это благодарить? Кто тот мужик, что стоит за самопровозглашённым королём обаяния нашего факультета?",ai,,FD85ED8B46771ED48464D9B9B82FE43D
 Me. I am standing behind myself.,Я. Я стою сам за собой.,ai,,BEF6F9BA40F5BD24F9D99DB151B91A98
 "I'm just teasing you. You know I love you, dude.","Да просто дразню тебя. Ты же знаешь, я тебя люблю, дружище.",ai,,FF5602B34D34ECA133090CAF3F7CB491
-"Pssh. As if you're much better. I've seen you trying to smooth-talk people, and your success rate is a solid 50/50 at best.","Пф. Как будто ты намного лучше. Я видел, как ты пытаешься кого-то охмурить, и твой успех — в лучшем случае пятьдесят на пятьдесят.",ai,,F18978B14157C80AF0B80991EFF6E920
+"Pssh. As if you're much better. I've seen you trying to smooth-talk people, and your success rate is a solid 50/50 at best.","Пф. Как будто ты намного лучше. Я видел, как ты пытаешься кого-то охмурить, и твой успех - в лучшем случае пятьдесят на пятьдесят.",ai,,F18978B14157C80AF0B80991EFF6E920
 "Half the time I go the whole way, and that's all the stats I need, baby.","В половине случаев я довожу дело до конца, и другая статистика мне не нужна, детка.",ai,,3432170A4CB3C53C0BC6209FAFDBD983
 [Say nothing and hope he changes the subject],"[Промолчать и надеяться, что он сменит тему]",ai,,D2282BD64647CC39C5BBC19764AE9326
 Says the man who up until recently was so inept at flirting I had to smooth things over with our dormmates.,"Говорит тот, кто до недавнего времени так бездарно флиртовал, что мне приходилось улаживать всё с соседями по общаге.",ai,,4A75630841CBF68CD8032784196140A4
 "Yes, uh, ahem, thank you for that, by the way.","Да, э-э, кхм, спасибо тебе за это, кстати.",ai,,0868D1884629BB5F7B57C6A3D1DD74DD
 They were going to come around. I could tell.,Они бы остыли. Я чувствовал.,ai,,D072714444898267615BD8997B43BCD4
-"Pssh. Whatever. Come on, man, let's get on with it. We take portraits, and that's that?","Пф. Ладно. Давай, чувак, за дело. Снимаем портреты — и всё?",ai,,B66750A04BFC8A2B3A5E23B61F3F4BFD
+"Pssh. Whatever. Come on, man, let's get on with it. We take portraits, and that's that?","Пф. Ладно. Давай, чувак, за дело. Снимаем портреты - и всё?",ai,,B66750A04BFC8A2B3A5E23B61F3F4BFD
 "I want to take a picture of Grandfather Steam, too. For the cover.",Я хочу ещё сфотографировать Дедушку Пара. Для обложки.,ai,,C043DB834259591EB0EF8780E38E3B8A
 "My professor told me to take a picture of the clock here, so I guess we're doing that, too.","Мой профессор велел сфотографировать здешние часы, так что, видимо, этим мы тоже займёмся.",ai,,A36BFCF24ECE16D0E3AA18A0A236798D
 "I mean, geezers will geeze. I guess. I doubt this was an evil plan they hatched to strike at the powers that be.","Ну, гусяры есть гусяры, что с них взять. Сомневаюсь, что это был злодейский план, чтобы ударить по сильным мира сего.",ai,,40CE826D41027CF9C4CAFAABE6814AD4
 Nah. Geezers are dumb.,Не-а. Гусяры тупые.,ai,,E74D0BF54EFC426F98F3648A98F61F48
 I'm not so sure. Those guys are more clever than they let on.,"Не уверен. Эти ребята умнее, чем кажутся.",ai,,4F66234649477E2231B179A2481223BD
 Honk.,Га-га.,ai,,6C6630BD4B0A4C73E5EABFB19B72B055
-"Don't sweat it. So that's it, then? Portraits? Snap a few, and we're done?","Не парься. Значит, всё? Портреты? Щёлкнем пару кадров — и домой?",ai,,115C5000440AA09E3BFD859F73C12570
+"Don't sweat it. So that's it, then? Portraits? Snap a few, and we're done?","Не парься. Значит, всё? Портреты? Щёлкнем пару кадров - и домой?",ai,,115C5000440AA09E3BFD859F73C12570
 "I want to take a picture of Grandfather Steam, too. For the cover.",Я хочу ещё сфотографировать Дедушку Пара. Для обложки.,ai,,968D65AB40B6DAD5F3F364AE35935109
 "My professor told me to take a picture of the clock here, so I guess we'll be doing that, too.","Мой профессор велел сфотографировать здешние часы, так что, видимо, этим мы тоже займёмся.",ai,,C11EE94E41D931412EB2DB9709CDB984
 "What's the plan, Howie?","Какой план, Говчик?",ai,,4F0D694D4ED25934CE8387B62F28F4BA
@@ -83,7 +83,7 @@ There's something I want to talk to you about.,Мне нужно с тобой �
 "Uh-huh. Come on, you nerd. Let's get those portraits taken. Anything else we should look out for?","Ага. Давай, ботаник, снимем эти портреты. Что-нибудь ещё нам нужно иметь в виду?",ai,,03BE1A764B744F0FC3794EB19CFB4D1D
 "I want to take a picture of Grandfather Steam, too. For the cover.",Я хочу ещё сфотографировать Дедушку Пара. Для обложки.,ai,,0C27F3D44376D4149D309F88B88CE248
 "My professor told me to take a picture of the clock here, so I guess we're doing that, too.","Мой профессор велел сфотографировать здешние часы, так что, видимо, этим мы тоже займёмся.",ai,,C082284346C5671CF823E08A439E826F
-"Uh-huh. Well, come on then, genius. Snap a few portraits, and then we're done?","Ага. Ну давай тогда, гений. Щёлкнем пару портретов — и всё?",ai,,20D73D5D4197080516A0FBA3943E2C6F
+"Uh-huh. Well, come on then, genius. Snap a few portraits, and then we're done?","Ага. Ну давай тогда, гений. Щёлкнем пару портретов - и всё?",ai,,20D73D5D4197080516A0FBA3943E2C6F
 "I want to take a picture of Grandfather Steam, too. For the cover.",Я хочу ещё сфотографировать Дедушку Пара. Для обложки.,ai,,02650806467B278EC1A0D8AB3DA99ACC
 "My professor told me to take a picture of the clock here, so I guess we're doing that, too.","Мой профессор велел сфотографировать здешние часы, так что, видимо, этим мы тоже займёмся.",ai,,1096F19C4C771152633812803DDC3E04
 "That must be so hard for you, Howie. Now come on, all we need to do is snap a few portraits, yeah?","Тебе, наверное, так тяжело, Говчик. А теперь давай, нам всего-то и нужно, что щёлкнуть пару портретов, да?",ai,,864BB7EA4A9E7C3EF03F87A3733F52CB
@@ -102,7 +102,7 @@ Like I said. Natural-born.,Я же говорил. Прирождённый.,ai,
 Yeah? Then how come you've lost all those bets? Where were your superior deduction skills then?,Да? Тогда почему ты проиграл все те споры? Где были твои выдающиеся дедуктивные способности?,ai,,A23C8FD440C4FFC13C1140BABBDD726C
 "...Those were unfair bets, though.",...Но это были нечестные споры.,ai,,12C33F384E7050BD689BC2A2B7D51D6E
 "I just, uh, didn't want you to feel inferior. To my big brain.","Я просто, э-э, не хотел, чтобы ты чувствовал себя ниже. Рядом с моим большим мозгом.",ai,,DC8500A34064C1A6C925D1AD1969E08E
-"Alright, enough talking. We take the portraits, and that's that. Right?","Ладно, хватит болтать. Снимаем портреты — и всё. Так?",ai,,B122882E40FBEDE401A9D69E365D09D3
+"Alright, enough talking. We take the portraits, and that's that. Right?","Ладно, хватит болтать. Снимаем портреты - и всё. Так?",ai,,B122882E40FBEDE401A9D69E365D09D3
 "Nah, I also want to take a picture of Grandfather Steam. For the cover.","Не, я ещё хочу сфотографировать Дедушку Пара. Для обложки.",ai,,C5BA70E74A56A169260603A09E7CBA52
 "Eh, my professor told me to take a picture of the clock here, so I guess we have to do that too.","Э, мой профессор велел сфотографировать здешние часы, так что, видимо, придётся и это.",ai,,B5358FF94C2ABBC08EF2C399FCA22D9D
 "Uh-huh, right. Of course. Come on, let's get to work. So all we need is portraits, right?","Ага, ну да. Конечно. Давай, за работу. Значит, нам нужны только портреты, так?",ai,,30FBF48D4982CEFB74C5178B1FCEA6B3
@@ -114,7 +114,7 @@ What do you mean?,Всмысле?,ok,,4CDC77194CE22D1CB696A4ADCAA13CB9
 [Look at the clock],[Посмотреть на часы],ai,,26B9BBC94BB5B27E7C4C07A541201032
 "Oh shit, really? I guess we are done, then?","Вот дерьмо, правда? Выходит, мы закончили?",ai,,8262C07C43F7BD17F659D78C66F7FEB5
 What did you make of that?,Что ты обо всём этом думаешь?,ai,,4F6405824346BC8B9456CC96CB0E7493
-"Look at us, man. Crime-solving duo Howard and Larry.","Только посмотри на нас, чувак. Дуэт сыщиков — Говард и Ларри.",ai,,8C4016C04F00AC75EDEA8B8BB18A6BB2
+"Look at us, man. Crime-solving duo Howard and Larry.","Только посмотри на нас, чувак. Дуэт сыщиков - Говард и Ларри.",ai,,8C4016C04F00AC75EDEA8B8BB18A6BB2
 "...Larry, there's something I wanted to talk to you about.","...Ларри, я хотел с тобой кое о чём поговорить.",ai,,3368A3A247F1FCF6073B9E814AC6C9CD
 Of course. Can't have a Howie hang without meeting a ton of new people. And what do we do after that?,Конечно. Не бывает тусовки с Говчиком без кучи новых знакомых. А что мы делаем после этого?,ai,,FC614703429C309D9B4427A4A081EE89
 "[Shrug] I don't know, portraits?","[Пожать плечами] Не знаю, портреты?",ai,,05938069411AC64E6624F49CEDD1DD28
@@ -138,7 +138,7 @@ Wait. There was something I wanted to talk to you about.,Подожди. Я хо
 "...Wisconsin, right? Eerie. Wonder if they're related or something. We should get back to the dorm, though. I'm freezing!","...Висконсин, да? Жутковато. Интересно, они родственники или что-то в этом роде. Но нам пора возвращаться в общагу. Я замерзаю!",ai,,7AAFCFBB45D0841E309D5CBDF965390E
 Not just yet.,Пока нет.,ai,,B0348E0241DA854812751382F13C9EDE
 Wait. There was something I wanted to talk to you about.,Подожди. Я хотел с тобой кое о чём поговорить.,ai,,E36CF007449B64444F07E9A4D64AAC2B
-"Seemed to know his trade well enough, though. Hope he does alright in the end. Doing shit like that seems pretty risky. Should we get going?","Своё дело он, впрочем, знал неплохо. Надеюсь, у него в итоге всё получится. Заниматься таким дерьмом — довольно рискованно. Пойдём?",ai,,CB11CEAD46646BA96F40F0B984D95B94
+"Seemed to know his trade well enough, though. Hope he does alright in the end. Doing shit like that seems pretty risky. Should we get going?","Своё дело он, впрочем, знал неплохо. Надеюсь, у него в итоге всё получится. Заниматься таким дерьмом - довольно рискованно. Пойдём?",ai,,CB11CEAD46646BA96F40F0B984D95B94
 Not just yet.,Пока нет.,ai,,E074E25D4FC287DBC9F635A050A9CA61
 Wait. There was something I wanted to talk to you about.,Подожди. Я хотел с тобой кое о чём поговорить.,ai,,0600E6BD4BCF410DFF9F84A7F7A9C62F
 "Her kid can't, though. If that even is her kid. But enough about them: let's get back to the dorm. It's getting colder.",А вот её ребёнок не может. Если это вообще её ребёнок. Но хватит о них: пошли обратно в общагу. Становится холоднее.,ai,,C740B0E3496012CEC5FECDBA06AEB59B
@@ -198,14 +198,14 @@ We should be quick. The thief might still be around.,Надо поторопит
 "So, what now? How about we get going?","Ну и что теперь? Может, пойдём?",ai,,0DD979314D5D5629F6E6A5ADFF1A9EE1
 Wait. There was something I wanted to talk to you about.,Подожди. Я хотел с тобой кое о чём поговорить.,ai,,79179A2E43EA18AEA73E66BD3A5B77AC
 Not just yet.,Пока нет.,ai,,C51DD2124572AF6153FE44AFAFA5E6F4
-"...Sure. We figure out who stole the hand, we get it back, and then we take the picture. Before, during, or after, we make sure to get some portraits taken. How many do you think you'll need?","...Ладно. Выясняем, кто украл стрелку, возвращаем её, а потом делаем снимок. До, во время или после — обязательно снимем несколько портретов. Сколько, по-твоему, тебе понадобится?",ai,,B1D852A2429FB82D0227B38A893E0700
+"...Sure. We figure out who stole the hand, we get it back, and then we take the picture. Before, during, or after, we make sure to get some portraits taken. How many do you think you'll need?","...Ладно. Выясняем, кто украл стрелку, возвращаем её, а потом делаем снимок. До, во время или после - обязательно снимем несколько портретов. Сколько, по-твоему, тебе понадобится?",ai,,B1D852A2429FB82D0227B38A893E0700
 I've got five shots left on this roll.,На этой плёнке у меня осталось пять кадров.,ai,,9B69160542011972617233BEF7CBC122
 Four should be enough for now.,Четырёх пока хватит.,ai,,DB6CB3E4425968D808A34BBB3CA5A00C
 "And we need one for the clock. Alright, three portraits it is. Sound good?","А один нужен для часов. Ладно, значит, три портрета. Идёт?",ai,,950B0D8B4C9EC69FB960429B7CC37C10
 Sounds good. Let's go. [Leave],Идёт. Пошли. [Выйти],ai,,9E3E32AF4FDBD82A0311A187B6172C2C
 "Alright. One for Grandfather Steam, and three for whoever we can find. Sound good?","Хорошо. Один для Дедушки Пара и три для тех, кого найдём. Идёт?",ai,,B3D7C11D4BD902243A41469ABB3E9967
 Great. [Leave],Отлично. [Выйти],ai,,5658823E42D470612988EFA041D991C8
-"I don't know about dumb, but certainly not, like...malicious. Not in an organized manner, I think. Anyway, that doesn't matter. Ready to head back?","Не знаю, тупые ли они, но уж точно не... злонамеренные. Организованно — вряд ли. Впрочем, неважно. Готов идти обратно?",ai,,9BCC74FE4B1203CCB2309DAB644BA822
+"I don't know about dumb, but certainly not, like...malicious. Not in an organized manner, I think. Anyway, that doesn't matter. Ready to head back?","Не знаю, тупые ли они, но уж точно не... злонамеренные. Организованно - вряд ли. Впрочем, неважно. Готов идти обратно?",ai,,9BCC74FE4B1203CCB2309DAB644BA822
 Wait...there was something I wanted to talk to you about.,Погоди... я хотел с тобой кое о чём поговорить.,ai,,408EE3754EF7B929688AAAB5B204E8C7
 Not just yet.,Пока нет.,ai,,FD408C134FB9692FF672C295DF43935A
 Thank you for your contribution. Ready to head home?,Спасибо за вклад. Готов идти домой?,ai,,3EAC571A4E031B2AA0612CB59522AD69
@@ -233,7 +233,7 @@ Still got a picture or two to take. Let's get to it.,Мне ещё нужно с
 I think I want to get more serious about dating.,"Кажется, я хочу относиться к отношениям серьёзнее.",ai,,3FD16EF84EE218A71EBCD593C6B2B4B4
 University is over soon. I guess I'm not 100% on what the plan is.,"Университет скоро закончится. Я, кажется, не на сто процентов понимаю, что будет дальше.",ai,,DB10A1664A9906E466CF34BD71D23A93
 "...What do we do once all this is over, man?","...Что мы будем делать, когда всё это закончится, чувак?",ai,,A11E083A4AE17CED237A719AF46ACD1E
-"Step one? Find an apartment. Step two? We move in. The next steps are a fucking dance, my dude.","Шаг первый? Находим квартиру. Шаг второй? Переезжаем. Дальше — просто, мать его, танец, мужик.",ai,,5E0BD7504B11C1434A011881A2FD44F3
+"Step one? Find an apartment. Step two? We move in. The next steps are a fucking dance, my dude.","Шаг первый? Находим квартиру. Шаг второй? Переезжаем. Дальше - просто, мать его, танец, мужик.",ai,,5E0BD7504B11C1434A011881A2FD44F3
 What if step two ends up...not happening?,А если шаг второй... не случится?,ai,,821DA9264CD7ED9062DE5C9DC8F7E21F
 ...And if they aren't?,...А если нет?,ai,,2A2F35244A6FAD3294A5EBB88454BFF1
 "I'm being serious, man.","Я серьёзно, чувак.",ai,,D960E589461196752881BF9DAE26BFC0
@@ -254,7 +254,7 @@ You mean that?,Ты правда так думаешь?,ai,,0386FA3E4E12167C82E3
 So did you take all the shots you wanted? Are we done here?,"Ну что, ты сделал все снимки, какие хотел? Мы закончили?",ai,,8573D323409175C584968A964B4AF069
 "Yeah, looks like that was the last one.","Ага, похоже, это был последний.",ai,,6B3DF3314C4D69DDDEB0A9A78B07F928
 Still need one more. Let's see what we can find.,"Нужен ещё один. Посмотрим, что можно найти.",ai,,8E6F4E5A4979788B3F14EE8F3A222C11
-Got one more - mind if I take a picture of you?,"Остался ещё один кадр — не против, если я сфотографирую тебя?",ai,,FE9AF06B4CA8787B2DCC5597CB45B670
+Got one more - mind if I take a picture of you?,"Остался ещё один кадр - не против, если я сфотографирую тебя?",ai,,FE9AF06B4CA8787B2DCC5597CB45B670
 Still got a few more to go. Let's get going!,Ещё несколько штук осталось. Пошли!,ai,,B0713098410621BAF7407FB465C01754
 "Yeah! I'll be fine! Whatever happens, man, it's not going to break us up.","Ага! Всё будет нормально! Что бы ни случилось, чувак, это нас не разлучит.",ai,,24B78E8F491ACAA1CDD3CB9BF6FA71B6
 "Hah! About time, too. You've been fumbling in the dark for, like, years now.","Ха! Давно пора. Ты уже, как бы, годами топчешься в потёмках.",ai,,01E2FEB54A20918EB6B9F2B27D580F64
@@ -314,17 +314,17 @@ I mean it!,Я серьёзно!,ai,,C9A033BD4143A9E60CAE77916721FDF4
 "Alright, let's see what else we can find.","Ладно, посмотрим, что ещё можно найти.",ai,,1CE6213C4219DBAC1174D9859A9480B4
 "I get that. Doubts, fears, worries. We all have them.","Понимаю. Сомнения, страхи, тревоги. У всех они есть.",ai,,67B795BC4AD1B5C84CE316BBAAC0039B
 And how do you deal with them?,А как ты с ними справляешься?,ai,,20FE7B78482861BF97297C84D63C2E82
-"No, you don't get it - they're ominous.","Нет, ты не понимаешь — они зловещие.",ai,,F1E323C14AE07E2062818294B58F1960
+"No, you don't get it - they're ominous.","Нет, ты не понимаешь - они зловещие.",ai,,F1E323C14AE07E2062818294B58F1960
 "I, uh, usually talk to you about it. And I just kind of assume you do the same.","Я, э-э, обычно говорю об этом с тобой. И просто считаю, что ты делаешь то же самое.",ai,,4E491E834F9BD5F367DD4A8AB3D51B38
 I do. For the most part.,Делаю. По большей части.,ai,,4F966A874EF78C7ABA6C78BD39515DEA
 What - you're concerned that the things you're worrying about might come true?,"Что, ты боишься, что то, о чём ты переживаешь, может сбыться?",ai,,3F511AC84491DF127F2BE9983B4E0C94
 It's okay. I made it seem bigger than it was.,Ничего. Я раздул из мухи слона.,ai,,0F0CBAFE45F43FC60812FCA4E0E3AD2C
 "...Shit, yeah. Something like that.","...Чёрт, да. Что-то вроде того.",ai,,F8FB70044F3374E1467AE6BB3188CFEF
-"Listen - you worry about something happening long enough, and you're going to make it happen. You're making it real.","Слушай — если слишком долго переживать, что что-то случится, ты сам это и вызовешь. Ты делаешь это реальным.",ai,,EBD2F58C46770A5482DA8791DF3545B4
+"Listen - you worry about something happening long enough, and you're going to make it happen. You're making it real.","Слушай - если слишком долго переживать, что что-то случится, ты сам это и вызовешь. Ты делаешь это реальным.",ai,,EBD2F58C46770A5482DA8791DF3545B4
 I don't want to.,Я не хочу.,ai,,85F6CBB64833DDC1D6E809B1D3038615
 Either that or I'm getting ready for it.,"Либо так, либо я просто готовлюсь к этому.",ai,,FEF63704464587090B640EAF2D41618A
 Then don't worry. Or at least talk to me about it.,Тогда не переживай. Или хотя бы расскажи мне.,ai,,73D263C44F8F6AA86F2C398C98D7E550
-"Alright - Larry, I'm not sure our plans are going to work out.","Ладно — Ларри, я не уверен, что наши планы сбудутся.",ai,,1F1812674B81A97DE2A5CCB8FB583564
+"Alright - Larry, I'm not sure our plans are going to work out.","Ладно - Ларри, я не уверен, что наши планы сбудутся.",ai,,1F1812674B81A97DE2A5CCB8FB583564
 "It's just hard to, sometimes.",Просто иногда это трудно.,ai,,6FC171254E972D76E6DF41816A96A801
 And you'll listen?,И ты выслушаешь?,ai,,DA21C2CF4A2F6B230E9A099FADE4FB3B
 "Of course, man. I'll be around for it.","Конечно, чувак. Я буду рядом.",ai,,7E5EDA8D40BAF1E9EC5B30B805BB1B62
@@ -345,7 +345,7 @@ So you wouldn't move here?,То есть ты бы сюда не перееха�
 "...You sure? Alright, I guess so. Fine. Do your worst, Howie.","...Уверен? Ладно, пожалуй. Хорошо. Давай, Говчик, делай худшее.",ai,,7D8B8C8B4A6C1D2D0A2234BE92A62464
 [Take a picture of Larry],[Сфотографировать Ларри],ai,,DA8EDDFA4E7E4B63FEB361A07B031B10
 "On second thought, let's see if we can find something else... [Leave]","Если подумать, давай поищем что-нибудь другое... [Выйти]",ai,,677389904B3832795FCDE4AECDFFB255
-"I know. Just don't - shit, don't stress so much about it. It's going to be okay. And even if it doesn't, we'll make that okay, too.","Знаю. Только не — чёрт, не стрессуй так из-за этого. Всё будет нормально. А если нет, мы и из этого сделаем нормально.",ai,,F0EB6B93418716A93B88BABFBF03F8CC
+"I know. Just don't - shit, don't stress so much about it. It's going to be okay. And even if it doesn't, we'll make that okay, too.","Знаю. Только не - чёрт, не стрессуй так из-за этого. Всё будет нормально. А если нет, мы и из этого сделаем нормально.",ai,,F0EB6B93418716A93B88BABFBF03F8CC
 And if we end up getting separated? What does that mean?,А если нас всё-таки разделят? Что тогда?,ai,,49EA75C24A4608F59CB60093A6E6E189
 "It means you're not getting rid of me, alright? I care too damn much about you. If you move to the farthest end of the city, I'll still be your friend. You idiot.","Тогда ты от меня не избавишься, понял? Ты мне слишком дорог. Даже если ты переедешь на другой конец города, я всё равно останусь твоим другом. Идиот.",ai,,8D3826F54B7BA21B54120F88DA60F83B
 "I...yeah, that makes me feel a little better.","Я... ага, мне от этого чуть легче.",ai,,61107B92481A1364F79B72B7710055EF
@@ -371,7 +371,7 @@ Perfect.,Идеально.,ai,,201F5A4E432326AA239C66A89B7EA0F5
 "What are you getting at, man?","К чему ты клонишь, чувак?",ai,,732C614648F8883706B739BA91295AFC
 "The plans, man. Our plans.","Планы, чувак. Наши планы.",ai,,3C8D5FC74ABD90FAB86D71BF46DA4546
 ...What if we don't end up living together?,...А если мы не станем жить вместе?,ai,,81ABE7164C9AAED4C88F5DBE67B0AF4E
-"Oh - right, getting serious about dating in that kind of way. I get it. Well, uh - did you, like, have someone in mind?","О — понятно, серьёзно относиться к свиданиям в этом смысле. Ясно. Ну, э-э, у тебя кто-то есть на примете?",ai,,B88429394079FECFAFB696A78F75D9ED
+"Oh - right, getting serious about dating in that kind of way. I get it. Well, uh - did you, like, have someone in mind?","О - понятно, серьёзно относиться к свиданиям в этом смысле. Ясно. Ну, э-э, у тебя кто-то есть на примете?",ai,,B88429394079FECFAFB696A78F75D9ED
 You don't know them.,Ты их не знаешь.,ai,,117B14F44901F3E4AC07279F4940C3AD
 You don't know her.,Ты её не знаешь.,ai,,A37DE7C04C2A999AE2599A9395AC531A
 You don't know him.,Ты его не знаешь.,ai,,994C55E24C3C762E0132BC887372D816
@@ -388,7 +388,7 @@ What do you mean? You love the Shepherd. You're his biggest fan.,Ты о чём?
 "I, uh...I think you can give it a shot, sure. If that's what you really want. I have to ask, though. Is that all you wanted to tell me? What are you getting at, Howie?","Я, э-э... думаю, можешь попробовать, конечно. Если ты правда этого хочешь. Но я должен спросить. Это всё, что ты хотел мне сказать? К чему ты клонишь, Говчик?",ai,,09B1F6D449AB8858AAF4E78B8DA35FD0
 I'm just thinking about our plans for the future.,Я просто думаю о наших планах на будущее.,ai,,8C8262834F7E5D1BB520B987B7DB0C23
 "What if...we don't end up moving in together? You and me, I mean.","А что, если... мы не станем жить вместе? Ты и я, в смысле.",ai,,2AA365FC4B2CFBB1DD8550B951F7B7F7
-"Alright, sure. When the time comes, we'll both know. You made this sound so serious, though - is there something you're getting at?","Ладно, понятно. Когда придёт время, мы оба поймём. Но ты говорил так серьёзно — ты к чему-то ведёшь?",ai,,A540991640782F5F8E6B2898DB75797B
+"Alright, sure. When the time comes, we'll both know. You made this sound so serious, though - is there something you're getting at?","Ладно, понятно. Когда придёт время, мы оба поймём. Но ты говорил так серьёзно - ты к чему-то ведёшь?",ai,,A540991640782F5F8E6B2898DB75797B
 I'm just thinking about our plans for the future.,Я просто думаю о наших планах на будущее.,ai,,213FF25146614FD5469CF8832D1B946E
 "What if...we don't end up moving in together? You and me, I mean.","А что, если... мы не станем жить вместе? Ты и я, в смысле.",ai,,90800BDC4A2D2023ED66ECA65BD65DA7
 "I mean, whoever it would or will be, I'll be happy for you. You should do what you want to do - but is that all? Is there something you're getting at?","В смысле, кто бы это ни был или ни будет, я за тебя порадуюсь. Делай, что хочешь. Но это всё? Ты к чему-то ведёшь?",ai,,EB4155C24375528B014139B2643BD879
@@ -480,7 +480,7 @@ I'm not sure.,Я не уверен.,ai,,3D7BEE8A4B16A0218FF5D29A9B3E7F36
 Shut up. I'm...unsure of what will happen. I just refuse to worry about it beyond that. What about you?,"Заткнись. Я... не знаю, что будет. Я просто отказываюсь переживать об этом сверх того. А ты как?",ai,,6ABDCAE947DE36B43537C8BACE5AFBE7
 "I'm okay, I think.","Нормально, кажется.",ai,,EE59321A4CA615F5BAECC3B5AC85700F
 I'm...not sure.,Я... не уверен.,ai,,3329C9AE45EA0877870DBA9C732196B2
-"Fucking right, dude. Fucking right. Anyway - I hope that makes you a little less concerned.","Чертовски верно, мужик. Чертовски верно. В общем — надеюсь, ты теперь чуть меньше переживаешь.",ai,,B399B86641D56D3502F95CB0475DEC6B
+"Fucking right, dude. Fucking right. Anyway - I hope that makes you a little less concerned.","Чертовски верно, мужик. Чертовски верно. В общем - надеюсь, ты теперь чуть меньше переживаешь.",ai,,B399B86641D56D3502F95CB0475DEC6B
 It does.,Да.,ai,,1ECFFAFF41C7B1B8D6B1C5A8CAC40DA1
 I'm...not sure.,Я... не уверен.,ai,,B63952144CB8A9B5BEE5699F27200480
 Nah. Sabotaging your own work just so you can keep doing it? I can't decide if that's genius or completely idiotic.,"Не. Саботировать собственную работу, чтобы можно было продолжать её делать? Не могу решить, гениально это или полный идиотизм.",ai,,5478BC7A42D39A38B2D01998E4D9F584
@@ -498,7 +498,7 @@ Even if that wasn't the plan?,Даже если это не было плано�
 "It's that simple, huh?","Всё так просто, да?",ai,,3A615DA64B9C5927693664AC913D91B0
 "I guess I'm just not as sure of it as you are, man.","Наверное, я просто не так уверен в этом, как ты, чувак.",ai,,937DF90741AD10826EE98FA12D2D1456
 "Of course, man. I'm not trying to negotiate our friendship.","Конечно, чувак. Я не пытаюсь торговаться за нашу дружбу.",ai,,4DFDCA6542BBB3BF0C0CAA9617EB7DEF
-"No masterpiece ever started as a class assignment, man. Just shoot what you need to shoot, and then let's go. I know apartment hunting is stressful, but you can't keep putting it off. We only have a month left in the dorms!","Ни один шедевр не начинался как учебное задание, чувак. Просто сними, что нужно, и пойдём. Знаю, поиск квартиры — это стресс, но нельзя вечно откладывать. У нас в общаге остался всего месяц!",ai,,22A74A8B453AD34E7CAC1CA1DCE79269
+"No masterpiece ever started as a class assignment, man. Just shoot what you need to shoot, and then let's go. I know apartment hunting is stressful, but you can't keep putting it off. We only have a month left in the dorms!","Ни один шедевр не начинался как учебное задание, чувак. Просто сними, что нужно, и пойдём. Знаю, поиск квартиры - это стресс, но нельзя вечно откладывать. У нас в общаге остался всего месяц!",ai,,22A74A8B453AD34E7CAC1CA1DCE79269
 I don't know if we'll have time for both.,"Не знаю, хватит ли у нас времени на то и другое.",ai,,875D2EBF414D74351AE2B18AD433F214
 I'm not putting it off.,Я не откладываю.,ai,,51EC3C4A43DE4E07DE9B0CAEEEC50AC5
 Maybe we should save up a bit first. Move back in with our parents or something?,"Может, нам сперва немного подкопить. Вернуться к родителям или вроде того?",ai,,AEC22BBF49B6E135BEA55C9AC897100A
@@ -585,7 +585,7 @@ How's your final project going?,Как продвигается твой вып�
 I guess. Can I ask you something else?,Наверное. Можно спросить тебя ещё кое о чём?,ai,,1CFF44094D5F1BAA2A92A7982CBE2DFA
 How do you feel about it?,А ты что об этом думаешь?,ai,,B919FB414406F2C03E06FFA552B66D7B
 "Let's get to it, then. [Leave]",Тогда за дело. [Выйти],ai,,3BD7417646BD1441DD9B5B902CE8A5A0
-Now? Let's get this picture taken - we can talk later.,Сейчас? Давай сделаем этот снимок — поговорим потом.,ai,,08AA8C674A04A1945C282E9020585AD3
+Now? Let's get this picture taken - we can talk later.,Сейчас? Давай сделаем этот снимок - поговорим потом.,ai,,08AA8C674A04A1945C282E9020585AD3
 "Fine. Another thing, though...",Ладно. Но ещё кое-что...,ai,,BCC3C8074360A0CB51BB679F5917685B
 "It's important, Larry.","Это важно, Ларри.",ai,,06788E304FFC71FF7D320D85BDC4C08C
 "Alright, let's get to taking pictures.","Ладно, давай займёмся съёмкой.",ai,,A96941C24039682F33C71A919941657A
@@ -660,13 +660,13 @@ So is it more about you wanting to be done with it?,"То есть дело ск
 Deal. Let's go.,Договорились. Пошли.,ai,,96C8D17B42207512FAAE34BBBD107877
 We'll see.,Посмотрим.,ok,,E562639B43DCFA7DBCE3888011B7C8EB
 """Early influences of lower Kinds in classical City sculpture.""",«Раннее влияние низших Видов на классическую городскую скульптуру».,ai,,41D7E37C4ACE941D2E41B1B83D18F5E4
-"Oh, uh, yeah. I knew that. Also, man - they let you write about that?","А, э-э, да. Я знал. А ещё, чувак, — они разрешили тебе писать об этом?",ai,,37B7169B4E28D1CE74DEA093FA03D3FD
+"Oh, uh, yeah. I knew that. Also, man - they let you write about that?","А, э-э, да. Я знал. А ещё, чувак, - они разрешили тебе писать об этом?",ai,,37B7169B4E28D1CE74DEA093FA03D3FD
 Right. Do you need my help with it?,Ясно. Тебе нужна моя помощь?,ai,,BE8BF9964CC49A2E5621D4B09E1106D0
 "That whole thing with the clock? I mean, shit, it wasn't something I was expecting to be doing on Winter Solstice. But sure. It was kind of fun.","Вся эта история с часами? Ну, чёрт, не думал, что буду заниматься этим в зимнее солнцестояние. Но да. Было вроде весело.",ai,,BA15A1B546A821BC67F61B84B586F56B
 I was pretty sure who did it from the get-go. How about you?,"Я почти сразу догадывался, кто это сделал. А ты?",ai,,CC5DB7034272363F09CA8895A17CB8BA
 Culprit wasn't who I thought it'd be.,"Виновник оказался не тем, кем я думал.",ai,,A29E10DB4BD4AEA1F05CC985952A2314
 "Not exactly what I expected, either.",Я тоже ожидал не совсем этого.,ai,,6E40BC2E460CA954314CC19DE736B1E6
-"Nah, you're good. Getting out like this is a nice break, honestly, so that's already more than enough.","Не, не надо. Такая вылазка — приятный перерыв, если честно, так что мне уже более чем достаточно.",ai,,4BDECFF244060383D76F119AE0DC7328
+"Nah, you're good. Getting out like this is a nice break, honestly, so that's already more than enough.","Не, не надо. Такая вылазка - приятный перерыв, если честно, так что мне уже более чем достаточно.",ai,,4BDECFF244060383D76F119AE0DC7328
 "Can I ask you something else, man?","Можно спросить тебя ещё кое о чём, чувак?",ai,,D17B9AF047DE68BF9558949769EDD703
 "Alright, let's get back to it, then.","Ладно, тогда вернёмся к делу.",ai,,1D0B1E2E43AF48566709428EA5693AA1
 "...You probably need a little bit of help with it, though.","...Тебе, наверное, всё-таки понадобится немного помощи.",ai,,50913E124FF63DCAE12A02A7F0D56EAB
@@ -684,7 +684,7 @@ Don't trust your professors?,Не доверяешь своим профессо
 "It's not like it's going to get published anywhere. They'll give me my diploma, send me off, and then destroy every copy of the thesis they have. Or just hide it away somewhere.","Его же нигде не опубликуют. Мне дадут диплом, отправят восвояси, а потом уничтожат все экземпляры диссертации, какие есть. Или просто спрячут где-нибудь.",ai,,85F8A78E49FBE51FEBE64EB09110E7EE
 "Good old Thaddeus Rock, watching over us.",Старина Таддеус Рок присматривает за нами.,ai,,D5B4C58F4338B43A1029C89354379D04
 "Well, on the plus side, at least there's no risk of public embarrassment.","Ну, зато есть плюс: риска публичного позора нет.",ai,,09D80E4C404AA3DD0C439BA8E6AFAC1E
-"Not sure about that - more like I trust them wanting to keep their jobs. I'll get my diploma, keep my copy, leave university, and then no one will ever read it again.","Не уверен — скорее, я доверяю тому, что они хотят сохранить свои должности. Я получу диплом, оставлю себе экземпляр, уйду из университета, и больше никто его не прочтёт.",ai,,4BA05560473ECF005B44AD9142629687
+"Not sure about that - more like I trust them wanting to keep their jobs. I'll get my diploma, keep my copy, leave university, and then no one will ever read it again.","Не уверен - скорее, я доверяю тому, что они хотят сохранить свои должности. Я получу диплом, оставлю себе экземпляр, уйду из университета, и больше никто его не прочтёт.",ai,,4BA05560473ECF005B44AD9142629687
 "Good old Thaddeus Rock, watching over us.",Старина Таддеус Рок присматривает за нами.,ai,,79B50096432C0CD7757C68AB6A2D88B6
 "Well, on the plus side, at least there's no risk of public embarrassment.","Ну, зато есть плюс: риска публичного позора нет.",ai,,ADD12135476417F3C97CB5AC8E7B1B0B
 Something like that. Ready to get back to your project?,Вроде того. Готов вернуться к своему проекту?,ai,,006C08DB4239F9A9DDD048964D73824A
@@ -699,7 +699,7 @@ Yeah. Does it really matter?,Да. Это правда важно?,ai,,83AC7EA64
 "I thought you liked that. I wanted to ask you about something else, though...","Я думал, тебе это нравится. Но я хотел спросить тебя о другом...",ai,,878BAB0140791192DCD385888B9FE2E8
 "What, so you can sit around and make sarcastic quips about whatever sentence I wrote last? I'll manage, somehow.","Что, чтобы ты сидел и отпускал саркастичные шуточки про каждое предложение, которое я написал? Как-нибудь справлюсь.",ai,,4C326BAE4E9915954F4BAEADF544909F
 Me? I'd never. [Leave],Я? Никогда. [Выйти],ai,,84135F14405404851549CD9CDEAB54AA
-"Okay, but - yeah, sure. That's true. Let me ask you something else, though.","Ладно, но — да, конечно. Это правда. Но дай мне спросить тебя ещё кое о чём.",ai,,580FD07843F036359BCE24869C220C9F
+"Okay, but - yeah, sure. That's true. Let me ask you something else, though.","Ладно, но - да, конечно. Это правда. Но дай мне спросить тебя ещё кое о чём.",ai,,580FD07843F036359BCE24869C220C9F
 "So, this final project of yours... Where do we start?","Итак, этот твой выпускной проект... С чего начнём?",ai,,DB3CFD254DBE3C2A62385BB9A1F18EAF
 "I was thinking of some taking some portraits, honestly.","Я, честно говоря, думал снять несколько портретов.",ai,,C0BD06014A54041D77E8A994C30F7533
 Right here. [Point to the clock],Прямо здесь. [Показать на часы],ai,,90BB72AF4335355294566E856BA72CFF
@@ -762,7 +762,7 @@ I may have an idea. [Leave],"Кажется, у меня есть идея. [В�
 Right away?,Прямо сейчас?,ai,,261C8A1644D16480EB745DB7218731CF
 "Got it. There's something else I wanted to ask you, by the way...","Понял. Кстати, я хотел спросить тебя ещё кое о чём...",ai,,673A5A3642C0991B8C67CA8D8E431930
 "Alright, let's get going. [Leave]","Ладно, пошли. [Выйти]",ai,,CAAFB4CB40F4847FF51C55A7C5D7C466
-"I think the geezers messing up the clock is pretty likely, all things considered. Just a swarm of chaotic honking energy.","Учитывая всё, думаю, что гусяры поломали часы — вполне вероятно. Просто стая хаотичной гогочущей энергии.",ai,,41619D11423214B519558EBB82B79525
+"I think the geezers messing up the clock is pretty likely, all things considered. Just a swarm of chaotic honking energy.","Учитывая всё, думаю, что гусяры поломали часы - вполне вероятно. Просто стая хаотичной гогочущей энергии.",ai,,41619D11423214B519558EBB82B79525
 "Should we go confront the honkers, then?",Тогда пойдём разберёмся с этими гоготунами?,ai,,924B21394CACA910466000ABEF3063AC
 "Got it. There's something else I wanted to ask you, by the way...","Понял. Кстати, я хотел спросить тебя ещё кое о чём...",ai,,29AADBA941CA051B8826A1B8F76B5F67
 "Alright, let's get going. [Leave]","Ладно, пошли. [Выйти]",ai,,C77C5FCB4FBD4F1A7A08C0B0CDC43628
@@ -770,7 +770,7 @@ Right away?,Прямо сейчас?,ai,,261C8A1644D16480EB745DB7218731CF
 You wanna go confront them about it?,Хочешь пойти и разобраться с ними?,ai,,6513C8D240FCC424E98D44A2D93D4D67
 "Got it. There's something else I wanted to ask you, by the way...","Понял. Кстати, я хотел спросить тебя ещё кое о чём...",ai,,995C41E44EAAFB4EF0FCE4BB1A5E926A
 "Alright, let's get going. [Leave]","Ладно, пошли. [Выйти]",ai,,196FA2FC4E60B4A4EB73B59EE93E783E
-"Well, the most we have to go on right now is that mom and her kid. As for why? Beats me. Maybe her kid just really wanted it, for some reason.","Ну, единственная зацепка у нас сейчас — та мамаша с ребёнком. А зачем? Без понятия. Может, ребёнку она просто очень понадобилась, по какой-то причине.",ai,,DBFD859946F07BB3417872A817DEDFEB
+"Well, the most we have to go on right now is that mom and her kid. As for why? Beats me. Maybe her kid just really wanted it, for some reason.","Ну, единственная зацепка у нас сейчас - та мамаша с ребёнком. А зачем? Без понятия. Может, ребёнку она просто очень понадобилась, по какой-то причине.",ai,,DBFD859946F07BB3417872A817DEDFEB
 Should we go talk to her?,Пойдём поговорим с ней?,ai,,D651C5594E113D95709444BDCF7D6CC9
 "Got it. There's something else I wanted to ask you, by the way...","Понял. Кстати, я хотел спросить тебя ещё кое о чём...",ai,,D090743D45B3E81A78A98F94B10B2B1E
 "Alright, let's get going. [Leave]","Ладно, пошли. [Выйти]",ai,,71C1619D4EB89A2E74C151BCE1C3CD54
@@ -837,7 +837,7 @@ We're not quite done yet. Let's get to it.,Мы ещё не закончили. 
 "Better be. What are we doing out here, again?","Лучше бы так. Что мы тут делаем, напомни?",ai,,0BFB78CA4550B6C20190AE9C2B917BB4
 "Come on, man. Is it really that bad?","Да ладно, чувак. Неужели всё так плохо?",ai,,85CA32AE472189FA83B670AA880311B5
 Taking pictures.,Фотографируем.,ai,,5D812CEA4DF15ECBF49763A75C7264AF
-"Listen, if you wanna head back to the dorm, that's fine too. You big baby.","Слушай, если хочешь вернуться в общагу — пожалуйста. Нытик.",ai,,27BC839C4D7A08FC6D9C488EA2AA32D3
+"Listen, if you wanna head back to the dorm, that's fine too. You big baby.","Слушай, если хочешь вернуться в общагу - пожалуйста. Нытик.",ai,,27BC839C4D7A08FC6D9C488EA2AA32D3
 And I did. And I'm still cold.,Я оделся. И мне всё равно холодно.,ai,,DE101D294799F3DFECDB05878FA30033
 Aw. Should I get you a blanket? Do you want my cap?,Ой. Принести тебе одеяло? Хочешь мою кепку?,ai,,FEE8DAB34AFFA712B0DD0C82584B6808
 "Really? I thought you were tough, Larry.","Серьёзно? А я думал, ты крепкий, Ларри.",ai,,A495216A4083705C24F9CD92969A8D1F

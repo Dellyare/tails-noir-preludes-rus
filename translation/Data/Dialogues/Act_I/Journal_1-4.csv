@@ -1,7 +1,7 @@
 ﻿source,translation,status,namespace,key
-Eli will be an idealist from now on.,Отныне Илай — идеалист.,ai,,A2CF39F14D2C9477440F1B9DD37821D0
-Eli will be a realist from now on.,Отныне Илай — реалист.,ai,,4C15C0844C3445E127D8EF8EE6FC729B
-Eli will be a cynic from now on.,Отныне Илай — циник.,ai,,C172672C4DD5F98625F5DBB2270193A8
+Eli will be an idealist from now on.,Отныне Илай - идеалист.,ai,,A2CF39F14D2C9477440F1B9DD37821D0
+Eli will be a realist from now on.,Отныне Илай - реалист.,ai,,4C15C0844C3445E127D8EF8EE6FC729B
+Eli will be a cynic from now on.,Отныне Илай - циник.,ai,,C172672C4DD5F98625F5DBB2270193A8
 Next,Далее,ai,,93D46ADE4AD54E448571C38D67712C58
 "Sun's been harsh lately, and it's been a chore to get any work done during the day. ","В последнее время солнце светит нещадно, и днем не успеваешь ничего сделать.",ai,,005F4A314BA1943F7D3F06A235845438
 "That said, I'm enjoying the field work.","Тем не менее, мне нравится полевая работа.",ai,,0C8864D14095A45C454894A79321F160
@@ -21,7 +21,7 @@ It also means we're going to be pioneers. Even if we return empty handed.,"Эт�
 "Best not to think about that, though.",Лучше не думать об этом.,ai,,26C79C7643029A0F6D3D6C9B14FF290F
 "Aug 14th. Still alive, believe it or not. No signs of radiation poisoning in either of us. We've been hit by a dust storm, however, but it's been manageable and far from as dangerous as we were led to believe.","14 августа. Всё ещё жив, хотите верьте, хотите нет. Ни у кого из нас нет признаков радиационного отравления. Однако нас накрыла песчаная буря, но она была управляемой и далеко не такой опасной, как нас предупреждали.",ai,,AB62DB064959CEAB37B523AB33D126C8
 "It's almost as if we're being guided by the Shepherd's staff. ",Словно нас ведёт посох Пастыря.,ai,,6D08B45941784FDDDB60379B4D036C97
-To say we're lucky is an understatement.,"Сказать, что нам повезло, — ничего не сказать.",ai,,15385D164A928430B55241806A01557B
+To say we're lucky is an understatement.,"Сказать, что нам повезло, - ничего не сказать.",ai,,15385D164A928430B55241806A01557B
 I'm beginning to think the dangers have been overblown.,"Я начинаю думать, что опасности были преувеличены.",ai,,9A0F1B4943D8626DD84F24B83DEC3D3F
 "Jorge says no team has ever returned from outside the Wall, which makes our research on the area fairly limited.","Джордж говорит, что ни одна команда не возвращалась из-за Стены, что делает наши знания об этой области довольно ограниченными.",ai,,BE77A96A42F298BA654EADBA2879605E
 Which will make our return a historic first. And that's not even factoring in the discovery of this Artifact.,Что сделает наше возвращение историческим событием. И это даже без учёта открытия этого Артефакта.,ai,,EAF878434C0726C16FFB62A5CB88E192
@@ -47,7 +47,7 @@ I just want it over with.,"Я просто хочу, чтобы это зако�
 "Jorge's less worried. ",Джордж меньше беспокоится.,ai,,A04618BD4597683025E5F5A43476A092
 We haven't talked much about it.,Мы мало говорили об этом.,ai,,963C2C1343C8547C90F2CB824FEE4885
 "I'd leave, if I could. Head back to the City.","Я бы ушёл, если бы мог. Вернулся бы в Город.",ai,,9288F748484EBBB96BBD22B5AF590745
-"Jorge's the silent type. We've been out here with only each other for company, and he's slow to warm up. ","Джордж — человек немногословный. Мы здесь только вдвоём, и он не спешит сближаться.",ai,,B90466384B542D1E78128E979E143FA8
+"Jorge's the silent type. We've been out here with only each other for company, and he's slow to warm up. ","Джордж - человек немногословный. Мы здесь только вдвоём, и он не спешит сближаться.",ai,,B90466384B542D1E78128E979E143FA8
 "I've warmed up to him, too. He's a good guy.",Я тоже к нему привык. Он хороший парень.,ai,,209BD214405E3B32713B0E930923C45D
 He's a good co-worker.,Он хороший коллега.,ai,,69716A1C471B3818491D018D44EC72F5
 "Warming up to him is slow, too.",Сближаться с ним тоже медленно.,ai,,5AFFAA6244D763D20DD394A725A16DA9
@@ -55,13 +55,13 @@ Me and Jorge have that in common. I'm not sure if it's because he thinks the wor
 We don't talk much. But that might be for the best.,"Мы мало разговариваем. Но, возможно, это к лучшему.",ai,,0F055ABE4980FD14BAB16783A476FB57
 Maybe he's just sick of dealing with me.,"Может, он просто устал от меня.",ai,,945121C248E9D89863FC9884DD447D94
 "Probably a mixture of both. He keeps referring to our deployment as a ""punishment"".","Вероятно, и то, и другое. Он постоянно называет нашу командировку «наказанием».",ai,,F1E84B0B4E95FC307E49A5840FB6E81E
-"He's out there right now. ""Today's the day,"" he told me this morning. He's been saying that all week.","Он сейчас там. «Сегодня тот самый день», — сказал он мне утром. Он повторяет это всю неделю.",ai,,4789FEB548B5F97B8AF34B84C962F375
+"He's out there right now. ""Today's the day,"" he told me this morning. He's been saying that all week.","Он сейчас там. «Сегодня тот самый день», - сказал он мне утром. Он повторяет это всю неделю.",ai,,4789FEB548B5F97B8AF34B84C962F375
 "I've warmed up to him, too. He's a good guy.",Я тоже к нему привык. Он хороший парень.,ai,,9582587C490CA92A827870837F91CF04
 Not used to him being that optimistic.,"Не привык к тому, что он так оптимистичен.",ai,,0F4C65E74408AC9D53584CBF0069D470
 I really think the disappointment's starting to take its toll on him.,"Думаю, разочарование начинает сказываться на нём.",ai,,60DAF1B14DBA8F7CB3251EB80BB9203F
 "That said, he seems to see my academic background as a shortcut out of paying my dues.","Тем не менее, он считает моё академическое образование способом избежать оплаты своих долгов.",ai,,117C884349B8C8F4F6A155BB660B970D
 "He's been at this for decades and we're in the same role, so it's hard to argue with him.","Он занимается этим десятилетиями, и мы на одной должности, так что с ним сложно спорить.",ai,,C3819A404DAEC863F7B9E4960E577A69
-"But we all pay our dues in different ways. His with tools, mine with theory.","Но мы все платим свои долги по-разному. Он — инструментами, я — теорией.",ai,,D098115746325F04EA99B68780B528C6
+"But we all pay our dues in different ways. His with tools, mine with theory.","Но мы все платим свои долги по-разному. Он - инструментами, я - теорией.",ai,,D098115746325F04EA99B68780B528C6
 "I think he's just jealous. Maybe a little bitter, too.","Думаю, он просто завидует. Может, немного обижен.",ai,,3BB868B34989BE1CFF9256BEC54EB109
 "We'll be fine. After this sprint, we'll be able to sample the dig and continue with sterilization.",Всё будет хорошо. После этого рывка мы сможем взять образцы и продолжить стерилизацию.,ai,,867AA11C4D9995563A4F62836BB44D77
 "If we can loosen one of those pods, we might have our ticket back to the City.","Если мы сможем вскрыть одну из этих капсул, это может стать нашим билетом обратно в Город.",ai,,74FE94F844E2530E73D0719850F52E47
@@ -75,7 +75,7 @@ It's hard to tell if the feeling is mutual.,"Трудно сказать, вза
 I'm doing my best to keep up. We're getting there.,"Я делаю всё возможное, чтобы успевать. Мы справимся.",ai,,07422DD9429B3CD8246E7DB2AD12BAAA
 "I do what I can, but I won't overwork myself.","Я делаю, что могу, но не буду перерабатывать.",ai,,5B500AED4ED1EE9F3693B1BC990C636E
 "...I should talk to him about that, actually.","...Мне стоит поговорить с ним об этом, вообще-то.",ai,,D58A6DF54FA9AF389AB8D28E94A09A26
-The only redeeming factor is that we get to be autonomous. No oversight or endless paperwork. Just good old-fashioned science.,"Единственное утешение — это то, что мы автономны. Никакого контроля или бесконечной бумажной работы. Только старая добрая наука.",ai,,662FFC69410A33EC1AD00E95C06381F0
+The only redeeming factor is that we get to be autonomous. No oversight or endless paperwork. Just good old-fashioned science.,"Единственное утешение - это то, что мы автономны. Никакого контроля или бесконечной бумажной работы. Только старая добрая наука.",ai,,662FFC69410A33EC1AD00E95C06381F0
 I suppose we'll see if the tone changes if we find something.,"Думаю, мы увидим, изменится ли тон, если мы что-то найдём.",ai,,74A7DE03463A3F92E6E0169B5239177E
 Woo-hoo.,Ура.,ai,,6226E3F749E5361863E7AF8FF3CD62AB
 "I did. It's just clear that our input isn't very interesting to the higher-ups. I'll bet that whoever is overseeing these expeditions never even set a foot in Science City. ","Я сделал это. Просто очевидно, что наше мнение не очень интересует начальство. Бьюсь об заклад, тот, кто курирует эти экспедиции, даже не ступал ногой в Научный Город.",ai,,1AFFD1B540889C02D01726B9D104E707
@@ -116,10 +116,10 @@ Yeah.,Да.,ok,,F3BA368E478BFBE55C01D6AC9B1D8373
 "Time well spent going over research, at the very least.","Время, потраченное на изучение исследований, по крайней мере, не прошло зря.",ai,,057FC4EF45FAA89A0AF4A7B80CBEF1E1
 I'm sure I can convince Jorge to do that.,"Уверен, что смогу убедить Джорджа сделать это.",ai,,796B07D9417D7BB5DEA443AE310B3CC6
 "Or taking a break, for once.","Или сделать перерыв, наконец.",ai,,BF73EFFA480305BBBB8BD69C940E4BAB
-There'll be other things. The dig isn't the only thing that needs doing.,"Есть и другие дела. Раскопки — не единственное, что нужно делать.",ai,,D9E647804AD05D59123801A0F8BCF7BC
+There'll be other things. The dig isn't the only thing that needs doing.,"Есть и другие дела. Раскопки - не единственное, что нужно делать.",ai,,D9E647804AD05D59123801A0F8BCF7BC
 We've got experiments to run. Research to write down.,"У нас есть эксперименты, исследования, которые нужно записать.",ai,,EC89575844ADD2F35CDE78A0610C3260
 "Then again, a siesta doesn't sound so bad.","С другой стороны, сиеста звучит неплохо.",ai,,77B5C18849C15DB604D2D4B9D8D71FDA
-"I've even thought about just bailing and heading back to the city, but hiking through the desert is a death sentence. I swear, it's like they put no thought into this deployment. The equipment they gave us is so general it's left us prepared for everything and nothing at the same time.","Я даже думал о том, чтобы просто сбежать и вернуться в город, но поход через пустыню — это смертный приговор. Клянусь, они вообще не думали об этой командировке. Снаряжение, которое они нам дали, настолько общее, что оставило нас готовыми ко всему и ни к чему одновременно.",ai,,A3462F774301A011187515993BE45B0A
+"I've even thought about just bailing and heading back to the city, but hiking through the desert is a death sentence. I swear, it's like they put no thought into this deployment. The equipment they gave us is so general it's left us prepared for everything and nothing at the same time.","Я даже думал о том, чтобы просто сбежать и вернуться в город, но поход через пустыню - это смертный приговор. Клянусь, они вообще не думали об этой командировке. Снаряжение, которое они нам дали, настолько общее, что оставило нас готовыми ко всему и ни к чему одновременно.",ai,,A3462F774301A011187515993BE45B0A
 This whole expedition's been poorly managed.,Вся эта экспедиция была плохо организована.,ai,,F68DF3714E1F55B90451AD8FF4B4C419
 "I told them, even.",Я им даже говорил.,ai,,E1FB1B25469FF342D66AF083CCBEFC60
 It makes no sense.,Это не имеет смысла.,ai,,E6915959428D0ED0917B05A684E08B84
@@ -158,7 +158,7 @@ I should ask about it on the next call with HQ.,Мне стоит спросит
 "[Suddenly, a shiver runs up your spine, and you press the pen firmly against the journal page. Somewhere outside the tent, you swear you can hear Jorge calling out for you.]","[Внезапно дрожь пробегает по вашему телу, и вы с силой прижимаете ручку к странице дневника. Где-то за пределами палатки вам кажется, что вы слышите, как Джордж зовёт вас.]",ai,,E7DB87F84C3D57508F3D1C9E0C3C2922
 [Raise your voice] ...Jorge? Did you say something?,[Громче] ...Джордж? Ты что-то сказал?,ai,,6932A5CD47DC25B00CD47BBC5471D929
 [Listen closely],[Прислушайтесь],ai,,DEDC8CBB456C16C5439E8BB13D1D92A8
-I'm not sure how high in standing we'll be when we return - I suppose that hinges on what we bring back with us - but maybe we'll have enough sway to get to look into some of the more classified records in Science City.,"Не знаю, насколько высоким будет наш статус по возвращении — это зависит от того, что мы привезём с собой — но, возможно, у нас будет достаточно влияния, чтобы получить доступ к некоторым засекреченным записям в Научном Городе.",ai,,B5F703524230FE41616849AFAC2A154B
+I'm not sure how high in standing we'll be when we return - I suppose that hinges on what we bring back with us - but maybe we'll have enough sway to get to look into some of the more classified records in Science City.,"Не знаю, насколько высоким будет наш статус по возвращении - это зависит от того, что мы привезём с собой - но, возможно, у нас будет достаточно влияния, чтобы получить доступ к некоторым засекреченным записям в Научном Городе.",ai,,B5F703524230FE41616849AFAC2A154B
 Fingers crossed.,Скрестим пальцы.,ai,,06F68F294FA739431AAC5B8284B356FD
 They better let us.,Лучше бы они нам разрешили.,ai,,9602AF9E48B4652BE1E1AC8C2FC1B8E4
 "[There's another scream, more desperate this time. He sounds distressed.]","[Ещё один крик, на этот раз более отчаянный. Он звучит встревоженно.]",ai,,4BF4824146586FF6F7FD2499D940060B

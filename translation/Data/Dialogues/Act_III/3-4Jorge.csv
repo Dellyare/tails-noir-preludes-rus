@@ -1,6 +1,6 @@
 ﻿source,translation,status,namespace,key
-You decided to tell the visitor that you and Jorge were indispensable experts with the Artifact.,"Ты решил сказать Гостю, что вы с Джорджем — незаменимые эксперты по Артефакту.",ai,,A04A8E6B4ABBA35A934EF687B25FACA5
-You decided to tell the visitor that you and Jorge were indispensable experts with the Artifact.,"Ты решил сказать Гостю, что вы с Джорджем — незаменимые эксперты по Артефакту.",ai,,01414A2441E374E14AA7F6A8DF49CC55
+You decided to tell the visitor that you and Jorge were indispensable experts with the Artifact.,"Ты решил сказать Гостю, что вы с Джорджем - незаменимые эксперты по Артефакту.",ai,,A04A8E6B4ABBA35A934EF687B25FACA5
+You decided to tell the visitor that you and Jorge were indispensable experts with the Artifact.,"Ты решил сказать Гостю, что вы с Джорджем - незаменимые эксперты по Артефакту.",ai,,01414A2441E374E14AA7F6A8DF49CC55
 You decided to try convincing the visitor that the Artifact was too dangerous.,"Ты решил попытаться убедить Гостя, что Артефакт слишком опасен.",ai,,E310EBDB4CC7EC14FCFC01BF81BDA52E
 "You changed your mind, deciding to tell the visitor the Artifact was extremely dangerous.","Ты передумал и решил сказать Гостю, что Артефакт крайне опасен.",ai,,35813DB84357813FA932E48FCCE0F4C1
 "You changed your mind, deciding to tell the visitor the Artifact had died.","Ты передумал и решил сказать Гостю, что Артефакт умер.",ai,,30C097C74CDACF49F8D566B24D4AEF0E
@@ -21,7 +21,7 @@ What are you driving at?,К чему ты клонишь?,ai,,D865CAB744BD3A009D
 "Anyway, what are you going to miss most?","Ладно, а по чему ты будешь скучать больше всего?",ai,,8582B3764DEABD853D488DB50E43B34C
 So you're saying there's still hope?,То есть надежда всё-таки есть?,ai,,3FB968CD46BE7E16DE3AB886E11A9491
 Yes.,Да.,ok,,25933F514FE9774BD3A7FCBEBF4289DD
-But a chance at despair as well.,Но и шанс впасть в отчаяние — тоже.,ai,,1D37D8194AE56676A77966AF7786B861
+But a chance at despair as well.,Но и шанс впасть в отчаяние - тоже.,ai,,1D37D8194AE56676A77966AF7786B861
 Touché.,Туше.,ai,,79A28BAC4C7B7DE01283E28D8190C3B3
 "What are you going to miss most, Jorge?","По чему ты будешь скучать больше всего, Джордж?",ai,,0A4587304009CA30618270AEAE52C199
 "I'd...I'd like a few minutes to gather my thoughts. Besides, someone needs to make sure the fire goes out.","Мне... мне нужно несколько минут, чтобы собраться с мыслями. К тому же кто-то должен проследить, чтобы костёр погас.",ai,,FA1E43F442078064D40BB38B3362DAE7
@@ -76,7 +76,7 @@ I might actually miss this place. There's a sense of calm out here. Quiet.,"Я, 
 My parents.,Родители.,ai,,434D1661409106614BF7CCB68806FE8A
 The work.,Работа.,ai,,F666BBF545D668981F861BB0330C6C2A
 The promise of tomorrow.,Обещание завтрашнего дня.,ai,,FE7B729E4E2EE9A4A62B37990BAA575A
-"(CYNIC) How is making me think about the things I love that I'll never see again a more ""positive"" line of discussion?","(ЦИНИК) С чего это мысли о том, что я люблю и больше никогда не увижу, — «более позитивная» тема?",ai,,1006B535482D01C95DCBCABD62E8E57D
+"(CYNIC) How is making me think about the things I love that I'll never see again a more ""positive"" line of discussion?","(ЦИНИК) С чего это мысли о том, что я люблю и больше никогда не увижу, - «более позитивная» тема?",ai,,1006B535482D01C95DCBCABD62E8E57D
 "Let me ask you something, Eli: Why do you suppose you were assigned to this detail?","Позволь спросить тебя, Илай: как думаешь, почему тебя назначили на это задание?",ai,,EF197E4447E9BAC9F91FD4B6D4AEC122
 Because it's my job.,Потому что это моя работа.,ai,,CD26FBE346AB7D56AE19F0AB5EEA1A89
 My supervisors wanted me to get more field experience.,"Начальство хотело, чтобы я набрался полевого опыта.",ai,,D7B3FA9E4649F77B9831619BBABF2E07
@@ -133,7 +133,7 @@ We're not high level and they sent us.,"Мы не из высших эшелон
 "Which is what we are now. After this discovery, I mean.","А теперь мы как раз такие. После этого открытия, я имею в виду.",ai,,970DEACE4354FE6BD709D08DBAD8E661
 "Yes, but nobody said we're coming back.","Да, но никто не говорил, что мы вернёмся.",ai,,77EE56B74BDB80BCB59D998D0DA1F326
 What are you talking about?,О чём ты?,ai,,2D55F6E34A964923550FEBA5C0F67652
-They didn't say we weren't.,А что не вернёмся — тоже не говорили.,ai,,D58653A54F476D8D0048AA84591864BA
+They didn't say we weren't.,А что не вернёмся - тоже не говорили.,ai,,D58653A54F476D8D0048AA84591864BA
 "Well, obviously they're going to bring us back too.","Ну, очевидно, нас они тоже вернут.",ai,,7DC3E4C14DA0BD108CF1ABA58F06BDC2
 "Good memories are good memories, Eli. Just because they aren't going to repeat themselves doesn't make them worthless.","Хорошие воспоминания остаются хорошими, Илай. То, что они не повторятся, не обесценивает их.",ai,,596BBDFB496251BD0FC937A56C147966
 What are you going to miss most?,По чему ты будешь скучать больше всего?,ai,,010B5C7F4DCDA7E9DD837DAE2619C793
@@ -149,7 +149,7 @@ Then we're the first.,Тогда мы будем первыми.,ai,,2C7F87274A5
 "Family, probably. My mom...my sister...my nephews. I'm really going to miss them. After my last promotion, I was able to move them into a nice little high-rise in Granville. Even got an extra bedroom so I can stay over whenever I'm able to get away from work. Which is rare, but when I can? Man... it's the world.","Семья, наверное. Мама... сестра... племянники. Я правда буду по ним скучать. После последнего повышения я смог переселить их в славную небольшую высотку в Гренвилле. Там даже есть лишняя спальня, чтобы я мог остаться, когда получается вырваться с работы. Это редко, но когда получается? Эх... это целый мир.",ai,,FE0359314F39CC5D11532C81A03B055F
 You cover their rent?,Ты платишь за их квартиру?,ai,,C845A2B446A5803F43092497A1698D74
 How old are your nephews?,Сколько лет твоим племянникам?,ai,,EB2CEE5748282564F53004B92AB7A7B1
-"They're eight and nine, but the way they stick together you'd swear that they're twins. Matteo and Seb. Total troublemakers. My mother calls them ""The Scamps"".","Восемь и девять, но держатся вместе так, что поклялся бы — близнецы. Маттео и Себ. Те ещё хулиганы. Мама зовёт их «Сорванцы».",ai,,2287166948020C72740A589E36DF6769
+"They're eight and nine, but the way they stick together you'd swear that they're twins. Matteo and Seb. Total troublemakers. My mother calls them ""The Scamps"".","Восемь и девять, но держатся вместе так, что поклялся бы - близнецы. Маттео и Себ. Те ещё хулиганы. Мама зовёт их «Сорванцы».",ai,,2287166948020C72740A589E36DF6769
 You ever think of having kids of your own?,Не думал завести собственных детей?,ai,,D10F40A4405227EE1BB2F990E07F41DA
 What kind of trouble do they get themselves into?,В какие неприятности они влипают?,ai,,B1EFA64043598223C0D337B637F97666
 "Nah, I got my hands full with the scamps. Plus, I've never had much luck in relationships.","Да нет, мне и сорванцов хватает. К тому же с отношениями мне никогда особо не везло.",ai,,E87234B74E82ABE14361E8867D5F9988
@@ -217,7 +217,7 @@ What are you suggesting?,Что ты предлагаешь?,ai,,1DBCDE3B4DCD6E0
 I love it.,Обожаю.,ai,,D180ACEA4BEF3D12F2A485AB46FB8B34
 [sniff it in],[Вдохнуть аромат],ai,,8AF6D8CC4DEE7F84B9EBA5BE283285A8
 Then why are you going to miss them?,Тогда почему ты будешь по ним скучать?,ai,,C78D334E426C4D88FF45E6AE2E45DD45
-They're all I have.,"Они — всё, что у меня есть.",ai,,8DDA8D8A41FEAE1318CBC6A62131E3FE
+They're all I have.,"Они - всё, что у меня есть.",ai,,8DDA8D8A41FEAE1318CBC6A62131E3FE
 I dunno. I guess I needed to give some kind of an answer.,"Не знаю. Наверное, надо было что-то ответить.",ai,,F4B7AB4C4E00F247F13E989F690FCA9F
 "Okay, what's your answer then? What are you going to miss?","Ладно, и какой тогда твой ответ? По чему ты будешь скучать?",ai,,5ACB73634AE5FB01720D0BA0E6DE8AAD
 Why didn't you?,Почему ты этого не сделал?,ai,,8FCDBE7846969918465FBA872509F7ED
@@ -265,7 +265,7 @@ What's it about?,О чём она?,ai,,E2B3B1BB4C9C094AAAAFF7BD3AA40750
 Hmm.,Хм.,ai,,FB8344784C8813242ECCCCBE1B0CBDE2
 [Nod],[Кивнуть],ai,,658D8FB246864558A5E8B99C010671CF
 "(IDEALIST) Probably just temporary blindness, right? ","(ИДЕАЛИСТ) Наверное, просто временная слепота, да? ",ai,,F5C0451E49AD9E5CDD71328E383CF312
-"Ah, the faith of the faithless really is something to behold. You really don't see it, do you?","Ах, вера безверных — зрелище, достойное внимания. Ты правда этого не видишь, да?",ai,,24BFCCC04BCC9BF859E8AAADC1FEF743
+"Ah, the faith of the faithless really is something to behold. You really don't see it, do you?","Ах, вера безверных - зрелище, достойное внимания. Ты правда этого не видишь, да?",ai,,24BFCCC04BCC9BF859E8AAADC1FEF743
 "Just get to the point, man.","Давай ближе к делу, дружище.",ai,,064C1F034D80015493FB1DAB3E410C02
 See what?,Чего не вижу?,ai,,B31AC5CB4E43125DA5FADEA35129F2BD
 "Not you. Us. The minute we went outside the wall, we became a threat to the rest of the flock. Because of what we've seen.","Не ты. Мы. В ту минуту, как мы вышли за Стену, мы стали угрозой для остальной паствы. Из-за того, что видели.",ai,,EF6D98B642C150DDF68F75875C8FEFEC
@@ -373,23 +373,23 @@ What do we know?,Что мы знаем?,ai,,E2CC73F14DFB1B5C0FBE99B6DE700C9A
 HQ.,Штаб.,ai,,0C02122A4440E057EE6FA29EDBE597F3
 You tell me.,Это уж вы мне скажите.,ok,,14C5BE46445ED96CE3AB019F965D2A8F
 Maybe they liked it out here and decided to stay?,"Может, им здесь понравилось, и они решили остаться?",ai,,9DE138A94B3137A9134DB291DBB31448
-The Shepherd isn't a person. He's the Shepherd. And you don't even believe he exists.,"Пастырь — не человек. Он Пастырь. А ты вообще не веришь, что он существует.",ai,,82B3D1C44464310A44B89A8E0923ED47
+The Shepherd isn't a person. He's the Shepherd. And you don't even believe he exists.,"Пастырь - не человек. Он Пастырь. А ты вообще не веришь, что он существует.",ai,,82B3D1C44464310A44B89A8E0923ED47
 "Fine. Just us, then.",Ладно. Тогда только мы.,ai,,59878E73459C03A1D55F94A9CC9B7D9A
 "You believe in him, though.",Но ты же в него веришь.,ai,,6B1B8FC2458E34B3985601BB95BD2EB7
 "In a way. If you could leave the City and start your own thing, wouldn't you?","В каком-то смысле. Если бы ты мог покинуть Город и начать своё дело, разве ты не сделал бы этого?",ai,,2C342936402012D78224699C4415B46B
 No. I love the City.,Нет. Я люблю Город.,ai,,82EB9F9E4CA1F2F9257AA2B2C528EBB8
-The City's all there is.,"Город — это всё, что есть.",ai,,0B77909F4C1F0C3B28775DA051BBD7AD
+The City's all there is.,"Город - это всё, что есть.",ai,,0B77909F4C1F0C3B28775DA051BBD7AD
 "Only rumours. In all my time working in Science City, I've heard of at least a dozen expeditions similar to ours. None of them have returned. Do you know why?","Только слухи. За всё время работы в Наукограде я слышал как минимум о десятке экспедиций, подобных нашей. Ни одна не вернулась. Знаешь почему?",ai,,B080924B4D3934E2E439D0B062F809ED
 Because they weren't as trained as us. We braved the elements.,"Потому что они были хуже подготовлены, чем мы. Мы выстояли против стихии.",ai,,8BA88D734CCE99027D02CBB7AA39F093
 Because it's dangerous out here.,Потому что здесь опасно.,ai,,BE8049064551CF2667E244B049293375
 Whoever is coming here is going to go through this site with a fine tooth comb to make sure our story checks out. We'll need to make sure all our materials sell the idea that we're experts on the Artifact.,"Тот, кто приедет, будет прочёсывать этот объект частым гребнем, чтобы убедиться, что наша история сходится. Нужно, чтобы все наши материалы внушали мысль, что мы эксперты по Артефакту.",ai,,D5BDD1F147554B927689DF8ABBE49277
 I'm on it.,Займусь.,ai,,F6DF52334742DD42A195F997D8E61174
 How do we do that?,Как нам это сделать?,ai,,2EE303F74C56A0A7323D31B5B7E67256
-"Really? Where's the danger? The only real hazard we've encountered so far is that Artifact. And we had to work very fucking hard to find that. Outside of that, everything's been fine. Peaceful, even. I honestly feel safer here than I did back in the city. Which begs the question: why hasn't anyone ever come back from the place?","Правда? И где опасность? Единственная настоящая угроза, с которой мы столкнулись, — этот Артефакт. А чтобы его найти, нам пришлось чертовски потрудиться. Кроме этого всё было нормально. Даже мирно. Честно говоря, здесь я чувствую себя безопаснее, чем в Городе. Что поднимает вопрос: почему никто никогда не возвращался оттуда?",ai,,67931AA248E6F7CC126836BFA0AC0FA5
+"Really? Where's the danger? The only real hazard we've encountered so far is that Artifact. And we had to work very fucking hard to find that. Outside of that, everything's been fine. Peaceful, even. I honestly feel safer here than I did back in the city. Which begs the question: why hasn't anyone ever come back from the place?","Правда? И где опасность? Единственная настоящая угроза, с которой мы столкнулись, - этот Артефакт. А чтобы его найти, нам пришлось чертовски потрудиться. Кроме этого всё было нормально. Даже мирно. Честно говоря, здесь я чувствую себя безопаснее, чем в Городе. Что поднимает вопрос: почему никто никогда не возвращался оттуда?",ai,,67931AA248E6F7CC126836BFA0AC0FA5
 They're not allowed.,Им не позволяют.,ai,,56B180304FEAC7D0FEF7E784C748CA8A
 You tell me.,Это уж вы мне скажите.,ok,,882784474D2D74AC91BF278DC348864B
 Maybe they like it better out here.,"Может, им здесь больше нравится.",ai,,A1FE71F34B9B25E71EB334ACC86DC528
-"That's only because you were born in Science City - gifted child to gifted parents, brought up in a block where the Apes actually look after you. You never had to struggle. You don't really know how bad most of us have it.","Это только потому, что ты родился в Наукограде — одарённый ребёнок у одарённых родителей, вырос в квартале, где Обезьяны о тебе по-настоящему заботятся. Тебе никогда не приходилось бороться. Ты не знаешь, насколько плохо приходится большинству из нас.",ai,,AA3B061D4F6FCD1D52B9F794CDB1917B
+"That's only because you were born in Science City - gifted child to gifted parents, brought up in a block where the Apes actually look after you. You never had to struggle. You don't really know how bad most of us have it.","Это только потому, что ты родился в Наукограде - одарённый ребёнок у одарённых родителей, вырос в квартале, где Обезьяны о тебе по-настоящему заботятся. Тебе никогда не приходилось бороться. Ты не знаешь, насколько плохо приходится большинству из нас.",ai,,AA3B061D4F6FCD1D52B9F794CDB1917B
 "Don't condescend to me, man. You live in Science City too.",Не надо разговаривать со мной свысока. Ты тоже живёшь в Наукограде.,ai,,0FACCED242465534625C4EAFAF7C80E6
 "Hey, I earned my place.","Эй, я своё место заслужил.",ai,,1114E0E642B72EB86CE38C997AA3961E
 Mmm.,Мм.,ai,,1B5C9F214123E152656F84888CEDEB11
@@ -423,7 +423,7 @@ That's exactly what happened.,Именно так и было.,ai,,E836360B416BA
 It also made patients confuse their dreams with reality. And not in a fun way.,Ещё пациенты путали сны с реальностью. И не в весёлом смысле.,ai,,4CD8FB894C8D712DB290C8A7C00EE96E
 "Radio says they're on their way. Should be less than twelve hours, now.","По радио сообщили, что они в пути. Теперь осталось меньше двенадцати часов.",ai,,2142DC104A727E2E4856E9BC5D3C7136
 Who's this 'they'?,Кто это «они»?,ai,,697070044F345718FE34A68F707FD441
-About time. Six months is way too much.,Давно пора. Полгода — это уже слишком.,ai,,0FCBB578442BE2DA5B7CC3A018D50969
+About time. Six months is way too much.,Давно пора. Полгода - это уже слишком.,ai,,0FCBB578442BE2DA5B7CC3A018D50969
 "Making this discovery and surviving the Wastes. We're going to be in history books, Jorge!","Такое открытие и выживание в Пустошах. Мы войдём в учебники истории, Джордж!",ai,,5AF58C97455CA18807B7CE9075028100
 "Easy, Eli. All they said is that they'd be collecting the Artifact. No word about what they're doing with us.","Полегче, Илай. Они сказали только, что заберут Артефакт. Ни слова о том, что будет с нами.",ai,,057D164D4C902A1B2BAE3EABC4196C80
 What else are they going to do? Without the Artifact our work here is done.,А что им ещё делать? Без Артефакта наша работа здесь закончена.,ai,,8867E1BE4B2BD5DF66FC57AD2C8D8CE3
@@ -443,7 +443,7 @@ Should have warned me.,Надо было меня предупредить.,ai,,
 "So, what? You think we just happened to ""luck out""? That for six entire months we managed to avoid ALL the countless threats that we're led to believe exist out here. How did that happen, Eli? And don't just say it's because we're good at our jobs.","И что, по-твоему, нам просто «повезло»? Что целых полгода мы умудрялись обходить ВСЕ бесчисленные угрозы, которые, как нас заставляют верить, тут существуют. Как так вышло, Илай? И не говори просто, что мы хорошо делаем свою работу.",ai,,6E032A2C40824894FF26EEB8464B8FCA
 "We are good at our jobs. At least I am, anyway.","Мы хорошо делаем свою работу. Ну, я-то точно.",ai,,4877617C4BD008FDBDECE2BDFAB01322
 I thought you were a man of faith.,"Я думал, ты человек веры.",ai,,A5125196452CF53821982AB022A5FC5D
-"I worked hard to get where I am. They ""allowed"" me to move into Science City. So for a very short while, yes - I ""lived"" in Science City. Past tense.","Я упорно трудился, чтобы добраться туда, где я есть. Мне «позволили» переехать в Наукоград. Так что очень недолго — да, я «жил» в Наукограде. В прошедшем времени.",ai,,915A2E18406C8F53283F168FC72E3A4C
+"I worked hard to get where I am. They ""allowed"" me to move into Science City. So for a very short while, yes - I ""lived"" in Science City. Past tense.","Я упорно трудился, чтобы добраться туда, где я есть. Мне «позволили» переехать в Наукоград. Так что очень недолго - да, я «жил» в Наукограде. В прошедшем времени.",ai,,915A2E18406C8F53283F168FC72E3A4C
 They're going to bring us back. It's going to be a big deal.,Нас вернут. Это будет событие.,ai,,943FDEC14AD636E46C4FD49A5294EC4F
 "By that logic, so did I.","По этой логике, я тоже.",ai,,6AD7DF414D56BC3F7DC2CFB9E78C52B6
 I kinda figured your parents would have warned you. Weren't they also bigheads at Science City?,"Я как-то думал, что родители тебя предупредят. Разве они не были шишками в Наукограде?",ai,,6BC8CD0E496F272E9A6C7A9D7A2126DC

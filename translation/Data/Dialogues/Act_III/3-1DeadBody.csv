@@ -1,7 +1,7 @@
 ﻿source,translation,status,namespace,key
-"[Below the pier, soaked in sea water and partially covered in kelp, rests a cocoon of rags, the concealed content betrayed by tufts of fur and skin sticking out between the wrappings.]","[Под пирсом, пропитанный морской водой и наполовину укрытый ламинарией, лежит кокон из тряпья — его содержимое выдают клочья меха и кожи, торчащие между обмотками.]",ai,,7560910E48478AC85D8B3A87500981F2
+"[Below the pier, soaked in sea water and partially covered in kelp, rests a cocoon of rags, the concealed content betrayed by tufts of fur and skin sticking out between the wrappings.]","[Под пирсом, пропитанный морской водой и наполовину укрытый ламинарией, лежит кокон из тряпья - его содержимое выдают клочья меха и кожи, торчащие между обмотками.]",ai,,7560910E48478AC85D8B3A87500981F2
 [Look closer at the body],[Присмотреться к телу],ai,,5B7C69914DD0D9CADA5DBD8D447DE2D6
-"[A thin, frail hand sticks out on one side. On one end, two feet, mangled and twisted, and on the other, you glimpse a young face.]","[С одного бока торчит тонкая, хрупкая рука. С одного конца — две ступни, изувеченные и вывернутые, а с другого ты замечаешь юное лицо.]",ai,,76D7557C411D5C87162AA49E4D376440
+"[A thin, frail hand sticks out on one side. On one end, two feet, mangled and twisted, and on the other, you glimpse a young face.]","[С одного бока торчит тонкая, хрупкая рука. С одного конца - две ступни, изувеченные и вывернутые, а с другого ты замечаешь юное лицо.]",ai,,76D7557C411D5C87162AA49E4D376440
 [Examine the body],[Осмотреть тело],ai,,17DC3FF74C466E13A7A77B941203DD81
 [Look at the feet],[Посмотреть на ступни],ai,,2B5BBF83442B135FF3DE7980A7222034
 [Look at the face],[Посмотреть на лицо],ai,,8D1190FD4C0AA9DE47D33BAEE6AC6346
@@ -13,7 +13,7 @@
 [Examine the body],[Осмотреть тело],ai,,71811A294BF1BD8C8376DAA5195B87D8
 [Look at the feet],[Посмотреть на ступни],ai,,56FED1204F025ED1E580748074D7F629
 [Look away],[Отвернуться],ai,,642CE65F46AA11A0BA6CF3B96B29CEA0
-"[Even after being subjected to the elements and tossed around, it's clear to see that the body has been wrapped with little care. Loose ends washed up against the rocks make it clear that only a select few of the wrappings hold the body in place - around shoulders, arms, and waist.]","[Даже после того как тело потрепали непогода и волны, ясно видно, что его заворачивали без особой заботы. Свободные концы, прибитые к камням, выдают, что держится оно лишь на нескольких обмотках — на плечах, руках и поясе.]",ai,,299635F4439A161B014C2983514FEC41
+"[Even after being subjected to the elements and tossed around, it's clear to see that the body has been wrapped with little care. Loose ends washed up against the rocks make it clear that only a select few of the wrappings hold the body in place - around shoulders, arms, and waist.]","[Даже после того как тело потрепали непогода и волны, ясно видно, что его заворачивали без особой заботы. Свободные концы, прибитые к камням, выдают, что держится оно лишь на нескольких обмотках - на плечах, руках и поясе.]",ai,,299635F4439A161B014C2983514FEC41
 [Look at the feet],[Посмотреть на ступни],ai,,C304706744CCC6DD815D18B33E1688A7
 [Look away],[Отвернуться],ai,,4F822B5747FB2B8BEBEC5E86D329EBBE
 [Look at the face],[Посмотреть на лицо],ai,,3E688CB3464D235EC57F3C80FFF99E16

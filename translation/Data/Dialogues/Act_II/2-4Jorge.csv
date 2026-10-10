@@ -40,13 +40,13 @@ My best guess is heating it. Did you try the Temperature chamber yet?,"Скор�
 How do I agitate it?,Как его возбудить?,ai,,6319516445FC574EC24BFC96EFA32EBF
 Thanks. I'll try that.,Спасибо. Попробую.,ai,,6EC180C5430717A16E6320B84B6AE25E
 I think I've messed up it's properties completely.,"Кажется, я напрочь сбил ему все свойства.",ai,,15B556BA4DCB7F4DFCBE639FA865EBC8
-"Shit, really? Try the cooling sprays again. That worked for me - got it back into its original state.","Чёрт, серьёзно? Попробуй ещё раз охлаждающие спреи. У меня сработало — вернул его в исходное состояние.",ai,,0A910A54443317203A966AB6E867F546
+"Shit, really? Try the cooling sprays again. That worked for me - got it back into its original state.","Чёрт, серьёзно? Попробуй ещё раз охлаждающие спреи. У меня сработало - вернул его в исходное состояние.",ai,,0A910A54443317203A966AB6E867F546
 How do I agitate it?,Как его возбудить?,ai,,BAE1E464439B0E582C1C7297661DE1F8
 How do I dry it out?,Как его высушить?,ai,,B3B449FD45043BCA4E66E7A611B378DD
 Thanks. I'll try that.,Спасибо. Попробую.,ai,,56B6076B4138D8016EF24FB6DAEC026B
 "I don't think you can, either. That's the trick: you'll need to cancel properties out. Spraying water on something that's already wet won't dry it out, for example. But even you should know that by now.","Думаю, и не получится. В этом и фокус: свойства нужно гасить друг другом. Например, если поливать водой то, что и так мокрое, оно не высохнет. Но это уж даже ты должен был уяснить.",ai,,42C485CA4732F2DB6D2329B8E276EDD4
 "Alright, I'll see what I can do.","Ладно, посмотрю, что можно сделать.",ai,,A756A3CC45F13530CF892E9D1D664435
-"I'm starting to share that sentiment. Anytime I test to see if it can do something, it ends up being able to do it. That's...almost not helpful. But it also leads me to accept that our hypothesis was correct.","Я начинаю разделять это мнение. Что бы я ни проверял — может ли оно то или это, — оказывается, что может. Это... почти бесполезно. Но это же заставляет меня признать, что наша гипотеза была верна.",ai,,F6ECC1C24FF2094825E6E6833DA47993
+"I'm starting to share that sentiment. Anytime I test to see if it can do something, it ends up being able to do it. That's...almost not helpful. But it also leads me to accept that our hypothesis was correct.","Я начинаю разделять это мнение. Что бы я ни проверял - может ли оно то или это, - оказывается, что может. Это... почти бесполезно. Но это же заставляет меня признать, что наша гипотеза была верна.",ai,,F6ECC1C24FF2094825E6E6833DA47993
 """Our"" hypothesis?",«Наша» гипотеза?,ai,,1512DFAF40678949A8B5C6847AAE1C99
 "If nothing else, we know we make a good team now.","По крайней мере, теперь мы знаем, что из нас вышла хорошая команда.",ai,,EBB4AEB8441DB0B66A0011B2482B85FD
 "What exactly have we learned, then?",И что же именно мы узнали?,ai,,69D626FC412772972427A597622BFE86
@@ -66,7 +66,7 @@ Roger that.,Принято.,ai,,BBBD1240462904293440EE80EF97E2C7
 "You-you've forgotten? Alright, quit fucking around, Eli. Even I know what you did. You heated it up, and then you hit it with salt spray.","Ты-ты забыл? Ладно, хватит валять дурака, Илай. Даже я знаю, что ты сделал. Ты его нагрел, а потом обработал солевым спреем.",ai,,1D60B4324F1E871327EBC0930B41EA45
 Then what?,А потом?,ai,,ED6E9D8C409379D8C557DD8C50204D54
 "Oh, right. I'll get back to it.","А, точно. Вернусь к работе.",ai,,A71C37F84B72A334E11FBDA62306AA76
-"Look, do what you did last time, and then figure out the last bit. It's not that difficult. Use the cooling spray if you've got the sample all messed up, or something.","Слушай, сделай то же, что в прошлый раз, а потом разберись с последним шагом. Это не так уж сложно. Если совсем запорол образец — воспользуйся охлаждающим спреем или вроде того.",ai,,153903BD449192CFADD5ABA751E15C95
+"Look, do what you did last time, and then figure out the last bit. It's not that difficult. Use the cooling spray if you've got the sample all messed up, or something.","Слушай, сделай то же, что в прошлый раз, а потом разберись с последним шагом. Это не так уж сложно. Если совсем запорол образец - воспользуйся охлаждающим спреем или вроде того.",ai,,153903BD449192CFADD5ABA751E15C95
 "Yes, I...forgot how I did it last time.","Да, я... забыл, как сделал это в прошлый раз.",ai,,844E19414939710246B5FF8699B6B4F7
 I'm just not sure about that last part.,Я просто не уверен насчёт последней части.,ai,,E943F925437B4FB2504AC5B0929E2000
 "I'll give it another go, Jorge.","Попробую ещё раз, Джордж.",ai,,52AA40494241B194D3020ABDA4928E36
@@ -82,8 +82,8 @@ Praise? From you? Is this going to be a repeat offence?,Похвала? От т�
 (CYNIC) You can always place the blame on me when we get reprimanded for this.,"(ЦИНИК) Когда нам за это влетит, всегда можешь свалить вину на меня.",ai,,5603FB6D46C4F5A64F10C5A00AEB102F
 "(IDEALIST) After this is all done, maybe the two of us can continue to collaborate.","(ИДЕАЛИСТ) Когда всё это закончится, может, мы и дальше будем работать вместе.",ai,,E93900E44EBFF72C39C169A292CFBA2C
 (REALIST) We still got more work to do. Let's not celebrate too early.,(РЕАЛИСТ) Работы ещё полно. Не будем праздновать раньше времени.,ai,,1A403E3C4C455E0FF83035BFB68776F4
-Psh. I'd say we did good is an understatement.,"Пф. Сказать, что мы хорошо поработали, — это ничего не сказать.",ai,,1ED5BB364CE08EA61F35BCA60278F798
-"Don't forget that you're the one who convinced me it was worth the time. We'll be making more interesting progress soon - I can't really say this or that until then. So far, I'm very interested. It's promising - I think.","Не забывай, это ты убедил меня, что оно того стоит. Скоро мы продвинемся куда интереснее — до тех пор ничего конкретного сказать не могу. Пока мне очень интересно. Это многообещающе — по-моему.",ai,,D8D3B37047FB95E8053B57B21201D9BB
+Psh. I'd say we did good is an understatement.,"Пф. Сказать, что мы хорошо поработали, - это ничего не сказать.",ai,,1ED5BB364CE08EA61F35BCA60278F798
+"Don't forget that you're the one who convinced me it was worth the time. We'll be making more interesting progress soon - I can't really say this or that until then. So far, I'm very interested. It's promising - I think.","Не забывай, это ты убедил меня, что оно того стоит. Скоро мы продвинемся куда интереснее - до тех пор ничего конкретного сказать не могу. Пока мне очень интересно. Это многообещающе - по-моему.",ai,,D8D3B37047FB95E8053B57B21201D9BB
 Good. Remind me what states I'm aiming for now again?,"Хорошо. Напомни, каких состояний я сейчас добиваюсь?",ai,,032BA4F44DA931B3F5BC0B880701A19F
 Sounds good. I'll let you get back to it.,Звучит неплохо. Не буду тебя отвлекать.,ai,,D0031DFA4CB2ADC76925808302C27593
 "One hundred percent. There's no doubt about it - after we're done with this, we'll have learned something new, regardless of whether we've determined what it is or not.","На все сто. Никаких сомнений: когда мы с этим закончим, мы узнаем что-то новое, вне зависимости от того, поймём мы, что это такое, или нет.",ai,,A1CF2C2C4ABF41E37B3F79ADF767E58E
@@ -118,7 +118,7 @@ And did it break it down?,И оно её расщепило?,ai,,DD27AF8341F11D7
 It attached itself to something without appearing to break it down? Perhaps it's parasitic.,"Оно к чему-то прикрепилось, но, похоже, не расщепило это? Возможно, оно паразит.",ai,,408B2D0C4666F1B1FF0B4DA601F342B1
 "At the very least, it appears it was drawn to food. It requires sustenance, then.","Как минимум его, судя по всему, тянуло к еде. Значит, ему нужно питание.",ai,,841705BC441EB3B14EF98696886733C2
 None. It's much too soon to determine anything yet.,Никакого. Делать какие-либо выводы ещё слишком рано.,ai,,FE14100240B410E2FD5819B8077B5997
-"The outmost layer, yes. It just latched on to the rest. It didn't even begin to break down the rest of the piece I gave it - once I pulled it out, it was dry as before. Like someone had just...licked it.","Внешний слой — да. А к остальному просто прилипло. Оставшийся кусок, который я ему дал, оно даже не начало расщеплять: когда я его вытащил, он был сухой, как и раньше. Будто кто-то его просто... облизал.",ai,,79B5B4D04E983FE49D5E4CB4C6FD803E
+"The outmost layer, yes. It just latched on to the rest. It didn't even begin to break down the rest of the piece I gave it - once I pulled it out, it was dry as before. Like someone had just...licked it.","Внешний слой - да. А к остальному просто прилипло. Оставшийся кусок, который я ему дал, оно даже не начало расщеплять: когда я его вытащил, он был сухой, как и раньше. Будто кто-то его просто... облизал.",ai,,79B5B4D04E983FE49D5E4CB4C6FD803E
 That...is certainly unsettling.,Это... определённо жутковато.,ai,,B1A907C5466785357E14FB9E8C5DEDE3
 What do you make of it?,Что ты об этом думаешь?,ai,,A608310A4CC9BAFCB160839138C9DCA5
 You tell me.,Это уж вы мне скажите.,ok,,27E46AB74DA2E05656523D877D414CA1
@@ -128,7 +128,7 @@ You tell me.,Это уж вы мне скажите.,ok,,27E46AB74DA2E05656523D8
 It attached itself to something without appearing to break it down. Perhaps it's parasitic.,"Оно к чему-то прикрепилось, но, похоже, не расщепило это. Возможно, оно паразит.",ai,,F93051D648536EAD77F2529670EB04CD
 "At the very least, it appears it was drawn to food. It requires sustenance, then.","Как минимум его, судя по всему, тянуло к еде. Значит, ему нужно питание.",ai,,907F21124E0EA267DB282A8241BA5308
 I think it's too soon to start drawing conclusions.,"По-моему, делать выводы ещё рано.",ai,,19F1C6B6454E57644924C090BA538540
-"The sample, yes. If it's organic, it only seemed reasonably it would have had some type of reaction to carbohydrates. Didn't seem to be bothered by the high salt content, either.","Образцу — да. Если оно органическое, то было бы логично, что оно хоть как-то отреагирует на углеводы. Высокое содержание соли его, похоже, тоже не смутило.",ai,,B1275DBF487A553E72C2C98724AF4A4C
+"The sample, yes. If it's organic, it only seemed reasonably it would have had some type of reaction to carbohydrates. Didn't seem to be bothered by the high salt content, either.","Образцу - да. Если оно органическое, то было бы логично, что оно хоть как-то отреагирует на углеводы. Высокое содержание соли его, похоже, тоже не смутило.",ai,,B1275DBF487A553E72C2C98724AF4A4C
 That is...strange.,Это... странно.,ai,,9621A4124816B7DA8FE622BF0155265F
 And did it begin breaking it down?,И оно начало её расщеплять?,ai,,AD9004BC4F3AB6CF3ACA8AACC213D902
 "I was thinking something similar, yes. I think there's a few simple tests we could do to see whether or not that is the reality of the situation.","Я думал примерно о том же, да. Думаю, есть пара простых тестов, которые помогут понять, так это на самом деле или нет.",ai,,14F088ED48D045B0238B229197A15460
@@ -145,7 +145,7 @@ Quite right. I've got a few things in mind to try to discern whether or not this
 ...And whether sentient implies sapient in this particular instance.,...И означает ли в этом конкретном случае сознание ещё и разум.,ai,,5130265A4272B1F53B4CBDB1124C54EE
 What are you thinking?,Что скажешь?,ok,,139007BB4D10EC7B4EDD30A1A97D29B4
 "Imagine: we found a single specimen, in a small metal pod. What if there are more? Others?","Представь: мы нашли единственный экземпляр в маленькой металлической капсуле. А что, если есть ещё? Другие?",ai,,71C9D24143E8734D7FB5FEBC903B2D1E
-"Wouldn't be unheard of, chemically. In an organism, however? That would be quite remarkable.",С химической точки зрения — ничего неслыханного. Но у организма? Это было бы весьма примечательно.,ai,,DB3581924017E83A2D87ABA4A3EED3A5
+"Wouldn't be unheard of, chemically. In an organism, however? That would be quite remarkable.",С химической точки зрения - ничего неслыханного. Но у организма? Это было бы весьма примечательно.,ai,,DB3581924017E83A2D87ABA4A3EED3A5
 "Not sure I have high hopes about this one, but I'll try. [Leave]","Не скажу, что у меня большие надежды, но попробую. [Уйти]",ai,,8EEF7664417B277F0E41499DAAFE0D24
 Only one way to find out. [Leave],Есть только один способ узнать. [Уйти],ai,,06C7A8D043E458DC1BCB8B8982E38A5F
 What will you be trying?,Что ты будешь пробовать?,ai,,ED9D57954643D3070E2987987BF3A7CF
@@ -180,7 +180,7 @@ Don't let it get to your head.,Только не зазнавайся.,ai,,3D114
 "(IDEALIST) After this is all done, maybe the two of us can continue to collaborate.","(ИДЕАЛИСТ) Когда всё это закончится, может, мы и дальше будем работать вместе.",ai,,1F0F70794D54858CF8AA1E8CA272BE74
 (REALIST) We still got more work to do. Let's not celebrate too early.,(РЕАЛИСТ) Работы ещё полно. Не будем праздновать раньше времени.,ai,,833A14ED475E6BA282A81387FFAB462F
 We did good.,Мы хорошо поработали.,ai,,B321B3754222A3ACCA25C3B0FE814904
-"It's, well...an organism. I think we both knew that, but this all but proves it. I have to say - you were right. This couldn't wait. Glad we got started with the experiments already.","Это, ну... организм. Думаю, мы оба это знали, но теперь это практически доказано. Должен признать — ты был прав. Это не могло ждать. Рад, что мы уже взялись за эксперименты.",ai,,E5DFE87B42134C308729479FE759D3E4
+"It's, well...an organism. I think we both knew that, but this all but proves it. I have to say - you were right. This couldn't wait. Glad we got started with the experiments already.","Это, ну... организм. Думаю, мы оба это знали, но теперь это практически доказано. Должен признать - ты был прав. Это не могло ждать. Рад, что мы уже взялись за эксперименты.",ai,,E5DFE87B42134C308729479FE759D3E4
 "Are you giving me praise, Jorge?","Ты меня хвалишь, Джордж?",ai,,07B54569408111C922C0B88941E7DD39
 (CYNIC) You can always place the blame on me when we get reprimanded for this.,"(ЦИНИК) Когда нам за это влетит, всегда можешь свалить вину на меня.",ai,,F381627F41E6F954578DDF86CB31C8E0
 "(IDEALIST) After this is all done, maybe the two of us can continue to collaborate.","(ИДЕАЛИСТ) Когда всё это закончится, может, мы и дальше будем работать вместе.",ai,,D2AAE5CC4C24A3773E09A08528B4128C
@@ -240,7 +240,7 @@ But why would this be the only thing that remains?,Но почему тогда 
 "So someone worked here. Lived here, at some point.","Значит, кто-то здесь работал. Когда-то даже жил.",ai,,4CB7F8724FB7AAC1975A25A0DA0AC5EE
 How was it preserved? Still alive?,Как оно сохранилось? Ещё и живым?,ai,,DFA3C85B4B2F6DB8F9CA15A4FE8F8DEB
 "It lived out here for ages, then. What does it do, exactly?","Значит, оно жило тут целую вечность. А что именно оно делает?",ai,,28BB0BDA49D30ECA81F262AE2CBD1933
-"No idea. It's eerie. I'm not entirely sure what happened to them, either. Never heard of a civilization outside the walls - what would they survive on? Rocks and sand?","Понятия не имею. Жуть какая-то. И что с ними случилось, я тоже толком не знаю. Никогда не слышал о цивилизации за Стеной — чем бы они тут питались? Камнями и песком?",ai,,9B24D00843400FCB2F1141863F020182
+"No idea. It's eerie. I'm not entirely sure what happened to them, either. Never heard of a civilization outside the walls - what would they survive on? Rocks and sand?","Понятия не имею. Жуть какая-то. И что с ними случилось, я тоже толком не знаю. Никогда не слышал о цивилизации за Стеной - чем бы они тут питались? Камнями и песком?",ai,,9B24D00843400FCB2F1141863F020182
 How come we don't know anything about them?,Почему мы ничего о них не знаем?,ai,,157D93934253F6B6F4320DAAA2986726
 What could have happened to them?,Что могло с ними случиться?,ai,,A9D629B74187847A1391B7B07901978F
 ...What are you getting at?,...К чему ты клонишь?,ai,,D71C1F2F4A00489F4E3685856059E3B6
@@ -248,7 +248,7 @@ What could have happened to them?,Что могло с ними случитьс
 By who? Who were these...people?,Кто? Кем были эти... люди?,ai,,169D4C174DB47E9EB31AD1BDE81BE797
 I think it was locked away. Kept from the public.,"Думаю, его заперли. Спрятали от людей.",ai,,2A13BC2646333B275C4678A41250EC5F
 "Something like this? Yeah, anyone would want to keep it safe and secret.","Такое-то? Да, кто угодно захотел бы хранить его в безопасности и в тайне.",ai,,05D843B54906442993C3018DD4BCE0A7
-"Shit, man - without gettting too philosophical, what's our purpose? Eat, sleep, die? Seems like our friend here skipped out on the last step, though.","Чёрт, дружище, если не вдаваться в философию — а в чём наше предназначение? Есть, спать, умереть? Хотя, похоже, наш приятель последний пункт пропустил.",ai,,EDBC4A764AEAAE0524246EB200A4270D
+"Shit, man - without gettting too philosophical, what's our purpose? Eat, sleep, die? Seems like our friend here skipped out on the last step, though.","Чёрт, дружище, если не вдаваться в философию - а в чём наше предназначение? Есть, спать, умереть? Хотя, похоже, наш приятель последний пункт пропустил.",ai,,EDBC4A764AEAAE0524246EB200A4270D
 You think it sleeps?,"Думаешь, оно спит?",ai,,F2BA39B6412505EF30836EA575CC5948
 So what does it eat?,И что оно ест?,ai,,5B55AF6541401BE88A6E4B9F0CA01FE8
 Are you saying this thing...can't die?,"Ты хочешь сказать, что эта штука... не может умереть?",ai,,B5DC519047CCAA821810598B8DAA856A
@@ -260,7 +260,7 @@ You think it's dangerous?,"Думаешь, оно опасно?",ai,,586C7D4644F
 "I think we should take precautions, that's what I think.","Я думаю, что надо принять меры предосторожности, вот что я думаю.",ai,,6E353B22497193522C80DA8D12794EBC
 You don't have anything else to add?,Тебе больше нечего добавить?,ai,,69262B644D2A2B2126BD508C6A51220B
 Want to hear what I think?,"Хочешь знать, что я думаю?",ai,,A93E057F4E31CE618ADA00B2638725A0
-"Way I see it, we've got a sample to identify and a ton of equipment to do it with. It only seems natural to begin applying the scientific process.","Как я это вижу, у нас есть образец, который нужно идентифицировать, и куча оборудования для этого. Самое естественное — применить научный метод.",ai,,3EF6586D44923E4B688A6488448B4AF6
+"Way I see it, we've got a sample to identify and a ton of equipment to do it with. It only seems natural to begin applying the scientific process.","Как я это вижу, у нас есть образец, который нужно идентифицировать, и куча оборудования для этого. Самое естественное - применить научный метод.",ai,,3EF6586D44923E4B688A6488448B4AF6
 Might be a good idea to begin by establishing what exactly it's made of.,"Неплохо было бы для начала выяснить, из чего именно оно состоит.",ai,,F1F8C3404594DCB401A344AB4A74EEB0
 And have you?,А ты пробовал?,ai,,5B8D2CA74D06951147C581B7E283C520
 And how do you feel about it?,И как ты к этому относишься?,ai,,1777E1AC4FEA5D7A96AB089AE6138AC0
@@ -289,8 +289,8 @@ Should we tell them we lost it?,"Может, сказать им, что мы е
 I guess we'll find out.,"Думаю, скоро узнаем.",ai,,8B3BD124425CE6FCDB0B1C9553817638
 "We can certainly try. Look, man. This has been a day and a half. You mind marking down our progress and conclusions in the research ledger? I'm...I think I need to clear my head.","Попробовать мы точно можем. Слушай, дружище. Ну и денёк выдался. Не против занести наш прогресс и выводы в исследовательский журнал? Мне... кажется, мне надо проветрить голову.",ai,,164FE8B84ED533074792FBAD00619992
 "Sure. Where is it, again?","Конечно. Напомни, где он?",ai,,A84E190C4E6073EDAB86D496CD29ECAF
-Because I'm the lead scientist on this particular day?,Потому что сегодня главный учёный — я?,ai,,F2ADADCF4B46C784254162A749B9F803
-I thought you were the big brains behind this operation.,"Я думал, главный мозг этой операции — ты.",ai,,D87BEB6B42BDC711670AFFA14B8EB52C
+Because I'm the lead scientist on this particular day?,Потому что сегодня главный учёный - я?,ai,,F2ADADCF4B46C784254162A749B9F803
+I thought you were the big brains behind this operation.,"Я думал, главный мозг этой операции - ты.",ai,,D87BEB6B42BDC711670AFFA14B8EB52C
 "Should be in the tent, on the table.","Должен быть в палатке, на столе.",ai,,543EE02A4C8A112EFEADE5A36AB16B7B
 Sure thing.,Конечно.,ok,,0CFAA8F5407B0326994C7F8BE2F1177A
 "So we'd be heads of research, then? Alright, sure. We just need to make sure we get unlimited resources and the safest fucking facility in the entire City. No biggie.","Значит, мы будем руководить исследованиями? Ладно, конечно. Нужно только выбить неограниченные ресурсы и самую охренительно защищённую лабораторию во всём Городе. Пустяки.",ai,,4D7CA71143CD6975B34BFB923C732865
@@ -311,7 +311,7 @@ Got it.,Понял.,ai,,CFF912DA4E4FFD7AB7CF3997A23FC876
 "This thing was locked away for a reason. It's dangerous, and it should remain underground.",Эту штуку заперли не просто так. Она опасна и должна оставаться под землёй.,ai,,266D4151442CD3B100DF28BA770D7C3C
 "We don't know the effects this thing could have on people. It should be studied far away from the City, by a small team. Us.","Мы не знаем, как эта штука может повлиять на людей. Изучать её нужно далеко от Города, небольшой командой. Нами.",ai,,986D263A4DB1E327859130BA505E0A37
 "We can't keep this in an icebox in a digsite camp. We need a team, equipment, and a secure lab in the City.","Мы не можем держать это в холодильнике в лагере на раскопках. Нам нужна команда, оборудование и защищённая лаборатория в Городе.",ai,,6F6B64F84DDC47A54C94E0A99C9B8B79
-Not if they find out. Shepherd knows how much money has already gone into these expeditions - finding what you're looking for and then deciding to leave it be will sound like a joke to them.,"Если только они не узнают. Пастырь знает, сколько денег уже вбухано в эти экспедиции, — найти то, что искал, а потом решить оставить как есть? Для них это прозвучит как анекдот.",ai,,5AFD53BF46AE7289DAF9A19956E5E049
+Not if they find out. Shepherd knows how much money has already gone into these expeditions - finding what you're looking for and then deciding to leave it be will sound like a joke to them.,"Если только они не узнают. Пастырь знает, сколько денег уже вбухано в эти экспедиции, - найти то, что искал, а потом решить оставить как есть? Для них это прозвучит как анекдот.",ai,,5AFD53BF46AE7289DAF9A19956E5E049
 Then we just have to convince them otherwise.,"Значит, придётся их переубедить.",ai,,66A838944D8D742E5B8431A9FACA88BF
 "Should we tell them we lost it, then?","Тогда, может, сказать им, что мы его потеряли?",ai,,573B458B454ACC53E8638BA43066BB6A
 I guess we'll find out.,"Думаю, скоро узнаем.",ai,,96392C534551B4765D76929827D7ED7C
@@ -335,7 +335,7 @@ Yeah. Same.,Да. Мне тоже.,ai,,9BDC8E134A10B20454A6E8B84F319623
 Try not to let it get to you.,Постарайся не принимать это близко к сердцу.,ai,,9DCA8A1240C0D2A243ABCC89AB2114A4
 "Same. Don't worry, it'll be over soon.","Аналогично. Не волнуйся, скоро всё закончится.",ai,,EA7AC9CD4966AD5EFFA164BC74EB6AEE
 You're imagining things. We'll be fine.,Тебе мерещится. Всё будет хорошо.,ai,,794F806F4C00A3397C08B29D1BE78544
-"Still reeling. Tell the truth, staying out here a little longer would be nice - especially with new gear and some more provisions. I don't mind the field work.","Всё ещё не могу прийти в себя. По правде говоря, задержаться тут ещё ненадолго было бы неплохо — особенно с новым снаряжением и запасом провизии. Я не против полевой работы.",ai,,D3AAF93747B80E644D8D169EA93C1789
+"Still reeling. Tell the truth, staying out here a little longer would be nice - especially with new gear and some more provisions. I don't mind the field work.","Всё ещё не могу прийти в себя. По правде говоря, задержаться тут ещё ненадолго было бы неплохо - особенно с новым снаряжением и запасом провизии. Я не против полевой работы.",ai,,D3AAF93747B80E644D8D169EA93C1789
 That's the Jorge I know.,"Вот это тот Джордж, которого я знаю.",ai,,F9A5B911459272F447FA869E171E10A5
 I still miss my bed.,А я всё ещё скучаю по своей кровати.,ai,,8AF32D204C26588BD55862A005C77879
 Yeah. Those provisions better be superb.,Да. Провизия пусть будет отменная.,ai,,0E81BDA1423E4EAD838595881482D029
@@ -351,7 +351,7 @@ I'll get to it.,Займусь.,ai,,C47F75BA4C064599EEF826A3B4EA3B86
 Feeling okay?,Ты в порядке?,ai,,479E489A4810A1E88E1D3E855B344FBD
 You got the samples?,Образцы у тебя?,ai,,4A021D614FBE672DCA8CACA8EB98C982
 Talk later.,Поговорим позже.,ai,,FA5AF1B84CB24C50AA6114BA2F4FB99C
-"I've had a pretty crazy career, but I never thought it would end out here in the wastes. I did get to see them, though - silver linings.","Карьера у меня была та ещё, но я никогда не думал, что она закончится здесь, в пустошах. Зато я их увидел — во всём есть свои плюсы.",ai,,8C93EE7E4DD9F4FDCC4474BBFD5DE4F9
+"I've had a pretty crazy career, but I never thought it would end out here in the wastes. I did get to see them, though - silver linings.","Карьера у меня была та ещё, но я никогда не думал, что она закончится здесь, в пустошах. Зато я их увидел - во всём есть свои плюсы.",ai,,8C93EE7E4DD9F4FDCC4474BBFD5DE4F9
 Me neither.,Я тоже.,ai,,0F147ECC4ABE9434105B8F9EA1A7D050
 "They've got a certain charm, I'll give you that.","Признаю, в них есть своё очарование.",ai,,E6A6400D4BD5893D921F95975D8A47EA
 "This is hardly the end, Jorge.","Это вовсе не конец, Джордж.",ai,,23CD4AAD4E486E0F46932CB75B82C960
@@ -363,7 +363,7 @@ I'd rather be sweaty than sunburnt.,"Лучше потеть, чем обгор�
 [Say nothing],[Промолчать],ai,,3E4091AB44F8292C5E6AB3BFCB2242B7
 Can't say I ever had the urge to.,"Не скажу, что меня когда-то тянуло.",ai,,3B1FFF3044BDF682E007AE93062B72DB
 "Aren't you hot in that hat, Eli? It's scorching today.","Не жарко тебе в этой шляпе, Илай? Сегодня пекло.",ai,,593D0DD9438ADD8EA900BEBFE6C56364
-Quite the contrary - keeps the sun out of my face.,Как раз наоборот — она защищает лицо от солнца.,ai,,5FFBD42145908F0A1BA27F8E92C90D11
+Quite the contrary - keeps the sun out of my face.,Как раз наоборот - она защищает лицо от солнца.,ai,,5FFBD42145908F0A1BA27F8E92C90D11
 [Say nothing and continue sweating],[Промолчать и продолжать потеть],ai,,1E8028A644E115C9DEFD4D9839669F52
 "I just have sensitive fur, is all.","Просто у меня чувствительный мех, вот и всё.",ai,,F5A940D44A0A80AE7D6B73BF3E6A0D87
 Strange to imagine that we were so close to uncovering this thing for so long. It was right under us.,"Странно подумать, что мы так долго были в двух шагах от этой штуки. Она была прямо под нами.",ai,,34AB89C048291E98CF9B0C9E6A472E46
@@ -392,12 +392,12 @@ Me neither. It defies explanation.,Я тоже. Этому нет объясне
 "Well, we've only learned about what it can do. Nothing about what it is.","Ну, мы узнали только, на что оно способно. А не что оно такое.",ai,,4718774947AC59DCA751A1809284C806
 "We...I'm not sure, Eli. Not sure they'd buy it. Look, man. This has been a day and a half. You mind marking down our progress and conclusions in the research ledger? I'm...I think I need to clear my head.","Мы... не уверен, Илай. Не уверен, что они на это купятся. Слушай, дружище. Ну и денёк выдался. Не против занести наш прогресс и выводы в исследовательский журнал? Мне... кажется, мне надо проветрить голову.",ai,,99FBE39B4DFB917F8C054D95C4194478
 "Sure. Where is it, again?","Конечно. Напомни, где он?",ai,,4F741BAA436683CA178709ACC17E6A01
-Because I'm the lead scientist on this particular day?,Потому что сегодня главный учёный — я?,ai,,328477E641754EF54C5F31B6FB8B65DF
-I thought you were the big brains behind this operation.,"Я думал, главный мозг этой операции — ты.",ai,,30F8ECC342CD20C9812E3AB10F3EC47E
+Because I'm the lead scientist on this particular day?,Потому что сегодня главный учёный - я?,ai,,328477E641754EF54C5F31B6FB8B65DF
+I thought you were the big brains behind this operation.,"Я думал, главный мозг этой операции - ты.",ai,,30F8ECC342CD20C9812E3AB10F3EC47E
 "I guess we will. Look, man - this has been a day and a half. You mind marking down our progress and conclusions in the research ledger? I'm...I think I need to clear my head.","Похоже, так и будет. Слушай, дружище, ну и денёк выдался. Не против занести наш прогресс и выводы в исследовательский журнал? Мне... кажется, мне надо проветрить голову.",ai,,CCD94DDA4AEB9ACA583DE2874C93A896
 "Sure. Where is it, again?","Конечно. Напомни, где он?",ai,,E9BACFDA4B924169C42B87B0723E7C74
-Because I'm the lead scientist on this particular day?,Потому что сегодня главный учёный — я?,ai,,977CF8BA4F9DAF40E76B009F138F9CE9
-I thought you were the big brains behind this operation.,"Я думал, главный мозг этой операции — ты.",ai,,CEBFC9FA45908ADC37C408805C7A17E8
+Because I'm the lead scientist on this particular day?,Потому что сегодня главный учёный - я?,ai,,977CF8BA4F9DAF40E76B009F138F9CE9
+I thought you were the big brains behind this operation.,"Я думал, главный мозг этой операции - ты.",ai,,CEBFC9FA45908ADC37C408805C7A17E8
 Sure. Hit me.,Конечно. Выкладывай.,ai,,BCF3D11E467750BE1C8137884C56DF57
 "This thing was locked away for a reason. It's dangerous, and it should remain underground.",Эту штуку заперли не просто так. Она опасна и должна оставаться под землёй.,ai,,DD12CE9F4CF75A6C36749CB04101B5CA
 "We don't know the effects this thing could have on people. It should be studied far away from the City, by a small team. Us.","Мы не знаем, как эта штука может повлиять на людей. Изучать её нужно далеко от Города, небольшой командой. Нами.",ai,,FF9ACC2C483BFFD603824A81C069CBB4
@@ -406,7 +406,7 @@ Sure. Hit me.,Конечно. Выкладывай.,ai,,BCF3D11E467750BE1C813788
 "It adapts to anything, Jorge. Maybe it can adapt to size, too.","Оно приспосабливается к чему угодно, Джордж. Может, оно и размер может менять.",ai,,238CB0D84ECDD3D34E288BBDB5CBA9F8
 "I don't know, and I don't want to find out. Not taking any chances.",Не знаю и не хочу знать. Я не собираюсь рисковать.,ai,,97D0595D4C801DCB152F218909974C4A
 "It was sealed away underground, and it scares both of us. That's enough for me.","Его запечатали под землёй, и оно пугает нас обоих. Мне этого достаточно.",ai,,A42F3FF24E383001F098959BD3A2185C
-"You sure about that? Clearly, this thing is dangerous - you're not just making a compromise out of pride?",Ты уверен? Эта штука явно опасна — ты не идёшь на компромисс просто из гордости?,ai,,E74A521F42126ED2EBC14E979C75EA54
+"You sure about that? Clearly, this thing is dangerous - you're not just making a compromise out of pride?",Ты уверен? Эта штука явно опасна - ты не идёшь на компромисс просто из гордости?,ai,,E74A521F42126ED2EBC14E979C75EA54
 Leaving it would be just as dangerous.,Оставить его было бы не менее опасно.,ai,,7FD04D3842AB5481E0CE118BC3132F6D
 We can't bring it to the City or endanger more life. Safer like this.,Мы не можем привезти его в Город и подвергнуть опасности новые жизни. Так безопаснее.,ai,,BB8F67594338E326BA9E7E8D2E681EE4
 "Pride's got nothing to do with it. Right now, we have to be realistic.",Гордость тут ни при чём. Сейчас нам нужно быть реалистами.,ai,,C38524484C27528D5413DEB31A0D0883
@@ -414,7 +414,7 @@ Bring it into the City? We don't even know what this thing can do yet. Are you s
 "If we can't contain it out here, it'll spread regardless. There are more secure vaults and labs in the City.","Если мы не сможем удержать его здесь, оно всё равно распространится. В Городе есть хранилища и лаборатории понадёжнее.",ai,,CED16FA54D03579CE4F1248C62687ED9
 There's no way HQ is letting this thing remain out here. This way we can at least supervise any further experiments.,Штаб ни за что не оставит эту штуку здесь. А так мы хотя бы сможем присматривать за дальнейшими экспериментами.,ai,,A7E69B2642EA3C17821C54A98329066B
 "We don't have enough tools out here, like it or not. We need state of the art tech.","Нравится нам это или нет, здесь у нас мало инструментов. Нам нужна самая передовая техника.",ai,,4EC42A2A4CE950B6A1A54DBEA5936823
-"I suppose not - but we're making do. We're a good team, all things considered, proving our hypothesis.","Пожалуй, нет — но мы справляемся. Мы, учитывая всё, хорошая команда, раз доказываем нашу гипотезу.",ai,,5869B9EB4C7658987CAE028DD56DECC3
+"I suppose not - but we're making do. We're a good team, all things considered, proving our hypothesis.","Пожалуй, нет - но мы справляемся. Мы, учитывая всё, хорошая команда, раз доказываем нашу гипотезу.",ai,,5869B9EB4C7658987CAE028DD56DECC3
 """Our"" hypothesis?",«Наша» гипотеза?,ai,,A8A27AC04DEEBEBEF6ADAC97866B68C7
 You think so?,Думаешь?,ai,,2E72E40A4D8637522E79EAAB881226E9
 "What exactly have we learned, then?",И что же именно мы узнали?,ai,,FC2E91AF4091C15A50FB37A8F4EE9DD5
@@ -430,14 +430,14 @@ What will you be doing?,А ты чем займёшься?,ai,,742CA17A46010DEE3
 Where do you want to start?,С чего хочешь начать?,ai,,58961AB7420B7B954B3EEB9123870358
 You're the lead on this. Tell me what you need.,"Ты здесь главный. Скажи, что тебе нужно.",ai,,D3FC524F48C83F10B755C591ECF1FD64
 I thought I was the one taking charge of the experiments today.,"Я думал, сегодня экспериментами руковожу я.",ai,,6752DFE54CCC6905CD918A9556F1860D
-"Exactly - I'll need it dry, agitated and solid. Get to it, Eli.","Именно — мне нужно, чтобы оно было сухим, возбуждённым и твёрдым. За дело, Илай.",ai,,FD459763481181423CD2CEADA119EA97
+"Exactly - I'll need it dry, agitated and solid. Get to it, Eli.","Именно - мне нужно, чтобы оно было сухим, возбуждённым и твёрдым. За дело, Илай.",ai,,FD459763481181423CD2CEADA119EA97
 What are you going to do?,А ты что будешь делать?,ai,,B02ED24F4B50E8632C1A21BF84B7DF0E
 How about we switch tasks this time?,"Может, на этот раз поменяемся задачами?",ai,,C801FA6D43183382F1359EAA13AD6051
 "Dry, agitated, and solid. Alright, let's give this a try...","Сухое, возбуждённое и твёрдое. Ладно, попробуем...",ai,,B76BF03D49987CAB56E3E399480511B7
-"Grow? Spread? I see your point. Maybe it has other effects on people, too - we might even have caught something already, and be none the wiser.","Расти? Распространяться? Понимаю, о чём ты. Может, оно и как-то иначе влияет на людей — может, мы уже что-то подхватили и даже не подозреваем.",ai,,570694B64BBB75EB29C9F3926D7F0DC6
+"Grow? Spread? I see your point. Maybe it has other effects on people, too - we might even have caught something already, and be none the wiser.","Расти? Распространяться? Понимаю, о чём ты. Может, оно и как-то иначе влияет на людей - может, мы уже что-то подхватили и даже не подозреваем.",ai,,570694B64BBB75EB29C9F3926D7F0DC6
 I feel fine. Let's not worry about it.,Я нормально себя чувствую. Не будем об этом беспокоиться.,ai,,8B6B3F9C4D4C09710D198FA4DF164035
 We should get ourselves checked after this.,Нам стоит провериться после всего этого.,ai,,F8D3AB7648E1DEF48DD20A994F8AD522
-I wouldn't be surprised. Unearthing an illness doesn't seem very unlikely.,Я бы не удивился. Откопать болезнь — вполне вероятное дело.,ai,,F2B07CE04BE251B02C666BADA354CAEC
+I wouldn't be surprised. Unearthing an illness doesn't seem very unlikely.,Я бы не удивился. Откопать болезнь - вполне вероятное дело.,ai,,F2B07CE04BE251B02C666BADA354CAEC
 "Shit. You know what? If you're up for it, so am I. Maybe we could get one or two other unfortunate souls out here. Some nicer rations would be nice, too.","Чёрт. Знаешь что? Если ты готов, то и я готов. Может, удастся выбить сюда ещё парочку несчастных. И пайки получше тоже не помешали бы.",ai,,8F8857194AB9B46D48CDCC9AD1CC95E9
 We just need to convince HQ that this is the right thing to do.,"Нам нужно только убедить штаб, что это правильное решение.",ai,,CDFFF64B49E89D86DA990690CE8A4653
 "We need to make it clear that this thing is dangerous, Jorge. Otherwise, they won't take us seriously.","Надо дать понять, что эта штука опасна, Джордж. Иначе нас не станут воспринимать всерьёз.",ai,,D228E0A64FC044448592E587E1CED400
@@ -487,10 +487,10 @@ I thought we were calling it Bobby.,"Я думал, мы называем его
 "Glad to hear you use appropriate terminology. ""Goo."" Pssh.","Рад слышать, что ты пользуешься правильной терминологией. «Слизь». Пф.",ai,,58112F74425907DBD668A091841113CB
 "You're the one pushing to get started with these tests, man. Take the damn thing.","Это ты рвёшься начать эти тесты, дружище. Бери уже эту чёртову штуку.",ai,,E77225C1415F1B69B97433B80395E126
 What is it?,Какое?,ok,,FA9908BC4F21A3042E0E84A077999977
-"...Fine. This ""thing"" being the Artifact?",...Ладно. «Штуку» — в смысле Артефакт?,ai,,7792B7BA4E8797AE3B9C2096A83D01C5
+"...Fine. This ""thing"" being the Artifact?",...Ладно. «Штуку» - в смысле Артефакт?,ai,,7792B7BA4E8797AE3B9C2096A83D01C5
 "Nuh-uh. Too late. You already agreed to get started on this today, so here. Take it. We're burning daylight here.","Ну уж нет. Поздно. Ты уже согласился начать сегодня, так что держи. Бери. Время не ждёт.",ai,,166FCD5C4CB14D6E643C6886C31B5412
 What is it?,Какое?,ok,,1E7C5A37430C00209EE502B9AE32AEAE
-[Take it] This thing being the Artifact?,[Взять] Эту штуку — в смысле Артефакт?,ai,,0D1B3208408784E501C2D3BDBEEAE3D7
+[Take it] This thing being the Artifact?,[Взять] Эту штуку - в смысле Артефакт?,ai,,0D1B3208408784E501C2D3BDBEEAE3D7
 "You? Telling jokes? That'll be the day. Now come on, let's get started.","Ты? Шутишь? Не смеши меня. А теперь давай, начинаем.",ai,,0876041E4DB7A20BB5100D9E55CFBDD9
 Glad to see you so enthusiastic about my suggestion.,"Рад видеть, что ты так загорелся моим предложением.",ai,,8D6D8DF54A948EE91E61FDB66A237A40
 Started on what?,Начинаем что?,ai,,7B22383A43E50091733FA4B31723E8E9
@@ -519,7 +519,7 @@ Most definitely. I've got a list.,Определённо. У меня есть �
 As long as there's a part in there for me. Anything you need me to do?,Лишь бы и для меня там нашлось место. Что-нибудь нужно сделать?,ai,,1CF7BE354E4DA79FE789EDA5D290CC92
 ...Such as?,...Например?,ai,,CC470681430C371B666C4C8AB9A64569
 "You're doing cell biology, Jorge. You're in no position to call anyone a nerd.","Ты занимаешься клеточной биологией, Джордж. Тебе не пристало называть кого-то занудой.",ai,,C8BE2F66425D9BE31FEB6DBAC00B61A0
-"Well, the structure of this thing is bizarre, to say the least. I've never seen some of these compounds before, and rarely in this configuration. It's a jumble of chemicals, an absolute mess, but it somehow still...functions.","Структура этой штуки, мягко говоря, странная. Некоторых из этих соединений я раньше не видел, а в такой конфигурации — тем более. Это мешанина химикатов, сплошной беспорядок, но она каким-то образом всё равно... функционирует.",ai,,EC009C51458F6C79A867D088F3395EC1
+"Well, the structure of this thing is bizarre, to say the least. I've never seen some of these compounds before, and rarely in this configuration. It's a jumble of chemicals, an absolute mess, but it somehow still...functions.","Структура этой штуки, мягко говоря, странная. Некоторых из этих соединений я раньше не видел, а в такой конфигурации - тем более. Это мешанина химикатов, сплошной беспорядок, но она каким-то образом всё равно... функционирует.",ai,,EC009C51458F6C79A867D088F3395EC1
 Functions? So you're implying it has a function? That it's organic?,Функционирует? То есть у неё есть функция? Она органическая?,ai,,AC551A784D4ED3FA49874AB9A1836742
 I see. Any results you need me to look over? Anything I can assist you with?,Понятно. Нужно просмотреть какие-то результаты? Чем-нибудь помочь?,ai,,ACC0A8B64F7F36C0076085A8B44A46A6
 "So, it's alive.",Так она живая.,ai,,1B7FB6FC45717442479EA58FC8100A6B
@@ -527,12 +527,12 @@ I see. Any results you need me to look over? Anything I can assist you with?,П�
 "Maddening. So, is there anything I can do to help?",Бесит. Так чем я могу помочь?,ai,,6ACF21DC4813447837E1C3BC1E714C71
 Sure. What have you found out?,Конечно. Что ты выяснил?,ai,,4FADBA4F4EA5261902B2E8B130B0556F
 "Well, before we get to that, first things first: I've established that the Artifact most certainly is organic.","Ну, прежде чем перейти к этому, первое: я установил, что Артефакт, безусловно, органический.",ai,,4687871741EF362A601465AC8989D1A8
-"Hard to believe, even if we suspected it. At first glance, it's just...slime.","Трудно поверить, даже если мы это подозревали. На первый взгляд — просто слизь.",ai,,B0E493C8406968A81D673883E7EE4348
+"Hard to believe, even if we suspected it. At first glance, it's just...slime.","Трудно поверить, даже если мы это подозревали. На первый взгляд - просто слизь.",ai,,B0E493C8406968A81D673883E7EE4348
 Where does that leave us?,И что нам теперь делать?,ai,,471BDDDD47AE79C64C3336BA7A04EFD0
 "Well, you were the driving force behind this. What do you think we should do?","Ну, ты же был движущей силой всего этого. Как думаешь, что нам делать?",ai,,A3E851944AED5DD10B9F90A7F10E5B23
 "I see. Have you tested how it reacts to other, non-organic matter?","Понятно. Ты проверял, как он реагирует на другую, неорганическую материю?",ai,,961003A0400750B42D05A4BB43096C53
 Is it alive?,Он живой?,ai,,F12AAD4643290AE11BD48E9D8ACEF073
-"Yeah. I mean, we're all just a mishmash of chemicals, man, but we all still somehow function. Some more than others.","Ага. В смысле, мы все — просто мешанина химикатов, дружище, но все как-то функционируем. Одни лучше других.",ai,,796A1FB84E67F079FFF8BCB83BD38CF2
+"Yeah. I mean, we're all just a mishmash of chemicals, man, but we all still somehow function. Some more than others.","Ага. В смысле, мы все - просто мешанина химикатов, дружище, но все как-то функционируем. Одни лучше других.",ai,,796A1FB84E67F079FFF8BCB83BD38CF2
 Ignoring that last comment. What's our next step?,Пропущу последнее замечание мимо ушей. Какой у нас следующий шаг?,ai,,43CCE6A24D114472A86C15BA8619B4F1
 "What's our next order of business, then?",Что у нас тогда следующим пунктом?,ai,,18AC7A8D44F670F6788C02B4A2AAC8A6
 "Well, you were the driving force behind this. What do you think we should do?","Ну, ты же был движущей силой всего этого. Как думаешь, что нам делать?",ai,,7A5CCC9B4F7F6C0E2C775DB6FB64946E
@@ -572,20 +572,20 @@ I'll need more details than that.,Мне нужно больше подробн�
 "This thing survived as long as it did, I presume, due to it being in such a relaxed, fluid state. Hibernation of some sort, I'd wager. Slowing down any and all gestation to conserve energy. That's the logical conclusion, at least from a biological standpoint.","Полагаю, эта штука выжила так долго благодаря тому, что находилась в столь вялом, текучем состоянии. Какая-то спячка, готов поспорить. Замедление любого развития ради экономии энергии. Это логичный вывод, по крайней мере с биологической точки зрения.",ai,,EB26023840D7D479D11EB0830D68A37F
 "I'm not a biologist, but that sounds about right to me.","Я не биолог, но звучит похоже на правду.",ai,,C8BC58C146338F25316EE1A41659D45C
 "That seems like a bit of a leap to me, Jorge.","По-моему, это притянуто за уши, Джордж.",ai,,A36EC96849684B048D178A94D71C6BA9
-"Everything, ultimately. I'll need you to run a few tests on it, to see if we can get it into a particular series of states.","В конечном счёте — всё. Мне нужно, чтобы ты провёл с ним несколько тестов и посмотрел, получится ли привести его в определённую серию состояний.",ai,,6EC9107C4FED7BEEA22FBCA15DA707AD
+"Everything, ultimately. I'll need you to run a few tests on it, to see if we can get it into a particular series of states.","В конечном счёте - всё. Мне нужно, чтобы ты провёл с ним несколько тестов и посмотрел, получится ли привести его в определённую серию состояний.",ai,,6EC9107C4FED7BEEA22FBCA15DA707AD
 A series of states?,Серию состояний?,ai,,76EAD71D4FC3164F9C6F25BC0076A0DD
 I'll need more details than that.,Мне нужно больше подробностей.,ai,,868A556E4F056035DF08DB829E4F1797
 "If I recall correctly, the wording was ""we need to do this"". Thus, we're doing it. See? Simple.","Если я правильно помню, формулировка была «нам нужно это сделать». Вот мы и делаем. Видишь? Всё просто.",ai,,2A3AB8F34E0B919AEC844C8207F21565
 So where do you want to start?,Ну и с чего ты хочешь начать?,ai,,55A6823C4ADD3EE8CD0800BF0611AA4D
-"My working hypothesis is that this...thing is constructed out of a tissue similar to muscles, albeit a lot more fluid - and its resting state appears to be wet, relaxed, and in a mostly liquid form.","Моя рабочая гипотеза такова: эта... штука состоит из ткани, похожей на мышечную, только гораздо более текучей, а её состояние покоя, судя по всему, — влажное, спокойное и преимущественно жидкое.",ai,,E8CF346841C53112A64170B00C644BCC
+"My working hypothesis is that this...thing is constructed out of a tissue similar to muscles, albeit a lot more fluid - and its resting state appears to be wet, relaxed, and in a mostly liquid form.","Моя рабочая гипотеза такова: эта... штука состоит из ткани, похожей на мышечную, только гораздо более текучей, а её состояние покоя, судя по всему, - влажное, спокойное и преимущественно жидкое.",ai,,E8CF346841C53112A64170B00C644BCC
 "That makes...little sense, Jorge.","В этом... мало смысла, Джордж.",ai,,B376A600455925D9052954B04634515F
-"It's base state is wet, relaxed, and liquid. Got it.","Базовое состояние — влажное, спокойное и жидкое. Понял.",ai,,4093C0F340D45BDB4E85089690F29639
+"It's base state is wet, relaxed, and liquid. Got it.","Базовое состояние - влажное, спокойное и жидкое. Понял.",ai,,4093C0F340D45BDB4E85089690F29639
 ...And it adapts its state when exposed to certain elements?,...И он меняет состояние под воздействием определённых элементов?,ai,,4958397A45A138446E1750B1738ED48B
 You going to do something with the sample or are you just going to stand around nursing it?,Ты собираешься что-то делать с образцом или так и будешь над ним нянчиться?,ai,,C3EB1C654FFC807B7DC759998A560B16
 I'm taking my time. Rushing it won't help anyone.,Я не спешу. Спешка никому не поможет.,ai,,4E138352461AA8C972F2B1911DE589C3
 Don't even joke about nursing this thing. It's unsettling enough as it is.,Даже не шути про «нянчиться» с этой штукой. И без того жутковато.,ai,,BEE8CA264DAE4DB2614A0DA271105C42
 You're one to talk. You've barely moved.,Чья бы корова мычала. Ты почти не двигался.,ai,,1A0A21E947545CD7198B23B930DA8532
-"I think it'd be best if you see it for yourself. Try to change one of its properties individually - see if you can make it wet, relaxed, and solid. Leave the rest as it is.","Думаю, лучше тебе увидеть всё самому. Попробуй изменить одно из его свойств по отдельности — посмотри, сможешь ли ты сделать его влажным, спокойным и твёрдым. Остальное оставь как есть.",ai,,2356D923490FCD01CF4548BB15894014
+"I think it'd be best if you see it for yourself. Try to change one of its properties individually - see if you can make it wet, relaxed, and solid. Leave the rest as it is.","Думаю, лучше тебе увидеть всё самому. Попробуй изменить одно из его свойств по отдельности - посмотри, сможешь ли ты сделать его влажным, спокойным и твёрдым. Остальное оставь как есть.",ai,,2356D923490FCD01CF4548BB15894014
 I've got a few questions.,У меня есть пара вопросов.,ai,,F5E915944A248FCAED2A77851E3AC54C
 I'm glad to have you on my side. I know you were a little hesitant on all this.,"Я рад, что ты на моей стороне. Знаю, ты немного сомневался во всём этом.",ai,,4021389344DD1744FA52C0806FAFA3E2
 It's good to see you have such a clear idea of what the process should be. Looks like it was the right call to listen to you.,"Приятно видеть, что у тебя такое ясное представление о процессе. Похоже, я правильно сделал, что прислушался к тебе.",ai,,FB8AB3374A45A9DC99F9BEA3EFB17ABD
@@ -598,12 +598,12 @@ Can you remind me what the chambers are for again?,"Напомни, для че�
 Anything I need to bear in mind?,Мне нужно что-нибудь учесть?,ai,,242E774E4CF7A6C9585E828BBFF5EC3E
 Any idea on where I should start?,"Есть идеи, с чего мне начать?",ai,,DA1D057245F5C75073DAC2851143D8BD
 That's all. I'll get started on shifting it from liquid to solid.,Это всё. Займусь переводом из жидкого в твёрдое.,ai,,AD82F1F747AF99542DAFE78F497E46F8
-"They all have instructions on them, man. It's not hard to figure out. You've got the Temperature Chamber on the far left, then the Humidity Chamber, and finally a Chemical Station I set up just before you got out of the tent.","На них на всех есть инструкции, дружище. Разобраться несложно. Слева — Температурная камера, потом Камера влажности, и наконец Химическая станция, которую я собрал перед самым твоим выходом из палатки.",ai,,32F993C6439EA9CBB455AF8709B870E0
+"They all have instructions on them, man. It's not hard to figure out. You've got the Temperature Chamber on the far left, then the Humidity Chamber, and finally a Chemical Station I set up just before you got out of the tent.","На них на всех есть инструкции, дружище. Разобраться несложно. Слева - Температурная камера, потом Камера влажности, и наконец Химическая станция, которую я собрал перед самым твоим выходом из палатки.",ai,,32F993C6439EA9CBB455AF8709B870E0
 Temperature Chamber?,Температурная камера?,ai,,DAF5D2C84AABF1F10D61A4846A29E716
 Humidity Chamber?,Камера влажности?,ai,,331A7119465C99AA156612A9FAAF41AC
 Chemical Station?,Химическая станция?,ai,,5CB3D6CA4C2E631617A9AFAD2BDDD5FD
 Got it.,Понял.,ai,,F8046177430F6ED3FA9D30B21622F47E
-"Well, due to the nature of our equipment and the sample itself, testing might be difficult. Any given test will most likely affect the sample in multiple ways - you're going to have to get creative with it.","Ну, из-за особенностей нашего оборудования и самого образца тесты могут оказаться непростыми. Скорее всего, любой тест повлияет на образец сразу несколькими способами — придётся проявить изобретательность.",ai,,2D8654C0461694D17E263EA398B0CFAF
+"Well, due to the nature of our equipment and the sample itself, testing might be difficult. Any given test will most likely affect the sample in multiple ways - you're going to have to get creative with it.","Ну, из-за особенностей нашего оборудования и самого образца тесты могут оказаться непростыми. Скорее всего, любой тест повлияет на образец сразу несколькими способами - придётся проявить изобретательность.",ai,,2D8654C0461694D17E263EA398B0CFAF
 Understood.,Понял.,ai,,AE0F43E341571BC461EBD6AEC6167D13
 Creative?,Изобретательность?,ai,,60E32701442385A464649FA98552158C
 "...Well, if I were to try to solidify water, I'd try to freeze it. Is that helpful enough, my fellow scientist?","...Ну, если бы я хотел затвердить воду, я бы попытался её заморозить. Это достаточно полезно, мой коллега-учёный?",ai,,1B5B13EB4536594EB1A63A82C5CF80AE
@@ -630,7 +630,7 @@ And the Chemical Station?,А Химическая станция?,ai,,B1FC2DFA4B
 "No. Not yet, at the very least.","Нет. По крайней мере, пока.",ai,,D0564CF64FFB30585FB1BBB5C0AF6468
 Could be worth a shot.,Можно попробовать.,ai,,1F979A7F41E9AF5BD3D258A236B40814
 Up to you. My sample is small enough as it is.,Дело твоё. Мой образец и так достаточно мал.,ai,,F99264864AC9D5207A55229F819A93D0
-"Not your forte, granted - try to make the changes cancel out each other. If you've got something wet, relaxed, and solid, and one of the chambers would change it to be agitated and solid, you'd end up only changing one property of the sample. Do you understand what I'm saying?","Это не твой конёк, но всё же — старайся, чтобы изменения гасили друг друга. Если у тебя что-то влажное, спокойное и твёрдое, а одна из камер сделает его возбуждённым и твёрдым, то в итоге изменится лишь одно свойство образца. Ты понимаешь, о чём я?",ai,,6BD514B547C2961E925B0B8DD490A2EE
+"Not your forte, granted - try to make the changes cancel out each other. If you've got something wet, relaxed, and solid, and one of the chambers would change it to be agitated and solid, you'd end up only changing one property of the sample. Do you understand what I'm saying?","Это не твой конёк, но всё же - старайся, чтобы изменения гасили друг друга. Если у тебя что-то влажное, спокойное и твёрдое, а одна из камер сделает его возбуждённым и твёрдым, то в итоге изменится лишь одно свойство образца. Ты понимаешь, о чём я?",ai,,6BD514B547C2961E925B0B8DD490A2EE
 Completely.,Полностью.,ai,,B839FD124488ADCEE5020886323EAF85
 "No, but I'll figure it out.","Нет, но я разберусь.",ai,,F3CCFF6E48A8E320435975852BA2B903
 "Not necessarily conclusions, but we'll hopefully have something more concrete to go off. Why do you ask? ","Не обязательно выводы, но, надеюсь, у нас появится что-то более конкретное, от чего можно отталкиваться. А почему ты спрашиваешь? ",ai,,FC3B7D4845D4FDDF55AD9A8DD7221A44
@@ -688,7 +688,7 @@ Enjoy your meal. [Leave],Приятного аппетита. [Уйти],ai,,814
 [Leave],[Выйти],ok,,245CDCD6494223CF73C9B78965C60834
 Nothing lives forever. We all have to eat. That might include little Bobby here.,"Ничто не вечно. Всем нужно есть. Может, и малышу Бобби тоже.",ai,,712ECBC2453A596884F53E94919BC83C
 ...You're still going to call it Bobby?,...Ты всё равно собираешься звать его Бобби?,ai,,CD14651D4577985C35C2E1A2F6E9E219
-"Joshua, you mean.",Ты хотел сказать — Джошуа.,ai,,D6C44FDA4AE881CF61BCF2A776E868A4
+"Joshua, you mean.",Ты хотел сказать - Джошуа.,ai,,D6C44FDA4AE881CF61BCF2A776E868A4
 "I'll leave you to it, then.",Тогда не буду мешать.,ai,,DDCA79BF4474F1EB5398B9B27BC79966
 Good luck. I'll be here if you need me.,"Удачи. Я буду здесь, если понадоблюсь.",ai,,A02125144617D78F14909DAD20AD6166
 [Leave],[Выйти],ok,,830B73A0476D45AB105813AAE89C4937

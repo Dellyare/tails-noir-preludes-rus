@@ -2,7 +2,7 @@
 Andrina claims she didn't see anything.,"Андрина утверждает, что ничего не видела.",ai,,7450E8A745FF849A639DD2A90DC3DAD6
 Andrina claims a mechanic was doing something to the clock.,"Андрина утверждает, что у часов возился какой-то механик.",ai,,BC722A144E75AD0AFA8F1ABD58E0363E
 Andrina claims she saw a mother and her daughter hanging around the clock.,"Андрина утверждает, что видела возле часов мать с дочерью.",ai,,235602FA4B080D1B22DDF580C130FC48
-"You got a felt pen, whether you want it or not.",Ты получил фломастер — хочешь ты того или нет.,ai,,33E077364BCCD74306AEA8B752733D1C
+"You got a felt pen, whether you want it or not.",Ты получил фломастер - хочешь ты того или нет.,ai,,33E077364BCCD74306AEA8B752733D1C
 You gave Andrina the cigarettes.,Ты отдал Андрине сигареты.,ai,,15E1E1E7480602DF2DEA5AB4D221ADC2
 "Ah, I knew you were a creep! Called it the second you walked by with that hophead. ","А, я так и знала, что ты извращенец! Поняла это в ту же секунду, как ты прошёл мимо с этим торчком. ",ai,,8542B1824FDEF237AE6D0696150BC3C0
 "I'm not a creep. ","Я не извращенец. ",ai,,C69AEB0044EACF6B70462298A4407B07
@@ -21,12 +21,12 @@ Sorry. Let's go back to talk about you.,Прости. Давай вернёмс�
 Sorry. Let's talk a bit more about you.,Прости. Давай ещё немного поговорим о тебе.,ai,,D13C9F79412B0090D976688B22C437A9
 Yeah...um. Let's change the subject.,Ага... э-э. Давай сменим тему.,ai,,B0590728482AEA28C08486A6C8A9E8DA
 [Walk away in shame],[Постыдно уйти],ai,,3C105B194A83129D5B0A07AADC3BE9C6
-Mine's Andrina. The one in the hat goes by Ajax and the other's Apollo.,"Я — Андрина. Тот, что в шапке, — Аякс, а второй — Аполлон.",ai,,4612841642B83F191D09B7AA1CCA68D5
+Mine's Andrina. The one in the hat goes by Ajax and the other's Apollo.,"Я - Андрина. Тот, что в шапке, - Аякс, а второй - Аполлон.",ai,,4612841642B83F191D09B7AA1CCA68D5
 (INVESTIGATIVE) Triple A-names. You meet in the front of a phone book or something?,"(ПЫТЛИВОСТЬ) Тройное «А». Вы что, познакомились в начале телефонной книги?",ai,,323E789945E60982114FFDBD86E97017
 My name's Howard.,Меня зовут Говард.,ai,,BF39D7814FD4F5444129E5B1E96D7AE2
 Sounds made up.,Звучит как выдумка.,ai,,A53FB6CE4CB52F2A7AAE6DA420301FDF
 "Man, you really are a busybody, aren't you? Why would we want to waste our time in that propaganda factory when we could be out here messing shit up?","Ну ты и любопытный, да? С чего бы нам тратить время в этой фабрике пропаганды, когда можно быть здесь и творить всякую хрень?",ai,,6887A7BF49FA5943D6F56684BA5CD8F9
-"What do you mean, messing shit up?",В смысле — творить хрень?,ai,,68F8BC1E4E52E2493AAB43A491EDA04D
+"What do you mean, messing shit up?",В смысле - творить хрень?,ai,,68F8BC1E4E52E2493AAB43A491EDA04D
 "Phone books go by your last name, dork. But yeah, we chose them together.","Телефонные книги по фамилиям идут, чудила. Но да, мы выбирали их вместе.",ai,,FA25A2A2426AD0243711629728E6ABEC
 Then what are your real names?,Тогда как вас зовут на самом деле?,ai,,231DC0A2453042DFC0379E8CCAFB2BE3
 "Is that, like, a gang thing? The Triple As?","Это что, типа банда? Эти «Три А»?",ai,,DCE5FCCD45617C9BBBED5AB6DAD10499
@@ -37,7 +37,7 @@ You're embarrassed?,Тебе неловко?,ai,,050F662C4B34D70C8407799FD767FEB
 ...So what are your real names?,...Так как вас зовут на самом деле?,ai,,149CF5E240ABFE29D6E5108CAFF2209E
 "Oh, uh, right. I'm Howard. That's not genetic either.","А, э-э, точно. Я Говард. Это тоже не врождённое.",ai,,1BFA37114C27D787710CA19370AB13FB
 "Good point. I'm leaving now, but not because I'm embarrassed. Just so you know.","Резонно. Я ухожу, но не потому, что мне неловко. Чтоб ты знала.",ai,,3F3C02D04933BFD1BB31369B57316421
-"A gang is just a friendship club that's trying to sound tough. We don't need to 'sound' tough because we already are. Now, what else do you want to know?","Банда — это просто клуб друзей, который пытается казаться крутым. Нам не надо «казаться» крутыми, мы уже такие. Так что ещё ты хочешь узнать?",ai,,6AE079B94023D0139E727E88A03F9801
+"A gang is just a friendship club that's trying to sound tough. We don't need to 'sound' tough because we already are. Now, what else do you want to know?","Банда - это просто клуб друзей, который пытается казаться крутым. Нам не надо «казаться» крутыми, мы уже такие. Так что ещё ты хочешь узнать?",ai,,6AE079B94023D0139E727E88A03F9801
 Let's keep talking about you.,Давай продолжим говорить о тебе.,ai,,6DF99B154C9F4BF7E8F5DEB948446F2C
 Let's talk about you.,Давай поговорим о тебе.,ai,,77611A3544C1442773266CAD4D724B4A
 Let's change the subject.,Давай сменим тему.,ok,,13E11F9343210820703E6395F9D97372
@@ -102,7 +102,7 @@ Let's change the subject.,Давай сменим тему.,ok,,B91E3D914F0D51C8
 This is boring. [Leave],Скучно. [Уйти],ai,,BB706AFA4B313A55C81012A29EAE43D2
 Let's get back to you.,Давай вернёмся к тебе.,ai,,7DFB141D422B145D999C3EBCA1C23D50
 Can we change the subject?,Можно сменить тему?,ai,,C849A5CC4FE4D068901F18A1F3E0250C
-"Making shit and tearing shit down are two sides of the same coin, man. Only one's way more fun.","Создавать и ломать — две стороны одной монеты, чувак. Только вторая гораздо веселее.",ai,,E8B0404A409078EE8A8D2CBBD133B83C
+"Making shit and tearing shit down are two sides of the same coin, man. Only one's way more fun.","Создавать и ломать - две стороны одной монеты, чувак. Только вторая гораздо веселее.",ai,,E8B0404A409078EE8A8D2CBBD133B83C
 "Time to tear down this conversation, then. [Leave]",Тогда пора сломать этот разговор. [Уйти],ai,,448C214248FE8ADF6F00B7AFF95E862E
 Let's get back to you.,Давай вернёмся к тебе.,ai,,6BE55BC74534A442A6B1B9B83EC322E4
 "Alright, let's change the subject.","Ладно, давай сменим тему.",ai,,7ED4401E497CC73E1725F6B94591B983
@@ -127,7 +127,7 @@ What's that?,Каком?,ai,,4A5E326B4D34E6BDCA9394AFD9DC5F8F
 "Every cool person I know has a name that starts with A. So yeah, maybe Howard does suit you.","У всех крутых, кого я знаю, имя начинается на «А». Так что да, может, Говард тебе и подходит.",ai,,076AFBF24D3E2069284399932FE441CC
 Let's talk a bit more about you.,Давай ещё немного поговорим о тебе.,ai,,61B6F42545868F39C7BB8F9309F4D379
 Let's change the subject.,Давай сменим тему.,ok,,89683DF94618D55503D32DBC6C90212A
-"Juvie. Apollo was in for buying drugs off a cop. Ajax was in for selling drugs to a cop. I got busted for mouthing off to a cop. After we met, we realized we could just do all that shit to each other and leave the cops out of the equation.","В колонии для малолеток. Аполлон сел за покупку наркоты у копа. Аякс — за продажу наркоты копу. Меня замели за то, что огрызалась копу. Когда мы познакомились, поняли, что можем творить всё это друг с другом и не впутывать копов.",ai,,89B2064E4745D5D1E9FE5284CD7BB123
+"Juvie. Apollo was in for buying drugs off a cop. Ajax was in for selling drugs to a cop. I got busted for mouthing off to a cop. After we met, we realized we could just do all that shit to each other and leave the cops out of the equation.","В колонии для малолеток. Аполлон сел за покупку наркоты у копа. Аякс - за продажу наркоты копу. Меня замели за то, что огрызалась копу. Когда мы познакомились, поняли, что можем творить всё это друг с другом и не впутывать копов.",ai,,89B2064E4745D5D1E9FE5284CD7BB123
 How's that working out for you?,И как успехи?,ok,,BFDF5D8645EE72628FBBD0AE142706A1
 You mouth off to each other?,Вы друг другу огрызаетесь?,ai,,1D8E524442C81581E36A4C9DD8422AD1
 "I'm here, aren't I?","Я же здесь, нет?",ai,,DCF68EA442AC39C0B5A6159C6FC34F36
@@ -135,7 +135,7 @@ Let's talk a bit more about you.,Давай ещё немного поговор
 Let's talk about something else.,Давай поговорим о чём-нибудь другом.,ai,,69786DF4459B8AB3635C2D95512B7C12
 Sounds like it's working. [Leave],"Похоже, работает. [Уйти]",ai,,4A760CE9440895F5B96F648128E5D5F3
 I told you already. Get us some smoke and we'll take your dumb picture. Got it?,"Я же сказала. Добудь нам курева, и мы сфоткаемся для твоей тупой затеи. Понял?",ai,,24AA873745FA83361A8693B0D32AFF67
-"(SOCIAL) I would, but your looks are the reason I'm taking this photo in the first place, and I don't want to hurt that.","(ОБЩИТЕЛЬНОСТЬ) Я бы добыл, но именно ваша внешность — причина, по которой я вообще делаю этот снимок, и я не хочу её портить.",ai,,A3EF3A9E4917E9B0E41407A631AD3859
+"(SOCIAL) I would, but your looks are the reason I'm taking this photo in the first place, and I don't want to hurt that.","(ОБЩИТЕЛЬНОСТЬ) Я бы добыл, но именно ваша внешность - причина, по которой я вообще делаю этот снимок, и я не хочу её портить.",ai,,A3EF3A9E4917E9B0E41407A631AD3859
 I got you some cigarettes.,Я принёс вам сигареты.,ai,,33E3E01C4E560210F62A7A861BC6D5B5
 Where am I supposed to get smokes?,"Где мне, по-твоему, взять курево?",ai,,5454449E494354C3B4A64D80292741F1
 There's not that much else to do around here.,Здесь больше нечем заняться.,ai,,116B9A514330F8BB709DBDAF9FA1E054
@@ -157,7 +157,7 @@ You're a big boy. Figure it out. Anything else?,Ты уже большой ма�
 Picture time.,Время фотографироваться.,ai,,66B9256C4EC163C3B5763E9B8201C117
 Time to pay up.,Время платить по счетам.,ai,,250A9E254A7E3569B5DB47A0D2E0705C
 Our looks? What the fuck's that supposed to mean?,"Наша внешность? Что, блин, это должно значить?",ai,,F5813948426261A73C05DF8DD08DC59F
-You know what tobacco does to your teeth and skin. Your youthful beauty's the whole point.,"Ты знаешь, что табак делает с зубами и кожей. Ваша юная красота — вот в чём вся суть.",ai,,48510C6B481AE3B7CA8B9291FC263E5C
+You know what tobacco does to your teeth and skin. Your youthful beauty's the whole point.,"Ты знаешь, что табак делает с зубами и кожей. Ваша юная красота - вот в чём вся суть.",ai,,48510C6B481AE3B7CA8B9291FC263E5C
 There he is! Did you do it? Did the ink stick?,"А вот и он! Ну что, сделал? Чернила схватились?",ai,,3474535F4B5BF8B5936F0BA932EF4709
 "Oh, it stuck.","О, ещё как схватились.",ai,,3365F1084862950596642CA32FDA15DF
 "The hand's back in place, but I'm not going to vandalize the clock.","Стрелка на месте, но портить часы я не буду.",ai,,789A951B48FEF022DE15B6B90AD4FFED
@@ -185,7 +185,7 @@ Are you done asking weird questions now?,Ты уже закончил задав
 I want to ask you about something else.,Я хочу спросить тебя о другом.,ai,,9866BCDC4B2226893463EA9A01C379BF
 "No, I wanna know more about the clock.","Нет, я хочу побольше узнать о часах.",ai,,5A5FF29F4A5422B72A5E169CA8134363
 "Yeah, I'm outta here. See ya.","Ага, я пошёл. Пока.",ai,,AE27F395469E9B04E93DFCBDC44838A2
-"You already asked, loser. Only one we've seen fucking with it is that old mechanic guy.","Ты уже спрашивал, лузер. Единственный, кого мы видели рядом с ними, — тот старый механик.",ai,,F11D5E8A410BC80169AF2D9678902949
+"You already asked, loser. Only one we've seen fucking with it is that old mechanic guy.","Ты уже спрашивал, лузер. Единственный, кого мы видели рядом с ними, - тот старый механик.",ai,,F11D5E8A410BC80169AF2D9678902949
 Got it. Thanks.,Понял. Спасибо.,ai,,4DE14AF946922C9CE1061DB518698444
 Can you describe him?,Можешь его описать?,ai,,673105494EA5E52699F37F9C09B7346B
 How am I supposed to know? I'm not some old biddy staring out my window trying to keep track of the neighbourhood. I drink and smoke. And screw.,"Откуда мне знать? Я не какая-нибудь старая сплетница, что целыми днями пялится из окна и следит за районом. Я пью и курю. И трахаюсь.",ai,,557867D849CF06B7758FAAA5A1B56111
@@ -197,7 +197,7 @@ Mechanic guy? Can you describe him?,Механик? Можешь его опис
 "What's up, narc? You finished with your little handjob yet?","Ну что, стукач? Закончил свою маленькую дрочку?",ai,,E7CC35544B869DC274918F9CA53DC07B
 Handjob?,Дрочку?,ai,,113ADFD24FF7A3B224B6DCB12A95DBA3
 Don't be disgusting.,Не будь мерзким.,ai,,CA581F6D408D007C8CB087A519D0A0D8
-"Like I said, the only person I saw touching the clock is that mom and her kid.","Я же сказала, единственные, кого я видела возле часов, — та мамаша с ребёнком.",ai,,4C71137E467D89E13CE3049981ABB0B8
+"Like I said, the only person I saw touching the clock is that mom and her kid.","Я же сказала, единственные, кого я видела возле часов, - та мамаша с ребёнком.",ai,,4C71137E467D89E13CE3049981ABB0B8
 Got it.,Понял.,ai,,47EBB4EC4D67CF7E9BB37B886BE0BDB7
 Can you describe her?,Можешь её описать?,ai,,A25E7EF943D10537D42616B848FF8A43
 "How am I supposed to know? It's a busy street. I mean, I guess I saw that mother hanging around the clock with her kid. But that's about it.","Откуда мне знать? Улица оживлённая. Ну, вроде видела, как возле часов болталась какая-то мать с ребёнком. И всё.",ai,,5EA488BC435F3D8DBCC42ABC67AFFCAF
@@ -272,7 +272,7 @@ What are you up to?,Чем занимаетесь?,ok,,12EE2EB24501573310B784862
 About the clock over there...,Насчёт тех часов...,ai,,645DED7947D7959F6B3B3D8B3ED97082
 """It bears repeating..."" Okay, so you're a dork. What do you want, dork?","«Это стоит повторить...» Ладно, значит, ты чудила. Чего тебе надо, чудила?",ai,,3D919C6F416B98AB68F470BD8D4FB8FF
 Dork was hoping to ask you a few questions.,Чудила надеялся задать тебе пару вопросов.,ai,,73DA948245D3F6A88E1036A96E2D40EF
-I'm not a dork. You're the dork.,Я не чудила. Чудила — ты.,ai,,EB35DFD44847EEA078F9DA960D442CA3
+I'm not a dork. You're the dork.,Я не чудила. Чудила - ты.,ai,,EB35DFD44847EEA078F9DA960D442CA3
 That's all. [Leave],Это всё. [Уйти],ai,,4FF1152240D366CBFAD1AE8A6C549084
 Man...just stop. Seriously. It's embarrassing.,Чувак... хватит. Серьёзно. Это стыдно.,ai,,8FAEFF664EF89C565F846090F0BB25C5
 "I wish I could, but those boots are super groovy.","Хотел бы, но эти ботинки просто улёт.",ai,,F634F51C4AFE6CDD93439F8811F3EC01
@@ -314,7 +314,7 @@ Huh. Okay. We'll do it. We'll take the picture.,Хм. Ладно. Сделаем
 "Nah, I'm good. [Leave]","Не, мне хватит. [Уйти]",ai,,2E1A53BA42C5E0F999765693032AC35E
 No. I want to talk some more.,Нет. Я хочу ещё поговорить.,ai,,330AE56942226585CB0619A055C277A9
 "Oh, come off it, piss boy. Your pal's keeps eyeing that back alley like he's expecting it to do magic. Exact same way you been eyeing us.","Да брось, ссыкун. Твой дружок так и пялится на ту подворотню, будто ждёт от неё чуда. Точно так же, как ты пялился на нас.",ai,,A56A44BE4515D4683F3AAA8D22C28820
-That's only because I want to use you to make art. And art is magic.,"Это только потому, что я хочу сделать из вас искусство. А искусство — это магия.",ai,,CDE79623485A4544DC9D60AC3C60D320
+That's only because I want to use you to make art. And art is magic.,"Это только потому, что я хочу сделать из вас искусство. А искусство - это магия.",ai,,CDE79623485A4544DC9D60AC3C60D320
 I'm not a piss boy. I'm an artist.,Я не ссыкун. Я художник.,ai,,F35707044C7AF08E24A3938F58E130CB
 "...No. I just... ","...Нет. Я просто... ",ai,,993B1D1C4EBCD62F8ADED2A4F40971CB
 Tell you what: pose for this picture and I'll make sure this stays between the four of us.,"Вот что: попозируйте для этого снимка, а я прослежу, чтобы всё осталось между нами четырьмя.",ai,,F10FAA074AC2DA6F2DCC1FAA91D94305
@@ -370,7 +370,7 @@ I'm going to bounce. [Leave],Я сваливаю. [Уйти],ai,,CADBC8CD4E0DE84
 You shouldn't throw things at geezers.,Нельзя бросаться вещами в гусяров.,ai,,8414D64640CEAA0C44BA249B26284962
 A brick!?,Кирпичом!?,ai,,74387E674E9B6F1311D4359F52437C58
 "The hand on the clock, narc. Isn't that the dumb job you decided to give yourself instead of doing actual cool shit?","Про стрелку на часах, стукач. Разве не эту тупую работёнку ты себе выбрал вместо реально крутых дел?",ai,,407660B34CE321114B734CA49A52CF6E
-Solving crimes is actual cool shit.,Раскрывать преступления — это реально крутое дело.,ai,,3D45DB684AE511EB2C074AAB6B53122E
+Solving crimes is actual cool shit.,Раскрывать преступления - это реально крутое дело.,ai,,3D45DB684AE511EB2C074AAB6B53122E
 """I'm not a creep."" That's the creep catchphrase. Either that or, ""Can I take a picture of you?""","«Я не извращенец». Это коронная фраза извращенцев. Либо она, либо «Можно тебя сфотографировать?».",ai,,C892AEC7425EFB6619E401A82ECDF2C0
 It's not for anything creepy. It's for art.,Это ничего извращённого. Это ради искусства.,ai,,FB4787C745247A3DBF5A5ABF39C16492
 Fine. I'm a creep.,Ладно. Я извращенец.,ai,,3B979B964C79A64167F01794D2ECD874
@@ -378,7 +378,7 @@ Fine. I'm a creep.,Ладно. Я извращенец.,ai,,3B979B964C79A64167F0
 You shouldn't throw things at geezers.,Нельзя бросаться вещами в гусяров.,ai,,7001D979449184A890F35CB7A80A9CD6
 ...A brick?,...Кирпичом?,ai,,E31F30EA4E8C06BE004B389117C17677
 "Easy, narc. I meant the hand on the clock. Isn't that the little job you decided to take on instead of doing actual cool shit?","Спокойно, стукач. Я про стрелку на часах. Разве не эту работёнку ты решил на себя взять вместо реально крутых дел?",ai,,F164C1684BAC79D7EFED739A9F2BF92E
-Solving crimes is actual cool shit.,Раскрывать преступления — это реально крутое дело.,ai,,1939706C42586F71C979949B1C5BC3D0
+Solving crimes is actual cool shit.,Раскрывать преступления - это реально крутое дело.,ai,,1939706C42586F71C979949B1C5BC3D0
 "Hunting down vandals in bougie neighbourhoods. Yeah, that sounds really cool, narc. So, who was it?","Выслеживать вандалов в буржуйских районах. Ага, звучит реально круто, стукач. Ну так и кто это был?",ai,,6F938E6442049F6AB60D3C88049EB6CD
 The mechanic.,Механик.,ai,,17730EE84EB6699D2050EE8EFEDC3E83
 Same guy you said.,"Тот самый, о ком ты говорила.",ai,,48AF19CF466593A6E0EBD39CB0A23BC9

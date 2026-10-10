@@ -15,7 +15,7 @@ Dump him in the water. You know where.,Скинь его в воду. Ты зн�
 This...this isn't what I thought you meant when you said you were going to talk to him.,"Это... это не то, что я думал, когда ты сказала, что собираешься с ним поговорить.",ai,,E92414044DC2B88F7DC7818689E4098C
 "Don't dwell on it. What happened, happened. Maybe it's easier this way.","Не зацикливайся. Что случилось, то случилось. Может, так даже проще.",ai,,7A6455DE480B7EF151EEFF982B4A65AF
 It wasn't. Things got out of hand. Lost my temper.,Нет. Всё вышло из-под контроля. Я вспылила.,ai,,D6420E4843B11323FDA5398E09E7E64A
-I...didn't mean to kill him. Not really.,Я... не хотела его убивать. По-настоящему — нет.,ai,,989C58394C1DECBBBA7A31A4CE078804
+I...didn't mean to kill him. Not really.,Я... не хотела его убивать. По-настоящему - нет.,ai,,989C58394C1DECBBBA7A31A4CE078804
 ...And now I see what really was brewing in the back of your mind. You could have told me this is what you wanted.,"...Вот, значит, что на самом деле зрело у тебя в голове. Могла бы сказать, что тебе этого хочется.",ai,,BA73B22D42FFEF255650D0A3FE55F946
 "It isn't. It just happened. We deal with it, both of us.",Нет. Так вышло. Разберёмся с этим вдвоём.,ai,,2A4E867248124AC9AED172A382C53CE4
 You were going to find out eventually. Why spoil the surprise?,Ты бы всё равно рано или поздно узнал. Зачем портить сюрприз?,ai,,C34449294BAF4B07D189CCB85E018BBD
@@ -25,7 +25,7 @@ And for you?,А у тебя?,ai,,1D9CB2C94BCFEA2F2C7E3C9F46334F9C
 "I suppose it doesn't matter now. It's done. We have to move forward, some way or another.","Полагаю, теперь это уже неважно. Дело сделано. Надо идти дальше, так или иначе.",ai,,5451B5E44EDD2CD46908BAA8F15021B6
 And how do you propose we do that?,И как ты предлагаешь это сделать?,ai,,92D66D5943B35B05E528959EF8EC12C5
 ...Will you finally tell me what's on your mind?,"...Ты наконец скажешь, что у тебя на уме?",ai,,96BE1D854825221052EDC6BE50C125E6
-"No, not at all. If anything, I'm...pleased. Restraint is an undervalued quality in our...line of work.","Нет, совсем нет. Скорее наоборот — я... доволен. Сдержанность — недооценённое качество в нашем... ремесле.",ai,,2F80DA204DB3C05AA3B948A68E6F04C0
+"No, not at all. If anything, I'm...pleased. Restraint is an undervalued quality in our...line of work.","Нет, совсем нет. Скорее наоборот - я... доволен. Сдержанность - недооценённое качество в нашем... ремесле.",ai,,2F80DA204DB3C05AA3B948A68E6F04C0
 There's something you're not saying. Spit it out.,Ты что-то недоговариваешь. Выкладывай.,ai,,83262D59467E3CC159967DA13205A099
 "I have your support, then?","Значит, твоя поддержка у меня есть?",ai,,1DDF510648C84964EB5632B314CAFBA1
 Yes. Like that.,Да. Вот так.,ai,,F1E6469640E1DE4916F31F9E60A6541B
@@ -58,17 +58,17 @@ And what would you want to do instead?,А чем бы ты хотел занят
 "...I'll be frank, Clarissa - I'd like to retire.","...Скажу прямо, Кларисса: я хотел бы уйти на покой.",ai,,6C45E79A4F9BA8C1EF891982B63FD098
 ...Retire? You?,...На покой? Ты?,ai,,7B4A2153447820AC4974AC8C77CC8B1A
 [Say nothing],[Промолчать],ai,,AF17AB6A4DB3ED8B506B2F891E71C15E
-Then do it. No one is stopping you. Least of all me.,Тогда уходи. Тебя никто не держит. А меньше всех — я.,ai,,5BA10B494263D51037B917A5A28874AE
-"There are rules, Clarissa. Protocol, tradition. It's up to you to appoint one, if you see so fit. Consider this an official request to be considered.","Есть правила, Кларисса. Протокол, традиции. Назначить консильери — тебе решать, если сочтёшь нужным. Считай это официальной просьбой о рассмотрении.",ai,,103AF4D4481C886F46FCB69EBB97DB28
-"Very well - from now on, you'll be my consigliere.",Хорошо — с этой минуты ты мой консильери.,ai,,C9489CF84D3D0403E2F2ABB1298BC8B3
+Then do it. No one is stopping you. Least of all me.,Тогда уходи. Тебя никто не держит. А меньше всех - я.,ai,,5BA10B494263D51037B917A5A28874AE
+"There are rules, Clarissa. Protocol, tradition. It's up to you to appoint one, if you see so fit. Consider this an official request to be considered.","Есть правила, Кларисса. Протокол, традиции. Назначить консильери - тебе решать, если сочтёшь нужным. Считай это официальной просьбой о рассмотрении.",ai,,103AF4D4481C886F46FCB69EBB97DB28
+"Very well - from now on, you'll be my consigliere.",Хорошо - с этой минуты ты мой консильери.,ai,,C9489CF84D3D0403E2F2ABB1298BC8B3
 "And what would that position entail, exactly?","И что входит в эту должность, если конкретно?",ai,,3A35AADD4D9E875F0D3A17910F48F9E5
 ...No. I'm afraid I can't allow that.,"...Нет. Боюсь, этого я позволить не могу.",ai,,7BACF1C54EBDC1F67BE4EE85A5D78896
 Your consigliere. Your advisor.,Твой консильери. Твой советник.,ai,,E44E116E42F1847BCA49C3B23080D660
 You already are.,Ты уже он.,ai,,4ED9415643948F92228E3C8C46322472
 "And what would that position entail, exactly?","И что входит в эту должность, если конкретно?",ai,,68DF3DF44F72F5BE884E99BC760F48A3
 ...Of course. That's quite a serious request.,...Конечно. Это очень серьёзная просьба.,ai,,273934BC4D771577ED9DF3BC70D54FC5
-"And one I don't make lightly, I can promise you that. It's up to you to appoint one, if you believe yourself to be in need of one - so consider this a request. An application, even.","И я делаю её не легкомысленно, поверь. Назначить консильери — тебе решать, если решишь, что он тебе нужен, так что считай это просьбой. Даже заявлением.",ai,,B6AA23754484C24A995F57BBC135864D
-"Very well - from now on, you'll be my consigliere.",Хорошо — с этой минуты ты мой консильери.,ai,,A10D223145551B7C5E72558745C40C01
+"And one I don't make lightly, I can promise you that. It's up to you to appoint one, if you believe yourself to be in need of one - so consider this a request. An application, even.","И я делаю её не легкомысленно, поверь. Назначить консильери - тебе решать, если решишь, что он тебе нужен, так что считай это просьбой. Даже заявлением.",ai,,B6AA23754484C24A995F57BBC135864D
+"Very well - from now on, you'll be my consigliere.",Хорошо - с этой минуты ты мой консильери.,ai,,A10D223145551B7C5E72558745C40C01
 "And what would that position entail, exactly?","И что входит в эту должность, если конкретно?",ai,,53B91A6643FE0183B00C1E85F163DD00
 ...No. I'm afraid I can't allow that.,"...Нет. Боюсь, этого я позволить не могу.",ai,,E7CDCF3D4060AD5D08CC8F97704FE9BE
 Thank you. You have no idea how much it means to me.,"Спасибо. Ты не представляешь, как много это для меня значит.",ai,,2228229A4E7BDED0307637A0B2389F93
@@ -78,7 +78,7 @@ Thank you. You have no idea how much it means to me.,"Спасибо. Ты не 
 "I'd advise you. Nothing more, nothing less - you aren't bound to agree or even listen to me. I'd simply help you make decisions. Remind you of tradition and the ways in which our family has always operated.","Я бы советовал. Не больше и не меньше: ты не обязана соглашаться и даже слушать. Я бы просто помогал тебе принимать решения. Напоминал о традициях и о том, как всегда действовала наша семья.",ai,,A15D6DC347CE231FD718AA82224DE3C1
 I'd be happy to have you by my side.,Буду рада видеть тебя рядом.,ai,,E0D8C04A481C57664F6501BB83004D76
 Are you not happy with your current position?,Тебя не устраивает нынешнее положение?,ai,,E89B9F8A4CE794F5A29241AEC2BC529C
-Then the answer is no. There'll be no need of that.,Тогда ответ — нет. В этом нет необходимости.,ai,,C12EA489415408901C23ED8ECEB4CF05
+Then the answer is no. There'll be no need of that.,Тогда ответ - нет. В этом нет необходимости.,ai,,C12EA489415408901C23ED8ECEB4CF05
 ...I see. May I ask why?,...Понятно. Можно спросить почему?,ai,,E9AA04754E980B390FF370A315C4583C
 "Times are changing. This is my world now, my family. I have no use for tradition.","Времена меняются. Теперь это мой мир, моя семья. Традиции мне ни к чему.",ai,,A3EC288745A7A68F0B7B73A8CC17B8F5
 I need you as you are. You'd be wasted as an advisor.,"Ты нужен мне таким, какой есть. Советником ты пропадёшь зря.",ai,,24C7243544752216CB9667B7703A938F
@@ -91,10 +91,10 @@ You're right. You can't. But I don't think I could have you as my advisor.,Ты 
 I'll manage. Just needed a smoke.,Справлюсь. Мне просто нужно было закурить.,ai,,A365D0C2451E137A80D4B795E1F2DABF
 "Truthfully, uncle? I'm hurt beyond the point of fixing.","Честно, дядя? Меня уже не починить.",ai,,3C19776B41865166625C7C8FFEE264F0
 I'm fine.,Я в порядке.,ok,,268FA4FE470E75843859B3A76F25BAB9
-Like I said - never better.,Как я и сказала — лучше не бывает.,ai,,9C5484EC46FB25BCA28988945DEC42AF
+Like I said - never better.,Как я и сказала - лучше не бывает.,ai,,9C5484EC46FB25BCA28988945DEC42AF
 "Age. Experience. I'd like to be more...thoughtful. Take my time. My aim isn't what it used to be, and I'm not...I'd like not to be remembered as just a killer.","Возраст. Опыт. Хочу быть... вдумчивее. Не торопиться. Глаз у меня уже не тот, и я... не хотел бы, чтобы меня запомнили просто как убийцу.",ai,,E48F49CE48196C3DDBB6CFB8AF06C998
 You won't. You'll be remembered as my consigliere.,Не запомнят. Тебя запомнят как моего консильери.,ai,,7B009D3645AE41546ADD778FFD1DA624
-"...I'm sorry, uncle. The answer is no.","...Прости, дядя. Ответ — нет.",ai,,4916A30C47E5FBE07857979FE325BE5C
+"...I'm sorry, uncle. The answer is no.","...Прости, дядя. Ответ - нет.",ai,,4916A30C47E5FBE07857979FE325BE5C
 Then at least let me help during your transition into power. You'll need...I could help.,Тогда хотя бы позволь помочь тебе при переходе власти. Тебе понадобится... я мог бы помочь.,ai,,FA248EA3418729F52C7CF59B4AEBBA6E
 "Go home, uncle. Be with your wife. Your children.","Иди домой, дядя. Побудь с женой. С детьми.",ai,,E75BC913421279E62DE96F962A85A64D
 "No. This life is going to kill you, uncle. I won't let that happen.","Нет. Эта жизнь тебя убьёт, дядя. Я этого не допущу.",ai,,BDD3D6404F3128CA2F7365B8BA0E6ECA
@@ -126,7 +126,7 @@ He's...in a bad way. Very bad.,Он... в плохом состоянии. Оч�
 Nothing you won't be able to handle.,"Ничего такого, с чем ты не справишься.",ai,,38024BEC43A83FC5E0EA70A1B3259D8B
 Is that a problem?,Это проблема?,ai,,BF240E9F4E62EA3A3FEE73B249DBC055
 "Not bad enough, apparently.","Недостаточно плохом, судя по всему.",ai,,BF3AA1E940E224A9038E5A8F41C7B8A8
-"Mm. Well then, I should go - there's still the question of...cleaning out the office.","Мм. Что ж, мне пора — остаётся ещё вопрос... уборки в кабинете.",ai,,750649474304426AACE4EA91DEBB8303
+"Mm. Well then, I should go - there's still the question of...cleaning out the office.","Мм. Что ж, мне пора - остаётся ещё вопрос... уборки в кабинете.",ai,,750649474304426AACE4EA91DEBB8303
 Make it spotless.,Чтобы там было чисто.,ai,,F9E8FE7943B5F6187FF4838BD54B9BF6
 Good. Thank you.,Хорошо. Спасибо.,ai,,CB2359994EA7B83D0A7FF2824C63F49A
 Don't let me keep you.,Не буду тебя задерживать.,ai,,9FDF67744127FB85DD6A6FB097C3D0BE
@@ -228,7 +228,7 @@ Don't congratulate me.,Не поздравляй меня.,ai,,79743CD14FED37A1F
 "No. There's no need, really.","Нет. В этом нет нужды, правда.",ai,,CE19766A45702A94C62FBA8178FDB8E6
 Good. I'm glad you know what you want.,"Хорошо. Рад, что ты знаешь, чего хочешь.",ai,,E60FD2C7460DFA107550BFBF812FFF28
 "...This isn't really about age, is it?","...Дело ведь не в возрасте, да?",ai,,9110D5D74F2E4D9AFE9086B885AB4F2F
-"...No. Things are changing - have changed, and I can't keep up. You'll change, too. In ways that will surprise us both, I'm sure.","...Нет. Всё меняется — уже изменилось, а я не поспеваю. Ты тоже изменишься. Так, что удивишь нас обоих, не сомневаюсь.",ai,,CB413D5E4A4CDEA666D43EBDE5BCD575
+"...No. Things are changing - have changed, and I can't keep up. You'll change, too. In ways that will surprise us both, I'm sure.","...Нет. Всё меняется - уже изменилось, а я не поспеваю. Ты тоже изменишься. Так, что удивишь нас обоих, не сомневаюсь.",ai,,CB413D5E4A4CDEA666D43EBDE5BCD575
 "If you can't keep up, I'm glad you're stepping away on your own accord.","Если ты не поспеваешь, я рада, что ты уходишь по собственной воле.",ai,,DCB1848B4A4CA125A105D891892C6269
 I won't. I know that for a fact.,Не изменюсь. Я знаю это наверняка.,ai,,9D6E39184F3AC0A0AF8F5BB6F0796B88
 You're worried about me?,Ты за меня беспокоишься?,ai,,282A1E26408071BF105FC8B050F45E1F
@@ -239,13 +239,13 @@ I see. You're...I see.,Понятно. Ты... понятно.,ai,,B05A469242049
 "Is there something you want to say, uncle?","Ты хочешь что-то сказать, дядя?",ai,,3754CD2643076EFE456A2FAEEF79BF6D
 I feel guilty. Should I?,Мне совестно. Должно быть?,ai,,AF3EA46B48E521039EC8A99601C7D907
 I trust this won't be a problem for you to handle.,"Надеюсь, с этим у тебя проблем не будет.",ai,,01BD32EE42FB4463E044C5A8593504EB
-Not worried. I've just seen it happen a few times now. But you don't need to hear all this - I'll leave you to your thoughts. And don't worry - I'll handle the body.,"Не беспокоюсь. Просто видел такое уже несколько раз. Но тебе не нужно всё это слушать — оставлю тебя наедине с мыслями. И не волнуйся, с телом я разберусь.",ai,,F46A38B0436E47089231049BDE6E64A8
+Not worried. I've just seen it happen a few times now. But you don't need to hear all this - I'll leave you to your thoughts. And don't worry - I'll handle the body.,"Не беспокоюсь. Просто видел такое уже несколько раз. Но тебе не нужно всё это слушать - оставлю тебя наедине с мыслями. И не волнуйся, с телом я разберусь.",ai,,F46A38B0436E47089231049BDE6E64A8
 "...Wait, hold on a second. What does that mean?","...Погоди, секунду. Что это значит?",ai,,7397B530477C477E1A1608908355638F
-"Give it time. For now, I'll leave you with your thoughts. There's still the question of the body - I'll handle it.",Дай время. А пока оставлю тебя наедине с мыслями. Остаётся вопрос с телом — я им займусь.,ai,,2AD07FBC46E735525865B4991F729800
+"Give it time. For now, I'll leave you with your thoughts. There's still the question of the body - I'll handle it.",Дай время. А пока оставлю тебя наедине с мыслями. Остаётся вопрос с телом - я им займусь.,ai,,2AD07FBC46E735525865B4991F729800
 Good.,Хорошо.,ai,,86F869BD4F6A158B756E3EB61E51476D
 Be quick about it.,Поторопись.,ai,,6D69CE164EF4B4F75F31A585D43C9C95
 Thank you. You know I appreciate it.,"Спасибо. Ты знаешь, я это ценю.",ai,,D42540194EB953C21BB321B7471F68FB
-"As am I, I suppose. I'll leave you with your thoughts - there's still the question of the body. I'll handle it.","Я тоже, пожалуй. Оставлю тебя наедине с мыслями — остаётся вопрос с телом. Я им займусь.",ai,,CCF850B142C6348C4DF833B1D34EFC64
+"As am I, I suppose. I'll leave you with your thoughts - there's still the question of the body. I'll handle it.","Я тоже, пожалуй. Оставлю тебя наедине с мыслями - остаётся вопрос с телом. Я им займусь.",ai,,CCF850B142C6348C4DF833B1D34EFC64
 Good.,Хорошо.,ai,,BA1F0EF645B9B7D6A156B697C94FE228
 Be quick about it.,Поторопись.,ai,,F6DC784E4A0D20F9BE3682BC04C84CFD
 Thank you. You know I appreciate it.,"Спасибо. Ты знаешь, я это ценю.",ai,,CE1EA8944C086290FC33129BF615D239
@@ -257,12 +257,12 @@ Don't congratulate me.,Не поздравляй меня.,ai,,D5EBC9DD4F95CA04D
 Of course. I can't deny you that.,Конечно. Не могу тебе в этом отказать.,ai,,E3D856D44167EA004787BCB152AA9FBA
 What did you have in mind?,И что ты задумал?,ai,,6F3A06EC450EC4C5CE8EA3BA32AACBB8
 "You underestimate yourself, uncle. You've still got plenty of years left in you.","Ты себя недооцениваешь, дядя. В тебе ещё полно лет.",ai,,7A772B38429B98831524B489A1D2225D
-"In some ways, perhaps - but I'm looking for something else. Something less taxing on the body and mind.","В чём-то, возможно, — но я ищу другого. Менее изматывающего для тела и разума.",ai,,814F530D4268E4B8666AEDAB2EC79035
+"In some ways, perhaps - but I'm looking for something else. Something less taxing on the body and mind.","В чём-то, возможно, - но я ищу другого. Менее изматывающего для тела и разума.",ai,,814F530D4268E4B8666AEDAB2EC79035
 Of course. I can't deny you that.,Конечно. Не могу тебе в этом отказать.,ai,,B84A1EB0405637F8D231EABD8FCD4F4B
 What did you have in mind?,И что ты задумал?,ai,,B0D33F764AF7E9984DEC85A8424D1C9D
 You underestimate yourself. You've still got plenty of years left in you.,Ты себя недооцениваешь. В тебе ещё полно лет.,ai,,749C342F4BF49774366453BD3D5427C4
 "I've...always wanted to run a restaurant. We have a few, but I wouldn't want to take anyone's place. There is one spot I think would work well for us, however. One we don't own...yet.","Я... всегда мечтал управлять рестораном. У нас их несколько, но я не хотел бы занимать чьё-то место. Есть одно заведение, которое, думаю, нам бы подошло. Оно нам пока не принадлежит... пока.",ai,,C61E3D824EDC9ED0F0C4D1843F6DEAEB
-"Say no more - if that is what you want, that's what you'll get.","Больше ни слова — если ты этого хочешь, так и будет.",ai,,2848F9A34DAC2A1A6E0516964DA0AC29
+"Say no more - if that is what you want, that's what you'll get.","Больше ни слова - если ты этого хочешь, так и будет.",ai,,2848F9A34DAC2A1A6E0516964DA0AC29
 A restaurant manager? You?,Управляющий рестораном? Ты?,ai,,164170B64D4748796FFD0499738C8814
 Which is?,Какое?,ai,,05141D1F49F2F6109A87A5A5F27059BA
 "There's an old club in Granville in dire need of new management. I'm...well, I think I could fill that role.","В Гренвилле есть старый клуб, которому отчаянно нужно новое руководство. Я... думаю, я бы с этим справился.",ai,,D151528A4B652723233C25BCEB7C9CE2
@@ -275,8 +275,8 @@ I feel guilty. Should I?,Мне совестно. Должно быть?,ai,,5CA
 I trust this won't be a problem for you to handle.,"Надеюсь, с этим у тебя проблем не будет.",ai,,B7447BF846DAD5C04F1CA8A1ED9EA4D5
 That may well be. I'm just hoping the manner in which I spend those years will be different.,"Возможно. Просто надеюсь, что проведу эти годы иначе.",ai,,E565A38646DF398A1B4E21978C0772B1
 So what exactly do you have in mind?,Так что именно ты задумал?,ai,,4993AC474C62985FFC47AAA71D987A10
-"Don't worry, uncle. Things will be different from now on - I'll see to it.","Не волнуйся, дядя. Теперь всё будет иначе — я об этом позабочусь.",ai,,5EF331594F6938ABBB6499A7D9A428C4
-"I'm sure, Clarissa. But I've given this a lot of thought. Plenty of my guys are ready to take my place - they're younger, faster, and more clever than me. I'd like something different.","Уверен, Кларисса. Но я долго об этом думал. Многие мои ребята готовы занять моё место — они моложе, быстрее и сообразительнее меня. Мне хочется чего-то другого.",ai,,27E27DB349AC749710760992574039D6
+"Don't worry, uncle. Things will be different from now on - I'll see to it.","Не волнуйся, дядя. Теперь всё будет иначе - я об этом позабочусь.",ai,,5EF331594F6938ABBB6499A7D9A428C4
+"I'm sure, Clarissa. But I've given this a lot of thought. Plenty of my guys are ready to take my place - they're younger, faster, and more clever than me. I'd like something different.","Уверен, Кларисса. Но я долго об этом думал. Многие мои ребята готовы занять моё место - они моложе, быстрее и сообразительнее меня. Мне хочется чего-то другого.",ai,,27E27DB349AC749710760992574039D6
 And what does 'different' mean in this case?,И что значит «другого» в данном случае?,ai,,916495814B94F21C04DDEA9526C0F2DE
 You've scoped something out already?,Ты уже что-то присмотрел?,ai,,2458C776438BA9A47C1DD79F2EAE8757
 I'm not ready for you to step down. Not yet.,Я не готова к твоему уходу. Пока нет.,ai,,A38A33CF48E6685E42721796A8D3999B
@@ -284,11 +284,11 @@ You're...certain? I realize you might have expected me to help you handle things
 Yes. I'm certain.,Да. Уверена.,ai,,8ED2022149E571ECDAF556864F39530A
 You're sure this is what you want?,"Ты уверен, что этого хочешь?",ai,,3C53DA8A48F5EBD857E7599C7D5FBA6C
 "As long as you've planned it well, I'm confident you'll remain an important asset to the family.","Если ты всё хорошо продумал, не сомневаюсь, что останешься важным для семьи человеком.",ai,,B9BEFDCF49F7E333DEDE2EBDE63DB27B
-"I'd still be around, Clarissa. The family would still own whatever venture I'd get into - I'd just run it for you. Be a...businessman, I suppose.","Я буду рядом, Кларисса. Семья по-прежнему будет владеть любым делом, за которое я возьмусь, — я бы просто управлял им для тебя. Был бы... бизнесменом, наверное.",ai,,958D9BFA49AD88174749CE9E5A702224
+"I'd still be around, Clarissa. The family would still own whatever venture I'd get into - I'd just run it for you. Be a...businessman, I suppose.","Я буду рядом, Кларисса. Семья по-прежнему будет владеть любым делом, за которое я возьмусь, - я бы просто управлял им для тебя. Был бы... бизнесменом, наверное.",ai,,958D9BFA49AD88174749CE9E5A702224
 Alright. I won't deny you that.,Ладно. Не буду тебе отказывать.,ai,,2F0B7AAD41A80DC0F1A0A8AB30EC4B62
 ...And this is what you truly want?,...И ты действительно этого хочешь?,ai,,7845D19A43E9EAE8380F228E0B2665C3
 "I'm sorry, uncle. I need you for more important things.","Прости, дядя. Ты нужен мне для более важных дел.",ai,,FCC6ADF148FB24C30A93CEB126283ACF
-"I frequent them enough to be an expert. On food, at the very least - and the family would still own the location. Think of it as another base of operations for us.","Я бываю в них достаточно часто, чтобы разбираться. По крайней мере в еде — а помещение по-прежнему принадлежало бы семье. Считай это ещё одной нашей базой.",ai,,2E89AD1543576B018F124680C1A98B32
+"I frequent them enough to be an expert. On food, at the very least - and the family would still own the location. Think of it as another base of operations for us.","Я бываю в них достаточно часто, чтобы разбираться. По крайней мере в еде - а помещение по-прежнему принадлежало бы семье. Считай это ещё одной нашей базой.",ai,,2E89AD1543576B018F124680C1A98B32
 Sounds good to me. I'm convinced.,Звучит неплохо. Меня убедил.,ai,,3D6894F949676784B439FEA0C97EA37F
 I don't think I'm ready for you to step down. Not yet.,"Не думаю, что я готова к твоему уходу. Пока нет.",ai,,0F9B93F8428019F7C1326E9A36D9612C
 "...Very well. Maybe in time, then.","...Хорошо. Может, со временем.",ai,,77BF811644A02B9D6F9C3EB1415504BB
@@ -311,7 +311,7 @@ First things first - we need to clear the office.,Первым делом нуж
 "I have no doubt. I'll be cheering you on, uncle.","Не сомневаюсь. Буду болеть за тебя, дядя.",ai,,0D939A724AF3D77ED0A70287AEC9C2A7
 "Don't make me regret this, uncle.","Не заставляй меня пожалеть об этом, дядя.",ai,,D8554A0D41C78DF15E644C8438AC4296
 I'll be discreet. Don't worry. Is there anything else you need?,Буду осмотрителен. Не волнуйся. Тебе ещё что-нибудь нужно?,ai,,3EA4243D460CE45189DFFB8F0D34D230
-Let the rest of the family know that I'm in charge now.,"Сообщи остальным в семье, что теперь главная — я.",ai,,32484F91413752BDF84192BD152BAE3F
+Let the rest of the family know that I'm in charge now.,"Сообщи остальным в семье, что теперь главная - я.",ai,,32484F91413752BDF84192BD152BAE3F
 I'd like a moment to myself.,Мне нужна минута наедине с собой.,ai,,9CDA07354175EC558EBEB09088BE8456
 I'm fine. What about you?,Я в порядке. А ты?,ai,,887A331D4700922768CE43A41826E72F
 I'll endeavour not to. Just had to ask. I'll...leave you to your thoughts. There's still the body to take care of.,Постараюсь. Просто нужно было спросить. Оставлю тебя наедине с мыслями. Остаётся ещё тело.,ai,,364D9D054A6BB451F16DCBA046632798
@@ -347,7 +347,7 @@ Thank you.,Спасибо.,ok,,AD3DA6A44AF73EBAA2BC909BD44AA48E
 I don't care. Take care of it.,Мне всё равно. Займись этим.,ai,,7DBF15EE42B1AAE888D3EEA3E2486142
 Why not?,Почему нет?,ok,,13E0E0054B39AC44993FB5AE9F21E6A6
 I do. It just seems like the right thing to do.,Знаю. Просто это кажется правильным.,ai,,A1DC0CE54ED00A454D843DAE8D0F4DE7
-"Life isn't a series of goals, Clarissa. It's just living. That's where you truly become you.","Жизнь — не череда целей, Кларисса. Это просто жизнь. Там ты по-настоящему и становишься собой.",ai,,86431D8D4BDAAE9962B256B63FEB0C6B
+"Life isn't a series of goals, Clarissa. It's just living. That's where you truly become you.","Жизнь - не череда целей, Кларисса. Это просто жизнь. Там ты по-настоящему и становишься собой.",ai,,86431D8D4BDAAE9962B256B63FEB0C6B
 "Spare me the old man wisdom, uncle.","Избавь меня от стариковской мудрости, дядя.",ai,,CD8C832C4630F048A338299EBFA1FFBB
 [Say nothing],[Промолчать],ai,,76AB8DFF4B095537852DBB957BB047E0
 I'll try to keep that in mind.,Постараюсь это запомнить.,ai,,7656487D4F61675C130974A03BEB1C39
@@ -356,19 +356,19 @@ I'll try to keep that in mind.,Постараюсь это запомнить.,a
 Not anymore.,Уже нет.,ok,,B4C2F5E1461DA545FA1133AF60B30983
 He never was.,Им он никогда и не был.,ai,,096162DD492134719B0312927C6DCD1C
 "I suppose not, no. I'll handle it. Is there anything else you need?","Пожалуй, нет. Я займусь этим. Тебе ещё что-нибудь нужно?",ai,,6B1943E04EA14DF6C4FE71B66CD5280F
-Let the rest of the family know that I'm in charge now.,"Сообщи остальным в семье, что теперь главная — я.",ai,,1D71C969459B2D443A5572B948B8EC41
+Let the rest of the family know that I'm in charge now.,"Сообщи остальным в семье, что теперь главная - я.",ai,,1D71C969459B2D443A5572B948B8EC41
 I'd like a moment to myself.,Мне нужна минута наедине с собой.,ai,,440ABCE44A53150DA4615485D828ADB4
 I'm fine. What about you?,Я в порядке. А ты?,ai,,A646D31A41D17C46AC50898D9FD733B5
 "I suppose not, no. I'll handle it. Is there anything else you'll need?","Пожалуй, нет. Я займусь этим. Тебе ещё что-нибудь понадобится?",ai,,B04CEAA34CB49395E65217BC59DC8523
-Let the rest of the family know that I'm in charge now.,"Сообщи остальным в семье, что теперь главная — я.",ai,,F1CD687448A288F4C44910890EF0D27A
+Let the rest of the family know that I'm in charge now.,"Сообщи остальным в семье, что теперь главная - я.",ai,,F1CD687448A288F4C44910890EF0D27A
 I'd like a moment to myself.,Мне нужна минута наедине с собой.,ai,,FA6263D747B48BCCA996F4AB121FA286
 I'm fine. What about you?,Я в порядке. А ты?,ai,,073C525947F34F47FDBEF8803B9054CE
 "No, Clarissa. No, you didn't. Is there anything else you'll need?","Нет, Кларисса. Нет, не заикалась. Тебе ещё что-нибудь понадобится?",ai,,3083CF5D4339A0829BDE599DB520760A
-Let the rest of the family know that I'm in charge now.,"Сообщи остальным в семье, что теперь главная — я.",ai,,D66701364152CA28CF39E8A7596ECA93
+Let the rest of the family know that I'm in charge now.,"Сообщи остальным в семье, что теперь главная - я.",ai,,D66701364152CA28CF39E8A7596ECA93
 I'd like a moment to myself.,Мне нужна минута наедине с собой.,ai,,7502773F4B68D5EEB832658AD3D1D280
 I'm fine. What about you?,Я в порядке. А ты?,ai,,06F343C0436B3023267156B0C8228FDB
 I'll...see what I can do. Is there anything else you need?,"Я... посмотрю, что можно сделать. Тебе ещё что-нибудь нужно?",ai,,BBC432FB4214FF466DEF0193367FAF5E
-Let the rest of the family know that I'm in charge now.,"Сообщи остальным в семье, что теперь главная — я.",ai,,8AEA234C47FF8A64EF6681876C882B4A
+Let the rest of the family know that I'm in charge now.,"Сообщи остальным в семье, что теперь главная - я.",ai,,8AEA234C47FF8A64EF6681876C882B4A
 I'd like a moment to myself.,Мне нужна минута наедине с собой.,ai,,A8544868493AD8A1C7227FBE3BBDCE19
 I'm fine. What about you?,Я в порядке. А ты?,ai,,B582E4C84D54899FF99EF6AB134D0003
 "You know why. People will know what happened here. They'll  gossip, put it together. We don't want people to gather, to ask questions. No funeral, Clarissa. I'm sorry.","Ты знаешь почему. Люди поймут, что здесь произошло. Начнут судачить, сложат два и два. Нам не нужно, чтобы люди собирались и задавали вопросы. Никаких похорон, Кларисса. Прости.",ai,,6BF71F004AC9CCCF968E8AAA12F9BB11
@@ -376,11 +376,11 @@ I'm fine. What about you?,Я в порядке. А ты?,ai,,B582E4C84D54899FF99
 Fine.,Хорошо.,ok,,3E3833F545FAB355C9A4C7B50D3EAFD3
 "I'm sorry, too.",Мне тоже жаль.,ai,,5D0C090A46B9EBB800AC0AAE2C661814
 I will. Don't worry. Is there anything else you need?,Займусь. Не волнуйся. Тебе ещё что-нибудь нужно?,ai,,D53A25284E536B72998F5F80FC837E08
-Let the rest of the family know that I'm in charge now.,"Сообщи остальным в семье, что теперь главная — я.",ai,,C47378D646432ECF1DEE798494B2C51D
+Let the rest of the family know that I'm in charge now.,"Сообщи остальным в семье, что теперь главная - я.",ai,,C47378D646432ECF1DEE798494B2C51D
 I'd like a moment to myself.,Мне нужна минута наедине с собой.,ai,,A28A2CB24CC8C7C7029E84ADDDD61741
 I'm fine. What about you?,Я в порядке. А ты?,ai,,5EE0449A451909AD1AAF2C9434053AEC
 I'll do my best. Is there anything else you need?,Сделаю всё возможное. Тебе ещё что-нибудь нужно?,ai,,D475FDAF4F339EE112F3A2A4D6E50596
-Let the rest of the family know that I'm in charge now.,"Сообщи остальным в семье, что теперь главная — я.",ai,,123662534681335977DD6889778581FB
+Let the rest of the family know that I'm in charge now.,"Сообщи остальным в семье, что теперь главная - я.",ai,,123662534681335977DD6889778581FB
 I'd like a moment to myself.,Мне нужна минута наедине с собой.,ai,,097956064E535BE05F27669C3CA84406
 I'm fine. What about you?,Я в порядке. А ты?,ai,,CC66A8C04C1D2E729B92F38E1C9121D5
 "I see. He must have been...well, I know how he gets.","Понятно. Он, должно быть... ну, я знаю, каким он бывает.",ai,,3CA94F484DF94EC8BD7542980CDCD0D1
@@ -424,7 +424,7 @@ You expect me to just forget about it?,"Ты ждёшь, что я просто 
 Don't worry about me. Get him out of here.,Обо мне не беспокойся. Убери его отсюда.,ai,,8692CE114B65C64EED65E59AB2E096B1
 No. Get rid of the body. That's all you need to do.,"Нет. Избавься от тела. Это всё, что от тебя требуется.",ai,,1E92462E447C945A70E205980B85B86B
 Stop fussing over me. I'm not a child.,Хватит надо мной хлопотать. Я не ребёнок.,ai,,C7E8EEFC41D029A9B8128FBDE7004D82
-"It took some mild convincing. Having a woman in charge is...well, some of the older guard had some concerns.","Пришлось немного поуговаривать. Женщина во главе — это... в общем, у кого-то из старой гвардии были опасения.",ai,,65530D0B44A02886EA9D15AF43A01E0B
+"It took some mild convincing. Having a woman in charge is...well, some of the older guard had some concerns.","Пришлось немного поуговаривать. Женщина во главе - это... в общем, у кого-то из старой гвардии были опасения.",ai,,65530D0B44A02886EA9D15AF43A01E0B
 (AMBITIOUS) I'll show them. Don't you worry.,(АМБИЦИОЗНОСТЬ) Я им покажу. Не переживай.,ai,,8098A2264E8D2FB7091F7DB9E67A3989
 (CUNNING) They can keep their concerns. I've got ways to persuade them.,(ХИТРОСТЬ) Пусть оставят свои опасения при себе. У меня есть способы их убедить.,ai,,0130C7724163CA58C6256D8B88210809
 (POWERFUL) They'll fall in line. I'll make them.,(ВЛАСТНОСТЬ) Они встанут в строй. Я заставлю.,ai,,9E7E95C1489A7D72B3924DB6DE428D05
@@ -470,9 +470,9 @@ Did anyone disapprove?,Кто-нибудь был против?,ai,,5948F5ED47C2
 Yeah. Of course.,Да. Конечно.,ai,,D3A243424462844243D41FA84870FE02
 "Spit it out, then.",Тогда выкладывай.,ai,,652FFAE34927042E14787CA65E2A29A5
 [Stay quiet and listen],[Молчать и слушать],ai,,743B58704439D01E38A30285811BC0D5
-"The family backs you, and those who don't can be persuaded. The Apes, however, will be a tougher nut to crack. They approved of Carlo because he never questioned or challenged them, and well, there might be some concerns now.","Семья тебя поддерживает, а несогласных можно убедить. А вот Обезьяны — орешек покрепче. Карло они одобряли, потому что он никогда не ставил их под сомнение и не бросал им вызов, и, ну, теперь могут возникнуть опасения.",ai,,1343FFBE4E660EBD6E691F884C38CA09
+"The family backs you, and those who don't can be persuaded. The Apes, however, will be a tougher nut to crack. They approved of Carlo because he never questioned or challenged them, and well, there might be some concerns now.","Семья тебя поддерживает, а несогласных можно убедить. А вот Обезьяны - орешек покрепче. Карло они одобряли, потому что он никогда не ставил их под сомнение и не бросал им вызов, и, ну, теперь могут возникнуть опасения.",ai,,1343FFBE4E660EBD6E691F884C38CA09
 What kind of concerns?,Какие опасения?,ai,,51575AF04F3535A01DED49BFF7658872
-"The Apes are old money, Clarissa. They tend to be dismissive of newcomers, which like it or not, you are.","Обезьяны — старые деньги, Кларисса. Они склонны отмахиваться от новичков, а ты, нравится тебе это или нет, новичок.",ai,,581C70C9497E823B22B92DB7159DBED8
+"The Apes are old money, Clarissa. They tend to be dismissive of newcomers, which like it or not, you are.","Обезьяны - старые деньги, Кларисса. Они склонны отмахиваться от новичков, а ты, нравится тебе это или нет, новичок.",ai,,581C70C9497E823B22B92DB7159DBED8
 They won't dismiss me so easily. What's got you so worried?,Так легко отмахнуться от меня не выйдет. Что тебя так тревожит?,ai,,0DAE07F14824FACAAAA6409CEE91A7C9
 "Don't worry, I'll play nice. Right now, I just want confidence over concern.","Не волнуйся, я буду паинькой. Сейчас мне нужна уверенность, а не опасения.",ai,,0A8FF4414EFD4A8C143F3589423E846A
 "Hey, kid.","Эй, малая.",ai,,BB27AE9E43DA5E367EA455AE3658FEE6
@@ -484,19 +484,19 @@ Of course you agree. What's got you so worried?,Ещё бы ты не согла
 My focus? You mean 'our' focus.,Мне? Ты хотел сказать «нам».,ai,,9062A37146030A05C285A6ABD0CB7809
 "That's what I mean, Clarissa. You need to be clever about this. They don't fear violence or ruthlessness. They worry more about their friends than their enemies.","Вот что я имею в виду, Кларисса. Действовать нужно с умом. Насилия и безжалостности они не боятся. Они больше беспокоятся о друзьях, чем о врагах.",ai,,B5DD132F419698859E2DD79E56E0740F
 They'll worry regardless. Where is all this coming from?,Они будут беспокоиться в любом случае. К чему всё это?,ai,,D3DEF8584B34D0B7F2D76AB77ED581AE
-Then we keep them close - if you think that's the right call.,Тогда держим их ближе — если ты считаешь это правильным.,ai,,27D574294C43C453A0926399C06DBC98
+Then we keep them close - if you think that's the right call.,Тогда держим их ближе - если ты считаешь это правильным.,ai,,27D574294C43C453A0926399C06DBC98
 "My concern isn't that they won't acknowledge it. If they see it, they'll attempt to sabotage it.","Меня беспокоит не то, что они этого не признают. Если увидят, попытаются это сорвать.",ai,,9A94D8E345D20D9F766342BD222203C4
 "I'd like to see them try. What's with all the worry? Where is your head at, uncle?","Хотела бы я посмотреть, как они попробуют. К чему вся эта тревога? О чём ты думаешь, дядя?",ai,,D0C8E2044D5E364A980BAA95528E02F2
 "Then we'll prepare for that, too.",Тогда подготовимся и к этому.,ai,,DDDF85D54843DCADE2EFDEB49928C174
-"They won't just let you be, Clarissa. Just because they might consider you harmless doesn't mean they won't try to shut you down - but if you prove yourself to be a threat, they'll barter with you.","Они тебя так просто не оставят, Кларисса. То, что они могут счесть тебя безобидной, не значит, что не попытаются тебя остановить, — но если докажешь, что ты угроза, они пойдут на сделку.",ai,,0BB6BF16482CF7B7025592B51D382B33
+"They won't just let you be, Clarissa. Just because they might consider you harmless doesn't mean they won't try to shut you down - but if you prove yourself to be a threat, they'll barter with you.","Они тебя так просто не оставят, Кларисса. То, что они могут счесть тебя безобидной, не значит, что не попытаются тебя остановить, - но если докажешь, что ты угроза, они пойдут на сделку.",ai,,0BB6BF16482CF7B7025592B51D382B33
 You mean 'us'.,Ты хотел сказать «нам».,ai,,7CAA528342770C6DDBE65F9EC15B5415
 "Fine, then. I assert myself immediately. Show them what they're dealing with.","Ладно. Тогда я сразу заявляю о себе. Покажу им, с кем они имеют дело.",ai,,ABC508EA46A61DCDACB2B78BC80834A8
 "It's not so easy, Clarissa. The Apes know how to deal with their enemies. A friend is a foe much more threatening.","Всё не так просто, Кларисса. Обезьяны умеют обращаться с врагами. Друг куда опаснее врага.",ai,,20967A834955ACD63BB2F4B4E5A1E8A2
 "I won't suffer old fools, uncle. Where's all this worry coming from?","Я не потерплю старых дураков, дядя. Откуда столько тревоги?",ai,,B5D7476C4F674A6729654ABA23FCAC67
-"A friend it is, then - but they'll soon realize they've never had one like me.","Значит, друг — но они скоро поймут, что такого друга у них ещё не было.",ai,,9D0145C74D13E215FFC25A81D06BB3B3
+"A friend it is, then - but they'll soon realize they've never had one like me.","Значит, друг - но они скоро поймут, что такого друга у них ещё не было.",ai,,9D0145C74D13E215FFC25A81D06BB3B3
 "I'm afraid it can't. It's about what happens next, and what happens to...well, me.","Боюсь, нет. Речь о том, что будет дальше, и что будет со мной.",ai,,8E9838E640C5C72F0FEAD795B982EDCE
 "Make it quick, then.",Тогда покороче.,ai,,7A4BB43D4CAF0901FF2C57A5754F7048
-Very well - what's on your mind?,Хорошо — что у тебя на уме?,ai,,697D33994326DF57CD81479C07158642
+Very well - what's on your mind?,Хорошо - что у тебя на уме?,ai,,697D33994326DF57CD81479C07158642
 "Very well. There's another thing, if you don't mind. I've been thinking. About all of this. With Carlo gone, well - I find myself in a peculiar situation.","Хорошо. Есть ещё кое-что, если не возражаешь. Я думал. Обо всём этом. Без Карло я оказался в довольно странном положении.",ai,,EB557A5942479B03FD25A9BCCFE95071
 Go on.,Продолжай.,ai,,D659EA4941B9D7D624C06FBF69D4F4E9
 What's on your mind?,Что думаете?,ok,,048F16B3498CFA56C95432A91D3FAD55
@@ -504,14 +504,14 @@ Can this wait? I'm not in the mood to talk much right now.,Это может п�
 "Don't throw caution to the wind, Clarissa. You have to be smart about this.","Не пренебрегай осторожностью, Кларисса. Тут нужно действовать с умом.",ai,,3B53C4E2496CA971EFCD3D907CC9D776
 I said I can handle it. What's got you so anxious?,"Я сказала, что справлюсь. Что тебя так тревожит?",ai,,B96F19004F14B5C36CCD58BFE5F9A926
 I know. I just don't want any doubt to start setting in already.,"Знаю. Просто не хочу, чтобы сомнения начали закрадываться уже сейчас.",ai,,FE779E2542A730327539F0825741E1D2
-"I don't doubt it, but expect resistance. They're not going to let go of old habits so easily - especially if they're being told to.","Не сомневаюсь, но жди сопротивления. Старые привычки так просто не бросают — тем более когда велят.",ai,,C194623F40D535F6FF55B182233E3645
+"I don't doubt it, but expect resistance. They're not going to let go of old habits so easily - especially if they're being told to.","Не сомневаюсь, но жди сопротивления. Старые привычки так просто не бросают - тем более когда велят.",ai,,C194623F40D535F6FF55B182233E3645
 "I told you, I've got my ways. What's got you so worried all of a sudden?","Я же говорила, у меня свои способы. Что тебя вдруг так встревожило?",ai,,F2F84F9241434CB75C35BFBEE9DC8901
 "Trust me, uncle. Right now, I just want confidence over concern.","Поверь, дядя. Сейчас мне нужна уверенность, а не опасения.",ai,,C4258AAA48CBB2479CED7F8165D2F918
 "Be careful, Clarissa. Barking orders will only make them turn on you faster.","Осторожнее, Кларисса. Если лаять приказы, они обернутся против тебя быстрее.",ai,,28C1B0614944653091A35EB2848A4B0D
 "I said I have it under control, uncle. Where's your head at?","Я сказала, всё под контролем, дядя. О чём ты думаешь?",ai,,71314EFC448E3A5CBD7A119C2351B8FB
 "I know that, too. I just need confidence over concern right now.","Это я тоже знаю. Мне сейчас просто нужна уверенность, а не опасения.",ai,,97CA1C664C2AE845F4D9D7B8DDF480FD
 "I know, Clarissa. But it's better this way. Trust me. Anything else I can do for you?","Знаю, Кларисса. Но так лучше. Поверь. Могу ещё чем-нибудь помочь?",ai,,E9854D2A4C7F922202E1EF967EA18EFC
-Let the rest of the family know that I'm in charge now.,"Сообщи остальным в семье, что теперь главная — я.",ai,,4C0EF68C4345C8D7A8EA83AD43479527
+Let the rest of the family know that I'm in charge now.,"Сообщи остальным в семье, что теперь главная - я.",ai,,4C0EF68C4345C8D7A8EA83AD43479527
 I'd like a moment to myself.,Мне нужна минута наедине с собой.,ai,,F97854D74933CE53C93A138B4495E9C5
 I'm fine. What about you?,Я в порядке. А ты?,ai,,732193A34AFB5908B2DEB0A27EA71E7B
 "Don't throw caution to the wind, Clarissa. You have to be smart about this.","Не пренебрегай осторожностью, Кларисса. Тут нужно действовать с умом.",ai,,9B10C48D4A42A7027CA936B92F5C1618
@@ -538,8 +538,8 @@ So there'll be no such chances. What's got into you? What's with all this worryi
 "You can't do that, Clarissa. All that experience...well, I'll be frank - you'll need it.","Так нельзя, Кларисса. Весь этот опыт... скажу прямо, он тебе понадобится.",ai,,E77A590546F297DC5B127ABB7CEE04DB
 "...What's got into you, uncle? Where is all this sudden worry coming from?","...Что на тебя нашло, дядя? Откуда вдруг такая тревога?",ai,,ED3F59F3477293BFD542CC95ABB0906E
 "I've got plenty. You'd do well to remember that. ","Его у меня хватает. Тебе стоит это помнить. ",ai,,C71BF6DB457763416397839BCFE61A9D
-"It won't be instant. Slow, but steady. Out with the old, in with the new.","Мгновенно не выйдет. Медленно, но верно. Старое долой, новое — вперёд.",ai,,4B9CEC3149B0D49C85F7548599AFC83E
-"Push too hard and they'll only dig their heels in. There's no brute-forcing this, Clarissa. It requires finesse.","Надавишь слишком сильно — они только упрутся. Грубой силой тут не возьмёшь, Кларисса. Нужна тонкость.",ai,,2F385BE340F1DE8946967B82A2F6CBBC
+"It won't be instant. Slow, but steady. Out with the old, in with the new.","Мгновенно не выйдет. Медленно, но верно. Старое долой, новое - вперёд.",ai,,4B9CEC3149B0D49C85F7548599AFC83E
+"Push too hard and they'll only dig their heels in. There's no brute-forcing this, Clarissa. It requires finesse.","Надавишь слишком сильно - они только упрутся. Грубой силой тут не возьмёшь, Кларисса. Нужна тонкость.",ai,,2F385BE340F1DE8946967B82A2F6CBBC
 "It requires respect, and they'll give me theirs. What's got into you, uncle? Why are you so worried?","Нужно уважение, и они мне его окажут. Что на тебя нашло, дядя? Почему ты так тревожишься?",ai,,A8B661E84A937EC487C3A08B9F51855A
 Fine - but I won't make polite conversation. They need to know who's in charge.,"Ладно, но вежливые беседы вести не буду. Они должны знать, кто здесь главный.",ai,,3E46BD6145B4FD2CF3409C9D9C644CA5
 "...Well, I've been thinking. About all of this. With Carlo gone, well - I find myself in a peculiar situation.",...Я тут думал. Обо всём этом. Без Карло я оказался в довольно странном положении.,ai,,5350226940345F1ADB7CABB5344368FE
@@ -588,12 +588,12 @@ Does it matter? He's gone. It's over.,Какая разница? Его боль
 I...very well. Can I ask why not?,Я... хорошо. Можно спросить почему нет?,ai,,DFCAAD39432F72C2409A369DDEC9B1E6
 There's nothing to congratulate me for. I wanted change.,Меня не с чем поздравлять. Я хотела перемен.,ai,,B9A8B24F4597996456A197B9D091A04F
 I'm just not in the mood.,Мне просто не до этого.,ai,,59114F4946A13B0BFC69CA9B8F6896E8
-All I wanted was freedom. I wanted to choose things for myself.,"Всё, чего я хотела, — свободы. Хотела сама выбирать.",ai,,D6432C214D0644F94CE33595BF86F215
+All I wanted was freedom. I wanted to choose things for myself.,"Всё, чего я хотела, - свободы. Хотела сама выбирать.",ai,,D6432C214D0644F94CE33595BF86F215
 "And you got it. If nothing else, you have the power to make change. Don't you?",И ты её получила. Как минимум у тебя есть власть менять. Разве нет?,ai,,B7D8A03B4B425C30D78A62A7A996E67C
 "I gained it on their terms. Call me cynical, but that doesn't feels like change to me.","Я получила её на их условиях. Назови меня циником, но на перемены это не похоже.",ai,,73A978174887EFA01C65F69A2691530C
 I suppose I thought it would feel differently.,"Я думала, это будет ощущаться иначе.",ai,,F6DC269344F3549A956AD39C1D75FDD2
 Of course. Is there anything else you need?,Конечно. Тебе ещё что-нибудь нужно?,ai,,D4B6B07E41447241E99390B0C0D5BC19
-Let the rest of the family know that I'm in charge now.,"Сообщи остальным в семье, что теперь главная — я.",ai,,B1F1AF374DF823A1EA75398DEEF0C7BB
+Let the rest of the family know that I'm in charge now.,"Сообщи остальным в семье, что теперь главная - я.",ai,,B1F1AF374DF823A1EA75398DEEF0C7BB
 I'd like a moment to myself.,Мне нужна минута наедине с собой.,ai,,39C983524964CEEF1E71BAB124DFB3D5
 I'm fine. What about you?,Я в порядке. А ты?,ai,,DE60D35443F78474FEACD9B842FA817D
 "But now you can, can't you?","Но теперь можешь, разве нет?",ai,,5B3513E54B019A11667E86A4715E49A9
@@ -626,14 +626,14 @@ What can I say? I'm full of surprises.,Что поделать? Я полна с
 "Desperate times, uncle.","Отчаянные времена, дядя.",ai,,6B8B3EEF4F5DD67489001BB66F4E340E
 It surprised me that you thought you'd just...talk to him. I had expected something else. I think.,"Меня удивило, что ты решила просто... поговорить с ним. Я ждал чего-то другого. Кажется.",ai,,0314E84A4047D2D01ED86A847CBC335F
 Sorry to disappoint.,"Извини, что разочаровала.",ai,,865B946749A2569FE0AF98BCF51FE387
-I'm not a fool. Brute force isn't the only way of getting what you want.,Я не дура. Грубая сила — не единственный способ получить своё.,ai,,CBBDEE564C607C5FCBA0B6A8FACBF2C1
+I'm not a fool. Brute force isn't the only way of getting what you want.,Я не дура. Грубая сила - не единственный способ получить своё.,ai,,CBBDEE564C607C5FCBA0B6A8FACBF2C1
 Like that? [Gesture to the office],Вот так? [Указать на кабинет],ai,,9966C7204727E02F9DF9619AA07B2C60
 You expected me to kill him.,"Ты ждал, что я его убью.",ai,,410FECFA4E5F4E9ACBA5F98FA4F53E6E
 I was just...surprised. Surprised when you said you planned on leaving. It didn't seem like you.,"Я просто... удивился. Удивился, когда ты сказала, что собираешься уйти. На тебя не похоже.",ai,,536DB04C45FD4A26344D80A4BD99C0A0
 "Well, if it's any consolation, it doesn't seem like I'm going to be going anywhere now.","Что ж, если тебе это в утешение, похоже, теперь я никуда не уйду.",ai,,5E391D0C49E9147EA1CA62864E459839
 It seemed right at the time.,Тогда это казалось правильным.,ai,,8BA73C30470847E5C24E1483464AC467
 You expected me to change my mind.,"Ты ждал, что я передумаю.",ai,,640650914855DCBE21F78898514BFE45
-[Gesture to the office] But this does?,[Указать на кабинет] А это — похоже?,ai,,D69F72EA4F585604BC84818383B91D90
+[Gesture to the office] But this does?,[Указать на кабинет] А это - похоже?,ai,,D69F72EA4F585604BC84818383B91D90
 "This plan of yours...well, it didn't surprise me.",Этот твой план... он меня не удивил.,ai,,2DA4E1604EC4757EBDE82E888D10EE6F
 [Gesture towards the office] But that did?,[Указать на кабинет] А это удивило?,ai,,07E413604BBC6360AD857CB0BDF8939C
 You were certain I would kill him.,"Ты был уверен, что я его убью.",ai,,4BC779894CEBEB180D9F1EAA9B8ACFF9

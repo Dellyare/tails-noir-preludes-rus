@@ -21,7 +21,7 @@ You chose to be logical.,Ты решила быть логичной.,ai,,B49A69
 Lukas sees your point.,"Лукас понимает, о чём ты.",ai,,DD8CFC5847AB0B3E4F5242B99E8F6F86
 Lukas sees your point.,"Лукас понимает, о чём ты.",ai,,03A5896B443398C1897E36A1DE384955
 Next,Далее,ai,,09159EE84E089C50963344B493A8D6BF
-"Done? Alright - tell me about the fire. There were two calls about it, right? Where did it start?","Закончил? Хорошо — расскажи мне о пожаре. Было два вызова, верно? Где он начался?",ai,,3342C95942DDB88904FFD2B5D97AE0E7
+"Done? Alright - tell me about the fire. There were two calls about it, right? Where did it start?","Закончил? Хорошо - расскажи мне о пожаре. Было два вызова, верно? Где он начался?",ai,,3342C95942DDB88904FFD2B5D97AE0E7
 Not sure. Somewhere below the third floor.,Не уверен. Где-то ниже третьего этажа.,ai,,96618BDA44CE6A24EB5854BE77DF9F0A
 In Stone's apartment.,В квартире Стоуна.,ai,,ACD259B64BE5F0270D3C6AA4B93AFEAF
 There's no way to be sure.,Невозможно быть уверенным.,ai,,952BBC8B49CAEFAB7159B692B772C997
@@ -54,7 +54,7 @@ What about you? What do you make of it?,А как насчет тебя? Что 
 "I know, honey. I'm sorry. Are you doing alright? All of this...it's a lot, isn't it?","Я знаю, дорогая. Мне жаль. Ты в порядке? Все это... это тяжело, да?",ai,,A056345343C60D9CCBE7759879849E78
 It is. It's heavy.,Да. Это тяжело.,ai,,CB2AD89546B55FF76664D8BBEAC2A0BF
 It's fine. I've seen worse.,Все в порядке. Я видел и хуже.,ai,,54F8BE9A4DE9CDF11361C195A21A4E6C
-I- I don't know. Some of this stuff is a little iffy. I'll do my best to check things at the stations - some of this doesn't check out at all. I hope it's just mistakes. They have to be.,"Я... не знаю. Некоторые вещи здесь немного сомнительны. Я сделаю все возможное, чтобы проверить данные на станциях — некоторые вещи вообще не сходятся. Надеюсь, это просто ошибки. Они должны быть ошибками.",ai,,8BADC12B4737E5555282C9A708EB62AE
+I- I don't know. Some of this stuff is a little iffy. I'll do my best to check things at the stations - some of this doesn't check out at all. I hope it's just mistakes. They have to be.,"Я... не знаю. Некоторые вещи здесь немного сомнительны. Я сделаю все возможное, чтобы проверить данные на станциях - некоторые вещи вообще не сходятся. Надеюсь, это просто ошибки. Они должны быть ошибками.",ai,,8BADC12B4737E5555282C9A708EB62AE
 And if they're not?,А если это не ошибки?,ai,,3E9FDD7F4EAD031D393E1CA48E4AD470
 Let's hope for the best.,Будем надеяться на лучшее.,ai,,ED153D0C4D881B2084DE3080E386FFF6
 Will they let you do that?,Они позволят тебе это сделать?,ai,,ECD6F2524A4C919FE70E898772F8D9E4
@@ -62,19 +62,19 @@ I think this is an awful case. I think it's horrible. But I also think you're lo
 "I'm just...I'm angry, I suppose.","Я просто... я злюсь, наверное.",ai,,74DD215A41E87D32F17233B65970C3EC
 "I blame those cops, Lukas. This wasn't right.","Я виню этих копов, Лукас. Это было неправильно.",ai,,BFB9EE1B4F72C49A2D8241A51FB3729B
 It's not about blame. It's about those officers being held accountable for what they did.,"Дело не в обвинениях. Дело в том, чтобы эти офицеры были привлечены к ответственности за то, что они сделали.",ai,,A1FD619B49DD23969962E9B292FBB07A
-I don't know. It might not be as clear as I thought it was - but I still think you're jumping to conclusions.,"Я не знаю. Возможно, это не так ясно, как я думал, — но я все же думаю, что ты делаешь поспешные выводы.",ai,,2D847DBA441074CFAAA531AB62094C53
+I don't know. It might not be as clear as I thought it was - but I still think you're jumping to conclusions.,"Я не знаю. Возможно, это не так ясно, как я думал, - но я все же думаю, что ты делаешь поспешные выводы.",ai,,2D847DBA441074CFAAA531AB62094C53
 "You can tell that something's up though, can't you?","Но ты же чувствуешь, что что-то не так, да?",ai,,DE1056834C789468F6821B907D6C3594
 "What conclusions, Lukas? What else do you need?","Какие выводы, Лукас? Что тебе еще нужно?",ai,,BC330C6844EAE4F7559350B390F6F504
 Glad to hear I'm not completely crazy.,"Рад слышать, что я не совсем сошел с ума.",ai,,278FACDF4E0D046C54D1DEAF35AFA65A
 "I- Yes. Well, I suppose so. I'm not sure. I don't like it, that's for sure. I'll talk to people at the station. Get them to check for errors. It happens sometimes, as much as I don't like to admit it.","Я... Да. Ну, наверное, так. Не уверен. Мне это не нравится, это точно. Я поговорю с людьми на станции. Попрошу их проверить на ошибки. Иногда такое случается, как бы мне не хотелось это признавать.",ai,,28F8B3BC4EEFA53BD9E65991C597D8D7
-Lukas - what if they're not mistakes?,Лукас — а если это не ошибки?,ai,,1DCA3998404D47A8823E2ABF36608766
+Lukas - what if they're not mistakes?,Лукас - а если это не ошибки?,ai,,1DCA3998404D47A8823E2ABF36608766
 Let's hope for the best.,Будем надеяться на лучшее.,ai,,D53283A74F2E94B176E8A695CB1A71D0
 Will they let you do that?,Они позволят тебе это сделать?,ai,,1698EB794210F38918B3608743A14EF8
-"...Listen, Renee - I know this is an awful case. I know it's horrifying. I also know that people tend to look for someone to blame in these situations, and oftentimes, that someone is us. The police.","...Слушай, Рене — я знаю, что это ужасное дело. Я знаю, что это ужасно. Я также знаю, что в таких ситуациях люди склонны искать кого-то, кого можно обвинить, и часто этим кем-то оказываемся мы. Полиция.",ai,,76D13E5A453777CFD33331A3D99EB42E
+"...Listen, Renee - I know this is an awful case. I know it's horrifying. I also know that people tend to look for someone to blame in these situations, and oftentimes, that someone is us. The police.","...Слушай, Рене - я знаю, что это ужасное дело. Я знаю, что это ужасно. Я также знаю, что в таких ситуациях люди склонны искать кого-то, кого можно обвинить, и часто этим кем-то оказываемся мы. Полиция.",ai,,76D13E5A453777CFD33331A3D99EB42E
 "I'm just...I'm angry, I suppose.","Я просто... я злюсь, наверное.",ai,,0E05D5514B097C9DEA16CCB3C312B509
 "Let me make this perfectly clear, then: I blame the police.",Позволь мне сказать это предельно ясно: я виню полицию.,ai,,F0A940B14057260B6A72448388E504B9
 "And maybe, sometimes, that's warranted?","И, возможно, иногда это оправдано?",ai,,7A70B913402C3F7AF1FE77BB5AC7099E
-"I get what you're saying, I really do. Some of this doesn't check out - but I still think you're jumping to conclusions.","Я понимаю, о чем ты говоришь, правда понимаю. Некоторые вещи не сходятся — но я все же думаю, что ты делаешь поспешные выводы.",ai,,E75C7A8148E2FB47ECC91F8B7BB8F716
+"I get what you're saying, I really do. Some of this doesn't check out - but I still think you're jumping to conclusions.","Я понимаю, о чем ты говоришь, правда понимаю. Некоторые вещи не сходятся - но я все же думаю, что ты делаешь поспешные выводы.",ai,,E75C7A8148E2FB47ECC91F8B7BB8F716
 "You can tell that something's up though, can't you?","Но ты же чувствуешь, что что-то не так, да?",ai,,806405034231A25DCC7A8184BDB08FC2
 "What conclusions, Lukas? What else do you need?","Какие выводы, Лукас? Что тебе еще нужно?",ai,,6D062B2A444E3BD338FC1FADB602111D
 Glad to hear I'm not completely crazy.,"Рад слышать, что я не совсем сошел с ума.",ai,,FE865B6049580DCCBCAD628326225C79
@@ -90,7 +90,7 @@ The first call mentions smoke.,Первый вызов упоминает дым
 Stone had already set fire to something in his apartment.,Стоун уже поджег что-то в своей квартире.,ai,,974F81604087C869FE74B2B45C7B76A5
 There was soot and ashes all over Stone's kitchen.,Вся кухня Стоуна была в саже и пепле.,ai,,16F510A74D1D8F3778BA769858BFFE0E
 "Maybe, sometimes. But it's not an easy job.These are people that put their lives on the line every single day, and get very little thanks for it. ","Может быть, иногда. Но это нелегкая работа. Это люди, которые каждый день рискуют своей жизнью и получают очень мало благодарности за это.",ai,,49A2C5344A5F91DA89D393BBA45CE7E2
-That fire - they could have stopped it.,Тот пожар — они могли его остановить.,ai,,B2DFD3CC4A2D87BCB6DD1AA1622B7A20
+That fire - they could have stopped it.,Тот пожар - они могли его остановить.,ai,,B2DFD3CC4A2D87BCB6DD1AA1622B7A20
 Stone got even less.,Стоун получил еще меньше.,ai,,E2AA37EE4CB30AB79D1F9CB7B760E71D
 "And how do we know that, again?",И как мы это снова узнаем?,ai,,ED89A5AE470ECDD603C7C5A28EDC9831
 "The building wasn't on fire when the cops showed up, Lukas.","Здание не горело, когда прибыли копы, Лукас.",ai,,7A181DC7462C2CBF0FE1378558846972
@@ -114,13 +114,13 @@ Maybe. Or maybe no one wanted to disprove them.,"Может быть. Или, м
 "Fair enough. Alright, at least we have a general timeframe when the fire started. Anything else that comes to mind about it?","Справедливо. Ладно, по крайней мере, у нас есть общее время начала пожара. Что-то еще приходит на ум?",ai,,14761A3E400B7A5089EC08BE3B3728B7
 There was one thing...,Была одна вещь...,ai,,2AD63A3D466CCA2358D938BF23C08046
 Nothing that comes to mind. Let's move on.,Ничего не приходит на ум. Давай двигаться дальше.,ai,,C55DBA904EBD3051A54BA3B57EF7380F
-"It's alright. This kind of investigative work is hard. Before we move on from the fire, was there anything else?","Все в порядке. Такого рода расследование — это тяжело. Прежде чем мы перейдем от пожара, было ли что-то еще?",ai,,D42FC1614708DD690DD508BEBB3D4795
+"It's alright. This kind of investigative work is hard. Before we move on from the fire, was there anything else?","Все в порядке. Такого рода расследование - это тяжело. Прежде чем мы перейдем от пожара, было ли что-то еще?",ai,,D42FC1614708DD690DD508BEBB3D4795
 There was one thing...,Была одна вещь...,ai,,6874A8BE44BB50D0FDF19A88F1BFFA0E
 Nothing that comes to mind. Let's move on.,Ничего не приходит на ум. Давай двигаться дальше.,ai,,B600955B47291935FCD021A3CFA30D35
 Are you getting anywhere?,Ты продвигаешься?,ai,,77E6348C485D1F4C0B2BD7B7FAC69725
 It's a lot. I need a corkboard.,Это много. Мне нужна пробковая доска.,ai,,615FC1354E8FB7182A7BAB8F69CFBE03
 "I think I'm getting a pretty decent picture of things, yeah.","Думаю, у меня складывается довольно ясная картина, да.",ai,,567A30794A30F84996259CB8482BCBE1
-"Give me a break, Renee. You don't believe that. Come on, now - anything else about the fire that stands out?","Дай мне передышку, Рене. Ты же не веришь в это. Давай, теперь — что-то еще о пожаре, что выделяется?",ai,,E403B03540D08E5CAD58169C89C66633
+"Give me a break, Renee. You don't believe that. Come on, now - anything else about the fire that stands out?","Дай мне передышку, Рене. Ты же не веришь в это. Давай, теперь - что-то еще о пожаре, что выделяется?",ai,,E403B03540D08E5CAD58169C89C66633
 There was one thing...,Была одна вещь...,ai,,316FDBDB462BA1D3A5A5A5A49BD6E4B4
 Nothing that comes to mind. Let's move on.,Ничего не приходит на ум. Давай двигаться дальше.,ai,,682E570D404A21BCCCEA349DE358C8E1
 Yeah?,Да?,ok,,CDDC83614E7BEA9F58A772B4C1A3B85A
@@ -133,7 +133,7 @@ Nothing. Nevermind.,Ничего. Неважно.,ai,,27F499FE47BA18CC536E7A9F2E
 I don't like it. I don't like any of it.,Мне это не нравится. Мне не нравится ничего из этого.,ai,,85BC394A4C7B0B0B57CD06B291DFAEE9
 "And what about the fire, Lukas?","А как насчет пожара, Лукас?",ai,,0565C1024973C2EEA9D188844DD7A3EB
 "Did he, Lukas? Do you really think so?","Неужели, Лукас? Ты действительно так думаешь?",ai,,D8F76C5448914545F3209AB7DBE20D11
-"Okay - I know you're interested in this part, so let's go over it. Tell me about when the cops showed up.","Хорошо — я знаю, что тебя интересует эта часть, так что давай разберем. Расскажи мне, когда приехали копы.",ai,,4E4F09014F54033B4A4814BA4D2407FA
+"Okay - I know you're interested in this part, so let's go over it. Tell me about when the cops showed up.","Хорошо - я знаю, что тебя интересует эта часть, так что давай разберем. Расскажи мне, когда приехали копы.",ai,,4E4F09014F54033B4A4814BA4D2407FA
 Stone didn't want to let them in.,Стоун не хотел их впускать.,ai,,07D2412E4C118EFE07A3218C15F47288
 "I'm not entirely sure how they phrased it, but maybe they focused on something else during the call? Besides, it's not uncommon for us to be sent out to deal with small fires every once in a while.","Я не совсем уверен, как они это сформулировали, но, возможно, они сосредоточились на чем-то другом во время вызова? Кроме того, не редкость, что нас отправляют разбираться с небольшими пожарами время от времени.",ai,,C1C78FA94600D71DBA2207B0B9B82405
 So much for public safety spending.,Вот и все расходы на общественную безопасность.,ai,,8FF32B2F4E4B1D4CBA7E66B607E69520
@@ -173,7 +173,7 @@ Concern? Yes. The rest? I'm not so sure.,Беспокойство? Да. Ост�
 "That certainly feels like reason enough. Especially if Stone was refusing to let them in. Sounds pretty clear-cut, right?","Это определенно кажется достаточной причиной. Особенно если Стоун отказывался их впускать. Звучит довольно ясно, да?",ai,,3720FCCC46EE7BD3BCFEC98D82C2EA85
 I suppose it does.,"Наверное, так.",ai,,9F1D26A144E007C856361282E500848A
 I'm not so sure.,Я не уверен.,ai,,0B03C3D5421EA4E15AD54D8C315F61B2
-"Like I said, Renee, most people are a little wary of the police showing up. Makes them worry they've done something wrong - and if they have, they tend to get pretty worked up.","Как я уже сказал, Рене, большинство людей немного настороженно относятся к появлению полиции. Это заставляет их волноваться, что они сделали что-то не так — и если они сделали, они обычно довольно сильно нервничают.",ai,,E2DA88424D3BBAE1D5C97D8A4B185225
+"Like I said, Renee, most people are a little wary of the police showing up. Makes them worry they've done something wrong - and if they have, they tend to get pretty worked up.","Как я уже сказал, Рене, большинство людей немного настороженно относятся к появлению полиции. Это заставляет их волноваться, что они сделали что-то не так - и если они сделали, они обычно довольно сильно нервничают.",ai,,E2DA88424D3BBAE1D5C97D8A4B185225
 You don't think that was reason enough?,"Ты не думаешь, что этого было достаточно?",ai,,A723C29A43F46701D6DB25AD4F15F3F6
 I suppose so.,"Наверное, так.",ai,,531335DF428C8CFCA5C2ACAEDB0D513B
 No? How come?,Нет? Почему?,ai,,81FF664643D050BBC310F0852B73CB24
@@ -212,13 +212,13 @@ He was hostile.,Он был враждебен.,ai,,BECA47F342DB80B902DF25AF7733
 "He was agitated, but cooperated.","Он был взволнован, но сотрудничал.",ai,,A5C80CA24AD0365DFC5487917934FD35
 Stone remained calm.,Стоун оставался спокойным.,ai,,D1714F2A48C98E838A523898EA9526CF
 One sec. Checking my notes. [Open terminal],Секунду. Проверяю записи. [Открыть терминал],ai,,2DAC24D34BEA09C0BC6CD0A010E9EC17
-Forced him? That sounds strange - are you sure you're remembering that right?,"Заставили его? Это звучит странно — ты уверен, что правильно помнишь?",ai,,648A56C64FEB727BAD87418F79C2A116
+Forced him? That sounds strange - are you sure you're remembering that right?,"Заставили его? Это звучит странно - ты уверен, что правильно помнишь?",ai,,648A56C64FEB727BAD87418F79C2A116
 I wouldn't put it past them.,Я бы не исключал этого.,ai,,A62B2B1C43496BE9A7EA4EBDB0D79997
 Maybe not.,"Может, и нет.",ai,,B04F1C95468FF12FE7292EA39FBDD037
 Lucky? I just look good in a uniform.,Повезло? Я просто хорошо выгляжу в форме.,ai,,5B013A9E44F20EF7F81A1A87681DE291
 [Squint] Sure.,[Прищуриться] Конечно.,ai,,5121EAE84AFCA10485DCB88203083BDB
 "Nah, you despite your uniform.","Нет, ты ненавидишь свою форму.",ai,,F010F3FB49FFE269FFF945BB4DA47EA2
-"Come on, Renee - if there was reason to get in, they had to, somehow. Protocol's usually to breach the door, though. How did Stone react to this?","Давай, Рене — если была причина войти, им пришлось как-то это сделать. Обычно протокол — взломать дверь. Как Стоун на это отреагировал?",ai,,8BB168D745E219D5085EA5A5A1FA5815
+"Come on, Renee - if there was reason to get in, they had to, somehow. Protocol's usually to breach the door, though. How did Stone react to this?","Давай, Рене - если была причина войти, им пришлось как-то это сделать. Обычно протокол - взломать дверь. Как Стоун на это отреагировал?",ai,,8BB168D745E219D5085EA5A5A1FA5815
 With hostility.,С враждебностью.,ai,,F8CD8C334F99E6FB5372949C753EF991
 "He wasn't happy about it, but he cooperated.","Ему это не понравилось, но он сотрудничал.",ai,,3B2A0CD8487D08A2DD821FB92FC87AF2
 Stone remained calm.,Стоун оставался спокойным.,ai,,754985FE4C49C46A1941B7971EBC4DBA
@@ -228,26 +228,26 @@ Stone was hostile.,Стоун был враждебен.,ai,,2A7B1A26494885C7028
 "Stone was agitated, but cooperated.","Стоун был взволнован, но сотрудничал.",ai,,13907C084C0BD854842CF7A8DCEFDD4E
 Stone remained calm.,Стоун оставался спокойным.,ai,,190E7A064B587E920D24ABA19750F5D6
 One sec. Checking my notes. [Open terminal],Секунду. Проверяю записи. [Открыть терминал],ai,,B6089CB14F868242BFCFA78E33ED7894
-"I- Renee, I don't think they would lie on an official police report. At most, maybe they misheard something. Either way - they got in, right?","Я... Рене, я не думаю, что они стали бы лгать в официальном полицейском отчете. В крайнем случае, может, они что-то не так услышали. В любом случае — они зашли внутрь, да?",ai,,D8E3F7F34EBE982D4E11B99AF1558A92
+"I- Renee, I don't think they would lie on an official police report. At most, maybe they misheard something. Either way - they got in, right?","Я... Рене, я не думаю, что они стали бы лгать в официальном полицейском отчете. В крайнем случае, может, они что-то не так услышали. В любом случае - они зашли внутрь, да?",ai,,D8E3F7F34EBE982D4E11B99AF1558A92
 They did.,Зашли.,ai,,299DE3F34BB136DCE7590AAA8A5E10CA
 "It was a tense situation, so I suppose it's possible. Either way, it's better to investigate than to ignore a potential situation. They got inside eventually, right?","Это была напряженная ситуация, так что, наверное, это возможно. В любом случае, лучше расследовать, чем игнорировать потенциальную ситуацию. Они в конце концов зашли внутрь, да?",ai,,5FFE54AD435792B7E012FB83D6801DB7
 They did.,Зашли.,ai,,0FF8EAEA47C46F63DD17798135BD5E10
-"I suppose so. Sometimes, they have to. There's a lot of- well, there's a lot of crime in that borough. You...Hm. It's possible they acted based on assumptions, yeah. Either way - they got inside, right?","Наверное, так. Иногда им приходится. Там много... ну, в том районе много преступлений. Ты... Хм. Возможно, они действовали, исходя из предположений, да. В любом случае — они зашли внутрь, да?",ai,,1CA5FE1C493D895EA9E0FAAFD282D939
+"I suppose so. Sometimes, they have to. There's a lot of- well, there's a lot of crime in that borough. You...Hm. It's possible they acted based on assumptions, yeah. Either way - they got inside, right?","Наверное, так. Иногда им приходится. Там много... ну, в том районе много преступлений. Ты... Хм. Возможно, они действовали, исходя из предположений, да. В любом случае - они зашли внутрь, да?",ai,,1CA5FE1C493D895EA9E0FAAFD282D939
 "I guess they did, yeah.","Думаю, да.",ai,,F12280EF424EF3D781DFDC809A21EC5C
 "I get your point, but sometimes you have to make sure. People depend on us doing so. In this case, it was enough for the officers to enter the apartment, right?","Я понимаю твою точку зрения, но иногда нужно убедиться. Люди зависят от этого. В данном случае этого было достаточно, чтобы офицеры вошли в квартиру, да?",ai,,73106DF14409E52EF1B01AA2C1A71E52
 So it would seem.,Похоже на то.,ai,,E337C9E34F1D72256154E6AACBA0DF42
 Yeah.,Да.,ok,,1E6E0DD240759CD494304CBE3BC1445D
-"Sometimes our fields overlap, Renee. I know some cops with a fire extinguisher in the patrol car. Anyway - the officers make their way inside, correct?","Иногда наши области пересекаются, Рене. Я знаю некоторых копов с огнетушителем в патрульной машине. В любом случае — офицеры заходят внутрь, верно?",ai,,6F888440447EEF21816EDAA844986F77
+"Sometimes our fields overlap, Renee. I know some cops with a fire extinguisher in the patrol car. Anyway - the officers make their way inside, correct?","Иногда наши области пересекаются, Рене. Я знаю некоторых копов с огнетушителем в патрульной машине. В любом случае - офицеры заходят внутрь, верно?",ai,,6F888440447EEF21816EDAA844986F77
 Correct.,Верно.,ok,,04611840438C2880FECACCA632FE7233
 "That checks out, yeah. In what way?","Это сходится, да. В каком смысле?",ai,,22D17F1647501AAA9560DD8280959D3B
 He insulted them.,Он оскорблял их.,ai,,FA2FA4124F6DBFDFDE8CB8A9E7A9B782
 He threatened them.,Он угрожал им.,ai,,C5C161EB4FD771169D7F06A0FE2EF5DE
 He tried to keep them from investigating the apartment.,Он пытался помешать им осмотреть квартиру.,ai,,694B448A4FB811BA9902039A2AFAC1B9
-"He did? Then how come - well, you know?","Он? Тогда как же — ну, ты знаешь?",ai,,4CAC49D046CE5D585963DCA3806CB9D1
+"He did? Then how come - well, you know?","Он? Тогда как же - ну, ты знаешь?",ai,,4CAC49D046CE5D585963DCA3806CB9D1
 Maybe something happened that caused him to snap.,"Может, что-то произошло, что заставило его сорваться.",ai,,CDE5DE3F405EE6888C7B6E9DB0AB2A13
 [Shrug] Something got to him.,[Пожать плечами] Что-то на него подействовало.,ai,,0267F82E4F43C3FCFE5F26945EE94EAD
 That's the thing. The stories don't add up.,В этом-то и дело. Истории не сходятся.,ai,,C3864FA94FF6F325B27704B8FC09F01A
-Wait - are you sure about that? That doesn't sound right.,Подожди — ты уверен в этом? Это звучит неправильно.,ai,,CEDBB3924B0FA5691D1500A5F8541471
+Wait - are you sure about that? That doesn't sound right.,Подожди - ты уверен в этом? Это звучит неправильно.,ai,,CEDBB3924B0FA5691D1500A5F8541471
 I'm sure.,Уверен.,ai,,FB66BBEA4912E2D46525C998B33214E7
 "I'm not, really. But I have a hunch that's what really happened.","Не совсем. Но у меня есть предчувствие, что это действительно произошло.",ai,,BA241F4440CE63FDD961D3B059BCDE10
 "I know you love it. Anyway, you missed your shot today. What's got you so busy?","Я знаю, тебе это нравится. В любом случае, ты сегодня упустил свой шанс. Что тебя так заняло?",ai,,B21D45C24EB45E05F372F98E66572763
@@ -263,7 +263,7 @@ He was wielding a weapon.,Он был вооружен.,ai,,1F78FC9C45032B6F1649
 "Not precisely, no.","Не совсем, нет.",ai,,33684421478C6F0E5F7731B489000A4E
 Sort of. But the reports make no sense.,Вроде того. Но отчеты не имеют смысла.,ai,,F8C6FC2C4FA40CF2CAAB548BC7D893C4
 "Oh? Regardless of what happened, obstruction of an investigation is grounds for a charge as well. Are you sure he was actively hindering them?","О? Независимо от того, что произошло, препятствование расследованию также является основанием для обвинения. Ты уверен, что он активно мешал им?",ai,,BF25F50A4EAC80E92DF85E87ADDB4A1F
-Maybe not - but he didn't like them snooping around.,"Может, и нет — но ему не нравилось, что они копаются.",ai,,B38DBF2749336BEC79FE1EAF9262B978
+Maybe not - but he didn't like them snooping around.,"Может, и нет - но ему не нравилось, что они копаются.",ai,,B38DBF2749336BEC79FE1EAF9262B978
 "I think so, yes.","Думаю, да.",ai,,C820E9BA4204D228F205FE98AE640981
 "Oh, right...I think I remember this part: the first officer goes into the kitchen, hears a yell, and comes back. Do we know precisely what happened in the hall during that time?","О, точно... Кажется, я помню эту часть: первый офицер заходит на кухню, слышит крик и возвращается. Мы точно знаем, что произошло в коридоре в это время?",ai,,558481EB4843C26D5E7E2FA1FDBEEB37
 Stone attacked the second officer.,Стоун напал на второго офицера.,ai,,F493BD1C41DC820A99C15FA385806091
@@ -287,7 +287,7 @@ What about her?,А что насчет нее?,ai,,823F166943BB7860A2EC1887141A4
 I think she attacked the officer.,"Думаю, она напала на офицера.",ai,,B240602948CB9E148444E6B89DC186B5
 There's very little in the report about her.,В отчете очень мало информации о ней.,ai,,9937011F45980DC74FAE47BC453CFD09
 I think she followed the officer into the kitchen.,"Думаю, она последовала за офицером на кухню.",ai,,C88CAEE94A83ED3B5BE0D49C480F07E3
-"Alright, alright - I won't start. So is that what I think it is?","Ладно, ладно — я не начну. Так это то, о чем я думаю?",ai,,58D98433427BAD5BA9BDA4AEA2E98ED7
+"Alright, alright - I won't start. So is that what I think it is?","Ладно, ладно - я не начну. Так это то, о чем я думаю?",ai,,58D98433427BAD5BA9BDA4AEA2E98ED7
 The fire case? Yeah.,Дело о пожаре? Да.,ai,,F0A8E6594F41386E0FE878A9C810BE57
 What do you think it is?,А что ты думаешь?,ai,,5CB76943404D675401ABD0894300332F
 "Are you sure? Was she subdued as well? You're not getting things mixed up, are you?",Ты уверен? Ее тоже задержали? Ты ничего не путаешь?,ai,,F3FF5A0B4DF79606BE1521992F61DD55
@@ -296,7 +296,7 @@ I'm pretty certain she did.,"Я почти уверен, что она это с
 Oh? Why?,О? Почему?,ai,,F63E98E44B0DC572A127DBB7F3F5EE0E
 Just a hunch.,Просто предчувствие.,ai,,EDEA51284B9DDB0D2AF4A986B737191D
 The shooting seemed to take place without her making any attempt to intervene.,Стрельба произошла без ее попытки вмешаться.,ai,,A4F75CB74B337382BC9DEBA0F77ED0B8
-"I don't follow, Renee - what doesn't add up, then?","Я не понимаю, Рене — что не сходится?",ai,,5B6F90C54D1657D2E675688BDC52F7FE
+"I don't follow, Renee - what doesn't add up, then?","Я не понимаю, Рене - что не сходится?",ai,,5B6F90C54D1657D2E675688BDC52F7FE
 I think the reports omit her for a reason. I don't trust them.,"Думаю, отчеты упускают ее не просто так. Я не доверяю им.",ai,,E13E0FC94ADEB87401A9968E736E843D
 "Judging by the report, she was in the hall when Stone was shot.","Судя по отчету, она была в коридоре, когда Стоуна застрелили.",ai,,BAFB8FB64B160BCE5BD778A0FB6E6759
 "It's better if he didn't obstruct them. Makes less sense that he'd start a fight in that case, though. Then what happened?","Лучше, если бы он не мешал им. Это делает менее логичным, что он начал бы драку в таком случае. Тогда что произошло?",ai,,1C1F12224A4DF46A6E67A3B1062B0BA8
@@ -313,7 +313,7 @@ It's just a lot. Lots to think about.,Это просто много. Много
 They investigated the kitchen.,Они осмотрели кухню.,ai,,16B9807140603F306FF02687BB912856
 You know. The killing.,Ты знаешь. Убийство.,ai,,3C03F3A2425CE5ADF7DAD9B0080E3279
 What do you mean? Didn't he attack them?,Что ты имеешь в виду? Разве он не напал на них?,ai,,570550194F087843CA4155ACBA963D6B
-"So how? One report states he had a blunt instrument, and another that it was a sharp object.","Так как? В одном отчете сказано, что у него был тупой предмет, а в другом — что это был острый.",ai,,F0FBB85A4A659BAAE50CF586271976A3
+"So how? One report states he had a blunt instrument, and another that it was a sharp object.","Так как? В одном отчете сказано, что у него был тупой предмет, а в другом - что это был острый.",ai,,F0FBB85A4A659BAAE50CF586271976A3
 Not sure. The detective that arrived later on remarked that both officers seemed fine.,"Не уверен. Детектив, который прибыл позже, отметил, что оба офицера выглядели нормально.",ai,,EA6C73B64703B45879D4938930E6FC70
 "...Oh, right. I forgot about that part.","...О, точно. Я забыл об этой части.",ai,,6145DEAF4DE59E8E4ADD099270F6C84C
 "That'd certainly give them reason to draw on him, sure. Unfortunate as it is. Then what?","Это определенно дало бы им причину направить на него оружие, да. Как ни печально. Тогда что?",ai,,0EF8796A494E4486CAF478B8148B9B77
@@ -322,7 +322,7 @@ The cops investigated the kitchen.,Копы осмотрели кухню.,ai,,1
 Shame. Would have lent a little more insight into the situation. Then what?,Жаль. Это дало бы немного больше понимания ситуации. Тогда что?,ai,,BA91B16042F04423908F9FA79B436CED
 They investigate the kitchen.,Они осмотрели кухню.,ai,,CD0D4DCB48AEB9EDB665A7890C0EF340
 Stone died.,Стоун умер.,ai,,EAA8C6334F8F01C214A1F48E50820396
-Found what you needed? Okay - so when did the fire start?,"Нашел то, что нужно? Хорошо — так когда начался пожар?",ai,,5BDF05E94E63D66200088EBAB0F1095E
+Found what you needed? Okay - so when did the fire start?,"Нашел то, что нужно? Хорошо - так когда начался пожар?",ai,,5BDF05E94E63D66200088EBAB0F1095E
 "Before the first call, at 11:02 AM.","До первого вызова, в 11:02 утра.",ai,,2D58614244ECD31B457262A93FC63E00
 "Before the second call, at 1:45 PM.","До второго вызова, в 13:45.",ai,,CA9A128A4BA69B1D21191CB27F4D4C21
 Can't help it. I'm an analogue kind of guy. You're my one guiding torch in a digital world. How did I get so lucky?,Ничего не могу поделать. Я человек аналоговый. Ты мой единственный маяк в цифровом мире. Как мне так повезло?,ai,,34FDC9DC451E70B981C126B2A42F38CE
@@ -331,9 +331,9 @@ You wouldn't stop asking.,Ты не переставал спрашивать.,a
 "Soon as I have that figured out, I'll let you know.","Как только разберусь, дам тебе знать.",ai,,C25051FA43578ADFEC64C09DCD01B08F
 "Actionable, but not cause to use force. Unless he was incredibly vile, I suppose. Then what happened?","Действительно, но не повод для применения силы. Если только он не был невероятно мерзким, наверное. Тогда что произошло?",ai,,BB048D1B4A010FEB285D16B6B9FCC616
 They investigate the kitchen.,Они осмотрели кухню.,ai,,73B95B044236EEAB79C050A796C92E93
-"Alright, if you say so - that doesn't make much sense to me, though. Anyway, then what happened?","Ладно, если ты так говоришь — но это не имеет для меня смысла. В любом случае, тогда что произошло?",ai,,8E67CE184D0F681D234D79A47D027A01
+"Alright, if you say so - that doesn't make much sense to me, though. Anyway, then what happened?","Ладно, если ты так говоришь - но это не имеет для меня смысла. В любом случае, тогда что произошло?",ai,,8E67CE184D0F681D234D79A47D027A01
 One of the cops goes to investigate the other room.,Один из копов пошел осмотреть другую комнату.,ai,,3A9E5B7A4A5374B26FE106B1E78DCD37
-"Listen, Renee, I understand wanting to see the best in people, but in this case, that gets us nowhere. Go on - what happened next?","Слушай, Рене, я понимаю желание видеть лучшее в людях, но в данном случае это ни к чему не приведет. Продолжай — что произошло дальше?",ai,,E6F29503496FCE0D59631180DF7778CD
+"Listen, Renee, I understand wanting to see the best in people, but in this case, that gets us nowhere. Go on - what happened next?","Слушай, Рене, я понимаю желание видеть лучшее в людях, но в данном случае это ни к чему не приведет. Продолжай - что произошло дальше?",ai,,E6F29503496FCE0D59631180DF7778CD
 The cops investigated the kitchen.,Копы осмотрели кухню.,ai,,C93265A64184A891C53C578B96857E7B
 "Really? Huh. Maybe they...Yeah. That does sound odd. Probably just a simple mistake in the testimony, though.","Правда? Хм. Может, они... Да. Это звучит странно. Наверное, просто ошибка в показаниях.",ai,,2F7D584B4513CA554E275983B4A6FECC
 Possibly.,Возможно.,ai,,5E6921F1499FB65B20D1219BB553422B
@@ -372,10 +372,10 @@ Sure.,Конечно.,ok,,5D1A0161413277639C6E719689A97CDC
 "Too true. Don't worry so much, alright?","Слишком верно. Не переживай так сильно, ладно?",ai,,5604CBB443F7B407BB9DA7AE435B0E77
 Sure.,Конечно.,ok,,417BEBDB46A3C5568E291893363633E6
 [Nod],[Кивок],ai,,BFA62D71481B06FD8030FDBCF848EFE3
-"Faulty is a strong word, Renee. There may be mistakes in there, sure, but they won't be errors of any significant magnitude. It's not going to change what happened, Renee. I'm sorry.","Ошибочный — это сильное слово, Рене. Там могут быть ошибки, конечно, но они не будут ошибками значительной величины. Это не изменит того, что произошло, Рене. Мне жаль.",ai,,10E692A34AD74954255F66AEB3BBC922
+"Faulty is a strong word, Renee. There may be mistakes in there, sure, but they won't be errors of any significant magnitude. It's not going to change what happened, Renee. I'm sorry.","Ошибочный - это сильное слово, Рене. Там могут быть ошибки, конечно, но они не будут ошибками значительной величины. Это не изменит того, что произошло, Рене. Мне жаль.",ai,,10E692A34AD74954255F66AEB3BBC922
 Yeah. I'm sorry too.,Да. Мне тоже жаль.,ai,,08D757354F3D348E113C03B96F858F7D
 [Say nothing],[Ничего не говорить],ai,,5F94F9A440AC33ECD3599D965FB155E4
-"Hey...let's just order dinner, alright? You've had a long day, I've had a long day - let's just step away from this for a bit. Okay?","Эй... давай просто закажем ужин, ладно? У тебя был долгий день, у меня был долгий день — давай просто отвлечемся от этого на время. Хорошо?",ai,,2F557BC149756696690D559B4C5457FB
+"Hey...let's just order dinner, alright? You've had a long day, I've had a long day - let's just step away from this for a bit. Okay?","Эй... давай просто закажем ужин, ладно? У тебя был долгий день, у меня был долгий день - давай просто отвлечемся от этого на время. Хорошо?",ai,,2F557BC149756696690D559B4C5457FB
 "Step away? No, Lukas. This is important.","Отвлечься? Нет, Лукас. Это важно.",ai,,185693124A03539A983F6A9F65E90F38
 "Sure. Yeah, alright.","Конечно. Да, ладно.",ai,,DDD34B0146046011F8E8BB8A1BF468F3
 "I don't know if I can, Lukas.","Не знаю, смогу ли я, Лукас.",ai,,F674C7D641EF4A3DA83FC6BD6411ADA6
@@ -387,7 +387,7 @@ Sure. I'd have some noodles.,Конечно. Я бы съел лапшу.,ai,,88
 [Nod],[Кивок],ai,,9E372A9F4F378626EB36C78BF02285B1
 [Say nothing],[Ничего не говорить],ai,,7F56EC7D40B0CE795EF114BBC156CBFE
 Okay. Thanks.,Ладно. Спасибо.,ai,,E9A60049475C772242459F8CEF3A555A
-"Listen - I'll go take care of dinner, and you focus on what you need to do. However I can help, I will. Alright?","Слушай — я позабочусь об ужине, а ты сосредоточься на том, что тебе нужно сделать. Как бы я ни мог помочь, я помогу. Ладно?",ai,,809452014FF2055A27B5798437701A68
+"Listen - I'll go take care of dinner, and you focus on what you need to do. However I can help, I will. Alright?","Слушай - я позабочусь об ужине, а ты сосредоточься на том, что тебе нужно сделать. Как бы я ни мог помочь, я помогу. Ладно?",ai,,809452014FF2055A27B5798437701A68
 Fine. Alright. Thanks.,Ладно. Хорошо. Спасибо.,ai,,586637CB40D1B1085C536E9613711762
 [Say nothing],[Ничего не говорить],ai,,ECA35268447B5647E6B76C9EC672558B
 [Nod],[Кивок],ai,,C123A07D4822DE04689D99BE54DDA868
@@ -396,16 +396,16 @@ He wanted something more basic.,Он хотел что-то более прос�
 """Edit guy."" It's editor, Lukas, and his name is Westley.","""Редактор."" Это редактор, Лукас, и его зовут Уэстли.",ai,,1DF9C6B74AFDBC3B73F3AA8BE23479A6
 Investigation's slow. I can't help but feel I'm missing a lot.,"Расследование идет медленно. Не могу избавиться от ощущения, что многое упускаю.",ai,,80F0779D4D40CEFFE8BFEEBAD56473F8
 "Renee, I just...I think it's mistakes, more than anything. Messy paperwork that's making the situation seem more suspicious than it is.","Рене, я просто... думаю, что это ошибки, больше чем что-либо. Грязная бумажная работа, которая делает ситуацию более подозрительной, чем она есть.",ai,,1F69CD434E433DBC2457ADB2D76C729B
-"No, Lukas - the messy paperwork is exactly why it's suspicious.","Нет, Лукас — грязная бумажная работа как раз и делает это подозрительным.",ai,,BCB3968C4304EFAC001159A891D1D0C0
+"No, Lukas - the messy paperwork is exactly why it's suspicious.","Нет, Лукас - грязная бумажная работа как раз и делает это подозрительным.",ai,,BCB3968C4304EFAC001159A891D1D0C0
 There must be something we're missing.,"Должно быть, мы что-то упускаем.",ai,,1C3321584B341B902FEB06BEE0771951
 I just don't like it. Any of it.,Мне просто это не нравится. Ничто из этого.,ai,,FCFE4CED42910DB740E99D812518EBD6
 "I need proof, Renee. This is...concerning, in some regards, but it's speculation at best.","Мне нужны доказательства, Рене. Это... вызывает беспокойство в некоторых аспектах, но это не более чем спекуляции.",ai,,0712C61841011ADD4B4006BFAA0ECC30
-All we can do is speculate. Especially if something's being covered up.,"Все, что мы можем делать, — это спекулировать. Особенно если что-то скрывают.",ai,,CB7F0A5E42CC57C65D1FE3860D0E4BC2
+All we can do is speculate. Especially if something's being covered up.,"Все, что мы можем делать, - это спекулировать. Особенно если что-то скрывают.",ai,,CB7F0A5E42CC57C65D1FE3860D0E4BC2
 Which is why we need more data. Decisive proof.,Вот почему нам нужно больше данных. Решающих доказательств.,ai,,5BFE330242A0656A7CBB1D8804507C1B
 "People are dead, Lukas.","Люди погибли, Лукас.",ai,,B4E5BCBF46ADDE1EE98946A2959A248B
 Of course you're not. But you might be trying too hard to find meaning where there isn't. Sometime bad things happen and there's no one to blame.,"Конечно, ты не обязан. Но, возможно, ты слишком стараешься найти смысл там, где его нет. Иногда плохие вещи случаются, и некому их обвинять.",ai,,3AC43047421AA0817DE98F9AD33780A2
 But what if those officers were to blame?,"Но что, если эти офицеры виноваты?",ai,,8008C35A4124BFFA54ADD79FE29CC8F5
-All I hope for is more decisive evidence.,"Все, на что я надеюсь, — это более решающие доказательства.",ai,,95FB08FC4FE8D7FBA0A49A908F682339
+All I hope for is more decisive evidence.,"Все, на что я надеюсь, - это более решающие доказательства.",ai,,95FB08FC4FE8D7FBA0A49A908F682339
 "People are dead, Lukas.","Люди погибли, Лукас.",ai,,6AF957E34691A4EE66238CB83164ADB6
 "Renee...If those officers did something wrong, I'm sure it'll come to light. With or without our help.","Рене... Если эти офицеры сделали что-то не так, я уверен, что это выйдет наружу. С нашей помощью или без.",ai,,32B26EAE4978CEFBB18B3B9E9F6363E2
 I can't stop now. I need to know.,Я не могу остановиться сейчас. Мне нужно знать.,ai,,BB0D08DC44B838C62198A9861DEC184D
@@ -441,7 +441,7 @@ I love those noodles.,Я люблю эту лапшу.,ai,,0B071282433BCBCC46AC0
 "Good, good. I'll go get the phone. Love you, honey.","Хорошо, хорошо. Я пойду возьму телефон. Люблю тебя, дорогая.",ai,,92E3FB1E4A39729B7CA5C18036E86F69
 Thanks.,Спасибо.,ok,,49BE848B423CCA2032A6079CE5A672DD
 Love you too.,Я тоже тебя люблю.,ai,,28ADBEC74F80332A4CDE2F9D826C4181
-"Hey...don't lose your mind over this, alright? Take the time you need - I'll get the phone. Love you.","Эй... не сходи с ума из-за этого, ладно? Возьми время, которое тебе нужно — я возьму телефон. Люблю тебя.",ai,,5F95878C4DAD8A26891390900966947F
+"Hey...don't lose your mind over this, alright? Take the time you need - I'll get the phone. Love you.","Эй... не сходи с ума из-за этого, ладно? Возьми время, которое тебе нужно - я возьму телефон. Люблю тебя.",ai,,5F95878C4DAD8A26891390900966947F
 I'll try.,Постараюсь.,ai,,462D73CD4D84EF69A4153DB4354AD388
 Alright. Love you too.,Ладно. Я тоже тебя люблю.,ai,,2D4DD2194D3F3C3285E65EB24BA6A7D9
 So what's that important? Is that what I think it is?,"Так что это так важно? Это то, о чем я думаю?",ai,,2E422C814C8AB7708D8699BCC9A024AF
@@ -514,8 +514,8 @@ The two of them had a standoff. I'm sure the cop struck first.,"У них был
 Remember the West End fire?,Помнишь пожар в Уэст-Энде?,ai,,5371740B4886BEC67DF23CBC48FE598A
 Remember that shooting in West End?,Помнишь ту стрельбу в Уэст-Энде на прошлой неделе?,ai,,026E077841BD383457AA068E76B6263F
 You don't remember?,Ты не помнишь?,ai,,F422CB80408BD9CBB72BC5B862560EC1
-"No - like I mentioned, two different weapons were mentioned.","Нет — как я упоминал, упоминались два разных оружия.",ai,,5EEB349F4D0981F57D34DE8F0F7FBFD7
-"No, wait - it was a blunt instrument.","Нет, подожди — это был тупой предмет.",ai,,309065474B1BB8BF776F5C8BE0A95A8F
+"No - like I mentioned, two different weapons were mentioned.","Нет - как я упоминал, упоминались два разных оружия.",ai,,5EEB349F4D0981F57D34DE8F0F7FBFD7
+"No, wait - it was a blunt instrument.","Нет, подожди - это был тупой предмет.",ai,,309065474B1BB8BF776F5C8BE0A95A8F
 "No, nevermind. It was a sharp object.","Нет, неважно. Это был острый предмет.",ai,,B5EDD55C4849771B465907BD2757E987
 "No, the reports mention two differing weapons.","Нет, в отчетах упоминаются два разных оружия.",ai,,1A32CB3348A10FEFF8B2BDB0DA7B5ED8
 "...There were a lot of documents, Lukas.","...Было много документов, Лукас.",ai,,B7D4EE5E4A2129BCE77815AF2215EA55
@@ -542,7 +542,7 @@ Yeah. I don't get it.,Да. Мне это не нравится.,ai,,F602B82C4EF
 "Uh-huh- And then ten minutes passed and you wanted to do something productive, is that it?","Угу. И потом прошло десять минут, и ты захотел сделать что-то продуктивное, да?",ai,,9FE814394D31A0766E9B499F88FA86FE
 Yeah. Remember the fire?,Да. Помнишь пожар?,ai,,1E6DF80D48A741F9DEB2A99EA33BB43B
 You know you love me.,"Ты же знаешь, что любишь меня.",ai,,2EEA6B054277A22D6BD5DE8430AB6B77
-I got something in mind for you. So - what's got you so distracted?,У меня есть кое-что для тебя. Так — что тебя так отвлекает?,ai,,42098425403B6D4325725D8741569966
+I got something in mind for you. So - what's got you so distracted?,У меня есть кое-что для тебя. Так - что тебя так отвлекает?,ai,,42098425403B6D4325725D8741569966
 Remember the West End fire?,Помнишь пожар в Уэст-Энде?,ai,,A2858C664452B4FBE2D723B3222DE818
 The shooting in West End last week. Remember?,Стрельба в Уэст-Энде на прошлой неделе. Помнишь?,ai,,91A32570482C3BAE847D07BC73407B27
 "Listen here, ma'am. Last I heard, you got your hands on classified police documents for that work. Probably through an informant. It would be irresponsible to not investigate it.","Слушай сюда, мэм. Последнее, что я слышал, ты получила доступ к засекреченным полицейским документам для этой работы. Наверное, через информатора. Было бы безответственно не расследовать это.",ai,,D8186C2A45CFBABA0A6DF8861B631688
@@ -602,13 +602,13 @@ The first emergency call described smoke coming from Stone's apartment.,"Пер�
 Really? With all those reports you gathered?,"Правда? Со всеми этими отчетами, которые ты собрал?",ai,,0BA1E21E4310F77CA8C734AF3D4EBA9A
 Maybe I missed something...,"Может, я что-то упустил...",ai,,50260DE841AD4D1302EC8781BBF1585B
 "It's just not very clear, Lukas.","Это просто не очень ясно, Лукас.",ai,,840C81884BF2FD876E29E8ADA848D940
-Right - so it couldn't have started there. I see your point.,"Верно — значит, он не мог начаться там. Я понимаю твою точку зрения.",ai,,96E4175C42DC4B563B7F18AD43A04A00
+Right - so it couldn't have started there. I see your point.,"Верно - значит, он не мог начаться там. Я понимаю твою точку зрения.",ai,,96E4175C42DC4B563B7F18AD43A04A00
 I'm fairly certain it was the second floor.,"Я почти уверен, что это был второй этаж.",ai,,AC49E22E4183A05EF2145392D41C39AF
 "Yeah. First or second floor, without a doubt.","Да. Первый или второй этаж, без сомнения.",ai,,77A82767416C08A175E306A910FFD96D
 "Right, so by process of elimination...I follow. It's not exactly precise, is it?","Верно, так что методом исключения... Я понимаю. Это не совсем точно, да?",ai,,960A4A084B768AA0451613863A65EFBA
 I saw the aftermath. I don't think there was anything precise about it.,"Я видел последствия. Не думаю, что там было что-то точное.",ai,,F4E01358445DF3CA608EF4962D1AF8FA
 "It's important, still. Let's keep it in mind.",Это все еще важно. Давай держать это в уме.,ai,,E67F3B2D4284FA3A4595458D3DB7FA78
-Alright - and when did the fire start?,Ладно — а когда начался пожар?,ai,,A00CC7CE4E0E599CBEC6769DC74EFCA4
+Alright - and when did the fire start?,Ладно - а когда начался пожар?,ai,,A00CC7CE4E0E599CBEC6769DC74EFCA4
 "Before the first call, at 11:02 AM.","До первого вызова, в 11:02 утра.",ai,,99AD56F94C2D4D1C91BF21A1D37F952B
 "Before the second call, at 1:45 PM.","До второго вызова, в 13:45.",ai,,A7ADAA2041B31A4B4ED00981D904E659
 Give me a moment. I'll check. [Open terminal],Дай мне минутку. Я проверю. [Открыть терминал],ai,,28B1DCF64EBBA887BDB081AC8987EDBC
@@ -618,14 +618,14 @@ And you're thinking that was in Stone's apartment? Why?,"И ты думаешь,
 He was doing something on his oven.,Он что-то делал с духовкой.,ai,,E22BE4EE4A4B7E686B9BFEB1AB8275D5
 One of the police reports mentions gas.,В одном из полицейских отчетов упоминается газ.,ai,,3634FB4B4C369F4A2CF0F9BFADF6788B
 "That seems to narrow it down, sure. ","Это, кажется, сужает круг, да.",ai,,0083CD64498C3FA5C32AFD847FA7024F
-It's just a question of timing - but we'll get to that.,Это просто вопрос времени — но мы до этого дойдем.,ai,,284DC7454AC863FEFA988B8D7DFE3FD2
+It's just a question of timing - but we'll get to that.,Это просто вопрос времени - но мы до этого дойдем.,ai,,284DC7454AC863FEFA988B8D7DFE3FD2
 Narrow enough for me.,Достаточно узко для меня.,ai,,AC694A914CFB491D6D266DB1F6A6364B
 "You don't suppose she was just scared, do you? I'm not sure about this, Renee. It just feels like speculation.","Ты не думаешь, что она просто испугалась, да? Я не уверен в этом, Рене. Это просто кажется спекуляцией.",ai,,944494AA4410BB4F1F5CA8BB15D4EAD9
 Fine.,Ладно.,ai,,901FF12147E93633F54C7FA090AAD5FE
 I think speculation is necessary. I don't trust the reports.,"Думаю, спекуляции необходимы. Я не доверяю отчетам.",ai,,B0F939FC44762559C092D490C14ACF58
 "I know it's not what you want to hear, Renee, but sometimes the truth stings. We have to have some faith in the system. It's never failed us, has it?","Я знаю, что это не то, что ты хочешь услышать, Рене, но иногда правда ранит. Мы должны иметь немного веры в систему. Она никогда нас не подводила, да?",ai,,19BE18C04EEA862084B1E587F09BA40C
 [Say nothing],[Ничего не говорить],ai,,3C142671479AC085A246009C044F551E
-"Not us, no.",Нас — нет.,ai,,38E0790C4A4D9B06F5B1A88AD1C76D5B
+"Not us, no.",Нас - нет.,ai,,38E0790C4A4D9B06F5B1A88AD1C76D5B
 I get the feeling it failed Stone.,"У меня такое чувство, что она подвела Стоуна.",ai,,8676E85F4DF8FA14A03004AAE197259B
 "I don't know. I'm just saying that just because something seems likely, it doesn't mean that it's what happened.","Я не знаю. Я просто говорю, что только потому, что что-то кажется вероятным, это не значит, что так и произошло.",ai,,47CB2D4C490A64C28948D09F38A0E464
 "I'm pretty convinced, Lukas.","Я почти уверена, Лукас.",ai,,A96ACC874F2E07C5C693CCAF3BD3B448
@@ -637,11 +637,11 @@ Trying to. Unfortunately.,Пытаюсь. К сожалению.,ai,,6F452CC548E
 "Maybe isn't good enough, Renee. We have to look at the facts.","Может быть, недостаточно, Рене. Мы должны смотреть на факты.",ai,,2A0151EC428EC1C9B26B9592A40977A7
 Fine.,Ладно.,ai,,515C046B4962008DD2F7C0AAD2FAE5A7
 "And what if the ""facts"" have been tampered with?","А если ""факты"" были подделаны?",ai,,F7D8D3134E888BABAA658CA51D82FB63
-"You don't trust the reports? Renee - those are made under oath. They're cross-referenced, double-checked. Why wouldn't you trust them?","Ты не доверяешь отчетам? Рене — они сделаны под присягой. Они перепроверены, пересмотрены. Почему бы ты не доверяла им?",ai,,2DF66A3C460D28ABB0925CB72097517E
+"You don't trust the reports? Renee - those are made under oath. They're cross-referenced, double-checked. Why wouldn't you trust them?","Ты не доверяешь отчетам? Рене - они сделаны под присягой. Они перепроверены, пересмотрены. Почему бы ты не доверяла им?",ai,,2DF66A3C460D28ABB0925CB72097517E
 "Just a hunch, I suppose. I don't know.","Просто интуиция, наверное. Не знаю.",ai,,60C0119B4216A9226828E7A7E62CD4D4
 Nevermind. It's fine. It's whatever.,Неважно. Все в порядке. Это не важно.,ai,,698905164D1D0266D4B1DA9437D875FB
 "What do you mean, ""why""? Haven't I given you enough reason already?","Что ты имеешь в виду, ""почему""? Разве я не дала тебе достаточно причин?",ai,,6EFE47A54E1C6DD6FD3385B5AFF0AF25
-You're telling me - sometimes it feels like half of what I do is fill in documents and forms. No one likes doing them.,"Ты мне говоришь — иногда кажется, что половина того, что я делаю, — это заполнение документов и форм. Никому не нравится это делать.",ai,,B730A03644D8485635D282A9B62B8FFD
+You're telling me - sometimes it feels like half of what I do is fill in documents and forms. No one likes doing them.,"Ты мне говоришь - иногда кажется, что половина того, что я делаю, - это заполнение документов и форм. Никому не нравится это делать.",ai,,B730A03644D8485635D282A9B62B8FFD
 "As long as they get done, I suppose.","Главное, чтобы они были сделаны, наверное.",ai,,4954040042DFF474B4497CA18004F3FA
 Ready for the next question? Here goes: was there reason for the officers to be suspicious?,Готов к следующему вопросу? Вот он: была ли причина для офицеров быть подозрительными?,ai,,FB4EDC8A4DB5AA80B573759788FEE220
 They smelled smoke from inside the apartment.,Они почувствовали запах дыма из квартиры.,ai,,B30024094CA48CC7696553B8B34CDFBC
@@ -662,15 +662,15 @@ I suppose so. Still don't like it.,"Наверное, так. Все равно 
 I see what you're getting at. That's pretty convincing.,"Я понимаю, к чему ты клонишь. Это довольно убедительно.",ai,,D0C659354B8FF5A0B0537A89444BAEBB
 Convincing enough for me.,Достаточно убедительно для меня.,ai,,233CEBDD4DED6A03F7A970A767AD4B17
 "It's not waterproof, though. Let's move on.","Это не герметично, правда. Давай двигаться дальше.",ai,,FE23F17B4E047CCFDFFD5F890FFBC6FE
-"Could've fooled me. Those things might as well be magical, if you ask me - although, I did manage to print a couple files today.","Могло бы обмануть меня. Эти вещи могут быть почти магическими, если спросить меня — хотя, мне удалось распечатать пару файлов сегодня.",ai,,83A204A949077726FF1D7F95D9F12FE8
+"Could've fooled me. Those things might as well be magical, if you ask me - although, I did manage to print a couple files today.","Могло бы обмануть меня. Эти вещи могут быть почти магическими, если спросить меня - хотя, мне удалось распечатать пару файлов сегодня.",ai,,83A204A949077726FF1D7F95D9F12FE8
 "[Gasp] Really, baby? I'm so proud of you!","[Ахнуть] Правда, детка? Я так горжусь тобой!",ai,,EE725F5A4C3BC01ECFCD3B8B9B05C568
 My hero.,Мой герой.,ai,,506F5C1448F1E9D4A58ABB8D5FBA772A
 Oh? Did you dare to ask for help this time?,О? Ты на этот раз решил попросить о помощи?,ai,,7D5F6AD34C24030A65FE8E91E9C2B0B1
-"Alright, so - the first officer goes into the kitchen, hears a yell, and comes back. Do we know precisely what happened in the hall during that time?","Ладно, так — первый офицер заходит на кухню, слышит крик и возвращается. Мы точно знаем, что произошло в коридоре в это время?",ai,,FC84AA5D41A320CEC0E818BDF4CE62FF
+"Alright, so - the first officer goes into the kitchen, hears a yell, and comes back. Do we know precisely what happened in the hall during that time?","Ладно, так - первый офицер заходит на кухню, слышит крик и возвращается. Мы точно знаем, что произошло в коридоре в это время?",ai,,FC84AA5D41A320CEC0E818BDF4CE62FF
 Stone attacked the second officer.,Стоун напал на второго офицера.,ai,,2FA9EED4474E2EBF4BB2D3B9BF3D9076
 The second officer shot Stone.,Второй офицер застрелил Стоуна.,ai,,C5C07BDC4B7F4DE109B254BCA2C64D88
 It's unclear. The stories don't add up.,Неясно. Истории не сходятся.,ai,,AD14B24848A6493C8B61158BB1905B81
-"Finished? Okay, so the officers enter the apartment - what was that situation like?","Закончил? Хорошо, так офицеры заходят в квартиру — какова была ситуация?",ai,,FEAE61E1440A26D8588A8DB98FF23CE8
+"Finished? Okay, so the officers enter the apartment - what was that situation like?","Закончил? Хорошо, так офицеры заходят в квартиру - какова была ситуация?",ai,,FEAE61E1440A26D8588A8DB98FF23CE8
 Stone was hostile.,Стоун был враждебен.,ai,,C86BA6EE4C912E3A6730E6960756C7B0
 "Stone was agitated, but cooperated.","Стоун был взволнован, но сотрудничал.",ai,,885BB49D4FB9A1542CFB47BC605F2983
 Stone remained calm.,Стоун оставался спокойным.,ai,,49C8A29C44CA792934DBD8AD6C359E75
