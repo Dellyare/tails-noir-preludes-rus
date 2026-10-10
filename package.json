@@ -1,6 +1,7 @@
 {
   "name": "tails-noir-preludes-rus",
   "private": true,
+  "version": "0.1.0",
   "type": "module",
   "engines": { "node": ">=20.11" },
   "scripts": {
@@ -11,6 +12,7 @@
     "status": "node tools/loc/cli.mjs status",
     "texture-export": "node tools/loc/cli.mjs texture-export",
     "batch": "node tools/loc/batch.mjs",
+    "installer": "node tools/loc/cli.mjs installer",
     "redraw": "node tools/loc/cli.mjs redraw",
     "fonts": "node tools/loc/cli.mjs fonts",
     "test": "node --test tools/loc/"

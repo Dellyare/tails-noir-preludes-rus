@@ -206,6 +206,17 @@ function fonts() {
     }
 }
 
+// build/TailsRUS_P.pak -> build/TailsRUS_Setup_<version>.exe (Inno Setup, see installer/TailsRUS.iss)
+function installer() {
+    build();
+    const version = JSON.parse(fs.readFileSync(path.join(ROOT, 'package.json'), 'utf8')).version;
+    const candidates = [process.env.ISCC, ...['LOCALAPPDATA', 'ProgramFiles', 'ProgramFiles(x86)'].map(v => process.env[v] && path.join(process.env[v], v === 'LOCALAPPDATA' ? 'Programs/Inno Setup 6/ISCC.exe' : 'Inno Setup 6/ISCC.exe'))];
+    const iscc = candidates.find(c => c && fs.existsSync(c));
+    if (!iscc) throw new Error('Не найден Inno Setup 6 (ISCC.exe). Установите: winget install JRSoftware.InnoSetup — или задайте путь в переменной ISCC');
+    execFileSync(iscc, [`/DAppVersion=${version}`, `/DPakFile=${path.join(BUILD, PAK_NAME)}`, path.join(ROOT, 'installer/TailsRUS.iss')], { stdio: 'inherit' });
+    console.log(`Установщик: build/TailsRUS_Setup_${version}.exe`);
+}
+
 // groups for the progress table: Data/Dialogues/Act_I, Data/Datatables, Maps/Act1, Widgets, ...
 function group(file) {
     const parts = path.relative(TRANSLATION, file).split(path.sep);
@@ -235,6 +246,7 @@ const commands = {
     'texture-export': () => args.forEach(textureExport),
     redraw,
     fonts,
+    installer,
 };
 if (!commands[cmd]) { console.error('usage: node tools/loc/cli.mjs <unpack [gameDir]|extract|build [--install [gameDir]]|status|texture-export <asset...>>'); process.exit(1); }
 try { commands[cmd](); } catch (e) { console.error(e.message); process.exit(1); }

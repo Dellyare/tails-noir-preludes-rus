@@ -40,9 +40,10 @@
 ---
 
 ### Установка
-- Скачать из [релизов](https://github.com/Dellyare/tails-noir-preludes-rus/releases) файл `TailsRUS_P.pak`
-- В нужном лаунчере перейти к файлам игры
-- Переместить `TailsRUS_P.pak` в папку игры по пути `\Tails The Backbone Preludes\BackboneStories\Content\Paks`
+
+**Через установщик (рекомендуется).** Скачайте из [релизов](https://github.com/Dellyare/tails-noir-preludes-rus/releases) файл `TailsRUS_Setup_<версия>.exe` и запустите. Установщик сам найдёт игру в Steam или Epic Games (если не найдёт — укажите папку вручную), добавит в неё один файл `TailsRUS_P.pak` и ничего не изменит в оригинальных файлах. Удалить перевод можно через «Установку и удаление программ».
+
+**Вручную.** Скачайте `TailsRUS_P.pak` и положите в папку игры `BackboneStoriesContentPaks` (в Steam: правый клик по игре → «Управление» → «Просмотреть локальные файлы»).
 
 Работает, если в настройках игры выбран русский или английский язык.
 
@@ -119,6 +120,7 @@
 | `npm run extract` | Ищет все тексты в ассетах и обновляет `translation/*.csv`, сохраняя переводы. После правок в табличном редакторе тоже стоит запустить — восстановит колонку `source`, если её случайно испортили |
 | `npm run build` | Собирает `build/TailsRUS_P.pak` из CSV, `textures/` и `fonts/` (для текстур нужен `workspace/game`) |
 | `npm run install-mod -- "<папка игры>"` | `build` + копирует пак в игру |
+| `npm run installer` | `build` + собирает установщик `build/TailsRUS_Setup_<версия>.exe` (нужен [Inno Setup 6](https://jrsoftware.org/isinfo.php): `winget install JRSoftware.InnoSetup`; версия берётся из `package.json`) |
 | `npm run status` | Прогресс перевода по папкам |
 | `npm run fonts` | Добавляет кириллицу в шрифты игры без неё (результат в `fonts/`, нужны Python и fonttools) |
 | `npm run redraw` | Перерисовывает текстуры из `textures/redraw.json` (нужен `workspace/game`) |
@@ -136,6 +138,7 @@
 Русификатор не меняет игровые ассеты: он собирает свои `.locres` с ключами текущей игры и кладёт их в отдельный пак, который перекрывает устаревшие файлы. Движок сам подменяет текст при загрузке. Это надёжнее прежнего способа через UAssetGUI (uasset → json → uasset): тот не умеет собирать таблицы на Blueprint-структурах (`DT_ReneeTerminal`, Barks) и не видит текст внутри Blueprint-объектов (события диалогов вроде «Clarence won't forget that.»).
 
 ```
+installer/              скрипт установщика (Inno Setup)
 translation/            CSV с текстом — то, что редактируют переводчики
 textures/               перерисованные текстуры (PNG), путь = путь ассета от Content
 fonts/                  шрифты игры с добавленной кириллицей
