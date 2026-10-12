@@ -284,7 +284,7 @@ Man Covered in Snow,Shall I explain? Or do you just want to make fun?,Объяс
 Howard,Sorry. Please explain.,"Простите. Пожалуйста, объясните.",ai,,2C09839E46C5A7606639F8B413082169
 Howard,I want to make fun.,Хочу посмеяться.,ai,,829851E44C59A38C099F109F9594666C
 Man Covered in Snow,"Suppose I hadn't moved that stone. It stays on the shore for generations. One day a genious, in deep thought, trips on it right as they're about to have a breakthrough solution to a problem that affects us all. They're never able to reach it again, and subsequently, the problem remains a problem - all due to that stone.","Допустим, я не сдвинул тот камень. Он лежит на берегу поколениями. Однажды гений, погружённый в раздумья, спотыкается о него в миг, когда вот-вот найдёт прорывное решение проблемы, касающейся всех нас. Он больше никогда не сможет до него добраться, и проблема остаётся проблемой: всё из-за того камня.",ai,,81B53965438E3667C79EEDB9D10E75A9
-Howard,"What an asshole. The stone, I mean.","Вот же урод. Камень, в смысле.",ai,,801C3D0541C08856FA53D1A60855CA1B
+Howard,"What an asshole. The stone, I mean.","Вот же мудак. Камень, в смысле.",ai,,801C3D0541C08856FA53D1A60855CA1B
 Howard,"Okay, I follow...","Ладно, понимаю...",ai,,43C096A3403AB869917AD7A057A0C796
 Howard,...You're losing me.,...Я теряю нить.,ai,,E8D61C2948D28FE471DC8E8D248D8E28
 Man Covered in Snow,A picture of me? Why?,Моя фотография? Зачем?,ai,,5DB5DF3241C3B90C7E4BC3852A951702
@@ -351,9 +351,9 @@ Howard,Great talk. Can we redirect it to another topic?,Хорошо погов�
 Howard,How about yourself?,А как насчёт вас самих?,ai,,3545523B45A4246C9DC8F6AAF637338D
 Howard,"Sure. I'll go listen to some other people, then. See ya. [Leave]",Ясно. Пойду тогда послушаю других. Пока. [Уйти],ai,,8AA01A5A41AA7563B6CBBFB0E09AE897
 Man Covered in Snow,"Now, now. Don't be ridiculous. I don't much appreciate having my leg pulled like that.","Полно, полно. Не говори глупостей. Мне не очень нравится, когда меня разыгрывают.",ai,,B5004B2947FBFC24772A7D9209C0E3DB
-Howard,"Pulling legs? You look cool as fuck, bro. I'm serious.","Разыгрываю? Вы выглядите охренительно круто, братан. Серьёзно.",ai,,E40F06E34A94165F75D7B2AA6BF45D4D
+Howard,"Pulling legs? You look cool as fuck, bro. I'm serious.","Разыгрываю? Вы выглядите охуенно круто, братан. Серьёзно.",ai,,E40F06E34A94165F75D7B2AA6BF45D4D
 Howard,[Flirt] I'd be happy to pull something besides your leg...,[ФЛИРТ] Я бы с радостью потянул вас не только за ногу...,ai,,878DD7144657A925D0F812B816788F61
-Howard,Fine. You look silly as fuck and I think that'll make people smile.,"Ладно. Вы выглядите охренительно глупо, и, думаю, это заставит людей улыбнуться.",ai,,A4ED8A4C467D52690A51BBB0CBD26B2E
+Howard,Fine. You look silly as fuck and I think that'll make people smile.,"Ладно. Вы выглядите охуенно глупо, и, думаю, это заставит людей улыбнуться.",ai,,A4ED8A4C467D52690A51BBB0CBD26B2E
 Man Covered in Snow,"But in that case, why even take it? Surely, it must have a purpose other than obligation. ","Но в таком случае зачем вообще снимать? Наверняка есть цель, помимо обязательства. ",ai,,315D948249899EE1B856ABA0D4FEEE04
 Howard,"You look really handsome right now. Hot, even.",Вы сейчас очень красиво выглядите. Даже сексуально.,ai,,89DFA33746623C4B997C1DBE9BE4FCBE
 Howard,"I guess it would be funny. You look ridiculous, man. Might crack people up.","Пожалуй, было бы смешно. Вы выглядите нелепо, чувак. Может, народ рассмешит.",ai,,5FF922044B3E0A408D68A282A9DAB459

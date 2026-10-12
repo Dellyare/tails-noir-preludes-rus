@@ -1,12 +1,12 @@
 ﻿speaker,source,translation,status,namespace,key
 Notification,You decided not to antagonize Carlo any further.,Ты решила больше не злить Карло.,ai,,8A916DCA4127DEF2C08B1D957E69087E
 Notification,You refused to back down to Carlo.,Ты не уступила Карло.,ai,,2376B1E3423BB11414F7219E9860FC91
-Carlo,See what you made me do? Now get the fuck out of my sight.,"Видишь, до чего ты меня довела? А теперь вали нахер с глаз моих.",ai,,599A17D74CB40DD7DAA06782358437F1
+Carlo,See what you made me do? Now get the fuck out of my sight.,"Видишь, до чего ты меня довела? А теперь вали нахуй с глаз моих.",ai,,599A17D74CB40DD7DAA06782358437F1
 Clarissa,(POWERFUL) You'll regret that.,(ВЛАСТНОСТЬ) Ты об этом пожалеешь.,ai,,068DF65B4E8BA7DBC412CC8B1FEAA6D0
 Clarissa,"(CUNNING) T-that was a mistake, dad.","(ХИТРОСТЬ) З-зря ты это сделал, пап.",ai,,B2A922B64F1D3D470F7856A692944B3A
 Clarissa,[Leave],[Выйти],ok,,DB3ED8144C26AEF93BDBCBA3061DDB02
 Clarissa,"(AMBITIOUS) You...you may be running things now, but someday that will change.","(АМБИЦИОЗНОСТЬ) Сейчас... сейчас, может, всем заправляешь ты, но однажды это изменится.",ai,,D0A1A5A044F3CE29FFC79C8DD70603DA
-Carlo,Okay. Now get the fuck out of my sight. I have work to do.,Ладно. А теперь вали нахер с глаз моих. Мне работать надо.,ai,,B7E9E177410F63E493A5EA9C285C2098
+Carlo,Okay. Now get the fuck out of my sight. I have work to do.,Ладно. А теперь вали нахуй с глаз моих. Мне работать надо.,ai,,B7E9E177410F63E493A5EA9C285C2098
 Clarissa,[Leave],[Выйти],ok,,9A6146BB47F8FDD086B04C8BA4BFD180
 Carlo,"Are you kidding me? You want me to turn our guys into what? Fucking delivery boys? Maybe we can throw a paper route into the mix, double our income!","Ты издеваешься? Хочешь превратить наших парней в кого? В грёбаных курьеров? Может, ещё газеты разносить начнём? Вдвое больше заработаем!",ai,,336864BF477B47EA7BF8C385EFF6C2CD
 Clarissa,How's that any different from the piddly shit you're planning now?,"А чем это отличается от той копеечной херни, которую ты затеял сейчас?",ai,,D949CA994A53033C9559088C7EC2CADC
@@ -176,7 +176,7 @@ Carlo,"Clarissa, I'm doing you a kindness here. Do not push me.","Кларисс
 Clarissa,"I'm...I'm sorry, Daddy.","Я... Прости, папочка.",ai,,E5F314EC4579D56A616115B4CDDCE0A5
 Clarissa,[Say nothing],[Промолчать],ai,,C2C88A5B4ED8033F13F89D97CE088667
 Clarissa,[Roll your eyes],[Закатить глаза],ai,,4A7260064EF9FBEE26F2B793A3BE0C65
-Carlo,How am I supposed to know? The man's slow - maybe he's still inside. Or fucking around with his car. You figure it out.,"А мне откуда знать? Он у нас тугодум: может, ещё внутри. Или возится со своей машиной, мать её. Сама разберёшься.",ai,,0D051C2E42EF78C75B6974890836E09F
+Carlo,How am I supposed to know? The man's slow - maybe he's still inside. Or fucking around with his car. You figure it out.,"А мне откуда знать? Он у нас тугодум: может, ещё внутри. Или возится со своей ёбаной машиной. Сама разберёшься.",ai,,0D051C2E42EF78C75B6974890836E09F
 Clarissa,"Wait, there's one more thing I want to talk to you about.","Подожди, мне нужно поговорить с тобой ещё об одном.",ai,,299F566C414F01E49661D88E48B12FFD
 Clarissa,[Leave],[Выйти],ok,,E3F6D60147E06DF57EC2F5A4FCAE4564
 Carlo,"Write it in your diary, then. Men are talking.",Тогда запиши это в свой дневничок. Мужчины разговаривают.,ai,,B05E5D4D448C95A97C23638F33630D15
@@ -189,7 +189,7 @@ Carlo,"I sure as shit don't, which is why I don't understand your insistence oth
 Clarissa,You need me more than you realize.,"Я нужна тебе больше, чем ты думаешь.",ai,,537578A04DD174047663288871E0DC34
 Clarissa,"You would, if you'd let me speak.","Понял бы, если бы дал мне договорить.",ai,,ACE38C9341E05DC28BB81D82952D52B3
 Clarissa,"No, you do. You just don't want to accept it.","Нет, нужна. Ты просто не хочешь этого признавать.",ai,,D159D7B8407B7E82230C2A8944617EB8
-Carlo,"Okay, go on then. Tell me why. This better be real good, Clarissa, because you're already on thin fucking ice.","Ладно, давай. Объясни почему. И лучше бы это было что-то стоящее, Кларисса, потому что ты и так на очень, мать его, тонком льду.",ai,,3413FC2C4842441E64F8B28E17522011
+Carlo,"Okay, go on then. Tell me why. This better be real good, Clarissa, because you're already on thin fucking ice.","Ладно, давай. Объясни почему. И лучше бы это было что-то стоящее, Кларисса, потому что ты и так на очень, блядь, тонком льду.",ai,,3413FC2C4842441E64F8B28E17522011
 Clarissa,"Bear with me - this plan of yours is something Grandpa would never have approved, right?","Послушай: дедушка ни за что бы не одобрил этот твой план, так?",ai,,BC4935B54BE00267335ED29BEC91177B
 Clarissa,I'm...resourceful. I'm clever. You need that.,Я... находчивая. Я умная. Тебе это нужно.,ai,,E37E037A477522C88402FA91559B5436
 Carlo,"That's it - you listen to me, you little shit. I'm the boss of this family. I am the Bloodworths. What I say goes, and I'm going to give you one last chance. Do you hear me?","Всё. Слушай меня, мелкая дрянь. Я глава этой семьи. Я и есть Бладворты. Как я сказал, так и будет, и я дам тебе последний шанс. Ты меня слышишь?",ai,,80BEEABB4DF71AF8A6DAF692E1106F7E
@@ -204,16 +204,16 @@ Clarissa,I don't know what came over me.,"Сама не знаю, что на м
 Clarissa,[Take another deep breath],[Ещё раз глубоко вдохнуть],ai,,3BD8D70043810D9326D6F8A412E63482
 Carlo,"...Careful, Clarissa. You do not want to see my bad side.","...Осторожнее, Кларисса. Тебе не захочется увидеть меня в гневе.",ai,,74AAFFF24F62D581B1E1A9B0029A68FE
 Clarissa,I...I don't know what came over me.,"Я... Сама не знаю, что на меня нашло.",ai,,D31737254394577BF3347A9DDE5C4A0E
-Clarissa,...but I can't just sit by and watch you fuck up Grandpa's legacy.,"...но я не могу просто сидеть и смотреть, как ты просираешь дедушкино наследие.",ai,,F88BEBC7488848DFA7FF399F13CF9824
+Clarissa,...but I can't just sit by and watch you fuck up Grandpa's legacy.,"...но я не могу просто сидеть и смотреть, как ты проёбываешь дедушкино наследие.",ai,,F88BEBC7488848DFA7FF399F13CF9824
 Carlo,"Now, here's what happens next: You're gonna take a deep breath, you're going to look me in the eye, then you're going to say ""I'm sorry, daddy. I don't know what came over me"". And you're going to mean it. Capiche?","Значит, так: сейчас ты глубоко вдохнёшь, посмотришь мне в глаза и скажешь: «Прости, папочка. Сама не знаю, что на меня нашло». И скажешь искренне. Капише?",ai,,8125F750448B0CE5A7608E825B0A922B
 Clarissa,[Take a deep breath],[Глубоко вдохнуть],ai,,685DCEB746B9B4521B25CCB76B6A372F
 Clarissa,Capiche.,Капише.,ai,,7D81FDF141481CAC38493082837E057B
-Carlo,"See what you made me do? Learn your fucking place, Clarissa. I'm through playing nice.","Видишь, до чего ты меня довела? Знай своё место, Кларисса. Хватит с меня любезностей.",ai,,980BE718406193F0D8F5029FA861AF4D
+Carlo,"See what you made me do? Learn your fucking place, Clarissa. I'm through playing nice.","Видишь, до чего ты меня довела? Знай, блядь, своё место, Кларисса. Хватит с меня любезностей.",ai,,980BE718406193F0D8F5029FA861AF4D
 Clarissa,[Leave],[Выйти],ok,,6377BB464D4B11C6829D3D8535747ED7
 Carlo,"I don't want to?! You're on thin fucking ice, Clarissa, and you better know that. Go on, then. Tell me what I could possibly need you for.","Я не хочу?! Ты на очень, мать его, тонком льду, Кларисса, и лучше тебе это понимать. Ну давай. Скажи, зачем ты мне вообще можешь понадобиться.",ai,,3012FC44409BFAEBD6F0639AE009A60F
 Clarissa,"Bear with me - this plan of yours is something Grandpa would never have approved, right?","Послушай: дедушка ни за что бы не одобрил этот твой план, так?",ai,,A4217A31446434D03A90888387409184
 Clarissa,I'm...resourceful. I'm clever. You need that.,Я... находчивая. Я умная. Тебе это нужно.,ai,,FEFF5F90462C4BD81447B99A0C1F8693
-Carlo,A mistake? Are you fucking crazy? What are you talking about?,Зря? Ты охренела? О чём ты вообще?,ai,,F105F29F41FAACE9B75CA38D1E792DFA
+Carlo,A mistake? Are you fucking crazy? What are you talking about?,Зря? Ты совсем охуела? О чём ты вообще?,ai,,F105F29F41FAACE9B75CA38D1E792DFA
 Clarissa,(CUNNING) Now everyone knows how weak you really are. Afraid of a little girl.,"(ХИТРОСТЬ) Теперь все знают, какой ты на самом деле слабак. Испугался маленькой девочки.",ai,,852679F8489ED42ED6FB3689C4BC263A
 Clarissa,(CUNNING) You'll see.,(ХИТРОСТЬ) Увидишь.,ai,,C2D60B784BA734B0D5AF9C911A8C863A
 Carlo,"You're not ""a woman"". You're a spoiled little brat. And don't act like you know shit about business. Because you don't.",Ты не «женщина». Ты избалованная соплячка. И не строй из себя знатока дел. Потому что ты ни хрена в них не смыслишь.,ai,,CF42D7984BDF9F4489D6B4BABE38D9AD
@@ -228,13 +228,13 @@ Clarissa,You heard me. You're throwing away all the connections Grandpa made. An
 Carlo,"Don't test me, Clarissa. I'm dead serious, here. Now, here's what happens next: You're gonna take a deep breath, you're going to look me in the eye, then you're going to say ""I'm sorry, daddy. I don't know what came over me"". And you're going to mean it. Capiche?","Не испытывай меня, Кларисса. Я абсолютно серьёзен. Значит, так: сейчас ты глубоко вдохнёшь, посмотришь мне в глаза и скажешь: «Прости, папочка. Сама не знаю, что на меня нашло». И скажешь искренне. Капише?",ai,,F3AC6FB444C11CAEA4F7FCA0FF3F2874
 Clarissa,[Take a deep breath],[Глубоко вдохнуть],ai,,560B61434CB2F207C11045ABD6796688
 Clarissa,Capiche.,Капише.,ai,,3B6BFA4945B4EC386C3A479D988CD441
-Carlo,That's right. Now get the fuck out of my face.,Вот так. А теперь вали нахер с глаз моих.,ai,,969025694AE1CB4AB4E28FBA73F7870D
+Carlo,That's right. Now get the fuck out of my face.,Вот так. А теперь вали нахуй с глаз моих.,ai,,969025694AE1CB4AB4E28FBA73F7870D
 Clarissa,My pleasure. [Leave],С удовольствием. [Уйти],ai,,9898E2B045D9E6CA627A23994D088445
 Clarissa,...N-no. You need to listen to me.,...Н-нет. Ты должен меня выслушать.,ai,,B55258394A4EDA80F12A0F94F85FA6AE
 Carlo,"Are you...boys, are you hearing this? Little Clarissa Bloodworth thinks we should be going after Apes. Go on, then. How do you propose that's going to happen?","Вы... парни, вы это слышите? Малышка Кларисса Бладворт считает, что нам надо браться за Обезьян. Ну давай. И как ты себе это представляешь?",ai,,834665AF475D691FA84E208429ECC2CC
 Clarissa,Go to them directly. The clubs.,Выйти на них напрямую. Через клубы.,ai,,F3BC726C40CEA68DB1E60EA4163D038A
 Clarissa,Take it to them directly.,Выйти на них напрямую.,ai,,F736C41D4B5184B86669DFBEF79F8E6A
-Carlo,"You don't think our guys have tried that? We stay in good graces with the Apes, and we stay on good terms with the cops. That means no fucking around with their clubs.","Думаешь, наши ребята не пробовали? Мы в милости у Обезьян и в хороших отношениях с копами. А значит, никакой херни с их клубами.",ai,,9B7802514F9C7BF3937588AC66E68DF7
+Carlo,"You don't think our guys have tried that? We stay in good graces with the Apes, and we stay on good terms with the cops. That means no fucking around with their clubs.","Думаешь, наши ребята не пробовали? Мы в милости у Обезьян и в хороших отношениях с копами. А значит, никакой хуйни с их клубами.",ai,,9B7802514F9C7BF3937588AC66E68DF7
 Clarissa,Then become management. Buy the clubs.,Тогда стань хозяином. Купи клубы.,ai,,668DD2154208498F628757BBAF6D6793
 Clarissa,Then avoid the streets and clubs entirely. Go directly to the customer.,"Тогда обойди и улицы, и клубы. Иди прямо к покупателю.",ai,,47BB2BE140A11FF72D9C80B14397E009
 Carlo,"Money's been on the table for a long time. Your grandfather was too scared to grab it, so I will. This is good for the family, Clarissa.","Деньги лежат на столе уже давно. Твой дед боялся их взять, так что возьму я. Это на благо семьи, Кларисса.",ai,,99D64AE340524AA34D18DE8907558D99
@@ -247,6 +247,6 @@ Clarissa,"It's not the weed, it's where you're planning to sell it. Why not aim 
 Carlo,"Oh, sure! Have the boys at the lab whip up a new drug! Maybe while I'm at it I should make my own currency, create my own laws! Maybe get a little throne where I can make my decrees, huh?","О, конечно! Пусть ребята в лаборатории сварганят новую дурь! А может, мне заодно напечатать свои деньги и написать свои законы! Завести себе тронишко и издавать указы, а?",ai,,675B58FE44B182AAB24527ACB612CCD7
 Clarissa,...Beats the piddly shit you're doing now.,"...Это лучше той копеечной херни, которой ты занимаешься сейчас.",ai,,EB4144CC4D1AB972A76C2392C58ABEDA
 Clarissa,That would be better than just pissing away everything Grandpa worked towards.,"Это было бы лучше, чем просто спускать в унитаз всё, ради чего трудился дедушка.",ai,,80A1ABB54BBEF67B4DB7A9A0CBAE100A
-Carlo,"What the fuck are you talking about? Buy up the CLUB!? You know how much that would cost? Shit, why don't I just buy the entire police force too, while we're at it?","Ты что, нахрен, несёшь? Купить КЛУБ!? Ты знаешь, сколько это стоит? Чёрт, а почему бы мне заодно не купить всю полицию?",ai,,51FE24924A787057A2C38DB3447713D5
+Carlo,"What the fuck are you talking about? Buy up the CLUB!? You know how much that would cost? Shit, why don't I just buy the entire police force too, while we're at it?","Какого хуя ты несёшь? Купить КЛУБ!? Ты знаешь, сколько это стоит? Чёрт, а почему бы мне заодно не купить всю полицию?",ai,,51FE24924A787057A2C38DB3447713D5
 Clarissa,...It'd be a lot smarter than the piddly shit you're doing now.,"...Это было бы куда умнее той копеечной херни, которой ты занимаешься сейчас.",ai,,2B5CB9BF47A51FDA837245AE3F7BAF27
 Clarissa,"Like I said, you're thinking too small.","Как я и сказала, ты мыслишь слишком мелко.",ai,,4CADC2944F34EC223E5438A6375305A1

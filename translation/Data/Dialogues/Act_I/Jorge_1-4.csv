@@ -1,20 +1,20 @@
 ﻿speaker,source,translation,status,namespace,key
 Notification,Jorge disliked that. A lot.,Джорджу это не понравилось. Совсем.,ai,,B64ADB3B4E709A5B871EFEBEA91184B4
 Notification,Jorge appreciates your concern.,Джордж ценит твою заботу.,ai,,C55BD8834188C0C4017AC7867E62F754
-Jorge,"You nearly froze my hand off, Eli. You fucking owe me.","Ты чуть не отморозил мне руку, Илай. Ты мне чертовски должен.",ai,,74F263B24C34BD6ED96447B344BE02C4
+Jorge,"You nearly froze my hand off, Eli. You fucking owe me.","Ты чуть не отморозил мне руку, Илай. Ты мне, блядь, должен.",ai,,74F263B24C34BD6ED96447B344BE02C4
 Eli,Fair enough.,Справедливо.,ai,,CD04FC3B4D416DA7117805A2E6505EFA
 Eli,[Nod respectfully],[Кивнуть с уважением],ai,,9DA69A44497AF1C76FAEDFBDD9650820
 Eli,What do you want me to say?,"Что ты хочешь, чтобы я сказал?",ai,,267C5AC141861523DB55D1A78436565A
-Jorge,"The fucking thing, Eli. Whatever's in the pod. It's...slithering.","Эта чертова штука, Илай. Что бы ни было в капсуле. Оно... извивается.",ai,,B9C209434AEB4E14A21F82A16E3A1B8A
+Jorge,"The fucking thing, Eli. Whatever's in the pod. It's...slithering.","Эта ебучая штука, Илай. Что бы ни было в капсуле. Оно... извивается.",ai,,B9C209434AEB4E14A21F82A16E3A1B8A
 Eli,You opened the pod?!,Ты открыл капсулу?!,ai,,75FAD2F143A7ED1D7401BAB1109605A8
 Eli,Slithering? What the...what are you talking about?,Извивается? Что за... о чём ты говоришь?,ai,,3A66585749F98A76B1440EB016C4F607
 Eli,"...Okay, alright. That's bad. What do we do?","...Ладно, хорошо. Это плохо. Что нам делать?",ai,,B323CE5D4BE1CD55F7007283A1468E70
-Jorge,"What the fuck are you waiting for, Eli? Hurry up!","Какого хрена ты ждёшь, Илай? Давай быстрее!",ai,,44E3A63349509DAA68A9A0A12317C435
+Jorge,"What the fuck are you waiting for, Eli? Hurry up!","Какого хуя ты ждёшь, Илай? Давай быстрее!",ai,,44E3A63349509DAA68A9A0A12317C435
 Eli,"Here's the cooling spray, take it!","Вот охлаждающий спрей, возьми!",ai,,1DC941A4461FB83062AB3BAC22E4238D
 Eli,"What do you need, again?","Повтори, что тебе нужно?",ai,,4439F5A449F9D6133CE005BD1BCCC4F1
 Eli,Give me a second! I'll be right back.,Дай мне секунду! Я сейчас вернусь.,ai,,D7DD8E2A45B4D4A7FD1FAAAA150A99C3
 Eli,Here! Take this container!,Вот! Возьми этот контейнер!,ai,,677216904EE5EFA0390A4782FE89F06A
-Jorge,"Okay, on the count of three, I'm going to twist the pod open a bit more. As soon as it splits, I want you to douse the fucker, alright?","Ладно, на счёт три я немного приоткрою капсулу. Как только она приоткроется, я хочу, чтобы ты обрызгал эту штуку, понял?",ai,,42B7704E45DFE2AB465B59BD0F49E4A0
+Jorge,"Okay, on the count of three, I'm going to twist the pod open a bit more. As soon as it splits, I want you to douse the fucker, alright?","Ладно, на счёт три я немного приоткрою капсулу. Как только она приоткроется, я хочу, чтобы ты обрызгал эту тварь, понял?",ai,,42B7704E45DFE2AB465B59BD0F49E4A0
 Eli,"You got it, Jorge.","Понял, Джордж.",ai,,181975214ECB235D1E24BBB0C01BE387
 Eli,Just start counting.,Просто начни считать.,ai,,2C7790CE4B62707187CDCF862B8A7D35
 Jorge,"Okay, I'm going to twist this thing open again, and when I do, I'm going to need you to hold the container still. I'll twist it, drop it, and you shut it. You got that?","Ладно, я снова приоткрою эту штуку, и когда я это сделаю, мне нужно, чтобы ты держал контейнер неподвижно. Я приоткрою, опущу, а ты закроешь. Понял?",ai,,29B5D0DE4AD2ECE7C0AE94B6CC61BAE7
@@ -45,13 +45,13 @@ Jorge,There! Got it! Got it. Let me check the pressure...good. It's in there.,В
 Eli,What was that?,Что это было?,ai,,FBAFA4BC4A00B632CDBC72A53B46675D
 Eli,You sure? It's completely contained?,Ты уверен? Оно полностью изолировано?,ai,,A600751E4A7058091AC09CB5A2D3296C
 Eli,Did...did you see that?,Ты... ты это видел?,ai,,52F53E4D4FA33C247C30579F74535F85
-Eli,"Good fucking work, Jorge.","Чертовски хорошая работа, Джордж.",ai,,047ABF854C6112AF627BB38476D2BFE1
+Eli,"Good fucking work, Jorge.","Охуенная работа, Джордж.",ai,,047ABF854C6112AF627BB38476D2BFE1
 Jorge,Made the call yet?,Уже позвонил?,ai,,B8E675E0430BC22C844381B353019F69
 Eli,Is the spray doing anything?,Спрей хоть что-то делает?,ai,,857ECCFD408584D927E428862496D914
 Eli,Need any help with containment?,Нужна помощь с изоляцией?,ai,,6DEF5F37475F4F98BD3E28AC78BCC06B
 Eli,How are you holding up?,Как ты держишься?,ai,,CEB9652F40AB19FFF508FCBF605F1DBB
 Eli,"Stay safe, alright? I gotta go.","Береги себя, ладно? Мне нужно идти.",ai,,7B0E57524EC4FDDD8B543CAB24ED397C
-Jorge,"There's something in the fucking pods, man. Something MOVING. Something ALIVE. ","В этих чёртовых капсулах что-то есть, чувак. Что-то ДВИЖЕТСЯ. Что-то ЖИВОЕ.",ai,,D007D33B44BE85D3692BB698206C08E9
+Jorge,"There's something in the fucking pods, man. Something MOVING. Something ALIVE. ","В этих ебучих капсулах что-то есть, чувак. Что-то ДВИЖЕТСЯ. Что-то ЖИВОЕ. ",ai,,D007D33B44BE85D3692BB698206C08E9
 Eli,How did you get the pod open?!,Как ты открыл капсулу?!,ai,,1602E3FF4FDB98DF29644CA15F514FFF
 Eli,"Okay, alright, what do you need?!","Ладно, хорошо, что тебе нужно?!",ai,,F3EFC9174838160112E1D193C0372B01
 Eli,"Just hang on, I'll find a container!","Держись, я найду контейнер!",ai,,CB28FF704D9541FFE8130691AD2898D1
@@ -71,17 +71,17 @@ Jorge,"Okay...alright, it's slowing down... Okay, good. There. It's almost like 
 Eli,[Watch him carefully],[Следить за ним внимательно],ai,,4E8F3C154E46B35FE3ACB680FB95B514
 Eli,You alright? Are we alright? It's...contained?,Ты в порядке? Мы в порядке? Оно... изолировано?,ai,,F880E8F749293A4340F84FB253B719E2
 Eli,...Holy shit.,...Чёрт возьми.,ai,,0D46286C4D1DF8478E20FFA920B412CE
-Jorge,"Wha- What are you doing, man?! Fuck's sake, alright! There! It's open! Keep spraying it!","Чт... Что ты делаешь, чувак?! Чёрт возьми, ладно! Вот! Она открыта! Продолжай обрызгивать!",ai,,DBAD33E24177063FE70B119583FD23A2
+Jorge,"Wha- What are you doing, man?! Fuck's sake, alright! There! It's open! Keep spraying it!","Чт... Что ты делаешь, чувак?! Да блядь, ладно! Вот! Она открыта! Продолжай обрызгивать!",ai,,DBAD33E24177063FE70B119583FD23A2
 Eli,[Keep spraying the pod],[Продолжать обрызгивать капсулу],ai,,61924B7543E08CA741F427BC8A65CE61
-Jorge,"What the fuck was that for, man? You almost froze my fucking hand off, Eli. What, they don't teach you how to count in that fancy school of yours?","Какого хрена это было, чувак? Ты чуть не отморозил мне руку, Илай. Что, в твоей модной школе не учат считать?",ai,,999D7B9441A36F1EDDF2CFAC0DFC6EF0
+Jorge,"What the fuck was that for, man? You almost froze my fucking hand off, Eli. What, they don't teach you how to count in that fancy school of yours?","Какого хуя это было, чувак? Ты чуть не отморозил мне, блядь, руку, Илай. Что, в твоей модной школе не учат считать?",ai,,999D7B9441A36F1EDDF2CFAC0DFC6EF0
 Eli,"Sorry, Jorge. ","Извини, Джордж.",ai,,104CAC8C44E375B96CCFC9B14DC7E1AF
 Eli,I...it was an attempt at a joke.,Я... это была попытка пошутить.,ai,,7626EE104C901713EAD81D997693A80F
 Eli,I panicked.,Я запаниковал.,ai,,89E6139948E176732E49FC883FFA7808
-Jorge,"What was that? What the actual fuck, Eli?","Что это было? Какого чёрта, Илай?",ai,,D350DF1A4B09383D556D11865C34A030
+Jorge,"What was that? What the actual fuck, Eli?","Что это было? Что за хуйня, Илай?",ai,,D350DF1A4B09383D556D11865C34A030
 Eli,I didn't see it. You tell me.,Я этого не видел. Ты скажи мне.,ai,,A1AEBF6B4A58BEFA4EBC818F9123248F
 Eli,...I guess that's what we're looking for.,"...Думаю, это то, что мы ищем.",ai,,50916F3148196CC6AC1D09AD0B3EE175
 Eli,"Are you okay, man? ","Ты в порядке, чувак?",ai,,2B670EFD473E82985A22DD89EF5882C4
-Jorge,"Sorry doesn't cut it. It's like you have no practical skills whatsoever. Fucking useless, man.","Извинениями тут не отделаешься. У тебя вообще нет практических навыков. Чертовски бесполезен, чувак.",ai,,EC88DB7A47F2009A1D280697E1B38F08
+Jorge,"Sorry doesn't cut it. It's like you have no practical skills whatsoever. Fucking useless, man.","Извинениями тут не отделаешься. У тебя вообще нет практических навыков. Бесполезный ты, блядь, чувак.",ai,,EC88DB7A47F2009A1D280697E1B38F08
 Eli,"Sorry, Jorge. What do we do now?","Извини, Джордж. Что нам теперь делать?",ai,,F3FDB81543D4A88E49105FA98AEE4B57
 Eli,I said I was sorry. Can we move on now?,"Я сказал, что извинился. Можем двигаться дальше?",ai,,2047F3A9437ADE664463AF92A3B84792
 Eli,You know...you could have counted a little faster.,Знаешь... ты мог бы считать немного быстрее.,ai,,84975A4F4E5C5BA2F9314E9B4421721B
@@ -89,7 +89,7 @@ Jorge,"...It's moving, Eli. It's fucking moving!","...Оно движется, �
 Eli,Moving?,Движется?,ai,,5687B973464A7E6193675F90F52A28EE
 Eli,What is?,Что?,ai,,93BF5F204D14EC549DA962AE59A2B9A7
 Eli,"...Nice to see you so animated, Jorge.","...Приятно видеть тебя таким оживлённым, Джордж.",ai,,4480CC0F4C2D84EC89FB5FBAE169D1EB
-Jorge,"Is that what this is to you? Some fucking joke before you go on to whatever appointment your family has lined up for you in Science City. Who cares if I get attacked by some sort of...fucking, I don't know, ink blob.","Для тебя это что, шутка перед тем, как ты отправишься на очередную встречу, которую твоя семья организовала для тебя в Научном городе? Кому какое дело, если на меня нападёт какая-то... чёрт, не знаю, чернильная капля.",ai,,CB3F92AB489F58741C38B0BAC66E0976
+Jorge,"Is that what this is to you? Some fucking joke before you go on to whatever appointment your family has lined up for you in Science City. Who cares if I get attacked by some sort of...fucking, I don't know, ink blob.","Для тебя это что, шутка перед тем, как ты отправишься на очередную встречу, которую твоя семья организовала для тебя в Научном городе? Кому какое дело, если на меня нападёт какая-то... блядь, не знаю, чернильная капля.",ai,,CB3F92AB489F58741C38B0BAC66E0976
 Eli,"I apologize, Jorge. How can I make it up to you?","Извини, Джордж. Как я могу загладить вину?",ai,,05A64DAB4B882060E35C4DA7F4FB63FE
 Eli,"Relax, Jorge.","Успокойся, Джордж.",ai,,E722AED34214B75893A339BFEF2A3F81
 Eli,I said I'm sorry. What do we do now?,"Я сказал, что извинился. Что нам теперь делать?",ai,,3F33C5B94846EC1683C312BE719B7BFE
@@ -142,7 +142,7 @@ Eli,What was it doing?,Что оно делало?,ai,,BEDF83AA48FE4A16C2EF8097A
 Eli,"I don't know what happened. I'm sorry, Jorge.","Я не знаю, что произошло. Извини, Джордж.",ai,,4F32F8A445CF3648A314FA9DF9DCBD26
 Jorge,"I don't know. But we've got it under control now. Contained. These things are airtight. Whatever that is, it's staying put.","Я не знаю. Но теперь у нас всё под контролем. Изолировано. Эти контейнеры герметичны. Что бы это ни было, оно никуда не денется.",ai,,C99A31344FE1C6E1E78899998DE87F31
 Eli,So what now?,И что теперь?,ai,,3C67317343419A23E3D34583E7788391
-Jorge,"I don't know! But next time I ask you to do something, I need you to listen! Especially when it involves...whatever the fuck that was!","Я не знаю! Но в следующий раз, когда я попрошу тебя что-то сделать, мне нужно, чтобы ты слушал! Особенно когда это касается... чёрт знает чего!",ai,,A4D658A345AE0A560A6E139217173B35
+Jorge,"I don't know! But next time I ask you to do something, I need you to listen! Especially when it involves...whatever the fuck that was!","Я не знаю! Но в следующий раз, когда я попрошу тебя что-то сделать, мне нужно, чтобы ты слушал! Особенно когда это касается... какой-то хуйни!",ai,,A4D658A345AE0A560A6E139217173B35
 Eli,I just couldn't help but stare at it.,Я просто не мог оторвать от него взгляд.,ai,,A4F8DA7D43F203165355DF9C1CAD0525
 Eli,...What was it doing?,...Что оно делало?,ai,,82DE586C476E55459D63E4A99097957A
 Eli,"I don't know what happened. I'm sorry, Jorge.","Я не знаю, что произошло. Извини, Джордж.",ai,,038F06FC43C4F89A42345FB61DD5C611
@@ -236,7 +236,7 @@ Eli,What do you make of that thing?,Что ты думаешь об этой ш�
 Eli,What are our next steps?,Каковы наши следующие шаги?,ai,,F7CB09274DDFADA4C0585CB877DDB8EE
 Eli,Anything I can do to help you?,Могу я чем-то помочь тебе?,ai,,16CD4A494AB6F2CC035A969C9B24C43E
 Eli,Alright then. I'll be right back.,Ладно тогда. Я скоро вернусь.,ai,,7E34F9F54E27C7383842B7A04FF9437E
-Jorge,"Move it! I don't know what this thing is, and I'm don't want to find out while we're out here in the middle of fucking nowhere!","Шевелись! Я не знаю, что это за штука, и не хочу выяснять это, пока мы здесь, в чёртовой глуши!",ai,,9C221E7C41F24AACCBB8D7BCEE39C86C
+Jorge,"Move it! I don't know what this thing is, and I'm don't want to find out while we're out here in the middle of fucking nowhere!","Шевелись! Я не знаю, что это за штука, и не хочу выяснять это, пока мы здесь, посреди ебаной глуши!",ai,,9C221E7C41F24AACCBB8D7BCEE39C86C
 Eli,On it!,За дело!,ai,,753E31F642BDDEC0C15E01AC886B826E
 Eli,Just hang tight!,Просто держись!,ai,,02F1955D454EBCA68AE2C2B5705A9E04
 Jorge,"[What little you see leaves much to the imagination, in all the worst ways. Once the container twists open, a pseudopod, clad in shimmering black, perches itself on the edge, attempting to find enough traction to escape its habitat.]","[То немногое, что ты видишь, оставляет простор для воображения, и в худшем смысле. Как только контейнер приоткрывается, псевдоподия, покрытая мерцающим чёрным, высовывается наружу, пытаясь найти опору, чтобы выбраться из своего убежища.]",ai,,0E7A30E349FE93A0497AE1B7BFFF70FE

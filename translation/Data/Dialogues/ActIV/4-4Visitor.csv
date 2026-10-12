@@ -1476,7 +1476,7 @@ The Visitor,"You know - bits and bobs of information, here and there. You two ar
 Eli,...Are there other digsites out here? Right now?,...Здесь есть другие раскопки? Прямо сейчас?,ai,,C1C6678643D3F46627A036B85A00A002
 Eli,"Look, what is your job, exactly? I think we deserve to know by now.","Послушайте, а кто вы, собственно, по должности? По-моему, мы уже заслужили знать.",ai,,786D26324A4E563E99AE6C857C0AFFB4
 Eli,I don't care. We found this thing.,Мне всё равно. Эту штуку нашли мы.,ai,,B5A8C25C4A2E761D00262C9D32AC0616
-The Visitor,"I know, I know - bureaucracy is a real bitch, huh? Look, I know you have strong feelings about it, I can tell. How about we talk it over? You know, all three of us?","Знаю, знаю, бюрократия та ещё стерва, а? Слушайте, вижу, вы горячо к этому относитесь. Давайте обсудим? Все втроём.",ai,,F76103FF47F23BC2E1542489A72009D6
+The Visitor,"I know, I know - bureaucracy is a real bitch, huh? Look, I know you have strong feelings about it, I can tell. How about we talk it over? You know, all three of us?","Знаю, знаю, бюрократия та ещё сука, а? Слушайте, вижу, вы горячо к этому относитесь. Давайте обсудим? Все втроём.",ai,,F76103FF47F23BC2E1542489A72009D6
 Eli,No. I need an answer right now.,Нет. Мне нужен ответ прямо сейчас.,ai,,6CC63E914AA579A7221598A9124970EE
 Eli,...Fine.,...Хорошо.,ai,,24CBA7084A267F61451D33A463BCDB55
 Eli,"I'd appreciate that, yes.","Буду признателен, да.",ai,,0713C6754C0D5F591AE5BB93E73C407F
@@ -1971,7 +1971,7 @@ Eli,Jorge better make it.,Джордж должен выжить.,ai,,59A5F2524B
 Eli,You never told me your name.,Вы так и не назвали своё имя.,ai,,1D0A44004D809A86D444A8B46D23595C
 Eli,"Sure. Fuck you, asshole.","Конечно. Пошёл ты нахуй, мудак.",ai,,5C18428F47042977728F32931FD89BFA
 Eli,"[Attack him, alone]",[Напасть на него в одиночку],ai,,ECC423304F358F2FC4877385D40284A1
-The Visitor,Consider it done.,"Считай, что дело в шляпе.",ok,,3AD50E914EC797198B3E26ACA73ABC10
+The Visitor,Consider it done.,Будет сделано.,ok,,3AD50E914EC797198B3E26ACA73ABC10
 Eli,...,,,,272E5215408A147D55C189A2D6BCEA69
 Jorge,"NOW, ELI!","ТЕПЕРЬ, ИЛАЙ!",ai,,FC769251482A875D0BD15C862EF78BDC
 Eli,[Stand back and let Jorge attack the visitor alone],[Отступить и позволить Джорджу напасть на Гостя в одиночку],ai,,B376110243E5E1778B8ACEA9FB239061
@@ -2052,7 +2052,7 @@ Eli,...I do miss my apartment.,...Мне не хватает моей кварт
 The Visitor,"I suppose I do. Alright, then - you're riding in the passenger seat, so I can keep it pointed at you. You know - as a formality.","Пожалуй, есть. Ладно, поедете на пассажирском, чтобы я мог держать вас на прицеле. Для порядка, понимаете.",ai,,D383FFE34DD1A7AAEAAE8A9680F7FAB1
 Eli,Deal.,Договорились.,ok,,DD339029403DACB0243A26A780357C3F
 Eli,"I'd rather be in the backseat, so I can keep an eye on the artifact.","Я бы лучше сел сзади, чтобы присматривать за Артефактом.",ai,,668E9D0A4257554667F00EA0AA5ED641
-The Visitor,"Heh. Two peas in a pod, and the third in another. Alright. You've sold me on it - but you're riding in the passenger seat, so I can keep it pointed at you. You know - as a formality.","Хе. Два сапога пара, а третий - сам по себе. Ладно. Уговорили, но ехать вы будете на пассажирском, чтобы я мог держать вас на прицеле. Для порядка, понимаете.",ai,,55B3D44C4886D228A8E6CAAC0A443512
+The Visitor,"Heh. Two peas in a pod, and the third in another. Alright. You've sold me on it - but you're riding in the passenger seat, so I can keep it pointed at you. You know - as a formality.","Хе. Как две горошины в одном стручке, а третья - в другом. Ладно. Уговорили, но ехать вы будете на пассажирском, чтобы я мог держать вас на прицеле. Для порядка, понимаете.",ai,,55B3D44C4886D228A8E6CAAC0A443512
 Eli,Deal.,Договорились.,ok,,5AF1AED44853207CD2DD448B7DBDC8CC
 Eli,"I'd rather be in the backseat, so I can keep an eye on the artifact.","Я бы лучше сел сзади, чтобы присматривать за Артефактом.",ai,,4E88FE6B4E79F162E24A7AB6496C9150
 The Visitor,"Excellent. Alright then, partner - let's get going. Sooner we get out of here, the better.","Отлично. Что ж, напарник, поехали. Чем раньше мы отсюда уберёмся, тем лучше.",ai,,4D474DDF47E42627772BE298073855F7
@@ -2667,7 +2667,7 @@ The Visitor,"Left things out, huh? Such as?","Кое-что упустили, г
 Eli,"The, uh...we might have intentionally killed it? Out of fear.","Э-э... возможно, мы убили его намеренно? Из страха.",ai,,3C6E73144C9BA8E7B61D6AB762795DE2
 Eli,"Well, we might have some theories on how exactly it died. Would that help?","Ну, у нас, возможно, есть версии, как именно он умер. Это поможет?",ai,,E652B10240DB0E11F778F4A8941F34B6
 Eli,...I'm not sure. It's just possible we might have.,"...Не уверен. Возможно, так и было.",ai,,6CBA1011459E7D3314484C8099AFCCCE
-The Visitor,"Right, right - cause accidents happen to the best of us, right? Even the top guys fuck up sometimes, eh?","Ага, ага - потому что и лучшие допускают несчастные случаи, да? Даже топовые парни иногда облажаются, а?",ai,,B4D063D44196D79414555E95F297B237
+The Visitor,"Right, right - cause accidents happen to the best of us, right? Even the top guys fuck up sometimes, eh?","Ага, ага - потому что и лучшие допускают несчастные случаи, да? Даже топовые парни иногда проёбываются, а?",ai,,B4D063D44196D79414555E95F297B237
 Eli,"Right. We'll make sure to clean up after ourselves, though. We've figured out a safe way to dispose of it.",Верно. Но мы за собой приберём. Мы нашли безопасный способ его утилизации.,ai,,8FC392084B0C5C6C6C5845B9347297BB
 Eli,"Yes, but we're confident me and Jorge can fill in the gaps ourselves, without having to bring it back to the City.","Да, но мы уверены, что мы с Джорджем сами восполним пробелы, не возвращая его в Город.",ai,,47BC8B554837D4D062242B86D9842D79
 Eli,At least it poses no threat to anyone out here.,"Во всяком случае, оно никому здесь не угрожает.",ai,,A90CB98D415A85E5B8DF87AF2EBDB9C1

@@ -6,7 +6,7 @@ Howard,"Well, I spoke to Freja. Flirted a bit.","Ну, я поговорил с 
 Howard,"Well, me and Niles had a chat.","Ну, мы с Найлсом поболтали.",ai,,DEF8FB9E403EBF9FA56371AA0D260695
 Howard,"Well, I ended up flirting with Wisconsin.","Ну, в итоге я флиртовал с Висконсином.",ai,,5848EDFB466DBC8C40DAF09B2D9B84B4
 Larry,"You dig it? Dude, it's The Cuttleboys! You don't just DIG The Boys; The Boys are LIFE, man.","Нравится? Чувак, это же The Cuttleboys! The Cuttleboys не может просто НРАВИТЬСЯ. Эти парни - это ЖИЗНЬ, чувак.",ai,,3BEFA33E4987CEE86B269CAA6F881CD1
-Howard,"You're right. Literally so fucking good, my dude.","Ты прав. Охрененно хороши, дружище.",ai,,58744EA24606E7253A4E83B683D6B35B
+Howard,"You're right. Literally so fucking good, my dude.","Ты прав. Просто пиздец как хороши, дружище.",ai,,58744EA24606E7253A4E83B683D6B35B
 Howard,"Life, man. You said it.","Жизнь, чувак. Сам сказал.",ai,,85BCD1C147196BCFC15C6D8A176795F3
 Howard,"...Sure, but what else do you have?","...Допустим, а что у тебя ещё есть?",ai,,AE94F26B40C4BF63ADFABAA4DDF91FDB
 Howard,"Okay, slow down. They're not THAT good.","Так, полегче. Не ТАК уж они и хороши.",ai,,4ED18F824D75831B96327CA42F621E94
@@ -347,7 +347,7 @@ Howard,My turn to do what?,Моя очередь - что делать?,ai,,21D3
 Larry,"He thinks he's hot shit, dude. To some, he probably is.","Он считает себя крутым, чувак. Для кого-то он, наверное, и правда такой.",ai,,5207DA454FE503B39C6D16A419C6C34B
 Howard,You might be right on that.,"Тут ты, возможно, прав.",ai,,77E4BC284363B44524701DA167BF6966
 Howard,I think he's pretty hot.,"По-моему, он довольно горячий.",ai,,91D5A2B4420750DF9F94AD9448A267F4
-Howard,"Yeah. Hah. Psh. Who would think that, right? What kind of loser would think Niles is super fucking hot? Hah.","Ага. Ха. Пф. Кто бы такое подумал, да? Какой лузер решит, что Найлс чертовски горяч? Ха.",ai,,6A4B05B04B1AD543E326AAAEE765E558
+Howard,"Yeah. Hah. Psh. Who would think that, right? What kind of loser would think Niles is super fucking hot? Hah.","Ага. Ха. Пф. Кто бы такое подумал, да? Какой лузер решит, что Найлс пиздец как горяч? Ха.",ai,,6A4B05B04B1AD543E326AAAEE765E558
 Larry,"Well, yeah. I don't mean to sound mean, or anything, but I don't think a lot of people flirt with Wisconsin.","Ну да. Не хочу показаться злым или вроде того, но, по-моему, с Висконсином мало кто флиртует.",ai,,8A2DF7C4497FC6A3CA8EA58DFAC70922
 Howard,"They should, because he's a delight.","А стоило бы, он же прелесть.",ai,,8D7A7BF44C4D837E68B86892785DF34F
 Howard,More Wisconsin for me. You won't hear me complaining.,Тем больше Висконсина достанется мне. От меня жалоб не дождёшься.,ai,,DF8C4D10490C07726E31BA9C910AE915
@@ -372,7 +372,7 @@ Howard,Wanna be my wingman?,Побудешь моим вингменом?,ai,,C6
 Howard,[Start Flirting] Why bother? Everything I want is right here.,"[Начать флиртовать] Зачем напрягаться? Всё, что мне нужно, прямо здесь.",ai,,16B7E4A5434F9FC6915F20AD6A7AD243
 Howard,[Leave],[Выйти],ok,,3D5039F849A2F31C64E9DA94F216007F
 Larry,"Pssh. Just a feeling, man. But whatever vibe we've got going, it's life-changing. Know what I mean?","Пф. Просто ощущение, чувак. Но какой бы вайб у нас ни был, он меняет жизнь. Понимаешь, о чём я?",ai,,64F8B04C40603E7E7C6A0D88FD8ECF1D
-Howard,Fuck yeah I do. [Raise your beer],"Ещё бы, чёрт возьми. [Поднять пиво]",ai,,07793EEF4FCBA806DF09C68631384D6C
+Howard,Fuck yeah I do. [Raise your beer],"Блядь, ещё бы. [Поднять пиво]",ai,,07793EEF4FCBA806DF09C68631384D6C
 Howard,"I don't know if it'll do that much, Larry.","Не знаю, будет ли от этого толк, Ларри.",ai,,A365C6AA43C99D8A59F68A95A1FB69D1
 Larry,"Yeah, sure. What's up?","Ага, конечно. В чём дело?",ai,,8D6ACCDA4CAEA3B09CEE288EBB9FF652
 Howard,"Uh, Larry, how do I, um, get ""out there""?","Э-э, Ларри, а как мне, ну, «выйти в люди»?",ai,,DA8FB7044342A595A7851E8F09AA90F2
@@ -393,7 +393,7 @@ Howard,Wisconsin.,Висконсин.,ai,,D3952315472F292FEE18E8A4CFA68B06
 Larry,"Are you kidding? Instead of stressing out about dating nonsense like most people, I get to focus all that energy on stuff I actually care about. Art, music, friendship. Making a difference, you know?","Шутишь? Вместо того чтобы изводиться из-за ерунды со свиданиями, как большинство, я могу направить всю энергию на то, что мне действительно важно. Искусство, музыка, дружба. Менять что-то к лучшему, понимаешь?",ai,,22A758314D335914D15315B51F3DA01A
 Howard,That actually sounds a lot easier.,А звучит гораздо проще.,ai,,65D2AF0D4D48CFF458D259B93C7D115D
 Howard,Can't you do all that AND experience love?,А разве нельзя всё это И любить?,ai,,614FB9C74FF3D85A48617FBE55FBB8A6
-Larry,"Dude, just because I don't feel the need to mush parts with someone doesn't mean I can't experience love. I feel love all the time! I love this song you put on, I love this beer, fuck...I love you, man!","Чувак, то, что мне не хочется с кем-то тискаться, не значит, что я не знаю, что такое любовь. Я чувствую любовь постоянно! Люблю эту песню, которую ты поставил, люблю это пиво, блин... люблю тебя, чувак!",ai,,9BC228DD4792824916B61C873E324A98
+Larry,"Dude, just because I don't feel the need to mush parts with someone doesn't mean I can't experience love. I feel love all the time! I love this song you put on, I love this beer, fuck...I love you, man!","Чувак, то, что мне не хочется с кем-то тискаться, не значит, что я не знаю, что такое любовь. Я чувствую любовь постоянно! Люблю эту песню, которую ты поставил, люблю это пиво, блядь... люблю тебя, чувак!",ai,,9BC228DD4792824916B61C873E324A98
 Howard,"Got it. I think. No, I get it.","Понял. Кажется. Нет, я понимаю.",ai,,D4BFB90D42E45628C579489C9DF46AB3
 Howard,And I love you.,И я тебя люблю.,ai,,1AAC46E043312201031ED79FF86947A5
 Howard,"Right, right. Sorry, man.","Ага, ага. Прости, чувак.",ai,,74B6868C458C98520444F39D8BF25554
@@ -449,19 +449,19 @@ Howard,"Fine. Go on, then. Say it.","Ладно. Ну давай, говори."
 Larry,"Somehow I doubt that, but sure. Still not sure how you managed it, but I guess you did. Well played, my dude. I stand corrected.","Сомневаюсь, но ладно. Всё ещё не понимаю, как ты это провернул, но, видимо, провернул. Отлично сыграно, дружище. Беру слова назад.",ai,,EAB5AB4249CFF5271678B79D8819F33F
 Howard,"""Well played"" is right. I am Howard, master flirt.","«Отлично сыграно» - это мягко сказано. Я Говард, мастер флирта.",ai,,E05285A6414A97EBCA022BA93C8B5FA9
 Howard,"I'll admit, it wasn't easy.","Признаю, это было непросто.",ai,,323BA5CA4FB79A2E019C868E2E517269
-Howard,"Again, I was a fucking flirt king back there. Just to making sure you got that.",Повторю: там я был чёртовым королём флирта. Просто чтобы ты точно это усвоил.,ai,,9E0BCBA9449F0A646CBAB5BEFB94869E
+Howard,"Again, I was a fucking flirt king back there. Just to making sure you got that.","Повторю: там я был, блядь, королём флирта. Просто чтобы ты точно это усвоил.",ai,,9E0BCBA9449F0A646CBAB5BEFB94869E
 Larry,"That's...well, that's impressive, dude. Not sure how exactly you managed, but you did. I stand corrected, I guess.","Это... ну, это впечатляет, чувак. Не пойму, как ты справился, но справился. Беру слова назад, пожалуй.",ai,,88B088DF433E104DD35F6D87A76A352C
 Howard,"Too right. I am Howard, master flirt and man of mystery.","Ещё бы. Я Говард, мастер флирта и человек-загадка.",ai,,18608F7940F3FD43949894B0E5EB89F4
 Howard,"I'll admit, it wasn't easy.","Признаю, это было непросто.",ai,,9B9A291547338ACB2D70EC8C66220233
-Howard,"Again, I was a fucking flirt king back there. Just to making sure you got that.",Повторю: там я был чёртовым королём флирта. Просто чтобы ты точно это усвоил.,ai,,E48817DC47A053DE26F12482D72204EB
+Howard,"Again, I was a fucking flirt king back there. Just to making sure you got that.","Повторю: там я был, блядь, королём флирта. Просто чтобы ты точно это усвоил.",ai,,E48817DC47A053DE26F12482D72204EB
 Larry,"That worked, huh? Color me surprised. And wrong, I guess. Well played, dude.","Сработало, да? Вот это сюрприз. И я, видимо, ошибался. Отлично сыграно, чувак.",ai,,DB967E34403CB9CA30655DA4983B969B
 Howard,"""Well played"" is right. I am Howard, master flirt.","«Отлично сыграно» - это мягко сказано. Я Говард, мастер флирта.",ai,,B4D291DA45D053FF1860F3A83D658B19
 Howard,"I'll admit, it wasn't easy.","Признаю, это было непросто.",ai,,226DB18142B8D1DA6ECD9E902962AC8A
-Howard,"Again, I was a fucking flirt king back there. Just to making sure you got that.",Повторю: там я был чёртовым королём флирта. Просто чтобы ты точно это усвоил.,ai,,D7A617694A93EA76A5D09B82C66DFD5C
-Larry,"Take your foot off the confidence pedal there, dude. But sure, managing to charm Niles is a tall fucking order, man. Very well. I guess you're smoother than you look.","Сбавь обороты с уверенностью, чувак. Но да, очаровать Найлса - та ещё чёртова задачка. Ладно уж. Видимо, ты ловчее, чем кажешься.",ai,,2D4249BA4152D0759AD3288906766E34
+Howard,"Again, I was a fucking flirt king back there. Just to making sure you got that.","Повторю: там я был, блядь, королём флирта. Просто чтобы ты точно это усвоил.",ai,,D7A617694A93EA76A5D09B82C66DFD5C
+Larry,"Take your foot off the confidence pedal there, dude. But sure, managing to charm Niles is a tall fucking order, man. Very well. I guess you're smoother than you look.","Сбавь обороты с уверенностью, чувак. Но да, очаровать Найлса - та ещё ебучая задачка. Ладно уж. Видимо, ты ловчее, чем кажешься.",ai,,2D4249BA4152D0759AD3288906766E34
 Howard,"Too right. I am Howard, master flirt.","Ещё бы. Я Говард, мастер флирта.",ai,,589BDACC4C55792A447A89879AFF5087
 Howard,"I'll admit, it wasn't easy.","Признаю, это было непросто.",ai,,9D6338F5402E4969D6736BA8B0F0CED3
-Howard,"Again, I was a fucking flirt king back there. Just to making sure you got that.",Повторю: там я был чёртовым королём флирта. Просто чтобы ты точно это усвоил.,ai,,51B83CC34C9BFC4404F190A5BE179515
+Howard,"Again, I was a fucking flirt king back there. Just to making sure you got that.","Повторю: там я был, блядь, королём флирта. Просто чтобы ты точно это усвоил.",ai,,51B83CC34C9BFC4404F190A5BE179515
 Larry,"That's pushing it, dude.","Это ты уже перегибаешь, чувак.",ai,,2C83A2E84103C0E9552A9F810760C840
 Howard,Are you saying I'm not?,"Ты хочешь сказать, что нет?",ai,,471ACAFC49094F15C070228737894622
 Howard,Are you saying you need further proof?,"Хочешь сказать, тебе нужны ещё доказательства?",ai,,CB068BA8458F4C171D8F169CB281C8DD
@@ -508,7 +508,7 @@ Larry,"I don't know, dude. Just what we talked about earlier. Times changing, an
 Howard,"Let's hope my flirting changes for the better, too.","Будем надеяться, мой флирт тоже изменится к лучшему.",ai,,37949A794F7724B1F902FEAD852DF56B
 Howard,Some things don't change. I promise.,Кое-что не меняется. Обещаю.,ai,,2BC2CE19490B44F9EFA5BE98C0FFA22B
 Howard,"It's okay, man. Don't worry.","Всё нормально, чувак. Не переживай.",ai,,DC83F35B40B14D3273EB73B89242BF3A
-Larry,"Fuck that. Yes I do. I look out for you man, because I know you'd do the same. Not a lot of people have that, and few ever know they did until they don't.","К чёрту. Ещё как. Я присматриваю за тобой, чувак, потому что знаю, что ты поступил бы так же. Такое есть не у многих, и мало кто понимает, что это у него было, пока не потеряет.",ai,,029614704283293DC9FE84A7C93C737A
+Larry,"Fuck that. Yes I do. I look out for you man, because I know you'd do the same. Not a lot of people have that, and few ever know they did until they don't.","Да ну нахуй. Ещё как. Я присматриваю за тобой, чувак, потому что знаю, что ты поступил бы так же. Такое есть не у многих, и мало кто понимает, что это у него было, пока не потеряет.",ai,,029614704283293DC9FE84A7C93C737A
 Howard,What got you so worked up?,Что на тебя нашло?,ai,,8E76379B4AA126B4F5006D8EBDA3EEFB
 Howard,Whoah. That's deep.,Ого. Глубоко.,ai,,D08E07D646D939C0FE9EE288D5BCA38D
 Howard,"You're drunk. You're getting sappy, man.","Ты пьян. Ты становишься сентиментальным, чувак.",ai,,E6801B6D4F15D001A703E7934B25B1F0
@@ -525,7 +525,7 @@ Howard,(INVESTIGATIVE) Got any new stuff? Experimental stuff?,(ПЫТЛИВОС�
 Howard,"(SARCASTIC) Truly, a life of hard knocks and rough surprises.","(САРКАЗМ) Поистине жизнь, полная тяжких испытаний и суровых сюрпризов.",ai,,D9C6336846662FE446729BB9965D9514
 Howard,"(SOCIAL) You did it, though! Got anything funky to celebrate with?","(ОБЩИТЕЛЬНОСТЬ) Но ты же справился! Есть что-нибудь зажигательное, чтобы отпраздновать?",ai,,246628BE4AFD2F9BF81EDEB00908FAD5
 Howard,Mind if I take a look?,Можно глянуть?,ai,,D14AE2EB4C010D14BDD99D91DD40D2C3
-Larry,"Exactly fucking right. Sorry, dude. You don't get a say in it.","Именно, мать твою. Извини, чувак. Тебя никто не спрашивает.",ai,,F8F6C6AC40BAAE8D7A7F0FB603A00F2B
+Larry,"Exactly fucking right. Sorry, dude. You don't get a say in it.","Именно, блядь, так. Извини, чувак. Тебя никто не спрашивает.",ai,,F8F6C6AC40BAAE8D7A7F0FB603A00F2B
 Howard,"Did something get you worked up, man?","Что-то тебя задело, чувак?",ai,,7C46A00D440EFB5A6896049D2381579A
 Howard,"Man. You're serious about it, huh?","Чувак. Ты это всерьёз, да?",ai,,F0892114447AB72D3FDD2EBCDCBFDA9E
 Howard,Psssh. You're getting sappy.,Пфф. Ты становишься сентиментальным.,ai,,2CEBBFC24E7272CB7A6DEC8EE546DB11
@@ -542,20 +542,20 @@ Larry,"Watch me, loser. You couldn't stop me if you tried.","Смотри, лу�
 Howard,So what do we do now?,И что теперь делаем?,ai,,8F444B7C4BCD95429930E0AB371B28FC
 Howard,"Sweet. Pass me another beer, man.","Класс. Передай-ка мне ещё пива, чувак.",ai,,1F98E0634BCC404E994A0AB4D8E9EBC3
 Larry,"Well, we're out of stuff to drink, man. Only one thing left to do.","Ну, выпивка у нас кончилась, чувак. Осталось только одно.",ai,,B4AE72DC4802B529F8DF0AB615A9C962
-Howard,Passing out. Fuck yeah.,"Вырубиться. Да, блин.",ai,,8B94CCF745C9D1E51A318084121896D8
-Howard,Going to sleep. Fuck yeah.,"Лечь спать. Да, блин.",ai,,AFB58A7D46B408916043E3A2C56878FD
-Howard,Kissing cute boys. Fuck yeah.,"Целоваться с симпатичными парнями. Да, блин.",ai,,C7732EC34BEDDA06BB476A9C1E416151
-Howard,Kissing cute girls. Fuck yeah.,"Целоваться с симпатичными девчонками. Да, блин.",ai,,DE73D4F84BE6217D842685BD88304359
-Howard,Getting more beer. Fuck yeah.,"Взять ещё пива. Да, блин.",ai,,C45AA921458915C9B9563DA303BA5F6F
+Howard,Passing out. Fuck yeah.,"Вырубиться. Блядь, да.",ai,,8B94CCF745C9D1E51A318084121896D8
+Howard,Going to sleep. Fuck yeah.,"Лечь спать. Блядь, да.",ai,,AFB58A7D46B408916043E3A2C56878FD
+Howard,Kissing cute boys. Fuck yeah.,"Целоваться с симпатичными парнями. Блядь, да.",ai,,C7732EC34BEDDA06BB476A9C1E416151
+Howard,Kissing cute girls. Fuck yeah.,"Целоваться с симпатичными девчонками. Блядь, да.",ai,,DE73D4F84BE6217D842685BD88304359
+Howard,Getting more beer. Fuck yeah.,"Взять ещё пива. Блядь, да.",ai,,C45AA921458915C9B9563DA303BA5F6F
 Larry,"Wow, you're really hard up for this guy, aren't you? Alright: why don't you start by telling me what you like about him?","Ого, ты и правда запал на этого парня, да? Ладно: почему бы не начать с того, что тебе в нём нравится?",ai,,CAB9EFA643B8923F883E6090B0EDD068
 Howard,He's not afraid to put people in their place.,Он не боится ставить людей на место.,ai,,F14ECF144609FE854948D6A196FB7403
 Howard,He's genuine.,Он искренний.,ai,,4CE8417445A576A82FD6229EE3972D70
 Howard,He's so hot.,Он такой горячий.,ai,,C0225B8D4D42C90709B8E7B9084CCB4A
 Howard,He's very...enthusiastic.,Он очень... полон энтузиазма.,ai,,EC26920443B6F3A1CE055DAAAE347196
 Larry,"...No, getting more beer.","...Нет, взять ещё пива.",ai,,B5D91BB14DF88C6EAC6AC7BC42B230A9
-Howard,Oh. Getting more beer. Fuck yeah.,"А. Взять ещё пива. Да, блин.",ai,,FF2F928B4EEA293D4D732DA14338EC09
+Howard,Oh. Getting more beer. Fuck yeah.,"А. Взять ещё пива. Блядь, да.",ai,,FF2F928B4EEA293D4D732DA14338EC09
 Howard,Oh. Getting more beer.,А. Взять ещё пива.,ai,,122DA33140B77E3C29317296F0D4557D
-Larry,"Fuck yeah, Howie. Pick something out and put it on!","Вот это дело, Говчик. Выбирай и ставь!",ai,,D1E259164CC067BAE9A675AC73CECCC4
+Larry,"Fuck yeah, Howie. Pick something out and put it on!","Блядь, вот это дело, Говчик. Выбирай и ставь!",ai,,D1E259164CC067BAE9A675AC73CECCC4
 Howard,"Alright, sure. Let me see...","Ладно, давай посмотрим...",ai,,9717927C4B26825F54F7C4A714CB0F5F
 Larry,"That's right. Come on, dude - there's a guy I want to meet on the way. Sells cigs for cheap, and has a bunch of other stuff too.","Вот именно. Пошли, чувак: по дороге мне надо кое с кем встретиться. Продаёт сигареты задёшево, да и ещё всякого добра у него хватает.",ai,,629925FE4A0B95C2108AD3B1B0B5785E
 Howard,"Alright, man. Lead the way.","Ладно, чувак. Веди.",ai,,AA2D4D98433AA6961DE054A14BA886E8
@@ -658,11 +658,11 @@ Howard,Gotcha.,Понял.,ok,,7775D03646C942FBBD7BDEB464C6D638
 Larry,"That's more than enough, man! Just make sure to volley that same energy back. Make her laugh and don't take yourself too seriously. Make sense?","Этого более чем достаточно, чувак! Просто отвечай ей той же энергией. Рассмеши её и не принимай себя слишком всерьёз. Понятно?",ai,,9842305E4FD1CFFB0F6AE3B407535409
 Howard,[Nod],[Кивнуть],ai,,8F696C2E47D9FCA34BCC568CF992C8E0
 Howard,Totally.,Вполне.,ai,,72F44B5B4DA4007474B9A8A4B1E28F5E
-Larry,"Fuck yeah, they do! This is a Cuttleboy dorm, with immediate effect. A bastion of Cuttleboydom. The Cuttlehouse.",Ещё бы они крутые! С этой минуты это общага The Cuttleboys. Бастион каттлбойства. Каттлхаус.,ai,,B5997B784467A23E0C1627B35AC0F1CA
+Larry,"Fuck yeah, they do! This is a Cuttleboy dorm, with immediate effect. A bastion of Cuttleboydom. The Cuttlehouse.","Блядь, ещё бы они крутые! С этой минуты это общага The Cuttleboys. Бастион каттлбойства. Каттлхаус.",ai,,B5997B784467A23E0C1627B35AC0F1CA
 Howard,I am so down for that.,Я только за.,ai,,23CAC82C42E11D0823876C9F29DC6139
 Howard,"Do we have any other kind of music in the Cuttlehouse, though?",А другая музыка в Каттлхаусе вообще будет?,ai,,223E31E6479D234D83F0DD82A08DBD87
 Howard,"That's pushing it a bit too far, man.","Это уже перебор, чувак.",ai,,886CFCDE44BD822FDD499AA9E75912E0
-Larry,"Yeah? I don't know, dude. I find myself dreaming of what can be - what will be. Purpose, being. You, me, and a huge fucking record player in a loft apartment in Yaletown.","Да? Не знаю, чувак. Я всё мечтаю о том, что может быть, что будет. Смысл, бытие. Ты, я и огромный чёртов проигрыватель в лофте в Йелтауне.",ai,,1F617B6A454A746C1E5193B252B94727
+Larry,"Yeah? I don't know, dude. I find myself dreaming of what can be - what will be. Purpose, being. You, me, and a huge fucking record player in a loft apartment in Yaletown.","Да? Не знаю, чувак. Я всё мечтаю о том, что может быть, что будет. Смысл, бытие. Ты, я и огромный ебучий проигрыватель в лофте в Йелтауне.",ai,,1F617B6A454A746C1E5193B252B94727
 Howard,Purpose? You think we'll figure that out?,"Смысл? Думаешь, мы его найдём?",ai,,85A7D5A446167EB41199588D0BA3B0D4
 Howard,Just you and me?,Только ты и я?,ai,,797FD6C6402B99E3B7BA2EA51E7C39D9
 Howard,I'm listening.,Я слушаю.,ok,,5EFBD7104CDA088A1D3473BD4E8A00E0
@@ -688,7 +688,7 @@ Howard,Now? Aren't we still listening to The Cuttleboys?,Сейчас? Мы ра
 Howard,Maybe I will.,"Может, и поставлю.",ai,,4CD0C01644F684160E4C65B51F2FAF88
 Larry,"Go on, then! Go put it on!",Ну так давай! Ставь!,ai,,D9B11D5D4F66786FFEB5CDAFF6BCA0F2
 Howard,Now? Aren't we still listening to The Cuttleboys?,Сейчас? Мы разве не слушаем The Cuttleboys?,ai,,E824F62F459DCC0871A677866F3DC954
-Howard,Fuck yeah I will.,"Да чёрт возьми, поставлю.",ai,,814DAC9B4BC640F17671B4A2FAAE8698
+Howard,Fuck yeah I will.,"Да блядь, поставлю.",ai,,814DAC9B4BC640F17671B4A2FAAE8698
 Larry,"Well yeah, but we can do that every single minute of every single day. I want to hear what Howard wants to hear on this particular minute, on this particular day!","Ну да, но их мы можем слушать каждую минуту каждого дня. А я хочу услышать то, что хочет слышать Говард в эту конкретную минуту этого конкретного дня!",ai,,740C78B440943A6C5C36F6B65CC1255C
 Howard,"Alright, I'm on it.","Ладно, уже иду.",ai,,878FBA3C4E1C24C9C5262CB2362AB59D
 Larry,"You joke, but those albums got me through tough times! I've got a Luna Hong album I've listened to like a million times - it's got that good, comforting melancholic quality to it.","Ты шутишь, а эти альбомы вытаскивали меня в трудные времена! У меня есть альбом Луны Хонг, который я слушал миллион раз: в нём такая хорошая, утешительная меланхолия.",ai,,5A1FECE34C64429E11776DA4256297C2
@@ -701,22 +701,22 @@ Howard,"Alright, alright... [Leave]","Ладно, ладно... [Уйти]",ai,,
 Howard,Where are the records again?,"Где, кстати, пластинки?",ai,,51A2E57146394BC01A95A59FC25A36FF
 Larry,"But you can work a record player, can't you? Go on, put something on!","Но проигрыватель-то ты включить можешь, правда? Давай, ставь что-нибудь!",ai,,F88C42194E24187490649AA23BF4920E
 Howard,"Alright, let's see...","Ладно, посмотрим...",ai,,BABF3C3443C772ABFF6665A0ADCCB0F9
-Larry,"Of course you are, man! You're Howard fucking Lotor! We're gonna do great things, you and I.","Ещё бы, чувак! Ты же Говард, мать его, Лотор! Мы с тобой свернём горы.",ai,,152EAB564914AF0AB8B4A2A210813407
+Larry,"Of course you are, man! You're Howard fucking Lotor! We're gonna do great things, you and I.","Ещё бы, чувак! Ты же, блядь, Говард Лотор! Мы с тобой свернём горы.",ai,,152EAB564914AF0AB8B4A2A210813407
 Howard,Of course we are. We're going to make it HUGE.,Конечно. Мы добьёмся ОГРОМНОГО успеха.,ai,,CC7ED67447DB232E006C20A54C1339E1
 Howard,"I hope it turns out that way, yeah.","Надеюсь, так и выйдет.",ai,,5839D45A44BC6A6BB6A1979AA5D07A81
 Larry,"Right now? I'd say it's your turn to choose. Go on, man - put on a record! Your pick.","Сейчас? По-моему, твоя очередь выбирать. Давай, чувак, ставь пластинку! Твой выбор.",ai,,4B627EB14ABE76D4D99C0AB44616DDB7
 Howard,Aren't we listening to The Cuttleboys for now?,Разве мы пока не слушаем The Cuttleboys?,ai,,BE0C21F54BE8D93206112A81F60AE3D9
 Howard,"Alright, let's see what you've got.","Ладно, посмотрим, что у тебя есть.",ai,,104175784A6645FB10B5D982609BC70B
-Larry,"Fuck yeah. Alright, your turn! Go put on a record! Your pick, my dude.","Ещё бы. Ладно, твоя очередь! Ставь пластинку! Твой выбор, дружище.",ai,,C743C6F84EFF0D577A1077B9A417379E
+Larry,"Fuck yeah. Alright, your turn! Go put on a record! Your pick, my dude.","Блядь, ещё бы. Ладно, твоя очередь! Ставь пластинку! Твой выбор, дружище.",ai,,C743C6F84EFF0D577A1077B9A417379E
 Howard,Aren't we listening to The Cuttleboys for now?,Разве мы пока не слушаем The Cuttleboys?,ai,,809C9F314C7756194BCBBC83CC0164B2
 Howard,"Alright, let's see what you've got.","Ладно, посмотрим, что у тебя есть.",ai,,EE35173E417EAA9840CB5BA5EEE7D5E9
 Larry,"You're making this way harder than it needs to be, Howie. Just be confident! Walk up to people and talk to them! We know everyone in the dorm already, so it's not like you're approaching strangers.","Ты усложняешь, Говчик. Просто будь уверенным! Подходи к людям и разговаривай с ними! Мы же всех в общаге уже знаем, так что ты подходишь не к незнакомцам.",ai,,2E1F71954F7250A951CD3BBCA4890A49
 Howard,Can I ask you something else?,Можно тебя ещё кое о чём спросить?,ai,,D4E744BA4BCB4495CB6FD491C49C6479
 Howard,On it.,Уже иду.,ai,,A68EF9D04189407A0FB00D9D24532364
-Larry,"That's what I'm talking about, man. Fucking Tony-Roo!","Вот о чём я, чувак. Чёртов Тони-Ру!",ai,,B7FEDCB54B8F42D5BE4C889583DF68F3
+Larry,"That's what I'm talking about, man. Fucking Tony-Roo!","Вот о чём я, чувак. Ебучий Тони-Ру!",ai,,B7FEDCB54B8F42D5BE4C889583DF68F3
 Howard,"Just following your recommendations, my dude.","Просто следую твоим рекомендациям, дружище.",ai,,B0C51E77402336A5BE3584A9B4422EC4
 Howard,"This slaps, man. Pure energy.","Это бомба, чувак. Чистая энергия.",ai,,15E88F374E2E459A45652A96A151F6FB
-Howard,"Fucking Tony-Roo is right - what kind of name is that, anyway?","Чёртов Тони-Ру, точно. А что это вообще за имя?",ai,,BDFAEE90408A65287CE3178C703CB6C3
+Howard,"Fucking Tony-Roo is right - what kind of name is that, anyway?","Ебучий Тони-Ру, точно. А что это вообще за имя?",ai,,BDFAEE90408A65287CE3178C703CB6C3
 Larry,"Well, yeah. But we can do that every single minute of every single day. I want to hear what Howard wants to hear on this particular minute, on this particular day!","Ну да. Но их мы можем слушать каждую минуту каждого дня. А я хочу услышать то, что хочет слышать Говард в эту конкретную минуту этого конкретного дня!",ai,,063931D64DEA3F9569E0089E80E1A47A
 Howard,"Alright, let's see...","Ладно, посмотрим...",ai,,2D9AEEAF4CC8F8D42C6EE9AAF4337E9F
 Larry,"What can I say? I got good taste. You'll see, man, when we get out of here, I'll show you. There's so much stuff I want to see, and I know you're going to love it too.","Что поделать, у меня хороший вкус. Увидишь, чувак, когда мы выберемся отсюда, я тебе покажу. Столько всего хочу увидеть, и знаю, что тебе тоже понравится.",ai,,930ED6BB4F4892793BFFD7AC35714A48
@@ -745,18 +745,18 @@ Howard,"You recommended it, man.","Ты сам её рекомендовал, ч
 Larry,"Luna Hong? Really? I mean, it's all good - just a little mellow. You good, man?","Луна Хонг? Серьёзно? В смысле, всё нормально, просто немного вяловато. Ты в порядке, чувак?",ai,,E30B7C004C327D6345A1C2846F1ED9BB
 Howard,"Yeah, I just felt like mellow.","Да, просто захотелось чего-то спокойного.",ai,,E53B93EE4B1BFFDAF46E70BB5593F93B
 Howard,I just took your recommendation seriously.,Я просто всерьёз отнёсся к твоей рекомендации.,ai,,10DA716F42B17E856CB148A973DE6E9F
-Howard,"I'm depressed as fuck, man. You know that.","У меня чёртова депрессия, чувак. Ты же знаешь.",ai,,C873746647947EA8B2CA5888B1F1E988
+Howard,"I'm depressed as fuck, man. You know that.","У меня пиздецкая депрессия, чувак. Ты же знаешь.",ai,,C873746647947EA8B2CA5888B1F1E988
 Howard,"I don't know, man. Sometimes I feel like I just watch my life unfold.","Не знаю, чувак. Иногда мне кажется, что я просто наблюдаю, как разворачивается моя жизнь.",ai,,BEEA8D2D404D56B5F98373A91C79C39D
 Larry,Did you put something on? I can't hear anything.,Ты что-нибудь поставил? Я ничего не слышу.,ai,,ED9ACC5040B2E2BEE677FB9E54E2E485
 Howard,You can't? You must be bugging out.,"Не слышишь? Наверное, у тебя глюки.",ai,,3042770D4E8B19141802E58259BEE40D
 Larry,"Probably, yeah. This means no music choice was made, so it's definitely something that isn't supposed to happen. Lucky few people who see this, huh? Like a little peek behind the scenes.","Наверное, да. Это значит, что музыку не выбрали, а такого быть не должно. Немногим везёт это увидеть, а? Как заглянуть за кулисы.",ai,,786AB46641E5E092A286F785BF4E843D
-Howard,"Indeedelidoo, fuckerino.","Само собой, чёртов чувачок.",ai,,2FD37E9D4DBCC5BB583DF8845524BFEF
+Howard,"Indeedelidoo, fuckerino.","Само собой, ебучий чувачок.",ai,,2FD37E9D4DBCC5BB583DF8845524BFEF
 Larry,"Well, as far as comforting sadness goes, you could do a lot worse than this. Let's just chill and enjoy this moment, man. This dorm. It'll be gone, eventually.","Ну, как утешительная грусть, бывает и хуже. Давай просто расслабимся и насладимся моментом, чувак. Этой общагой. Когда-нибудь её не станет.",ai,,5E4CE0C54FD8CCF11E176EB05D9DC9D1
 Howard,Dorm life?,Жизнь в общаге?,ai,,6209A8DF44FEBDF522D673A64581CF60
 Larry,"Damn right, man. When all this is over and we get out of here, we need to find a huge couch to hang out on. Listen to music day in, day out.","Ещё бы, чувак. Когда всё это закончится и мы выберемся отсюда, надо будет найти огромный диван, на котором будем торчать. Слушать музыку день за днём.",ai,,EBCB1B0348D4AE5DBB02E695EF4062E4
 Howard,When we get out of here?,Когда мы выберемся отсюда?,ai,,EA0E7EAB47A5A4BE91818BA3A0BDFE12
 Larry,"We're listening to them right now, man! This is them! The Cuttleboys!","Да мы прямо сейчас их слушаем, чувак! Это они! The Cuttleboys!",ai,,B4EE61CF458FA907887CDCAD21413344
-Howard,"THIS is The Cuttleboys? Man, The Cuttleboys fucking ROCK.","ЭТО The Cuttleboys? Чувак, The Cuttleboys чертовски ЖГУТ.",ai,,5B239E214E66BE38B32BB1B7DE35F47A
+Howard,"THIS is The Cuttleboys? Man, The Cuttleboys fucking ROCK.","ЭТО The Cuttleboys? Чувак, The Cuttleboys, блядь, ЖГУТ.",ai,,5B239E214E66BE38B32BB1B7DE35F47A
 Howard,...The album?,...Альбом?,ai,,2F1DF1B942D9AF028CBDC29FA11C1399
 Howard,"Yeah, that's not bad. I dig it.","Да, неплохо. Мне нравится.",ai,,0FFCFAB840B1314D9F14779C914825AB
 Larry,"Yeah, man. When all of this is over. University, I mean. When we leave, and when real life begins.","Ага, чувак. Когда всё это закончится. В смысле, универ. Когда мы уйдём, и начнётся настоящая жизнь.",ai,,5BF87B854FCEBD1549FEF78C7ED91235
@@ -842,7 +842,7 @@ Howard,"Damn straight. You've got great taste, Larry.","Чистая правд�
 Larry,"That sounds about right for Niles. Unless you said something to really get him riled up, it's kind of hard to make an impression.","Для Найлса это в порядке вещей. Если ты не сказал ничего, что его по-настоящему заденет, произвести на него впечатление трудно.",ai,,A07ACDBF4FBCC053A9D62CA9E77BB0EC
 Howard,"(INVESTIGATIVE) Honestly, I think riling him up a bit more might have helped. ","(ПЫТЛИВОСТЬ) Честно, думаю, если бы я его побольше раззадорил, это могло бы помочь. ",ai,,8DFA5B004D8368828ABFC0A3A18840A9
 Howard,"I couldn't rile that guy up if my life depended on it, man.","Я бы этого типа не раззадорил, даже если бы от этого зависела моя жизнь, чувак.",ai,,95AA470D49D0F4AAC508FB82CD9D042F
-Howard,"Honestly, there was nothing I could do. The guy's a prick.","Честно, я ничего не мог сделать. Этот тип - козёл.",ai,,8EEC80454AF9E8D8A0972995D2C1F12F
+Howard,"Honestly, there was nothing I could do. The guy's a prick.","Честно, я ничего не мог сделать. Этот тип - мудак.",ai,,8EEC80454AF9E8D8A0972995D2C1F12F
 Larry,"Wait, really?","Погоди, серьёзно?",ai,,1002CB064F81FDB13B532791F4095CFD
 Howard,(SOCIAL) He just needed someone to call him out.,"(ОБЩИТЕЛЬНОСТЬ) Ему просто нужно было, чтобы кто-то поставил его на место.",ai,,73EA0E74449A847A69CBD19D3A023D7E
 Howard,You heard me. Niles thinks I'm cool,Ты слышал. Найлс считает меня крутым,ai,,1C060CFB43EEE81452C363B1F635427A
@@ -859,7 +859,7 @@ Larry,And? How did it go?,Ну и? Как прошло?,ai,,A3C3EA9443F3A5766837
 Howard,It literally could not have gone worse.,Хуже и быть не могло.,ai,,DD99523B4791968E38A7FDA41C602AB7
 Howard,"Oh, you know. Not great, but not good either. Badly, is what I'm saying.","Ну, знаешь. Не здорово, но и не хорошо. Плохо, короче говоря.",ai,,9B15D127432D664B6F4D5182E5718374
 Howard,"Easily. Wisconsin was intrigued, to say the least.","Легко. Висконсин был заинтригован, мягко говоря.",ai,,3D76B07B45E973A3595A72BCE967C017
-Howard,Wisconsin fucking loves me.,"Висконсин, блин, меня обожает.",ai,,B31D65DE41ECA9CD94A841BE81AE4677
+Howard,Wisconsin fucking loves me.,"Висконсин, блядь, меня обожает.",ai,,B31D65DE41ECA9CD94A841BE81AE4677
 Larry,"...Sorry to be blunt, but how did you manage to fuck that up?","...Прости за прямоту, но как ты умудрился это завалить?",ai,,05BE84C047EC5DD46BCB8E97F1401494
 Howard,"By being blunt, I guess.","Видимо, из-за прямоты.",ai,,0FD5DDB249D95447BF211EBCDFAA133C
 Howard,[Shrug] Beats me. I thought I was doing okay for most of it.,"[Пожать плечами] Понятия не имею. Мне казалось, что почти всё время у меня всё шло нормально.",ai,,3073C39945C5181CB64E20BA02AE8A3F
@@ -876,7 +876,7 @@ Howard,"(SARCASTIC) ""Special treatment""? Why, Larry, we only just started dati
 Howard,"Eh. We just clicked, is all.","Да так. Просто сошлись, вот и всё.",ai,,84F7AA524DAB82D66F6387B91F453A99
 Howard,"I think Wisconsin might be more lenient with loud music, sure.","Думаю, с громкой музыкой Висконсин может стать снисходительнее, да.",ai,,6BF2BE75416185A6EC6E9184017AA2A0
 Larry,Yes!,Да!,ai,,42B442974B31F6CF33BF498A240F9D00
-Howard,"...Okay, The Cuttleboys are fucking cool as shit.","...Ладно, The Cuttleboys чертовски крутые.",ai,,A9D00E4E479240CC04C9F48C538C49C7
+Howard,"...Okay, The Cuttleboys are fucking cool as shit.","...Ладно, The Cuttleboys пиздец как крутые.",ai,,A9D00E4E479240CC04C9F48C538C49C7
 Howard,"...Okay, what else do you have?","...Ладно, а что ещё у тебя есть?",ai,,976C488844D83284E4F7559779DD31AD
 Howard,"Oh. Uh, neat.","О. Э-э, здорово.",ai,,4888E3674324150768F747BE93966B5E
 Larry,"Did I just have a stroke, or did you?","У меня только что был инсульт, или у тебя?",ai,,72E3A7CC4B26C833C05435AA7178FC04
@@ -886,7 +886,7 @@ Howard,Everything I said made perfect sense. You just need to think the way I th
 Larry,"EXACTLY that, Howie. Exactly that. The two of us against the City, against the world, against all odds,  making it big in Yaletown.","ИМЕННО так, Говчик. Именно так. Мы вдвоём против Города, против мира, против всех шансов, добиваемся успеха в Йелтауне.",ai,,0DB39C124E028D84C68729AA01F45A2C
 Howard,Just the two of us?,Только мы вдвоём?,ai,,398C2E77453208BC109DDDBFA0DF97FA
 Howard,"Playing records, drinking beer - I'm listening.","Крутим пластинки, пьём пиво, я слушаю.",ai,,FCAEC22B494E0583B894FE8D0914C0E3
-Howard,Fuck yeah. Start a revolution.,"Да, блин. Начать революцию.",ai,,515FF7BC48E85F09933137BD99C882CF
+Howard,Fuck yeah. Start a revolution.,"Блядь, да. Начать революцию.",ai,,515FF7BC48E85F09933137BD99C882CF
 Larry,"What can I say? I got good taste. You'll see, man. When we get out of here, I'll show you. There's so much stuff I want to see, and I know you're going to love it as well.","Что поделать, у меня хороший вкус. Увидишь, чувак. Когда мы выберемся отсюда, я тебе покажу. Столько всего хочу увидеть, и знаю, что тебе тоже понравится.",ai,,48FC5B8040333994CBF79A9772872CDE
 Howard,When we get out of here?,Когда мы выберемся отсюда?,ai,,E4FC54644B39D5DA77199091F40A8624
 Larry,"Hard energy, man. Just gets your blood pumping. I'm telling you, once this is all over and we're out of here, we need to scrounge up some money for some serious speakers! Blast tunes across half the City!","Жёсткая энергия, чувак. Кровь так и бурлит. Говорю тебе, когда всё закончится и мы выберемся отсюда, надо наскрести денег на серьёзные колонки! Гнать музыку на пол-Города!",ai,,487EC8F34629BAC02067D584E215DAD2

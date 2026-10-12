@@ -33,7 +33,7 @@ Howard,"Is that, like, a gang thing? The Triple As?","Это что, типа б
 Andrina,"As far as I'm concerned, they don't exist. ","Для меня их не существует. ",ai,,AB7D4F664B9071D093AED4B7F6DA7EA4
 Howard,My name's Howard.,Меня зовут Говард.,ai,,9D156B354CD6EAE7948DECB4EC723ACE
 Howard,You're embarrassed?,Тебе неловко?,ai,,050F662C4B34D70C8407799FD767FEB9
-Andrina,"All names are 'made up', dumbass. What else would they be, genetic?","Все имена «выдуманные», тупица. А какими им ещё быть, врождёнными?",ai,,D1B53153464236B6083D7881586EE02E
+Andrina,"All names are 'made up', dumbass. What else would they be, genetic?","Все имена «выдуманные», придурок. А какими им ещё быть, врождёнными?",ai,,D1B53153464236B6083D7881586EE02E
 Howard,...So what are your real names?,...Так как вас зовут на самом деле?,ai,,149CF5E240ABFE29D6E5108CAFF2209E
 Howard,"Oh, uh, right. I'm Howard. That's not genetic either.","А, э-э, точно. Я Говард. Это тоже не врождённое.",ai,,1BFA37114C27D787710CA19370AB13FB
 Howard,"Good point. I'm leaving now, but not because I'm embarrassed. Just so you know.","Резонно. Я ухожу, но не потому, что мне неловко. Чтоб ты знала.",ai,,3F3C02D04933BFD1BB31369B57316421
@@ -109,7 +109,7 @@ Howard,"Alright, let's change the subject.","Ладно, давай сменим
 Andrina,There it is! See? Isn't this better than school?,Вот оно! Видишь? Разве это не лучше школы?,ai,,D53E372341846700EB3827BB20D3F70C
 Howard,Can we change the subject please?,"Можно сменить тему, пожалуйста?",ai,,45AFA9434A186B53843953A632CE3B66
 Howard,I'm gonna go. [Leave],Я пойду. [Уйти],ai,,E8AEE72B479CAA61AD6439BD33E51447
-Andrina,"So what? You just pay someone to teach you how to use a camera? What are you, too dumb to read a fucking manual?","И что, ты просто платишь кому-то, чтобы он научил тебя пользоваться камерой? Что ты, слишком тупой, чтобы прочитать чёртову инструкцию?",ai,,6B3540714FC42ED501E56299D8FA4272
+Andrina,"So what? You just pay someone to teach you how to use a camera? What are you, too dumb to read a fucking manual?","И что, ты просто платишь кому-то, чтобы он научил тебя пользоваться камерой? Что ты, слишком тупой, чтобы прочитать ёбаную инструкцию?",ai,,6B3540714FC42ED501E56299D8FA4272
 Howard,Nope. Too lazy.,Не-а. Слишком ленивый.,ai,,06B964B443CE209F27C7A2B98984FEE9
 Howard,Too rich.,Слишком богатый.,ai,,51BCA76F42AEA4370D02D7930CABB073
 Andrina,"Why not? It's a huge waste of money and it's tacky as shit. Plus, it's pretty sweet watching losers like you freak out about what happened to it. So, what now? You gonna turn me in or something?","Почему нет? Это огромная трата денег и пошлятина редкостная. К тому же прикольно смотреть, как лузеры вроде тебя психуют из-за того, что случилось с часами. Ну и что теперь? Сдашь меня или как?",ai,,A114EFF046EB727A92F244AB372FC219
@@ -121,7 +121,7 @@ Howard,What's that?,Каком?,ai,,D6A13E1A492EBB5A6808B3812100749B
 Howard,[Squint],[Прищуриться],ai,,70EF5E734809ED2232D0A98362C46CE2
 Andrina,"Pfft. We'll be out of here before you even call the cops. Tell you what. I'll give it back, but only under one condition.","Пф. Мы свалим отсюда раньше, чем ты вызовешь копов. Знаешь что? Я верну её, но только при одном условии.",ai,,ED59BDA54060075F818FEB8EB5F26948
 Howard,What's that?,Каком?,ai,,4A5E326B4D34E6BDCA9394AFD9DC5F8F
-Andrina,"...Not for the reason you think I can't, you fucking dork.","...Не по той причине, о которой ты думаешь, чёртов чудила.",ai,,2C45E3EB4C7185789CD25194FF96F50D
+Andrina,"...Not for the reason you think I can't, you fucking dork.","...Не по той причине, о которой ты думаешь, ёбаный ты чудила.",ai,,2C45E3EB4C7185789CD25194FF96F50D
 Howard,"Ah, um, yeah. Cool, cool.","А, э-э, ага. Круто, круто.",ai,,8DE2B193484A73D5C3FF5A94A7046606
 Howard,"Oh, I seem to have got something in my eye. I'll be right back. [Run away]","Ой, кажется, мне что-то попало в глаз. Я сейчас вернусь. [Убежать]",ai,,21EFE2BA46543E3A3200FE99F4E0D972
 Andrina,"Every cool person I know has a name that starts with A. So yeah, maybe Howard does suit you.","У всех крутых, кого я знаю, имя начинается на «А». Так что да, может, Говард тебе и подходит.",ai,,076AFBF24D3E2069284399932FE441CC
@@ -156,7 +156,7 @@ Howard,"Yeah, I got another question for you.","Да, у меня к тебе е
 Andrina,"Sweet. Hey guys, Camera Creep got us some smokes!","Отлично. Эй, народ, Фотоманьяк раздобыл нам курево!",ai,,9B5BA98C497244913D33A3BB24A1A892
 Howard,Picture time.,Время фотографироваться.,ai,,66B9256C4EC163C3B5763E9B8201C117
 Howard,Time to pay up.,Время платить по счетам.,ai,,250A9E254A7E3569B5DB47A0D2E0705C
-Andrina,Our looks? What the fuck's that supposed to mean?,"Наша внешность? Что, блин, это должно значить?",ai,,F5813948426261A73C05DF8DD08DC59F
+Andrina,Our looks? What the fuck's that supposed to mean?,Наша внешность? Какого хуя это должно значить?,ai,,F5813948426261A73C05DF8DD08DC59F
 Howard,You know what tobacco does to your teeth and skin. Your youthful beauty's the whole point.,"Ты знаешь, что табак делает с зубами и кожей. Ваша юная красота - вот в чём вся суть.",ai,,48510C6B481AE3B7CA8B9291FC263E5C
 Andrina,There he is! Did you do it? Did the ink stick?,"А вот и он! Ну что, сделал? Чернила схватились?",ai,,3474535F4B5BF8B5936F0BA932EF4709
 Howard,"Oh, it stuck.","О, ещё как схватились.",ai,,3365F1084862950596642CA32FDA15DF
@@ -167,7 +167,7 @@ Howard,"I'm not ""fucking"" with you. Obviously, the three of you possess this s
 Howard,"Almost fell for it though, didn't you?","А ведь чуть не купилась, да?",ai,,252ECBD9445B0B1168D7CC80D370D7CE
 Andrina,"Yeah, alright. Do whatever you need to.","Ладно, ладно. Делай что надо.",ai,,0D46C4854E60976F285B89995B7CD88C
 Howard,[Take picture],[Сфотографировать],ai,,B7C902564DAE399E4B1F7CB028653272
-Andrina,"There. Don't do any weird fucked up shit with that picture, alright?","Вот. Только не делай с этим снимком какую-нибудь странную хрень, ясно?",ai,,4B2FD24B4B30F7AA900EECB8EC9CCAEE
+Andrina,"There. Don't do any weird fucked up shit with that picture, alright?","Вот. Только не делай с этим снимком какую-нибудь ебанутую хуйню, ясно?",ai,,4B2FD24B4B30F7AA900EECB8EC9CCAEE
 Howard,I won't.,Не буду.,ok,,68E1E4A541157B51F85AFE805C9CFC9E
 Howard,That wasn't part of the deal.,Это не входило в уговор.,ai,,B380AF51405CD8E3931443A1EC33CD65
 Andrina,"Whatever. We done here, or what?",Да пофиг. Мы закончили или как?,ai,,EDBF57B6468542DC773D2BBE7AC00E7F
@@ -233,7 +233,7 @@ Howard,You kids lost or something?,"Вы, малышня, потерялись �
 Howard,Nevermind.  [Leave],Неважно.  [Уйти],ai,,3A9AA6E64C1378EBC97B00A7F6DB2BC6
 Andrina,"Yeah, right. Get outta here, you loser.","Ага, конечно. Проваливай отсюда, лузер.",ai,,8E4F570D4048A244EC6B1A9CD27A5F83
 Howard,[Leave],[Выйти],ok,,36E5FD24437D21E51AC2F4800455D501
-Andrina,"...Ugh, fine. It was us. So what? You fucking figured it out, narc. ","...Тьфу, ладно. Это были мы. И что? Допёр, стукач. ",ai,,B272D67B4C839EDBBBC3D7B1C3E4653B
+Andrina,"...Ugh, fine. It was us. So what? You fucking figured it out, narc. ","...Тьфу, ладно. Это были мы. И что? Ну ты, блядь, и допёр, стукач. ",ai,,B272D67B4C839EDBBBC3D7B1C3E4653B
 Howard,Just give me the piece and we won't have a problem.,"Просто отдай деталь, и проблем не будет.",ai,,83B86C3C478C446DAC2AFBAFF663D14E
 Howard,Why'd you do it?,Зачем вы это сделали?,ai,,478A42304E36F100F9DA2B9BDDF4B60B
 Andrina,"Before you put the hand back, I want you to take this felt pen and draw a big dick under the hour hand. That way, we'll be long gone before anyone sees it. Time passes to reveal a fat chode. It'll be hilarious!","Прежде чем вернёшь стрелку на место, возьми этот фломастер и нарисуй большой хер под часовой стрелкой. Тогда мы будем уже далеко, пока кто-нибудь заметит. Время идёт и открывает жирный член. Будет умора!",ai,,E82F0AB744C798B523AAD1A9B187698C
@@ -286,7 +286,7 @@ Howard,"(SARCASTIC) Oh nooo, I wouldn't dare.","(САРКАЗМ) О, нееет,
 Andrina,"Seriously, man. What do you want?","Серьёзно, чувак. Чего тебе надо?",ai,,4A2E32544BC6A5E3DC78D788554D2657
 Howard,Just wanted to ask you a few questions.,Просто хотел задать вам пару вопросов.,ai,,9D9BBABD40E3012AE5C533B4108ED07F
 Howard,[Swallow your fear and say nothing],[Проглотить страх и ничего не говорить],ai,,1BD6D9A0439CC8B4E11FC09EE6BAC7D4
-Andrina,Dude. Seriously. What the fuck?,Чувак. Серьёзно. Какого хрена?,ai,,E384248642C655A657C8F0BCD675541A
+Andrina,Dude. Seriously. What the fuck?,Чувак. Серьёзно. Какого хуя?,ai,,E384248642C655A657C8F0BCD675541A
 Howard,Mind answering a few questions?,Не возражаете ответить на пару вопросов?,ai,,275599AB4BE1460A55890582C0134EAB
 Howard,[Freeze. Her vision is based on movement.],[Замереть. Она реагирует только на движение.],ai,,A1CDB7B648A5D0983DDC3D80366F7900
 Howard,"Sorry, I don't know what I'm doing. [Leave]","Прости, я сам не знаю, что делаю. [Уйти]",ai,,CFD1BD444F0D6A14D925E59C5C9D4506
@@ -302,7 +302,7 @@ Howard,[Get lost],[Проваливать],ai,,583589964E743BD17E7851949419C752
 Andrina,Spoken like an absolute dork. Anything else?,Говорит как настоящий чудила. Что-нибудь ещё?,ai,,3530C13D4214155D3405A69EADBFBFBA
 Howard,I was hoping to ask you a few questions.,Я надеялся задать вам пару вопросов.,ai,,30D594274A3B693BDB209D8B196A5B21
 Howard,[Leave],[Выйти],ok,,83DAC4D1498BE4ED82037DAD49EB33AE
-Andrina,"Fuck yeah, man! Alright, we better bounce before the cock strokes midnight. You wanna come with? We got the good shit, if you wanna blaze.","Вот это да, чувак! Ладно, нам пора сваливать, пока хер не пробил полночь. Пойдёшь с нами? У нас есть годная дурь, если хочешь дунуть.",ai,,6F452B314A1A204483623B9F8D8B594D
+Andrina,"Fuck yeah, man! Alright, we better bounce before the cock strokes midnight. You wanna come with? We got the good shit, if you wanna blaze.","Блядь, да, чувак! Ладно, нам пора сваливать, пока хер не пробил полночь. Пойдёшь с нами? У нас есть годная дурь, если хочешь дунуть.",ai,,6F452B314A1A204483623B9F8D8B594D
 Howard,"Nah, I half to finish this project. Speaking of which, is it alright if I take a photo?","Не, мне надо закончить проект. Кстати о нём: можно я вас сфотографирую?",ai,,A581B3C74C13B224662D9F8249F19838
 Howard,Nah. You have fun though.,Не. Но ты повеселись.,ai,,367A2AF84E02A2A66E132EB0EE6CB657
 Andrina,Kinda ruins it when you just go out and say it. So what do you need?,"Как-то всё портится, когда ты просто берёшь и говоришь это в лоб. Так что тебе надо?",ai,,92AE1CB849A64079FCCFA9A6EFE64A8B
@@ -331,14 +331,14 @@ Andrina,"You really are a dork, aren't you?","Ты и правда чудила,
 Howard,[Take picture],[Сфотографировать],ai,,659355D94ECA68D446086497F1E26BEB
 Andrina,"...Yeah. Alright fine. Just hurry up about it, alright?","...Да. Ладно, хорошо. Только давай побыстрее, ясно?",ai,,B0FA4F6A400451F6B2638EB905606C31
 Howard,[Take the picture],[Сфотографировать],ai,,C834DAFC45B222720B89848A133FF1B0
-Andrina,"Fucking called it. I knew you were a creep right from the start! Get lost, nerd.","Так и знала! Я сразу поняла, что ты извращенец! Проваливай, ботан.",ai,,CA87FF3E4209276B8E9AC3ADEC1FF2D3
+Andrina,"Fucking called it. I knew you were a creep right from the start! Get lost, nerd.","Блядь, так и знала! Я сразу поняла, что ты извращенец! Проваливай, ботан.",ai,,CA87FF3E4209276B8E9AC3ADEC1FF2D3
 Howard,I'm joking. It's just for a class.,Шучу. Это просто для учёбы.,ai,,188EB53546D55815A2DEF3B59CDB4728
 Howard,[Get lost],[Проваливать],ai,,EA6CFCD14C2D94899E3523914ADB4DC3
 Howard,"Right away, ma'am. [Leave]","Слушаюсь, мэм. [Уйти]",ai,,F9CA7A3E44BF81485A51DEAA08FA076D
-Andrina,Boo. You're fucking boring. We're out of here.,Бу. Ты чертовски скучный. Мы валим отсюда.,ai,,E557DA754DB894BAC37D60A55572FE80
+Andrina,Boo. You're fucking boring. We're out of here.,"Бу. Ты, блядь, скучный. Мы валим отсюда.",ai,,E557DA754DB894BAC37D60A55572FE80
 Howard,Wait! How about a picture before you go?,"Подождите! Может, сфотографируемся перед уходом?",ai,,4C0F03BF40BD14877F3F3E9EE33F1FB8
 Howard,Whatever. [Leave],Как хочешь. [Уйти],ai,,BD79459D425AF79D0FAC389470D3D4F9
-Andrina,"Pffft. You think I care what a nerd like you has to say about me? We ain't posing for nothing 'less there's smokes involved. So either go out there and get 'em, or fuck the fuck off!","Пффф. Думаешь, мне есть дело до того, что ботан вроде тебя скажет обо мне? Мы ни для чего позировать не будем, если не будет курева. Так что либо иди и достань его, либо отвали на хрен!",ai,,F5EA1A5643B1F8C98881719AAB14018A
+Andrina,"Pffft. You think I care what a nerd like you has to say about me? We ain't posing for nothing 'less there's smokes involved. So either go out there and get 'em, or fuck the fuck off!","Пффф. Думаешь, мне есть дело до того, что ботан вроде тебя скажет обо мне? Мы ни для чего позировать не будем, если не будет курева. Так что либо иди и достань его, либо съебись нахуй!",ai,,F5EA1A5643B1F8C98881719AAB14018A
 Howard,[Go out there and get 'em],[Пойти и достать],ai,,4593684742F1C25EEA39D4BB2C3C0C8F
 Howard,[Fuck off],[Отвалить],ai,,C6938B174236F1CB64CF53B1716D6D11
 Howard,"Wait, I want to ask you one more thing.","Подожди, я хочу спросить тебя ещё кое о чём.",ai,,01A998AF44338EBCBF722EB4DA490241
@@ -388,7 +388,7 @@ Andrina,Did you find out why he did it?,"Ты выяснил, зачем он э
 Howard,He was hoping they'd hire him to fix it.,"Он надеялся, что его наймут чинить часы.",ai,,2A15D4054C28E72D2524829C76F839FC
 Andrina,"Pfft. That's pretty badass. So, wait: You decided to go after a guy who was so desperate for money he was ready to risk prison just to make a bit of scratch?","Пф. Вот это круто. Погоди-ка: ты решил взяться за типа, который так отчаянно нуждался в деньгах, что готов был рискнуть тюрьмой ради пары монет?",ai,,4D77A72D46726C33217EF19F13D73379
 Howard,It's not like I sent him to jail. I just asked for it back.,Я же не отправил его в тюрьму. Я просто попросил вернуть.,ai,,847C9E8F43807FE3D268F58C393A94B7
-Howard,"Yeah, fuck him.","Ага, и пошёл он.",ai,,A5A47B8B4AAFCBDAB6CF3D826821ECD8
+Howard,"Yeah, fuck him.","Ага, да пошёл он нахуй.",ai,,A5A47B8B4AAFCBDAB6CF3D826821ECD8
 Andrina,"Well, I hope you let her have it. I hope you sent her to the gallows! I hope her kid grows up an orphan for that crazy stunt she pulled!","Надеюсь, ты ей всыпал. Надеюсь, ты отправил её на виселицу! Надеюсь, её ребёнок вырастет сиротой за такую безумную выходку!",ai,,F9F6A4F6493604BACE50E68DCBE6B0CF
 Howard,"Yeah, yeah...","Да, да...",ai,,12CFAF1F4C620EC763F247971DE07781
 Howard,I wouldn't go that far.,Я бы не заходил так далеко.,ai,,77F4470F4DBAF13008455AB0DF865005

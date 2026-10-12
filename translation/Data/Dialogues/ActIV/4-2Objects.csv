@@ -43,7 +43,7 @@ Howard,"(SARCASTIC) Oh, would that it were, Howard! Perhaps then I wouldn't have
 Larry,"Well, now that you got that out of your system, do you want this scarf, or should I take it?","Ну, раз ты выговорился, шарф хочешь или мне взять?",ai,,3E8A44094F7A7C2EDA64AFA558744F85
 Howard,I'll take it.,Я возьму.,ai,,F6D0FAC7413D2056B81C6A8430F76302
 Howard,You should take it.,Бери ты.,ai,,F6942AB44EC6D8522F9BEF8AD230E83C
-Larry,"Alright, fuck you too. You want this scarf, or should I take it?","Ладно, пошёл ты нахер тоже. Шарф хочешь или мне взять?",ai,,546C1C8A4ABA015903B3DCAF20F9DD89
+Larry,"Alright, fuck you too. You want this scarf, or should I take it?","Ладно, и ты пошёл нахуй. Шарф хочешь или мне взять?",ai,,546C1C8A4ABA015903B3DCAF20F9DD89
 Howard,You can have it.,Можешь забрать.,ai,,0D1D3F03467B3AB1CFFB93925411CFE9
 Larry,"Aw. You actually have feelings for him, don't you?","Ах, как мило. У тебя к нему и правда чувства, да?",ai,,8C14F832492D2CCA298F679FBC1F4A75
 Howard,Don't be stupid. It's just a cool scarf. What else have we got?,Не глупи. Это просто классный шарф. Что у нас ещё?,ai,,D88275E045EDABECFD887195CDE785DC
@@ -259,7 +259,7 @@ Larry,Kinda weird to have someone else's romantic gift. But I guess I can preten
 Howard,"You wish you were this handsome. But alright, what's next?","Хотел бы ты быть таким красавчиком. Но ладно, что дальше?",ai,,6332FEDA4817382E1F0C6D83450FAFE0
 Larry,"Well, maybe you should be. It's not like we have class to go to anymore. Alright, who should take this one?","Ну, может, и стоило бы. Всё равно нам больше не надо ходить на пары. Ладно, кто возьмёт эту?",ai,,35F687C147AEECEF6B39DBB288A63FC7
 Howard,What do you think?,Ты сам как думаешь?,ok,,01E7FFBB4F7C78FB73C7EEBAAFCB58C2
-Larry,"Yeah, it's kind of a mindfuck, right? Like, what kind of dork would you have turned out to be if you and Wisconsin shared a room? Or how fucking cool would he be right now if he wound up with me?","Ага, это же мозг взрывает, да? Каким ботаном ты бы стал, если бы жил в одной комнате с Висконсином? Или насколько охрененно крутым был бы он сейчас, если бы достался мне?",ai,,2BEF94804BE0E6DC3BAE4E8092491BF6
+Larry,"Yeah, it's kind of a mindfuck, right? Like, what kind of dork would you have turned out to be if you and Wisconsin shared a room? Or how fucking cool would he be right now if he wound up with me?","Ага, это же мозг взрывает, да? Каким ботаном ты бы стал, если бы жил в одной комнате с Висконсином? Или насколько охуенно крутым был бы он сейчас, если бы достался мне?",ai,,2BEF94804BE0E6DC3BAE4E8092491BF6
 Howard,"You'd definitely be a lot less cool, that's for sure.","Ты бы точно был куда менее крут, это уж точно.",ai,,7CBE2DEA44D0937F00BC97AA46E782AE
 Howard,I think we'd both be way cooler if we wound up with Wisconsin.,"По-моему, мы оба были бы куда круче, если бы достались Висконсину.",ai,,27D568D7416EB416E75FE89EBF497B50
 Larry,"Huh. You know what? I think we should take turns. Like, every time we meet up, we'll swap. That way, whoever has it is responsible to make sure we hang out next.","Хм. Знаешь что? Давай по очереди. Каждый раз, когда встречаемся, меняемся. Так тот, у кого она есть, будет отвечать за то, чтобы мы увиделись снова.",ai,,D60F774C4615383286BD0590D676452C

@@ -94,7 +94,7 @@ Larry,"I know, right? Now get out of my sight, you nuisance.","Вот именн
 Howard,[Shoot finger pistols at him and leave],[Показать ему пальцы-пистолеты и уйти],ai,,9A218D7940FC77B7E7892D8648341982
 Howard,[Cackle and scurry off],[Хохотнуть и умчаться],ai,,17ED498144A670819D25CEB226443E79
 Howard,"...Later, man. See you soon.","...Пока, чувак. Скоро увидимся.",ai,,3E758B4A4D65BFE2BE57229E3528A291
-Larry,"I fucking better be, man. I'll bring the good stuff.","Ещё бы, чувак. Притащу самое лучшее.",ai,,C7E4D53243F7C12DC46B84B4B73C7813
+Larry,"I fucking better be, man. I'll bring the good stuff.","Да блядь, ещё бы, чувак. Притащу самое лучшее.",ai,,C7E4D53243F7C12DC46B84B4B73C7813
 Howard,"I've heard that before. See you around, loser.","Это я уже слышал. Бывай, лох.",ai,,7DD88A054D5E41F45EF393B5CE8C2BD8
 Howard,"All you need to bring is yourself, my dude. I'll see you later.","Тебе нужно привезти только себя, дружище. До встречи.",ai,,8B076F3D462F24C213C4AF975E8F3F92
 Howard,"I know you will. Bye, Larry.","Знаю, что так и будет. Пока, Ларри.",ai,,76EE03FF467A1ED0DC48ABA7320443EE
@@ -108,7 +108,7 @@ Howard,"If you say so, dude.","Если ты так говоришь, чувак
 Larry,"Howie, I...alright, sure. Thanks. I'll call you tonight. I promise.","Говчик, я... ладно, давай. Спасибо. Позвоню тебе сегодня вечером. Обещаю.",ai,,2D39A5F940AAD77D5935F4BD0FC9398E
 Howard,Deal.,Договорились.,ok,,4AA91D834EC07A527ECB27A99B1C1FF3
 Howard,"Don't worry about it, man.","Не бери в голову, чувак.",ai,,E95C7A2A4675846B5CFA3EBE45F4B3E2
-Larry,"Fucking Wisconsin, man. The man you love to hate and hate to love. I hope he does well.","Ну и Висконсин, чувак. Тот, кого ты любишь ненавидеть и ненавидишь любить. Надеюсь, у него всё получится.",ai,,C20F013A4EAF32F91F16188386491799
+Larry,"Fucking Wisconsin, man. The man you love to hate and hate to love. I hope he does well.","Ёбаный Висконсин, чувак. Тот, кого ты любишь ненавидеть и ненавидишь любить. Надеюсь, у него всё получится.",ai,,C20F013A4EAF32F91F16188386491799
 Howard,"Nothing like a bit of hate-loving, if you know what I mean.","Нет ничего лучше любви-ненависти, если понимаешь, о чём я.",ai,,2F4F6C044AC57157F9BC9E921B72FB64
 Howard,"You said it, man.","Не поспоришь, чувак.",ai,,A4F9544747FBF486A1F8B2A57C748ED3
 Howard,He'll be fine.,С ним всё будет хорошо.,ai,,0E92C86D4D238B2A8A7C16A749AB497C
@@ -122,14 +122,14 @@ Larry,"Nope. Nuh-uh. No need to share any more of that. ","Не-а. Нет-не�
 Howard,Noted.,Я запомню.,ok,,3266FA344750B91DC81A68AC871887DF
 Howard,Aw. You're no fun.,Эх. С тобой скучно.,ai,,3C3326A64C0A74676257D4B5AC84A66D
 Larry,"""Saturday night, big show. Bring Howie and come along."" She and Liv were bringing some others, too. Oh, and she said it'd be your kind of music.","«В субботу вечером большое шоу. Бери Говчика и приходи». Они с Лив ещё кого-то позовут. Да, и она сказала, что музыка будет в твоём вкусе.",ai,,3698DBCE47C8577B83BFACABAA6AD33D
-Howard,Fuck yeah - who's playing?,"Чёрт, да! Кто играет?",ai,,477F15414B7EDDABABA17CB2E51212B6
+Howard,Fuck yeah - who's playing?,"Блядь, да! Кто играет?",ai,,477F15414B7EDDABABA17CB2E51212B6
 Howard,...My type of music?,...В моём вкусе?,ai,,310AFE05469E1C5F06291CB473C78620
 Howard,"...Nah, I'm good.","...Не, я пас.",ai,,D80BF30147BBD59FDFEE4CBF73F4D0BB
 Larry,...Yes.,...Да.,ai,,FC50823A489036D1151AAEB892E77A8A
 Howard,"Cool it with the bets in the future, though. Some people might hold you to them a little bit more seriously than I do.","Но впредь поосторожнее со спорами. Кто-то может отнестись к ним куда серьёзнее, чем я.",ai,,91DC845D4444F11AEB8A00BF1539B0C5
 Howard,I'm going to miss this. Making stupid bets.,Я буду скучать по этому. По глупым спорам.,ai,,1FB9D5884AFDA74DC45AC5A4130F5FC9
 Larry,"The most patient, certainly. They were heading to a show on Saturday. Said it might be up your alley. Well, our alley.","Самая терпеливая, это уж точно. Они собирались на концерт в субботу. Сказали, это может быть по твоей части. Ну, по нашей.",ai,,E7E396B4403F15A08007209C11B0F641
-Howard,Fuck yeah - who's playing?,"Чёрт, да! Кто играет?",ai,,1B142431433172771448C9B293AC65DF
+Howard,Fuck yeah - who's playing?,"Блядь, да! Кто играет?",ai,,1B142431433172771448C9B293AC65DF
 Howard,...Up my alley?,...По моей части?,ai,,2F81DD6440FA8132E9C66AB8ADA288A6
 Howard,"...Nah, I'm good.","...Не, я пас.",ai,,B2846D5B4A5DFF3F73D24884F60C9DBA
 Larry,...Really? You don't even know who's playing.,"...Серьёзно? Ты же даже не знаешь, кто играет.",ai,,8D67B3F94B1A861D49036F9499E00681
@@ -169,7 +169,7 @@ Larry,"...Anyway. They all got out pretty early. Like I said, we're the only one
 Howard,"Nice. I'm ready to leave this place, too.",Здорово. Я тоже готов покинуть это место.,ai,,069BBFED470D345AA0DD0990CB68F139
 Howard,I'll miss them.,Буду по ним скучать.,ai,,F6176B694ABC884476A73F808AE466D8
 Howard,How about you? Are you ready?,А ты? Ты готов?,ai,,E6ACC8614205E052F1E449BE28FF838F
-Larry,Yeah? Fuck yeah. We're meeting them at 8 PM on South Granville. I'm already hyped.,"Да? Охренеть, да. Встречаемся с ними в восемь вечера на Саут-Гренвилль. Я уже на взводе.",ai,,F7B631DB4B06EC5FC4E3DE90B2E31B74
+Larry,Yeah? Fuck yeah. We're meeting them at 8 PM on South Granville. I'm already hyped.,"Да? Блядь, да. Встречаемся с ними в восемь вечера на Саут-Гренвилль. Я уже на взводе.",ai,,F7B631DB4B06EC5FC4E3DE90B2E31B74
 Howard,"Pre-game at 6.30, then.",Тогда разогрев в половине седьмого.,ai,,B0F0FB1D4D078F434399ACB9B4A43A5E
 Howard,You already told them we were coming?,"Ты уже сказал им, что мы придём?",ai,,0ED4F2D740B8EE20B4900C8295B8468C
 Howard,"Can't wait, man.","Не могу дождаться, чувак.",ai,,C44D56F2460DE00DCED7E199FCED4D3E
@@ -253,7 +253,7 @@ Howard,"A couple inches, yeah.","Пара дюймов, ага.",ai,,CA5A2FB84E7
 Howard,Barely.,Едва ли.,ai,,6EFEB0214BAC9CA11FD36483427563EF
 Howard,He's an okay guy. You just have to get to know him first.,Он нормальный парень. Просто сначала надо узнать его получше.,ai,,578B58FC4E45569C9A96F0A0961B0C29
 Larry,"You know, the Howard-and-Larry-stance on Niles.","Ну, позиция Говарда и Ларри по Найлсу.",ai,,BA18FED54235DEE993F242A1761C1AE3
-Howard,Oh. Prick with a heart of gold.,А. Гад с золотым сердцем.,ai,,A2C8BD074E7A063AC7CA5083133D5C91
+Howard,Oh. Prick with a heart of gold.,А. Мудак с золотым сердцем.,ai,,A2C8BD074E7A063AC7CA5083133D5C91
 Howard,Probably hate him. Or like him. If I gave it any thought whatsoever.,"Наверное, ненавижу его. Или он мне нравится. Если бы я вообще об этом задумывался.",ai,,E48D46B94024A8F58DEAF5A701379BEB
 Howard,Ah. He's a hardcore poser.,А. Он махровый позёр.,ai,,3D9D0F1C4B234A3B4371EB856050EB28
 Larry,Graphic designers are nerds. Nerds who somehow think they're cooler than the average nerd.,"Графические дизайнеры - ботаны. Ботаны, которые почему-то считают себя круче среднего ботана.",ai,,9DA76F0347809A12BA8A64ADE7BE157C
@@ -277,7 +277,7 @@ Howard,You do. Just in a different way.,Есть у тебя. Просто др�
 Howard,It's not confidence - I just don't have a choice but to believe it.,"Это не уверенность - у меня просто нет выбора, кроме как верить в это.",ai,,E54738F54CA18089E9FC5AAF318F094C
 Larry,Guess that's what I'm worried about. Would we all have been friends if we hadn't been shoved into this dorm together? People like Niles would never want to hang with me outside of the dorm.,"Наверное, этого я и боюсь. Мы бы все подружились, если бы нас не затолкали в одну общагу? Такие, как Найлс, никогда не захотели бы тусоваться со мной за её стенами.",ai,,2731AFDA4B9349BC20CF83BC42983140
 Howard,Why would you want to hang out with someone like Niles? Niles is an asshole.,"Зачем тебе тусоваться с такими, как Найлс? Найлс - козёл.",ai,,549927A345FB1DA0ED2F339CB32FB096
-Howard,I would. You prick.,"Захотел бы. Ты, гад.",ai,,03047F6B479BF88B2999A3A456C82C73
+Howard,I would. You prick.,"Захотел бы. Ты, мудак.",ai,,03047F6B479BF88B2999A3A456C82C73
 Howard,But you'd hang with people like Wisconsin?,"А с такими, как Висконсин, ты бы тусовался?",ai,,1410E0174C7CED309EFC85B5B233D575
 Larry,"...I mean, uh. Yeah, I think so.","...В смысле, э-э. Да, думаю, да.",ai,,F3EDA59B4E4A4C5DBF9E8793815EAC1A
 Howard,"Regardless, dude, you'll always have me to hang with.","Как бы то ни было, чувак, со мной тебе всегда будет с кем потусоваться.",ai,,041F44414AD40CD21FBF14909B838778

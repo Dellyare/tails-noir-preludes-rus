@@ -227,7 +227,7 @@ Carlo,"...That does it. Don't say I didn't warn you, Clarissa. How many times do
 Clarissa,...Are you threatening your own daughter?,...Ты угрожаешь собственной дочери?,ai,,24B563D94FAE69961B117CB54523A046
 Clarissa,"You've lost your mind, dad.","Ты спятил, папа.",ai,,A5485EAB4712B1612ED8B3B701BD9545
 Clarissa,You can't bully me. I'm not moving.,Меня ты не запугаешь. Я не сдвинусь с места.,ai,,82DF3C97486F59D50B1AC7A0F372E727
-Carlo,"If you don't get the fuck out of my sight right now, I won't be responsible for my actions. It's not going to be nice, Clarissa.","Если ты сейчас же не уберёшься с глаз моих, я за себя не отвечаю. Будет некрасиво, Кларисса.",ai,,D9B7E45447B402153A8C6ABBBEA30EA0
+Carlo,"If you don't get the fuck out of my sight right now, I won't be responsible for my actions. It's not going to be nice, Clarissa.","Если ты сейчас же, блядь, не уберёшься с глаз моих, я за себя не отвечаю. Будет некрасиво, Кларисса.",ai,,D9B7E45447B402153A8C6ABBBEA30EA0
 Clarissa,...Are you threatening me?,...Ты мне угрожаешь?,ai,,5651D37248C98C550A8B6BB24D047095
 Clarissa,You haven't been responsible for anything. That's your problem.,Ты никогда ни за что не отвечал. В этом твоя проблема.,ai,,14EAC8664712A8594F643FB773D9B49E
 Clarissa,I'm not going anywhere. You can't bully me.,Я никуда не уйду. Меня ты не запугаешь.,ai,,9B75CD72419573241FC6CB9B27EB9FB5
@@ -266,14 +266,14 @@ Clarissa,You don't get it - I didn't come here for your approval. I came here to
 Carlo,"I ain't losing shit. You're either fucking high or drunk, and definitely out of your fucking mind. Start your own organization? Your own syndicate? Don't be an idiot, Clarissa.","Ни хрена я не теряю. Ты, блядь, либо обдолбалась, либо пьяна, и уж точно спятила на хуй. Основать свою организацию? Свой синдикат? Не будь дурой, Кларисса.",ai,,51D153684C2FCA9D7504AE882F631137
 Clarissa,It took an idiot to fuck up everything Grandpa worked so hard for. I'm rebuilding it from scratch.,"Только дурак мог так просрать всё, ради чего так тяжело трудился дедушка. Я отстрою всё с нуля.",ai,,3FF2B69E4E99E6DF7FCEF5B65ED42278
 Clarissa,You don't get it - I didn't come here for your approval. I came here to warn you.,Ты не понимаешь. Я пришла не за твоим одобрением. Я пришла тебя предупредить.,ai,,D962A89749143C6B852D9295099B3FEB
-Carlo,"The fuck they are. Whatever shit you've been telling them means nothing - I'll bet you they're leading you on, and as soon as you're out the door, you'll get a knife in the back. Don't be an idiot, Clarissa.","Хрена с два они уходят. Что бы ты им там ни наплела, это ничего не значит. Спорим, они тебя просто водят за нос, и как только ты выйдешь за дверь, получишь нож в спину. Не будь дурой, Кларисса.",ai,,9AB8AEE04BAE6AB4D60BD8A1BEA7BC62
+Carlo,"The fuck they are. Whatever shit you've been telling them means nothing - I'll bet you they're leading you on, and as soon as you're out the door, you'll get a knife in the back. Don't be an idiot, Clarissa.","Нихуя они не уходят. Что бы ты им там ни наплела, это ничего не значит. Спорим, они тебя просто водят за нос, и как только ты выйдешь за дверь, получишь нож в спину. Не будь дурой, Кларисса.",ai,,9AB8AEE04BAE6AB4D60BD8A1BEA7BC62
 Clarissa,No. You'll see - I'm going to do it right.,"Нет. Вот увидишь, я сделаю всё как надо.",ai,,387FB0BC4B208E3F1E663B9FAB206A77
 Clarissa,I didn't come here for your blessing. I came here to warn you.,Я пришла не за твоим благословением. Я пришла тебя предупредить.,ai,,692EC7B8483E1E4CC11AC99911A8B0B1
 Carlo,What are you talking about? Are you out of your mind?!,"О чём ты? Ты что, спятила?!",ai,,75E63C1343A2172E1F831BBDB50C9671
 Clarissa,[Attack him],[Напасть на него],ai,,9DC428914ADD4E98176C02AD5E23D9EC
 Clarissa,Maybe - I should have done this a long time ago.,Возможно. Мне давно следовало это сделать.,ai,,C99E235D468A2D451D081E8625B9062B
 Clarissa,"No, I'm finally seeing things clearly.","Нет, я наконец вижу всё ясно.",ai,,F38C26BA42C3A422867D29A3CC3DCE2C
-Carlo,"Talking nonsense, maybe. You're high again, aren't you? Get the fuck out of my sight. I've got work to do.","Несёшь чушь, наверное. Ты опять обдолбалась, да? Пошла вон с моих глаз. У меня дела.",ai,,5F0700C4463A072049AAAE95D3CF1D19
+Carlo,"Talking nonsense, maybe. You're high again, aren't you? Get the fuck out of my sight. I've got work to do.","Несёшь чушь, наверное. Ты опять обдолбалась, да? Съебись с моих глаз. У меня дела.",ai,,5F0700C4463A072049AAAE95D3CF1D19
 Clarissa,"No, you don't. [Attack him]","Нет, у тебя их нет. [Напасть на него]",ai,,3EC48FE5443A88D46D1CC5A0EA691C19
 Clarissa,"No, I'm just finally doing something about it.","Нет, я просто наконец что-то с этим делаю.",ai,,4464721A42F3CE6F7CFA1D8D6BC35341
 Clarissa,[Stare him down],[Сверлить его взглядом],ai,,61374FFB4C74D2BCF15C66823505B39E
@@ -281,7 +281,7 @@ Carlo,"Y-you think I care? Think I give a shit? I'll strangle you with broken ar
 Clarissa,"Sure. Stand up, and we'll see.","Конечно. Встань, и посмотрим.",ai,,C745EDBF41FF6895B0A4E1B95082E01B
 Clarissa,[Steady yourself and say nothing],[Собраться и промолчать],ai,,E3CC5252459DB50D6EAE13A1BCA80407
 Clarissa,Very well - I'll break them next.,Что ж. Тогда следующими я сломаю руки.,ai,,679BED82474E02FBA72E1C8E62973A21
-Carlo,"...You've lost it. You don't even have a gun! What are you going to do, bore me to death? Get the fuck out of here, Clarissa.","...Ты рехнулась. У тебя даже пушки нет! Что ты сделаешь? Заскучаешь меня до смерти? Пошла вон отсюда, Кларисса.",ai,,846027104F74BD158BA7B69D82E313EC
+Carlo,"...You've lost it. You don't even have a gun! What are you going to do, bore me to death? Get the fuck out of here, Clarissa.","...Ты рехнулась. У тебя даже пушки нет! Что ты сделаешь? Заскучаешь меня до смерти? Пошла нахуй отсюда, Кларисса.",ai,,846027104F74BD158BA7B69D82E313EC
 Clarissa,[Attack him],[Напасть на него],ai,,782A130D4D48EF6EAB2F9EAFC9C253D6
 Clarissa,Guns are noisy and quick. This will be neither.,Пушки шумные и быстрые. Это будет ни то ни другое.,ai,,3C9526FE4632C27D5420BAAD0498C34F
 Carlo,"Bet y-you're real proud of that one, huh? You didn't do shit - one lucky shot, and you think the fight's over. You're just like your m-mother.","Ставлю, ты т-тут очень собой гордишься, а? Ни хрена ты не сделала: один случайный удар, и ты думаешь, что драка выиграна. Ты точь-в-точь как твоя м-мать.",ai,,962BFF614200EAEFA8D322A2FD817AAD
@@ -298,7 +298,7 @@ Carlo,"Agh - f-fuck! See?! This is it! Th-this is what I'm talking about! You fi
 Clarissa,Doesn't seem to be working all that well. You're still talking shit.,Что-то не слишком помогает. Ты всё ещё несёшь чушь.,ai,,E4C26AA948ED152C11894C9D9394EFA3
 Clarissa,"...Just accept it, dad. You've lost. Stop trying to win me over.","...Просто прими это, папа. Ты проиграл. Хватит пытаться перетянуть меня на свою сторону.",ai,,B73CDA0642D534579E0761A0D9D7E653
 Clarissa,[Say nothing],[Промолчать],ai,,497358004A10D0D00C355BBC6CE79E95
-Carlo,"If you don't get the fuck out of my sight right now, I won't be responsible for my actions. Walk away, brat. Don't make me do something you'll regret.","Если ты немедленно не уберёшься с глаз моих, я за себя не отвечаю. Проваливай, соплячка. Не заставляй меня делать то, о чём ты пожалеешь.",ai,,18FA05D145EDB2085A139F91BCF6CF4B
+Carlo,"If you don't get the fuck out of my sight right now, I won't be responsible for my actions. Walk away, brat. Don't make me do something you'll regret.","Если ты, блядь, немедленно не уберёшься с глаз моих, я за себя не отвечаю. Проваливай, соплячка. Не заставляй меня делать то, о чём ты пожалеешь.",ai,,18FA05D145EDB2085A139F91BCF6CF4B
 Clarissa,Not today.,Не сегодня.,ai,,D28BE82E4B27DE4684AEF2B1EDD0AD4E
 Clarissa,"Come on, then.",Ну давай.,ai,,3BEEC2864E5E67A3852F54ABEB181954
 Carlo,"L-look at you. Pathetic. Out of breath already. We're not done here, Clarissa. Not by a long shot.","С-смотри на себя. Жалкая. Уже запыхалась. Мы с тобой не закончили, Кларисса. Далеко не закончили.",ai,,6D46E4F34FA6353805FA81953182A15F
@@ -396,7 +396,7 @@ Carlo,"H-hah! And you believe that shit? Face it, Clarissa. He's using you to ge
 Clarissa,You don't know Clemence at all.,Ты совсем не знаешь Клеменса.,ai,,5695435A45737D9089C2779D29DCC407
 Clarissa,...Do you know something I don't? Speak up!,"...Ты знаешь что-то, чего не знаю я? Говори!",ai,,123547824240F03BC87E91ABBEF019E8
 Clarissa,[Beat him],[Избить его],ai,,AFA4ACD44A4FB33F4BDD1F84549D0A7F
-Carlo,"I've known him m-my whole life, Clarissa. He's a liar. He's an errand boy. Fuck, I should've done him in when I had the chance. H-he's been getting soft. Lazy.","Я з-знаю его всю жизнь, Кларисса. Он лжец. Он шестёрка. Чёрт, надо было прикончить его, когда была возможность. О-он размяк. Обленился.",ai,,0F1ED2A64D62A0056A3CBBBF6E6C17A4
+Carlo,"I've known him m-my whole life, Clarissa. He's a liar. He's an errand boy. Fuck, I should've done him in when I had the chance. H-he's been getting soft. Lazy.","Я з-знаю его всю жизнь, Кларисса. Он лжец. Он шестёрка. Блядь, надо было прикончить его, когда была возможность. О-он размяк. Обленился.",ai,,0F1ED2A64D62A0056A3CBBBF6E6C17A4
 Clarissa,He's neither of those things.,Он ни то ни другое.,ai,,54AD2F394C7F40D2813A3BB51E2B4E7D
 Clarissa,He's got a heart. A conscience. That means something.,У него есть сердце. Совесть. Это что-то значит.,ai,,05E669734A6EB27F3F470D84166F6941
 Clarissa,[Beat him],[Избить его],ai,,A582CF2B4404F33EE6BFC1BE686B0377
@@ -433,7 +433,7 @@ Clarissa,Shut up. You know nothing.,Заткнись. Ты ничего не з�
 Clarissa,[Ready yourself for another swing],[Приготовиться к новому замаху],ai,,8492F5DC4C15A2A9005C94AADA43EA0A
 Carlo,"T-there you go. You know I'm right. You hate it, but you do.","В-вот, видишь. Ты знаешь, что я прав. Тебе это ненавистно, но ты знаешь.",ai,,90CDB55342822636D1218ABE11612CB7
 Clarissa,[Ignore him and try to shut out the pain],[Не обращать на него внимания и попытаться отрешиться от боли],ai,,64889F324ABD7ED891D9888312137566
-Clarissa,...Fuck you. You're talking shit.,...Пошёл ты. Ты несёшь чушь.,ai,,5D06E20A483FCDF89F0363AF8044A464
+Clarissa,...Fuck you. You're talking shit.,...Пошёл ты нахуй. Гонишь ты всё.,ai,,5D06E20A483FCDF89F0363AF8044A464
 Clarissa,...He's waiting outside right now. [Look towards the door],...Он ждёт снаружи прямо сейчас. [Посмотреть на дверь],ai,,23958CFA491DF0E0193DD2AD53306607
 Carlo,"N-no, Clarissa...I swear. I swear, I mean it. Y-you have to believe me.","Н-нет, Кларисса... клянусь. Клянусь, я серьёзно. Т-ты должна мне поверить.",ai,,7EB16B8B4E7CEE929A8F07A898DD0291
 Clarissa,"No dice, old man.","Не выйдет, старик.",ai,,9B2A593C4564AEB27EECA3B7B9FB48E2

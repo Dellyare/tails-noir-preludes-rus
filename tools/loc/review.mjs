@@ -20,8 +20,12 @@ const STATE_DIR = path.join(ROOT, 'workspace', opt('--task') || 'gender');
 const ACT = opt('--act');
 // --only-ok reviews just the human-reviewed rows (skipped by default), with its own progress
 const ONLY_OK = process.argv.includes('--only-ok');
+// --mat keeps only rows where the English has strong swearing but the Russian does not (softened profanity)
+const MAT = process.argv.includes('--mat');
+const EN_MAT = /\b(fuck\w*|motherfuck\w*|asshole|bastard|dick|prick|bitch|dumbass|jackass)\b/i; // "shit" is "чёрт/хрень", not mat
+const RU_MAT = /(бля|ху[йяеё]|пизд|еб[аеуё]|ёб|мудак|сук[аи]|говн|дерьм|срат|жоп|сран|ублюд|гнид|пидор)/i;
 const ALL = process.argv.includes('--all'); // machine-translated and reviewed rows together
-const PROGRESS = path.join(STATE_DIR, `progress${ACT ? '-' + ACT : ''}${ONLY_OK ? '-ok' : ''}${ALL ? '-all' : ''}.json`);
+const PROGRESS = path.join(STATE_DIR, `progress${ACT ? '-' + ACT : ''}${ONLY_OK ? '-ok' : ''}${ALL ? '-all' : ''}${MAT ? '-mat' : ''}.json`);
 const LOG = path.join(STATE_DIR, 'log.jsonl');
 const CHUNK = 60;
 
@@ -42,7 +46,7 @@ const walk = d => fs.readdirSync(d, { withFileTypes: true })
 const files = () => walk(ACT ? path.join(DIALOGUES, ACT) : DIALOGUES).sort();
 
 // rows worth checking: machine-translated, with Russian text long enough to carry gender
-const reviewable = r => (ALL || (r.status === 'ok') === ONLY_OK) && /[а-яё]{2}/i.test(r.translation) && r.translation.length > 3;
+const reviewable = r => (!MAT || (EN_MAT.test(r.source) && !RU_MAT.test(r.translation))) && (ALL || MAT || (r.status === 'ok') === ONLY_OK) && /[а-яё]{2}/i.test(r.translation) && r.translation.length > 3;
 
 const load = () => { try { return JSON.parse(fs.readFileSync(PROGRESS, 'utf8')); } catch { return { file: 0, row: 0 }; } };
 const save = s => { fs.mkdirSync(STATE_DIR, { recursive: true }); fs.writeFileSync(PROGRESS, JSON.stringify(s)); };

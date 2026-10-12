@@ -217,7 +217,7 @@ Howard,"Oh, sorry. Mind if I throw this envelope in the beacon of the Shepherd's
 Howard,"[Toss it in, grin, and run away]","[Швырнуть в огонь, ухмыльнуться и убежать]",ai,,CE4077D04BEF30C79F53578E8B044949
 Bocco,"Then I shall wait and see. Patience is a virtue, don't you know?","Тогда я подожду и посмотрю. Терпение - добродетель, разве ты не знаешь?",ai,,82F0F6B84624833475AEDDB1037088AD
 Howard,"Uh-huh. Say, can we talk about something else?","Ага. Слушайте, можно поговорить о чём-нибудь другом?",ai,,E3F5F14D4B99774617300F9AB5FA7E59
-Howard,[Mutter] Of course it fucking is.,"[Пробормотать] Конечно, блин, так оно и есть.",ai,,9AE0B69B416C79701BB50F91A10D28E2
+Howard,[Mutter] Of course it fucking is.,"[Пробормотать] Конечно, блядь, так оно и есть.",ai,,9AE0B69B416C79701BB50F91A10D28E2
 Howard,Enjoy the wait. See ya.,Приятного ожидания. Пока.,ai,,0D825F7849DD9E240EF1E198ACF5E093
 Bocco,"Faith, son. Trust in your ability, and others will trust in it, too.","Вера, сынок. Верь в свои силы, и другие тоже в них поверят.",ai,,18BD984343E4AB7EE0FD07AB24B095CD
 Howard,...Okay. Let me ask you some thing else.,...Ладно. Дайте спросить вас о другом.,ai,,72901F474AC725A53E9ED49C87549B2B
@@ -229,10 +229,10 @@ Howard,"Oops, slip of the tongue. Mind if we change the subject?","Ой, ого�
 Bocco,"Hrm. Very well. Come by the church, up the road, when you have it developed. I should like to see it.","Хм. Что ж, ладно. Зайди в церковь, вверх по дороге, когда проявишь. Я хотел бы на него взглянуть.",ai,,70ECB16B496320838011F5BBA51352A5
 Howard,I should think you do. See ya.,"Думаю, да. Увидимся.",ai,,1B9FB4A7409F674A40CD568D3306ABDB
 Howard,We'll see. Mind if I ask you something else?,Посмотрим. Можно спросить у вас кое-что ещё?,ai,,BD1B35FD43948F0438FE3FBA091D9350
-Howard,"[Mutter] Oh yeah, that's very fucking likely.","[Пробормотать] О да, это ж, блин, очень вероятно.",ai,,4657B6164F1C8A47BD8C5ABA50BDCF9E
+Howard,"[Mutter] Oh yeah, that's very fucking likely.","[Пробормотать] О да, это ж, блядь, очень вероятно.",ai,,4657B6164F1C8A47BD8C5ABA50BDCF9E
 Bocco,...What was that?,...Что это было?,ai,,46B71053427E511D9A6FB1BE23742CD2
 Howard,Nothing. Can I ask you something?,Ничего. Можно у вас кое-что спросить?,ai,,D328D311457747C8FFE138B9693B920E
-Howard,"Oh, I was just being a dick to you. That's why I said it so quietly. Anyway, bye!","Да я просто хамил вам. Потому и сказал так тихо. Ладно, пока!",ai,,03D71839492052C1B1ECCD87786ABC4E
+Howard,"Oh, I was just being a dick to you. That's why I said it so quietly. Anyway, bye!","Да я просто вёл себя с вами как мудак. Потому и сказал так тихо. Ладно, пока!",ai,,03D71839492052C1B1ECCD87786ABC4E
 Howard,Me? I didn't say nothing. I was just leaving.,Я? Я ничего не говорил. Я как раз собирался уходить.,ai,,32AACF704BA750D949DF43BC3CCF5C9B
 Bocco,"Of course, my son. Anything else I can do for you?","Конечно, сын мой. Могу ли я ещё что-нибудь для тебя сделать?",ai,,DBC29703466974AEA2C92DBAF89533BE
 Howard,I did want to ask you something...,Я хотел вас кое о чём спросить...,ai,,EEE1FEF445B4D2DD3AB75E97AE8E3124
@@ -287,7 +287,7 @@ Howard,"Well, I've had plenty of rod, and I'm still fucked up.","Ну, розг�
 Howard,You're nuts. [Leave],Вы чокнутый. [Уйти],ai,,DD0144AE485F2E1D19FB98A9B2449B6C
 Bocco,Hrm. Language.,Хм. Следи за языком.,ai,,A2754C0A4F4D7E638D722AA051B0AD3E
 Howard,Fine. Let's talk about something else.,Ладно. Давайте поговорим о другом.,ai,,A659BFD34BCA9BE06F79B78421644FD9
-Howard,Fuck off. [Leave],Отвали. [Уйти],ai,,CBA0A4F94BB56DB03FBA04A50CC8700E
+Howard,Fuck off. [Leave],Отвали нахуй. [Уйти],ai,,CBA0A4F94BB56DB03FBA04A50CC8700E
 Bocco,"Well, when the night Goddess comes crawling through the shadows, she spreads rumours and lies about each and all of us. She listens, and knows us all by name and face.","Что ж, когда ночная Богиня ползёт сквозь тени, она распускает слухи и ложь о каждом из нас. Она слушает и знает всех нас по имени и в лицо.",ai,,31ED5C3A410531180A3B3CA099886623
 Howard,She knows my face and name?,Она знает моё лицо и имя?,ai,,73C41E634730632AD21C4CB9D24B147E
 Howard,How?,Как?,ok,,247FDF8A4E275440B82FC789D8BC8AA9

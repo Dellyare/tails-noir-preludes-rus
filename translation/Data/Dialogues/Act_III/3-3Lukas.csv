@@ -178,7 +178,7 @@ Renee,[Stay quiet and listen],[Молчать и слушать],ai,,66EA851C4A8
 Renee,"And what do you need, exactly?","А что тебе нужно, собственно?",ai,,7980A2704119D2D0D46A96AD4058C38F
 Lukas,"I know, I know - I'm just saying that you're giving up a lot. Where are you going to move? I don't think there are apartments in this part of town that you could afford, you know, on your own. Might get...uncomfortable.","Знаю, знаю, я просто говорю, что ты многим жертвуешь. Куда ты переедешь? Не думаю, что в этой части города есть квартиры, которые ты потянешь одна. Может стать... неуютно.",ai,,9D27E2704E0088DC3724AFB9E222D558
 Renee,I can manage just fine. I'm not a child.,Я прекрасно справлюсь. Я не ребёнок.,ai,,9CB6749241C297973F443EB224229AA2
-Renee,What the fuck is that supposed to mean?,Какого хрена это должно значить?,ai,,59E3C5EA48A494241ABCBB960CD5A926
+Renee,What the fuck is that supposed to mean?,Какого хуя это должно значить?,ai,,59E3C5EA48A494241ABCBB960CD5A926
 Renee,I don't care about comfort.,Мне плевать на уют.,ai,,C15602F24983EE58060B8D9C3197A4BC
 Lukas,"Leaving all of this behind? Me? The apartment? Everything we share? Come on, Renee. You're being ridiculous.","Бросить всё это? Меня? Квартиру? Всё, что у нас общее? Да брось, Рене. Ты ведёшь себя нелепо.",ai,,50CD7D4F41A0D11F11FDE29D2BA7CC5C
 Renee,"No, I'm being practical. I keep writing, and I find a new apartment. It's simple.","Нет, я рассуждаю практично. Я продолжаю писать и ищу новую квартиру. Всё просто.",ai,,B66631214C78E9DC88D50690AF49F5F1
@@ -347,10 +347,10 @@ Renee,You changed.,Ты изменился.,ai,,E6224B7B4840A807548625ADC1244240
 Lukas,"Isn't it? We were fine a few months ago, weren't we?","Разве нет? Всего несколько месяцев назад у нас всё было хорошо, правда?",ai,,84C32A1D4DE4DA835F146AA7DCE870E3
 Renee,We were. Things change.,Было. Всё меняется.,ai,,B066F82A41F83745FBAD0187B62DB3E0
 Renee,"I just realized we weren't. I wasn't, at least.","Я просто поняла, что нет. Во всяком случае, у меня - нет.",ai,,5C1BEB6E4FDDC30FE98C2584226D2162
-Lukas,"Wow, well - that's real fucking optimistic of you, Renee.","Ого, ну, это охренительно оптимистично с твоей стороны, Рене.",ai,,256FB2C145D011B71B71F18A24AB6F94
+Lukas,"Wow, well - that's real fucking optimistic of you, Renee.","Ого, ну, это пиздец как оптимистично с твоей стороны, Рене.",ai,,256FB2C145D011B71B71F18A24AB6F94
 Renee,We keep this up and we're just going to keep hurting each other. You know that.,"Если мы так и будем продолжать, то будем только ранить друг друга. Ты это знаешь.",ai,,EAF47C394AD74A59C5F1829AD8570165
 Renee,"I'm done waiting for things to change, Lukas.","Я устала ждать перемен, Лукас.",ai,,320753C04D1E87ADF414ED98F034DB3B
-Renee,"No, it's real fucking realistic.","Нет, это охренительно реалистично.",ai,,40CB0BC14FF82D693A888C9E306ACC3B
+Renee,"No, it's real fucking realistic.","Нет, это пиздец как реалистично.",ai,,40CB0BC14FF82D693A888C9E306ACC3B
 Lukas,"Isn't it? Renee, am I doing something wrong? That's a yes or no question.","Разве? Рене, я что-то делаю не так? Это вопрос на «да» или «нет».",ai,,5B9FF471430E2A4BD5CA238D742E30C1
 Renee,"...Yes. Yes, you are.","...Да. Да, делаешь.",ai,,86A6CC934ED5545EF5271491DE1CC9C3
 Renee,No. You're just doing something...differently.,Нет. Ты просто делаешь... по-другому.,ai,,78C60AE547197E2FCDA29F9DDF14F97C
@@ -530,7 +530,7 @@ Lukas,What does that mean?,Что это значит?,ok,,F4E61CD449A1561BB9491
 Renee,"We've grown apart, and we can't just pretend that's a passing thing.","Мы отдалились друг от друга, и нельзя делать вид, что это временно.",ai,,652E7F134FF2E5DD4C3C3490D8BC92A7
 Renee,We can't live in the past.,Нельзя жить прошлым.,ai,,8249C0C74F9337035C30B88EA1DC6426
 Renee,It means that we need to learn from our mistakes.,"Это значит, что нам нужно учиться на своих ошибках.",ai,,50C28385495C8E9144F264A7AEFEA865
-Lukas,Well then I just don't know. I don't get it. I don't see it. Fuck's sake.,Тогда я просто не знаю. Не понимаю. Не вижу. Да твою же мать.,ai,,8134FC384C897033BA383EB08A3648C3
+Lukas,Well then I just don't know. I don't get it. I don't see it. Fuck's sake.,Тогда я просто не знаю. Не понимаю. Не вижу. Да блядь.,ai,,8134FC384C897033BA383EB08A3648C3
 Renee,[Say nothing],[Промолчать],ai,,07456C394B118051F86F4C82620D86C6
 Renee,Yeah. So it would seem.,Да. Похоже на то.,ai,,CC53499C4D7D189DC39C21A700ED8DCF
 Lukas,"I do, though. Don't I?",А я слушаю. Разве нет?,ai,,8E4303734772B1F48DB7289D9530A723
@@ -1026,9 +1026,9 @@ Renee,...I'm not doing this. I'm leaving.,...Я в этом не участву�
 Renee,"Yes, we are.",Закончили.,ai,,BC302D924449CF6D5B4E42839AC4184B
 Lukas,"No! Don't just - Renee, listen. I...please. Sit back down. You're getting emotional again.","Нет! Не уходи вот так - Рене, послушай. Я... пожалуйста. Сядь обратно. Ты опять поддаёшься эмоциям.",ai,,31E160274392543FE252D897286BCF6D
 Renee,"...Okay, that's it. I'm leaving.","...Всё, с меня хватит. Я ухожу.",ai,,DF74D6284B327AEDD095DD9867FEB07C
-Renee,Fuck off. Don't give me that shit again.,Отвали. Не неси мне опять эту хрень.,ai,,DAB9F79F42137863D3F42EADC80DB4CE
+Renee,Fuck off. Don't give me that shit again.,Отвали нахуй. Не неси мне опять эту хрень.,ai,,DAB9F79F42137863D3F42EADC80DB4CE
 Lukas,"No, you're...don't you dare...fine! FINE. Fucking go, then. See if I fucking care!","Нет, ты... не смей... ладно! ЛАДНО. Ну и вали на хрен. Мне, блядь, плевать!",ai,,2685D4CF44C9B7C2EDC680B193E4BC03
-Renee,"...Yeah, fuck you too.","...Ага, и пошёл ты тоже.",ai,,06C463D6475D72A662032E946742A315
+Renee,"...Yeah, fuck you too.","...Ага, и пошёл ты нахуй тоже.",ai,,06C463D6475D72A662032E946742A315
 Renee,[Leave],[Выйти],ok,,A0ECBCE741A77A042AF90D9E383D0853
 Renee,"I'll just go pack, then. I'll be in my office if you need to shout at someone some more.","Тогда пойду собираться. Я буду в кабинете, если захочешь на кого-нибудь ещё покричать.",ai,,D9F3915E4070DB9609FF1EAA5676AA04
 Lukas,Of course it is. You don't just make this kind of decision on your own. You don't get to decide for both of us.,Ещё как. Такие решения в одиночку не принимают. Ты не можешь решать за нас обоих.,ai,,58C628D4466C0A4195429AB3CBD35718
@@ -1039,7 +1039,7 @@ Renee,"Okay, that does it. I'm out. I'm going.","Ну всё, с меня дов
 Renee,"No, I know exactly what I'm doing.","Нет, я прекрасно знаю, что делаю.",ai,,B0EB298F4548999558686A83E34B4BF1
 Lukas,"...What, Renee? What is it now? Come back to argue?","...Что, Рене? Что на этот раз? Вернулась поспорить?",ai,,D7B33E53474E8C4A84C897B9F7ECA027
 Renee,"No, I came to check on you.","Нет, я пришла узнать, как ты.",ai,,2F381A0E4E29B79D1DBBB2A607B64C5B
-Renee,Fuck off.,Отъебись.,ok,,107D0D3A4445236EB54301A40A9B68D2
+Renee,Fuck off.,Отъебись нахуй.,ok,,107D0D3A4445236EB54301A40A9B68D2
 Renee,[Leave],[Выйти],ok,,DE75ED5A42719399EF467A84809C1478
 Lukas,"Renee, just calm down. Right now.","Рене, успокойся. Немедленно.",ai,,80F6B8D64B1A478E62FF148F87E805FD
 Renee,No. I'm leaving.,Нет. Я ухожу.,ai,,6F50AF78408DBF65FE6BACBB43EAA902
@@ -1061,7 +1061,7 @@ Lukas,"Listen, I...don't want to hear it right now, okay?","Слушай, я... 
 Renee,Alright. Okay.,Хорошо. Ладно.,ai,,F50E42FC42BC74E86A6662BFEA339C02
 Renee,[Nod and leave],[Кивнуть и выйти],ai,,6574EEF64D7066C76B417AB554D5EA47
 Lukas,Well don't fucking bother. Don't act like you care now.,"Да не утруждайся, на хрен. Не делай вид, что тебе есть дело.",ai,,7B7C5DEB423E2FC179CF689631D66757
-Renee,"Fuck you too, Lukas.","И пошёл ты, Лукас.",ai,,D1B6FEA34C531A1D00C472B371B4A088
+Renee,"Fuck you too, Lukas.","И пошёл ты нахуй, Лукас.",ai,,D1B6FEA34C531A1D00C472B371B4A088
 Renee,[Say nothing and leave],[Промолчать и выйти],ai,,AD45BB4D4FC83C5C0A6656A710F03CEE
 Renee,Fine. I won't.,Ладно. Не буду.,ai,,AEB367A1493E74CFF6968F8C185BB52F
 Lukas,"That's...that's good. Well, uh, keep it up.","Это... это хорошо. Ну, э-э, так держать.",ai,,D824DEE54490907E9A3BEBA9CAA3673E
@@ -1078,14 +1078,14 @@ Renee,[Leave],[Выйти],ok,,E180BD76439591AC47854D9EAFAB4C38
 Renee,Okay. Good.,Хорошо. Отлично.,ai,,50E1FA254D29593EAF05AC96B94961AE
 Renee,Let me know if you need anything. I'll be in my office.,"Скажи, если что-нибудь понадобится. Я буду в кабинете.",ai,,4DBE1B5E475C64338160448C4CDB91D4
 Lukas,"Yeah? Walking out on us? Just leaving because some fucking rodents got burned alive? Fine, then! Be like that! Fucking go. See if I care.","Да? Бросаешь нас? Уходишь из-за каких-то сраных грызунов, которые сгорели заживо? Ну и ладно! Давай, веди себя так! Вали на хрен. Мне плевать.",ai,,F105012A4EC54D9DFBE2F894CD38066F
-Renee,"...Yeah, fuck you too.","...Ага, и пошёл ты тоже.",ai,,15430DEE48B352FF24745BB223C7953B
+Renee,"...Yeah, fuck you too.","...Ага, и пошёл ты нахуй тоже.",ai,,15430DEE48B352FF24745BB223C7953B
 Renee,"I'll just go pack, then. I'll be in my office if you need to shout at someone some more.","Тогда пойду собираться. Я буду в кабинете, если захочешь на кого-нибудь ещё покричать.",ai,,03ED15B340BE0F1E18CD90978E313403
 Renee,"Really making a strong case for yourself there, aren't you?","Да уж, очень убедительно выступаешь в свою защиту.",ai,,54FB785A43B83CFF0F2A6C97273B6387
 Lukas,Oh. I see. Do you...do you know why?,А. Понятно. Ты... ты знаешь почему?,ai,,36567C434508D3999CC7788E0ED03A07
 Renee,...Let me ask you a question - are you happy?,...Позволь задать тебе вопрос: ты счастлив?,ai,,86ED91CD46628D63AD5A1EAEC3F7A4F4
 Renee,"Yeah. At least, I think so.","Да. По крайней мере, мне так кажется.",ai,,8E1D04544AD82D1129C5388B6E1A840B
 Renee,...Do you not?,...А ты нет?,ai,,215E8CBD47DFA7C476FF7D8B58020E41
-Lukas,...Fuck off. Just - get out of my sight.,...Отвали. Просто убирайся с глаз моих.,ai,,AC92AF3D4427EC10B514BDA61E15DCC1
+Lukas,...Fuck off. Just - get out of my sight.,...Отвали нахуй. Просто убирайся с глаз моих.,ai,,AC92AF3D4427EC10B514BDA61E15DCC1
 Renee,Gladly.,С удовольствием.,ai,,38AF8C6845B0F86963608CA48761A498
 Renee,[Say nothing and leave],[Промолчать и выйти],ai,,999867A343BDCD21A9D133BAB1F5EF58
 Lukas,"I...me? Shit, Renee, you're the one who wanted to talk. Don't put this on me. We have our...ups and downs, sure, but I'm not at the serious talk stage. I don't think I am, at least.","Я... я? Чёрт, Рене, это ты хотела поговорить. Не вешай это на меня. У нас бывают... взлёты и падения, конечно, но до серьёзных разговоров мы не дошли. Мне так кажется, по крайней мере.",ai,,10FE975040AF7B1EB51715AC8E5A5BAA
@@ -1107,7 +1107,7 @@ Lukas,"You were the one who wanted to talk, Renee. Please, if you have something
 Renee,Lukas. Are you happy?,Лукас. Ты счастлив?,ai,,E9C934154C9E8942E844A8B2B16FEFFD
 Renee,"[Sigh] I'm not happy. With us, with you.","[Вздохнуть] Я несчастна. С нами, с тобой.",ai,,C004BDC8408044D74842598CEA089E45
 Renee,Lukas.,Лукас.,ai,,8CF1B9D54542570AB74CD5A309337CBB
-Lukas,"It was that article, wasn't it? That fucking article.","Это из-за той статьи, да? Из-за этой проклятой статьи.",ai,,928A541C4CBB1D830CEB10BBA86839F4
+Lukas,"It was that article, wasn't it? That fucking article.","Это из-за той статьи, да? Из-за этой ёбаной статьи.",ai,,928A541C4CBB1D830CEB10BBA86839F4
 Renee,It has nothing to do with that.,Это тут ни при чём.,ai,,2A974CDB493AFDEE50008CA7487C8291
 Lukas,Okay. Well...how long have you felt this way?,Ладно. Ну... как давно ты это чувствуешь?,ai,,D28F172F4C0B808102DFCCB3DECE9E58
 Renee,A few months.,Несколько месяцев.,ai,,9D77691748AF0D842F1113BB3E445F87
@@ -1180,11 +1180,11 @@ Renee,"What is it you don't understand, Lukas?","Что именно тебе н
 Lukas,"But...you'd be starting from scratch. You'd have nothing but your clothes and your...I don't know what. You'll be alone, Renee.","Но... ты же начнёшь с нуля. У тебя не будет ничего, кроме одежды и твоей... не знаю чего. Ты будешь одна, Рене.",ai,,5BEDB5A7479C12C7550570A6DE47A8F7
 Renee,"That's kind of the point, Lukas.","В этом, в общем, и смысл, Лукас.",ai,,A3E2420244B625D8274D94A8257C2C3B
 Renee,So will you.,Ты тоже.,ai,,F548B59C45D25C89BDAFFBA904D75B23
-Renee,"I have friends. I have family, you asshole. I'm not alone.","У меня есть друзья. У меня есть семья, ты, козёл. Я не одна.",ai,,383AF8BB45AF8363BBF06FB3EF475E9F
+Renee,"I have friends. I have family, you asshole. I'm not alone.","У меня есть друзья. У меня есть семья, ты, мудак. Я не одна.",ai,,383AF8BB45AF8363BBF06FB3EF475E9F
 Renee,"Oh, no. I'm taking my share of our savings.",О нет. Я заберу свою долю наших сбережений.,ai,,4E5971124005507D38B4108D26DB8506
 Lukas,I...I guess you're right.,"Я... наверное, ты права.",ai,,DBEFB8574FED64A490C5308F2CEF4FE4
 Lukas,So you know it wasn't worth it.,"Значит, ты знаешь, что оно того не стоило.",ai,,CA3F97A34856B46EE4ABEBB713E9643D
-Lukas,"Again with that fucking case. You need to get over it, Renee. ","Опять это проклятое дело. Пора с этим покончить, Рене. ",ai,,E0F758F04F00EB8667C0079F0F40B802
+Lukas,"Again with that fucking case. You need to get over it, Renee. ","Опять это ёбаное дело. Пора с этим покончить, Рене. ",ai,,E0F758F04F00EB8667C0079F0F40B802
 Renee,You mean like you have?,То есть как ты?,ai,,0AF48DA247ECB2E88D50A6BD38E58BFC
 Renee,You mean like you have?,То есть как ты?,ai,,1814FEF94F8D5E788E8D14BBFAD0AC0B
 Renee,I can't.,Я не могу.,ok,,BA24C4814974EC8BF0B2B9B46CF72994

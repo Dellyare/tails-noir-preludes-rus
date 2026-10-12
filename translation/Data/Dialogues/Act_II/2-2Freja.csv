@@ -162,7 +162,7 @@ Freja,Do something? Like what?,Чем-нибудь заняться? Напри�
 Howard,"...Nothing, actually. Bye.",...Вообще-то ничем. Пока.,ai,,A804F3AB47229D03AE59C5B74B99D89B
 Howard,"You know - hang out, just the two of us?","Ну, знаешь - потусить, только мы вдвоём?",ai,,75DDC84843D1C4213A5F23B7E2011E32
 Howard,"Like, uh, teen stuff. Stuff that teens do.","Ну, типа, э-э, подростковым чем-нибудь. Тем, чем занимаются подростки.",ai,,3480458446900CD8B21010A8B2B19802
-Freja,Then you'd probably be too busy sucking up to Apes or trying to yes-man your way to some clerical job. Fuck that shit.,"Тогда ты, скорее всего, был бы слишком занят: подлизывался бы к Обезьянам или поддакивал всем подряд, чтобы пробиться на какую-нибудь канцелярскую должность. Да ну нахер.",ai,,D2699C824FBF5209A5FFB3B4F26F674F
+Freja,Then you'd probably be too busy sucking up to Apes or trying to yes-man your way to some clerical job. Fuck that shit.,"Тогда ты, скорее всего, был бы слишком занят: подлизывался бы к Обезьянам или поддакивал всем подряд, чтобы пробиться на какую-нибудь канцелярскую должность. Да ну нахуй такое.",ai,,D2699C824FBF5209A5FFB3B4F26F674F
 Howard,Point taken. Let's get back to the flirting.,Принято. Давай вернёмся к флирту.,ai,,65C999814AAC1397CC07B2995830EBE8
 Howard,"...What about, like, an underground convention?","...А как насчёт, ну, подпольного собрания?",ai,,20590FEE46D0525DFDD8F1A9447343DB
 Freja,"Then you should focus on not getting caught, rather than flirting. Shit, man, have you been hanging out with Niles?","Тогда тебе стоит думать о том, как не попасться, а не о флирте. Блин, чувак, ты что, с Найлсом тусовался?",ai,,F04A69C94B851D6D97DC56A342F08853
@@ -322,7 +322,7 @@ Howard,[Take the W],[Забрать победу],ai,,2FCDA554486F46B01F2207B8B6
 Freja,"Pfff. Alright, alright. You're such a nerd, but it's not...awful. It's got that disarming charm to it, I guess. You pass.","Пфф. Ладно, ладно. Ты такой ботаник, но это не... ужасно. В этом есть какое-то обезоруживающее обаяние. Зачёт.",ai,,68FA17DE4308525D2DC0EDB272418895
 Howard,"Sweet. Come on, give me another one!","Класс. Давай, дай мне ещё один!",ai,,F59FDF1649824578E74E0581E7959F3F
 Howard,Very gracious of you. What's next?,Очень великодушно с твоей стороны. Что дальше?,ai,,E8AEB77E41E577B8E822DAB25D5CE291
-Freja,"...I'm not even going to respond to that one. You're such a fucking nerd, Howard, but it is pretty charming. So, ready for the last test?","...На это я даже отвечать не буду. Ты такой чертов ботаник, Говард, но это правда мило. Ну что, готов к последнему испытанию?",ai,,D2B003D24757B68DE2FD91ACB157E4D5
+Freja,"...I'm not even going to respond to that one. You're such a fucking nerd, Howard, but it is pretty charming. So, ready for the last test?","...На это я даже отвечать не буду. Ты такой ёбаный ботаник, Говард, но это правда мило. Ну что, готов к последнему испытанию?",ai,,D2B003D24757B68DE2FD91ACB157E4D5
 Howard,Ready.,Готов.,ai,,EFB7EDED4D3A2FA686E1BC898AA6478B
 Howard,"Something, something, tree.","Бла-бла-бла, дерево.",ai,,0C1881FF40382034D0942BADC9F0550D
 Freja,"Well no, Howie - this is all just hypothetical. We're workshopping it, remember?","Да нет же, Говчик, всё это чисто гипотетически. Мы же репетируем, помнишь?",ai,,62E234F449F3074D245FCABAAC5C477F
@@ -359,7 +359,7 @@ Howard,"[Take a deep breath] So, do you want to go out with me?",[Глубоко
 Howard,"I'll do my best, I guess.","Постараюсь, наверное.",ai,,E27E778A4D3DEBE38CE727A543869B3C
 Freja,"I'm not saying there isn't a place for that, Howie - you just have to read the room. If someone feels the same way, then sure - be direct.","Я не говорю, что этому нет места, Говчик, просто надо чувствовать обстановку. Если человек чувствует то же самое, тогда конечно, будь прямым.",ai,,ADFD60B64D01A7C425AF3F94D2D4484F
 Howard,Speaking of being direct - do you want to go out sometime?,Раз уж о прямоте: хочешь как-нибудь сходить куда-нибудь вместе?,ai,,0A00CCC9408E31CF449984BF393FA99A
-Freja,"Fuck yeah, brother. Next time you put on a record, turn it up! I wanna hear that shit too.","Ещё бы, братан. В следующий раз, как поставишь пластинку, сделай погромче! Я тоже хочу слушать эту хрень.",ai,,918CA7F34E1CC0D35801BEA5734DCC9E
+Freja,"Fuck yeah, brother. Next time you put on a record, turn it up! I wanna hear that shit too.","Блядь, да, братан. В следующий раз, как поставишь пластинку, сделай погромче! Я тоже хочу слушать эту хрень.",ai,,918CA7F34E1CC0D35801BEA5734DCC9E
 Howard,"You got it, Freja.","Договорились, Фрея.",ai,,514414CA405BF230A0C41E86CF0A8B78
 Howard,Not sure Wisconsin would be too happy about that.,"Не уверен, что Висконсин будет в восторге.",ai,,83EFCDD84539D41442CD71B07DD9FE1D
 Freja,"Don't worry, man. You'll get better with time and practice. I hope.","Не парься, чувак. Со временем и с практикой станет лучше. Надеюсь.",ai,,82C3043146385E352FC1AAA94AD58D0F
@@ -421,7 +421,7 @@ Freja,Howard! Do you want help or not?,Говард! Тебе нужна пом�
 Howard,I think you're cute too.,"Ты тоже симпатичная, по-моему.",ai,,77B9526543AB81592B02FF87FAD8522F
 Howard,"Sorry, sorry - run that by me one more time?","Прости, прости, повтори-ка ещё раз?",ai,,309669D1437FA67FF68D54A9D9A6AAE8
 Freja,"Are you kidding me? You did great! Shit, I might ask you some advice at some point - we could wingman each other!","Издеваешься? Ты отлично справился! Блин, я, может, ещё сама спрошу у тебя совета. Будем друг другу вингмэнами!",ai,,9AD7F1014E1892862B93029277509158
-Howard,Fuck yeah. I'm down.,Ещё бы. Я за.,ai,,D1D9DCE3419EFD70E395D080BB1C4EB5
+Howard,Fuck yeah. I'm down.,"Блядь, да. Я за.",ai,,D1D9DCE3419EFD70E395D080BB1C4EB5
 Howard,"Maybe, yeah. Thanks for the help, Freja. See you later.","Может быть. Спасибо за помощь, Фрея. Увидимся.",ai,,B9589163407BEBDB498B4E9DC45E32B0
 Freja,"We'll be unstoppable, man. And bring Larry, too, alright? He needs to unwind, too.","Нас будет не остановить, чувак. И Ларри тоже приведи, ладно? Ему тоже надо расслабиться.",ai,,C38AE1DC49D223D2AFC408BA0BD4335B
 Howard,"I'll ask him. Later, Freja.","Спрошу его. Пока, Фрея.",ai,,FB2E97DF408BEB773A94229C87944432
@@ -437,7 +437,7 @@ Howard,"Later, Freja.","Пока, Фрея.",ai,,6304B4854327E935766C43B4CF24EAD
 Freja,"Seriously? Toying with someone's emotions for the sake of a bet is pretty fucked up. Then again, if anyone deserves that kind of behaviour, I guess it'd be Niles.","Серьёзно? Играть с чужими чувствами ради спора - та ещё мерзость. Хотя если кто и заслуживает такого обращения, то, наверное, Найлс.",ai,,45B187934A57B983217813AE9CA37573
 Howard,You were a close runner-up.,"Ты была вторым номером, совсем близко.",ai,,A49E67EA431A37EAD7C4C5BEF839EE5D
 Howard,It wasn't my finest hour.,Это был не мой лучший час.,ai,,05535D1B40B2EA38E6D023A924412AA8
-Freja,"That's pretty fucked up. Annoying as he can be, Wisconsin is still kind of sweet. Playing with his heart just for the sake of a bet is pretty dick move.","Вот это жесть. Каким бы занудой ни был Висконсин, он всё-таки милый. Играть с его сердцем ради спора - подлый ход.",ai,,E12A01634CF3E2B2EF877FBD7263516F
+Freja,"That's pretty fucked up. Annoying as he can be, Wisconsin is still kind of sweet. Playing with his heart just for the sake of a bet is pretty dick move.","Вот это жесть. Каким бы занудой ни был Висконсин, он всё-таки милый. Играть с его сердцем ради спора - мудацкий ход.",ai,,E12A01634CF3E2B2EF877FBD7263516F
 Howard,[Hang your head in shame],[Пристыженно повесить голову],ai,,354AE6334FCE8A948DDC8F89BD1ADDD9
 Howard,"Yeah, but like...I won! ","Ну да, но, типа... я же выиграл! ",ai,,4D399A854CA551E212999BBC0E2D3C5E
 Freja,"Hah! ""Dormitory 06b"" not good enough for you? A nice and catchy name like that? Got any ideas?","Ха! «Общежитие 06b» тебя не устраивает? Такое классное, запоминающееся название? Есть идеи?",ai,,F17F05064121638AD0A6B2B0C8C618E6
@@ -518,10 +518,10 @@ Howard,"Anyway, I'll see you later, Freja.","Ладно, увидимся, Фр�
 Freja,"""The Fucking Dump"" is RIGHTEOUS. I'm starting a band right now and that's what we'll be called. Good call, Howard.","«Ебучая свалка» - ОХУЕННО. Прямо сейчас начинаю группу, так и назовёмся. Отличная идея, Говард.",ai,,F66753AF4BCAE8325F5BF2A28ABDFC8E
 Howard,"Cool, cool. There's was something else I wanted to talk to you about, by the way...","Круто, круто. Кстати, я хотел с тобой ещё кое о чём поговорить...",ai,,48440FFF4C9373563BF4358A14A5643E
 Howard,"Anyway, I'll see you later, Freja.","Ладно, увидимся, Фрея.",ai,,9E55BF2D4874372EF675F1B2C4861A9A
-Freja,"Pssh. Fuck Gastown, man. Yaletown's where it's at. Represent.","Пфф. К чёрту Газтаун, чувак. Вот Йелтаун - это да. Респект району.",ai,,22B6DEE84D7CAF61E5B49782BA1E4C66
+Freja,"Pssh. Fuck Gastown, man. Yaletown's where it's at. Represent.","Пфф. На хуй Газтаун, чувак. Вот Йелтаун - это да. Респект району.",ai,,22B6DEE84D7CAF61E5B49782BA1E4C66
 Howard,"Cool, cool. There's was something else I wanted to talk to you about, by the way...","Круто, круто. Кстати, я хотел с тобой ещё кое о чём поговорить...",ai,,018C45B34945865B769707B60F0D1F9D
 Howard,"Anyway, I'll see you later, Freja.","Ладно, увидимся, Фрея.",ai,,0914D1C74E29D23077403A864A07AFD9
-Freja,"Pfff - fuck off, Howie! You're just messing with me now! We're workshopping right now! Class is in session! ","Пффф, отвали, Говчик! Ты теперь просто прикалываешься надо мной! У нас сейчас практикум! Урок идёт! ",ai,,EF4C574D4C92611FE40E85917CCCE199
+Freja,"Pfff - fuck off, Howie! You're just messing with me now! We're workshopping right now! Class is in session! ","Пффф, да иди ты нахуй, Говчик! Ты теперь просто прикалываешься надо мной! У нас сейчас практикум! Урок идёт! ",ai,,EF4C574D4C92611FE40E85917CCCE199
 Howard,Yeah? Maybe I'm hot for teacher.,"Да? Может, я запал на учительницу.",ai,,0E7FBE814BCCDBA1070A3D81EF581943
 Howard,"Fine, fine. Let's keep at it.","Ладно, ладно. Продолжаем.",ai,,8A4922AD4F06AB0DE219E9BE6ED080F1
 Freja,"That's so stupid that I kinda love it. Imagine that on a massive plaque out front, man.","Это настолько тупо, что мне почти нравится. Представь это на огромной табличке у входа, чувак.",ai,,5062E0E547564F8ADCE425BB98EA6C5A
@@ -592,7 +592,7 @@ Howard,"Lay it on me, Freja. [Wink]","Давай, Фрея. [Подмигнут�
 Freja,"Fine. I heard the two of you clanking bottles together. Either you invite me next time, or you turn up the music. Deal?","Ладно. Я слышала, как вы там двое чокались бутылками. Либо в следующий раз зовёте меня, либо делаете музыку погромче. Договорились?",ai,,AAE89B834B8F3D23E442009F17D6551C
 Howard,No deal. Were you listening in on us?,"Не договорились. Ты что, подслушивала?",ai,,EA6FEF6D480A884746031793676C5FB0
 Howard,Deal.,Договорились.,ok,,530AC5AE4D03527B4887348FC6480BF6
-Freja,"Fuck yeah it is! I haven't heard much else, but what I have heard slaps. It slaps balls.","Ещё бы, блин! Я мало что слышала, но то, что слышала, - огонь. Просто бомба.",ai,,E1F98BA044A3A66A04C72BBC6F348927
+Freja,"Fuck yeah it is! I haven't heard much else, but what I have heard slaps. It slaps balls.","Блядь, ещё бы! Я мало что слышала, но то, что слышала, - огонь. Просто бомба.",ai,,E1F98BA044A3A66A04C72BBC6F348927
 Howard,It's good shit. No doubt.,Классная штука. Без вопросов.,ai,,97DB673A450F1EEE765C1EB2722ED5D9
 Howard,[Wince],[Поморщиться],ai,,D8EE9328409B2B6CD19F37B55ECA429F
 Freja,"Not too much. Just enough to give the idea of ""hey, you're cute and I'm into it.""","Не слишком. Ровно столько, чтобы было понятно: «Эй, ты симпатичный, и мне это нравится».",ai,,E59D5D9F4EE92625C29DC5931B3C2314
@@ -625,7 +625,7 @@ Howard,"I'll keep working on it. Thanks, Freja.","Буду дальше рабо
 Freja,"Sometimes all it takes is a little workshopping, man. A little jam! Now go put on another album! I want to hear what else you guys have got.","Иногда достаточно небольшой репетиции, чувак. Чуть-чуть джема! А теперь иди ставь ещё один альбом! Хочу послушать, что у вас там ещё есть.",ai,,A54F08304B73D6664F325EACAAEB7BCD
 Howard,"See you later, Freja.","Ещё увидимся, Фрея.",ai,,7118D63545CDCEB1AB4AA4AD19BC6C3E
 Howard,"Sure Freja, thanks for all the help.","Конечно, Фрея, спасибо за всю помощь.",ai,,3736AA5A4E291113AA2601B1CB72636B
-Freja,"Fuck yeah, brother! I thought you'd be a complete disaster, but you kind of killed it. Color me surprised, my dude.","Ещё бы, братан! Я думала, ты будешь полным провалом, а ты вроде как порвал всех. Удивил, мой друг.",ai,,A3CF33084F0A89B23D7D3FBE33ED5A91
+Freja,"Fuck yeah, brother! I thought you'd be a complete disaster, but you kind of killed it. Color me surprised, my dude.","Блядь, ещё бы, братан! Я думала, ты будешь полным провалом, а ты вроде как порвал всех. Удивил, мой друг.",ai,,A3CF33084F0A89B23D7D3FBE33ED5A91
 Howard,"Took you by surprise, huh?","Застал тебя врасплох, да?",ai,,6D891D8C41EF0AFD3BA62C8FAB548D3D
 Howard,"Honestly, I thought I was just...okay.","Честно, я думал, что получилось так себе.",ai,,D3EAFA054E6EB55E66A5138D6940BD07
 Freja,"You good, dude?","Ты в порядке, чувак?",ai,,2C99D2A44163F32DB31ABB8890D5FBBB
@@ -678,7 +678,7 @@ Howard,"...Why, is it working?","...А что, работает?",ai,,089E016B42
 Freja,"Don't worry, Howie! You and me, we're going to workshop it. Fix you up into a lean, mean, flirting machine.","Не волнуйся, Говчик! Мы с тобой всё отработаем. Сделаем из тебя поджарую, злую машину для флирта.",ai,,A497500549C141F5D617EE837F3E7FDA
 Howard,Can I be a banging machine? I'd rather be a banging machine.,А можно я буду машиной для траха? Я бы предпочёл быть машиной для траха.,ai,,EA8690EB4F86195CAFDCA6A1DC4618D4
 Howard,"Thanks, Freja. You're so cool. And so attractive. And smart.","Спасибо, Фрея. Ты такая классная. И такая привлекательная. И умная.",ai,,A533E60643B98696A1F6F3BD96FB29C3
-Freja,"Picture it, Howie: You're at a party. Tunes are blasting. Booze and smoke heavy in the air. Vibes are fan-fucking-dope-tastic. I'm an artsy cutie and I think you're cute. WHAT do you say?","Представь, Говчик: ты на вечеринке. Музыка грохочет. В воздухе алкоголь и дым. Вайбы просто охренительно-мегакрутые. Я - симпатичная творческая девчонка, и ты мне симпатичен. ЧТО ты скажешь?",ai,,B884FCE84D0D1634496A9DA1B22BD1A5
+Freja,"Picture it, Howie: You're at a party. Tunes are blasting. Booze and smoke heavy in the air. Vibes are fan-fucking-dope-tastic. I'm an artsy cutie and I think you're cute. WHAT do you say?","Представь, Говчик: ты на вечеринке. Музыка грохочет. В воздухе алкоголь и дым. Вайбы просто охуенно-мегакрутые. Я - симпатичная творческая девчонка, и ты мне симпатичен. ЧТО ты скажешь?",ai,,B884FCE84D0D1634496A9DA1B22BD1A5
 Howard,"I say I'm a photographer, and I want to take a picture of you.","Скажу, что я фотограф и хочу тебя сфотографировать.",ai,,6C3B0E96463662334C6BCB9A588B03F7
 Howard,...You think I'm cute?,...Ты считаешь меня симпатичным?,ai,,9E0DC5CF4E3FF93226A9BDBC9A2AE85E
 Howard,I get on the floor and show my moves. Get your attention.,Выхожу на танцпол и показываю свои движения. Привлекаю твоё внимание.,ai,,6FD5389E41BFABCBB4A53FB4C73367BC
@@ -738,7 +738,7 @@ Freja,"Go hard? What, you imagining some kind of mosh pit?","На полную? 
 Howard,(SARCASTIC) Obviously. I try to make sure I get at least one major injury per party.,(САРКАЗМ) Конечно. Я стараюсь получить хотя бы одну серьёзную травму за вечеринку.,ai,,04C610604FD3BC277A82F19CB008BB68
 Howard,"I just like going hard, Freja.","Мне просто нравится танцевать на полную, Фрея.",ai,,C35FB5754A75995CA9F983ADFFF0544D
 Howard,"Oh, no. I go hard by myself. Every day, baby.","О нет. Я на полную отрываюсь в одиночку. Каждый день, детка.",ai,,C732C5BE4CF5D048D4E8E294AA45E073
-Freja,Nice to see I'm not the only one with taste around here. - Tony-Roo and the Tricksters are legit as fuck.,"Приятно, что я тут не единственная со вкусом. Тони-Ру и Трикстеры - реально чертовски круты.",ai,,17FFAF9840E4649E03F369911CB6A98B
+Freja,Nice to see I'm not the only one with taste around here. - Tony-Roo and the Tricksters are legit as fuck.,"Приятно, что я тут не единственная со вкусом. Тони-Ру и Трикстеры - реально охуенно круты.",ai,,17FFAF9840E4649E03F369911CB6A98B
 Howard,I can't take credit. They're all Larry's records.,Не мне хвалиться. Это всё пластинки Ларри.,ai,,E44C2EF9442FBB46DB79BBB24E15C6C6
 Howard,You can't contain that groove.,Этот грув не удержать.,ai,,A5D8333E47AB5D1248A880BA65E07731
 Howard,I liked their earlier stuff better.,Мне их ранние вещи нравились больше.,ai,,BB901B734EB7A14760239C8281569993
@@ -748,7 +748,7 @@ Howard,"[Shake your head, but really sensually]","[Покачать голово
 Howard,[Nod],[Кивнуть],ai,,D0E27F734B9BE2D5D46CE78AF435C071
 Freja,"Well, I hope so since you're out here flirting! Just be direct, be honest, be up front. And if you're playing games, they better be fun.","Ну, надеюсь, раз уж ты тут флиртуешь! Просто будь прямым, честным, откровенным. А если играешь в игры, пусть они будут весёлыми.",ai,,DE15D453489E0E56EE0663B9F25E6FC9
 Howard,"I don't feel like I'm getting anywhere, though.","Но мне кажется, я никуда не продвигаюсь.",ai,,08DDE5E04561A903532AB19857C7B443
-Howard,Fuck yeah. What next?,Ещё бы. Что дальше?,ai,,B1C7A9CA4E8A5114C17F3C9DAECF424E
+Howard,Fuck yeah. What next?,"Блядь, да. Что дальше?",ai,,B1C7A9CA4E8A5114C17F3C9DAECF424E
 Freja,"...I'll be real with you, Howard - that just makes it sound like you enjoy jacking it.","...Скажу как есть, Говард: так звучит, будто тебе нравится дрочить.",ai,,90CA3A60468B71A53A2C5B84D2D50434
 Howard,"Oh, right. Yeah, scratch that.","А, точно. Да, забудь.",ai,,411F3B6040D80BA12C5C4392B0AD016A
 Howard,...I mean...,"...Ну, то есть...",ai,,0C2988EB41E33E94B0BC6DB4AC1261BF
