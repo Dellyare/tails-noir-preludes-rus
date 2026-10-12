@@ -7,7 +7,6 @@
 import fs from 'fs';
 import { readCsv, writeCsv } from './csv.mjs';
 
-const HEADER = ['source', 'translation', 'status', 'namespace', 'key'];
 const tokens = (s, re) => (s.match(re) ?? []).sort().join('\u0000');
 const PLACEHOLDER = /\{[^{}]*\}/g, TAG = /<[^<>]+>/g;
 const TRAIT = /^\s*\([A-Z][A-Z :'-]*\)/; // (CYNIC), (GAIN TRAIT: CARING): brackets stay round
@@ -31,7 +30,7 @@ if (process.argv[1]?.endsWith('batch.mjs')) {
     if (cmd === 'todo') {
         const from = +(opt(args, '--from') ?? 1), to = +(opt(args, '--to') ?? Infinity);
         readCsv(args[0]).filter(r => !r.translation).forEach((r, i) => {
-            if (i + 1 >= from && i + 1 <= to) console.log(JSON.stringify({ n: i + 1, key: r.key, source: r.source }));
+            if (i + 1 >= from && i + 1 <= to) console.log(JSON.stringify({ n: i + 1, key: r.key, speaker: r.speaker, source: r.source }));
         });
     } else if (cmd === 'apply') {
         const dry = args.includes('--dry-run'), force = args.includes('--force');
@@ -53,7 +52,7 @@ if (process.argv[1]?.endsWith('batch.mjs')) {
                     try { r.translation = check(r.source, text); r.status = status; applied++; }
                     catch (e) { fail(e.message); }
                 }
-                if (!dry) writeCsv(file, HEADER, rows);
+                if (!dry) writeCsv(file, Object.keys(rows[0]), rows); // keep the file's columns (speaker is only in dialogues)
                 console.log(`${dry ? '[проверка] ' : ''}${file}: ${applied} строк${same ? ` (${same} совпадают с оригиналом — пропущены)` : ''}, без перевода осталось ${rows.filter(r => !r.translation).length}`);
             }
         }

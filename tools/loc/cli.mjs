@@ -4,6 +4,7 @@ import fs from 'fs';
 import path from 'path';
 import { execFileSync } from 'child_process';
 import { scanAssets } from './scan.mjs';
+import { dialogueSpeakers } from './dialogue.mjs';
 import { parse, readCsv, writeCsv } from './csv.mjs';
 import { readLocres, writeLocres } from './locres.mjs';
 import { pack } from './pack.mjs';
@@ -20,8 +21,10 @@ const FURY_TABLE = 'BackboneStories/Plugins/FuryPlugin/Content/Localization';
 const BUILD = path.join(ROOT, 'build');
 const UNPAK = path.join(ROOT, 'tools/unpak');
 const PAK_NAME = 'TailsRUS_P.pak';
-// status: ai = machine translation awaiting review, ok = reviewed by a human
+// status: ai = machine translation awaiting review, ok = reviewed by a human;
+// speaker (dialogue files only): who says the line - a participant, the scene's hero, or Notification
 const HEADER = ['source', 'translation', 'status', 'namespace', 'key'];
+const DIALOGUE_HEADER = ['speaker', ...HEADER];
 
 // Localization targets registered by the game (DefaultEngine.ini LocalizationPaths)
 const TARGETS = ['Act1', 'Act2', 'Act3', 'Act4', 'Act5', 'Widgets', 'DataTables', 'StringTables'];
@@ -71,10 +74,15 @@ function extract() {
         for (const r of readCsv(f)) if (r.translation) old.set(id(r), r);
 
     // a key can only have one locres entry, so it lives in the first asset that uses it
-    const files = new Map(), placed = new Set();
+    const files = new Map(), placed = new Set(), speakers = new Map();
+    const speakerOf = t => {
+        if (!t.asset.startsWith(`${CONTENT}/Data/Dialogues/`)) return undefined;
+        if (!speakers.has(t.asset)) speakers.set(t.asset, dialogueSpeakers(path.join(GAME_ASSETS, t.asset + '.uasset')));
+        return speakers.get(t.asset).get(t.key) ?? '';
+    };
     let changedSource = 0;
     for (const t of texts) {
-        const row = { source: t.source, translation: '', status: '', namespace: t.ns, key: t.key };
+        const row = { speaker: speakerOf(t), source: t.source, translation: '', status: '', namespace: t.ns, key: t.key };
         if (placed.has(id(row))) continue;
         placed.add(id(row));
         const prev = old.get(id(row));
@@ -91,7 +99,7 @@ function extract() {
     for (const f of walk(TRANSLATION).filter(f => f.endsWith('.csv') && !files.has(f))) fs.rmSync(f);
     for (const [file, rows] of files) {
         fs.mkdirSync(path.dirname(file), { recursive: true });
-        writeCsv(file, HEADER, rows);
+        writeCsv(file, rows.some(r => r.speaker !== undefined) ? DIALOGUE_HEADER : HEADER, rows);
     }
     for (const r of old.values()) console.warn(`! перевод потерян (ключа больше нет в игре): ${r.key} ${JSON.stringify(r.source).slice(0, 60)}`);
     console.log(`Текстов: ${placed.size}, файлов: ${files.size}, исходник изменился: ${changedSource}, потеряно переводов: ${old.size}`);

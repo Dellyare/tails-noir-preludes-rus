@@ -92,3 +92,32 @@ test('batch check keeps placeholders, tags, edge whitespace and CRLF', async () 
     assert.throws(() => check('{Act} {Num}', '{Акт} {Num}'), /плейсхолдеры/);
     assert.throws(() => check('Yes', '  '), /пустой/);
 });
+
+test('dialogue speech node: Text key and OwnerName from unversioned properties', async () => {
+    const { readSpeechNode } = await import('./dialogue.mjs');
+    const u16 = v => { const b = Buffer.alloc(2); b.writeUInt16LE(v); return b; };
+    const i32 = v => { const b = Buffer.alloc(4); b.writeInt32LE(v); return b; };
+    const KEY = 'CFE694DF41CAED3806949D851251808E';
+    const text = Buffer.concat([i32(0), Buffer.from([0]), fstr(''), fstr(KEY), fstr('Alright, man.')]);
+    const names = ['MyCharacterName', 'Larry'];
+    // props 2 (Text) and 11 (OwnerName = names[1])
+    const owned = Buffer.concat([u16(2 | 1 << 9), u16(8 | 1 << 9 | 0x100), text, i32(1), i32(0)]);
+    assert.deepEqual(readSpeechNode(owned, names), { key: KEY, owner: 'Larry' });
+    // OwnerName = names[0] is all zeroes: flagged in the zero mask, not serialized
+    const zero = Buffer.concat([u16(2 | 1 << 9), u16(8 | 0x80 | 1 << 9 | 0x100), Buffer.from([1]), text]);
+    assert.deepEqual(readSpeechNode(zero, names), { key: KEY, owner: 'MyCharacterName' });
+});
+
+test('gender tool: chunk skips reviewed rows, fixes must belong to the chunk', async () => {
+    const { chunkAt, parseFixes } = await import('./gender.mjs');
+    const rows = [
+        { translation: 'Ты пришёл', status: 'ai' },
+        { translation: 'Ты пришла', status: 'ok' },
+        { translation: '', status: '' },
+        { translation: 'Я устал', status: 'ai' },
+    ];
+    assert.deepEqual(chunkAt(rows, 0), { picked: [0, 3], end: 4 });
+    assert.deepEqual([...parseFixes('1|Ты пришла\n4|Я устала\\nвсё', [0, 3])], [[0, 'Ты пришла'], [3, 'Я устала\nвсё']]);
+    assert.throws(() => parseFixes('2|x', [0, 3]), /нет в текущем куске/);
+    assert.throws(() => parseFixes('Ты|x', [0, 3]), /N\|текст/);
+});

@@ -1,28 +1,28 @@
-﻿source,translation,status,namespace,key
-They won't forget that.,Они этого не забудут.,ai,,1619F7B74CF9F13A902811B2659F7169
-...And Carlo? Where is he? I was hoping to speak to him before leaving about a loan...,...А Карло? Где он? Я надеялся поговорить с ним перед уходом насчёт займа...,ai,,DFB8241B49010DB1BECF8984A7EAFD77
-Aren't you going to give something for the collection box?,А вы разве ничего не положите в ящик для пожертвований?,ai,,13805D8D425B0228829756B8956E4B8C
-(POWERFUL) Get out of my way. Show some damn respect.,"(ВЛАСТНОСТЬ) С дороги. Проявите хоть каплю уважения, чёрт возьми.",ai,,30E77EA34C3FD4D8332759A4A79160B2
-You're blocking the path. Would you please move?,Вы загораживаете проход. Не могли бы вы подвинуться?,ai,,AC3E607D4223076C25BD58911825F480
-[Leave],[Выйти],ok,,E2251C56494E96277EE869B294D13217
-"Furthermore, I believe we are OWED...oh, hello Miss Bloodworth. Our condolences. Now, ahem - if you would excuse us...","Более того, я считаю, что нам ДОЛЖНЫ... о, здравствуйте, мисс Бладворт. Примите наши соболезнования. А теперь, кхм, - если позволите...",ai,,919F466A4E295F76BC102199B2234835
-(POWERFUL) Get out of my way. Show some damn respect.,"(ВЛАСТНОСТЬ) С дороги. Проявите хоть каплю уважения, чёрт возьми.",ai,,1F18389545DCE050CD3093BF402361F2
-"Sorry, of course. I'll just slide right past you...","Простите, конечно. Я просто протиснусь мимо вас...",ai,,A0B730DA4871814348B8998DDEA9F665
-You're blocking the path. Could you please move?,"Вы загораживаете проход. Не могли бы вы, пожалуйста, подвинуться?",ai,,EB181158437678D33DB64A998C69683E
-"Don't push and shove, child. We're discussing important things. Now, where was I? Ah, yes - in regards to the properties in the Tops, we'll have to...","Не толкайся, дитя. Мы обсуждаем важные вещи. Так, на чём я остановился? Ах да - что касается недвижимости в Топсе, нам придётся...",ai,,F69DA9F044703D56C2CCD688B0357BAF
-"...Please, just move aside. I'm trying to get past you.","...Пожалуйста, просто отойдите. Я пытаюсь пройти.",ai,,B355D85D4F92EFC2B1C5889E4723CF46
-[Leave],[Выйти],ok,,90292B2A4259F7C65A792B935F04964F
-"One thing at a time. Don't rush us, child.","Всё по порядку. Не торопи нас, дитя.",ai,,6DFEC8134A96E25B4EED9EBBDCEEC546
-"Sorry, of course. I'll just slide right past you...","Простите, конечно. Я просто протиснусь мимо вас...",ai,,833E1791432BA8A6DB84BF91F62456E9
-...Rush you? I'm asking you to step aside for a moment. Please.,...Торопить? Я прошу вас на минутку отойти в сторону. Пожалуйста.,ai,,7B23F6A2492F037AF707A3BC84BF51CE
-[Leave],[Выйти],ok,,84EF8B674539C40EB9E34FB820151A45
-"Get- what are you saying? Are you confused, girl?","С доро... что ты сказала? Ты в своём уме, девочка?",ai,,CF7A4B49440004AE09E29B8243945A49
-[Stare them down] Out of my way.,[Смерить их взглядом] С дороги.,ai,,0F11A81E403AECB6377C828A6841D61F
-Move. Now. Or I'll feed you your shoes.,Подвиньтесь. Живо. Или я заставлю вас сожрать собственные ботинки.,ai,,D1DAFF3249815D8630596998D9680426
-"No, just furious. Now get the fuck out of my way.","Нет, просто в бешенстве. А теперь, блядь, убирайтесь с дороги.",ai,,95E571194A1B4A4AFA1CB29332EDB5FC
-"...The collection box? Later, kid. Now go off and bother someone else, alright?","...Ящик для пожертвований? Потом, малая. А сейчас иди приставай к кому-нибудь другому, ладно?",ai,,4BD155FA4BFA00FEFF0591A49EB4DC92
-[Ignore them],[Не обращать внимания],ai,,4D4EC8654EB1D0B4468742A07C789F8C
-"By Shepherd, someone's in a mood. Alright, alright...","Пастырь милостивый, кто-то не в духе. Ладно, ладно...",ai,,6F7C0ED648B04755C4E5468BCBF4D495
-Vultures.,Стервятники.,ai,,A418BBAD45F9899BF7AF6BB4F8A8999C
-"Shush! Children these days, I swear - and in a church of all places...","Тише! Ну и дети пошли, честное слово, - и где, в церкви...",ai,,16D6DD514CB4CAE4DB23CA814E189B1A
-[Leave],[Выйти],ok,,6AFF8B784618E34F7BDC739FA11C396C
+﻿speaker,source,translation,status,namespace,key
+Notification,They won't forget that.,Они этого не забудут.,ai,,1619F7B74CF9F13A902811B2659F7169
+Crowd,...And Carlo? Where is he? I was hoping to speak to him before leaving about a loan...,...А Карло? Где он? Я надеялся поговорить с ним перед уходом насчёт займа...,ai,,DFB8241B49010DB1BECF8984A7EAFD77
+Clarissa,Aren't you going to give something for the collection box?,А вы разве ничего не положите в ящик для пожертвований?,ai,,13805D8D425B0228829756B8956E4B8C
+Clarissa,(POWERFUL) Get out of my way. Show some damn respect.,"(ВЛАСТНОСТЬ) С дороги. Проявите хоть каплю уважения, чёрт возьми.",ai,,30E77EA34C3FD4D8332759A4A79160B2
+Clarissa,You're blocking the path. Would you please move?,Вы загораживаете проход. Не могли бы вы подвинуться?,ai,,AC3E607D4223076C25BD58911825F480
+Clarissa,[Leave],[Выйти],ok,,E2251C56494E96277EE869B294D13217
+Crowd,"Furthermore, I believe we are OWED...oh, hello Miss Bloodworth. Our condolences. Now, ahem - if you would excuse us...","Более того, я считаю, что нам ДОЛЖНЫ... о, здравствуйте, мисс Бладворт. Примите наши соболезнования. А теперь, кхм, - если позволите...",ai,,919F466A4E295F76BC102199B2234835
+Clarissa,(POWERFUL) Get out of my way. Show some damn respect.,"(ВЛАСТНОСТЬ) С дороги. Проявите хоть каплю уважения, чёрт возьми.",ai,,1F18389545DCE050CD3093BF402361F2
+Clarissa,"Sorry, of course. I'll just slide right past you...","Простите, конечно. Я просто протиснусь мимо вас...",ai,,A0B730DA4871814348B8998DDEA9F665
+Clarissa,You're blocking the path. Could you please move?,"Вы загораживаете проход. Не могли бы вы, пожалуйста, подвинуться?",ai,,EB181158437678D33DB64A998C69683E
+Crowd,"Don't push and shove, child. We're discussing important things. Now, where was I? Ah, yes - in regards to the properties in the Tops, we'll have to...","Не толкайся, дитя. Мы обсуждаем важные вещи. Так, на чём я остановился? Ах да - что касается недвижимости в Топсе, нам придётся...",ai,,F69DA9F044703D56C2CCD688B0357BAF
+Clarissa,"...Please, just move aside. I'm trying to get past you.","...Пожалуйста, просто отойдите. Я пытаюсь пройти.",ai,,B355D85D4F92EFC2B1C5889E4723CF46
+Clarissa,[Leave],[Выйти],ok,,90292B2A4259F7C65A792B935F04964F
+Crowd,"One thing at a time. Don't rush us, child.","Всё по порядку. Не торопи нас, дитя.",ai,,6DFEC8134A96E25B4EED9EBBDCEEC546
+Clarissa,"Sorry, of course. I'll just slide right past you...","Простите, конечно. Я просто протиснусь мимо вас...",ai,,833E1791432BA8A6DB84BF91F62456E9
+Clarissa,...Rush you? I'm asking you to step aside for a moment. Please.,...Торопить? Я прошу вас на минутку отойти в сторону. Пожалуйста.,ai,,7B23F6A2492F037AF707A3BC84BF51CE
+Clarissa,[Leave],[Выйти],ok,,84EF8B674539C40EB9E34FB820151A45
+Crowd,"Get- what are you saying? Are you confused, girl?","С доро... что ты сказала? Ты в своём уме, девочка?",ai,,CF7A4B49440004AE09E29B8243945A49
+Clarissa,[Stare them down] Out of my way.,[Смерить их взглядом] С дороги.,ai,,0F11A81E403AECB6377C828A6841D61F
+Clarissa,Move. Now. Or I'll feed you your shoes.,Подвиньтесь. Живо. Или я заставлю вас сожрать собственные ботинки.,ai,,D1DAFF3249815D8630596998D9680426
+Clarissa,"No, just furious. Now get the fuck out of my way.","Нет, просто в бешенстве. А теперь, блядь, убирайтесь с дороги.",ai,,95E571194A1B4A4AFA1CB29332EDB5FC
+Crowd,"...The collection box? Later, kid. Now go off and bother someone else, alright?","...Ящик для пожертвований? Потом, малая. А сейчас иди приставай к кому-нибудь другому, ладно?",ai,,4BD155FA4BFA00FEFF0591A49EB4DC92
+Clarissa,[Ignore them],[Не обращать внимания],ai,,4D4EC8654EB1D0B4468742A07C789F8C
+Crowd,"By Shepherd, someone's in a mood. Alright, alright...","Пастырь милостивый, кто-то не в духе. Ладно, ладно...",ai,,6F7C0ED648B04755C4E5468BCBF4D495
+Clarissa,Vultures.,Стервятники.,ai,,A418BBAD45F9899BF7AF6BB4F8A8999C
+Crowd,"Shush! Children these days, I swear - and in a church of all places...","Тише! Ну и дети пошли, честное слово, - и где, в церкви...",ai,,16D6DD514CB4CAE4DB23CA814E189B1A
+Clarissa,[Leave],[Выйти],ok,,6AFF8B784618E34F7BDC739FA11C396C

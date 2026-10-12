@@ -1,129 +1,129 @@
-﻿source,translation,status,namespace,key
-"Enjoy it while it lasts, Renee. The calm before the storm.","Наслаждайся, пока можно, Рене. Затишье перед бурей.",ai,,A96E53CD4565402355A504BF7A15CE86
-(CARING) He deserves a gentle touch. I owe him that at least.,(ЗАБОТЛИВОСТЬ) Он заслуживает бережного разговора. Хотя бы это я ему должна.,ai,,D375F09245D795025E7435966644F581
-(LOGICAL) I'll just lay it out plain and simple. No need to belabour it.,(ЛОГИЧНОСТЬ) Просто изложу всё как есть. Незачем тянуть.,ai,,76F0CF9342D082C45AA085937E09A617
-"[ERROR] there is no Renee trait. The dialogue will break now, but you can continue to do your stuff on the level","[ОШИБКА] Черты «Рене» не существует. Диалог сейчас сломается, но на уровне можно продолжать заниматься своими делами",ai,,E1679F714AA6861B2114468AA1AE31CD
-(DRIVEN) It's time to get it over with. That's all it is.,(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Пора с этим покончить. Вот и всё.,ai,,636D7FCF4DC026BCF748B8A5073C1BFF
-"You already know where he’s at, Renee. He loves you and will do anything to avoid throwing in the towel. You can’t expect him to make this easy for you. You're just going to have to tell him why.","Ты и так знаешь, на чём он стоит, Рене. Он любит тебя и сделает всё, лишь бы не сдаваться. Не жди, что он облегчит тебе задачу. Придётся самой объяснить ему, почему.",ai,,295C8951482A1B87C85D7DB1A814640A
-Our goals no longer align.,Наши цели больше не совпадают.,ai,,19A6198F4FBAF10829A5979586B2A9BF
-Our values are too different.,Наши ценности слишком разные.,ai,,503C16AA40FFCF44265CF8A49C57417C
-"No, he’s too stubborn for that. Too certain you belong together. If you let him lead this, you know what will happen, Renee. He’ll say all the right things, wrap those strong arms around you, and you’ll both cry hot tears into each other’s fur until all the reasons melt away. But they’ll come back. They always do.","Нет, он слишком упрям для этого. Слишком уверен, что вы созданы друг для друга. Если дашь ему вести разговор, ты знаешь, чем это кончится, Рене. Он скажет все правильные слова, обнимет тебя своими сильными руками, и вы оба будете горячо плакать друг другу в шерсть, пока все причины не растают. Но потом они вернутся. Они всегда возвращаются.",ai,,8C032A4F4470239A929E16AE86716778
-Our goals no longer align.,Наши цели больше не совпадают.,ai,,13586DFE4B058B0406D6A0ADC7886294
-I need to be with someone who believes in my work.,"Мне нужен тот, кто верит в мою работу.",ai,,E0E44F1B46685069C5A4A6AD2946ED8C
-I need to be with someone who believes in my work.,"Мне нужен тот, кто верит в мою работу.",ai,,D97765C5440F1A81D0ABDCBF43D8252D
-I need to be with someone who believes in my work.,"Мне нужен тот, кто верит в мою работу.",ai,,1EB6713F484EB7D507766D8011516A9A
-If they ever did. He always saw your writing as a hobby. Something to keep you occupied between breakfast and dinner. And who could blame him? You always underplayed your ambitions to put him at ease. But then you started believing it yourself.,"Если вообще когда-то верил. Он всегда считал твои тексты хобби. Чем-то, чтобы занять себя между завтраком и ужином. И кто его осудит? Ты сама всегда преуменьшала свои амбиции, чтобы ему было спокойнее. А потом начала верить в это сама.",ai,,8689B14047237E4CE276809852CB4649
-I could ask him to change.,Я могла бы попросить его измениться.,ai,,7E9FF9244800069878A546A1635B7E0B
-Maybe I could change.,"Может, это я могла бы измениться.",ai,,E6D6FD234B7B7AC08AB8A6B1E2B7227D
-"That was always an issue, just easier to avoid. One of those personality quirks that only becomes an issue in the presence of people who don’t know where the landmines are buried. But it's beyond that now.","Так было всегда, просто раньше это было легче обходить. Одна из тех черт характера, которые становятся проблемой лишь рядом с людьми, не знающими, где зарыты мины. Но теперь всё зашло дальше.",ai,,8E48E0DA400B9D15DBFBABB477C129DC
-I could ask him to change.,Я могла бы попросить его измениться.,ai,,E17FFDDE4B731577A46412BD9E24CDC6
-Maybe I could change.,"Может, это я могла бы измениться.",ai,,3509529D4156D29C5865A3A36CD0A15D
-"You presented an iron-clad case, and still he did everything he could to side with his boys in blue. What does that say about your relationship?","Ты выложила неопровержимые доводы, а он всё равно сделал всё, чтобы встать на сторону своих «синих мундиров». Что это говорит о ваших отношениях?",ai,,D83491AE4D6CEB575CEFD78E4CC9614A
-He doesn't take what I do seriously.,"Он не принимает всерьёз то, что я делаю.",ai,,9E18BE8942AC1AB564EDA88C19C9831A
-His job will always come first.,Его работа всегда будет на первом месте.,ai,,A2C8796B47C837E0D98FA8AE3C95931F
-"Why would he? Ever since you met you've always downplayed your ambition to put him at ease. He didn't even ask you to. You just knew it was the only way this relationship would work. ","А с чего бы? С самой вашей встречи ты занижала свои амбиции, чтобы ему было спокойнее. Он даже не просил тебя об этом. Ты просто знала, что иначе эти отношения не сработают. ",ai,,3AA36F1F4EFDD0557C35BEB23AF05116
-It was easier when the work didn't matter.,"Было легче, пока работа ничего не значила.",ai,,10215E18493167D8B2C351A84EC3B034
-Delaying the inevitable since our first date.,Оттягиваю неизбежное с самого первого свидания.,ai,,A062EEC847D11CDF73CC5E94882086B4
-"But you're not allowed the same luxury. Ever since your first date you've downplayed your ambition to put him at ease. He didn't even ask you to. You just knew it was the only way this relationship would work. ","Но тебе такая роскошь недоступна. С самого первого свидания ты занижала свои амбиции, чтобы ему было спокойнее. Он даже не просил тебя об этом. Ты просто знала, что иначе эти отношения не сработают. ",ai,,095F8A6945C29C273370D495DB0A176F
-I guess I was just delaying the inevitable.,"Наверное, я просто оттягивала неизбежное.",ai,,1F48CEF343D0C60B031442920CD71137
-Maybe I could ask him to quit.,"Может, попросить его уйти с работы.",ai,,DCF2E8A340A533E2B8BCFEA27263120A
-"Not that you gave him much to believe in. Your approach to that article was sloppy, with way too many loose threads to present a solid case.","Хотя ты не дала ему особых поводов верить. Подход к той статье был небрежным, слишком много оборванных нитей, чтобы выстроить убедительную картину.",ai,,6FF300654212ACAF25C40B9F6FABBE8E
-His job will always come first.,Его работа всегда будет на первом месте.,ai,,1B99DC3049672F6D3CFD98A6D75157F6
-Okay. But how do you break it to him. Where do you start?,Ладно. Но как ему об этом сказать? С чего начать?,ai,,ED3B4880480574258FEB27B7A2EAC9D9
-I should let him know it's not his fault.,"Надо дать ему понять, что он ни в чём не виноват.",ai,,23C26ABD48E2D3427C557B9033B03102
-I'll check in with him first. Figure out where he’s at.,"Сначала прощупаю его. Пойму, что он чувствует.",ai,,4A47AD604CCBB31C3EF4C7A778E5277D
-I'll let him lead it. Maybe he feels the same way.,"Пусть он ведёт разговор. Может, он чувствует то же самое.",ai,,E74E27B64FB32B0E8D12448B13D97995
-"Not vocally, no. But his demeanor toward you has absolutely changed. Less warm, more guarded. Like he can sense something's about to happen.","Вслух - нет. Но его отношение к тебе определённо изменилось. Меньше тепла, больше настороженности. Будто он чувствует, что что-то вот-вот случится.",ai,,20C7515845A20DD6588BF3B9DA30E8F0
-You could say the same thing about me.,То же самое можно сказать и обо мне.,ai,,4D8100F4440F5D5029DA0CB4243CEB19
-He was always very perceptive.,Он всегда был очень проницательным.,ai,,4619F6B540783184420E56A18DE0D3E9
-"No. Unlike him, you don't need to sense it. You just need to do it.","Нет. В отличие от него, тебе не нужно ничего чувствовать. Тебе нужно просто сделать это.",ai,,543845874A3D3FDC789B81AA10BEC30A
-"Alright, enough stalling. It's time.","Ладно, хватит тянуть время. Пора.",ai,,EF82F56440FC6FE2BB1F1991DF20BB23
-Then hopefully he'll be able to see this one coming.,"Тогда, надеюсь, этого он увидит заранее.",ai,,29E6561641E722EBAC42F7B50270D65D
-"Alright, enough stalling. It's time.","Ладно, хватит тянуть время. Пора.",ai,,972842A14AE1B803A00177AB422F65A2
-"Good, but not great. But you were out of your element. Writing about systemic corruption requires a lot more fact checking than covering a grocery store opening. But that's just a matter of practice. You'll get there.","Неплохо, но не блестяще. Но ты оказалась не в своей стихии. Писать о системной коррупции - это куда больше проверки фактов, чем освещать открытие продуктового магазина. Но это вопрос практики. У тебя получится.",ai,,73FEE3FA4A6D8DA9D8990684FC6BC0F4
-The work should speak for itself.,Работа должна говорить сама за себя.,ai,,02CA94D64B4BE5B6643B7C91F925EB05
-Eventually.,Со временем.,ai,,EDD20CF5481F92C18CCEE18866AA16EA
-People are counting on me.,На меня рассчитывают.,ai,,03CABAC343987AE762138C9BBAF13842
-"And then who would he be? Just an unhappy version of himself. You can't ask that of someone, just like you shouldn't have asked that of yourself.","И кем он тогда станет? Просто несчастной версией самого себя. Нельзя требовать такого от другого, как не стоило требовать этого и от себя.",ai,,C51BCB60415599C93C4C9C87694DE3A6
-"No more compromises, Renee.","Больше никаких компромиссов, Рене.",ai,,5A86D231421142C8B739638CFED513BD
-[Take a deep breath],[Глубоко вдохнуть],ai,,CE67210240C296443D770C98AD25750D
-"Stop it with that, Renee. You've been downplaying your ambition since your first date. He didn't even ask that of you. You just knew it was the only way this relationship would work. ","Хватит, Рене. Ты занижала свои амбиции с самого первого свидания. Он даже не просил тебя об этом. Ты просто знала, что иначе эти отношения не сработают. ",ai,,7A6C9E364883AC50379744B447018DE4
-It was easier when the work didn't matter.,"Было легче, пока работа ничего не значила.",ai,,E3A25A5C409274CEC162BD83CB60EBA2
-Delaying the inevitable since our first date.,Оттягиваю неизбежное с самого первого свидания.,ai,,2AB273554D369566D3041BA08CACB350
-He probably already knows. “We need to talk” is the lightning. Whatever follows next is only thunder. Just go in there and state the obvious:,"Он, скорее всего, уже всё знает. «Нам надо поговорить» - это молния. Всё, что последует дальше, - лишь гром. Просто войди и скажи очевидное:",ai,,78AF352C497DBFB9E61F14A90D077E17
-Our careers no longer mesh.,Наши карьеры больше не сочетаются.,ai,,6DF79B314A1278E23ACF33A12CD1C53E
-We're holding each other back.,Мы тянем друг друга назад.,ai,,C1ABA8DA4067617DD5A0E6B2985D8B00
-Our values don't align.,Наши ценности не совпадают.,ai,,8C1502C24BC70239BCD694A39989172B
-That's an understatement. That article was a mess. But that's to be expected. Writing about systemic corruption requires way more fact checking than covering a grocery store opening. But that's just a matter of practice. You'll get there.,"Мягко сказано. Статья вышла сумбурной. Но этого и следовало ожидать. Писать о системной коррупции - это куда больше проверки фактов, чем освещать открытие продуктового магазина. Но это вопрос практики. У тебя получится.",ai,,52C7A71D470533A556652388D17D0EBC
-Eventually.,Со временем.,ai,,171D10044D9DC487706A8D92BA9FE92B
-People are counting on me.,На меня рассчитывают.,ai,,9E6B0EF54DC20E8D27E161952D1FF8D3
-"Well, now it's here.","Что ж, теперь она здесь.",ai,,62D2031640929B91B281CFBF9A024FB8
-No more delays this time.,На этот раз без отсрочек.,ai,,63480FD140EFAD03A5048A9305DDEE15
-[Breath deeply],[Глубоко вдохнуть],ai,,E94298FD4D1BE6574C45FC8DD00D37E1
-Maybe. But now it does.,Может быть. Но теперь это важно.,ai,,D895C62C4693886E3A01ACB836719DD9
-Lucky me.,Мне повезло.,ai,,6992ADB9435FCDC8CE337DAB91A433F1
-[Breath deeply],[Глубоко вдохнуть],ai,,67C460214DFE6CC85EB88582DF130BA7
-"You were. But to drop a story that big, you need backup. Allies at other papers to amplify your narrative when it gets buried on the back page. And a team of editors who will go to war with the publisher to see it on the front.","Была. Но чтобы выпустить такую историю, нужна поддержка. Союзники в других газетах, которые усилят твой материал, когда его задвинут на последнюю полосу. И команда редакторов, готовых воевать с издателем, чтобы он попал на первую.",ai,,881ED1B048B855D1F897E0A3B75F1E05
-The work should speak for itself.,Работа должна говорить сама за себя.,ai,,51B87AA24A0746D20C375A8CB31C2312
-I'm not a leader. I'm a writer.,Я не лидер. Я писательница.,ai,,CAB3A52A4A5424F77D36B0A345E02214
-You presented a pretty solid case. But all he did was defend the cops and nitpick any loose threads. What does that say about your relationship?,Ты выдвинула довольно убедительные доводы. А он только защищал копов и цеплялся к каждой оборванной нитке. Что это говорит о ваших отношениях?,ai,,52888F5844393BC9AC8ED1B3D595EFAD
-He doesn't take my work seriously.,Он не принимает мою работу всерьёз.,ai,,341BD72E499F295C01B6C984D5AA21D4
-His job will always come first.,Его работа всегда будет на первом месте.,ai,,0D792B824047AA6B0EC729B8D69FEE3E
-Where? In some perfect moral universe where good triumphs over evil? The only people who'll remember that article are the ones you pissed off. The ones who taking it out on Lukas right now.,"Где? В каком-то идеальном моральном мире, где добро побеждает зло? Эту статью запомнят только те, кого ты разозлила. Те, кто прямо сейчас срывает злость на Лукасе.",ai,,C57D0F784BD16C642F09E5897D0B8F63
-He'll be fine.,С ним всё будет в порядке.,ai,,94346F504BD1BD733A7A0EB8ECC39945
-I can't do that to him again.,Я не могу снова так с ним поступить.,ai,,169F72FF44C809CB86D95BAD14E3325E
-"His job will always come first. And now that you know the kind of work you want to do, so will yours. And that's the problem.","Его работа всегда будет на первом месте. А теперь, когда ты знаешь, какой работой хочешь заниматься, так же будет и с твоей. В этом и проблема.",ai,,A84CCF97492F03CF4328B0B24FED1378
-I'm through making compromises.,Я больше не буду идти на компромиссы.,ai,,89D44C9341A62FC34151E894ECCCAA62
-I can't be the partner Lukas needs anymore.,"Я больше не могу быть той спутницей, какая нужна Лукасу.",ai,,291141FD4AA9751F76D675930DFF2135
-I can't fight the system while living with one of its soldiers.,"Я не могу бороться с системой, живя с одним из её солдат.",ai,,3B47FFF1473964E2E23A8299B2791AE2
-"That was always the case, but it was easier when you were writing meaningless fluff.","Так было всегда, но проще было, пока ты писала бессмысленную чепуху.",ai,,4CA82A1D4EB350CBE74BD2831BAA475A
-And I can't go back to that. Not now.,А к этому я вернуться не могу. Не сейчас.,ai,,7F672ACA4D2F625F812B08A8FDD33A7E
-It's hard to get into a heated debate about the grand opening of a grocery store.,Трудно затеять жаркий спор о торжественном открытии продуктового магазина.,ai,,A0E5F4E14995748C761D36A918A104C9
-You know what you want to do with your life now. And you can't be the kind of partner Lukas needs while pursuing that.,"Теперь ты знаешь, чем хочешь заниматься в жизни. И не можешь быть той спутницей, какая нужна Лукасу, и одновременно этим заниматься.",ai,,341F64814930E4E09945FE9B5D12FAEA
-I can't fight the system while living with one of its soldiers.,"Я не могу бороться с системой, живя с одним из её солдат.",ai,,BF245BC74FA9940C53F5D8B2B58A128C
-Pretending otherwise would be unfair.,"Делать вид, что это не так, было бы нечестно.",ai,,1BF28F2D446A9313112F76BCF7186D27
-Then go back to writing about the new look of city buses. Because anything bigger than that will require some serious people skills.,Тогда возвращайся к заметкам о новом облике городских автобусов. Потому что всё серьёзнее потребует настоящих навыков общения с людьми.,ai,,2DBA28794D9BC9F100D65686B8882074
-Just getting the truth out there should be enough.,Достаточно просто донести правду.,ai,,E3B2FA524974D43D997CAAB9E41594FF
-I have Lukas.,У меня есть Лукас.,ai,,3F7C7B164A3273159ED68C875E662AC7
-Maybe. But what happens next time you come across a story like this? Will you report it to the best of your abilities? Or will you compromise your values to protect the ones you love?,"Возможно. Но что будет в следующий раз, когда ты наткнёшься на такую историю? Ты напишешь о ней как можно лучше? Или поступишься принципами ради тех, кого любишь?",ai,,7FA842E6426783797DE9F2961AE4D8F1
-I'll write the truth.,Я напишу правду.,ai,,9E92EE8A464910C920A26CB8DD83E22B
-I...I don't know.,Я... Я не знаю.,ai,,3914FD9940527D7236CF10B359CFC657
-You've always downplayed your ambition in front of Lukas. You used to tell yourself it was to put him at ease. But really it's because that's the only way your relationship works.,"Ты всегда занижала свои амбиции при Лукасе. Раньше говорила себе, что делаешь это, чтобы ему было спокойнее. Но на самом деле только так ваши отношения и держатся.",ai,,4DFE310A4EF5007350670AB9BC7170D2
-I can't fight the system while living with one of its soldiers.,"Я не могу бороться с системой, живя с одним из её солдат.",ai,,43C766B340DF6F3F8A63B1B9A1B77760
-I'm through making compromises.,Я больше не буду идти на компромиссы.,ai,,6F2BFAA049B654D48385EBA9244DBCE4
-"At least not for long. Pretty soon the soldier will turn on you, or the system turns on the soldier. Usually both.","По крайней мере, недолго. Скоро солдат обернётся против тебя, или система обернётся против солдата. Обычно и то и другое.",ai,,1428252344542C83725D70A1BBB838C7
-Outside the arguments he's been mostly supportive.,"Если не считать ссор, он в основном меня поддерживал.",ai,,B35450FD4A04583D79A750BC69AE5255
-It's not fair to Lukas.,Это нечестно по отношению к Лукасу.,ai,,E893C32B47506B31A138EE8066B3AF4B
-"They cut the juiciest stuff from your article, but Lukas is still catching heat at the station. Who knows if he'll ever get back to where he was.","Самое пикантное из твоей статьи вырезали, но Лукасу в участке всё равно достаётся. Кто знает, вернётся ли он когда-нибудь на прежнее место.",ai,,28A644D04BF75DC4D4B2D78AAB6F82D4
-I can't do this to him again.,Я не могу снова так с ним поступить.,ai,,52F39BE941BA259C2B4EF5B3069D4C94
-At least he doesn't resent me.,"По крайней мере, он не держит на меня обиды.",ai,,9D8D461F42ACB6D0BE7E39B3FA99E716
-Then you know what you have to do.,"Тогда ты знаешь, что должна сделать.",ai,,E8C1427C4D23E27BB4A2518F8E3F692E
-"[Take a deep breath, and go find Lukas]",[Глубоко вдохнуть и пойти искать Лукаса],ai,,E9F4C1224DBF486EB6F16A8FFEA037E0
-"No, it's yours. You've always downplayed your ambition in front of Lukas. You used to tell yourself it was to put him at ease. But really, it's because that's the only way that this relationship works.","Нет, это твоё. Ты всегда занижала свои амбиции при Лукасе. Раньше говорила себе, что делаешь это, чтобы ему было спокойнее. Но на самом деле только так эти отношения и держатся.",ai,,0B58DB0244E130F851745F8321E2A683
-(DRIVEN) I can't fight the system while living with one of its soldiers.,"(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Я не могу бороться с системой, живя с одним из её солдат.",ai,,2DA3FFDF46A664310DB2AD9A9424B336
-I'm done making compromises.,С меня хватит компромиссов.,ai,,99F7494A483821BE62C6E8A6DDEB282E
-"Well, Renee. Then it looks like you have two choices, then. Either go back to writing the fluff you used to, or go in there and have the talk with Lukas that you've been dreading all week.","Что ж, Рене. Выходит, у тебя два пути. Либо вернуться к чепухе, которую ты писала раньше, либо пойти туда и провести тот разговор с Лукасом, которого ты боялась всю неделю.",ai,,FE98420B4F50CCD7956812BC91C2D24C
-(DRIVEN) Okay. Enough stalling. He's waiting.,(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Ладно. Хватит тянуть. Он ждёт.,ai,,6E0F358E468EB3A3760092913D2A2AEE
-"the dialogue will break now, but you can continue to do your stuff on the level","диалог сейчас сломается, но на уровне можно продолжать заниматься своими делами",ai,,2B96EAE344BC0549263841B486062010
-[Caring],[Заботливость],ai,,195C14DD43407159643F88AE4A824639
-[Logical],[Логичность],ai,,6E56770546EB7E122404EE9BB0F61490
-[Driven],[Целеустремлённость],ai,,FB1E11FC4ED36E030275C6B6961899EE
-"You've been using him as a crutch for far too long. Any time an article got rejected or you got passed over for a big story, you'd use him to soften the blow. ""No biggie. Lukas has us covered."" You allowed it dampen your fire. And your writing.","Ты слишком долго использовала его как опору. Каждый раз, когда статью отклоняли или большую тему отдавали другому, ты смягчала удар им. «Ничего страшного. Лукас нас прокормит». Ты позволила этому остудить твой пыл. И твоё письмо.",ai,,146F0D43438E0F699B5F5AB626B3F7BD
-I was so thorough with that article.,Я так тщательно поработала над той статьёй.,ai,,7C4278EA491E3E7E7239C1A1D51464CF
-I did a good job on that article.,Я хорошо поработала над той статьёй.,ai,,269ED02E4138B902C2CF9BAB1DA71CBF
-I could have been more thorough in my research.,Мне стоило глубже изучить материал.,ai,,F63C5EAB4487E990068A5A9C575ED61A
-It's not his fault.,Он не виноват.,ai,,2E411DEB4E4AE52047F41BBF38236749
-"Then you know what you have to do. If this is really your calling, it's the only way.","Тогда ты знаешь, что должна сделать. Если это и правда твоё призвание, другого пути нет.",ai,,EE6D4D264332B767C586919775959E59
-Okay. Enough stalling.,Ладно. Хватит тянуть.,ai,,CD29451845A7CE272A960DB10D883B72
-But is that fair to him? That article made him a pariah at the station. He's going to be working nights for the forseeable future. And it's all your fault.,Но справедливо ли это по отношению к нему? Из-за той статьи он стал изгоем в участке. В обозримом будущем его ждут ночные смены. И всё это - по твоей вине.,ai,,6531D92649FBF590D3BAED9764BF4AD9
-He'll be fine.,С ним всё будет в порядке.,ai,,62F9E99C422AF4CBED3CFE9558F2A4A2
-I can't do that to him again.,Я не могу снова так с ним поступить.,ai,,90F291AF45491991426D968925389EEB
-"Yes, but have you been? Lucas is pretty much a pariah at the station now, and that's after your editor made all those cuts. Can you imagine how much worse things would be had you gotten your way?","Да, но была ли ты тщательной? Лукас теперь почти изгой в участке, и это после того, как твой редактор сделал все эти сокращения. Представляешь, насколько хуже было бы, если бы всё вышло по-твоему?",ai,,2D0A8D8F48A51746BED4B3B41CE9E932
-I can't do this to him again.,Я не могу снова так с ним поступить.,ai,,9462B8834E468BA2784DFFB2F22BCC01
-He's never said anything about it.,Он ни разу ничего об этом не говорил.,ai,,8BD81BAB42CA3B9F0584F7918529C92D
-"You'll need back up, though. Allies at other papers to amplify your narrative if the publishers try to bury it again. And a team of editors who fight tooth and nail to see that that doesn't happen..","Но тебе понадобится поддержка. Союзники в других газетах, которые усилят твой материал, если издатели снова попытаются его похоронить. И команда редакторов, которые будут драться до последнего, чтобы этого не случилось.",ai,,68C6BC6343E713CB4AA461B1C3482FE4
-The work should speak for itself.,Работа должна говорить сама за себя.,ai,,664FE2614877F3607070ABAAD627E4B4
-I'm not a leader. I'm a writer.,Я не лидер. Я писательница.,ai,,3D12CA184F5515BA7E50E5AB1782A46F
-"The old “it’s not you, it’s me.” No, Lukas is too smart for that. And it's not exactly true, either. It’s not me, just as much as it isn’t him. It’s “us”. We’re just not who we used to be. ","Старое доброе «дело не в тебе, дело во мне». Нет, Лукас слишком умён для этого. Да и не совсем это правда. Дело не во мне, как и не в нём. Дело в «нас». Мы просто уже не те, кем были. ",ai,,71D2D7EE4499119D66C18485B7BDA117
-Our goals no longer align.,Наши цели больше не совпадают.,ai,,6C376E0D407C2F87DC6D2F9FCDC094E8
-Our values don't align.,Наши ценности не совпадают.,ai,,FC65493942329F8E58DEECBEEBDC9E4B
+﻿speaker,source,translation,status,namespace,key
+You,"Enjoy it while it lasts, Renee. The calm before the storm.","Наслаждайся, пока можно, Рене. Затишье перед бурей.",ai,,A96E53CD4565402355A504BF7A15CE86
+Renee,(CARING) He deserves a gentle touch. I owe him that at least.,(ЗАБОТЛИВОСТЬ) Он заслуживает бережного разговора. Хотя бы это я ему должна.,ai,,D375F09245D795025E7435966644F581
+Renee,(LOGICAL) I'll just lay it out plain and simple. No need to belabour it.,(ЛОГИЧНОСТЬ) Просто изложу всё как есть. Незачем тянуть.,ai,,76F0CF9342D082C45AA085937E09A617
+Renee,"[ERROR] there is no Renee trait. The dialogue will break now, but you can continue to do your stuff on the level","[ОШИБКА] Черты «Рене» не существует. Диалог сейчас сломается, но на уровне можно продолжать заниматься своими делами",ai,,E1679F714AA6861B2114468AA1AE31CD
+Renee,(DRIVEN) It's time to get it over with. That's all it is.,(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Пора с этим покончить. Вот и всё.,ai,,636D7FCF4DC026BCF748B8A5073C1BFF
+You,"You already know where he’s at, Renee. He loves you and will do anything to avoid throwing in the towel. You can’t expect him to make this easy for you. You're just going to have to tell him why.","Ты и так знаешь, на чём он стоит, Рене. Он любит тебя и сделает всё, лишь бы не сдаваться. Не жди, что он облегчит тебе задачу. Придётся самой объяснить ему, почему.",ai,,295C8951482A1B87C85D7DB1A814640A
+Renee,Our goals no longer align.,Наши цели больше не совпадают.,ai,,19A6198F4FBAF10829A5979586B2A9BF
+Renee,Our values are too different.,Наши ценности слишком разные.,ai,,503C16AA40FFCF44265CF8A49C57417C
+You,"No, he’s too stubborn for that. Too certain you belong together. If you let him lead this, you know what will happen, Renee. He’ll say all the right things, wrap those strong arms around you, and you’ll both cry hot tears into each other’s fur until all the reasons melt away. But they’ll come back. They always do.","Нет, он слишком упрям для этого. Слишком уверен, что вы созданы друг для друга. Если дашь ему вести разговор, ты знаешь, чем это кончится, Рене. Он скажет все правильные слова, обнимет тебя своими сильными руками, и вы оба будете горячо плакать друг другу в шерсть, пока все причины не растают. Но потом они вернутся. Они всегда возвращаются.",ai,,8C032A4F4470239A929E16AE86716778
+Renee,Our goals no longer align.,Наши цели больше не совпадают.,ai,,13586DFE4B058B0406D6A0ADC7886294
+Renee,I need to be with someone who believes in my work.,"Мне нужен тот, кто верит в мою работу.",ai,,E0E44F1B46685069C5A4A6AD2946ED8C
+Renee,I need to be with someone who believes in my work.,"Мне нужен тот, кто верит в мою работу.",ai,,D97765C5440F1A81D0ABDCBF43D8252D
+Renee,I need to be with someone who believes in my work.,"Мне нужен тот, кто верит в мою работу.",ai,,1EB6713F484EB7D507766D8011516A9A
+You,If they ever did. He always saw your writing as a hobby. Something to keep you occupied between breakfast and dinner. And who could blame him? You always underplayed your ambitions to put him at ease. But then you started believing it yourself.,"Если вообще когда-то верил. Он всегда считал твои тексты хобби. Чем-то, чтобы занять себя между завтраком и ужином. И кто его осудит? Ты сама всегда преуменьшала свои амбиции, чтобы ему было спокойнее. А потом начала верить в это сама.",ai,,8689B14047237E4CE276809852CB4649
+Renee,I could ask him to change.,Я могла бы попросить его измениться.,ai,,7E9FF9244800069878A546A1635B7E0B
+Renee,Maybe I could change.,"Может, это я могла бы измениться.",ai,,E6D6FD234B7B7AC08AB8A6B1E2B7227D
+You,"That was always an issue, just easier to avoid. One of those personality quirks that only becomes an issue in the presence of people who don’t know where the landmines are buried. But it's beyond that now.","Так было всегда, просто раньше это было легче обходить. Одна из тех черт характера, которые становятся проблемой лишь рядом с людьми, не знающими, где зарыты мины. Но теперь всё зашло дальше.",ai,,8E48E0DA400B9D15DBFBABB477C129DC
+Renee,I could ask him to change.,Я могла бы попросить его измениться.,ai,,E17FFDDE4B731577A46412BD9E24CDC6
+Renee,Maybe I could change.,"Может, это я могла бы измениться.",ai,,3509529D4156D29C5865A3A36CD0A15D
+You,"You presented an iron-clad case, and still he did everything he could to side with his boys in blue. What does that say about your relationship?","Ты выложила неопровержимые доводы, а он всё равно сделал всё, чтобы встать на сторону своих «синих мундиров». Что это говорит о ваших отношениях?",ai,,D83491AE4D6CEB575CEFD78E4CC9614A
+Renee,He doesn't take what I do seriously.,"Он не принимает всерьёз то, что я делаю.",ai,,9E18BE8942AC1AB564EDA88C19C9831A
+Renee,His job will always come first.,Его работа всегда будет на первом месте.,ai,,A2C8796B47C837E0D98FA8AE3C95931F
+You,"Why would he? Ever since you met you've always downplayed your ambition to put him at ease. He didn't even ask you to. You just knew it was the only way this relationship would work. ","А с чего бы? С самой вашей встречи ты занижала свои амбиции, чтобы ему было спокойнее. Он даже не просил тебя об этом. Ты просто знала, что иначе эти отношения не сработают. ",ai,,3AA36F1F4EFDD0557C35BEB23AF05116
+Renee,It was easier when the work didn't matter.,"Было легче, пока работа ничего не значила.",ai,,10215E18493167D8B2C351A84EC3B034
+Renee,Delaying the inevitable since our first date.,Оттягиваю неизбежное с самого первого свидания.,ai,,A062EEC847D11CDF73CC5E94882086B4
+You,"But you're not allowed the same luxury. Ever since your first date you've downplayed your ambition to put him at ease. He didn't even ask you to. You just knew it was the only way this relationship would work. ","Но тебе такая роскошь недоступна. С самого первого свидания ты занижала свои амбиции, чтобы ему было спокойнее. Он даже не просил тебя об этом. Ты просто знала, что иначе эти отношения не сработают. ",ai,,095F8A6945C29C273370D495DB0A176F
+Renee,I guess I was just delaying the inevitable.,"Наверное, я просто оттягивала неизбежное.",ai,,1F48CEF343D0C60B031442920CD71137
+Renee,Maybe I could ask him to quit.,"Может, попросить его уйти с работы.",ai,,DCF2E8A340A533E2B8BCFEA27263120A
+You,"Not that you gave him much to believe in. Your approach to that article was sloppy, with way too many loose threads to present a solid case.","Хотя ты не дала ему особых поводов верить. Подход к той статье был небрежным, слишком много оборванных нитей, чтобы выстроить убедительную картину.",ai,,6FF300654212ACAF25C40B9F6FABBE8E
+Renee,His job will always come first.,Его работа всегда будет на первом месте.,ai,,1B99DC3049672F6D3CFD98A6D75157F6
+You,Okay. But how do you break it to him. Where do you start?,Ладно. Но как ему об этом сказать? С чего начать?,ai,,ED3B4880480574258FEB27B7A2EAC9D9
+Renee,I should let him know it's not his fault.,"Надо дать ему понять, что он ни в чём не виноват.",ai,,23C26ABD48E2D3427C557B9033B03102
+Renee,I'll check in with him first. Figure out where he’s at.,"Сначала прощупаю его. Пойму, что он чувствует.",ai,,4A47AD604CCBB31C3EF4C7A778E5277D
+Renee,I'll let him lead it. Maybe he feels the same way.,"Пусть он ведёт разговор. Может, он чувствует то же самое.",ai,,E74E27B64FB32B0E8D12448B13D97995
+You,"Not vocally, no. But his demeanor toward you has absolutely changed. Less warm, more guarded. Like he can sense something's about to happen.","Вслух - нет. Но его отношение к тебе определённо изменилось. Меньше тепла, больше настороженности. Будто он чувствует, что что-то вот-вот случится.",ai,,20C7515845A20DD6588BF3B9DA30E8F0
+Renee,You could say the same thing about me.,То же самое можно сказать и обо мне.,ai,,4D8100F4440F5D5029DA0CB4243CEB19
+Renee,He was always very perceptive.,Он всегда был очень проницательным.,ai,,4619F6B540783184420E56A18DE0D3E9
+You,"No. Unlike him, you don't need to sense it. You just need to do it.","Нет. В отличие от него, тебе не нужно ничего чувствовать. Тебе нужно просто сделать это.",ai,,543845874A3D3FDC789B81AA10BEC30A
+Renee,"Alright, enough stalling. It's time.","Ладно, хватит тянуть время. Пора.",ai,,EF82F56440FC6FE2BB1F1991DF20BB23
+You,Then hopefully he'll be able to see this one coming.,"Тогда, надеюсь, этого он увидит заранее.",ai,,29E6561641E722EBAC42F7B50270D65D
+Renee,"Alright, enough stalling. It's time.","Ладно, хватит тянуть время. Пора.",ai,,972842A14AE1B803A00177AB422F65A2
+You,"Good, but not great. But you were out of your element. Writing about systemic corruption requires a lot more fact checking than covering a grocery store opening. But that's just a matter of practice. You'll get there.","Неплохо, но не блестяще. Но ты оказалась не в своей стихии. Писать о системной коррупции - это куда больше проверки фактов, чем освещать открытие продуктового магазина. Но это вопрос практики. У тебя получится.",ai,,73FEE3FA4A6D8DA9D8990684FC6BC0F4
+Renee,The work should speak for itself.,Работа должна говорить сама за себя.,ai,,02CA94D64B4BE5B6643B7C91F925EB05
+Renee,Eventually.,Со временем.,ai,,EDD20CF5481F92C18CCEE18866AA16EA
+Renee,People are counting on me.,На меня рассчитывают.,ai,,03CABAC343987AE762138C9BBAF13842
+You,"And then who would he be? Just an unhappy version of himself. You can't ask that of someone, just like you shouldn't have asked that of yourself.","И кем он тогда станет? Просто несчастной версией самого себя. Нельзя требовать такого от другого, как не стоило требовать этого и от себя.",ai,,C51BCB60415599C93C4C9C87694DE3A6
+Renee,"No more compromises, Renee.","Больше никаких компромиссов, Рене.",ai,,5A86D231421142C8B739638CFED513BD
+Renee,[Take a deep breath],[Глубоко вдохнуть],ai,,CE67210240C296443D770C98AD25750D
+You,"Stop it with that, Renee. You've been downplaying your ambition since your first date. He didn't even ask that of you. You just knew it was the only way this relationship would work. ","Хватит, Рене. Ты занижала свои амбиции с самого первого свидания. Он даже не просил тебя об этом. Ты просто знала, что иначе эти отношения не сработают. ",ai,,7A6C9E364883AC50379744B447018DE4
+Renee,It was easier when the work didn't matter.,"Было легче, пока работа ничего не значила.",ai,,E3A25A5C409274CEC162BD83CB60EBA2
+Renee,Delaying the inevitable since our first date.,Оттягиваю неизбежное с самого первого свидания.,ai,,2AB273554D369566D3041BA08CACB350
+You,He probably already knows. “We need to talk” is the lightning. Whatever follows next is only thunder. Just go in there and state the obvious:,"Он, скорее всего, уже всё знает. «Нам надо поговорить» - это молния. Всё, что последует дальше, - лишь гром. Просто войди и скажи очевидное:",ai,,78AF352C497DBFB9E61F14A90D077E17
+Renee,Our careers no longer mesh.,Наши карьеры больше не сочетаются.,ai,,6DF79B314A1278E23ACF33A12CD1C53E
+Renee,We're holding each other back.,Мы тянем друг друга назад.,ai,,C1ABA8DA4067617DD5A0E6B2985D8B00
+Renee,Our values don't align.,Наши ценности не совпадают.,ai,,8C1502C24BC70239BCD694A39989172B
+You,That's an understatement. That article was a mess. But that's to be expected. Writing about systemic corruption requires way more fact checking than covering a grocery store opening. But that's just a matter of practice. You'll get there.,"Мягко сказано. Статья вышла сумбурной. Но этого и следовало ожидать. Писать о системной коррупции - это куда больше проверки фактов, чем освещать открытие продуктового магазина. Но это вопрос практики. У тебя получится.",ai,,52C7A71D470533A556652388D17D0EBC
+Renee,Eventually.,Со временем.,ai,,171D10044D9DC487706A8D92BA9FE92B
+Renee,People are counting on me.,На меня рассчитывают.,ai,,9E6B0EF54DC20E8D27E161952D1FF8D3
+You,"Well, now it's here.","Что ж, теперь она здесь.",ai,,62D2031640929B91B281CFBF9A024FB8
+Renee,No more delays this time.,На этот раз без отсрочек.,ai,,63480FD140EFAD03A5048A9305DDEE15
+Renee,[Breath deeply],[Глубоко вдохнуть],ai,,E94298FD4D1BE6574C45FC8DD00D37E1
+You,Maybe. But now it does.,Может быть. Но теперь это важно.,ai,,D895C62C4693886E3A01ACB836719DD9
+Renee,Lucky me.,Мне повезло.,ai,,6992ADB9435FCDC8CE337DAB91A433F1
+Renee,[Breath deeply],[Глубоко вдохнуть],ai,,67C460214DFE6CC85EB88582DF130BA7
+You,"You were. But to drop a story that big, you need backup. Allies at other papers to amplify your narrative when it gets buried on the back page. And a team of editors who will go to war with the publisher to see it on the front.","Была. Но чтобы выпустить такую историю, нужна поддержка. Союзники в других газетах, которые усилят твой материал, когда его задвинут на последнюю полосу. И команда редакторов, готовых воевать с издателем, чтобы он попал на первую.",ai,,881ED1B048B855D1F897E0A3B75F1E05
+Renee,The work should speak for itself.,Работа должна говорить сама за себя.,ai,,51B87AA24A0746D20C375A8CB31C2312
+Renee,I'm not a leader. I'm a writer.,Я не лидер. Я писательница.,ai,,CAB3A52A4A5424F77D36B0A345E02214
+You,You presented a pretty solid case. But all he did was defend the cops and nitpick any loose threads. What does that say about your relationship?,Ты выдвинула довольно убедительные доводы. А он только защищал копов и цеплялся к каждой оборванной нитке. Что это говорит о ваших отношениях?,ai,,52888F5844393BC9AC8ED1B3D595EFAD
+Renee,He doesn't take my work seriously.,Он не принимает мою работу всерьёз.,ai,,341BD72E499F295C01B6C984D5AA21D4
+Renee,His job will always come first.,Его работа всегда будет на первом месте.,ai,,0D792B824047AA6B0EC729B8D69FEE3E
+You,Where? In some perfect moral universe where good triumphs over evil? The only people who'll remember that article are the ones you pissed off. The ones who taking it out on Lukas right now.,"Где? В каком-то идеальном моральном мире, где добро побеждает зло? Эту статью запомнят только те, кого ты разозлила. Те, кто прямо сейчас срывает злость на Лукасе.",ai,,C57D0F784BD16C642F09E5897D0B8F63
+Renee,He'll be fine.,С ним всё будет в порядке.,ai,,94346F504BD1BD733A7A0EB8ECC39945
+Renee,I can't do that to him again.,Я не могу снова так с ним поступить.,ai,,169F72FF44C809CB86D95BAD14E3325E
+You,"His job will always come first. And now that you know the kind of work you want to do, so will yours. And that's the problem.","Его работа всегда будет на первом месте. А теперь, когда ты знаешь, какой работой хочешь заниматься, так же будет и с твоей. В этом и проблема.",ai,,A84CCF97492F03CF4328B0B24FED1378
+Renee,I'm through making compromises.,Я больше не буду идти на компромиссы.,ai,,89D44C9341A62FC34151E894ECCCAA62
+Renee,I can't be the partner Lukas needs anymore.,"Я больше не могу быть той спутницей, какая нужна Лукасу.",ai,,291141FD4AA9751F76D675930DFF2135
+Renee,I can't fight the system while living with one of its soldiers.,"Я не могу бороться с системой, живя с одним из её солдат.",ai,,3B47FFF1473964E2E23A8299B2791AE2
+You,"That was always the case, but it was easier when you were writing meaningless fluff.","Так было всегда, но проще было, пока ты писала бессмысленную чепуху.",ai,,4CA82A1D4EB350CBE74BD2831BAA475A
+Renee,And I can't go back to that. Not now.,А к этому я вернуться не могу. Не сейчас.,ai,,7F672ACA4D2F625F812B08A8FDD33A7E
+Renee,It's hard to get into a heated debate about the grand opening of a grocery store.,Трудно затеять жаркий спор о торжественном открытии продуктового магазина.,ai,,A0E5F4E14995748C761D36A918A104C9
+You,You know what you want to do with your life now. And you can't be the kind of partner Lukas needs while pursuing that.,"Теперь ты знаешь, чем хочешь заниматься в жизни. И не можешь быть той спутницей, какая нужна Лукасу, и одновременно этим заниматься.",ai,,341F64814930E4E09945FE9B5D12FAEA
+Renee,I can't fight the system while living with one of its soldiers.,"Я не могу бороться с системой, живя с одним из её солдат.",ai,,BF245BC74FA9940C53F5D8B2B58A128C
+Renee,Pretending otherwise would be unfair.,"Делать вид, что это не так, было бы нечестно.",ai,,1BF28F2D446A9313112F76BCF7186D27
+You,Then go back to writing about the new look of city buses. Because anything bigger than that will require some serious people skills.,Тогда возвращайся к заметкам о новом облике городских автобусов. Потому что всё серьёзнее потребует настоящих навыков общения с людьми.,ai,,2DBA28794D9BC9F100D65686B8882074
+Renee,Just getting the truth out there should be enough.,Достаточно просто донести правду.,ai,,E3B2FA524974D43D997CAAB9E41594FF
+Renee,I have Lukas.,У меня есть Лукас.,ai,,3F7C7B164A3273159ED68C875E662AC7
+You,Maybe. But what happens next time you come across a story like this? Will you report it to the best of your abilities? Or will you compromise your values to protect the ones you love?,"Возможно. Но что будет в следующий раз, когда ты наткнёшься на такую историю? Ты напишешь о ней как можно лучше? Или поступишься принципами ради тех, кого любишь?",ai,,7FA842E6426783797DE9F2961AE4D8F1
+Renee,I'll write the truth.,Я напишу правду.,ai,,9E92EE8A464910C920A26CB8DD83E22B
+Renee,I...I don't know.,Я... Я не знаю.,ai,,3914FD9940527D7236CF10B359CFC657
+You,You've always downplayed your ambition in front of Lukas. You used to tell yourself it was to put him at ease. But really it's because that's the only way your relationship works.,"Ты всегда занижала свои амбиции при Лукасе. Раньше говорила себе, что делаешь это, чтобы ему было спокойнее. Но на самом деле только так ваши отношения и держатся.",ai,,4DFE310A4EF5007350670AB9BC7170D2
+Renee,I can't fight the system while living with one of its soldiers.,"Я не могу бороться с системой, живя с одним из её солдат.",ai,,43C766B340DF6F3F8A63B1B9A1B77760
+Renee,I'm through making compromises.,Я больше не буду идти на компромиссы.,ai,,6F2BFAA049B654D48385EBA9244DBCE4
+You,"At least not for long. Pretty soon the soldier will turn on you, or the system turns on the soldier. Usually both.","По крайней мере, недолго. Скоро солдат обернётся против тебя, или система обернётся против солдата. Обычно и то и другое.",ai,,1428252344542C83725D70A1BBB838C7
+Renee,Outside the arguments he's been mostly supportive.,"Если не считать ссор, он в основном меня поддерживал.",ai,,B35450FD4A04583D79A750BC69AE5255
+Renee,It's not fair to Lukas.,Это нечестно по отношению к Лукасу.,ai,,E893C32B47506B31A138EE8066B3AF4B
+You,"They cut the juiciest stuff from your article, but Lukas is still catching heat at the station. Who knows if he'll ever get back to where he was.","Самое пикантное из твоей статьи вырезали, но Лукасу в участке всё равно достаётся. Кто знает, вернётся ли он когда-нибудь на прежнее место.",ai,,28A644D04BF75DC4D4B2D78AAB6F82D4
+Renee,I can't do this to him again.,Я не могу снова так с ним поступить.,ai,,52F39BE941BA259C2B4EF5B3069D4C94
+Renee,At least he doesn't resent me.,"По крайней мере, он не держит на меня обиды.",ai,,9D8D461F42ACB6D0BE7E39B3FA99E716
+You,Then you know what you have to do.,"Тогда ты знаешь, что должна сделать.",ai,,E8C1427C4D23E27BB4A2518F8E3F692E
+Renee,"[Take a deep breath, and go find Lukas]",[Глубоко вдохнуть и пойти искать Лукаса],ai,,E9F4C1224DBF486EB6F16A8FFEA037E0
+You,"No, it's yours. You've always downplayed your ambition in front of Lukas. You used to tell yourself it was to put him at ease. But really, it's because that's the only way that this relationship works.","Нет, это твоё. Ты всегда занижала свои амбиции при Лукасе. Раньше говорила себе, что делаешь это, чтобы ему было спокойнее. Но на самом деле только так эти отношения и держатся.",ai,,0B58DB0244E130F851745F8321E2A683
+Renee,(DRIVEN) I can't fight the system while living with one of its soldiers.,"(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Я не могу бороться с системой, живя с одним из её солдат.",ai,,2DA3FFDF46A664310DB2AD9A9424B336
+Renee,I'm done making compromises.,С меня хватит компромиссов.,ai,,99F7494A483821BE62C6E8A6DDEB282E
+You,"Well, Renee. Then it looks like you have two choices, then. Either go back to writing the fluff you used to, or go in there and have the talk with Lukas that you've been dreading all week.","Что ж, Рене. Выходит, у тебя два пути. Либо вернуться к чепухе, которую ты писала раньше, либо пойти туда и провести тот разговор с Лукасом, которого ты боялась всю неделю.",ai,,FE98420B4F50CCD7956812BC91C2D24C
+Renee,(DRIVEN) Okay. Enough stalling. He's waiting.,(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Ладно. Хватит тянуть. Он ждёт.,ai,,6E0F358E468EB3A3760092913D2A2AEE
+You,"the dialogue will break now, but you can continue to do your stuff on the level","диалог сейчас сломается, но на уровне можно продолжать заниматься своими делами",ai,,2B96EAE344BC0549263841B486062010
+Renee,[Caring],[Заботливость],ai,,195C14DD43407159643F88AE4A824639
+Renee,[Logical],[Логичность],ai,,6E56770546EB7E122404EE9BB0F61490
+Renee,[Driven],[Целеустремлённость],ai,,FB1E11FC4ED36E030275C6B6961899EE
+You,"You've been using him as a crutch for far too long. Any time an article got rejected or you got passed over for a big story, you'd use him to soften the blow. ""No biggie. Lukas has us covered."" You allowed it dampen your fire. And your writing.","Ты слишком долго использовала его как опору. Каждый раз, когда статью отклоняли или большую тему отдавали другому, ты смягчала удар им. «Ничего страшного. Лукас нас прокормит». Ты позволила этому остудить твой пыл. И твоё письмо.",ai,,146F0D43438E0F699B5F5AB626B3F7BD
+Renee,I was so thorough with that article.,Я так тщательно поработала над той статьёй.,ai,,7C4278EA491E3E7E7239C1A1D51464CF
+Renee,I did a good job on that article.,Я хорошо поработала над той статьёй.,ai,,269ED02E4138B902C2CF9BAB1DA71CBF
+Renee,I could have been more thorough in my research.,Мне стоило глубже изучить материал.,ai,,F63C5EAB4487E990068A5A9C575ED61A
+Renee,It's not his fault.,Он не виноват.,ai,,2E411DEB4E4AE52047F41BBF38236749
+You,"Then you know what you have to do. If this is really your calling, it's the only way.","Тогда ты знаешь, что должна сделать. Если это и правда твоё призвание, другого пути нет.",ai,,EE6D4D264332B767C586919775959E59
+Renee,Okay. Enough stalling.,Ладно. Хватит тянуть.,ai,,CD29451845A7CE272A960DB10D883B72
+You,But is that fair to him? That article made him a pariah at the station. He's going to be working nights for the forseeable future. And it's all your fault.,Но справедливо ли это по отношению к нему? Из-за той статьи он стал изгоем в участке. В обозримом будущем его ждут ночные смены. И всё это - по твоей вине.,ai,,6531D92649FBF590D3BAED9764BF4AD9
+Renee,He'll be fine.,С ним всё будет в порядке.,ai,,62F9E99C422AF4CBED3CFE9558F2A4A2
+Renee,I can't do that to him again.,Я не могу снова так с ним поступить.,ai,,90F291AF45491991426D968925389EEB
+You,"Yes, but have you been? Lucas is pretty much a pariah at the station now, and that's after your editor made all those cuts. Can you imagine how much worse things would be had you gotten your way?","Да, но была ли ты тщательной? Лукас теперь почти изгой в участке, и это после того, как твой редактор сделал все эти сокращения. Представляешь, насколько хуже было бы, если бы всё вышло по-твоему?",ai,,2D0A8D8F48A51746BED4B3B41CE9E932
+Renee,I can't do this to him again.,Я не могу снова так с ним поступить.,ai,,9462B8834E468BA2784DFFB2F22BCC01
+Renee,He's never said anything about it.,Он ни разу ничего об этом не говорил.,ai,,8BD81BAB42CA3B9F0584F7918529C92D
+You,"You'll need back up, though. Allies at other papers to amplify your narrative if the publishers try to bury it again. And a team of editors who fight tooth and nail to see that that doesn't happen..","Но тебе понадобится поддержка. Союзники в других газетах, которые усилят твой материал, если издатели снова попытаются его похоронить. И команда редакторов, которые будут драться до последнего, чтобы этого не случилось.",ai,,68C6BC6343E713CB4AA461B1C3482FE4
+Renee,The work should speak for itself.,Работа должна говорить сама за себя.,ai,,664FE2614877F3607070ABAAD627E4B4
+Renee,I'm not a leader. I'm a writer.,Я не лидер. Я писательница.,ai,,3D12CA184F5515BA7E50E5AB1782A46F
+You,"The old “it’s not you, it’s me.” No, Lukas is too smart for that. And it's not exactly true, either. It’s not me, just as much as it isn’t him. It’s “us”. We’re just not who we used to be. ","Старое доброе «дело не в тебе, дело во мне». Нет, Лукас слишком умён для этого. Да и не совсем это правда. Дело не во мне, как и не в нём. Дело в «нас». Мы просто уже не те, кем были. ",ai,,71D2D7EE4499119D66C18485B7BDA117
+Renee,Our goals no longer align.,Наши цели больше не совпадают.,ai,,6C376E0D407C2F87DC6D2F9FCDC094E8
+Renee,Our values don't align.,Наши ценности не совпадают.,ai,,FC65493942329F8E58DEECBEEBDC9E4B
