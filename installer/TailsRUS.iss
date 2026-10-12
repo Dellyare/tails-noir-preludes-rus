@@ -36,6 +36,8 @@ UninstallFilesDir={localappdata}\TailsRUS
 UninstallFilesDir={commonappdata}\TailsRUS
 #endif
 UninstallDisplayName=Tails Noir Preludes — Русификатор
+SetupIconFile=icon.ico
+UninstallDisplayIcon={uninstallexe}
 OutputDir=..\build
 OutputBaseFilename=TailsRUS_Setup_{#AppVersion}
 Compression=lzma2/ultra
