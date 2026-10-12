@@ -129,7 +129,7 @@ Renee,There are no records of who made the second call.,"Нет записей �
 Renee,"The cops saw signs of a fire, but didn't alert the fire department.","Копы увидели признаки пожара, но не сообщили в пожарную часть.",ai,,6EBBD61C41998AF06148C48CCB0D1B36
 Renee,All the police reports have the same passage at the end.,Все полицейские отчеты имеют одинаковый отрывок в конце.,ai,,0B2ABA0743E499815D65F085F3BA5924
 Renee,Nothing. Nevermind.,Ничего. Неважно.,ai,,27F499FE47BA18CC536E7A9F2EDE60AF
-Lukas,"I know. You're empathetic. I'd be worried if you weren't angry. But as far as I can tell, Stone made his own bed.","Я знаю. Ты сопереживаешь. Я бы волновался, если бы ты не злилась. Но насколько я могу судить, Стоун сам себя загнал в угол.",ai,,B88E0946423222D42ED0A5B0266C89FD
+Lukas,"I know. You're empathetic. I'd be worried if you weren't angry. But as far as I can tell, Stone made his own bed.","Я знаю. Ты сопереживаешь. Я бы волновался, если бы ты не злилась. Но насколько я могу судить, Стоун сам виноват: как постелил, так и спит.",ai,,B88E0946423222D42ED0A5B0266C89FD
 Renee,I don't like it. I don't like any of it.,Мне это не нравится. Мне не нравится ничего из этого.,ai,,85BC394A4C7B0B0B57CD06B291DFAEE9
 Renee,"And what about the fire, Lukas?","А как насчет пожара, Лукас?",ai,,0565C1024973C2EEA9D188844DD7A3EB
 Renee,"Did he, Lukas? Do you really think so?","Неужели, Лукас? Ты действительно так думаешь?",ai,,D8F76C5448914545F3209AB7DBE20D11
@@ -212,12 +212,12 @@ Renee,He was hostile.,Он был враждебен.,ai,,BECA47F342DB80B902DF25
 Renee,"He was agitated, but cooperated.","Он был взволнован, но сотрудничал.",ai,,A5C80CA24AD0365DFC5487917934FD35
 Renee,Stone remained calm.,Стоун оставался спокойным.,ai,,D1714F2A48C98E838A523898EA9526CF
 Renee,One sec. Checking my notes. [Open terminal],Секунду. Проверяю записи. [Открыть терминал],ai,,2DAC24D34BEA09C0BC6CD0A010E9EC17
-Lukas,Forced him? That sounds strange - are you sure you're remembering that right?,"Заставили его? Это звучит странно. Ты уверен, что правильно помнишь?",ai,,648A56C64FEB727BAD87418F79C2A116
+Lukas,Forced him? That sounds strange - are you sure you're remembering that right?,"Заставили его? Это звучит странно. Ты уверена, что правильно помнишь?",ai,,648A56C64FEB727BAD87418F79C2A116
 Renee,I wouldn't put it past them.,Я бы не исключала этого.,ai,,A62B2B1C43496BE9A7EA4EBDB0D79997
 Renee,Maybe not.,"Может, и нет.",ai,,B04F1C95468FF12FE7292EA39FBDD037
 Lukas,Lucky? I just look good in a uniform.,Повезло? Я просто хорошо выгляжу в форме.,ai,,5B013A9E44F20EF7F81A1A87681DE291
 Renee,[Squint] Sure.,[Прищуриться] Конечно.,ai,,5121EAE84AFCA10485DCB88203083BDB
-Renee,"Nah, you despite your uniform.","Нет, ты хорош, несмотря на форму.",ai,,F010F3FB49FFE269FFF945BB4DA47EA2
+Renee,"Nah, you despite your uniform.","Не, ты - вопреки форме.",ai,,F010F3FB49FFE269FFF945BB4DA47EA2
 Lukas,"Come on, Renee - if there was reason to get in, they had to, somehow. Protocol's usually to breach the door, though. How did Stone react to this?","Давай, Рене, если была причина войти, им пришлось как-то это сделать. Обычно протокол - взломать дверь. Как Стоун на это отреагировал?",ai,,8BB168D745E219D5085EA5A5A1FA5815
 Renee,With hostility.,С враждебностью.,ai,,F8CD8C334F99E6FB5372949C753EF991
 Renee,"He wasn't happy about it, but he cooperated.","Ему это не понравилось, но он сотрудничал.",ai,,3B2A0CD8487D08A2DD821FB92FC87AF2
@@ -295,7 +295,7 @@ Renee,I'm not sure. Maybe.,Не уверена. Может быть.,ai,,D058EC1
 Renee,I'm pretty certain she did.,"Я почти уверена, что она это сделала.",ai,,6467576A4486E2F48326B0B42FABD7CA
 Lukas,Oh? Why?,О? Почему?,ai,,F63E98E44B0DC572A127DBB7F3F5EE0E
 Renee,Just a hunch.,Просто предчувствие.,ai,,EDEA51284B9DDB0D2AF4A986B737191D
-Renee,The shooting seemed to take place without her making any attempt to intervene.,"Стрельба произошла, хотя она даже не пыталась вмешаться.",ai,,A4F75CB74B337382BC9DEBA0F77ED0B8
+Renee,The shooting seemed to take place without her making any attempt to intervene.,"Похоже, стрельба произошла, а она даже не пыталась вмешаться.",ai,,A4F75CB74B337382BC9DEBA0F77ED0B8
 Lukas,"I don't follow, Renee - what doesn't add up, then?","Я не понимаю, Рене - что не сходится?",ai,,5B6F90C54D1657D2E675688BDC52F7FE
 Renee,I think the reports omit her for a reason. I don't trust them.,"Думаю, отчеты упускают ее не просто так. Я не доверяю им.",ai,,E13E0FC94ADEB87401A9968E736E843D
 Renee,"Judging by the report, she was in the hall when Stone was shot.","Судя по отчету, она была в коридоре, когда Стоуна застрелили.",ai,,BAFB8FB64B160BCE5BD778A0FB6E6759
@@ -329,7 +329,7 @@ Lukas,Can't help it. I'm an analogue kind of guy. You're my one guiding torch in
 Renee,You wouldn't stop asking.,Ты не переставал спрашивать.,ai,,C79236D84CBDB507E0EBBE8C38AF7608
 Renee,"You have to settle at some point, I suppose.","Придется когда-то остановиться, наверное.",ai,,6CBA47ED418B5C5C1D6AABB095A15126
 Renee,"Soon as I have that figured out, I'll let you know.","Как только разберусь, дам тебе знать.",ai,,C25051FA43578ADFEC64C09DCD01B08F
-Lukas,"Actionable, but not cause to use force. Unless he was incredibly vile, I suppose. Then what happened?","Действительно, но не повод для применения силы. Если только он не был невероятно мерзким, наверное. Тогда что произошло?",ai,,BB048D1B4A010FEB285D16B6B9FCC616
+Lukas,"Actionable, but not cause to use force. Unless he was incredibly vile, I suppose. Then what happened?","Повод для действий, но не для применения силы. Если только он не был невероятно мерзким, наверное. Тогда что произошло?",ai,,BB048D1B4A010FEB285D16B6B9FCC616
 Renee,They investigate the kitchen.,Они осмотрели кухню.,ai,,73B95B044236EEAB79C050A796C92E93
 Lukas,"Alright, if you say so - that doesn't make much sense to me, though. Anyway, then what happened?","Ладно, если ты так говоришь. Но мне это не очень понятно. В любом случае, тогда что произошло?",ai,,8E67CE184D0F681D234D79A47D027A01
 Renee,One of the cops goes to investigate the other room.,Один из копов пошел осмотреть другую комнату.,ai,,3A9E5B7A4A5374B26FE106B1E78DCD37
@@ -403,7 +403,7 @@ Lukas,"I need proof, Renee. This is...concerning, in some regards, but it's spec
 Renee,All we can do is speculate. Especially if something's being covered up.,"Все, что мы можем делать, - это строить догадки. Особенно если что-то скрывают.",ai,,CB7F0A5E42CC57C65D1FE3860D0E4BC2
 Renee,Which is why we need more data. Decisive proof.,Вот почему нам нужно больше данных. Решающих доказательств.,ai,,5BFE330242A0656A7CBB1D8804507C1B
 Renee,"People are dead, Lukas.","Люди погибли, Лукас.",ai,,B4E5BCBF46ADDE1EE98946A2959A248B
-Lukas,Of course you're not. But you might be trying too hard to find meaning where there isn't. Sometime bad things happen and there's no one to blame.,"Конечно, ты не обязана. Но, возможно, ты слишком стараешься найти смысл там, где его нет. Иногда плохие вещи случаются, и некому их обвинять.",ai,,3AC43047421AA0817DE98F9AD33780A2
+Lukas,Of course you're not. But you might be trying too hard to find meaning where there isn't. Sometime bad things happen and there's no one to blame.,"Конечно, ты не обязана. Но, возможно, ты слишком стараешься найти смысл там, где его нет. Иногда плохие вещи случаются, и некого винить.",ai,,3AC43047421AA0817DE98F9AD33780A2
 Renee,But what if those officers were to blame?,"Но что, если эти офицеры виноваты?",ai,,8008C35A4124BFFA54ADD79FE29CC8F5
 Renee,All I hope for is more decisive evidence.,Я надеюсь только на решающие доказательства.,ai,,95FB08FC4FE8D7FBA0A49A908F682339
 Renee,"People are dead, Lukas.","Люди погибли, Лукас.",ai,,6AF957E34691A4EE66238CB83164ADB6
@@ -427,7 +427,7 @@ Lukas,"I know it's not what you hoped for. I'm sorry, Renee. Listen, if you're d
 Renee,Sure. Sounds good.,Конечно. Звучит хорошо.,ai,,427592474ACD595733C18A96CC16876A
 Renee,[Nod],[Кивок],ai,,892C5DF74876E62FB45B6496E7B55BCB
 Renee,[Say nothing],[Ничего не говорить],ai,,50E8DF594C67C538EE73E882E8BE97CC
-Lukas,"Listen, let's drop it for today, alright? We've both had long days. Let's just order dinner and go back to being us. How does that sound?","Слушай, давай оставим это на сегодня, ладно? У нас обоих был долгий день. Давай просто закажем ужин и вернемся к себе. Как насчет этого?",ai,,89E09185480D40899638D5A583708DAD
+Lukas,"Listen, let's drop it for today, alright? We've both had long days. Let's just order dinner and go back to being us. How does that sound?","Слушай, давай оставим это на сегодня, ладно? У нас обоих был долгий день. Давай просто закажем ужин и снова будем просто нами. Как насчет этого?",ai,,89E09185480D40899638D5A583708DAD
 Renee,Sure. Sounds good.,Конечно. Звучит хорошо.,ai,,BA02AF0E441535D4E5AACD96526BFA25
 Renee,[Nod],[Кивок],ai,,7A7DD0554DFC283378AE19AE10282CC0
 Renee,[Say nothing],[Ничего не говорить],ai,,7429776E4B0C98FF911542A200373660
@@ -473,7 +473,7 @@ Renee,I'm honestly not sure.,"Честно, не уверена.",ai,,A97838B248
 Lukas,"Just to clarify; this is what I think it is, right?","Просто для уточнения; это то, о чем я думаю, да?",ai,,AD2DE1E34688664D74C3B3AE832FBD75
 Renee,"The West End fire, yeah.","Пожар в Уэст-Энде, да.",ai,,CCF1704744894F5F7A1D7EAC587D3F94
 Renee,I don't know. What do you think it is?,Не знаю. А что ты думаешь?,ai,,612D994C4652616186DCFFB94FC8246B
-Lukas,"Oh, right. And with what?","О, точно. И с чем?",ai,,CDEB82554BDE9C5E446B3C897FDE4F25
+Lukas,"Oh, right. And with what?","О, точно. И чем?",ai,,CDEB82554BDE9C5E446B3C897FDE4F25
 Renee,"Again, like I said, the testimonies don't match up.","Опять же, как я сказала, показания не сходятся.",ai,,B498BCA64FEE04961A34BFAD90CB18DF
 Renee,A blunt instrument.,Тупой предмет.,ai,,399242A5484C6C5813FDF2A905C3EA8A
 Renee,A sharp object.,Острый предмет.,ai,,94CED20E4B3ED226D8DA4E81A6094A51
@@ -497,20 +497,20 @@ Renee,How about you cook?,"А может, ты приготовишь?",ai,,71DF
 Lukas,"Alright. Well, how about I order us some dinner and we work our way through it together?","Ладно. Может, я закажу нам ужин, и мы разберемся с этим вместе?",ai,,411908BA4DEBF9870B72B1912FD388C8
 Renee,Depends on what you order.,"Зависит от того, что ты закажешь.",ai,,6990C0CB41437616F0F5478FE600766A
 Renee,"And let you snoop through my work? No way, buster.","И позволить тебе копаться в моей работе? Ни за что, приятель.",ai,,01E8CC2446A35C3CDF374489B7618194
-Lukas,"He was armed, right? With what?","Он был вооружен, да? С чем?",ai,,C60A73C04FD3FDA1F2F425A469C3FACB
+Lukas,"He was armed, right? With what?","Он был вооружен, да? Чем?",ai,,C60A73C04FD3FDA1F2F425A469C3FACB
 Renee,"Like I said, the testimonies don't match up.","Как я сказала, показания не сходятся.",ai,,F3BF20864A3EF68F3E6B0EAF06E4C65D
 Renee,A blunt instrument.,Тупой предмет.,ai,,E53B93164672D70556C8BF8C7B8F616D
 Renee,A sharp object.,Острый предмет.,ai,,197D08634ECBDA72CE8A04A4A554C06B
 Renee,I'm not exactly sure.,Не совсем уверена.,ai,,67E9389C4F761C5B09D172AAC809A2C7
 Lukas,"I think we'd both prefer something edible, right? I'll pick out something I know you like. Besides, what's got you so distracted?","Думаю, мы оба предпочли бы что-нибудь съедобное, да? Я выберу что-нибудь, что, как я знаю, тебе нравится. Кстати, что тебя так отвлекает?",ai,,B72770A74FE6820A2381D4977539215D
-Renee,"Why, I've been sitting around doing nothing, longing for my loving husband's warm embrace.","Почему, я сидела без дела, тоскуя по теплым объятиям моего любящего мужа.",ai,,4141C36A4107307624B3EE981E8683FD
+Renee,"Why, I've been sitting around doing nothing, longing for my loving husband's warm embrace.","Да я просто сидела без дела, тоскуя по теплым объятиям моего любящего мужа.",ai,,4141C36A4107307624B3EE981E8683FD
 Renee,Well...Remember the West End fire?,Ну... Помнишь пожар в Уэст-Энде?,ai,,C29926DE4BEB5F9FF49A67BD31FD614C
 Renee,You remember that shooting in West End?,Ты помнишь ту стрельбу в Уэст-Энде?,ai,,DD7507EE4F320C0A95C84BA64EB78EF9
 Lukas,The officer did? How?,Офицер сделал это? Как?,ai,,4E77A2C74865D567957084A492014768
 Renee,Not sure. The report doesn't mention it.,Не уверена. В отчете это не упоминается.,ai,,4B0776F24887F64E9A2122B2ADDD818F
-Renee,The two of them had a standoff. I'm sure the cop struck first.,"У них была перестрелка. Уверена, коп выстрелил первым.",ai,,F19BF72C4E463439020251B2BB8ABA2B
+Renee,The two of them had a standoff. I'm sure the cop struck first.,"У них было противостояние. Уверена, коп напал первым.",ai,,F19BF72C4E463439020251B2BB8ABA2B
 Lukas,"You've been busy with work, haven't you? I'll take care of it. Besides, what's got you so distracted?","Ты была занята работой, да? Я позабочусь об этом. Кстати, что тебя так отвлекает?",ai,,7239FDBA4161A8FB505AF9ABAAF26D4D
-Renee,"Why, I've been sitting around doing nothing, longing for my loving husband's warm embrace.","Почему, я сидела без дела, тоскуя по теплым объятиям моего любящего мужа.",ai,,5EC65C3E4F189DDDD286C098ACB3B8DB
+Renee,"Why, I've been sitting around doing nothing, longing for my loving husband's warm embrace.","Да я просто сидела без дела, тоскуя по теплым объятиям моего любящего мужа.",ai,,5EC65C3E4F189DDDD286C098ACB3B8DB
 Renee,Remember the West End fire?,Помнишь пожар в Уэст-Энде?,ai,,5371740B4886BEC67DF23CBC48FE598A
 Renee,Remember that shooting in West End?,Помнишь ту стрельбу в Уэст-Энде на прошлой неделе?,ai,,026E077841BD383457AA068E76B6263F
 Lukas,You don't remember?,Ты не помнишь?,ai,,F422CB80408BD9CBB72BC5B862560EC1
@@ -520,7 +520,7 @@ Renee,"No, nevermind. It was a sharp object.","Нет, неважно. Это б
 Renee,"No, the reports mention two differing weapons.","Нет, в отчетах упоминаются два разных оружия.",ai,,1A32CB3348A10FEFF8B2BDB0DA7B5ED8
 Renee,"...There were a lot of documents, Lukas.","...Было много документов, Лукас.",ai,,B7D4EE5E4A2129BCE77815AF2215EA55
 Lukas,"Or we just skip the dishes and eat out of little cardboard boxes. Deal? Besides, what's got you so distracted?","Или мы просто пропустим посуду и будем есть из картонных коробок. Договорились? Кстати, что тебя так отвлекает?",ai,,D3867C0448346BEA354A4CAF5E91860C
-Renee,"Why, I've been sitting around doing nothing, longing for my loving husband's warm embrace.","Почему, я сидела без дела, тоскуя по теплым объятиям моего любящего мужа.",ai,,1E71040A476D30B6613ECD8E6076F246
+Renee,"Why, I've been sitting around doing nothing, longing for my loving husband's warm embrace.","Да я просто сидела без дела, тоскуя по теплым объятиям моего любящего мужа.",ai,,1E71040A476D30B6613ECD8E6076F246
 Renee,Well...remember the West End fire?,Ну... помнишь пожар в Уэст-Энде?,ai,,620DFB314D7ABC6AFF615294DB0B5DBE
 Renee,You remember that shooting in West End?,Ты помнишь ту стрельбу в Уэст-Энде?,ai,,364FE548457843A6DC95D0828255F74F
 Lukas,"I do. So you're working on the article, huh?","Помню. Так ты работаешь над статьей, да?",ai,,5A8E31CD49B0F0B3BF396ABC7CA9C5ED
@@ -553,7 +553,7 @@ Lukas,Maybe I shall. And maybe other events shall transpire.,"Может, так
 Renee,"Oh, they shall, shall they?","О, произойдут, да?",ai,,777AD81649824536619345A437980DD4
 Renee,"""Transpire?""","""Произойдут?""",ai,,2A0EDA774C769C37BD195BBDB5F0D0A3
 Renee,"Okay, tough guy. I'm working on the article about the fire.","Ладно, крутой парень. Я работаю над статьей о пожаре.",ai,,D44DC6FC4ED7B906650CC88CBDB5189B
-Lukas,"That's how you charmed your way into them, huh? Come on, you nerd. Let me help. ","Вот так ты и очаровал их, да? Давай, ботан. Дай мне помочь.",ai,,8D18646640B3483350F9C2877C7E2CC2
+Lukas,"That's how you charmed your way into them, huh? Come on, you nerd. Let me help. ","Вот так ты и очаровала их, да? Давай, ботан. Дай мне помочь. ",ai,,8D18646640B3483350F9C2877C7E2CC2
 Renee,"I don't know, partner. Maybe I work better alone.","Не знаю, партнер. Может, я лучше работаю одна.",ai,,EE5CE24244B13758F5A325B828B9AF82
 Renee,Fine. You can help.,Ладно. Ты можешь помочь.,ai,,FCCE216B4ACE852C3414F2BE94AF1CD5
 Lukas,"You're the one who got me that ""word of the day"" calendar. Blame yourself. Now, let me help.","Это ты подарила мне ""слово дня"" календарь. Вини себя. Теперь дай мне помочь.",ai,,E17EBB9042F5903FECF004938AC11F8C
@@ -571,7 +571,7 @@ Renee,Where should I start?,С чего мне начать?,ai,,241A3F194B538A7
 Lukas,"Well, walk me through it. Let's see if we can figure it out together.","Ну, расскажи по порядку. Посмотрим, сможем ли мы разобраться вместе.",ai,,8595D92B4DB4F420034306879B879C00
 Renee,Sure. Where do I start?,Конечно. С чего начать?,ai,,D7F251FC4AD9309865B17B9EEFA10516
 Lukas,"So you keep saying. Alright, partner. Let's figure it out. Walk me through it.","Ты все это твердишь. Ладно, партнер. Давай разберемся. Расскажи по порядку.",ai,,003FB6D14FC6134E39D2B18E1FCE96CD
-Renee,Where do you want me to start?,"С чего ты хочешь, чтобы я начал?",ai,,AE43FFCB42FC50723629E38150D85A23
+Renee,Where do you want me to start?,"С чего ты хочешь, чтобы я начала?",ai,,AE43FFCB42FC50723629E38150D85A23
 Lukas,"Alright, then. Walk me through it.","Ладно, тогда. Расскажи по порядку.",ai,,926AC7EE452AE2F299B9DA995F91EECE
 Renee,Sure. Where do we start?,Конечно. С чего начнем?,ai,,888B00514FA5971D40134397C736168B
 Lukas,"Let's start at the beginning. Tell me about the fire. There were two calls about it, right? Where did it start?","Давай начнем с начала. Расскажи мне о пожаре. Было два вызова, верно? Где он начался?",ai,,8F91CB054C0C2DAE20D8E3B057603D17
@@ -634,10 +634,10 @@ Lukas,Good to be home. Have you been working on this all day?,Хорошо бы�
 Renee,Have I? What's the time?,Правда? Который час?,ai,,D9680EC947605E28B07A69A0E3539489
 Renee,Trying to. Unfortunately.,Пытаюсь. К сожалению.,ai,,6F452CC548E54CF3F627C392173B4703
 Renee,"Making decent progress, too.",Делаю неплохие успехи.,ai,,5348085942FAF39F3533E1BA8947A5B6
-Lukas,"Maybe isn't good enough, Renee. We have to look at the facts.","Может быть, недостаточно, Рене. Мы должны смотреть на факты.",ai,,2A0151EC428EC1C9B26B9592A40977A7
+Lukas,"Maybe isn't good enough, Renee. We have to look at the facts.","""Может быть"" - этого недостаточно, Рене. Мы должны смотреть на факты.",ai,,2A0151EC428EC1C9B26B9592A40977A7
 Renee,Fine.,Ладно.,ai,,515C046B4962008DD2F7C0AAD2FAE5A7
 Renee,"And what if the ""facts"" have been tampered with?","А если ""факты"" были подделаны?",ai,,F7D8D3134E888BABAA658CA51D82FB63
-Lukas,"You don't trust the reports? Renee - those are made under oath. They're cross-referenced, double-checked. Why wouldn't you trust them?","Ты не доверяешь отчетам? Рене, они сделаны под присягой. Они перепроверены, пересмотрены. Почему бы ты не доверяла им?",ai,,2DF66A3C460D28ABB0925CB72097517E
+Lukas,"You don't trust the reports? Renee - those are made under oath. They're cross-referenced, double-checked. Why wouldn't you trust them?","Ты не доверяешь отчетам? Рене, они сделаны под присягой. Они перепроверены, пересмотрены. Почему ты им не доверяешь?",ai,,2DF66A3C460D28ABB0925CB72097517E
 Renee,"Just a hunch, I suppose. I don't know.","Просто интуиция, наверное. Не знаю.",ai,,60C0119B4216A9226828E7A7E62CD4D4
 Renee,Nevermind. It's fine. It's whatever.,"Неважно. Все в порядке. Да ну, забей.",ai,,698905164D1D0266D4B1DA9437D875FB
 Renee,"What do you mean, ""why""? Haven't I given you enough reason already?","Что ты имеешь в виду, ""почему""? Разве я не дала тебе достаточно причин?",ai,,6EFE47A54E1C6DD6FD3385B5AFF0AF25
@@ -662,7 +662,7 @@ Renee,"Trust me, Lukas. I'm sure.","Поверь мне, Лукас. Я увер
 Lukas,I see what you're getting at. That's pretty convincing.,"Я понимаю, к чему ты клонишь. Это довольно убедительно.",ai,,D0C659354B8FF5A0B0537A89444BAEBB
 Renee,Convincing enough for me.,Достаточно убедительно для меня.,ai,,233CEBDD4DED6A03F7A970A767AD4B17
 Renee,"It's not waterproof, though. Let's move on.","Это не железно, правда. Давай двигаться дальше.",ai,,FE23F17B4E047CCFDFFD5F890FFBC6FE
-Lukas,"Could've fooled me. Those things might as well be magical, if you ask me - although, I did manage to print a couple files today.","Могло бы обмануть меня. Эти вещи могут быть почти магическими, если спросить меня. Хотя мне удалось распечатать пару файлов сегодня.",ai,,83A204A949077726FF1D7F95D9F12FE8
+Lukas,"Could've fooled me. Those things might as well be magical, if you ask me - although, I did manage to print a couple files today.","Не скажешь. Эти штуки, по-моему, просто волшебные. Хотя мне удалось распечатать пару файлов сегодня.",ai,,83A204A949077726FF1D7F95D9F12FE8
 Renee,"[Gasp] Really, baby? I'm so proud of you!","[Ахнуть] Правда, детка? Я так горжусь тобой!",ai,,EE725F5A4C3BC01ECFCD3B8B9B05C568
 Renee,My hero.,Мой герой.,ai,,506F5C1448F1E9D4A58ABB8D5FBA772A
 Renee,Oh? Did you dare to ask for help this time?,О? Неужели решился попросить помощи?,ai,,7D5F6AD34C24030A65FE8E91E9C2B0B1

@@ -158,7 +158,7 @@ Eli,How come?,Как так?,ok,,43AF605A4E655C8D5E2AE189B4812C2A
 Jorge,"Pranks, mostly. They've gotten really into hard-boiled eggs lately.",В основном шалости. Недавно их ужасно увлекли яйца вкрутую.,ai,,D691B3964EA3DF2200248CA015489A9F
 Eli,"What, like, eating them?","Что, в смысле, есть их?",ai,,6F68927E44E71500C2E1828C5517AFCA
 Eli,"Like, collecting them?","Или, типа, коллекционировать?",ai,,B899EFDC4BA579ABDB7BB284AC80EA41
-Jorge,"I wish. No, they've been boiling them, peeling the shell off and chucking them like snowballs. They keep throwing them at the windows of the neighbouring high rise to wake them up in the middle of the night and it started a geezer infestation on the street below.","Если бы. Нет, они варят их, чистят от скорлупы и швыряются, как снежками. Всё время кидают их в окна соседней высотки, будят людей посреди ночи, и на улице внизу завелось нашествие стариков.",ai,,B676613F43FFE5F4CE7A48924FFFD696
+Jorge,"I wish. No, they've been boiling them, peeling the shell off and chucking them like snowballs. They keep throwing them at the windows of the neighbouring high rise to wake them up in the middle of the night and it started a geezer infestation on the street below.","Если бы. Нет, они варят их, чистят от скорлупы и швыряются, как снежками. Всё время кидают их в окна соседней высотки, будят людей посреди ночи, и на улице внизу завелось нашествие гусяров.",ai,,B676613F43FFE5F4CE7A48924FFFD696
 Eli,That's actually kind of cool.,Вообще-то это круто.,ai,,81A1B4EB4865B5B65648768A287E133A
 Eli,Disgusting.,Мерзость.,ai,,4D224A11424BA733E3273CA3A212DD34
 Jorge,It's not a big deal. Granville's actually a lot cheaper than Science City. I pay more for my shitty studio apartment than I do for all four of their bedrooms.,"Ничего страшного. Гренвилль на самом деле гораздо дешевле Наукограда. Я плачу за свою дрянную студию больше, чем за все четыре их спальни.",ai,,15DE270545BAAD6F687C1BBD00F7FF82
@@ -167,7 +167,7 @@ Eli,Have you ever thought of starting your own family?,Ты никогда не 
 Jorge,"I used to when I was younger, but it got too hard.  Eight hour turnarounds and unreliable transit really took its toll. Now I just visit whenever I can. Or at least, I did. Ugh, I should have quit when I had the chance.","Раньше так и делал, когда был моложе, но стало слишком тяжело. Восьмичасовые перегоны туда-обратно и ненадёжный транспорт сделали своё дело. Теперь я просто навещаю их, когда получается. Точнее, навещал. Эх, надо было уволиться, пока была возможность.",ai,,D90118AC47D7684E6C8A57B1D4D0A79C
 Eli,"You'll see them again, Eli. I'll see to it.","Ты ещё увидишь их, Илай. Я за этим прослежу.",ai,,FA7210A44D5C00FB78ABF88D3DABF854
 Eli,Or at least warned me about what I was about to step into.,"Или хотя бы предупредили, во что я ввязываюсь.",ai,,136C8A0B4200C536F7DD37B3F7004CDA
-Jorge,"Thankfully, no. That would be so pungent. They've been boiling the eggs, peeling the shells off and chucking them like snowballs. They keep throwing them at the windows of the neighbouring high rise to wake them up in the middle of the night and it started a geezer infestation on the street below.","К счастью, нет. Это было бы жутко вонюче. Они варят яйца, чистят от скорлупы и швыряются, как снежками. Всё время кидают их в окна соседней высотки, будят людей посреди ночи, и на улице внизу завелось нашествие стариков.",ai,,27AD41B24E5AD3366863D8BF5A1CDC05
+Jorge,"Thankfully, no. That would be so pungent. They've been boiling the eggs, peeling the shells off and chucking them like snowballs. They keep throwing them at the windows of the neighbouring high rise to wake them up in the middle of the night and it started a geezer infestation on the street below.","К счастью, нет. Это было бы жутко вонюче. Они варят яйца, чистят от скорлупы и швыряются, как снежками. Всё время кидают их в окна соседней высотки, будят людей посреди ночи, и на улице внизу завелось нашествие гусяров.",ai,,27AD41B24E5AD3366863D8BF5A1CDC05
 Eli,That's actually kind of cool.,Вообще-то это круто.,ai,,E19EBF4D4C1225A2502C4DB40358532B
 Eli,Disgusting.,Мерзость.,ai,,00D08F81412F19BA176F7D84D490F0C8
 Jorge,I think so too! But don't tell their mother that. I think it's actually impressive they found a way to throw things at windows without breaking the glass. Clever little scamps...,"Я тоже так думаю! Только не говори это их маме. По-моему, на самом деле впечатляет, что они нашли способ швырять вещи в окна, не разбивая стёкол. Умные маленькие сорванцы...",ai,,2B3FBA3D42DBF936E9231B9A75DAF471
@@ -281,7 +281,7 @@ Jorge,How's the prep coming?,Как подготовка?,ai,,B853F30446E253F18D
 Eli,I think everything's ready.,"Кажется, всё готово.",ai,,38C408164B81BBCCB3ACA1A32680CB74
 Eli,What exactly should I be doing again?,"Что мне, напомни, нужно делать?",ai,,ED0FA82B4AAF8FB9E1F623A925638CD9
 Eli,I think we should go with a different approach.,"По-моему, нужен другой подход.",ai,,46EF3E0741AC52405D8A46B5684114A7
-Eli,Still working on it.,Все еще собираю.,ok,,E3D1333E4BDB8531587CBFBF746B567F
+Eli,Still working on it.,Всё ещё работаю над этим.,ok,,E3D1333E4BDB8531587CBFBF746B567F
 Jorge,Yes.,Да.,ok,,A3FEB9E9403A9806B0B3728B107D4883
 Eli,"Alright, go on.","Ладно, продолжай.",ai,,1B95770044F9057E6805BDA31FEC8A1F
 Eli,Fair enough.,Справедливо.,ai,,39CB4AD742C1F9AB6E1442BE66A28A96
@@ -371,7 +371,7 @@ Eli,I think you've been out in the sun for way too long.,"По-моему, ты 
 Eli,What do we know?,Что мы знаем?,ai,,E2CC73F14DFB1B5C0FBE99B6DE700C9A
 Jorge,"Did we? Because outside of that one incident with the Artifact, this expedition has been fairly routine. No real threats, no big dangers. Just the hot hot sun and our clashing personalities. So, if it's not the elements killing these other teams, what is?","Правда? Потому что, если не считать того случая с Артефактом, эта экспедиция шла вполне рутинно. Ни настоящих угроз, ни больших опасностей. Только палящее солнце и наши несовпадающие характеры. Так если не стихия убивает другие группы, то что?",ai,,5F47622B475067124454EFACB3ACD87F
 Eli,HQ.,Штаб.,ai,,0C02122A4440E057EE6FA29EDBE597F3
-Eli,You tell me.,Это уж вы мне скажите.,ok,,14C5BE46445ED96CE3AB019F965D2A8F
+Eli,You tell me.,Это уж ты мне скажи.,ok,,14C5BE46445ED96CE3AB019F965D2A8F
 Eli,Maybe they liked it out here and decided to stay?,"Может, им здесь понравилось, и они решили остаться?",ai,,9DE138A94B3137A9134DB291DBB31448
 Jorge,The Shepherd isn't a person. He's the Shepherd. And you don't even believe he exists.,"Пастырь - не человек. Он Пастырь. А ты вообще не веришь, что он существует.",ai,,82B3D1C44464310A44B89A8E0923ED47
 Eli,"Fine. Just us, then.",Ладно. Тогда только мы.,ai,,59878E73459C03A1D55F94A9CC9B7D9A
@@ -387,7 +387,7 @@ Eli,I'm on it.,Займусь.,ai,,F6DF52334742DD42A195F997D8E61174
 Eli,How do we do that?,Как нам это сделать?,ai,,2EE303F74C56A0A7323D31B5B7E67256
 Jorge,"Really? Where's the danger? The only real hazard we've encountered so far is that Artifact. And we had to work very fucking hard to find that. Outside of that, everything's been fine. Peaceful, even. I honestly feel safer here than I did back in the city. Which begs the question: why hasn't anyone ever come back from the place?","Правда? И где опасность? Единственная настоящая угроза, с которой мы столкнулись, - этот Артефакт. А чтобы его найти, нам пришлось, блядь, здорово попотеть. Кроме этого всё было нормально. Даже мирно. Честно говоря, здесь я чувствую себя безопаснее, чем в Городе. Что поднимает вопрос: почему никто никогда не возвращался оттуда?",ai,,67931AA248E6F7CC126836BFA0AC0FA5
 Eli,They're not allowed.,Им не позволяют.,ai,,56B180304FEAC7D0FEF7E784C748CA8A
-Eli,You tell me.,Это уж вы мне скажите.,ok,,882784474D2D74AC91BF278DC348864B
+Eli,You tell me.,Это уж ты мне скажи.,ok,,882784474D2D74AC91BF278DC348864B
 Eli,Maybe they like it better out here.,"Может, им здесь больше нравится.",ai,,A1FE71F34B9B25E71EB334ACC86DC528
 Jorge,"That's only because you were born in Science City - gifted child to gifted parents, brought up in a block where the Apes actually look after you. You never had to struggle. You don't really know how bad most of us have it.","Это только потому, что ты родился в Наукограде - одарённый ребёнок у одарённых родителей, вырос в квартале, где Обезьяны о тебе по-настоящему заботятся. Тебе никогда не приходилось бороться. Ты не знаешь, насколько плохо приходится большинству из нас.",ai,,AA3B061D4F6FCD1D52B9F794CDB1917B
 Eli,"Don't condescend to me, man. You live in Science City too.",Не надо разговаривать со мной свысока. Ты тоже живёшь в Наукограде.,ai,,0FACCED242465534625C4EAFAF7C80E6

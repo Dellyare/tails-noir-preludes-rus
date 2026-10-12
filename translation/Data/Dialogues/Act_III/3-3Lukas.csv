@@ -77,7 +77,7 @@ Lukas,"I...have my ups and downs. Same as anyone else. I-I'm trying to be, I kno
 Renee,Trying to be happy isn't the same as being happy. That's what I've come to realize.,"Стараться быть счастливым - не то же самое, что быть счастливым. Это я поняла.",ai,,79C9131E413ABD7AB62AB8885D554E94
 Renee,"I'm done trying, Lukas.","Я больше не стараюсь, Лукас.",ai,,EB40F5394A3835D4C1C99998D9E99D15
 Lukas,"Isn't that normal? It's not like marriage is a constant, smooth ride. Sometimes you hit bumps in the road, but that doesn't mean I'm looking to scrap the whole thing. We're still moving forward, aren't we?","Разве это не нормально? Брак - не ровная дорога. Иногда на ней бывают ухабы, но это не значит, что я хочу всё бросить. Мы же всё равно идём вперёд, разве нет?",ai,,BEC0194A447BE2B41F525E92E4DB2A9E
-Renee,...Are we? Do you really believe that?,...Правда? Ты действительно в это веришь?,ai,,95F5340940A94DFA76363EB7D57BEC20
+Renee,...Are we? Do you really believe that?,...Идём? Ты действительно в это веришь?,ai,,95F5340940A94DFA76363EB7D57BEC20
 Renee,"No, Lukas. We're not.","Нет, Лукас. Не идём.",ai,,5D76D2E3463D2F21554485A50D98E2DE
 Renee,Maybe. I suppose that's why we're having this conversation.,"Возможно. Наверное, поэтому мы и разговариваем.",ai,,5057F3A94943980D7A18EF847078CBD3
 Lukas,"You don't have to let it, Renee. You can't carry the weight of the world on your shoulders.","Ты не обязана этого допускать, Рене. Нельзя нести весь мир на своих плечах.",ai,,A5F2F418439F21F58242319FC348604A
@@ -236,7 +236,7 @@ Renee,[Shake your head],[Покачать головой],ai,,C08DA289411CA8E455
 Renee,I'm sorry. You're not.,Прости. Это не сон.,ai,,090583674957272AB7FE6D8C7C826E1F
 Lukas,"Figures. Time to wake up, I suppose.","Ясно. Наверное, пора просыпаться.",ai,,331CB8154B54D6632AEFD4920652E0FA
 Renee,"Better late than never, huh?","Лучше поздно, чем никогда, да?",ai,,5CBAFA7240626D027F9DBE95551CA160
-Renee,I'll leave you to it.,Не буду мешать твоему перекуру.,ok,,A20BC52F46EF0287C10324BD0820D88A
+Renee,I'll leave you to it.,Не буду тебе мешать.,ok,,A20BC52F46EF0287C10324BD0820D88A
 Renee,Do or don't. I can't help you anymore.,Как хочешь. Я больше не могу тебе помогать.,ai,,436B22844A4FD9F4F0F243955D42EF70
 Lukas,"Yeah, well. I wasn't sure if you were going to make food today. You were pretty short on the phone.","Ну да. Я не был уверен, будешь ли ты сегодня готовить. По телефону ты была довольно резка.",ai,,670E40B94AFEBAF1D0D97082F86D71CB
 Renee,"Yeah, I...I didn't have time today.","Да, я... сегодня не нашлось времени.",ai,,7F78AF454713965ED3CE0BB093F6D150
@@ -337,7 +337,7 @@ Renee,Don't be like that. Of course it matters.,"Не надо так. Коне�
 Renee,[Say nothing],[Промолчать],ai,,80B31C86473FEBF0C2B8C5AFE48AD370
 Lukas,Everything's temporary until it isn't. I think I'm beginning to realize that more and more lately.,"Всё временно, пока не перестаёт быть временным. Кажется, в последнее время я всё яснее это понимаю.",ai,,23ABB5EF493821D479EC56B19452B36B
 Renee,...What's that supposed to mean?,...Что это должно значить?,ai,,2C5F6E354F8ACB3726DC0C918B0298FC
-Renee,Me too.,Я тоже вниз.,ok,,16C13C194B4EC50AB1870DA7F2892CEB
+Renee,Me too.,Я тоже.,ok,,16C13C194B4EC50AB1870DA7F2892CEB
 Renee,[Nod],[Кивнуть],ai,,EBD8B1404FD54702AA14BA81A9A7E65A
 Lukas,"And that problem is what, exactly?","И в чём, собственно, эта проблема?",ai,,2334EF304B94213387B97D9E7DFBA8FD
 Renee,We don't communicate.,Мы не общаемся.,ai,,B896637B46A37D22F151E293D9DFF4F9
@@ -477,7 +477,7 @@ Renee,...You're welcome.,...Пожалуйста.,ai,,E9B1BD354E5E2998E8C0179C87
 Lukas,"Then please, help me understand. Is it something I'm not doing? Something I'm doing wrong?","Тогда прошу, помоги мне понять. Я чего-то не делаю? Делаю что-то не так?",ai,,931153904E4FE8F1C610038A8AE83ECF
 Renee,"..Yes, then. You are.",...Тогда да. Делаешь.,ai,,C3C24F2648EE051B6B59809D87A0360C
 Renee,Not wrong. Just different from me.,"Не неправильно. Просто по-другому, не как я.",ai,,8E2B95E04BEC7188D07F0CAC7DDFD870
-Renee,I'm not doing this.,Я тебе ничего не дам.,ok,,3E91B50F4F1AABFE962F2BB264071C76
+Renee,I'm not doing this.,Я не буду этим заниматься.,ok,,3E91B50F4F1AABFE962F2BB264071C76
 Lukas,"What am I doing so differently, then?",И что же я делаю настолько по-другому?,ai,,273D98E845926BEEE269F392F5FDA588
 Renee,...You know what? You are doing something wrong.,...Знаешь что? Ты делаешь что-то не так.,ai,,990779A941DE9EA3F751499AA9216003
 Renee,We just don't see things the same way.,Мы просто по-разному смотрим на вещи.,ai,,4BC9957A43BE2601609D3AB29DEE2BF2
@@ -1199,7 +1199,7 @@ Renee,"So, I'm just supposed to ignore it?",То есть мне просто з
 Lukas,"...Okay, what are we doing here? You said you wanted to talk about something important and now we're just...not talking. I can't deal with that, Renee. If we talk, we talk. What's up?","...Так, и что мы делаем? Ты сказала, что хочешь поговорить о чём-то важном, а теперь мы просто... не разговариваем. Я так не могу, Рене. Если говорим - значит, говорим. В чём дело?",ai,,F669D585471AC0D30DBEA6A01F694C65
 Renee,We need to talk. About our relationship.,Нам нужно поговорить. О наших отношениях.,ai,,50DA04FD4CAF5346A0D5D89A9CFB4E04
 Renee,"...Lukas, I'm not happy. I don't think I have been for a while.","...Лукас, я несчастна. Кажется, уже давно.",ai,,E021D7204C4CE25069B48D86D091335E
-Renee,I...I get the feeling you're not happy. With...us.,"Я... у меня ощущение, что ты несчастна. С... нами.",ai,,CD03918347E15F29740963A51A06E6C1
+Renee,I...I get the feeling you're not happy. With...us.,"Я... у меня ощущение, что ты несчастен. С... нами.",ai,,CD03918347E15F29740963A51A06E6C1
 Lukas,Is that's what this is about? You're mad that I argued with you? That I didn't turn on everyone I work with because of some isolated incident?,"Так вот в чём дело? Ты злишься, что я с тобой спорил? Что я не обернулся против всех, с кем работаю, из-за какого-то единичного случая?",ai,,3443359C447AFE26AB65D5BAB59B139F
 Renee,It's not just an isolated incident. Things like this happen all the time.,Это не единичный случай. Такое случается постоянно.,ai,,65F5627943F2C618E3FEA88E7FDEA379
 Renee,You could have done something.,Ты мог бы что-то сделать.,ai,,088D1B884B1553B384CD1BAE004970E6

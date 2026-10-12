@@ -151,7 +151,7 @@ Howard,I'm going to need a little more than that.,Мне нужно чуть б�
 May,"Who cares? You're obsessing about some clock no one cares about, meanwhile my daughter's about to go another Winter Solstice without so much as a trinket to mark the occasion. Why don't you look into that instead?","Да кому какое дело? Ты помешался на каких-то часах, до которых никому нет дела, а моя дочь вот-вот встретит ещё одно зимнее солнцестояние без единой безделушки на праздник. Может, лучше этим займёшься?",ai,,FA657CEB4B58085CF8BC969AA68FDB95
 Howard,You have your priorities and I have mine.,"У вас свои приоритеты, у меня свои.",ai,,B878E3C04BB428337213F5B8886BC8A5
 Howard,Maybe I can do both.,"Может, я успею и то, и другое.",ai,,5B79A8D948CC0765AB4A41943F283457
-May,I saw some of those awful teens hanging around it earlier. They were laughing too. And not the nice kind of laughing. The kind where you're up to something.,"Я видела, как возле них недавно крутились эти ужасные подростки. И ещё смеялись. Причём нехорошо смеялись. Так смеются, когда что-то затевают.",ai,,C060503945C1ED77FB86EEAAF04A46DA
+May,I saw some of those awful teens hanging around it earlier. They were laughing too. And not the nice kind of laughing. The kind where you're up to something.,"Я видела, как возле часов недавно крутились эти ужасные подростки. И ещё смеялись. Причём нехорошо смеялись. Так смеются, когда что-то затевают.",ai,,C060503945C1ED77FB86EEAAF04A46DA
 Howard,Got it.,Понял.,ai,,656B0E2A4A869CC6F7D4B99D458E4B8A
 Howard,Can you describe them a little more?,Можете описать их подробнее?,ai,,793EF4854DD222F235867A8A055998BD
 May,"Tracked down the clock piece, hmm? Guess you're smarter than you look.","Нашёл-таки деталь от часов, а? Умнее, чем выглядишь.",ai,,165CAEEE49804A4AE0A0D9830AC377E9
@@ -366,8 +366,8 @@ Howard,You could give it to your daughter. Like you said.,Отдайте доч�
 May,Pfft. Then you better find yourself a mask fast. The Goddess doesn't mess around.,Пф. Тогда тебе лучше быстро найти маску. Богиня не шутит.,ai,,893C7A494FF4E17193C9DA95DE1CF5FE
 Howard,Wait. I need to ask you something first.,Погодите. Сначала мне нужно кое-что у вас спросить.,ai,,279AD12A469C2E3621894DAE71688133
 Howard,[Leave],[Выйти],ok,,68C0E0F74700AA9BFA70BDBC00544B30
-May,"Ugh! I can't believe we wasted all this time reeling you in. And we were having such a good day until now! Let this be a lesson to you, Liona. Always judge a mark by their clothes. The clothes never lie.","Тьфу! Не верится, что мы столько времени тебя разводили. А день так хорошо шёл! Пусть это будет уроком тебе, Лиона. Всегда судите лоха по одежде. Одежда не врёт.",ai,,67019F5444136B62F6EA618A72CA4608
-Howard,What's a mark?,Что такое лох?,ai,,68A884A94498E80A2E6AE7816C380094
+May,"Ugh! I can't believe we wasted all this time reeling you in. And we were having such a good day until now! Let this be a lesson to you, Liona. Always judge a mark by their clothes. The clothes never lie.","Тьфу! Не верится, что мы столько времени тебя разводили. А день так хорошо шёл! Пусть это будет уроком тебе, Лиона. Всегда судите клиента по одежде. Одежда не врёт.",ai,,67019F5444136B62F6EA618A72CA4608
+Howard,What's a mark?,Что такое клиент?,ai,,68A884A94498E80A2E6AE7816C380094
 Howard,I have really nice clothes.,У меня очень хорошая одежда.,ai,,2083C22E40186D96B732DF8917C4EE2D
 May,"Maniac! So now you're adding slander to the mix? Oh, you better do something to set this right or you're going away for a long time.","Маньяк! Теперь ты ещё и клевету добавляешь? Лучше исправь это, или сядешь надолго.",ai,,C286706E43FD78AD3DE0CDAD91567FA9
 Howard,Fine. I take it back. You're very sane.,Ладно. Беру слова назад. Вы очень здравомыслящая.,ai,,9128942944E4C01490DFDA878377D707
@@ -383,8 +383,8 @@ May,Things are going better for you then. I just hope you find a way to give bac
 Howard,Huh. Let's talk a bit more about you.,Хм. Давайте ещё поговорим о вас.,ai,,E412E24544FA7A4231401AA659EB3525
 Howard,This again? Let's change the subject.,Опять это? Давайте сменим тему.,ai,,AADA6DD94EA28A6141B3ACB2BFE4CFB7
 Howard,I'm going to go. [Leave],Я пойду. [Уйти],ai,,74E961854CBFD501D4822DBF72978E9C
-May,"It was supposed to be you. But I guess you turned that around on us, didn't you, mark? Now, beat it. We're losing daylight.","Это должен был быть ты. Но, видно, ты обернул всё против нас, а, лох? А теперь брысь. Светлое время уходит.",ai,,D24B1AFD41F9B975CA4084AC1A213D85
-Howard,"Um, my name is actually Howard. Not Mark.",Вообще-то меня зовут Говард. Не Лох.,ai,,1F3C6F0B4E824BBCC9B4BC8399CAB483
+May,"It was supposed to be you. But I guess you turned that around on us, didn't you, mark? Now, beat it. We're losing daylight.","Это должен был быть ты. Но, видно, ты обернул всё против нас, а, клиент? А теперь брысь. Светлое время уходит.",ai,,D24B1AFD41F9B975CA4084AC1A213D85
+Howard,"Um, my name is actually Howard. Not Mark.",Вообще-то меня зовут Говард. Не Клиент.,ai,,1F3C6F0B4E824BBCC9B4BC8399CAB483
 Howard,Alright. [Leave],Ладно. [Уйти],ai,,7C256C2F41DD315E4F1BB8BEEB0F9525
 May,"You actually believe that don't you? I can't believe I didn't see it. Now, beat it, you pest. We're losing daylight.","Ты правда в это веришь, да? Не верится, что я не заметила. А теперь брысь, зануда. Светлое время уходит.",ai,,5885A43D463D33BD60CD2AAB92C53A75
 Howard,My name is  Howard. Not pest.,Меня зовут Говард. Не зануда.,ai,,F57663CD4E365E747CBBC1B0F7858829

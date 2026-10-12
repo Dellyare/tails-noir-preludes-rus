@@ -312,7 +312,7 @@ Howard,"You got to go too, man. You've got places to be.","Тебе тоже п�
 Howard,Probably - I should get going.,"Наверное, мне пора.",ai,,BC8755774DD740C7F70A73A780B3CA29
 Howard,I don't really feel like leaving. Do I have to?,Мне не очень хочется уходить. А надо?,ai,,EE4406BC497CFC745F8C17B773E018D9
 Larry,"Well, yeah - but it's not as if I'm going to force them to let me stay, either. I do want my own place, Howie. I don't want to crash on couches for the next ten years of my life.","Ну да, но и заставлять их оставить меня я не собираюсь. Мне самому нужно своё жильё, Говчик. Я не хочу кантоваться на диванах следующие десять лет.",ai,,E7F3408E446046C46B01E9AFE85B7057
-Howard,You won't.,Не потеряешь.,ai,,B2AC671B4E492AA13E1F3EAE829C568A
+Howard,You won't.,Не придётся.,ai,,B2AC671B4E492AA13E1F3EAE829C568A
 Howard,"Come crash on mine, then.",Тогда кантуйся у меня.,ai,,AF659EA24C54E36A7611C1A2E457157F
 Howard,Better than crashing on back alley mattresses.,"Всяко лучше, чем на матрасах в подворотнях.",ai,,37AB651A4ADA4157B24B5CB31EE999D3
 Larry,"Yeah, quantity doesn't trump quality in the flirting game, dude. You're about as smooth as the dorm hallway floor.","Ага, в игре в флирт количество не бьёт качество, чувак. Ты гладок, как пол в коридоре общаги.",ai,,43F526E84151564224D0FFAF3B18AFAD
@@ -661,7 +661,7 @@ Larry,"I don't want to live through memories, Howard. I want to make them. This.
 Howard,"Everyone's still around, man. We're just further apart.","Все по-прежнему рядом, чувак. Мы просто стали дальше друг от друга.",ai,,1446287B422E0EC2072D53BE20A7F7C5
 Howard,A reset doesn't sound so bad to me.,Перезагрузка мне не кажется такой уж плохой.,ai,,8D0FCFC04FBB2FB79A8095BB281D65BA
 Howard,"Of course it will, dude.","Конечно будет, чувак.",ai,,7D16DC6348E3D37413EA7C99263A8453
-Larry,"I don't know, Howard. I've had some shit days in my life, but they weren't here. What if the next couple years are back to being shit? What if this was it? The one time in my life when things just...worked?","Не знаю, Говард. В моей жизни бывали дерьмовые дни, но не здесь. А что, если следующие пару лет снова будут дерьмом? Что, если это был мой шанс? Единственный раз в жизни, когда всё просто... работало?",ai,,6FAFA93244E38964BD3AFC8AF82BD5DC
+Larry,"I don't know, Howard. I've had some shit days in my life, but they weren't here. What if the next couple years are back to being shit? What if this was it? The one time in my life when things just...worked?","Не знаю, Говард. В моей жизни бывали дерьмовые дни, но не здесь. А что, если следующие пару лет снова будут дерьмом? Что, если это и было всё? Единственный раз в жизни, когда всё просто... работало?",ai,,6FAFA93244E38964BD3AFC8AF82BD5DC
 Howard,"You worry too much, man. Things will work.","Ты слишком много переживаешь, чувак. Всё сложится.",ai,,719B9EF1448B707920DEBFBED41839D2
 Howard,"It's not the one time, man.","Это не единственный раз, чувак.",ai,,78455AD5491D2FBBA2F2198FF2219BD7
 Howard,"Alright, let's say it was - so what?","Ладно, допустим, единственный. И что?",ai,,0B7D68E8462231738FE338876CB03C76

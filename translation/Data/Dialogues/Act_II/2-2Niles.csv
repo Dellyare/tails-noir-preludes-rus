@@ -411,14 +411,14 @@ Niles,"I'll allow you to take a step back and rethink your strategy here, Howard
 Howard,My kissing moves...failed?,Мои приёмчики для поцелуев... провалились?,ai,,F6DAFB1B40D912F61C90DB97780B50AA
 Howard,[Pucker your lips to show what he's missing,"[Вытянуть губы, показывая, чего он лишается",ai,,B11CBA964C15E13D9D8ED4A9528571B6
 Niles,"Nothing easy about being direct, Howard. Most people go to great lengths to say nothing. Few people manage to speak volumes in just a few words.","В прямоте нет ничего простого, Говард. Большинство людей из кожи вон лезут, лишь бы ничего не сказать. Мало кто способен многое выразить парой слов.",ai,,341F8063479D4EB9A84E6483CF02A85F
-Howard,Obviously.,По мне не видно?,ok,,903A7A304AD34BED67F83688753A45BC
+Howard,Obviously.,Очевидно.,ok,,903A7A304AD34BED67F83688753A45BC
 Howard,"Oh, uh, yeah. I knew that. I mean, I didn't necessarily know that, but it was something I definitely felt. You know, deep inside.","А, э-э, ну да. Я знал. То есть не то чтобы знал, но определённо это чувствовал. Ну, в глубине души.",ai,,EFEAF5174AA3F2AB408DB8B3482A6668
 Niles,"I suppose we'll find out. Well played, Howard.","Посмотрим. Хорошо сыграно, Говард.",ai,,09B0A2E04ADE29DA02F887BF0F9BA6DE
 Howard,[Wink],[Подмигнуть],ai,,33B3DD864D50B896BB881DA7EBA881E5
 Niles,"...Well played. Alright, Howard. I'm interested.","...Хорошо сыграно. Ладно, Говард. Мне интересно.",ai,,32309D2B4C96D55A3BA174B09C818DA2
 Howard,Thought so.,Так и думал.,ai,,0C7628F8442405D5237FD690929C6E7E
 Niles,Has that made this whole flirting session easier or harder? How do you think you're doing?,"Это облегчило или усложнило весь этот флирт? Как думаешь, как у тебя получается?",ai,,AB07B65D451E6F0736D325933275D5D5
-Howard,You tell me.,Это уж вы мне скажите.,ok,,21C3479F4DB3585E9B82B5B9D0D7001A
+Howard,You tell me.,Это ты мне скажи.,ok,,21C3479F4DB3585E9B82B5B9D0D7001A
 Howard,"Pretty well, I think.","Думаю, довольно неплохо.",ai,,6CFF26F74C79C9CFAA37A8B9C611D12B
 Howard,"Not super great, I'll admit.","Не суперски, признаю.",ai,,45B539A14760F86E18E8768458E3B319
 Howard,"I'll be honest, man - I have no idea.","Честно, чувак, понятия не имею.",ai,,801C799D46AEC518EF400CA5DA8BBBA3
@@ -440,7 +440,7 @@ Niles,"Definitely not. Good luck, Howard. You'll figure it out eventually.","О�
 Howard,Whatever. I don't even like you.,Да ладно. Ты мне даже не нравишься.,ai,,4DF62CFF4C0D4948E9D80DA68F52B4AB
 Howard,"...I hope so too, man.","...Я тоже на это надеюсь, чувак.",ai,,71C29791434FA45EA29C45AEABF01740
 Niles,I see. And how do you think it's going so far?,"Понятно. А как, по-твоему, идёт пока?",ai,,8790E518404D1DD13CF7338C238A9B45
-Howard,You tell me.,Это уж вы мне скажите.,ok,,0300A1634166B52DAE9D7BB04ED25055
+Howard,You tell me.,Это ты мне скажи.,ok,,0300A1634166B52DAE9D7BB04ED25055
 Howard,"Pretty well, I think.","Думаю, довольно неплохо.",ai,,06CA65F44E217D2ACF93BC83CC41EC3D
 Howard,"Not super great, I'll admit.","Не суперски, признаю.",ai,,217925D545D3DD7EA7B0FCAE96B7F31B
 Howard,"I'll be honest, man - I have no idea.","Честно, чувак, понятия не имею.",ai,,45ADD5B94EC65E53D80FB0BDE32BF6AF
@@ -738,7 +738,7 @@ Howard,Don't count on it.,Не стоит на это рассчитывать.,
 Howard,Doubtful.You'd have to work for it.,Сомневаюсь. Тебе придётся потрудиться.,ai,,1B718EB34D7D26D9147192AE760558EE
 Howard,Maybe you will.,"Может, и представится.",ai,,635A866F4F7C8576D675739C2CDC85D4
 Niles,And does said hotness facilitate flirting? How do you think this has gone so far?,"И способствует ли эта самая сексуальность флирту? Как, по-твоему, всё идёт до сих пор?",ai,,540524A741F5AF762F854B8B6C0BA508
-Howard,You tell me.,Это уж вы мне скажите.,ok,,CDCDDA0D45FC185695DBA08E9A4E5FE3
+Howard,You tell me.,Это ты мне скажи.,ok,,CDCDDA0D45FC185695DBA08E9A4E5FE3
 Howard,"Pretty well, I think.","Думаю, довольно неплохо.",ai,,3C5AF5F6457A1D8450F1268E85EE9F12
 Howard,"Not super great, I'll admit.","Не суперски, признаю.",ai,,135300514263BC8D32C1A0B50C383321
 Howard,"I'll be honest, man - I have no idea.","Честно, чувак, понятия не имею.",ai,,705D498545B976D985F9AEADA1179AD9
@@ -840,7 +840,7 @@ Howard,(INVESTIGATIVE) Sounds to me like you just don't agree with these people.
 Niles,It lacks artistic integrity. Obviously. It's just pandering.,В этом нет художественной целостности. Очевидно. Это просто потакание публике.,ai,,488343F143A56602936368B0BE72C5E4
 Howard,Agree to disagree. I'm out.,Останемся при своём. Я пошёл.,ai,,F5233726410DC4A750AF93988EB3C5DA
 Howard,"Whatever, Niles. Later.","Ладно, Найлс. Пока.",ai,,D8A99DEB49B625433A483C87A43E7F90
-Howard,"Pander away, I say. See you later.","Потакайте на здоровье, говорю я. Увидимся.",ai,,97A64240402844768BF139B997FB0496
+Howard,"Pander away, I say. See you later.","Потакай на здоровье, говорю я. Увидимся.",ai,,97A64240402844768BF139B997FB0496
 Niles,"Yuh. It's kind of obvious, but most people don't think about it. Public self-awareness is at an all-time low.","Ага. Вроде очевидно, но большинство об этом не думает. Публичное самосознание на рекордно низком уровне.",ai,,232554B748D49409EEA2298BBFECD611
 Howard,"(SARCASTIC) Well, thank the Shepard we have people like you to set us right. Later, man.","(САРКАЗМ) Ну, слава Пастырю, что есть такие, как ты, кто наставит нас на путь. Пока, чувак.",ai,,C06EA86F46F594E2B6640B9E662C2EDF
 Howard,"You don't say. Later, Niles.","Да ну. Пока, Найлс.",ai,,ACAB73794125F8C965A037A36FF26C48

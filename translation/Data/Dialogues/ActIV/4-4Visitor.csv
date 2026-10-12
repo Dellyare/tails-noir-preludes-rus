@@ -203,7 +203,7 @@ The Visitor,"...And I'd be right with you on that, pal, except the scientific br
 Eli,[Say nothing],[Промолчать],ai,,1EB5057A4FD696E4863C0AB27E88D3C5
 Eli,"(CYNIC) ...No, now that you mention it, I think there's ample reason for pessimism.","(ЦИНИК) ...Нет, раз уж вы об этом заговорили, по-моему, причин унывать предостаточно.",ai,,E5541D1F4186E3E1574BFE8F1A07A341
 Eli,"(IDEALIST) Exactly. Even with that particular...mishap, there's still plenty to celebrate regarding our work here.","(ИДЕАЛИСТ) Именно. Даже с учётом этой... неприятности, в нашей работе здесь есть чем гордиться.",ai,,C3D7C4A34478B1582C823CBB8B95DE7B
-Eli,(REALIST) I fully expect us to be able to discuss it with HQ in a manner professional enough to breed understanding.,"(РЕАЛИСТ) Я вполне рассчитываю обсудить это со штабом достаточно профессионально, чтобы встретить понимание.",ai,,B3AB90C84C2B1E7FBDC2FF8D07E3F550
+Eli,(REALIST) I fully expect us to be able to discuss it with HQ in a manner professional enough to breed understanding.,"(РЕАЛИСТ) Я вполне рассчитываю обсудить это со штабом достаточно профессионально, чтобы породить понимание.",ai,,B3AB90C84C2B1E7FBDC2FF8D07E3F550
 The Visitor,"There, there. No point in going all gloomy on me, bud. Let's switch topics, why don't we? Your pal, Jorge. Why don't you tell me a little about him? What's he like, what makes him tick?","Ну-ну. Не надо мне тут мрачнеть, дружище. Давайте сменим тему, а? Ваш приятель, Джордж. Расскажите-ка о нём немного. Какой он, что им движет?",ai,,A02D6AFA475451988227B982B00637D6
 Eli,I don't think that's relevant to our conversation.,"Не думаю, что это имеет отношение к нашему разговору.",ai,,657006014BD4DE7A5698399B46B613AC
 Eli,"He's a good man. A devout believer, too.",Он хороший человек. И глубоко верующий.,ai,,05A6320B47E780C474093CA50E9FA35D
@@ -218,7 +218,7 @@ The Visitor,"Ah, man - does he ride you like this all the time? Hah, don't mind 
 Eli,...No question at all.,...Ни малейшего.,ai,,CBEA193745BCBB4C549619BE8C1B514B
 Eli,"Not to worry - he may be the boss, but we work well together.","Не беспокойтесь, пусть он и начальник, но работаем мы слаженно.",ai,,F010CA564AB990827E8EED8A8612D38E
 Eli,"...Put their feet up, more like.",...Скорее уж закинуть ноги на стол.,ai,,50ED04384644225131C343843273BB2F
-The Visitor,"Breed understanding! Hah! I like that - I'm going to have to start using it myself! Anyway, tell me a little bit about you guys. Why don't you start by breeding some understanding about your pal Jorge for me? What makes him tick?","Встретить понимание! Ха! Мне нравится, надо будет и самому так говорить! Ладно, расскажите-ка немного о себе. Начните, скажем, с того, чтобы я встретил понимание насчёт вашего приятеля Джорджа. Что им движет?",ai,,1B7A1DED4C34814304484F8FB8F17267
+The Visitor,"Breed understanding! Hah! I like that - I'm going to have to start using it myself! Anyway, tell me a little bit about you guys. Why don't you start by breeding some understanding about your pal Jorge for me? What makes him tick?","Породить понимание! Ха! Мне нравится, надо будет и самому так говорить! Ладно, расскажите-ка немного о себе. Начните, скажем, с того, чтобы породить во мне понимание насчёт вашего приятеля Джорджа. Что им движет?",ai,,1B7A1DED4C34814304484F8FB8F17267
 Eli,I don't think that's relevant to our conversation.,"Не думаю, что это имеет отношение к нашему разговору.",ai,,A38EBA8042F1393B140DC9BBFDD06C84
 Eli,"He's a good man. A devout believer, too.",Он хороший человек. И глубоко верующий.,ai,,FE35C65A40833537BB1FF0AB2A97A901
 Eli,He's worked hard his whole life to be what he is today. I suppose he's...inspiring.,"Он всю жизнь упорно трудился, чтобы стать тем, кем стал. Пожалуй, он... вдохновляет.",ai,,ADE192214324DB2A5BC64D92F8FCAA88
@@ -972,7 +972,7 @@ Eli,I'm counting on it.,Рассчитываю на это.,ai,,8C9517484B4FFD84
 Eli,I hope so.,Надеюсь.,ai,,50603F6F43AD9AB52B13A99BABA06DA0
 Eli,Jorge can do as he pleases.,"Джордж пусть делает, что хочет.",ai,,02A45DD64DBBF0020A84BF9A38CACFAA
 The Visitor,"That's a good man. And he's counting on you, too? You fellas rely on each other?","Хороший человек. И он на вас тоже рассчитывает? Вы, ребята, полагаетесь друг на друга?",ai,,5D599D8A4E57FE7B7B12ED850B0BD0A0
-Eli,We do.,Знаем.,ai,,63A518E442D624098A4AB1940FE289FC
+Eli,We do.,Полагаемся.,ai,,63A518E442D624098A4AB1940FE289FC
 Eli,"I'd like to think so, yes.","Хотелось бы так думать, да.",ai,,711747A94550B822A5119A844C45C48F
 Eli,"We're in this together, whether we like it or not.","Мы в одной лодке, нравится нам это или нет.",ai,,1FFBA40D47B8AD26DDAB95ADAF4D9977
 The Visitor,"No lie. How, though? How do you think they knew which direction to point you? Figure they knew it was here, in that little...cave? Bunker?","Не поспоришь. Но как? Как, по-вашему, они узнали, в какую сторону вас направить? Думаете, они знали, что он здесь, в этой вашей... пещере? Бункере?",ai,,8BE229B84BD486937C73528923F94381
@@ -1018,7 +1018,7 @@ Eli,"We're stuck with each other, but we both realize the importance of the work
 The Visitor,"As he pleases! That's some way of phrasing it, friend. Do you expect him to see things differently, then? You two don't get along when it comes to work stuff?","«Что хочет»! Ну и формулировка, друг мой. Значит, вы ожидаете, что он смотрит на вещи иначе? Вы двое не ладите в рабочих вопросах?",ai,,CB9285C4469EE0D1231D609A42B635C1
 Eli,"I just don't place expectations on his decisions. Usually, we align on things anyway.",Я просто не жду чего-то от его решений. Обычно мы всё равно сходимся.,ai,,7836797C4F87BCC48049A3B0D246E4E9
 Eli,We don't always see eye to eye. Take that as you will.,Мы не всегда сходимся во взглядах. Понимайте как хотите.,ai,,2E393D3D44FCDE8FCE5595B9CE9401DB
-Eli,"...We care about the work, not each other.","...Нас волнует работа, а не то, что мы думаем друг о друге.",ai,,2BD732CF466DE79D375261918D9383F7
+Eli,"...We care about the work, not each other.","...Нас заботит работа, а не мы друг для друга.",ai,,2BD732CF466DE79D375261918D9383F7
 The Visitor,"Stay out and prove yourselves. That's good, I like that. Strong. Shows determination. I suppose it's up to HQ to say what's what, but I say good for you. How about Jorge? He's as determined as you?","Остаться здесь и доказать, на что способны. Хорошо, мне нравится. Сильно. Говорит о решимости. Полагаю, штабу и решать, что к чему, но я скажу: молодцы. А Джордж? Он так же решителен, как вы?",ai,,0C49DE574F0472E9696B4EAC56DB0A1B
 Eli,I'm counting on it.,Рассчитываю на это.,ai,,7ECE0E8D42EBD01196EE3A9B608E7955
 Eli,I hope so.,Надеюсь.,ai,,3BFBDBB04F515E229F24B7B2132CE218
@@ -1089,7 +1089,7 @@ The Visitor,"Right, right. Do you think they know of other sites, too?","Ага,
 Eli,"I'm not sure, but they clearly know things they're unwilling to share with us.","Не уверен, но они явно знают то, чем не хотят делиться с нами.",ai,,4F7E8F4C402B1977187260BF907D6E13
 Eli,"No. We're just the most recent search party, and the one that happened to be successful.","Нет. Мы просто последняя поисковая группа, и именно нам повезло найти.",ai,,252C5451459D9DD3D3B41D89A5484499
 Eli,I don't know. You tell me.,Не знаю. Скажите вы.,ai,,4D45FFCE4F192BB6D5F79596A5FC934A
-The Visitor,"You don't say? Well, in that case I won't let anyone ever tell me I don't bring the heat wherever I go! You fellas haven't had a visit since you got here, have you? Must get real lonely, huh?","Да ну? Тогда я больше никому не позволю говорить, что я не завожу публику, куда ни приду! Вы, ребята, с тех пор как приехали, гостей не принимали, да? Наверное, ужасно одиноко, а?",ai,,759E36E2431F83A315C4E2A2B9804F41
+The Visitor,"You don't say? Well, in that case I won't let anyone ever tell me I don't bring the heat wherever I go! You fellas haven't had a visit since you got here, have you? Must get real lonely, huh?","Да ну? Тогда я больше никому не позволю говорить, что я не задаю жару, куда ни приду! Вы, ребята, с тех пор как приехали, гостей не принимали, да? Наверное, ужасно одиноко, а?",ai,,759E36E2431F83A315C4E2A2B9804F41
 Eli,We make do. Not much need of anyone else out here.,Справляемся. Тут другие и не нужны.,ai,,7ADB2C6848C365EA751B688CD67F3A43
 Eli,"A little bit, yes.","Немного, да.",ai,,933E4E3446A856C5587F898A214352C6
 Eli,...I do miss my apartment.,...Я скучаю по своей квартире.,ai,,FA782B6446957673014C48AE7A896456
@@ -1182,7 +1182,7 @@ Eli,[Say nothing],[Промолчать],ai,,39DEDB894410B9CCA8A9F28004A3C57F
 Eli,...Can we get on with work?,...Можем мы вернуться к работе?,ai,,7067D1B94D90568B48FA39B43299DA14
 Eli,Me?,Я?,ai,,611312774AF9EAA1ED5CDD9EF120BC8B
 The Visitor,"Sweet. In that case, I'll just have a little peek - if you don't mind.","Отлично. Тогда я одним глазком гляну, если не возражаете.",ai,,442648504A99BCE4122B7A9A889A28D1
-Eli,Go ahead.,Ага.,ok,,4F75524B43205929FA2ABC91BC6186B1
+Eli,Go ahead.,Валяйте.,ok,,4F75524B43205929FA2ABC91BC6186B1
 Eli,It's what we're here for.,Мы для этого здесь.,ai,,7E04B9A142A9BCF798D24DAF8102C7A6
 Eli,[Nod and observe him],[Кивнуть и понаблюдать за ним],ai,,A41015534ED486AB80562CAAD49CCFA8
 The Visitor,"Oh, I hate taking orders - but when it's from a pal like yourself, glasses, I'll make an exception. You mind if I take a closer look?","Ненавижу, когда мной командуют, но от такого приятеля, как вы, очкарик, сделаю исключение. Не возражаете, если я гляну поближе?",ai,,24F4DE3F45A6C294C8F99F9BE5742FC5
@@ -2126,7 +2126,7 @@ Eli,We make do. Not much need of anyone else out here.,Справляемся. �
 Eli,"A little bit, yes.","Немного, да.",ai,,2AC513F14C12C368BE323F9D4FD61582
 Eli,...I do miss my apartment.,...Мне не хватает моей квартиры.,ai,,CB07B98042F8DE13077B5E8C89B0A85C
 Eli,...,,,,30A06ED44E1C5530FBF5D7ABD837F3CC
-The Visitor,"You know, I was half-expecting you to jump me. Good move not to, honestly. I mean, end result's the same regardless, but you know. A little classier this way - riding together, dying together.","Знаете, я наполовину ждал, что вы на меня набросились. И хорошо, что нет, честно. То есть итог всё равно тот же, но всё-таки так как-то благороднее: едем вместе, умираем вместе.",ai,,CC4E44C94970008D2E616DA6E9AA7853
+The Visitor,"You know, I was half-expecting you to jump me. Good move not to, honestly. I mean, end result's the same regardless, but you know. A little classier this way - riding together, dying together.","Знаете, я наполовину ждал, что вы на меня наброситесь. И хорошо, что нет, честно. То есть итог всё равно тот же, но всё-таки так как-то благороднее: едем вместе, умираем вместе.",ai,,CC4E44C94970008D2E616DA6E9AA7853
 Eli,...,,,,15DB518843825CE9392B9EAD03AE35A0
 The Visitor,Real inspiring.,Очень вдохновляет.,ai,,3C06B4AE4A2CCD59BB3D14A2F92DE6B4
 Eli,...,,,,2DB69433418B56BFB7037986E50F5536
@@ -2321,7 +2321,7 @@ Eli,...Jorge?,...Джордж?,ai,,AAA3197240EDB90FBDB218A0FFC914D9
 Jorge,"I don't doubt that he will. It's fucked, Eli. This is all...fucked. ","Не сомневаюсь, что он так и сделает. Всё пиздец, Илай. Всё это... пиздец. ",ai,,994712864CF3CB858D57BB9D4E436966
 Eli,I'd rather go down swinging. Get him! [Attack the visitor],Лучше умру в бою. Бери его! [Напасть на Гостя],ai,,0ADBFA4542B0DFD7A9CE37AFDA79F31F
 Eli,"I can't make this decision on my own, Jorge.","Я не могу решать это сам, Джордж.",ai,,58D7335D40B6389C7846FA9CA6817D24
-Jorge,...Eli! You...just shot him...Eli!,...Илай! Ты... ты только что в него выстрелил... Илай!,ai,,1108B62641808770278D3DA17E4F8341
+Jorge,...Eli! You...just shot him...Eli!,...Илай! Вы... вы только что его застрелили... Илай!,ai,,1108B62641808770278D3DA17E4F8341
 Eli,...,,,,1D008844401BE12CCF8C83B173BF19AB
 The Visitor,"He made his choice. Easier this way, you know? No reason to draw it out, get all sappy and sad. One moment he was here, and then snap - gone.  Merciful, really.","Он сделал свой выбор. Так проще, понимаете? Незачем тянуть и разводить сопли. Вот он был здесь - а вот щёлк, и нет. По-своему милосердно.",ai,,3DE92DEB4B816F49B92D8A8DB8323ED7
 Eli,...,,,,AC91BBC447F72A74F235789F4179B45F

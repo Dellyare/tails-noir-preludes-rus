@@ -70,7 +70,7 @@ Howard,...Maybe I'm into getting punched in the face.,"...Может, мне н�
 Freja,"Cool, cool. Hold off on the crazier stuff until you get to know them, yeah?","Ладно, ладно. Безумные штуки прибереги на потом, когда узнаешь человека получше, ага?",ai,,CD88305C4E8127336CFF7CBCEA52AD55
 Howard,[Nod],[Кивнуть],ai,,D7131D3F44B74750AA8F0ABAAA9F9B7C
 Howard,[Violent nod],[Яростно кивнуть],ai,,B1EF8782482AD6A7F25972AAF1C142C9
-Freja,"Pfft! Me? I honk like a geezer! Now come on, Howie. You're doing well, so let's keep riding this high.","Пфф! У меня? Да я ржу как старый хрыч! Ну давай, Говчик. У тебя хорошо получается, так что давай оседлаем эту волну.",ai,,000EEFBF414ADC91FF0B179510CA2AEA
+Freja,"Pfft! Me? I honk like a geezer! Now come on, Howie. You're doing well, so let's keep riding this high.","Пфф! У меня? Да я гогочу как гусяра! Ну давай, Говчик. У тебя хорошо получается, так что давай оседлаем эту волну.",ai,,000EEFBF414ADC91FF0B179510CA2AEA
 Howard,"Sure, let's keep at it.","Конечно, продолжаем.",ai,,51BB0B684D8DFF00B327D7A6BA0C62F9
 Howard,"Riding, you say...","Оседлаем, говоришь...",ai,,95640D294014AF7A837A04AF979648E5
 Freja,"Pffff. You're losing steam, man. You're losing me in the conversation and you're losing the little flirt-streak you're on.","Пфффф. Ты сдуваешься, чувак. Теряешь нить разговора и теряешь свою маленькую флирт-серию.",ai,,2660B4344C66025EE22691854E1C3532
@@ -296,13 +296,13 @@ Howard,"Yes, ma'am..?","Слушаюсь, мэм..?",ai,,E41B3EA14BFCDDD67D18669
 Howard,"Yes, miss.","Да, госпожа.",ai,,24C5EA544602DBD31738BAB367419C53
 Freja,...Howard. That's stupid.,...Говард. Это глупо.,ai,,B68A1D9A4E9E9CC1EB83DD92D12B27C0
 Howard,There really is no raisining with me when I get like this.,"Когда я в таком настроении, со мной просто не договориться. Один сплошной изюм.",ai,,D8E50FEC465DA796497B2CBF623F71FC
-Howard,What can I say? I saw an opportunity and started raisin to the finish line.,А что мне сказать? Увидел шанс и рванул к финишу. Изюмительно.,ai,,372097974B290BC7246BB0A0FF6A81DD
-Howard,"What, am I raisin a red flag?","Что, я вывешиваю красный флаг? Изюмительно.",ai,,0843678A4830799C23748BA3E53519CA
+Howard,What can I say? I saw an opportunity and started raisin to the finish line.,А что мне сказать? Увидел шанс и рванул к финишу.,ai,,372097974B290BC7246BB0A0FF6A81DD
+Howard,"What, am I raisin a red flag?","Что, я вывешиваю красный флаг?",ai,,0843678A4830799C23748BA3E53519CA
 Freja,"Say, you got anything by Lola Waits? I haven't gotten around to her latest album yet.","Слушай, у тебя есть что-нибудь Лолы Уэйтс? Я всё никак не доберусь до её последнего альбома.",ai,,4008398B471E7A765CC0EE870BCECF5D
 Howard,I'm not sure. Larry might.,"Не уверен. Может, у Ларри.",ai,,9F43B285456CFC618AF0C78607E178DA
 Howard,I don't think so. But I'm sure I can find something else you'd like.,"Вряд ли. Но я уверен, что найду что-нибудь другое, что тебе понравится.",ai,,B4571BFB46EE28D24096D0A28FDFC772
 Freja,"...I hate it. Awful. So bad. Unacceptable. You got one more shot, man. You ready?","...Ненавижу. Ужас. Так плохо. Недопустимо. У тебя остался один шанс, чувак. Готов?",ai,,D5026FBE4B8533C4D6925FBAFDC44DBF
-Howard,"Why, you raisin the stakes? Lay it on me.","Что, ставки повышаем? Изюмительно. Выкладывай.",ai,,EE9865A04488AA12D4A610A7564C6447
+Howard,"Why, you raisin the stakes? Lay it on me.","Что, ставки повышаем? Выкладывай.",ai,,EE9865A04488AA12D4A610A7564C6447
 Freja,"Nope. Nuh-uh. Not having this. You got one more shot, man. You ready?","Не-а. Нет-нет. Так не пойдёт. У тебя остался один шанс, чувак. Готов?",ai,,F87A8D94465F01577B3460B42E885C30
 Howard,I was born and raisin ready.,Я родился и изюмился готовым.,ai,,64127DD248F44F860861D7984009C5D2
 Freja,"...Yeah, yeah. Alright, you got one more shot. You ready?","...Ага, ага. Ладно, у тебя остался один шанс. Готов?",ai,,76DD28064184C33F572156B33326D144
@@ -330,7 +330,7 @@ Howard,...But what if it wasn't?,...А если бы нет?,ai,,D18563EA4427577
 Howard,"Right, right. I got it.","Ага, ага. Понял.",ai,,E5AD1E48434326B1B11EF5B6C750AF79
 Freja,"Well, if he does, let me know! I've been dying to hear it.","Ну, если он такое скажет, дай знать! Я так хочу это услышать.",ai,,B088B39C4B3C8131FAF8E59AAB4E4096
 Howard,"Same! Later, Freja.","И я! Пока, Фрея!",ai,,8DB589D1469299AB15025FA2C4C213CF
-Howard,"Will do. See ya, Freja.","Дам. Пока, Фрея.",ai,,2E67092046D6441712E5998D18B32310
+Howard,"Will do. See ya, Freja.","Обязательно. Пока, Фрея.",ai,,2E67092046D6441712E5998D18B32310
 Freja,"Look, man - I think you're pretty cool, but at the end of the day, you're just not my type.","Слушай, чувак, ты классный, но в конечном счёте ты просто не мой тип.",ai,,00032CA54D41391461E551A6A07479B0
 Howard,You know what? Fair enough.,А знаешь что? Справедливо.,ai,,A66AAC4F4D05F794E3494A885C577F69
 Howard,"Aw, alright. Was I being too forward?","Ох, ладно. Я был слишком напористым?",ai,,B88C77A648E6ADA39E4DC9A590142528
@@ -381,7 +381,7 @@ Howard,Enough of a plus to let me walk you home?,"Достаточный плю�
 Howard,Truly a curse to be this clever.,Какое проклятие - быть таким умным.,ai,,003959214BA7A58EFC579B80890BB793
 Freja,No. Of course not.,"Нет. Конечно, нет.",ok,,6988EEE9436D46838EB83397A618C7B0
 Howard,Figured.,Так и думал.,ai,,CF3AA7E94C6591FC8BC835933C1EDA5B
-Howard,Aw. You got my hopes up.,Эх. Ты подарила мне надежду.,ai,,80D86CA94BBD881363E8DDAFC8C557BF
+Howard,Aw. You got my hopes up.,Эх. Ты меня обнадёжила.,ai,,80D86CA94BBD881363E8DDAFC8C557BF
 Howard,Ah. I see your point.,А. Понимаю.,ai,,FB101031473DB6129572B2BF4215AF47
 Freja,"If there were, I'd be there. As far as I know, there's nothing. Everyone's back to visit family, and stuff.","Если бы что-то было, я бы там была. Насколько я знаю, ничего нет. Все разъехались навестить семьи и всё такое.",ai,,2B7A2F0C412A3C055E0C34939CE62E09
 Howard,Family? Why?,Семьи? Зачем?,ai,,D83FFCBC41437AE9CD2F9B8B8D5F81A5
@@ -395,7 +395,7 @@ Howard,"Alright, sweet - so, do you want to go out?","Отлично, тогда
 Freja,"Howard, I got it. I was just smooth enough to move past it.","Говард, я поняла. Просто я была достаточно ловкой, чтобы это обойти.",ai,,2336060E49BC6923ADEEC7B2F24B79F4
 Howard,...Heh. Nut.,...Хе. Орешки.,ai,,4CD5ED7C438C1A76BC55AD895D8BB7A4
 Howard,...Fair enough.,...Справедливо.,ai,,91E9538C449D6C150B0E66925147F0EB
-Freja,"That might be your problem, right there. Not sure how much I can do to help you. Maybe the solution is just to, you know, get out there and fail until you don't?","Возможно, в этом и проблема. Не уверена, чем ещё могу помочь. Может, решение - просто выйти в люди и облажаться столько раз, пока не перестанет получаться облажаться?",ai,,FEC8F5D848DF700DDB8259AF436F5655
+Freja,"That might be your problem, right there. Not sure how much I can do to help you. Maybe the solution is just to, you know, get out there and fail until you don't?","Возможно, в этом и проблема. Не уверена, чем ещё могу помочь. Может, решение - просто выйти в люди и облажаться столько раз, пока не перестанешь облажаться?",ai,,FEC8F5D848DF700DDB8259AF436F5655
 Howard,"Only one way to find out, I guess.","Есть только один способ узнать, наверное.",ai,,EC55B5C945CE51A96E8B86B0D2EB148A
 Howard,That's the most terrifying thing I've ever heard.,"Это самое жуткое, что я когда-либо слышал.",ai,,F29F990A45A4BE739432EBB068004035
 Freja,"Maybe so, brother. Sorry I couldn't help you.","Может, и так, братан. Прости, что не смогла помочь.",ai,,FF0C843742DE187FA4AA07989DB4CEA1
@@ -608,10 +608,10 @@ Howard,...I thought I was doing pretty well.,"...А мне казалось, у 
 Freja,"I think that's enough flirting for today. Not much progress, but you know. It's not like you were a complete disaster.","По-моему, на сегодня хватит флирта. Прогресса мало, но, знаешь, полным провалом это не назовёшь.",ai,,6086AA75401732A781775EBB170FBF63
 Howard,Certainly felt like it.,Ощущалось именно так.,ai,,DCC16D3C4882AFA504465E9C1B312FD7
 Howard,What could I do better?,Что мне сделать лучше?,ai,,428E49CF47ED3A44ED2141A61A9D522C
-Freja,"Alright, that's enough flirting for today. Not bad, Howard. A little rusty, but you've got moves. I don't think you're gonna have much trouble getting around.","Так, на сегодня хватит флирта. Неплохо, Говард. Чуть заржавел, но приёмы у тебя есть. Думаю, проблем с общением у тебя не будет.",ai,,D468A92445E945BDF9605C9BB3F7F87E
+Freja,"Alright, that's enough flirting for today. Not bad, Howard. A little rusty, but you've got moves. I don't think you're gonna have much trouble getting around.","Так, на сегодня хватит флирта. Неплохо, Говард. Чуть заржавел, но приёмы у тебя есть. Думаю, ориентироваться тебе будет несложно.",ai,,D468A92445E945BDF9605C9BB3F7F87E
 Howard,"Eh, I had a good teacher.","Ну, у меня был хороший учитель.",ai,,AC371D66481D10A3B133F78ED46C368C
 Howard,Yeah? Nice. Can't wait to get laid.,Да? Класс. Не терпится кого-нибудь закадрить.,ai,,DD990DB743DE22AF711BB2A8D8464793
-Howard,"(SARCASTIC) Getting around? Yes, finally, I'll have the confidence to ask for directions.","(САРКАЗМ) Общением? Да, наконец-то у меня хватит уверенности спросить дорогу.",ai,,390A405145A3244B23E25C939B2CEEE6
+Howard,"(SARCASTIC) Getting around? Yes, finally, I'll have the confidence to ask for directions.","(САРКАЗМ) Ориентироваться? Да, наконец-то у меня хватит уверенности спросить дорогу.",ai,,390A405145A3244B23E25C939B2CEEE6
 Freja,"Anyway, I think that's enough flirting - especially since you don't even seem to need my help, man! You're smooth, Howie! You've got some moves!","В общем, хватит флирта, тем более что тебе моя помощь, похоже, вообще не нужна, чувак! Ты ловкий, Говчик! У тебя есть приёмы!",ai,,A972C4344D5A099FBBC52A94CC621860
 Howard,You think so?,Ты так думаешь?,ai,,6878E3874FEAC60E1410359488CDE3BE
 Howard,"Yeah, I'm a stone-cold master flirter and I know it.","Ага, я хладнокровный мастер флирта и сам это знаю.",ai,,A1839E6E4C58E28C5370A1A2C34F7922
@@ -712,7 +712,7 @@ Howard,Can you get away with a wink?,А мне можно подмигнуть?,
 Freja,"Hah! What, you're expecting to get to take more than one? What makes you think that?","Ха! Что, ты рассчитываешь на большее, чем одну? С чего ты взял?",ai,,247E2F22425482644EC1578C122C7EBE
 Howard,I'm a great photographer.,Я отличный фотограф.,ai,,391DFF3E475EE1C8768BDC90C0197568
 Howard,You're a great subject.,Ты отличная модель.,ai,,9973ED6F45DFB18510421D980528EB35
-Freja,"It's not just fun because you say it is, Howie! Besides, we're at a party, remember? Music is BLASTING. This is not the time or place to talk art!","Это не весело только потому, что ты так говоришь, Говчик! К тому же мы на вечеринке, помнишь? Музыка ГРЕМИТ. Не время и не место говорить об искусстве!",ai,,591C29DA4165F87B42F75193C5F49F97
+Freja,"It's not just fun because you say it is, Howie! Besides, we're at a party, remember? Music is BLASTING. This is not the time or place to talk art!","Веселее оно не становится только оттого, что ты так говоришь, Говчик! К тому же мы на вечеринке, помнишь? Музыка ГРЕМИТ. Не время и не место говорить об искусстве!",ai,,591C29DA4165F87B42F75193C5F49F97
 Howard,You're right. Let's keep going.,Ты права. Давай продолжим.,ai,,0C84C58D406A5EAD88A7B3936CCA7BCB
 Howard,Hrmpf. Agree to disagree.,Хм. Каждый останется при своём.,ai,,163AFA7340C34B45EF6E4C92F83D1BA5
 Howard,"(SARCASTIC)  The louder the music, the louder I have to be - and the louder I am, the more right I am about stuff.","(САРКАЗМ) Чем громче музыка, тем громче мне приходится быть, а чем громче я, тем больше я прав.",ai,,ABF733FD4B7FAD84DC0094921D0055CB

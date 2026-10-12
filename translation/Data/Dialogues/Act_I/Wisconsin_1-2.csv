@@ -27,7 +27,7 @@ Wisconsin,"Well howdy Howard! It's so nice to meet you! I'm Wisconsin, and I'll 
 Howard,"Right, well - see you around.","Ладно, увидимся.",ai,,288D74DB436866B55610A3B0A99F95A5
 Howard,Resident assistant?,Комендант?,ai,,C6B0BEE24E96B11E86FBDFBB2FFA7D12
 Howard,...Could you tell me where my room is?,"...Не подскажешь, где моя комната?",ai,,F3C99C8A461C0E99D83C028796AA5D50
-Wisconsin,"Oh dang, you're right. That thing looks like it's a real doozy. I'll, um, I'll need your name before I can tell you what room you're in, though!","О, черт, ты прав. Эта штука выглядит как настоящая головоломка. Но, эм, мне нужно твое имя, прежде чем я смогу сказать, в какой ты комнате!",ai,,0D8495AE423FADDFC496218FDDC4A2A0
+Wisconsin,"Oh dang, you're right. That thing looks like it's a real doozy. I'll, um, I'll need your name before I can tell you what room you're in, though!","О, черт, ты прав. Эта штука выглядит как настоящая махина. Но, эм, мне нужно твое имя, прежде чем я смогу сказать, в какой ты комнате!",ai,,0D8495AE423FADDFC496218FDDC4A2A0
 Howard,It's Howard. Howard Lotor.,Говард. Говард Лотор.,ai,,025CDD4D4FDE5B1854A4C7B4E72C4DC2
 Howard,I'm heavy-box-man.,Я - Человек-с-тяжёлой-коробкой.,ai,,4E73715F4D56D708FCDD3EA88878E69C
 Wisconsin,Ah-ah-ah! Not just yet!,А-а-а! Еще не время!,ai,,5C612D11461CF868DFBA47B7946E4A8B
@@ -120,7 +120,7 @@ Howard,Let me try again.,Дай мне еще попробовать.,ai,,20EE83
 Wisconsin,"No, no. No hard feelings. None at all. I'll, um, I'll see you around. Thanks for playing, Howard.","Нет, нет. Без обид. Совсем нет. Я, эм, увидимся. Спасибо за игру, Говард.",ai,,B291110B42781CC979EB68A0B93ED18F
 Howard,"See ya, Wisconsin.","Увидимся, Висконсин.",ai,,FA60A4EE4D377AFFB63F0CA6F9150CE0
 Howard,You got it.,Понял.,ai,,AD4613B04D10E5FE0FCA80906AFD4E14
-Wisconsin,"Alright! A riddle it is, then! Are you ready for it? ""If you give me a smile, I'll give you one back - but if you drop me and go, I'll instantly crack. What am I?""","Ладно! Тогда загадка! Готов? ""Если ты улыбнешься мне, я улыбнусь в ответ, но если ты уронишь меня и уйдешь, я мгновенно разобьюсь. Что я?""",ai,,F8A8CA794B7B2660CB9F10A5BB57C404
+Wisconsin,"Alright! A riddle it is, then! Are you ready for it? ""If you give me a smile, I'll give you one back - but if you drop me and go, I'll instantly crack. What am I?""","Ладно! Тогда загадка! Готов? ""Ты улыбнёшься - я улыбнусь, уронишь и уйдёшь - вмиг разобьюсь. Что я?""",ai,,F8A8CA794B7B2660CB9F10A5BB57C404
 Howard,Crack? Something fragile?,Разобьюсь? Что-то хрупкое?,ai,,94BF13E04E6DCCE34DE4CC8CAE596DAE
 Howard,"...Is it you, Wisconsin?","...Это ты, Висконсин?",ai,,E8067E2D4BE416DC6E1915A64C743D7A
 Howard,"If it can smile, it must be a person, right?","Если оно может улыбаться, это должен быть человек, да?",ai,,712C815046B0F90B88A9A4BCA6C2B9EF
@@ -203,7 +203,7 @@ Wisconsin,"Take your time! See you around, Howard!","Не спеши! Увиди
 Howard,[Leave],[Уйти],ok,,04B08E1E474E2DB7B83878963138143E
 Wisconsin,"Hi, Howard! Say, you sure you don't want to give the scavenger hunt another go?","Привет, Говард! Скажи, ты уверен, что не хочешь попробовать охоту за сокровищами еще раз?",ai,,2D46D91F4F35D12977677796FF8A7FBE
 Howard,Do people usually like the scavenger hunts?,Людям обычно нравятся такие охоты?,ai,,D5578B4E407F03395F098EAB295C2E33
-Howard,"I'm good, man. See you later.","Я в порядке, чувак. Увидимся позже.",ai,,DE08B36A424B1529379DE9A59DD5581A
+Howard,"I'm good, man. See you later.","Не, мне и так нормально, чувак. Увидимся позже.",ai,,DE08B36A424B1529379DE9A59DD5581A
 Wisconsin,"Howdy, Howard! How's the scavenger hunt going? Pretty fun, huh? Did you find both something blue and something new?","Привет, Говард! Как идет охота за сокровищами? Весело, да? Ты нашел что-то синее и что-то новое?",ai,,B232593F48873B4F5B3EE6AEE59C9A18
 Howard,I did.,Нашел.,ai,,2091D6EA466CDDDE55A3E8AD6C8C2832
 Howard,Still working on it. I'll be right back.,Еще работаю над этим. Скоро вернусь.,ai,,798297F249A6121D290DDCA2746E3535

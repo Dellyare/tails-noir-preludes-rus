@@ -371,7 +371,7 @@ Clarissa,"You think I'd want to stay by the car, after coming all this way?","П
 Clarissa,No. But I can't turn back now.,Нет. Но назад мне уже нельзя.,ai,,8BA82E8849A3B5E2513765A3CE8DB53D
 Clarissa,Yes. Let's go.,Да. Пойдём.,ai,,317416ED46F9FD92B6E6199AEDC3307F
 Uncle,"Just don't make any rash decisions, Clarissa. Don't pass judgement too quickly. For my sake.","Только не принимай поспешных решений, Кларисса. Не спеши с суждениями. Ради меня.",ai,,6D270FCE44C4CD485D3EAAA99A85DF7C
-Clarissa,You know I can't promise that.,"Ты знаешь, что я этого не обещаю.",ai,,564804D7427FB1F5C3D966B46CA687D4
+Clarissa,You know I can't promise that.,"Ты знаешь, что я не могу этого обещать.",ai,,564804D7427FB1F5C3D966B46CA687D4
 Clarissa,I promise. Now lead on.,Обещаю. А теперь веди.,ai,,7C46290F43DC7D789DC86D92BB390D10
 Uncle,"I don't like it - but I know that look in your eye. Arguing with you now is useless. Just don't...touch anything, alright?","Мне это не нравится, но я знаю этот твой взгляд. Спорить с тобой сейчас бесполезно. Только... ничего не трогай, ладно?",ai,,855D30524CC22F279D6F8E9DDBDE7EE2
 Clarissa,"We'll see. What happens, happens.","Посмотрим. Что будет, то будет.",ai,,3E6E79C1445E162A3AE998875B9BD695
@@ -392,7 +392,7 @@ Clarissa,Neither was having a daughter in the first place.,Дочь он воо�
 Clarissa,"It will be, once he sees what I can do for the family.","Станет, когда он увидит, что я могу сделать для семьи.",ai,,0BAE327344122A51DB06BAB68857C2A3
 Uncle,"...You know how he deals with things, Clarissa.","...Ты же знаешь, как он поступает, Кларисса.",ai,,F55A6D7D414FBA55393627BC02AA0425
 Clarissa,Leave him to me. I can handle it.,Предоставь его мне. Я справлюсь.,ai,,EC2CFFC24761B513AB6F4893173DF6D9
-Clarissa,You and me have been through worse. How bad could it be?,Мы с тобой переживали и худшее. Что может быть хуже?,ai,,B2D8CDCB4611CF4FBA722191E6449F36
+Clarissa,You and me have been through worse. How bad could it be?,Мы с тобой переживали и худшее. Насколько всё может быть плохо?,ai,,B2D8CDCB4611CF4FBA722191E6449F36
 Uncle,"I suppose we could. I still don't like it. If he finds out that we lied, well...","Наверное, переживали. Но мне всё равно это не по душе. Если он узнает, что мы солгали, то...",ai,,2EA6C7F846C7C29D77C46B95265322DC
 Clarissa,"Then we'll deal with it. He will, too.",Тогда разберёмся. Ему тоже придётся.,ai,,E93826DF47665B01BDBA8DA2E7E5F698
 Clarissa,He won't.,Не узнает.,ai,,71FDDFC3419140164503AFBCC746A153

@@ -246,7 +246,7 @@ Howard,That just makes it sting all the more.,От этого только об�
 Larry,"She would be, yeah. Freja's definitely one of the good ones.","Ну да, она такая. Фрея определённо из хороших.",ai,,00A292D8436165B9056906A451291389
 Howard,"At the very least, I got some practice in.","По крайней мере, я попрактиковался.",ai,,743F07684715A88305D99DBCD61D5700
 Howard,That just makes this sting all the more.,От этого только обиднее.,ai,,5FE4FA934CD835947DEA53ABCD233163
-Larry,"I mean, it's pretty clear you'd be lost without it. Just like how you lost the bet. Not to rub it in, or anything...","Ну, очевидно же, что без неё ты пропадёшь. Как пропал и твой спор. Не хочу сыпать соль на рану, но...",ai,,B1A015964FDC822C82DD2FB44D9E488E
+Larry,"I mean, it's pretty clear you'd be lost without it. Just like how you lost the bet. Not to rub it in, or anything...","Ну, очевидно же, что без неё ты пропадёшь. Прямо как проиграл спор. Не хочу сыпать соль на рану, но...",ai,,B1A015964FDC822C82DD2FB44D9E488E
 Howard,"Fine, go on. Say it.","Ладно, давай. Говори.",ai,,EB785C5D45C0E4E53B72B7A4028331E0
 Howard,Don't you dare say it.,Даже не смей это говорить.,ai,,C317A3CC4CFDD7D7233622AA8F02C510
 Larry,"Oh, wow. You're actually serious. Um, well...that's uh, flattering, I guess. But I'm just not into that. At all. I thought you knew as much.","Ого. Ты серьёзно. Э-э, ну... это, э-э, лестно, наверное. Но мне такое просто не интересно. Совсем. Я думал, ты знаешь.",ai,,9892DA4D42618060D67EBFB485EABB41
@@ -459,7 +459,7 @@ Howard,"""Well played"" is right. I am Howard, master flirt.","«Отлично 
 Howard,"I'll admit, it wasn't easy.","Признаю, это было непросто.",ai,,226DB18142B8D1DA6ECD9E902962AC8A
 Howard,"Again, I was a fucking flirt king back there. Just to making sure you got that.",Повторю: там я был чёртовым королём флирта. Просто чтобы ты точно это усвоил.,ai,,D7A617694A93EA76A5D09B82C66DFD5C
 Larry,"Take your foot off the confidence pedal there, dude. But sure, managing to charm Niles is a tall fucking order, man. Very well. I guess you're smoother than you look.","Сбавь обороты с уверенностью, чувак. Но да, очаровать Найлса - та ещё чёртова задачка. Ладно уж. Видимо, ты ловчее, чем кажешься.",ai,,2D4249BA4152D0759AD3288906766E34
-Howard,"Too right. I am Howard, master flirt.","Ещё бы. Я Говард, мастер флирта и человек-загадка.",ai,,589BDACC4C55792A447A89879AFF5087
+Howard,"Too right. I am Howard, master flirt.","Ещё бы. Я Говард, мастер флирта.",ai,,589BDACC4C55792A447A89879AFF5087
 Howard,"I'll admit, it wasn't easy.","Признаю, это было непросто.",ai,,9D6338F5402E4969D6736BA8B0F0CED3
 Howard,"Again, I was a fucking flirt king back there. Just to making sure you got that.",Повторю: там я был чёртовым королём флирта. Просто чтобы ты точно это усвоил.,ai,,51B83CC34C9BFC4404F190A5BE179515
 Larry,"That's pushing it, dude.","Это ты уже перегибаешь, чувак.",ai,,2C83A2E84103C0E9552A9F810760C840

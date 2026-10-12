@@ -5,7 +5,7 @@
 //   node tools/loc/review.mjs status
 //   --task <name>  separate progress and log per review pass (gender by default, e.g. style)
 //   --act <folder> (Act_I, Act_II, ...) to review one act with separate progress,
-//   --only-ok to review the human-reviewed rows instead of the machine-translated ones
+//   --only-ok to review the human-reviewed rows instead of the machine-translated ones, --all for both
 // fixes.txt: one fix per line "N|new translation" (N = row number shown in the chunk; \n as in the chunk)
 import fs from 'fs';
 import path from 'path';
@@ -20,7 +20,8 @@ const STATE_DIR = path.join(ROOT, 'workspace', opt('--task') || 'gender');
 const ACT = opt('--act');
 // --only-ok reviews just the human-reviewed rows (skipped by default), with its own progress
 const ONLY_OK = process.argv.includes('--only-ok');
-const PROGRESS = path.join(STATE_DIR, `progress${ACT ? '-' + ACT : ''}${ONLY_OK ? '-ok' : ''}.json`);
+const ALL = process.argv.includes('--all'); // machine-translated and reviewed rows together
+const PROGRESS = path.join(STATE_DIR, `progress${ACT ? '-' + ACT : ''}${ONLY_OK ? '-ok' : ''}${ALL ? '-all' : ''}.json`);
 const LOG = path.join(STATE_DIR, 'log.jsonl');
 const CHUNK = 60;
 
@@ -41,7 +42,7 @@ const walk = d => fs.readdirSync(d, { withFileTypes: true })
 const files = () => walk(ACT ? path.join(DIALOGUES, ACT) : DIALOGUES).sort();
 
 // rows worth checking: machine-translated, with Russian text long enough to carry gender
-const reviewable = r => (r.status === 'ok') === ONLY_OK && /[а-яё]{2}/i.test(r.translation) && r.translation.length > 3;
+const reviewable = r => (ALL || (r.status === 'ok') === ONLY_OK) && /[а-яё]{2}/i.test(r.translation) && r.translation.length > 3;
 
 const load = () => { try { return JSON.parse(fs.readFileSync(PROGRESS, 'utf8')); } catch { return { file: 0, row: 0 }; } };
 const save = s => { fs.mkdirSync(STATE_DIR, { recursive: true }); fs.writeFileSync(PROGRESS, JSON.stringify(s)); };

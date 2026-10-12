@@ -7,7 +7,7 @@ Notification,You concluded that the Artifact needed a high-security lab for cont
 Notification,You were successful in your initial experimenting.,Первые эксперименты прошли успешно.,ai,,7C9C511D42D196FD895D0BA75524FE94
 Jorge,You log that research yet?,Ты уже записал результаты?,ai,,3F6B3ECE4AB7541E2FCD19A0F236619A
 Eli,"You're a good man, Jorge.","Ты хороший мужик, Джордж.",ai,,2B3DD7C94BF5D0E967FF95A18088608C
-Eli,How are you feeling?,Как у вас дела?,ok,,C0E183BF4F81358DC6358B847EE5D56A
+Eli,How are you feeling?,Как ты себя чувствуешь?,ok,,C0E183BF4F81358DC6358B847EE5D56A
 Eli,Will you take care of the samples?,Позаботишься об образцах?,ai,,AD942BC949C96113F36457A0AE9877E2
 Eli,Not yet. I'll go now.,Ещё нет. Сейчас займусь.,ai,,0E75BEB74C6F679FC63FCBBC0138CE37
 Jorge,"A sample. A small one, but a sample still. Managed to cool it down a little bit. Wriggly little bastard.","Образец. Маленький, но всё-таки образец. Удалось его немного охладить. Вертлявый мелкий гадёныш.",ai,,01181C684DEB8034BCAD6DACB7BC6B47
@@ -121,7 +121,7 @@ Eli,None. It's much too soon to determine anything yet.,Никакого. Дел
 Jorge,"The outmost layer, yes. It just latched on to the rest. It didn't even begin to break down the rest of the piece I gave it - once I pulled it out, it was dry as before. Like someone had just...licked it.","Внешний слой - да. А к остальному просто прилипло. Оставшийся кусок, который я ему дал, оно даже не начало расщеплять: когда я его вытащил, он был сухой, как и раньше. Будто кто-то его просто... облизал.",ai,,79B5B4D04E983FE49D5E4CB4C6FD803E
 Eli,That...is certainly unsettling.,Это... определённо жутковато.,ai,,B1A907C5466785357E14FB9E8C5DEDE3
 Eli,What do you make of it?,Что ты об этом думаешь?,ai,,A608310A4CC9BAFCB160839138C9DCA5
-Jorge,You tell me.,Это уж вы мне скажите.,ok,,27E46AB74DA2E05656523D877D414CA1
+Jorge,You tell me.,Это уж ты мне скажи.,ok,,27E46AB74DA2E05656523D877D414CA1
 Eli,(IDEALIST) It's alive. Must be.,(ИДЕАЛИСТ) Оно живое. Должно быть.,ai,,B6936C534F3F117E5E23CFB189E4FE06
 Eli,"(REALIST) Well, nothing except what we know already. We need to try something else.","(РЕАЛИСТ) Ну, ничего сверх того, что мы уже знаем. Надо попробовать что-то другое.",ai,,5E9552FC45F26ADADABE3194B7C4A527
 Eli,(CYNIC) It feeds. It might be dangerous to handle.,(ЦИНИК) Оно питается. Обращаться с ним может быть опасно.,ai,,0E2383E94E9182A055E9199DE28B740A
@@ -160,7 +160,7 @@ Eli,Roger that.,Принято.,ai,,93459C11415E5515340D6FB33AC1FAB3
 Eli,"...What state did we need it in, again?","...Напомни, в какое состояние его надо было привести?",ai,,72AAD52049C2A604F1F5DD84681DB247
 Jorge,"I'm fine. It's just this heat, is all. Doesn't do much to aid your concentration.","Я в порядке. Просто жара, вот и всё. Сосредоточиться она не особо помогает.",ai,,B231E5544343A68FC5BCD2AB243B8ABD
 Eli,"I'll leave you to it, then.",Тогда не буду мешать.,ai,,D8961C9F44958BB36C4F4FA9EF6C3CDA
-Eli,"You don't suppose it affects us in any way? Pheromones, fumes, anything like that?","Думаешь, оно на нас как-то не влияет? Феромоны, испарения, что-нибудь такое?",ai,,3071B63F45262B36AC8E3886D4A46D81
+Eli,"You don't suppose it affects us in any way? Pheromones, fumes, anything like that?","Тебе не кажется, что оно как-то на нас влияет? Феромоны, испарения, что-нибудь такое?",ai,,3071B63F45262B36AC8E3886D4A46D81
 Jorge,"Yeah. We need to look into that, too. For now, let's focus on the samples. Better to know a little bit more about what we're dealing with before we start working with the entity in its entirety.","Да. Это тоже надо будет проверить. А пока сосредоточимся на образцах. Лучше побольше узнать, с чем мы имеем дело, прежде чем браться за всю сущность целиком.",ai,,76D05A834204D53927CAB5A0468207ED
 Eli,Good call. I'll get back to it.,Разумно. Вернусь к работе.,ai,,CC1FB5FA4FE331D8EA55AAA294FE632D
 Eli,"I wonder if it affects us in any way. Maybe it releases some type of gas, or pheromones.","Интересно, влияет ли оно на нас как-то. Может, выделяет какой-нибудь газ или феромоны.",ai,,9151B1024EE791D5C10EA5AFDA3BFD25
@@ -254,7 +254,7 @@ Eli,So what does it eat?,И что оно ест?,ai,,5B55AF6541401BE88A6E4B9F0C
 Eli,Are you saying this thing...can't die?,"Ты хочешь сказать, что эта штука... не может умереть?",ai,,B5DC519047CCAA821810598B8DAA856A
 Jorge,"I don't know. All I know is that the two of us are stuck out here in the desert along with a pod of creepy black goo that was locked away five meters underground in a bunker, and we just found out it's alive. And it eats things.","Не знаю. Я знаю только, что мы вдвоём застряли посреди пустыни с капсулой жуткой чёрной слизи, которую заперли в бункере в пяти метрах под землёй, и мы только что выяснили, что она живая. И что-то ест.",ai,,03B7E6524A1D0AEFB65BB2B61619C8BA
 Eli,You think it's dangerous?,"Думаешь, оно опасно?",ai,,586C7D4644F2755648C0F08F45BD96A9
-Eli,"Well, it was nice knowing you.","Что ж, приятно было познакомиться.",ai,,18035B17457DBFF56687C5A4250EC187
+Eli,"Well, it was nice knowing you.","Что ж, было приятно тебя знать.",ai,,18035B17457DBFF56687C5A4250EC187
 Eli,"Could you have phrased that any worse, Jorge?","Можно было сформулировать ещё хуже, Джордж?",ai,,4A7A37204AE21EC9E39778ABA7DEAA9C
 Eli,"Yes, we've established that.","Да, это мы уже выяснили.",ai,,39860D8741BFB449F74DC0886F90AA95
 Jorge,"I think we should take precautions, that's what I think.","Я думаю, что надо принять меры предосторожности, вот что я думаю.",ai,,6E353B22497193522C80DA8D12794EBC
@@ -372,7 +372,7 @@ Eli,Makes you wonder what else is under us.,"Невольно задумаешь
 Eli,Maybe we just got lucky.,"Может, нам просто повезло.",ai,,D503486A4DAE42F56E0F9584736D7909
 Jorge,"We need to make it wet, relaxed and solid. Any luck so far?","Нам нужно сделать его влажным, спокойным и твёрдым. Пока получается?",ai,,0509D4244C6163D50B0BB484C6A234B7
 Eli,Not yet. I'll get back to it.,Пока нет. Вернусь к работе.,ai,,12AFE28B45AA17E7DD9655998450DC5E
-Eli,How are you feeling?,Как у вас дела?,ok,,89DB3FDA44B01B23EBEB94936DCEAB6C
+Eli,How are you feeling?,Как ты себя чувствуешь?,ok,,89DB3FDA44B01B23EBEB94936DCEAB6C
 Eli,How are things on your end?,Как у тебя дела?,ai,,7F7A17CC4F394F6CA49A2FB7D88862C5
 Eli,I've got some questions on how to do this...,"У меня есть пара вопросов, как это сделать...",ai,,7A29251747507DC2EEDEF6BFDA73E83B
 Jorge,What do you think the boys in Science City are up to right now?,"Как думаешь, чем сейчас заняты ребята в Наукограде?",ai,,5B450FD347BF31964D88B5938A92E4CC
@@ -486,10 +486,10 @@ Eli,"What happened to ""Joshua""?",А что случилось с «Джошу�
 Eli,"Not entirely sure what I was expecting, to be honest.","Если честно, не уверен, чего я ожидал.",ai,,6F05D127464842CD26FE7AA1BD97E9B5
 Eli,"Glad to hear you use appropriate terminology. ""Goo."" Pssh.","Рад слышать, что ты пользуешься правильной терминологией. «Слизь». Пф.",ai,,58112F74425907DBD668A091841113CB
 Jorge,"You're the one pushing to get started with these tests, man. Take the damn thing.","Это ты рвёшься начать эти тесты, дружище. Бери уже эту чёртову штуку.",ai,,E77225C1415F1B69B97433B80395E126
-Eli,What is it?,Какое?,ok,,FA9908BC4F21A3042E0E84A077999977
+Eli,What is it?,Что это?,ok,,FA9908BC4F21A3042E0E84A077999977
 Eli,"...Fine. This ""thing"" being the Artifact?",...Ладно. «Штуку» - в смысле Артефакт?,ai,,7792B7BA4E8797AE3B9C2096A83D01C5
 Jorge,"Nuh-uh. Too late. You already agreed to get started on this today, so here. Take it. We're burning daylight here.","Ну уж нет. Поздно. Ты уже согласился начать сегодня, так что держи. Бери. Время не ждёт.",ai,,166FCD5C4CB14D6E643C6886C31B5412
-Eli,What is it?,Какое?,ok,,1E7C5A37430C00209EE502B9AE32AEAE
+Eli,What is it?,Что это?,ok,,1E7C5A37430C00209EE502B9AE32AEAE
 Eli,[Take it] This thing being the Artifact?,[Взять] Эту штуку - в смысле Артефакт?,ai,,0D1B3208408784E501C2D3BDBEEAE3D7
 Jorge,"You? Telling jokes? That'll be the day. Now come on, let's get started.","Ты? Шутишь? Не смеши меня. А теперь давай, начинаем.",ai,,0876041E4DB7A20BB5100D9E55CFBDD9
 Eli,Glad to see you so enthusiastic about my suggestion.,"Рад видеть, что ты так загорелся моим предложением.",ai,,8D6D8DF54A948EE91E61FDB66A237A40
@@ -695,7 +695,7 @@ Eli,[Leave],[Выйти],ok,,830B73A0476D45AB105813AAE89C4937
 Jorge,"Like I said, takes the edge off. Now go on, do your job. Me and Bobby have a corn snack to devour.","Как я и сказал, это снимает напряжение. А теперь давай, займись делом. А нам с Бобби надо слопать кукурузный снек.",ai,,FD33313C4FFED7513183E58A86A5E9AD
 Eli,[Leave],[Выйти],ok,,706C2DDE4936AFC0EB0750958907D63A
 Jorge,"What, now that you're starting to get the hang of it? I'm in the middle of some things here, and I need to finish what I started. I suggest you do the same.","Что, теперь, когда ты начал разбираться? У меня тут свои дела, и мне нужно закончить начатое. Советую тебе поступить так же.",ai,,0B2007AD442C9A0A38A9F3A93811B7EC
-Eli,Which is?,Какое?,ai,,0B7D070B4D37D050C3CBC3963650FAEC
+Eli,Which is?,И что же именно?,ai,,0B7D070B4D37D050C3CBC3963650FAEC
 Eli,Let me know how it goes. [Leave],"Дай знать, как пойдёт. [Уйти]",ai,,3815F68548C5B92BAE954BA5ADD067DE
 Eli,Why do I feel like I drew the short straw? [Leave],"Почему мне кажется, что мне досталась самая паршивая работа? [Уйти]",ai,,4B0D1B40428A633816981891D1C212EB
 Jorge,"Well, it... ""ate"" something. Or, not quite. I placed a corn puff next to it, and the sample began to spread over its surface. Seeped into whatever cracks there were in the surface, and then it just...stayed there.","Ну, он... «съел» что-то. Вернее, не совсем. Я положил рядом с ним кукурузную палочку, и образец начал растекаться по её поверхности. Просочился во все трещинки, а потом просто... остался там.",ai,,9AA3BAED41108EC22C82A8840CAEE7B0

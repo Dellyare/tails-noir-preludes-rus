@@ -84,7 +84,7 @@ Clarissa,"Times are changing. This is my world now, my family. I have no use for
 Clarissa,I need you as you are. You'd be wasted as an advisor.,"Ты нужен мне таким, какой есть. Советником ты пропадёшь зря.",ai,,24C7243544752216CB9667B7703A938F
 Clarissa,I want you to retire.,"Я хочу, чтобы ты ушёл на покой.",ai,,51314D1F4646CCB66292D6B90D78B07B
 Uncle Clemence,"I'm proud of it. But I'm getting old, Clarissa. I can't keep doing what I do now for the rest of my life. I've...slowed down.","Я им горжусь. Но я старею, Кларисса. Я не могу вечно заниматься тем, чем занимаюсь. Я... сбавил ход.",ai,,158147C0484D845BACFFB4AABF2F5912
-Clarissa,"You're hardly slow, uncle. I'd happily have you as my consigliere.","Какой же ты медлительный, дядя. Я бы с радостью видела тебя своим консильери.",ai,,E45F67F5450B6EC7446960B79C612459
+Clarissa,"You're hardly slow, uncle. I'd happily have you as my consigliere.","Ты вовсе не медлительный, дядя. Я бы с радостью видела тебя своим консильери.",ai,,E45F67F5450B6EC7446960B79C612459
 Clarissa,Then what makes you think you'd make a good consigliere?,"Тогда с чего ты взял, что из тебя выйдет хороший консильери?",ai,,AC556A984534F086339DF3BC1AF04B12
 Clarissa,You're right. You can't. But I don't think I could have you as my advisor.,Ты прав. Не можешь. Но и советником я тебя видеть не могу.,ai,,2B8120974259CD341554609BD0B1A1F1
 Uncle Clemence,"Yeah, I...saw. You hurt?","Да, я... видел. Ты ранена?",ai,,AD9DF74F411D31046E9585AA8DE0FCD4
@@ -226,7 +226,7 @@ Clarissa,...Thank you.,...Спасибо.,ai,,22A2B84D403E5023F769E5B2ABEA16E8
 Clarissa,[Say nothing],[Промолчать],ai,,B6EFECBE4B50253D37DA1FAD563DADC1
 Clarissa,Don't congratulate me.,Не поздравляй меня.,ai,,79743CD14FED37A1FFB535A9EA8306CF
 Uncle Clemence,"No. There's no need, really.","Нет. В этом нет нужды, правда.",ai,,CE19766A45702A94C62FBA8178FDB8E6
-Clarissa,Good. I'm glad you know what you want.,"Хорошо. Рад, что ты знаешь, чего хочешь.",ai,,E60FD2C7460DFA107550BFBF812FFF28
+Clarissa,Good. I'm glad you know what you want.,"Хорошо. Рада, что ты знаешь, чего хочешь.",ai,,E60FD2C7460DFA107550BFBF812FFF28
 Clarissa,"...This isn't really about age, is it?","...Дело ведь не в возрасте, да?",ai,,9110D5D74F2E4D9AFE9086B885AB4F2F
 Uncle Clemence,"...No. Things are changing - have changed, and I can't keep up. You'll change, too. In ways that will surprise us both, I'm sure.","...Нет. Всё меняется, уже изменилось, а я не поспеваю. Ты тоже изменишься, и так, что удивишь нас обоих, не сомневаюсь.",ai,,CB413D5E4A4CDEA666D43EBDE5BCD575
 Clarissa,"If you can't keep up, I'm glad you're stepping away on your own accord.","Если ты не поспеваешь, я рада, что ты уходишь по собственной воле.",ai,,DCB1848B4A4CA125A105D891892C6269
@@ -499,7 +499,7 @@ Clarissa,"Make it quick, then.",Тогда покороче.,ai,,7A4BB43D4CAF090
 Clarissa,Very well - what's on your mind?,Хорошо - что у тебя на уме?,ai,,697D33994326DF57CD81479C07158642
 Uncle Clemence,"Very well. There's another thing, if you don't mind. I've been thinking. About all of this. With Carlo gone, well - I find myself in a peculiar situation.","Хорошо. Есть ещё кое-что, если не возражаешь. Я думал. Обо всём этом. Без Карло я оказался в довольно странном положении.",ai,,EB557A5942479B03FD25A9BCCFE95071
 Clarissa,Go on.,Продолжай.,ai,,D659EA4941B9D7D624C06FBF69D4F4E9
-Clarissa,What's on your mind?,Что думаете?,ok,,048F16B3498CFA56C95432A91D3FAD55
+Clarissa,What's on your mind?,Что у тебя на уме?,ok,,048F16B3498CFA56C95432A91D3FAD55
 Clarissa,Can this wait? I'm not in the mood to talk much right now.,Это может подождать? Мне сейчас не до долгих разговоров.,ai,,F54E333A43977442ED2A209A473A3E1F
 Uncle Clemence,"Don't throw caution to the wind, Clarissa. You have to be smart about this.","Не пренебрегай осторожностью, Кларисса. Тут нужно действовать с умом.",ai,,3B53C4E2496CA971EFCD3D907CC9D776
 Clarissa,I said I can handle it. What's got you so anxious?,"Я сказала, что справлюсь. Что тебя так тревожит?",ai,,B96F19004F14B5C36CCD58BFE5F9A926
@@ -544,7 +544,7 @@ Clarissa,"It requires respect, and they'll give me theirs. What's got into you, 
 Clarissa,Fine - but I won't make polite conversation. They need to know who's in charge.,"Ладно, но вежливые беседы вести не буду. Они должны знать, кто здесь главный.",ai,,3E46BD6145B4FD2CF3409C9D9C644CA5
 Uncle Clemence,"...Well, I've been thinking. About all of this. With Carlo gone, well - I find myself in a peculiar situation.",...Я тут думал. Обо всём этом. Без Карло я оказался в довольно странном положении.,ai,,5350226940345F1ADB7CABB5344368FE
 Clarissa,Go on.,Продолжай.,ai,,48AFEB3149CE9A11B629A0BB2DE0CAEB
-Clarissa,What's on your mind?,Что думаете?,ok,,DE4568C546E9016F620FDFA0E090FABE
+Clarissa,What's on your mind?,Что у тебя на уме?,ok,,DE4568C546E9016F620FDFA0E090FABE
 Clarissa,Can this wait? I'm not in the mood to talk much right now.,Это может подождать? Мне сейчас не до долгих разговоров.,ai,,06B442F04105A62C448F9E93703A1968
 Uncle Clemence,...No. I'll...take care of him.,...Нет. Я... сам о нём позабочусь.,ai,,BFB7B50F443E6E0FD67628A09FBF8FBB
 Clarissa,"Thank you, uncle.","Спасибо, дядя.",ai,,CD18191B473E5637F78CF7A926F42289
@@ -671,6 +671,6 @@ Clarissa,You sound like you want to ask me something.,"Похоже, ты хоч
 Uncle Clemence,...I suppose I didn't expect it to go down like this.,"...Не думал, что всё обернётся так.",ai,,C390AAF849B836D449CF08ACB163EDB7
 Clarissa,"Neither did I. I wish it hadn't, but I can't wind back time. What exactly is on your mind, uncle?","Я тоже. Жаль, что так вышло, но время не отмотать. Что же у тебя на уме, дядя?",ai,,9BA6F01547AAB46020320896E4891B9F
 Clarissa,"Well, it did. Has that changed things for you, somehow?","Что ж, вышло. Для тебя это что-то изменило?",ai,,749215A0457332C329118B94B96A8D12
-Uncle Clemence,"Well, regardless, it sounds like that plan is abandoned now. You'll be the new head of the Bloodworth family instead.","Что ж, в любом случае, похоже, тот план отложен. Вместо этого ты станешь новой главой семьи Бладвортов.",ai,,9BD9D7CC4233F3F1CDA250A434263ECB
+Uncle Clemence,"Well, regardless, it sounds like that plan is abandoned now. You'll be the new head of the Bloodworth family instead.","Что ж, в любом случае, похоже, от того плана ты отказалась. Вместо этого ты станешь новой главой семьи Бладвортов.",ai,,9BD9D7CC4233F3F1CDA250A434263ECB
 Clarissa,And what do you want to do?,А чего хочешь ты?,ai,,AE2F0D474F86264B87B43196A4601410
 Clarissa,And you'll back me. Right?,И ты меня поддержишь. Правда?,ai,,781A80CC43C3E4DCC6AD31ADA3CB23D9

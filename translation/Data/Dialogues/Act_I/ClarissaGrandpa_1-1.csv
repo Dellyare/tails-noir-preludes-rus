@@ -228,7 +228,7 @@ Clarissa,[Whisper] I knew it.,[Шепчет] Я так и знала.,ok,,8D1BEA
 Clarence,"Do they, now? How big do they get?",Правда? Насколько большими они становятся?,ok,,D2F631DD4683E90E77541ABF60D2BFE3
 Clarissa,[Extend your arms],[Протягиваю руки],ok,,E4C840D04F96A37FF82EEE9EB3A4F6E9
 Clarence,You don't want to?,Ты не хочешь?,ok,,7CFCF9AB482DF815C6000BA65B1A4577
-Clarissa,"I don't know if I should be big or strong, though. Aren't they different?","Я не знаю, хочу ли я быть большой или сильной. Разве это не одно и то же?",ok,,8B53C496492406B1A5E0B7BAC2CCFCAC
+Clarissa,"I don't know if I should be big or strong, though. Aren't they different?","Я не знаю, хочу ли я быть большой или сильной. Разве они не разные?",ok,,8B53C496492406B1A5E0B7BAC2CCFCAC
 Clarissa,"As big as you? You're huge, Grandpa.","Такой же большой, как ты? Ты огромный, дедушка.",ok,,511CFDB54D3D775B62CE1982DD19673F
 Clarissa,"No, I do. I want to be very big.","Нет, хочу. Я хочу быть очень большой.",ok,,DD93DAC74DB5CFAF9D6D9F87EC244036
 Clarence,"Who knows? Maybe we'll find some more on the way back home. Oh, it's a beautiful day today, isn't it? It's days like this you have to cherish, make no mistake. If you don't, they'll pass you by in a flash and all you'll remember are rainclouds.","Кто знает? Может, мы найдём ещё по дороге домой. Ох, сегодня такой прекрасный день, не правда ли? Такие дни нужно ценить. Если не будешь, то они пролетят мгновенно, и ты запомнишь только дождевые тучи.",ok,,E3FAFDB14C847AA60814EB9A3C74659E
@@ -301,7 +301,7 @@ Clarence,"It does, doesn't it? It's nice to dream, sometimes. You can always ima
 Clarissa,And what if you can't?,А если не получится?,ok,,2F66A34F4AE97AF4D81A5DB6D6D19FA7
 Clarissa,"Okay. I'll try, Grandpa.","Хорошо. Я попробую, дедушка.",ok,,02EA42E94320D2EAEDA2A9ABB689C5F8
 Clarence,"That's fine, too. You don't have to dream about big things or magical worlds - all you have to to is be yourself. The rest is secondary.","Это тоже нормально. Тебе не нужно мечтать о больших вещах или волшебных мирах - всё, что тебе нужно, это быть собой. Всё остальное вторично.",ok,,C1B52CBD4B4A6C62223598AAB5E82E18
-Clarissa,Sometimes I'll dream about Grandma. Do you dream of her too?,Иногда я мечтаю о бабушке. Ты тоже мечтаешь о ней?,ok,,3A3499424A2C392B79A27CB1A9F8ED60
+Clarissa,Sometimes I'll dream about Grandma. Do you dream of her too?,Иногда мне снится бабушка. Тебе она тоже снится?,ok,,3A3499424A2C392B79A27CB1A9F8ED60
 Clarissa,"And be nice to people. That's important too. I'm good at it, too",И быть доброй к людям. Это тоже важно. Я в этом хороша.,ok,,1324D1E749E328A7790213B4B5E4B6F1
 Clarissa,That's easy. I'm good at being Clarissa.,Это легко. У меня хорошо получается быть Клариссой.,ok,,C941B7DD4EAD7F3B48E793B2A30F1358
 Clarence,Is that right? How come?,Правда? Почему?,ok,,906BA47747CF594D79F8CF946CF1E0CA
@@ -313,8 +313,8 @@ Clarissa,It's Clarissa also. No one likes school.,И Кларисса тоже. 
 Clarence,"Not sure, are you? That's fine, too. It's a beautiful day. And on a day like this, it's alright to just be.","Не уверена, да? Это тоже нормально. Сегодня прекрасный день. И в такой день нормально просто быть.",ok,,CF3CF23C456D47C2EF4DD5BE313CCB2E
 Clarissa,Just be what?,Просто быть чем?,ok,,04109F644F851E7028BF249F06BD4ACF
 Clarissa,Oh. I like that.,О. Мне это нравится.,ok,,3EDDE0DC4885220DAE5F5E87127E7301
-Clarence,"Then it was a wonderful dream to have had. Do you dream a lot, bella?","Тогда это была прекрасная мечта. Ты часто мечтаешь, белла?",ok,,8072014E49FD13CDA070639C1718E736
-Clarissa,Sometimes I dream about Grandma.,Иногда я представляю бабушку.,ok,,5A956A2A4AFC6E4C66EC179FDB5C2433
+Clarence,"Then it was a wonderful dream to have had. Do you dream a lot, bella?","Тогда это был чудесный сон. Тебе часто снятся сны, белла?",ok,,8072014E49FD13CDA070639C1718E736
+Clarissa,Sometimes I dream about Grandma.,Иногда мне снится бабушка.,ok,,5A956A2A4AFC6E4C66EC179FDB5C2433
 Clarissa,"Last night, I dreamt about a special world. A Clarissa world.",Прошлой ночью мне приснился особый мир. Мир Клариссы.,ok,,EAE3BA884C4146514B898F8AE696094C
 Clarissa,"No, I don't have time to dream. I'm very busy, grandpa.","Нет, у меня нет времени мечтать. Я очень занята, дедушка.",ok,,CC6E1CAE45632FEFEEE5FB80FF7BE8DA
 Clarence,"I have no doubts. You'll grow up to be a very special person, you know? I'm sure of it.","Я не сомневаюсь. Ты вырастешь в очень особенного зверя, знаешь? Я уверен в этом.",ok,,753211E449606B539BDE74A22EB64CD8
@@ -558,7 +558,7 @@ Clarissa,[Shrug],[Пожать плечами],ok,,299550AA4E338BC843AE14948598C
 Clarence,"Good, good. Be a decent friend, and decent people will befriend you. I guarantee it, Clarisssa.","Хорошо, хорошо. Будь хорошим другом, и хорошие звери будут дружить с тобой. Гарантирую, Кларисса.",ok,,278633A1475B50719CFFE09E45A81664
 Clarissa,[Nod],[Покивать],ok,,55E4A5C647EEEE332B4E46BD4A7CC3D7
 Clarissa,[Shrug],[Пожать плечами],ok,,621A92BE44D3C3A2B5406AA7D6DBDD97
-Clarence,"I'm not worried. I'm sure you all are thick as thieves. Isn't that right, bella?","Я не волнуюсь. Уверен, вы все дружны как воры. Не так ли, белла?",ok,,49E4606F4777B1AA94E8768716F4404D
+Clarence,"I'm not worried. I'm sure you all are thick as thieves. Isn't that right, bella?","Я не волнуюсь. Уверен, вы все друг за друга горой, не разлей вода. Не так ли, белла?",ok,,49E4606F4777B1AA94E8768716F4404D
 Clarissa,[Nod],[Покивать],ok,,3A417D9140B213B9AB7F50B316C6DD9D
 Clarissa,[Shrug],[Пожать плечами],ok,,3A286CCA4D76D3D7A6A390A91FF2CECA
 Clarence,"A poem, Clarissa. One I remembered, just now. I read it a long time ago, but it appears it has stuck with me.","Стихотворение, Кларисса. То, что я вспомнил, только что. Я прочитал его давным-давно, но, похоже, оно застряло у меня в памяти.",ok,,8096F92642138CA57CF7C6AE69F256A4
@@ -644,7 +644,7 @@ Clarissa,Okay.,Хорошо.,ok,,8E45BF014984695A43CAA39C43CEF757
 Clarissa,[Shrug one last time],[Пожать плечами в последний раз],ok,,8EEDBED948E0FEFB010A75883EDEBF91
 Clarence,"I think that's just it, Clarissa. A clever person knows that they don't know everything. The more you learn, the less you know.","Думаю, в этом и дело, Кларисса. Умный зверь знает, что он на самом деле не знает всего. Чем больше ты узнаёшь, тем меньше ты знаешь.",ok,,7F7D31F4456E942E10AEA6B9AAC51A9E
 Clarissa,"[Nodding thoughtfully] Ah, yes. I'll bear that in mind. ","[Кивает задумчиво] Ах, да. Я буду иметь это в виду. ",ok,,8996827A46DC0D8967D1639E1BB7ABF1
-Clarissa,"Oh. In that case, I'll try to never feel smart!","Ох. Тогда, я постараюсь не узнавать прям всего!",ok,,E3EC7A114E3BC7321B60F792CF7231F2
+Clarissa,"Oh. In that case, I'll try to never feel smart!",Ох. Тогда я постараюсь никогда не чувствовать себя умной!,ok,,E3EC7A114E3BC7321B60F792CF7231F2
 Clarissa,"[Tap your nose] I'll have to be careful not to know too much, then.","[Стукает себя по носу] Тогда мне нужно будет быть осторожной, чтобы не узнать слишком много.",ok,,739BB9F04D9DE5ED81F885BB480675D5
 Clarence,"Like me? Hah! Are you sure about that? It's a lot of work, being me. Wouldn't you prefer to just have fun?",Как я? Ха! Ты уверена? Это много работы - быть мной. Не предпочла бы ты просто веселиться?,ok,,C0DE36924C57989BFB1F0AB9593A07E7
 Clarissa,"No, I'm sure. I can do it.","Нет, я уверена. Я смогу.",ok,,9B5C14ED4765864FAFB3DBAA645C48D2
@@ -732,12 +732,12 @@ Clarissa,[Shrug],[Пожать плечами],ok,,B4178CEE408238E2A0AEE58CC3E11
 Clarence,To listen? Do you feel like people don't listen to you?,"Слушать? Ты чувствуешь, что звери тебя не слушают?",ok,,FA3C64724767CF5DE6EBFAB1D01A823D
 Clarissa,You do.,Ты слушаешь.,ok,,1E2CCC674FD706C9C4C99180183A19C0
 Clarissa,Some do. But not enough of them.,Некоторые слушают. Но не все.,ok,,9F15E3564576227F1A721F89585EDABB
-Clarissa,Dad doesn't. Not always.,"Папа, но не всегда.",ok,,12AFFE9C41DA1EC7D654E689087CD244
+Clarissa,Dad doesn't. Not always.,Папа не слушает. Не всегда.,ok,,12AFFE9C41DA1EC7D654E689087CD244
 Clarence,"Don't worry, bella. I won't tell him we talked about it. How does that sound?","Не переживай, белла. Я не скажу ему, что мы об этом говорили. Ладно?",ok,,A45EE9BD411215355FF6A8831646E4A2
 Clarissa,"That sounds okay. Thanks, Grandpa.","Ладно. Спасибо, дедушка.",ok,,332147AC46795F1FFB2B18BDC380952B
 Clarissa,"Good. Hey, Grandpa? I love you.","Хорошо. Эй, дедушка? Я люблю тебя.",ok,,B70BDE4842F42ED53319B0891E67F8E4
 Clarissa,[Shrug],[Пожать плечами],ok,,7554BAF24F64D2A87EDAD880C7A0456E
-Clarence,"Good! Good, good. Growing up can be tough. It's easy to lose track of that imagination along the way.","Хорошо! Хорошо, хорошо. Взрослеть может быть трудно. Легко потерять этот образ по пути.",ok,,B637607645860B75AE2DCCA0B55055B0
+Clarence,"Good! Good, good. Growing up can be tough. It's easy to lose track of that imagination along the way.","Хорошо! Хорошо, хорошо. Взрослеть может быть трудно. Легко растерять фантазию по пути.",ok,,B637607645860B75AE2DCCA0B55055B0
 Clarissa,"We'll be okay, Grandpa.","Мы справимся, дедушка.",ok,,D293732A4D13DDE04F7102984130CAC9
 Clarissa,"I'm Clarissa Bloodworth, and I'm not losing track of that!","Я Кларисса Бладворт, и я не забуду про это!",ok,,732BD7224021BD5FE7B1F68022799270
 Clarence,What happened?,Что случилось?,ok,,1DF232554D47E7286B8A979085AC6130
@@ -822,11 +822,11 @@ Clarence,"The geezers? Hah, of course! What about them?","Гуси? Ха, кон
 Clarissa,They waddle. They're funny.,Они ходят вразвалочку. Они смешные.,ok,,EEDE7B314861F8A777EE4A8193F7C763
 Clarissa,They're so many. What are they doing?,Их так много. Что они делают?,ok,,2FE76E9B47905F59FEE39A8CB7DCC3D1
 Clarissa,[Point at the geezers] They're over there. Look!,[Указать на гусей] Они вон там. Смотри!,ok,,9EE685AA4C69E83EDDA0349C236A43C7
-Clarence,"She'd always tell me when I was getting too big for my britches. And when things started going our way, she made sure I kept my feet on the ground.","Она всегда говорила мне, когда я зарывался слишком глубоко. И когда дела шли хорошо, она следила, чтобы я не терял связь с реальностью.",ok,,685E40A94BCF20596CA300BB7EDB8DB2
-Clarissa,How could it be hard to keep your feet on the ground?,Как это может быть сложно - не терять связь с реальностью?,ok,,02CDCFD844B730A38D6B8E9ECA8953FD
+Clarence,"She'd always tell me when I was getting too big for my britches. And when things started going our way, she made sure I kept my feet on the ground.","Она всегда говорила мне, когда я слишком зазнавался. И когда дела шли хорошо, она следила, чтобы я стоял на земле обеими ногами.",ok,,685E40A94BCF20596CA300BB7EDB8DB2
+Clarissa,How could it be hard to keep your feet on the ground?,Как это может быть сложно - стоять на земле обеими ногами?,ok,,02CDCFD844B730A38D6B8E9ECA8953FD
 Clarissa,"That's okay, Grandpa. I can help you with that now.","Всё в порядке, дедушка. Теперь я могу тебе помочь.",ok,,F3EF456248D9E1E86F2581ABB74A3285
 Clarissa,Can anyone learn how to do that?,Кто-нибудь может научиться этому?,ok,,BD684B8546AA2E98260B45A9FF740CCF
-Clarence,"I should have known! You'd chase them up and down the street, until one of the store owners caught you. ""What do you think you're doing, running around outside my store,"" he said.","Я должен был догадаться! Ты гонялась за ними вверх и вниз по улице, пока один из продавцов не поймал тебя. ""Чем ты думала, бегая возле моего магазина,"" - сказал он.",ok,,1161B10A4DC89026F8FBBFA21C5E30DB
+Clarence,"I should have known! You'd chase them up and down the street, until one of the store owners caught you. ""What do you think you're doing, running around outside my store,"" he said.","Я должен был догадаться! Ты гонялась за ними вверх и вниз по улице, пока один из продавцов не поймал тебя. ""Что ты, по-твоему, делаешь, бегая возле моего магазина,"" - сказал он.",ok,,1161B10A4DC89026F8FBBFA21C5E30DB
 Clarissa,I remember! He was scary.,Я помню! Он был страшный.,ok,,CAA314F04CB240AB77550AA1FB34A8C7
 Clarissa,I remember! He was funny.,Я помню! Он был смешной.,ok,,0BDEAA0749F92952C1651694A5AB5448
 Clarissa,He grabbed me! Why would he do that?,Он схватил меня! Зачем он это сделал?,ok,,BD48BE1649A062C982FA26A12418133F

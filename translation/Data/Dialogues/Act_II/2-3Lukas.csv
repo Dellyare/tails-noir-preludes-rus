@@ -62,7 +62,7 @@ Renee,"I know. Come on, let's clear the table.",Знаю. Давай уберё�
 Renee,I worry about us.,Я волнуюсь за нас.,ai,,0552C9294925901D12D5E4A283D503CD
 Renee,And I don't get why you're so defensive.,"А я не понимаю, почему ты так ощетиниваешься.",ai,,6D49FE5A41C61151BE09E1A35A995074
 Lukas,...You did? And what did you find?,...Правда? И что ты нашла?,ai,,772770CE48696FCC7ECC4E96D1008BC1
-Renee,Fires like this usually only occur in West End and the Village.,Такие пожары обычно случаются только в Уэст-Энде и Виллидже.,ai,,5310F3C44953A0590B14D1B3FBE208F0
+Renee,Fires like this usually only occur in West End and the Village.,Такие пожары обычно случаются только в Уэст-Энде и в Деревне.,ai,,5310F3C44953A0590B14D1B3FBE208F0
 Renee,"They never affect...well, certain Kinds.","Они никогда не затрагивают... ну, определённые Виды.",ai,,345582A147E378583D5DD990DDA9226B
 Renee,Every report on these incidents has one thing in common: neglect.,У всех отчётов об этих происшествиях есть кое-что общее: пренебрежение.,ai,,6C687A38402D6696DD227D8C1E60ACF1
 Lukas,"The buildings there are older, aren't they? A little rougher around the edges - seems reasonable that they'd be more of a fire hazard. ","Там ведь здания постарше, да? Немного обшарпанные: логично, что пожароопасность у них выше. ",ai,,050246FF4D6ADFBA2FC2A3B3AF16CFE5
@@ -70,10 +70,10 @@ Renee,Then why aren't there more fire stations in those areas?,Тогда поч
 Renee,"Fires start everywhere, Lukas. But people only seem to die in the poor districts.","Пожары случаются везде, Лукас. Но гибнут люди, похоже, только в бедных районах.",ai,,05CBFBA741A665F6B0C398A34E019776
 Lukas,"Neglect? Renee, this again?","Пренебрежение? Рене, опять ты за своё?",ai,,D61FD5964B681DC7B457C58C631BC5D8
 Renee,"Fire hazards deemed ""not a threat"", literally days before erupting into flames.","Пожароопасные объекты, признанные «не представляющими угрозы», буквально за несколько дней до того, как они вспыхнули.",ai,,C44B35B94175121580C2D3A819861A24
-Renee,The officers always leave too early or arrive too soon.,Офицеры всегда то уходят слишком рано, то приезжают раньше времени.,ai,,B93409134A99480A66A5CAB94858100B
+Renee,The officers always leave too early or arrive too soon.,"Офицеры всегда то уходят слишком рано, то приезжают слишком рано."," то приезжают раньше времени.",ai,
 Renee,You know how many footnote disclaimers I've seen to police reports in the past few days?,"Знаешь, сколько оговорок в сносках к полицейским отчётам я видела за последние несколько дней?",ai,,A4A7A54246DA26211EF44DBAA6F5C03F
 Lukas,"I'm sure fires don't care about what Kind you are, Renee.","Уверен, огню всё равно, какого ты Вида, Рене.",ai,,F644BF85473E4226D27DB2B71C1BEB3C
-Renee,"The Apes do, though. That's why they're rulers, right?","А вот Обезьянам - нет. Потому-то они и правят, верно?",ai,,9D9858F8412141985EE570A12F77D27A
+Renee,"The Apes do, though. That's why they're rulers, right?","А вот Обезьянам не всё равно. Потому-то они и правят, верно?",ai,,9D9858F8412141985EE570A12F77D27A
 Renee,"They certainly seem to avoid Gastown, though?","Но Газтаун они почему-то обходят стороной, разве нет?",ai,,A94FA5684DE99DB733D95887A1585A7A
 Lukas,"Probably a money issue? I don't know. One or two per district should be fine. That way, everything's covered.","Наверное, дело в деньгах? Не знаю. Одной-двух на район должно хватать. Так всё будет прикрыто.",ai,,FA7C6F8147EF12EFCD5C5F8129E87BA2
 Renee,"Lukas, it's clearly not covered. That's the point.","Лукас, очевидно же, что не всё прикрыто. В этом-то и дело.",ai,,9B6D58A6413B40958277E0BAA74C834B
@@ -248,7 +248,7 @@ Renee,[Nod],[Кивнуть],ai,,B9022C30408C471D83548DAC9BEDBE89
 Renee,"Alright, then.",Ну ладно.,ai,,8F01E9AE484DE62A8DEEA6AB515C6B67
 Renee,Okay. Love you too.,Хорошо. Я тебя тоже люблю.,ai,,F4992602468E984607E88CAFF180236F
 Lukas,"I'd like for it not to come to that. If I get a say in it. Anyway, let me finish up here. You've had a long day, you go rest. Love you.","Мне бы не хотелось, чтобы до этого дошло. Если от меня что-то зависит. В общем, дай я тут закончу. У тебя был долгий день, иди отдыхай. Люблю тебя.",ai,,AEB36671410784D37FAC6F97EE21EEDF
-Renee,Do you need any help?,Вам чем-нибудь помочь?,ok,,B83BA63D47F2BF26B8F27DAB17D4A743
+Renee,Do you need any help?,Тебе чем-нибудь помочь?,ok,,B83BA63D47F2BF26B8F27DAB17D4A743
 Renee,Love you too.,Я тебя тоже люблю.,ai,,288B59E647FF6667AE00AC962A16E1B0
 Lukas,Alright. Off you go.,Хорошо. Иди.,ai,,B45A12EF41E9A8666ADCD1BEB5A8D881
 Renee,[Leave him be],[Оставить его в покое],ai,,740F3A8742DEED32BA5F6AA3651F1601
@@ -258,7 +258,7 @@ Renee,How about us? Are we okay?,А как насчёт нас? У нас всё
 Renee,So am I.,Я тоже.,ai,,D8EDD38540B4AC30450DBBAEE67AD491
 Lukas,"...I'll clear the table. Thanks for dinner, babe. I love you.","...Я уберу со стола. Спасибо за ужин, дорогая. Люблю тебя.",ai,,B769D0214F3773385A595EA3E8A045D3
 Renee,Alright.,Хорошо.,ok,,8C825B024C12F0E87B3C26BD7B89E08F
-Renee,Do you need any help?,Вам чем-нибудь помочь?,ok,,18A7298F46DA25F8442C438616ED434B
+Renee,Do you need any help?,Тебе чем-нибудь помочь?,ok,,18A7298F46DA25F8442C438616ED434B
 Renee,Love you too.,Я тебя тоже люблю.,ai,,B76CE97B44C604D29288D0BCF7420C85
 Lukas,...Renee? I said I love you.,"...Рене? Я сказал, что люблю тебя.",ai,,C60A958D431F826C5ECB058F445E38A9
 Renee,I love you too.,Я тебя тоже люблю.,ai,,C1DAD83F48532FDAAAB4B88DB07561BA
@@ -282,15 +282,15 @@ Renee,It's closer to you.,Она ближе к тебе.,ai,,6910A7C740D0A1153A8
 Renee,"...The reports, the fire. I can't get it out of my head.","...Отчёты, пожар. Это не выходит у меня из головы.",ai,,2344546349C7E168384C8BB8B002B327
 Lukas,"I see. I suppose that makes sense. Listen, you've had a long day - go lay down. Rest. I'll clear the table. Love you.","Понимаю. Наверное, это естественно. Слушай, у тебя был долгий день, иди приляг. Отдохни. Я уберу со стола. Люблю тебя.",ai,,8CBDE4204213F66260506DB204861521
 Renee,Alright.,Хорошо.,ok,,F8B1DF0B4221639F900F7E8B5D731C7F
-Renee,Do you need any help?,Вам чем-нибудь помочь?,ok,,F031DCD54C13C3A273092F99856BC3D8
+Renee,Do you need any help?,Тебе чем-нибудь помочь?,ok,,F031DCD54C13C3A273092F99856BC3D8
 Renee,Love you too.,Я тебя тоже люблю.,ai,,6C73CD044C06761DDEFBF1A62428207D
 Lukas,"Yeah, I know. I guess that's what worries me. Here, let me clear the table. You've had a long day. Go rest, okay? I love you.","Да, знаю. Наверное, именно это меня и тревожит. Давай я уберу со стола. У тебя был долгий день. Иди отдохни, хорошо? Я тебя люблю.",ai,,32EDB8134EA3248199C92ABBED1DC92F
 Renee,Alright.,Хорошо.,ok,,0C777C194CC372DE465F428E30F360FB
-Renee,Do you need any help?,Вам чем-нибудь помочь?,ok,,0EE1AECE40A0713F834692A35AF40817
+Renee,Do you need any help?,Тебе чем-нибудь помочь?,ok,,0EE1AECE40A0713F834692A35AF40817
 Renee,Love you too.,Я тебя тоже люблю.,ai,,9B7AF9EC476D0603B2E8238DBB230F21
 Lukas,"I guess I just have a harder time doing it than you. Here, let me clear the table - you've had a long day. Go rest, okay? I love you.","Наверное, мне просто труднее, чем тебе. Давай я уберу со стола. У тебя был долгий день. Иди отдохни, хорошо? Я тебя люблю.",ai,,56D9CD51483ECA9CBB90C1AF540B0B1F
 Renee,Alright.,Хорошо.,ok,,085A30CF416CAFAE421D6BB22A516F46
-Renee,Do you need any help?,Вам чем-нибудь помочь?,ok,,247FE7B3495338591A8275B8C4B2159C
+Renee,Do you need any help?,Тебе чем-нибудь помочь?,ok,,247FE7B3495338591A8275B8C4B2159C
 Renee,Love you too.,Я тебя тоже люблю.,ai,,899EBAEE4BFA865E49EFDDA1C30B2B9F
 Lukas,...Renee?,...Рене?,ai,,145FED9C4C64D83B9266FD9070F55F99
 Renee,What?,Что?,ok,,702587F24FACE6BCEE5494B8D59B26DB
@@ -329,7 +329,7 @@ Renee,It destroyed Stone. Destroyed all those people.,Оно разрушило 
 Renee,"You can't ignore the pain away, Lukas. That'll only make it worse.","Нельзя заглушить боль, делая вид, что её нет, Лукас. Будет только хуже.",ai,,59F898A34FB26404ED26B696E3E6DF4A
 Renee,So what should I do?,И что же мне делать?,ai,,223F42F04FF16938E157D3A8FEF4DC74
 Lukas,"I... I guess so. Alright. I'm not going to push it. Here, let me clear the table. You go rest, okay? You've had a long day. I love you.","Я... наверное, да. Ладно. Давить на тебя не буду. Давай я уберу со стола. А ты иди отдохни, хорошо? У тебя был долгий день. Я тебя люблю.",ai,,2488D2E34E724AF85785EA948778DABC
-Renee,Do you need any help?,Вам чем-нибудь помочь?,ok,,68E2E3B14195174219E416A87950FA30
+Renee,Do you need any help?,Тебе чем-нибудь помочь?,ok,,68E2E3B14195174219E416A87950FA30
 Renee,Alright. If you say so.,Ладно. Если ты так говоришь.,ai,,0BFE23CB4D1481C38F297DBF68A833A9
 Renee,Alright. Love you too.,Хорошо. Я тебя тоже люблю.,ai,,E04F6BF6495B4B323E7E83B7A8954704
 Lukas,"You don't know what it's like, Renee. You're looking at this from the outside.","Ты не знаешь, каково это, Рене. Ты смотришь на всё со стороны.",ai,,7A86E89B40EE6014F9F00681E37A4CCB
@@ -579,7 +579,7 @@ Renee,"You do that, honey. I still have work to wrap up.","Давай, доро�
 Renee,"I could do that, sure.","Конечно, это можно.",ai,,C455986B4AB08431CCE60EBD84F6FB54
 Lukas,"I said, and I quote: ""My wife is pretty busy on Thursday evenings, on account of her deadlines.""","Я сказал, и цитирую: «Моя жена по вечерам в четверг очень занята из-за своих дедлайнов».",ai,,ED38E122418CABEF69533FB85AF33043
 Renee,To which he replied?,И что он ответил?,ai,,CBD60CC74F529BBA3EC5C885BC0FB243
-Renee,"You're right, she is.","«Вы правы, так и есть».",ai,,4E725E1E48E924CB3B0FD2A014ED9CB7
+Renee,"You're right, she is.","Ты прав, так и есть.",ai,,4E725E1E48E924CB3B0FD2A014ED9CB7
 Renee,"To be fair, any activity is reason enough to avoid Langley.","Честно говоря, любое занятие - достаточная причина, чтобы избегать Лэнгли.",ai,,BACAEEA34CDCE6C105F02D8A871BACBB
 Lukas,"Yeah, he's - he's not the sharpest tool in the shed, no.","Да, он не самый острый инструмент в ящике, это точно.",ai,,8F94C7624AF0F94743732285410E48D8
 Renee,"Needless to say, we're staying home on Thursday, right?","Само собой, в четверг мы сидим дома, да?",ai,,26788F99420167888598EE939E5C6E22
@@ -645,7 +645,7 @@ Renee,"(LOGICAL) Honestly, that'd be more impressive than anything.","(ЛОГИ�
 Renee,(DRIVEN) You could teach yourself how to cook. That's what I had to do.,(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Ты мог бы сам научиться готовить. Мне пришлось.,ai,,37FE8DA14310FB79B64A84AB6536C8CD
 Lukas,"If you want to take a chance on the slowest pupil in the City, then sure. Just tell me when class is in session.","Если готова рискнуть с самым бестолковым учеником в Городе, пожалуйста. Только скажи, когда начнутся занятия.",ai,,F8A200F4423B824E507CD99A4B36F6F0
 Renee,"Sure, but you better pay attention. Or else.","Конечно, но ты уж слушай внимательно. А то хуже будет.",ai,,A60CA8C64E44656D7E81AE9A8AAFE0F2
-Renee,"As long as you call me Miss, you'll be fine.","Пока ты зовёшь меня «мисс», всё будет хорошо.",ai,,99982C2D4397F67FEAD98F9299DCA2EC
+Renee,"As long as you call me Miss, you'll be fine.","Пока ты зовёшь меня «мэм», всё будет хорошо.",ai,,99982C2D4397F67FEAD98F9299DCA2EC
 Lukas,"Maybe not in the way you'd like them to. I'm sorry, Renee, but I think you're grasping at straws.","Может, и не так, как тебе хотелось бы. Прости, Рене, но мне кажется, ты хватаешься за соломинку.",ai,,FAF8FF74445E83ED2BCC08B8332D08AB
 Renee,At least I'm trying to change things. What are you doing?,Я хотя бы пытаюсь что-то изменить. А ты что делаешь?,ai,,D95F3DED40806BF2290FB3A97FA20A3B
 Renee,You don't see anything strange about it?,Тебе не кажется это странным?,ai,,4398F2F74FCE943E103AB4AFFA7096C2
@@ -719,7 +719,7 @@ Renee,You sure you want to talk about it?,"Ты уверен, что хочеш�
 Lukas,"You'd like that, I bet.","Тебе бы это понравилось, готова поспорить.",ai,,9E231690454284CC4A832DA684E01591
 Renee,"Point is that you need to start pitching in more. Got it, buster?","Короче, тебе нужно больше помогать. Понял, приятель?",ai,,3AD234F54985C68E5C74279196E6F5F1
 Renee,Not as much as you would.,"Не так сильно, как тебе.",ai,,97FB4A6544510C8EA2B51EBBD823883C
-Renee,"""I bet, Miss.""","«Не сомневаюсь, мисс».",ai,,778B6A534FDBEABBA90405B6E5641B5B
+Renee,"""I bet, Miss.""","«Не сомневаюсь, мэм».",ai,,778B6A534FDBEABBA90405B6E5641B5B
 Lukas,You being serious?,Ты серьёзно?,ai,,BBCC34724C1261FE3CE5BDB444A5169A
 Renee,Guess you'll find out.,Сам узнаешь.,ai,,EB573DE14FB542C3FCEC6F98F53AD87F
 Renee,Yes.,Да.,ok,,C358041943EEE1811FAA4C84EA031905

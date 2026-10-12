@@ -174,7 +174,7 @@ Howard,I noticed you have a mask...,"Я заметил, у тебя маска..
 Howard,What's your take on this neighbourhood?,Что скажешь об этом районе?,ai,,73F8C97543B99C28532B0DB4391076F9
 Howard,What's it like being a mechanic?,Каково это - быть механиком?,ai,,91CFA49A4D7DAD52552C58B2037AC687
 Howard,You live around here?,Ты живёшь где-то здесь?,ai,,498F34874E093DF7FC5E369C650E726B
-Lincoln,"You trying to be funny, kid? I can't even afford to buy lunch around here! Nah, I'm in a sixth floor walkup just off Granville. At least it's three bedrooms, though.","Шутишь, парень? Я тут даже на обед не наскребу! Не, у меня шестиэтажка без лифта недалеко от Гренвилля. Зато три спальни.",ai,,18FF777740B13631C74944A0A624BC5F
+Lincoln,"You trying to be funny, kid? I can't even afford to buy lunch around here! Nah, I'm in a sixth floor walkup just off Granville. At least it's three bedrooms, though.","Шутишь, парень? Я тут даже на обед не наскребу! Не, у меня квартира на шестом этаже без лифта недалеко от Гренвилля. Зато три спальни.",ai,,18FF777740B13631C74944A0A624BC5F
 Howard,Sounds nice.,Звучит неплохо.,ai,,D459958542197A34EA3E74B5F6D9F0F1
 Howard,Six floors?,Шесть этажей?,ai,,28566C6646F012C5452A448DF6CE52A5
 Lincoln,"It would be if there were only two of us. Unfortunately it's me,  my wife, her parents, and our two youngest.","Было бы неплохо, если б нас было двое. А так нас я, жена, её родители и двое младших.",ai,,ED3175E64059286B145934BAF113D838
@@ -223,7 +223,7 @@ Howard,One of the hands is missing. Any idea what might have happened?,"Одно
 Lincoln,"I know, kid. Just please do this, and you can take your picture.","Знаю, парень. Просто сделай это, и фоткай на здоровье.",ai,,B25CB77C4000E00825B8CA97D7FF3D59
 Howard,"Sure, but I wanted to talk to you about something else first.","Конечно, но сначала я хотел поговорить с тобой о другом.",ai,,EA91A82F48A622930AD6588A6A961A0C
 Howard,Fine.,Хорошо.,ok,,1F950C5A4F14269272AEFBA937633CDA
-Lincoln,Is that all?,У вас все?,ok,,B4A4D71E49467C63D1CE22951F02FD44
+Lincoln,Is that all?,У тебя всё?,ok,,B4A4D71E49467C63D1CE22951F02FD44
 Howard,I want to ask you about something else.,Хочу спросить тебя о другом.,ai,,6F23EACF4CD396F26EF658B2AEE85B0C
 Howard,"Yeah, I'm outta here. See ya.","Да, я пошёл. Бывай.",ai,,E9E2AC9D42F255FB4D7CCA93CAD8568F
 Howard,"No, I wanna know more about the clock.","Нет, я хочу побольше узнать про часы.",ai,,FF907A9E4F83102914EBA99EFFD8E54E
