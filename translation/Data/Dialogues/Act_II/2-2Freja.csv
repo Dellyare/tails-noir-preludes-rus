@@ -80,13 +80,13 @@ Freja,"Can we, man? I don't feel like it. Even if we got one of our Kind into so
 Howard,"One day, Freja. One day, it's going to matter.","Однажды, Фрея. Однажды это будет иметь значение.",ai,,53EA361C4CE9878221D3F0BC7AA55C7D
 Howard,"I see your point. Come on, let's get back on topic.","Понимаю, о чём ты. Ладно, вернёмся к теме.",ai,,8B62B9E54F28CB5C6CACFC8BF55379A9
 Freja,Alright - time to seal the deal. The party is slowing down and neither one of us have plans. What do you do?,"Так, пора закрывать сделку. Вечеринка затихает, и планов ни у кого из нас нет. Что будешь делать?",ai,,937A71E446DCB8D8C489A187E9AE913C
-Howard,I'm starving - you want to get some salted nuts?,Умираю с голоду - хочешь солёных орешков?,ai,,DB35DD894775730E25BB4987ED1FE837
+Howard,I'm starving - you want to get some salted nuts?,Умираю с голоду - хочешь сосисок?,ai,,DB35DD894775730E25BB4987ED1FE837
 Howard,Do you live nearby? Want me to walk you home?,Ты живёшь рядом? Проводить тебя до дома?,ai,,89291F1D4A8CBA21A02B0BB317021CCD
 Howard,You wanna come back to my place? To bang?,Хочешь ко мне? Потрахаться?,ai,,5972944A443954BBECF8CC95DA7A1FAE
-Freja,"Food? After a long night of partying? Fuck. Yes. We nutting it up. It's chill, its relaxing, and it's public. This is the move, my man.","Еда? После долгой ночи тусовки? Бля. Да. Идём за орешками. Спокойно, расслабленно и на людях. Вот это ход, дружище.",ai,,A72FB0E64EBFA33B03E964976D332289
+Freja,"Food? After a long night of partying? Fuck. Yes. We nutting it up. It's chill, its relaxing, and it's public. This is the move, my man.","Еда? После долгой ночи тусовки? Бля. Да. Идём на сосиски. Спокойно, расслабленно и на людях. Вот это ход, дружище.",ai,,A72FB0E64EBFA33B03E964976D332289
 Howard,Really? That's all I say?,"Серьёзно? Это всё, что я говорю?",ai,,03C5C98D46E42B6DCBFD3386FCFA39D4
-Howard,Heh. Nutting.,Хе. Орешки.,ai,,E31D69224DE932F63C56F9AA31D5D58F
-Howard,"So, uh - you wanna get some nuts right now?","Так, э-э... хочешь пойти поесть орешков прямо сейчас?",ai,,FE54614C44366A6AAE00049C993D700F
+Howard,Heh. Nutting.,Хе. Сосиски.,ai,,E31D69224DE932F63C56F9AA31D5D58F
+Howard,"So, uh - you wanna get some nuts right now?","Так, э-э... хочешь пойти поесть сосисок прямо сейчас?",ai,,FE54614C44366A6AAE00049C993D700F
 Freja,"Come on, man! Let me hear what else you guys got in there!","Ну давай, чувак! Дайте послушать, что у вас там ещё есть!",ai,,69DD9D7B4294A8582C0825B03366951E
 Howard,On it!,Уже бегу!,ai,,B4FCA7B7483B2F58FA2CFE90FE55AFB4
 Freja,"Okay, that's a tough one because it could go either way. You could be a creep, or just really sweet. You've got to make a statement on which.","Так, это сложный вариант: может пойти как угодно. Ты можешь показаться маньяком, а можешь - просто очень милым. Надо дать понять, кто из двух.",ai,,D76910F84E9C4C09CF34728CD323D99A
@@ -97,8 +97,8 @@ Freja,"...Okay, being direct is one thing. Straight out asking someone to bang i
 Howard,I mean - you want to come to my place and consider...banging?,В смысле... хочешь прийти ко мне и рассмотреть вариант... потрахаться?,ai,,9B513BAF42070A21DC69509AEEA5F938
 Howard,"I don't know what to do, Freja. I'm either too direct or not direct enough.","Не знаю, что делать, Фрея. То я слишком прямой, то недостаточно.",ai,,C0FDFCA4459CE6476FB18C8CDCAAD7AA
 Howard,"What if they're into it? Doesn't hurt to ask, right?","А вдруг человек не против? Спросить-то не грех, да?",ai,,354FC82B4E40BC372527B7AFC9B64FDE
-Freja,"Doesn't have to be nuts - any food is good. Maybe not really messy shit, but most works. Late night snack kinda stuff.","Не обязательно орешки - любая еда сойдёт. Только не какую-нибудь хрень, от которой весь перемажешься, а так почти всё подойдёт. Типа ночного перекуса.",ai,,765590B84E5824DDCE57B4B27A5FDF28
-Howard,"...No, it's just - you know. ""Nut."" Like nutting, you know?","...Нет, просто - ну, понимаешь. «Орешки». Ну, типа, орешки, понимаешь?",ai,,4ED84CF647CF400C5648BBA95EDB929C
+Freja,"Doesn't have to be nuts - any food is good. Maybe not really messy shit, but most works. Late night snack kinda stuff.","Не обязательно сосиски - любая еда сойдёт. Только не какую-нибудь хрень, от которой весь перемажешься, а так почти всё подойдёт. Типа ночного перекуса.",ai,,765590B84E5824DDCE57B4B27A5FDF28
+Howard,"...No, it's just - you know. ""Nut."" Like nutting, you know?","...Нет, просто - ну, понимаешь. «Сосиски». Ну, типа, сосиски, понимаешь?",ai,,4ED84CF647CF400C5648BBA95EDB929C
 Howard,Good call.,Хорошая мысль.,ai,,2709BC23455DBF5FB0179089334910DF
 Freja,"Wow, you've convinced me.","Ого, ты меня убедил.",ai,,7A5429464590949612F7DE922144E322
 Howard,(INVESTIGATIVE) No I haven't.,"(ПЫТЛИВОСТЬ) Нет, не убедил.",ai,,8C586A5842822BDFB8A853A39F9A6351
@@ -393,7 +393,7 @@ Freja,"Well, yeah! The rest is obviously up to you, but if the two of you are vi
 Howard,"Keep it cool, keep it fun. I can do that.",Спокойно и весело. Это я могу.,ai,,C1F41BA64EACF3FC47B9019780BABC7C
 Howard,"Alright, sweet - so, do you want to go out?","Отлично, тогда: хочешь сходить на свидание?",ai,,5D33330E43E804EFCB79FF9FF546FA06
 Freja,"Howard, I got it. I was just smooth enough to move past it.","Говард, я поняла. Просто я была достаточно ловкой, чтобы это обойти.",ai,,2336060E49BC6923ADEEC7B2F24B79F4
-Howard,...Heh. Nut.,...Хе. Орешки.,ai,,4CD5ED7C438C1A76BC55AD895D8BB7A4
+Howard,...Heh. Nut.,...Хе. Сосиски.,ai,,4CD5ED7C438C1A76BC55AD895D8BB7A4
 Howard,...Fair enough.,...Справедливо.,ai,,91E9538C449D6C150B0E66925147F0EB
 Freja,"That might be your problem, right there. Not sure how much I can do to help you. Maybe the solution is just to, you know, get out there and fail until you don't?","Возможно, в этом и проблема. Не уверена, чем ещё могу помочь. Может, решение - просто выйти в люди и облажаться столько раз, пока не перестанешь облажаться?",ai,,FEC8F5D848DF700DDB8259AF436F5655
 Howard,"Only one way to find out, I guess.","Есть только один способ узнать, наверное.",ai,,EC55B5C945CE51A96E8B86B0D2EB148A
