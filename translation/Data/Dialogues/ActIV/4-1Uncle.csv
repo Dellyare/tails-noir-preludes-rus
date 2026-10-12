@@ -4,7 +4,7 @@ Notification,You made Clemence your consigliere. Your grandfather would be proud
 Notification,You rejected Clemence's request.,Ты отклонила просьбу Клеменса.,ai,,83B54B504AB82694F0948EA885EF7D4B
 Notification,You rejected Clemence's request.,Ты отклонила просьбу Клеменса.,ai,,9D3B1F13476358BA146706BDF4623079
 Notification,"You let Clemence go. ","Ты отпустила Клеменса. ",ai,,A8C9B91D4355F6DF24E66AB53C6383B1
-Notification,You gave Clemence your blessing to step down from his position.,Ты дала Клеменсу своё благословение уйти с поста.,ai,,1338CA654B6F42611CE29982E69F8E25
+Notification,You gave Clemence your blessing to step down from his position.,Ты дала Клеменсу благословение уйти с поста.,ai,,1338CA654B6F42611CE29982E69F8E25
 Notification,Your reputation precedes you.,Твоя репутация идёт впереди тебя.,ai,,7EB986E843645003D9BDFFB2DFE00A7E
 Notification,People are unsure what to make of your rise to power.,"Люди не знают, что и думать о твоём возвышении.",ai,,5BEC80C24D6F7EED04F92DB9C03111AC
 Clarissa,Next,Далее,ai,,5A57C0564B0F4C22DAFE1195D2806530
@@ -15,7 +15,7 @@ Clarissa,Dump him in the water. You know where.,Скинь его в воду. �
 Uncle Clemence,This...this isn't what I thought you meant when you said you were going to talk to him.,"Это... это не то, что я думал, когда ты сказала, что собираешься с ним поговорить.",ai,,E92414044DC2B88F7DC7818689E4098C
 Clarissa,"Don't dwell on it. What happened, happened. Maybe it's easier this way.","Не зацикливайся. Что случилось, то случилось. Может, так даже проще.",ai,,7A6455DE480B7EF151EEFF982B4A65AF
 Clarissa,It wasn't. Things got out of hand. Lost my temper.,Нет. Всё вышло из-под контроля. Я вспылила.,ai,,D6420E4843B11323FDA5398E09E7E64A
-Clarissa,I...didn't mean to kill him. Not really.,Я... не хотела его убивать. По-настоящему - нет.,ai,,989C58394C1DECBBBA7A31A4CE078804
+Clarissa,I...didn't mean to kill him. Not really.,Я... не хотела его убивать. Не по-настоящему.,ai,,989C58394C1DECBBBA7A31A4CE078804
 Uncle Clemence,...And now I see what really was brewing in the back of your mind. You could have told me this is what you wanted.,"...Вот, значит, что на самом деле зрело у тебя в голове. Могла бы сказать, что тебе этого хочется.",ai,,BA73B22D42FFEF255650D0A3FE55F946
 Clarissa,"It isn't. It just happened. We deal with it, both of us.",Нет. Так вышло. Разберёмся с этим вдвоём.,ai,,2A4E867248124AC9AED172A382C53CE4
 Clarissa,You were going to find out eventually. Why spoil the surprise?,Ты бы всё равно рано или поздно узнал. Зачем портить сюрприз?,ai,,C34449294BAF4B07D189CCB85E018BBD
@@ -48,7 +48,7 @@ Clarissa,Didn't want him to have the satisfaction.,Не хотела доста�
 Clarissa,I just couldn't do it.,Я просто не смогла.,ai,,EB08E2B846C0F9FAADBEB7BEF3048B60
 Clarissa,We've got people for this sort of thing. Better them than me.,"На такое у нас есть люди. Пусть лучше они, чем ты.",ai,,BD4744C5477F94A592423E87B45E5743
 Uncle Clemence,"...All this taken into consideration, Clarissa, well...I'd like to ask to be your consigliere.","...Учитывая всё это, Кларисса, я... хотел бы просить тебя сделать меня своим консильери.",ai,,A65DCA69459D7032CF3BE2BF4EF5E516
-Clarissa,Don't be silly. You already are.,Не говори глупостей. Ты уже он.,ai,,BBDCAF9743C7DC64356CCD876D7CA362
+Clarissa,Don't be silly. You already are.,Не говори глупостей. Ты и так консильери.,ai,,BBDCAF9743C7DC64356CCD876D7CA362
 Clarissa,My what?,Мой кто?,ai,,F3D5DD684DCCE483F2C7D8B8CC345BAF
 Clarissa,That's a big ask.,Это серьёзная просьба.,ai,,A6EED0174BD96B48347071BB3107A14C
 Uncle Clemence,"...I've thought about it a lot, and I think I'm ready to step down. I'm no soldier, not any more. ","...Я много об этом думал и, кажется, готов уйти. Я больше не солдат. ",ai,,BAA1DEA9485DA6AE475D71867948CB8B
@@ -60,15 +60,15 @@ Clarissa,...Retire? You?,...На покой? Ты?,ai,,7B4A2153447820AC4974AC8C7
 Clarissa,[Say nothing],[Промолчать],ai,,AF17AB6A4DB3ED8B506B2F891E71C15E
 Clarissa,Then do it. No one is stopping you. Least of all me.,Тогда уходи. Тебя никто не держит. А меньше всех - я.,ai,,5BA10B494263D51037B917A5A28874AE
 Uncle Clemence,"There are rules, Clarissa. Protocol, tradition. It's up to you to appoint one, if you see so fit. Consider this an official request to be considered.","Есть правила, Кларисса. Протокол, традиции. Назначить консильери - тебе решать, если сочтёшь нужным. Считай это официальной просьбой о рассмотрении.",ai,,103AF4D4481C886F46FCB69EBB97DB28
-Clarissa,"Very well - from now on, you'll be my consigliere.",Хорошо - с этой минуты ты мой консильери.,ai,,C9489CF84D3D0403E2F2ABB1298BC8B3
+Clarissa,"Very well - from now on, you'll be my consigliere.","Хорошо, с этой минуты ты мой консильери.",ai,,C9489CF84D3D0403E2F2ABB1298BC8B3
 Clarissa,"And what would that position entail, exactly?","И что входит в эту должность, если конкретно?",ai,,3A35AADD4D9E875F0D3A17910F48F9E5
 Clarissa,...No. I'm afraid I can't allow that.,"...Нет. Боюсь, этого я позволить не могу.",ai,,7BACF1C54EBDC1F67BE4EE85A5D78896
 Uncle Clemence,Your consigliere. Your advisor.,Твой консильери. Твой советник.,ai,,E44E116E42F1847BCA49C3B23080D660
-Clarissa,You already are.,Ты уже он.,ai,,4ED9415643948F92228E3C8C46322472
+Clarissa,You already are.,Ты и так консильери.,ai,,4ED9415643948F92228E3C8C46322472
 Clarissa,"And what would that position entail, exactly?","И что входит в эту должность, если конкретно?",ai,,68DF3DF44F72F5BE884E99BC760F48A3
 Clarissa,...Of course. That's quite a serious request.,...Конечно. Это очень серьёзная просьба.,ai,,273934BC4D771577ED9DF3BC70D54FC5
 Uncle Clemence,"And one I don't make lightly, I can promise you that. It's up to you to appoint one, if you believe yourself to be in need of one - so consider this a request. An application, even.","И я делаю её не легкомысленно, поверь. Назначить консильери - тебе решать, если решишь, что он тебе нужен, так что считай это просьбой. Даже заявлением.",ai,,B6AA23754484C24A995F57BBC135864D
-Clarissa,"Very well - from now on, you'll be my consigliere.",Хорошо - с этой минуты ты мой консильери.,ai,,A10D223145551B7C5E72558745C40C01
+Clarissa,"Very well - from now on, you'll be my consigliere.","Хорошо, с этой минуты ты мой консильери.",ai,,A10D223145551B7C5E72558745C40C01
 Clarissa,"And what would that position entail, exactly?","И что входит в эту должность, если конкретно?",ai,,53B91A6643FE0183B00C1E85F163DD00
 Clarissa,...No. I'm afraid I can't allow that.,"...Нет. Боюсь, этого я позволить не могу.",ai,,E7CDCF3D4060AD5D08CC8F97704FE9BE
 Uncle Clemence,Thank you. You have no idea how much it means to me.,"Спасибо. Ты не представляешь, как много это для меня значит.",ai,,2228229A4E7BDED0307637A0B2389F93
@@ -91,7 +91,7 @@ Uncle Clemence,"Yeah, I...saw. You hurt?","Да, я... видел. Ты ране
 Clarissa,I'll manage. Just needed a smoke.,Справлюсь. Мне просто нужно было закурить.,ai,,A365D0C2451E137A80D4B795E1F2DABF
 Clarissa,"Truthfully, uncle? I'm hurt beyond the point of fixing.","Честно, дядя? Меня уже не починить.",ai,,3C19776B41865166625C7C8FFEE264F0
 Clarissa,I'm fine.,Я в порядке.,ok,,268FA4FE470E75843859B3A76F25BAB9
-Clarissa,Like I said - never better.,Как я и сказала - лучше не бывает.,ai,,9C5484EC46FB25BCA28988945DEC42AF
+Clarissa,Like I said - never better.,Как я и сказала: лучше не бывает.,ai,,9C5484EC46FB25BCA28988945DEC42AF
 Uncle Clemence,"Age. Experience. I'd like to be more...thoughtful. Take my time. My aim isn't what it used to be, and I'm not...I'd like not to be remembered as just a killer.","Возраст. Опыт. Хочу быть... вдумчивее. Не торопиться. Глаз у меня уже не тот, и я... не хотел бы, чтобы меня запомнили просто как убийцу.",ai,,E48F49CE48196C3DDBB6CFB8AF06C998
 Clarissa,You won't. You'll be remembered as my consigliere.,Не запомнят. Тебя запомнят как моего консильери.,ai,,7B009D3645AE41546ADD778FFD1DA624
 Clarissa,"...I'm sorry, uncle. The answer is no.","...Прости, дядя. Ответ - нет.",ai,,4916A30C47E5FBE07857979FE325BE5C
@@ -125,8 +125,8 @@ Clarissa,Don't congratulate me.,Не поздравляй меня.,ai,,B79104D3
 Uncle Clemence,He's...in a bad way. Very bad.,Он... в плохом состоянии. Очень плохом.,ai,,B6AD61CE4E2731F8A60BC2AB12F4C499
 Clarissa,Nothing you won't be able to handle.,"Ничего такого, с чем ты не справишься.",ai,,38024BEC43A83FC5E0EA70A1B3259D8B
 Clarissa,Is that a problem?,Это проблема?,ai,,BF240E9F4E62EA3A3FEE73B249DBC055
-Clarissa,"Not bad enough, apparently.","Недостаточно плохом, судя по всему.",ai,,BF3AA1E940E224A9038E5A8F41C7B8A8
-Uncle Clemence,"Mm. Well then, I should go - there's still the question of...cleaning out the office.","Мм. Что ж, мне пора - остаётся ещё вопрос... уборки в кабинете.",ai,,750649474304426AACE4EA91DEBB8303
+Clarissa,"Not bad enough, apparently.","Недостаточно плохо, судя по всему.",ai,,BF3AA1E940E224A9038E5A8F41C7B8A8
+Uncle Clemence,"Mm. Well then, I should go - there's still the question of...cleaning out the office.","Мм. Что ж, мне пора. Остаётся ещё вопрос... уборки в кабинете.",ai,,750649474304426AACE4EA91DEBB8303
 Clarissa,Make it spotless.,Чтобы там было чисто.,ai,,F9E8FE7943B5F6187FF4838BD54B9BF6
 Clarissa,Good. Thank you.,Хорошо. Спасибо.,ai,,CB2359994EA7B83D0A7FF2824C63F49A
 Clarissa,Don't let me keep you.,Не буду тебя задерживать.,ai,,9FDF67744127FB85DD6A6FB097C3D0BE
@@ -182,7 +182,7 @@ Uncle Clemence,...Do you mean that?,...Ты серьёзно?,ai,,170CD23D4C035E
 Clarissa,Yes. Go. Do as you please.,Да. Иди. Делай что хочешь.,ai,,F6168540415603C8FD0BE79FC4EFDCA8
 Clarissa,"No, you old fool. You know as well as me that there's no leaving this life.","Нет, старый ты дурак. Ты знаешь не хуже меня, что из этой жизни не уйти.",ai,,AB7346DC4B94C5AB1EAD5B883D94C80E
 Clarissa,"I'll be honest, uncle. I don't know how well I could do this without you.","Скажу честно, дядя. Не знаю, как бы я справилась без тебя.",ai,,6AC907F34AF1CFF91F235E9F003B87B1
-Uncle Clemence,"This whole...thing. I feel as though it's aged me. I'm slow, tired. I don't think I have the stomach for this any more.","Вся эта... история. Такое чувство, что она меня состарила. Я стал медлительным, усталым. Кажется, у меня больше нет желудка для такого.",ai,,F293CDAC4F84EFC68BD65B98D0709F41
+Uncle Clemence,"This whole...thing. I feel as though it's aged me. I'm slow, tired. I don't think I have the stomach for this any more.","Вся эта... история. Такое чувство, что она меня состарила. Я стал медлительным, усталым. Кажется, у меня больше нет нервов на это.",ai,,F293CDAC4F84EFC68BD65B98D0709F41
 Clarissa,"You know as well as me that there's no leaving this life, uncle.","Ты знаешь не хуже меня, что из этой жизни не уйти, дядя.",ai,,0741C49348416556FC6088906B3CDFD7
 Clarissa,...Are you sure about this?,...Ты уверен?,ai,,8612A7264BFA2738DC56D8A014865C44
 Clarissa,You're none of those things. I need you.,Ничего из этого про тебя не скажешь. Ты мне нужен.,ai,,889B322540807BDD07D30E802BE2D626
@@ -228,7 +228,7 @@ Clarissa,Don't congratulate me.,Не поздравляй меня.,ai,,79743CD1
 Uncle Clemence,"No. There's no need, really.","Нет. В этом нет нужды, правда.",ai,,CE19766A45702A94C62FBA8178FDB8E6
 Clarissa,Good. I'm glad you know what you want.,"Хорошо. Рад, что ты знаешь, чего хочешь.",ai,,E60FD2C7460DFA107550BFBF812FFF28
 Clarissa,"...This isn't really about age, is it?","...Дело ведь не в возрасте, да?",ai,,9110D5D74F2E4D9AFE9086B885AB4F2F
-Uncle Clemence,"...No. Things are changing - have changed, and I can't keep up. You'll change, too. In ways that will surprise us both, I'm sure.","...Нет. Всё меняется - уже изменилось, а я не поспеваю. Ты тоже изменишься. Так, что удивишь нас обоих, не сомневаюсь.",ai,,CB413D5E4A4CDEA666D43EBDE5BCD575
+Uncle Clemence,"...No. Things are changing - have changed, and I can't keep up. You'll change, too. In ways that will surprise us both, I'm sure.","...Нет. Всё меняется, уже изменилось, а я не поспеваю. Ты тоже изменишься, и так, что удивишь нас обоих, не сомневаюсь.",ai,,CB413D5E4A4CDEA666D43EBDE5BCD575
 Clarissa,"If you can't keep up, I'm glad you're stepping away on your own accord.","Если ты не поспеваешь, я рада, что ты уходишь по собственной воле.",ai,,DCB1848B4A4CA125A105D891892C6269
 Clarissa,I won't. I know that for a fact.,Не изменюсь. Я знаю это наверняка.,ai,,9D6E39184F3AC0A0AF8F5BB6F0796B88
 Clarissa,You're worried about me?,Ты за меня беспокоишься?,ai,,282A1E26408071BF105FC8B050F45E1F
@@ -239,13 +239,13 @@ Uncle Clemence,I see. You're...I see.,Понятно. Ты... понятно.,ai
 Clarissa,"Is there something you want to say, uncle?","Ты хочешь что-то сказать, дядя?",ai,,3754CD2643076EFE456A2FAEEF79BF6D
 Clarissa,I feel guilty. Should I?,Мне совестно. Должно быть?,ai,,AF3EA46B48E521039EC8A99601C7D907
 Clarissa,I trust this won't be a problem for you to handle.,"Надеюсь, с этим у тебя проблем не будет.",ai,,01BD32EE42FB4463E044C5A8593504EB
-Uncle Clemence,Not worried. I've just seen it happen a few times now. But you don't need to hear all this - I'll leave you to your thoughts. And don't worry - I'll handle the body.,"Не беспокоюсь. Просто видел такое уже несколько раз. Но тебе не нужно всё это слушать - оставлю тебя наедине с мыслями. И не волнуйся, с телом я разберусь.",ai,,F46A38B0436E47089231049BDE6E64A8
+Uncle Clemence,Not worried. I've just seen it happen a few times now. But you don't need to hear all this - I'll leave you to your thoughts. And don't worry - I'll handle the body.,"Не беспокоюсь. Просто видел такое уже несколько раз. Но тебе не нужно всё это слушать. Оставлю тебя наедине с мыслями. И не волнуйся, с телом я разберусь.",ai,,F46A38B0436E47089231049BDE6E64A8
 Clarissa,"...Wait, hold on a second. What does that mean?","...Погоди, секунду. Что это значит?",ai,,7397B530477C477E1A1608908355638F
-Uncle Clemence,"Give it time. For now, I'll leave you with your thoughts. There's still the question of the body - I'll handle it.",Дай время. А пока оставлю тебя наедине с мыслями. Остаётся вопрос с телом - я им займусь.,ai,,2AD07FBC46E735525865B4991F729800
+Uncle Clemence,"Give it time. For now, I'll leave you with your thoughts. There's still the question of the body - I'll handle it.",Дай время. А пока оставлю тебя наедине с мыслями. Остаётся вопрос с телом. Я им займусь.,ai,,2AD07FBC46E735525865B4991F729800
 Clarissa,Good.,Хорошо.,ai,,86F869BD4F6A158B756E3EB61E51476D
 Clarissa,Be quick about it.,Поторопись.,ai,,6D69CE164EF4B4F75F31A585D43C9C95
 Clarissa,Thank you. You know I appreciate it.,"Спасибо. Ты знаешь, я это ценю.",ai,,D42540194EB953C21BB321B7471F68FB
-Uncle Clemence,"As am I, I suppose. I'll leave you with your thoughts - there's still the question of the body. I'll handle it.","Я тоже, пожалуй. Оставлю тебя наедине с мыслями - остаётся вопрос с телом. Я им займусь.",ai,,CCF850B142C6348C4DF833B1D34EFC64
+Uncle Clemence,"As am I, I suppose. I'll leave you with your thoughts - there's still the question of the body. I'll handle it.","Я тоже, пожалуй. Оставлю тебя наедине с мыслями. Остаётся вопрос с телом. Я им займусь.",ai,,CCF850B142C6348C4DF833B1D34EFC64
 Clarissa,Good.,Хорошо.,ai,,BA1F0EF645B9B7D6A156B697C94FE228
 Clarissa,Be quick about it.,Поторопись.,ai,,F6DC784E4A0D20F9BE3682BC04C84CFD
 Clarissa,Thank you. You know I appreciate it.,"Спасибо. Ты знаешь, я это ценю.",ai,,CE1EA8944C086290FC33129BF615D239
@@ -256,13 +256,13 @@ Clarissa,Don't congratulate me.,Не поздравляй меня.,ai,,D5EBC9DD
 Uncle Clemence,"Not leave, no - but I'm in the search of something more peaceful. Something less taxing on the body and mind.","Уходить не собираюсь, нет, но я ищу чего-то более спокойного. Менее изматывающего для тела и разума.",ai,,E2622E4A480A1B5ED4D5D7AF0084743B
 Clarissa,Of course. I can't deny you that.,Конечно. Не могу тебе в этом отказать.,ai,,E3D856D44167EA004787BCB152AA9FBA
 Clarissa,What did you have in mind?,И что ты задумал?,ai,,6F3A06EC450EC4C5CE8EA3BA32AACBB8
-Clarissa,"You underestimate yourself, uncle. You've still got plenty of years left in you.","Ты себя недооцениваешь, дядя. В тебе ещё полно лет.",ai,,7A772B38429B98831524B489A1D2225D
-Uncle Clemence,"In some ways, perhaps - but I'm looking for something else. Something less taxing on the body and mind.","В чём-то, возможно, - но я ищу другого. Менее изматывающего для тела и разума.",ai,,814F530D4268E4B8666AEDAB2EC79035
+Clarissa,"You underestimate yourself, uncle. You've still got plenty of years left in you.","Ты себя недооцениваешь, дядя. У тебя ещё полно лет впереди.",ai,,7A772B38429B98831524B489A1D2225D
+Uncle Clemence,"In some ways, perhaps - but I'm looking for something else. Something less taxing on the body and mind.","В чём-то, возможно. Но я ищу чего-то другого. Менее изматывающего для тела и разума.",ai,,814F530D4268E4B8666AEDAB2EC79035
 Clarissa,Of course. I can't deny you that.,Конечно. Не могу тебе в этом отказать.,ai,,B84A1EB0405637F8D231EABD8FCD4F4B
 Clarissa,What did you have in mind?,И что ты задумал?,ai,,B0D33F764AF7E9984DEC85A8424D1C9D
-Clarissa,You underestimate yourself. You've still got plenty of years left in you.,Ты себя недооцениваешь. В тебе ещё полно лет.,ai,,749C342F4BF49774366453BD3D5427C4
+Clarissa,You underestimate yourself. You've still got plenty of years left in you.,Ты себя недооцениваешь. У тебя ещё полно лет впереди.,ai,,749C342F4BF49774366453BD3D5427C4
 Uncle Clemence,"I've...always wanted to run a restaurant. We have a few, but I wouldn't want to take anyone's place. There is one spot I think would work well for us, however. One we don't own...yet.","Я... всегда мечтал управлять рестораном. У нас их несколько, но я не хотел бы занимать чьё-то место. Есть одно заведение, которое, думаю, нам бы подошло. Оно нам пока не принадлежит... пока.",ai,,C61E3D824EDC9ED0F0C4D1843F6DEAEB
-Clarissa,"Say no more - if that is what you want, that's what you'll get.","Больше ни слова - если ты этого хочешь, так и будет.",ai,,2848F9A34DAC2A1A6E0516964DA0AC29
+Clarissa,"Say no more - if that is what you want, that's what you'll get.","Больше ни слова. Если ты этого хочешь, так и будет.",ai,,2848F9A34DAC2A1A6E0516964DA0AC29
 Clarissa,A restaurant manager? You?,Управляющий рестораном? Ты?,ai,,164170B64D4748796FFD0499738C8814
 Clarissa,Which is?,Какое?,ai,,05141D1F49F2F6109A87A5A5F27059BA
 Uncle Clemence,"There's an old club in Granville in dire need of new management. I'm...well, I think I could fill that role.","В Гренвилле есть старый клуб, которому отчаянно нужно новое руководство. Я... думаю, я бы с этим справился.",ai,,D151528A4B652723233C25BCEB7C9CE2
@@ -275,7 +275,7 @@ Clarissa,I feel guilty. Should I?,Мне совестно. Должно быть
 Clarissa,I trust this won't be a problem for you to handle.,"Надеюсь, с этим у тебя проблем не будет.",ai,,B7447BF846DAD5C04F1CA8A1ED9EA4D5
 Uncle Clemence,That may well be. I'm just hoping the manner in which I spend those years will be different.,"Возможно. Просто надеюсь, что проведу эти годы иначе.",ai,,E565A38646DF398A1B4E21978C0772B1
 Clarissa,So what exactly do you have in mind?,Так что именно ты задумал?,ai,,4993AC474C62985FFC47AAA71D987A10
-Clarissa,"Don't worry, uncle. Things will be different from now on - I'll see to it.","Не волнуйся, дядя. Теперь всё будет иначе - я об этом позабочусь.",ai,,5EF331594F6938ABBB6499A7D9A428C4
+Clarissa,"Don't worry, uncle. Things will be different from now on - I'll see to it.","Не волнуйся, дядя. Теперь всё будет иначе. Я об этом позабочусь.",ai,,5EF331594F6938ABBB6499A7D9A428C4
 Uncle Clemence,"I'm sure, Clarissa. But I've given this a lot of thought. Plenty of my guys are ready to take my place - they're younger, faster, and more clever than me. I'd like something different.","Уверен, Кларисса. Но я долго об этом думал. Многие мои ребята готовы занять моё место - они моложе, быстрее и сообразительнее меня. Мне хочется чего-то другого.",ai,,27E27DB349AC749710760992574039D6
 Clarissa,And what does 'different' mean in this case?,И что значит «другого» в данном случае?,ai,,916495814B94F21C04DDEA9526C0F2DE
 Clarissa,You've scoped something out already?,Ты уже что-то присмотрел?,ai,,2458C776438BA9A47C1DD79F2EAE8757
@@ -284,11 +284,11 @@ Uncle Clemence,You're...certain? I realize you might have expected me to help yo
 Clarissa,Yes. I'm certain.,Да. Уверена.,ai,,8ED2022149E571ECDAF556864F39530A
 Clarissa,You're sure this is what you want?,"Ты уверен, что этого хочешь?",ai,,3C53DA8A48F5EBD857E7599C7D5FBA6C
 Clarissa,"As long as you've planned it well, I'm confident you'll remain an important asset to the family.","Если ты всё хорошо продумал, не сомневаюсь, что останешься важным для семьи человеком.",ai,,B9BEFDCF49F7E333DEDE2EBDE63DB27B
-Uncle Clemence,"I'd still be around, Clarissa. The family would still own whatever venture I'd get into - I'd just run it for you. Be a...businessman, I suppose.","Я буду рядом, Кларисса. Семья по-прежнему будет владеть любым делом, за которое я возьмусь, - я бы просто управлял им для тебя. Был бы... бизнесменом, наверное.",ai,,958D9BFA49AD88174749CE9E5A702224
+Uncle Clemence,"I'd still be around, Clarissa. The family would still own whatever venture I'd get into - I'd just run it for you. Be a...businessman, I suppose.","Я буду рядом, Кларисса. Семья по-прежнему будет владеть любым делом, за которое я возьмусь. Я бы просто управлял им для тебя. Был бы... бизнесменом, наверное.",ai,,958D9BFA49AD88174749CE9E5A702224
 Clarissa,Alright. I won't deny you that.,Ладно. Не буду тебе отказывать.,ai,,2F0B7AAD41A80DC0F1A0A8AB30EC4B62
 Clarissa,...And this is what you truly want?,...И ты действительно этого хочешь?,ai,,7845D19A43E9EAE8380F228E0B2665C3
 Clarissa,"I'm sorry, uncle. I need you for more important things.","Прости, дядя. Ты нужен мне для более важных дел.",ai,,FCC6ADF148FB24C30A93CEB126283ACF
-Uncle Clemence,"I frequent them enough to be an expert. On food, at the very least - and the family would still own the location. Think of it as another base of operations for us.","Я бываю в них достаточно часто, чтобы разбираться. По крайней мере в еде - а помещение по-прежнему принадлежало бы семье. Считай это ещё одной нашей базой.",ai,,2E89AD1543576B018F124680C1A98B32
+Uncle Clemence,"I frequent them enough to be an expert. On food, at the very least - and the family would still own the location. Think of it as another base of operations for us.","Я бываю в них достаточно часто, чтобы разбираться. По крайней мере в еде, а помещение по-прежнему принадлежало бы семье. Считай это ещё одной нашей базой.",ai,,2E89AD1543576B018F124680C1A98B32
 Clarissa,Sounds good to me. I'm convinced.,Звучит неплохо. Меня это убедило.,ai,,3D6894F949676784B439FEA0C97EA37F
 Clarissa,I don't think I'm ready for you to step down. Not yet.,"Не думаю, что я готова к твоему уходу. Пока нет.",ai,,0F9B93F8428019F7C1326E9A36D9612C
 Uncle Clemence,"...Very well. Maybe in time, then.","...Хорошо. Может, со временем.",ai,,77BF811644A02B9D6F9C3EB1415504BB
@@ -300,7 +300,7 @@ Clarissa,You've earned it.,Ты это заслужил.,ai,,C1DD99E541735A2BD78
 Clarissa,"It's not a decision I take lightly, uncle. You'll be sorely missed.","Я принимаю это решение нелегко, дядя. Тебя будет очень не хватать.",ai,,CE9BC6474BAA29A7D255E8A644681E72
 Clarissa,"I owe you. This is hardly payback enough, but it'll do for now.","Я у тебя в долгу. Это едва ли расплата, но пока сойдёт.",ai,,293D6BDF44B608904F938C98DF79D6A1
 Uncle Clemence,"Yes. Caterina would like it, too. We've always talked about the restaurant business.",Да. Катерине это тоже понравилось бы. Мы всегда говорили о ресторанном бизнесе.,ai,,691AC53E4477FC2211295AB7E069E275
-Clarissa,Alright. You have my blessing.,Хорошо. Даю тебе своё благословение.,ai,,E70A00C34C6635B241764AB82F163FE7
+Clarissa,Alright. You have my blessing.,Хорошо. Даю тебе благословение.,ai,,E70A00C34C6635B241764AB82F163FE7
 Clarissa,"...I'm sorry, uncle. It's not time for that yet.","...Прости, дядя. Для этого ещё не время.",ai,,67CEE50846CFD38AD775768ECA087F2F
 Uncle Clemence,"""The Bite"".",«Байт».,ai,,B2A30BD1447C96DAB33FC6BA9D3FEBA0
 Clarissa,And you're sure you could run it?,"И ты уверен, что справишься с ним?",ai,,C6767DDD49D48780D9967E9ACB40DAAF
@@ -354,7 +354,7 @@ Clarissa,I'll try to keep that in mind.,Постараюсь это запомн
 Uncle Clemence,"I suppose I do...but are you sure, Clarissa? He's...he was your father.","Пожалуй, да... но ты уверена, Кларисса? Он... он был твоим отцом.",ai,,3BAEABA7463BF5D327B7358754E2DEFE
 Clarissa,"Did I stutter, uncle?","Я что, заикалась, дядя?",ai,,A10A181D4170D86DB2FE17AE1C250725
 Clarissa,Not anymore.,Уже нет.,ok,,B4C2F5E1461DA545FA1133AF60B30983
-Clarissa,He never was.,Им он никогда и не был.,ai,,096162DD492134719B0312927C6DCD1C
+Clarissa,He never was.,Отцом он никогда и не был.,ai,,096162DD492134719B0312927C6DCD1C
 Uncle Clemence,"I suppose not, no. I'll handle it. Is there anything else you need?","Пожалуй, нет. Я займусь этим. Тебе ещё что-нибудь нужно?",ai,,6B1943E04EA14DF6C4FE71B66CD5280F
 Clarissa,Let the rest of the family know that I'm in charge now.,"Сообщи остальным в семье, что теперь главная - я.",ai,,1D71C969459B2D443A5572B948B8EC41
 Clarissa,I'd like a moment to myself.,Мне нужна минута наедине с собой.,ai,,440ABCE44A53150DA4615485D828ADB4
@@ -444,7 +444,7 @@ Uncle Clemence,"Are you sure, Clarissa?","Ты уверена, Кларисса?
 Clarissa,Did I stutter?,"Я что, заикалась?",ai,,E18D407A4BD6AAFA07FD98A666E4E581
 Clarissa,"That won't be a problem, will it?","С этим проблем не будет, так ведь?",ai,,E31A572E482A00A7D42213AD0B5ACAF7
 Clarissa,Would you have liked to do it?,А ты хотел бы сделать это сам?,ai,,2A341D5D40CCC9B25D35D3AE43A576C9
-Uncle Clemence,"They wouldn't admit it if asked, but the Apes and the Ministry keep tabs on us. They have some idea of who you are, and well, they know you tend to...have a problem with authority.","Они не признаются, если спросить, но Обезьяны и Министерство следят за нами. Они представляют, кто ты такая, и, ну, знают, что у тебя... проблемы с авторитетами.",ai,,167D3B75479EBD7C87B05DA88A629CCB
+Uncle Clemence,"They wouldn't admit it if asked, but the Apes and the Ministry keep tabs on us. They have some idea of who you are, and well, they know you tend to...have a problem with authority.","Они не признаются, если спросить, но Обезьяны и Министерство следят за нами. Они представляют, кто ты такая, и, ну, знают, что ты... не терпишь авторитетов.",ai,,167D3B75479EBD7C87B05DA88A629CCB
 Clarissa,(AMBITIOUS) Leave the Apes to me.,(АМБИЦИОЗНОСТЬ) Обезьян оставь мне.,ai,,595CCDE64232E4C03F9C19875D336219
 Clarissa,(CUNNING) We'll need to get on their good side for now. Send them something. A token of our appreciation for everything they do.,"(ХИТРОСТЬ) Пока нам нужно заручиться их расположением. Отправим им что-нибудь. Знак благодарности за всё, что они делают.",ai,,661D8EB7457DF0F7EC47E9B09D9A9B49
 Clarissa,(POWERFUL) I don't care about the Apes. They'll know what they're dealing with soon enough.,"(ВЛАСТНОСТЬ) Мне плевать на Обезьян. Скоро они поймут, с кем имеют дело.",ai,,A3601BD54A3DB37DF44E468DD7A45829
@@ -484,16 +484,16 @@ Clarissa,Of course you agree. What's got you so worried?,Ещё бы ты не �
 Clarissa,My focus? You mean 'our' focus.,Мне? Ты хотел сказать «нам».,ai,,9062A37146030A05C285A6ABD0CB7809
 Uncle Clemence,"That's what I mean, Clarissa. You need to be clever about this. They don't fear violence or ruthlessness. They worry more about their friends than their enemies.","Вот что я имею в виду, Кларисса. Действовать нужно с умом. Насилия и безжалостности они не боятся. Они больше беспокоятся о друзьях, чем о врагах.",ai,,B5DD132F419698859E2DD79E56E0740F
 Clarissa,They'll worry regardless. Where is all this coming from?,Они будут беспокоиться в любом случае. К чему всё это?,ai,,D3DEF8584B34D0B7F2D76AB77ED581AE
-Clarissa,Then we keep them close - if you think that's the right call.,Тогда держим их ближе - если ты считаешь это правильным.,ai,,27D574294C43C453A0926399C06DBC98
+Clarissa,Then we keep them close - if you think that's the right call.,"Тогда держим их ближе, если ты считаешь это правильным.",ai,,27D574294C43C453A0926399C06DBC98
 Uncle Clemence,"My concern isn't that they won't acknowledge it. If they see it, they'll attempt to sabotage it.","Меня беспокоит не то, что они этого не признают. Если увидят, попытаются это сорвать.",ai,,9A94D8E345D20D9F766342BD222203C4
 Clarissa,"I'd like to see them try. What's with all the worry? Where is your head at, uncle?","Хотела бы я посмотреть, как они попробуют. К чему вся эта тревога? О чём ты думаешь, дядя?",ai,,D0C8E2044D5E364A980BAA95528E02F2
 Clarissa,"Then we'll prepare for that, too.",Тогда подготовимся и к этому.,ai,,DDDF85D54843DCADE2EFDEB49928C174
-Uncle Clemence,"They won't just let you be, Clarissa. Just because they might consider you harmless doesn't mean they won't try to shut you down - but if you prove yourself to be a threat, they'll barter with you.","Они тебя так просто не оставят, Кларисса. То, что они могут счесть тебя безобидной, не значит, что не попытаются тебя остановить, - но если докажешь, что ты угроза, они пойдут на сделку.",ai,,0BB6BF16482CF7B7025592B51D382B33
+Uncle Clemence,"They won't just let you be, Clarissa. Just because they might consider you harmless doesn't mean they won't try to shut you down - but if you prove yourself to be a threat, they'll barter with you.","Они тебя так просто не оставят, Кларисса. То, что они могут счесть тебя безобидной, не значит, что не попытаются тебя остановить, но если докажешь, что ты угроза, они пойдут на сделку.",ai,,0BB6BF16482CF7B7025592B51D382B33
 Clarissa,You mean 'us'.,Ты хотел сказать «нам».,ai,,7CAA528342770C6DDBE65F9EC15B5415
 Clarissa,"Fine, then. I assert myself immediately. Show them what they're dealing with.","Ладно. Тогда я сразу заявляю о себе. Покажу им, с кем они имеют дело.",ai,,ABC508EA46A61DCDACB2B78BC80834A8
 Uncle Clemence,"It's not so easy, Clarissa. The Apes know how to deal with their enemies. A friend is a foe much more threatening.","Всё не так просто, Кларисса. Обезьяны умеют обращаться с врагами. Друг куда опаснее врага.",ai,,20967A834955ACD63BB2F4B4E5A1E8A2
 Clarissa,"I won't suffer old fools, uncle. Where's all this worry coming from?","Я не потерплю старых дураков, дядя. Откуда столько тревоги?",ai,,B5D7476C4F674A6729654ABA23FCAC67
-Clarissa,"A friend it is, then - but they'll soon realize they've never had one like me.","Значит, друг - но они скоро поймут, что такого друга у них ещё не было.",ai,,9D0145C74D13E215FFC25A81D06BB3B3
+Clarissa,"A friend it is, then - but they'll soon realize they've never had one like me.","Значит, друг. Но они скоро поймут, что такого друга у них ещё не было.",ai,,9D0145C74D13E215FFC25A81D06BB3B3
 Uncle Clemence,"I'm afraid it can't. It's about what happens next, and what happens to...well, me.","Боюсь, нет. Речь о том, что будет дальше, и что будет со мной.",ai,,8E9838E640C5C72F0FEAD795B982EDCE
 Clarissa,"Make it quick, then.",Тогда покороче.,ai,,7A4BB43D4CAF0901FF2C57A5754F7048
 Clarissa,Very well - what's on your mind?,Хорошо - что у тебя на уме?,ai,,697D33994326DF57CD81479C07158642
@@ -504,10 +504,10 @@ Clarissa,Can this wait? I'm not in the mood to talk much right now.,Это мо�
 Uncle Clemence,"Don't throw caution to the wind, Clarissa. You have to be smart about this.","Не пренебрегай осторожностью, Кларисса. Тут нужно действовать с умом.",ai,,3B53C4E2496CA971EFCD3D907CC9D776
 Clarissa,I said I can handle it. What's got you so anxious?,"Я сказала, что справлюсь. Что тебя так тревожит?",ai,,B96F19004F14B5C36CCD58BFE5F9A926
 Clarissa,I know. I just don't want any doubt to start setting in already.,"Знаю. Просто не хочу, чтобы сомнения начали закрадываться уже сейчас.",ai,,FE779E2542A730327539F0825741E1D2
-Uncle Clemence,"I don't doubt it, but expect resistance. They're not going to let go of old habits so easily - especially if they're being told to.","Не сомневаюсь, но жди сопротивления. Старые привычки так просто не бросают - тем более когда велят.",ai,,C194623F40D535F6FF55B182233E3645
+Uncle Clemence,"I don't doubt it, but expect resistance. They're not going to let go of old habits so easily - especially if they're being told to.","Не сомневаюсь, но жди сопротивления. Старые привычки так просто не бросают, тем более когда велят.",ai,,C194623F40D535F6FF55B182233E3645
 Clarissa,"I told you, I've got my ways. What's got you so worried all of a sudden?","Я же говорила, у меня свои способы. Что тебя вдруг так встревожило?",ai,,F2F84F9241434CB75C35BFBEE9DC8901
 Clarissa,"Trust me, uncle. Right now, I just want confidence over concern.","Поверь, дядя. Сейчас мне нужна уверенность, а не опасения.",ai,,C4258AAA48CBB2479CED7F8165D2F918
-Uncle Clemence,"Be careful, Clarissa. Barking orders will only make them turn on you faster.","Осторожнее, Кларисса. Если лаять приказы, они обернутся против тебя быстрее.",ai,,28C1B0614944653091A35EB2848A4B0D
+Uncle Clemence,"Be careful, Clarissa. Barking orders will only make them turn on you faster.","Осторожнее, Кларисса. Если начнёшь рявкать приказы, они быстрее обернутся против тебя.",ai,,28C1B0614944653091A35EB2848A4B0D
 Clarissa,"I said I have it under control, uncle. Where's your head at?","Я сказала, всё под контролем, дядя. О чём ты думаешь?",ai,,71314EFC448E3A5CBD7A119C2351B8FB
 Clarissa,"I know that, too. I just need confidence over concern right now.","Это я тоже знаю. Мне сейчас просто нужна уверенность, а не опасения.",ai,,97CA1C664C2AE845F4D9D7B8DDF480FD
 Uncle Clemence,"I know, Clarissa. But it's better this way. Trust me. Anything else I can do for you?","Знаю, Кларисса. Но так лучше. Поверь. Могу ещё чем-нибудь помочь?",ai,,E9854D2A4C7F922202E1EF967EA18EFC
@@ -523,7 +523,7 @@ Clarissa,I appreciate the vote of confidence.,Спасибо за доверие
 Uncle Clemence,"Don't go too hard on them. Some are expecting you to be softer than Carlo, and if they're in for a rude awakening there's no telling how they'll respond.","Не будь с ними слишком жёсткой. Кое-кто ждёт, что ты окажешься мягче Карло, и если их ждёт грубое пробуждение, неизвестно, как они отреагируют.",ai,,465C51ED45AC945A288B00A931C1B42D
 Clarissa,"I have it under control, uncle. Where's your head at?","У меня всё под контролем, дядя. О чём ты думаешь?",ai,,58465FAB435DBC85A4866B9F560D4A5C
 Clarissa,"I appreciate the advice, but I need confidence over concerns right now.","Ценю совет, но сейчас мне нужна уверенность, а не опасения.",ai,,BD3E1A3A4C7A3EADB75EC2B624101DFF
-Uncle Clemence,"I've done all I can to gather my crew behind them. I'm not telling you to make promises, but I...suggest you look after their interests. It'll be worth it.","Я сделал всё, чтобы сплотить свою бригаду на их стороне. Не говорю, чтобы ты давала обещания, но... советую заботиться об их интересах. Оно того стоит.",ai,,2E6AA98640716DDBAB4BF0AA4BE03414
+Uncle Clemence,"I've done all I can to gather my crew behind them. I'm not telling you to make promises, but I...suggest you look after their interests. It'll be worth it.","Я сделал всё, чтобы сплотить свою бригаду на их стороне. Не говорю, что нужно давать обещания, но... советую заботиться об их интересах. Это того стоит.",ai,,2E6AA98640716DDBAB4BF0AA4BE03414
 Clarissa,"My interests will benefit all of them. I'll make them understand that. Stop worrying so much, uncle.","Мои интересы пойдут на пользу им всем. Я им это объясню. Не переживай так, дядя.",ai,,424BE54E4AEF311761391AB671001767
 Clarissa,Don't worry. I'll keep them happy.,Не волнуйся. Они будут довольны.,ai,,6805ADED44BEB69CDE6BF3BADC5493A7
 Uncle Clemence,It might be easier still to listen to the louder voices in the family. Do something for them. Show them that you're different.,"Ещё проще было бы прислушаться к самым громким голосам в семье. Сделать что-нибудь для них. Показать, что ты другая.",ai,,755B23C04E84958A338DF286F3E28968
@@ -539,7 +539,7 @@ Uncle Clemence,"You can't do that, Clarissa. All that experience...well, I'll be
 Clarissa,"...What's got into you, uncle? Where is all this sudden worry coming from?","...Что на тебя нашло, дядя? Откуда вдруг такая тревога?",ai,,ED3F59F3477293BFD542CC95ABB0906E
 Clarissa,"I've got plenty. You'd do well to remember that. ","Его у меня хватает. Тебе стоит это помнить. ",ai,,C71BF6DB457763416397839BCFE61A9D
 Clarissa,"It won't be instant. Slow, but steady. Out with the old, in with the new.","Мгновенно не выйдет. Медленно, но верно. Старое долой, новое - вперёд.",ai,,4B9CEC3149B0D49C85F7548599AFC83E
-Uncle Clemence,"Push too hard and they'll only dig their heels in. There's no brute-forcing this, Clarissa. It requires finesse.","Надавишь слишком сильно - они только упрутся. Грубой силой тут не возьмёшь, Кларисса. Нужна тонкость.",ai,,2F385BE340F1DE8946967B82A2F6CBBC
+Uncle Clemence,"Push too hard and they'll only dig their heels in. There's no brute-forcing this, Clarissa. It requires finesse.","Надавишь слишком сильно, и они только упрутся. Грубой силой тут не возьмёшь, Кларисса. Нужна тонкость.",ai,,2F385BE340F1DE8946967B82A2F6CBBC
 Clarissa,"It requires respect, and they'll give me theirs. What's got into you, uncle? Why are you so worried?","Нужно уважение, и они мне его окажут. Что на тебя нашло, дядя? Почему ты так тревожишься?",ai,,A8B661E84A937EC487C3A08B9F51855A
 Clarissa,Fine - but I won't make polite conversation. They need to know who's in charge.,"Ладно, но вежливые беседы вести не буду. Они должны знать, кто здесь главный.",ai,,3E46BD6145B4FD2CF3409C9D9C644CA5
 Uncle Clemence,"...Well, I've been thinking. About all of this. With Carlo gone, well - I find myself in a peculiar situation.",...Я тут думал. Обо всём этом. Без Карло я оказался в довольно странном положении.,ai,,5350226940345F1ADB7CABB5344368FE
@@ -633,7 +633,7 @@ Uncle Clemence,I was just...surprised. Surprised when you said you planned on le
 Clarissa,"Well, if it's any consolation, it doesn't seem like I'm going to be going anywhere now.","Что ж, если тебе это в утешение, похоже, теперь я никуда не уйду.",ai,,5E391D0C49E9147EA1CA62864E459839
 Clarissa,It seemed right at the time.,Тогда это казалось правильным.,ai,,8BA73C30470847E5C24E1483464AC467
 Clarissa,You expected me to change my mind.,"Ты ждал, что я передумаю.",ai,,640650914855DCBE21F78898514BFE45
-Clarissa,[Gesture to the office] But this does?,[Указать на кабинет] А это - похоже?,ai,,D69F72EA4F585604BC84818383B91D90
+Clarissa,[Gesture to the office] But this does?,[Указать на кабинет] А вот это похоже?,ai,,D69F72EA4F585604BC84818383B91D90
 Uncle Clemence,"This plan of yours...well, it didn't surprise me.",Этот твой план... он меня не удивил.,ai,,2DA4E1604EC4757EBDE82E888D10EE6F
 Clarissa,[Gesture towards the office] But that did?,[Указать на кабинет] А это удивило?,ai,,07E413604BBC6360AD857CB0BDF8939C
 Clarissa,You were certain I would kill him.,"Ты был уверен, что я его убью.",ai,,4BC779894CEBEB180D9F1EAA9B8ACFF9
@@ -662,7 +662,7 @@ Clarissa,And what about you?,А ты?,ai,,50F09BC841489BF0C1412988FB70BDF9
 Uncle Clemence,"And now...well, I'm also not entirely surprised. Ambition and empathy aren't antithetical. I don't blame you. It'll be taken care of, regardless.",А теперь... я тоже не слишком удивлён. Амбиции и сострадание не противоречат друг другу. Я тебя не виню. В любом случае это будет улажено.,ai,,B42C74BE4D2D56AE82EBC1B3A02846EB
 Clarissa,"I know. If there's anything I can do for you, let me know.","Знаю. Если тебе что-нибудь понадобится, скажи.",ai,,8C1450234B3DEAA6AEC69BAB528D14EA
 Clarissa,"Once it's done, what then?","Когда с этим будет покончено, что дальше?",ai,,D20290B0426D18FC750F35AFC8C62529
-Uncle Clemence,"Yes. I suppose I hadn't expected it to be quite that easy for you. But you've got conviction, I suppose. Perhaps it was wrong of me to doubt it.","Да. Не думал, что тебе это даст так легко. Но убеждённости тебе не занимать. Зря я, пожалуй, сомневался.",ai,,CD6524D14CA012F1778EEBBB2A531E99
+Uncle Clemence,"Yes. I suppose I hadn't expected it to be quite that easy for you. But you've got conviction, I suppose. Perhaps it was wrong of me to doubt it.","Да. Не думал, что тебе это так легко даётся. Но убеждённости тебе не занимать. Зря я, пожалуй, сомневался.",ai,,CD6524D14CA012F1778EEBBB2A531E99
 Clarissa,"Speaking of conviction, what's next for you?","Раз уж речь об убеждённости, что дальше у тебя?",ai,,7EEC9F9148D50FE4A124E8B0E49BD87E
 Clarissa,"It was. I want you on my side, uncle, but I need your faith in me to be total.","Да. Я хочу, чтобы ты был на моей стороне, дядя, но мне нужна твоя полная вера в меня.",ai,,32A7243F443EDBBEF906419C502991AA
 Uncle Clemence,"What I'm trying to say, I suppose, is that I'm glad you decided not to go through with it. I wouldn't have expected you to, and I'm glad I didn't misjudge you.","Я пытаюсь сказать, что рад: ты решила не доводить дело до конца. Я не ждал от тебя этого и рад, что не ошибся в тебе.",ai,,1FD449E4445BB0A2DB00C284BB6A8BD7

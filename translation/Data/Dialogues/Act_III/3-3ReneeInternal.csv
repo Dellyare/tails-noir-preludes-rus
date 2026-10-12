@@ -33,12 +33,12 @@ You,Okay. But how do you break it to him. Where do you start?,Ладно. Но �
 Renee,I should let him know it's not his fault.,"Надо дать ему понять, что он ни в чём не виноват.",ai,,23C26ABD48E2D3427C557B9033B03102
 Renee,I'll check in with him first. Figure out where he’s at.,"Сначала прощупаю его. Пойму, что он чувствует.",ai,,4A47AD604CCBB31C3EF4C7A778E5277D
 Renee,I'll let him lead it. Maybe he feels the same way.,"Пусть он ведёт разговор. Может, он чувствует то же самое.",ai,,E74E27B64FB32B0E8D12448B13D97995
-You,"Not vocally, no. But his demeanor toward you has absolutely changed. Less warm, more guarded. Like he can sense something's about to happen.","Вслух - нет. Но его отношение к тебе определённо изменилось. Меньше тепла, больше настороженности. Будто он чувствует, что что-то вот-вот случится.",ai,,20C7515845A20DD6588BF3B9DA30E8F0
+You,"Not vocally, no. But his demeanor toward you has absolutely changed. Less warm, more guarded. Like he can sense something's about to happen.","Нет, не вслух. Но его отношение к тебе определённо изменилось. Меньше тепла, больше настороженности. Будто он чувствует, что что-то вот-вот случится.",ai,,20C7515845A20DD6588BF3B9DA30E8F0
 Renee,You could say the same thing about me.,То же самое можно сказать и обо мне.,ai,,4D8100F4440F5D5029DA0CB4243CEB19
 Renee,He was always very perceptive.,Он всегда был очень проницательным.,ai,,4619F6B540783184420E56A18DE0D3E9
 You,"No. Unlike him, you don't need to sense it. You just need to do it.","Нет. В отличие от него, тебе не нужно ничего чувствовать. Тебе нужно просто сделать это.",ai,,543845874A3D3FDC789B81AA10BEC30A
 Renee,"Alright, enough stalling. It's time.","Ладно, хватит тянуть время. Пора.",ai,,EF82F56440FC6FE2BB1F1991DF20BB23
-You,Then hopefully he'll be able to see this one coming.,"Тогда, надеюсь, этого он увидит заранее.",ai,,29E6561641E722EBAC42F7B50270D65D
+You,Then hopefully he'll be able to see this one coming.,"Тогда, надеюсь, он успеет это предвидеть.",ai,,29E6561641E722EBAC42F7B50270D65D
 Renee,"Alright, enough stalling. It's time.","Ладно, хватит тянуть время. Пора.",ai,,972842A14AE1B803A00177AB422F65A2
 You,"Good, but not great. But you were out of your element. Writing about systemic corruption requires a lot more fact checking than covering a grocery store opening. But that's just a matter of practice. You'll get there.","Неплохо, но не блестяще. Но ты оказалась не в своей стихии. Писать о системной коррупции - это куда больше проверки фактов, чем освещать открытие продуктового магазина. Но это вопрос практики. У тебя получится.",ai,,73FEE3FA4A6D8DA9D8990684FC6BC0F4
 Renee,The work should speak for itself.,Работа должна говорить сама за себя.,ai,,02CA94D64B4BE5B6643B7C91F925EB05
@@ -61,7 +61,7 @@ You,"Well, now it's here.","Что ж, теперь она здесь.",ai,,62D2
 Renee,No more delays this time.,На этот раз без отсрочек.,ai,,63480FD140EFAD03A5048A9305DDEE15
 Renee,[Breath deeply],[Глубоко вдохнуть],ai,,E94298FD4D1BE6574C45FC8DD00D37E1
 You,Maybe. But now it does.,Может быть. Но теперь это важно.,ai,,D895C62C4693886E3A01ACB836719DD9
-Renee,Lucky me.,Мне повезло.,ai,,6992ADB9435FCDC8CE337DAB91A433F1
+Renee,Lucky me.,"Ну да, мне повезло.",ai,,6992ADB9435FCDC8CE337DAB91A433F1
 Renee,[Breath deeply],[Глубоко вдохнуть],ai,,67C460214DFE6CC85EB88582DF130BA7
 You,"You were. But to drop a story that big, you need backup. Allies at other papers to amplify your narrative when it gets buried on the back page. And a team of editors who will go to war with the publisher to see it on the front.","Была. Но чтобы выпустить такую историю, нужна поддержка. Союзники в других газетах, которые усилят твой материал, когда его задвинут на последнюю полосу. И команда редакторов, готовых воевать с издателем, чтобы он попал на первую.",ai,,881ED1B048B855D1F897E0A3B75F1E05
 Renee,The work should speak for itself.,Работа должна говорить сама за себя.,ai,,51B87AA24A0746D20C375A8CB31C2312
@@ -82,7 +82,7 @@ Renee,It's hard to get into a heated debate about the grand opening of a grocery
 You,You know what you want to do with your life now. And you can't be the kind of partner Lukas needs while pursuing that.,"Теперь ты знаешь, чем хочешь заниматься в жизни. И не можешь быть той спутницей, какая нужна Лукасу, и одновременно этим заниматься.",ai,,341F64814930E4E09945FE9B5D12FAEA
 Renee,I can't fight the system while living with one of its soldiers.,"Я не могу бороться с системой, живя с одним из её солдат.",ai,,BF245BC74FA9940C53F5D8B2B58A128C
 Renee,Pretending otherwise would be unfair.,"Делать вид, что это не так, было бы нечестно.",ai,,1BF28F2D446A9313112F76BCF7186D27
-You,Then go back to writing about the new look of city buses. Because anything bigger than that will require some serious people skills.,Тогда возвращайся к заметкам о новом облике городских автобусов. Потому что всё серьёзнее потребует настоящих навыков общения с людьми.,ai,,2DBA28794D9BC9F100D65686B8882074
+You,Then go back to writing about the new look of city buses. Because anything bigger than that will require some serious people skills.,"Тогда возвращайся к заметкам о новом облике городских автобусов. Потому что всё, что серьёзнее, потребует настоящих навыков общения с людьми.",ai,,2DBA28794D9BC9F100D65686B8882074
 Renee,Just getting the truth out there should be enough.,Достаточно просто донести правду.,ai,,E3B2FA524974D43D997CAAB9E41594FF
 Renee,I have Lukas.,У меня есть Лукас.,ai,,3F7C7B164A3273159ED68C875E662AC7
 You,Maybe. But what happens next time you come across a story like this? Will you report it to the best of your abilities? Or will you compromise your values to protect the ones you love?,"Возможно. Но что будет в следующий раз, когда ты наткнёшься на такую историю? Ты напишешь о ней как можно лучше? Или поступишься принципами ради тех, кого любишь?",ai,,7FA842E6426783797DE9F2961AE4D8F1
@@ -115,7 +115,7 @@ Renee,I could have been more thorough in my research.,Мне стоило глу
 Renee,It's not his fault.,Он не виноват.,ai,,2E411DEB4E4AE52047F41BBF38236749
 You,"Then you know what you have to do. If this is really your calling, it's the only way.","Тогда ты знаешь, что должна сделать. Если это и правда твоё призвание, другого пути нет.",ai,,EE6D4D264332B767C586919775959E59
 Renee,Okay. Enough stalling.,Ладно. Хватит тянуть.,ai,,CD29451845A7CE272A960DB10D883B72
-You,But is that fair to him? That article made him a pariah at the station. He's going to be working nights for the forseeable future. And it's all your fault.,Но справедливо ли это по отношению к нему? Из-за той статьи он стал изгоем в участке. В обозримом будущем его ждут ночные смены. И всё это - по твоей вине.,ai,,6531D92649FBF590D3BAED9764BF4AD9
+You,But is that fair to him? That article made him a pariah at the station. He's going to be working nights for the forseeable future. And it's all your fault.,Но справедливо ли это по отношению к нему? Из-за той статьи он стал изгоем в участке. В обозримом будущем его ждут ночные смены. И всё это по твоей вине.,ai,,6531D92649FBF590D3BAED9764BF4AD9
 Renee,He'll be fine.,С ним всё будет в порядке.,ai,,62F9E99C422AF4CBED3CFE9558F2A4A2
 Renee,I can't do that to him again.,Я не могу снова так с ним поступить.,ai,,90F291AF45491991426D968925389EEB
 You,"Yes, but have you been? Lucas is pretty much a pariah at the station now, and that's after your editor made all those cuts. Can you imagine how much worse things would be had you gotten your way?","Да, но была ли ты тщательной? Лукас теперь почти изгой в участке, и это после того, как твой редактор сделал все эти сокращения. Представляешь, насколько хуже было бы, если бы всё вышло по-твоему?",ai,,2D0A8D8F48A51746BED4B3B41CE9E932
@@ -124,6 +124,6 @@ Renee,He's never said anything about it.,Он ни разу ничего об э
 You,"You'll need back up, though. Allies at other papers to amplify your narrative if the publishers try to bury it again. And a team of editors who fight tooth and nail to see that that doesn't happen..","Но тебе понадобится поддержка. Союзники в других газетах, которые усилят твой материал, если издатели снова попытаются его похоронить. И команда редакторов, которые будут драться до последнего, чтобы этого не случилось.",ai,,68C6BC6343E713CB4AA461B1C3482FE4
 Renee,The work should speak for itself.,Работа должна говорить сама за себя.,ai,,664FE2614877F3607070ABAAD627E4B4
 Renee,I'm not a leader. I'm a writer.,Я не лидер. Я писательница.,ai,,3D12CA184F5515BA7E50E5AB1782A46F
-You,"The old “it’s not you, it’s me.” No, Lukas is too smart for that. And it's not exactly true, either. It’s not me, just as much as it isn’t him. It’s “us”. We’re just not who we used to be. ","Старое доброе «дело не в тебе, дело во мне». Нет, Лукас слишком умён для этого. Да и не совсем это правда. Дело не во мне, как и не в нём. Дело в «нас». Мы просто уже не те, кем были. ",ai,,71D2D7EE4499119D66C18485B7BDA117
+You,"The old “it’s not you, it’s me.” No, Lukas is too smart for that. And it's not exactly true, either. It’s not me, just as much as it isn’t him. It’s “us”. We’re just not who we used to be. ","Старое доброе «дело не в тебе, дело во мне». Нет, Лукас слишком умён для этого. Да и не совсем это правда. Дело не во мне и не в нём. Дело в «нас». Мы просто уже не те, кем были. ",ai,,71D2D7EE4499119D66C18485B7BDA117
 Renee,Our goals no longer align.,Наши цели больше не совпадают.,ai,,6C376E0D407C2F87DC6D2F9FCDC094E8
 Renee,Our values don't align.,Наши ценности не совпадают.,ai,,FC65493942329F8E58DEECBEEBDC9E4B

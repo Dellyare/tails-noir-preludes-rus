@@ -4,23 +4,23 @@ Notification,May suspects the teens were up to something.,"Мэй подозре
 Notification,May suspects the geezers were messing with the clock.,"Мэй подозревает, что с часами набедокурили гуси.",ai,,2E404CFD43F75EF821BC2D8D7B9B09C5
 Notification,You gave May the plushie.,Ты отдал Мэй плюшевую игрушку.,ai,,828E650E43299101FDE22A8FA1025745
 May,...A picture? How much are you going to pay us?,...Снимок? А сколько ты нам заплатишь?,ai,,29E39CF444F099CD8AC748BCFD02C60A
-Howard,...Pay?,...Заплачу?,ai,,6A1FF4DC45D0BED8F46A8989418F9BE0
+Howard,...Pay?,...Заплатить?,ai,,6A1FF4DC45D0BED8F46A8989418F9BE0
 Howard,Nothing. It's just for a class assignment.,Нисколько. Это просто для учебного задания.,ai,,3783D6894DF9E5F7307FA3A04F7B0B3C
 May,"Well, at least you admit it. I suppose you find something AMUSING about a struggling mother who can't afford to buy a simple toy for her baby girl?","Что ж, хоть признаёшь. Небось находишь что-то ЗАБАВНОЕ в бедной матери, которая не может купить простую игрушку своей малышке?",ai,,8BAE0E394F9CD97666395BA3AA14C9A1
-Howard,(SARCASTIC) Amusing? No. But I don't think it's worth advertising to the neighbourhood like you're doing now.,"(САРКАЗМ) Забавное? Нет. Но, по-моему, не стоит оповещать об этом всю округу, как вы сейчас делаете.",ai,,188137D6411CF2839D7FE3817A43425C
+Howard,(SARCASTIC) Amusing? No. But I don't think it's worth advertising to the neighbourhood like you're doing now.,"(САРКАЗМ) Забавно? Нет. Но, по-моему, не стоит трубить об этом на всю округу, как вы сейчас делаете.",ai,,188137D6411CF2839D7FE3817A43425C
 Howard,(INVESTIGATIVE) These aren't simple toys. They're wildly overpriced. Probably because this is the wealthiest area of town.,"(ПЫТЛИВОСТЬ) Это не простые игрушки. Цены на них заоблачные. Наверное, потому что это самый богатый район города.",ai,,5289043B4555DC00CE1AF19A9FA2F4E7
 Howard,"(SOCIAL) Absolutely not. Believe me, if I weren't a broke student, I'd rush in there and scoop up as many toys for her as I could afford.","(ОБЩИТЕЛЬНОСТЬ) Ни в коем случае. Поверьте, не будь я нищим студентом, я бы сейчас же побежал туда и накупил ей столько игрушек, на сколько хватило бы денег.",ai,,7DB963974EBC650E7CCCA78B1A58F2FB
 May,"People in this neighbourhood are very into the Winter Solstice. It's all a load of hooey, but it's always good to have some common ground with your mark. Makes them want to help you more.","Здешний народ просто помешан на зимнем солнцестоянии. Чушь собачья, конечно, но с клиентом всегда полезно найти общий язык. Тогда ему больше хочется тебе помочь.",ai,,3991596E40617CF0C4BEC39216E1A7DF
 Howard,Of course. Let's talk a bit more about this hustle you have going.,Ну конечно. Давайте ещё поговорим об этой вашей афере.,ai,,941106B14EEF4B50BCCDD8AE639B5D6B
 Howard,Hmm. Let's talk about something else.,Хм. Давайте поговорим о чём-нибудь другом.,ai,,5FDC72554A7555852AE81B87CA611D4A
 Howard,Right. Catch you later. [Leave],Ладно. Ещё увидимся. [Уйти],ai,,E38CEFE845542E6187558585E865129B
-May,"A squalid little hole in West End. It's a studio, but luckily we only have to share it with four other people.","Убогая конура в Уэст-Энде. Однокомнатная, но нам повезло - делим её всего с четырьмя.",ai,,CFCC30B24F1816E7D6BB33BDA0E78660
+May,"A squalid little hole in West End. It's a studio, but luckily we only have to share it with four other people.","Убогая конура в Уэст-Энде. Однокомнатная, но нам повезло: делим её всего с четырьмя.",ai,,CFCC30B24F1816E7D6BB33BDA0E78660
 Howard,Four other people?,С четырьмя?,ai,,3435A5C84578DEA63FBDAC88ECEE3EC7
 Howard,That doesn't sound lucky at all.,Не очень-то это похоже на везение.,ai,,0938508643C9F45ABB45ABBD39D0F6B1
 May,"My mother and father are both very sick, so we have to look after them. And my brother and his daughter. They're sick as well.","Мои мать и отец оба тяжело больны, так что приходится за ними ухаживать. И ещё брат с дочкой. Они тоже больны.",ai,,7F96DF074FCBCA62329E1885EBC7605D
 Howard,Sounds contagious. You sure you're not sick too?,"Похоже, это заразно. Вы уверены, что сами не больны?",ai,,683813024354C0DB4E4676958BDBB684
 Howard,What do you mean by 'sick'?,Что значит «больны»?,ai,,A16D5FBA46EF75324E4426AF59B723B4
-May,Just sick and tired of taking care of others. But I suppose I should thank the Shepard that I'm still in the position to do that.,"Я-то больна разве что одним - до смерти устала ухаживать за другими. Но, видно, надо благодарить Пастыря, что я ещё в состоянии это делать.",ai,,0D435743404F228AA034FB928660187F
+May,Just sick and tired of taking care of others. But I suppose I should thank the Shepard that I'm still in the position to do that.,"Я-то больна разве что одним: до смерти устала ухаживать за другими. Но, видно, надо благодарить Пастыря, что я ещё в состоянии это делать.",ai,,0D435743404F228AA034FB928660187F
 Howard,Is there anything I can do to help?,Я могу чем-нибудь помочь?,ai,,1879FA6048D06327FFBB8DA5B58D9D00
 Howard,Hopefully you won't get sick either.,"Надеюсь, вы тоже не заболеете.",ai,,CE7827C147BA08257CFCD392E4D08044
 May,"Well, my parents are both pretty frail, so they need constant tending. And my brother threw out his back at work a few years back and is basically bed-ridden. And my niece has a bit of a runny nose.","Ну, родители у меня оба совсем дряхлые, за ними нужен постоянный уход. Брат несколько лет назад сорвал спину на работе и теперь почти не встаёт с постели. А у племянницы небольшой насморк.",ai,,2DE82A494FD1856FBEE9628EAF778DC0
@@ -63,9 +63,9 @@ Howard,I'll try not to. Let's talk about you some more.,Постараюсь. Д
 Howard,"Let's change the subject, then.",Тогда давайте сменим тему.,ai,,92E366744848960D21D861AC991B2F72
 May,Shut up! SHUT UP! Winter Solstice is one of our biggest days of the year and I am NOT going to have some art school brat ruin that for us.,"Заткнись! ЗАТКНИСЬ! Зимнее солнцестояние - один из самых прибыльных для нас дней в году, и я НЕ позволю какому-то сопляку из художки нам его испортить.",ai,,5202E0064BAB0DC2F1062CB211C6E167
 Howard,I think this art school brat is going to ruin it for you.,"Кажется, этот сопляк из художки вам его всё-таки испортит.",ai,,772AC4CC4B6415EE81E15BB3E586FA11
-Howard,Do your worst.,"Ну, попробуйте мне помешать.",ai,,5ED55E9248AFAC9A9799398C4D9B33D1
+Howard,Do your worst.,"Ну, давайте, постарайтесь.",ai,,5ED55E9248AFAC9A9799398C4D9B33D1
 Howard,How are you going to stop me?,И как вы меня остановите?,ai,,B9AD65054B5A87F7F850FDB8CC11F2C9
-May,"Alright, alright. What do you want? A fucking picture? Fine, take your fucking picture.","Ладно, ладно. Чего тебе надо? Сраный снимок? Хорошо, снимай свой сраный снимок.",ai,,DE3FC4AF4DB8B0902FCB4CBF1B714C77
+May,"Alright, alright. What do you want? A fucking picture? Fine, take your fucking picture.","Ладно, ладно. Чего тебе надо? Ебучий снимок? Хорошо, снимай свой ебучий снимок.",ai,,DE3FC4AF4DB8B0902FCB4CBF1B714C77
 Howard,You shouldn't swear in front of your kid.,Не стоит материться при ребёнке.,ai,,74FA0A0E4EA64385A4BF2F82BF14D2D3
 Howard,[Take picture],[Сделать снимок],ai,,0CC0574A487361A0AEE61B9A3383A92A
 May,That's what I figured.,Так я и думала.,ai,,46FA279441E3E2764F8A7A8F59F20256
@@ -84,7 +84,7 @@ Howard,I have this toy here...,У меня есть вот такая игруш
 Howard,How about this birdseed?,Как насчёт этого птичьего корма?,ai,,E4702696495421CDBCD264A9DE439736
 Howard,How about these cigarettes?,Как насчёт этих сигарет?,ai,,ABAD8AAD4CE0BDCA20D67FAD78660B52
 Howard,I don't really have anything.,У меня ничего толком нет.,ai,,6FB0574841B9C95085B806BD0217C62E
-May,"I told you: if you can get my baby a toy before we head home, we'll take whatever dumb photo you want. But you're going to have to hurry up, the last bus back to Granville's in a couple hours and Liona hates walking.","Я же сказала: если достанешь моей малышке игрушку, пока мы не ушли домой, - сделаешь какой угодно дурацкий снимок. Но тебе придётся поторопиться: последний автобус до Гренвилля через пару часов, а Лиона терпеть не может ходить пешком.",ai,,329061AF44F35AC97AA732A4676BA37C
+May,"I told you: if you can get my baby a toy before we head home, we'll take whatever dumb photo you want. But you're going to have to hurry up, the last bus back to Granville's in a couple hours and Liona hates walking.","Я же сказала: если достанешь моей малышке игрушку до того, как мы пойдём домой, сделаешь какой угодно дурацкий снимок. Но тебе придётся поторопиться: последний автобус до Гренвилля через пару часов, а Лиона терпеть не может ходить пешком.",ai,,329061AF44F35AC97AA732A4676BA37C
 Howard,"(INVESTIGATIVE) Wait, didn't you say you lived on the West End?","(ПЫТЛИВОСТЬ) Погодите, вы же говорили, что живёте в Уэст-Энде?",ai,,E77DDBC040A5C71B39D856A693EE9818
 Howard,I have this toy here...,У меня есть вот такая игрушка...,ai,,B2D32276466AEF201B60AF90C0A6E951
 Howard,Where am I supposed to get a toy?,И где мне взять игрушку?,ai,,07C3B20041E2E28F1226F28C95EB425C
@@ -136,7 +136,7 @@ Howard,"No, let's talk some more.","Нет, давайте ещё поговор
 May,That ridiculous clock? What about it?,Эти нелепые часы? А что с ними?,ai,,82B8957443F15FBF14B6B9A60CB58976
 Howard,"Nothing. I wanted to talk about something else, actually.",Ничего. Вообще-то я хотел поговорить о другом.,ai,,089411D54247AF92BDCA8A9D1262F852
 Howard,Someone told me you're the one who did it.,"Мне сказали, что это сделали вы.",ai,,41AA05B5482E53616D2564B79BF7033E
-Howard,"The Jig's up. Everyone says you're the one who did. ","Игра окончена. Все говорят, что это сделали вы. ",ai,,6343E77B4AA647590C6FF1A3EE32D6CE
+Howard,"The Jig's up. Everyone says you're the one who did. ","Вас раскусили. Все говорят, что это сделали вы. ",ai,,6343E77B4AA647590C6FF1A3EE32D6CE
 Howard,A hand's missing. Any idea who did it?,"Пропала стрелка. Не знаете, кто это сделал?",ai,,59ED35F740311BE2C98D9597C71C8ECF
 May,"We don't call them suckers. We call them 'marks'. And so far we've gotten thirteen toys we could return. And if it wasn't for that slip up, it would have been fourteen.","Мы их не лохами зовём, а «клиентами». И пока что набрали тринадцать игрушек, которые можно сдать обратно. А если бы не тот прокол, было бы четырнадцать.",ai,,ED31A71F4D3B6E2CEFB12788ACF113A5
 Howard,Doubt that. I don't have any money.,Сомневаюсь. У меня нет денег.,ai,,274AAEBC4877F0FB37D4BBBAB1248C8B
@@ -145,7 +145,7 @@ May,Anything else?,Что-нибудь ещё?,ai,,3037267B49B902D10C1138B6EBC5F
 Howard,I want to ask you about something else.,Хочу спросить вас кое о чём другом.,ai,,A6114A4449A3B4AB1F0C9C91A8ED4486
 Howard,"Yeah, I'm outta here. See ya.","Да, я пошёл. Пока.",ai,,402499E54FE8285664BC25BAC60A0383
 Howard,"No, I want to know more about the clock.","Нет, я хочу ещё узнать про часы.",ai,,8C03BA51482FAA88ACCB76B4B63FCC5E
-May,"I told you, it's those filthy teens. If you want to start kicking people out of this area, start with them. Not us.","Я же сказала, это всё те мерзкие подростки. Хочешь кого-то выгнать из этого района - начни с них. А не с нас.",ai,,2986E0FC4852DF5E7084E5BCAB9EA9FB
+May,"I told you, it's those filthy teens. If you want to start kicking people out of this area, start with them. Not us.","Я же сказала, это всё те мерзкие подростки. Хочешь кого-то выгнать из этого района, начни с них. А не с нас.",ai,,2986E0FC4852DF5E7084E5BCAB9EA9FB
 Howard,That's all I need. Thanks.,"Это всё, что мне нужно. Спасибо.",ai,,DCE2A1014CF0954A1A489A87B932449C
 Howard,I'm going to need a little more than that.,Мне нужно чуть больше подробностей.,ai,,C359739242EF4B137B3371A637BB6DD6
 May,"Who cares? You're obsessing about some clock no one cares about, meanwhile my daughter's about to go another Winter Solstice without so much as a trinket to mark the occasion. Why don't you look into that instead?","Да кому какое дело? Ты помешался на каких-то часах, до которых никому нет дела, а моя дочь вот-вот встретит ещё одно зимнее солнцестояние без единой безделушки на праздник. Может, лучше этим займёшься?",ai,,FA657CEB4B58085CF8BC969AA68FDB95
@@ -157,7 +157,7 @@ Howard,Can you describe them a little more?,Можете описать их п�
 May,"Tracked down the clock piece, hmm? Guess you're smarter than you look.","Нашёл-таки деталь от часов, а? Умнее, чем выглядишь.",ai,,165CAEEE49804A4AE0A0D9830AC377E9
 Howard,Why can't you just be happy for me?,Почему вы не можете просто порадоваться за меня?,ai,,25AC79364918938293E0FDA43ABDC046
 Howard,That's kind of a rude thing to say.,Это довольно грубо.,ai,,CD73CCC841CF7D6F263CA1AAE16CD4F6
-May,"What are you, trying to see if I'll change my story or something? I told you it was that gang of geezers.","Что, проверяешь, не изменю ли я показания? Я же сказала - это шайка гусяров.",ai,,CF03A75B40C14EF4D8ADEEBB66CF0BDB
+May,"What are you, trying to see if I'll change my story or something? I told you it was that gang of geezers.","Что, проверяешь, не изменю ли я показания? Я же сказала, это шайка гусяров.",ai,,CF03A75B40C14EF4D8ADEEBB66CF0BDB
 Howard,Got it.,Понял.,ai,,754A0BEA429977422CCB1883975B1162
 Howard,Where are they?,Где они?,ai,,7616995744A03EC3D7ADB3AFD6192111
 May,I saw a bunch of those geezers near it earlier today. They were all stacked on top of each other. Too bad you weren't here with you camera then. It was quite the sight!,"Я видела кучу этих гусяров возле часов сегодня. Все друг на друге. Жаль, тебя с камерой тут не было. Зрелище было то ещё!",ai,,91DB12104BBA5BE006317680BA681046
@@ -191,7 +191,7 @@ Howard,Eavesdropping? You were speaking very loudly.,Подслушиваю? В�
 May,"And that's exactly how she made you her little plaything. Did anyone else corroborate this nonsense? Of course not! Why, the Goddess will have you running in circles come nightfall. You can be sure of that.",Вот так она и сделала из тебя свою игрушку. Кто-нибудь ещё подтвердил эту чушь? Конечно нет! Богиня будет гонять тебя по кругу до самой ночи. Можешь не сомневаться.,ai,,8A6E774549A210B9215CE3A584E36B66
 Howard,I'm nobody's plaything! [Leave],Я ничья не игрушка! [Уйти],ai,,9754AB6C4787E1F886D89FA5CF2AAA8D
 Howard,Nah. I'm going to prove you did it. [Leave],"Не-а. Я докажу, что это были вы. [Уйти]",ai,,6ED7020D454101E6CF8BE08B6240AF7D
-May,Bah. Fine. I nabbed it. It's got gold plating and even the fake stuff can fetch a fair price if you go to the right place. I never figured these Gastown ghouls would actually snitch. Where's their compassion?,"Бах. Ладно. Я её стащила. Она позолоченная, и даже подделка уйдёт по хорошей цене, если знать, куда нести. Не думала, что эти газтаунские упыри и правда настучат. Где их сострадание?",ai,,FE997C5545CD92C67E62E782E0597A62
+May,Bah. Fine. I nabbed it. It's got gold plating and even the fake stuff can fetch a fair price if you go to the right place. I never figured these Gastown ghouls would actually snitch. Where's their compassion?,"Тьфу. Ладно. Я её стащила. Она позолоченная, и даже подделка уйдёт по хорошей цене, если знать, куда нести. Не думала, что эти газтаунские упыри и правда настучат. Где их сострадание?",ai,,FE997C5545CD92C67E62E782E0597A62
 Howard,Probably went out the window when you started calling them 'ghouls'.,"Наверное, пропало, когда вы начали называть их «упырями».",ai,,138213A94D63D2659AA21384AAE92EDF
 Howard,Where's yours?,А где ваше?,ai,,7E4AAA8D43DE5A145FFF45A7A553F8C9
 May,"I was going to use the proceeds to buy my little Liona some dinner. You know, by taking this you're stealing food off of my little girl's plate.","Я хотела на выручку купить малышке Лионе ужин. Знаешь, забирая её, ты крадёшь еду с тарелки моей маленькой девочки.",ai,,8387AB39422E833A942297A0F7A8000E
@@ -209,7 +209,7 @@ Howard,"Sorry, I need it for my art.","Простите, она мне нужн�
 May,"Oh, you think just because we're POOR we don't know how to use a camera? Liona happens to be smart. VERY smart. She'd probably take better pictures than you could. Give it to her and see.","О, думаешь, раз мы БЕДНЫЕ, мы не умеем пользоваться камерой? Лиона, между прочим, умная. ОЧЕНЬ умная. Она, наверное, снимет лучше тебя. Отдай ей и посмотри.",ai,,867899FB4760C9A476547F9F30854AB9
 Howard,Sorry. I can't afford to lose it.,Простите. Я не могу её потерять.,ai,,1139910E4693E3E042E96397F34754D5
 Howard,No way.,Ни за что.,ai,,D5D6D3B3445AAD218684FE9A3C14B7C2
-May,"What? I don't know. First you give my daughter that filthy toy and now you're harassing us about some stupid clock? You're a real pest, you know that?","Что? Не знаю. Сначала ты даришь моей дочери эту грязную игрушку, а теперь пристаёшь к нам с какими-то дурацкими часами? Ты настоящий вредитель, знаешь?",ai,,C885FD5B4CC88894E71303B6AAB05BA8
+May,"What? I don't know. First you give my daughter that filthy toy and now you're harassing us about some stupid clock? You're a real pest, you know that?","Что? Не знаю. Сначала ты даришь моей дочери эту грязную игрушку, а теперь пристаёшь к нам с какими-то дурацкими часами? Ты настоящий зануда, знаешь?",ai,,C885FD5B4CC88894E71303B6AAB05BA8
 Howard,"Alright, alright. Just curious.","Ладно, ладно. Просто любопытно.",ai,,E5D2C88F424143D57A0750AA4813E3FA
 Howard,"Takes one to know one. [Leave, trying not to cry]","От такой слышу. [Уйти, стараясь не заплакать]",ai,,A7B4B3A945D4BF24F023469FBBC4EEB4
 May,Art? ART!? You must be loaded if you're studying something that dumb. I bet you could buy my baby a toy if you wanted to.,"Искусство? ИСКУССТВО?! Да ты, видно, богат, раз учишься такой ерунде. Могу поспорить, ты мог бы купить моей малышке игрушку, если б захотел.",ai,,79310A0945FE659F1245AD80FF4E2E7A
@@ -219,18 +219,18 @@ May,"Pfft! Another heartless Gastown ghoul! Spitting in the face of the poor. I 
 Howard,"Hey! No, take it back.","Эй! Нет, возьмите свои слова назад.",ai,,FBFF75914D82F101CFE594A21A7A1530
 Howard,Whatever. I don't believe in that stuff.,Ладно. Я в такое не верю.,ai,,AAA6ABCF4849148884AC5FA72CDFF006
 May,Yeah? What?,Да? Что?,ai,,BD17915448F67AFC60FB97A7CE735003
-Howard,"I don't really need that picture any more, but you can have this toy I found anyway.","Эта фотография мне уже не нужна, но игрушку, которую я нашёл, можете забрать.",ai,,89C148264A05C55C2723539253743C5C
+Howard,"I don't really need that picture any more, but you can have this toy I found anyway.","Эта фотография мне уже не нужна, но игрушку, которую я нашёл, всё равно можете забрать.",ai,,89C148264A05C55C2723539253743C5C
 Howard,Can I take a picture of you and your daughter?,Можно сфотографировать вас с дочерью?,ai,,AD3E69CF4DE7473842E6B5964927D8AF
 Howard,About that picture...,Насчёт той фотографии...,ai,,B3A920A14F6C5E09CA8D99BEE1767F28
 Howard,I'd like to know a bit more about you.,Хотел бы узнать о вас побольше.,ai,,B39291FE46DEAC4C93894A81DFE4D782
 Howard,About the clock over there...,Насчёт тех часов...,ai,,D979B9964BA579630647C68371C64DB5
-May,I'll tell you what's strange. STRANGE is getting harassed by some RICH kid who thinks I don't belong in his neighbourhood! Strange is harassment! The kind you're giving me right now!,"Знаешь, что странно? СТРАННО - когда к тебе пристаёт какой-то БОГАТЫЙ мальчишка, считающий, что мне не место в его районе! Странно - это приставание! Такое, какое ты устраиваешь сейчас!",ai,,D5637F334F7E77D0266CD28B69517214
+May,I'll tell you what's strange. STRANGE is getting harassed by some RICH kid who thinks I don't belong in his neighbourhood! Strange is harassment! The kind you're giving me right now!,"Знаешь, что странно? СТРАННО: когда к тебе пристаёт какой-то БОГАТЫЙ мальчишка, считающий, что мне не место в его районе! Странно - это приставание! Такое, какое ты устраиваешь сейчас!",ai,,D5637F334F7E77D0266CD28B69517214
 Howard,I'm sorry. Do you live around here?,Простите. Вы живёте где-то здесь?,ai,,3EEDDF5549B1C2F50E4228A66AA5E1A1
 Howard,I'm not rich at all. I'm a student. A poor one.,Я совсем не богат. Я студент. Бедный.,ai,,68D98C644275C3675E801B8D59A21BB0
 Howard,"You think I'm rich? Gosh, thanks.","Вы думаете, я богат? Ого, спасибо.",ai,,1DAE6A7B40E6E17B0C4247B08C9C6989
 May,"I'm sure. Now, um, do you have the receipt as well?",Конечно. А чек у тебя тоже есть?,ai,,29BB1824443040B6CE3C10AC2DCA3504
 Howard,"I, uh, lost the receipt.","Я, э-э... потерял чек.",ai,,187760AF4CBFD78176226085445B4115
-Howard,I don't have a receipt - I found this by the geezers.,У меня нет чека - я нашёл это у гусяров.,ai,,A37B3D104C49036BA5BDA8B693F6F6F1
+Howard,I don't have a receipt - I found this by the geezers.,"У меня нет чека, я нашёл это у гусяров.",ai,,A37B3D104C49036BA5BDA8B693F6F6F1
 May,"You need to raise your standards, kid. I wouldn't get caught dead in those clothes.","Тебе нужно поднять планку, парень. Я бы в такой одежде и мёртвой не показалась.",ai,,31863DCE4D731F7AF32519A4FB619D11
 Howard,You're not so well-dressed yourself.,Вы и сами одеты не лучше.,ai,,D310542444CB899A4E7A6BB2DA0A2416
 Howard,You're basically wearing rags.,"Да на вас, по сути, лохмотья.",ai,,35066E5D44A1A04683BD149BFCE5DFEB
@@ -241,7 +241,7 @@ Howard,Yeah...I'm going to get out of here before you vultures suck me dry. [Lea
 May,Of course you're rich! That's a Glaxxon 680-S you're carrying. Top of the line. Stop holding out.,"Конечно, ты богат! У тебя «Глаксон 680-S». Топовая модель. Хватит юлить.",ai,,CBDC45F9407E0E98C12B3695EC2520AD
 Howard,It's a loaner from school.,"Это школьная, на время.",ai,,B121AC8E414C59614CF38ABB513D266C
 Howard,I'm beyond broke. I can barely afford tuition.,Я на мели. Едва тяну за учёбу.,ai,,54414FAF4E4FE41EE56AAD94CC8B06C1
-Howard,(INVESTIGATIVE) This is a pretty niche item. How do you know the make an model of my camera?,(ПЫТЛИВОСТЬ) Это довольно нишевая вещь. Откуда вы знаете марку и модель моей камеры?,ai,,32F9961B4700320F76F0ADAC8EB3A9DA
+Howard,(INVESTIGATIVE) This is a pretty niche item. How do you know the make an model of my camera?,(ПЫТЛИВОСТЬ) Это довольно специфическая вещь. Откуда вы знаете марку и модель моей камеры?,ai,,32F9961B4700320F76F0ADAC8EB3A9DA
 May,"What? No! Of course not! Look at us! We live on the West End, where I suppose you richies would prefer us to stay.","Что? Нет! Конечно нет! Взгляни на нас! Мы живём в Уэст-Энде, где вам, богатеям, и положено нас держать.",ai,,8E334EF64518445767BE908148E558F7
 Howard,Relax. I'm not from here either. I'm just a photography student.,Расслабьтесь. Я тоже не отсюда. Я просто студент-фотограф.,ai,,5C7FE0C14AB712829F661F83EEAAB5AA
 Howard,What makes you think I'm rich?,"С чего вы взяли, что я богат?",ai,,26E6CFD74200281E6D7ACCA57146566D
@@ -271,14 +271,14 @@ Howard,That's all I have.,"Это всё, что у меня есть.",ai,,30B1
 May,"Oh I'm sorry, I didn't realize dreaming of a better tomorrow was only for rich kids, like yourself!","Ох, простите, я не знала, что мечтать о лучшем завтра можно только богатым мальчикам вроде вас!",ai,,B088B1F4438561A0064F94841949E2AF
 Howard,"Lady, I'm a student. A poor, struggling student.","Леди, я студент. Бедный, перебивающийся студент.",ai,,0809A6D04C61C21F73B0CD9AC44CD3FA
 Howard,You think I'm rich?,"Вы думаете, я богат?",ai,,DEB8B9FC43EB1E5B2B4F13A271DAFA45
-May,"You know what I want? A nice toy for my little girl. The fancier the better. You get that, then you'll get your picture. But hurry up. The last bus back to Granville's in a couple hours and Liona hates to walk.","Знаешь, чего я хочу? Красивую игрушку для моей малышки. Чем навороченнее, тем лучше. Достанешь - получишь свой снимок. Но поторопись. Последний автобус до Гренвилля через пару часов, а Лиона терпеть не может ходить пешком.",ai,,B933DE7D4CE65FC58EABEA803D8687B9
+May,"You know what I want? A nice toy for my little girl. The fancier the better. You get that, then you'll get your picture. But hurry up. The last bus back to Granville's in a couple hours and Liona hates to walk.","Знаешь, чего я хочу? Красивую игрушку для моей малышки. Чем навороченнее, тем лучше. Достанешь, и получишь свой снимок. Но поторопись. Последний автобус до Гренвилля через пару часов, а Лиона терпеть не может ходить пешком.",ai,,B933DE7D4CE65FC58EABEA803D8687B9
 Howard,"(INVESTIGATIVE) Wait, didn't you say you lived on the West End?","(ПЫТЛИВОСТЬ) Постойте, вы же говорили, что живёте в Уэст-Энде?",ai,,598918D248E5B323877B06A1AEDBB9A9
 Howard,I'll see what I can do. [Leave],"Посмотрю, что можно сделать. [Уйти]",ai,,7763E2E64FDB52FF4CB9A7BCE8AF76BC
 Howard,"Fine. Let me ask you a few more questions, though, first.",Ладно. Но сначала позвольте задать вам ещё пару вопросов.,ai,,A858DDB24075046B0674BA8FA7D332B7
 May,"Did anyone else tell confirm this nonsense? Of course not! Oh yes, the Goddess saw a sucker coming the minute you stepped into this neighbourhood too proud to wear a mask. You're her little plaything!","Кто-нибудь ещё подтвердил эту чушь? Конечно нет! О да, Богиня учуяла простака, как только ты вошёл в район, слишком гордый, чтобы надеть маску. Ты её игрушка!",ai,,8C2F99CB49DB1C9C9C4057934CFDF25B
 Howard,I'm nobody's plaything! [Leave],Я ничья не игрушка! [Уйти],ai,,0A92DDC649B77FDC18325BB27CEEE9A1
 Howard,Alright...I'll go look into this some more. [Leave],Ладно... Пойду разберусь с этим получше. [Уйти],ai,,E1C9734941E8C55F957AC195BCA6A0B6
-May,"...Well, there's a beautiful toy train in that store that my little Liona has her eyes on. Maybe if you bought her that she'd be able to forget all this abuse.","...Ну, в том магазине есть чудесный игрушечный поезд, на который глаз положила моя малышка Лиона. Купишь ей его - может, она забудет все эти обиды.",ai,,FE4095634E60F2617C60E99B73FEF213
+May,"...Well, there's a beautiful toy train in that store that my little Liona has her eyes on. Maybe if you bought her that she'd be able to forget all this abuse.","...Ну, в том магазине есть чудесный игрушечный поезд, на который глаз положила моя малышка Лиона. Купишь ей его, и, может, она забудет все эти обиды.",ai,,FE4095634E60F2617C60E99B73FEF213
 Howard,How about I take her picture instead?,"Может, я лучше её сфотографирую?",ai,,8972FBD74F686463DBA3DDB4946B1C87
 Howard,"Sorry, I can barely afford my tuition.","Простите, я едва тяну плату за учёбу.",ai,,C7DD41CF42F9BF0C8850EAA8E9604326
 May,"I knew you were holding out on me. Oooh, and it's a pricey one too! Alright, kid, we'll take your stupid picture. Hurry up. Let's get it over with.","Я знала, что ты что-то утаиваешь. Ооо, да ещё и дорогая вещь! Ладно, парень, сделаем твой дурацкий снимок. Давай быстрее, покончим с этим.",ai,,93EA0E7544697A3379372EB74A8AB872
@@ -294,9 +294,9 @@ Howard,[Look cool and intimidating],[Выглядеть круто и грозн
 May,Ugh! Nevermind. Just leave us alone if you're not going to be any help!,"Тьфу! Забудь. Просто оставь нас в покое, если не собираешься помогать!",ai,,43F028DB4FB25D31EFD134989AE8DA93
 Howard,Wait. I want to ask you a few questions.,Погодите. Хочу задать вам пару вопросов.,ai,,B13A25C3498DB9A2CC6538B8373FB8CE
 Howard,"Yeah, yeah. [Leave]","Ага, ага. [Уйти]",ai,,1E3B0FB1438B51822FD90C9B27994BBA
-May,"No, you WEREN'T! You came over here as if you saw something and just started hovering around like some GHOUL. I suppose you find something AMUSING about a struggling mother who can't afford to buy a simple toy for her baby girl?","Нет, ещё как ПОДСЛУШИВАЛ! Ты подошёл, будто что-то увидел, и стал виться рядом, как какой-то УПЫРЬ. Наверное, тебе кажется ЗАБАВНЫМ, что мать из последних сил не может купить простую игрушку своей малышке?",ai,,24808892454EEED401AD94B557EB05FC
+May,"No, you WEREN'T! You came over here as if you saw something and just started hovering around like some GHOUL. I suppose you find something AMUSING about a struggling mother who can't afford to buy a simple toy for her baby girl?","Нет, ещё как ПОДСЛУШИВАЛ! Ты подошёл, будто что-то увидел, и стал крутиться рядом, как какой-то УПЫРЬ. Наверное, тебе кажется ЗАБАВНЫМ, что мать из последних сил не может купить простую игрушку своей малышке?",ai,,24808892454EEED401AD94B557EB05FC
 Howard,(SARCASTIC) Amusing? No. But I don't think it's worth broadcasting to the entire neighbourhood like you're doing now.,"(САРКАЗМ) Забавным? Нет. Но не думаю, что об этом стоит объявлять на весь район, как вы сейчас.",ai,,9E98DDBD4F857E5736613E831FA0EEDA
-Howard,(INVESTIGATIVE) These aren't simple toys. They're wildly overpriced. Probably because this is the wealthiest area of town.,"(ПЫТЛИВОСТЬ) Это не простые игрушки. Они безумно задраны в цене. Наверное, потому что это самый богатый район города.",ai,,125EED184A602920355CF2A0D7D99BFA
+Howard,(INVESTIGATIVE) These aren't simple toys. They're wildly overpriced. Probably because this is the wealthiest area of town.,"(ПЫТЛИВОСТЬ) Это не простые игрушки. Цены на них заоблачные. Наверное, потому что это самый богатый район города.",ai,,125EED184A602920355CF2A0D7D99BFA
 Howard,"(SOCIAL) Absolutely not. Believe me, if I weren't a broke student, I'd rush in there and scoop up as many toys for her as I could afford.","(ОБЩИТЕЛЬНОСТЬ) Ни в коем случае. Поверьте, не будь я нищим студентом, я бы влетел туда и скупил для неё столько игрушек, сколько потянул бы.",ai,,8DAB549442FFA23065673E8AA058F0EB
 May,"Oh, I'm sorry: do our humble West End ways OFFEND your posh Gastown ""sensibilities""? I bet you think I don't belong in this neighbourhood.","О, простите: наши скромные уэст-эндские манеры ОСКОРБЛЯЮТ вашу роскошную газтаунскую «утончённость»? Бьюсь об заклад, ты считаешь, что мне не место в этом районе.",ai,,E293FFE941110B81DA24F5A2A6A7D16E
 Howard,"(SARCASTIC) Lady, I'm beginning to think you don't belong in this universe.","(САРКАЗМ) Леди, я начинаю думать, что вам не место в этой вселенной.",ai,,84979E5640BAC281CDA4AD9AA0241792
@@ -323,7 +323,7 @@ May,"You think WORDS are going to make up for this? Words are cheap. Words are n
 Howard,...Isn't this a bookshop?,...Это же книжный?,ai,,942ABA2147F941C3139D7BB924B09A46
 Howard,I can't afford that. I'm just a student. And a poor one at that.,Я не могу себе этого позволить. Я просто студент. И к тому же бедный.,ai,,A108B694426EC7A66C548BB099A58C97
 Howard,"...I'm telling you, I'm not rich.","...Говорю вам, я не богат.",ai,,B13414C84E6A917ABE26F0A3259BEEE4
-May,Nah-uh. If I told you that you'd be out here tomorrow doing the exact same thing. And the last thing we want is competition.,Не-а. Скажу - и завтра ты будешь тут делать то же самое. А конкуренты нам совсем не нужны.,ai,,3DF742994CADBDF90F19D899F8E608F5
+May,Nah-uh. If I told you that you'd be out here tomorrow doing the exact same thing. And the last thing we want is competition.,"Не-а. Скажу, и завтра ты будешь тут делать то же самое. А конкуренты нам совсем не нужны.",ai,,3DF742994CADBDF90F19D899F8E608F5
 Howard,Okay. Let's talk a bit more about you then.,Ладно. Тогда давайте поговорим о вас.,ai,,E7856B4D443C9CC55D1E2286073F505C
 Howard,Fair enough. Let's change the subject.,Справедливо. Давайте сменим тему.,ai,,5F60422843D39996C1A69FABEAB5F60E
 Howard,"In that case, I'm going to take off before I get tempted to have kids and exploit them. [Leave]","В таком случае я пойду, пока меня не потянуло завести детей и эксплуатировать их. [Уйти]",ai,,528E2A804D56A393C7335CAD7E5F5610
@@ -357,7 +357,7 @@ Howard,Fine. [Leave],Ладно. [Уйти],ai,,5D89EB484E9BF1C938837E9B131970CC
 May,Lost it? I can't return this without a receipt! What am I even supposed to do with this stupid thing?,Потерял? Я не могу вернуть это без чека! Что мне делать с этой дурацкой штукой?,ai,,9CB094F6409EF94D9DFDEC8F5DC01BF4
 Howard,I don't know. Play with it?,Не знаю. Играть?,ai,,2B5A5DCF41B143699571738B29309620
 Howard,You could give it to your daughter. Like you said.,Отдайте дочери. Как и говорили.,ai,,E74CAA594BC26289D3A4088FD9A662D4
-May,"Oh, so you want me to take it back? Make it up to me - I mean us - or get lost.","О, так ты хочешь, чтобы я её вернула? Загладь вину передо мной - то есть перед нами - или проваливай.",ai,,555588F943529572D08EFEA632807BF3
+May,"Oh, so you want me to take it back? Make it up to me - I mean us - or get lost.","О, так ты хочешь, чтобы я её вернула? Загладь вину передо мной, то есть перед нами, или проваливай.",ai,,555588F943529572D08EFEA632807BF3
 Howard,[Get lost],[Свалить],ai,,EDE93B474936004F141196A7AA54A3D4
 Howard,I don't have anything to offer.,Мне нечего предложить.,ai,,A60E516943C55DB6F9B798A119F3A56E
 May,This is a STREET toy!? I can't return a street toy! Not even for store credit! What am I supposed to do with this?,Это УЛИЧНАЯ игрушка?! Уличную игрушку не вернуть! Даже в зачёт будущей покупки! Что мне с ней делать?,ai,,B8024F34469CD89CCC096ABF93416EE8
@@ -386,8 +386,8 @@ Howard,I'm going to go. [Leave],Я пойду. [Уйти],ai,,74E961854CBFD501D4
 May,"It was supposed to be you. But I guess you turned that around on us, didn't you, mark? Now, beat it. We're losing daylight.","Это должен был быть ты. Но, видно, ты обернул всё против нас, а, лох? А теперь брысь. Светлое время уходит.",ai,,D24B1AFD41F9B975CA4084AC1A213D85
 Howard,"Um, my name is actually Howard. Not Mark.",Вообще-то меня зовут Говард. Не Лох.,ai,,1F3C6F0B4E824BBCC9B4BC8399CAB483
 Howard,Alright. [Leave],Ладно. [Уйти],ai,,7C256C2F41DD315E4F1BB8BEEB0F9525
-May,"You actually believe that don't you? I can't believe I didn't see it. Now, beat it, you pest. We're losing daylight.","Ты правда в это веришь, да? Не верится, что я не заметила. А теперь брысь, вредитель. Светлое время уходит.",ai,,5885A43D463D33BD60CD2AAB92C53A75
-Howard,My name is  Howard. Not pest.,Меня зовут Говард. Не вредитель.,ai,,F57663CD4E365E747CBBC1B0F7858829
+May,"You actually believe that don't you? I can't believe I didn't see it. Now, beat it, you pest. We're losing daylight.","Ты правда в это веришь, да? Не верится, что я не заметила. А теперь брысь, зануда. Светлое время уходит.",ai,,5885A43D463D33BD60CD2AAB92C53A75
+Howard,My name is  Howard. Not pest.,Меня зовут Говард. Не зануда.,ai,,F57663CD4E365E747CBBC1B0F7858829
 Howard,Alright. [Leave],Ладно. [Уйти],ai,,D425A48E4DC1BF6C76E418B8012ACA37
 May,"Oh. So, you're an idiot. Go away, idiot.","О. Так ты идиот. Уходи, идиот.",ai,,199FDC0249854B0817DFB28C08026506
 Howard,"Wait, I want to learn a bit more about you.","Погодите, хочу узнать о вас побольше.",ai,,FCA62C0E4153645FB03689B3F7C37587

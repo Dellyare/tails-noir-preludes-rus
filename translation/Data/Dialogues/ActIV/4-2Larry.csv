@@ -51,7 +51,7 @@ Howard,As is the former.,Как и насчёт первого.,ai,,8426612C4DE2
 Larry,"I'm sure you're welcome to join anytime, man. They always liked you more than me.","Уверен, ты можешь присоединиться в любой момент, чувак. Ты им всегда нравился больше, чем я.",ai,,B10CFD1F4638EDF9D131259CAA0036DA
 Howard,That's a load of crap.,Полная чушь.,ai,,73AEFC2B498A527B7CE6738220DCA095
 Howard,You'll win them over with your charming personality.,Ты покоришь их своим обаянием.,ai,,D0EE2A5C49C0954033F04E86FF5CE7CD
-Larry,"I mean, I'll tell you as much - Wisconsin potentially being the most successful of us at the dorm from the get-go wasn't on my bingo card.",Скажу честно: чтобы Висконсин сразу стал самым успешным из нас в общаге - такого у меня в бинго не было.,ai,,3087E0CD45B3E74C6D5837B8D75ED936
+Larry,"I mean, I'll tell you as much - Wisconsin potentially being the most successful of us at the dorm from the get-go wasn't on my bingo card.","Скажу честно: что Висконсин сразу станет самым успешным из нас в общаге, в моём бинго не значилось.",ai,,3087E0CD45B3E74C6D5837B8D75ED936
 Howard,"(WISCONSIN LIKES YOU) I mean, I'll get-go on his bingo. If you know what I mean.","(ВИСКОНСИНУ ТЫ НРАВИШЬСЯ) Ну, я бы ему такое бинго устроил. Если ты понимаешь, о чём я.",ai,,892FE3CC44F2AB2A5100F4A347202771
 Howard,"You said it, man.","Не поспоришь, чувак.",ai,,CAEB1E8E401789800F8BE08C3FFAA81C
 Howard,He'll be fine.,С ним всё будет хорошо.,ai,,A29D74B548A31ED1BDBB1BB618FDAAEB
@@ -73,7 +73,7 @@ Larry,"You know what? You save up and buy a car, and I'll consider becoming an a
 Howard,Deal.,Договорились.,ok,,4FB0697A45F93E6936B3C3A19AC98141
 Howard,You better.,Уж постарайся.,ai,,D814CBAF4CBF54AC921E4E861989EE91
 Larry,"Cool. Alright. Well, uh, this is it, then. You got everything?","Круто. Ладно. Ну, э-э, вот и всё, значит. Всё забрал?",ai,,A35B5768476E2D446E655A9ACC076FB8
-Howard,If I don't just take it and I'll come pick it up from Dina and Scole's place later.,"Если нет - просто забери это себе, а я потом заберу у Дины и Скола.",ai,,F9FA0CC74CEA97341D0A02AF7B98B878
+Howard,If I don't just take it and I'll come pick it up from Dina and Scole's place later.,"Если нет, просто забери это себе, а я потом заберу у Дины и Скола.",ai,,F9FA0CC74CEA97341D0A02AF7B98B878
 Howard,Yeah.,Да.,ok,,9F5BF6D649484D4CE7E1559C70BCB51F
 Howard,"Shit, I hope so.","Чёрт, надеюсь.",ai,,463351D04CD07D0C52FD86A003890015
 Larry,"Cool, cool. Okay. I'll, uh, see you around. Alright?","Круто, круто. Ладно. Увидимся, э-э, как-нибудь. Лады?",ai,,D560128749F60783F5901CAC5E47A2D8
@@ -263,11 +263,11 @@ Larry,"...Anyway. They all got out pretty early, like I said - we're the only on
 Howard,"Nice. I'm ready to leave this place, too.",Здорово. Я тоже готов покинуть это место.,ai,,AE8118B74934D957C378D6B7633AF573
 Howard,I'll miss them.,Буду по ним скучать.,ai,,31AD9EE84EB53D16D18D868ED81BD5FB
 Howard,How about you? Are you ready?,А ты? Ты готов?,ai,,2CD126AA4499BF2EC944B5B34397712E
-Larry,"Really? Not me, man. These years here, you and me in this dorm, everyone else - I feel like this was us peaking. How could it get better than this?","Правда? А я нет, чувак. Эти годы здесь, ты и я в этой общаге, все остальные - такое чувство, что это был наш пик. Как может стать лучше?",ai,,B27D9141473189BC81B1B3972000E5E0
+Larry,"Really? Not me, man. These years here, you and me in this dorm, everyone else - I feel like this was us peaking. How could it get better than this?","Правда? А я нет, чувак. Эти годы здесь, ты и я в этой общаге, все остальные. Такое чувство, что это был наш пик. Как может стать лучше?",ai,,B27D9141473189BC81B1B3972000E5E0
 Howard,Better than being a couple of anxious teens in a dorm full of equally anxious teens?,"Лучше, чем быть парой тревожных подростков в общаге, полной таких же тревожных подростков?",ai,,4DB242A749A3C97E9C2E9CAA614277C9
 Howard,"Maybe it won't, but we'll always have it as a great memory.","Может, и не станет, но у нас навсегда останется это прекрасное воспоминание.",ai,,6DA3DE5D47A5FADA54DDD0A0A92A1F52
 Howard,"No clue. No point in having expectations, either. Why not just live it day by day?",Без понятия. Да и ждать чего-то нет смысла. Почему бы просто не жить день за днём?,ai,,45544FE64B81CF58BE72EBB7B5BF8E0C
-Larry,"Same. These last few years here, you and me in this dorm, everyone else - I feel like this was us peaking. How could it get better than this?","Аналогично. Эти последние годы здесь, ты и я в этой общаге, все остальные - такое чувство, что это был наш пик. Как может стать лучше?",ai,,6C9AF46F4CB536884166FBB068BE62E1
+Larry,"Same. These last few years here, you and me in this dorm, everyone else - I feel like this was us peaking. How could it get better than this?","Аналогично. Эти последние годы здесь, ты и я в этой общаге, все остальные. Такое чувство, что это был наш пик. Как может стать лучше?",ai,,6C9AF46F4CB536884166FBB068BE62E1
 Howard,Better than being a couple of anxious teens in a dorm full of equally anxious teens?,"Лучше, чем быть парой тревожных подростков в общаге, полной таких же тревожных подростков?",ai,,480FD73047F077B760D42483F0E3CC28
 Howard,"Maybe it won't, but we'll always have it as a great memory.","Может, и не станет, но у нас навсегда останется это прекрасное воспоминание.",ai,,790640274DBF052078D21BB7B82D9F55
 Howard,"No clue - no point in having expectations, either. Why not just live it day by day?",Без понятия - да и ждать чего-то нет смысла. Почему бы просто не жить день за днём?,ai,,EDC19B304E6BFF6FD120D98446DBE509
@@ -280,7 +280,7 @@ Howard,Why would you want to hang out with someone like Niles? Niles is an assho
 Howard,I would. You prick.,"Захотел бы. Ты, гад.",ai,,03047F6B479BF88B2999A3A456C82C73
 Howard,But you'd hang with people like Wisconsin?,"А с такими, как Висконсин, ты бы тусовался?",ai,,1410E0174C7CED309EFC85B5B233D575
 Larry,"...I mean, uh. Yeah, I think so.","...В смысле, э-э. Да, думаю, да.",ai,,F3EDA59B4E4A4C5DBF9E8793815EAC1A
-Howard,"Regardless, dude, you'll always have me to hang with.","Как бы то ни было, чувак, я у тебя всегда есть - тусоваться.",ai,,041F44414AD40CD21FBF14909B838778
+Howard,"Regardless, dude, you'll always have me to hang with.","Как бы то ни было, чувак, со мной тебе всегда будет с кем потусоваться.",ai,,041F44414AD40CD21FBF14909B838778
 Howard,"Well, you have the rest of us still. And making new friends doesn't sound like that bad, either.","Ну, мы-то у тебя остались. И заводить новых друзей - тоже не так уж плохо.",ai,,B9C975C5408E9E0281836198F79860CC
 Larry,"A running joke among the rest of the students? Yeah, sounds about right.","Вечный анекдот среди остальных студентов? Да, похоже на то.",ai,,D9A203214051BA3F898A41AA357A48E4
 Howard,Crazy talk. All other students love me. I'm charming.,Бред. Все остальные студенты меня обожают. Я обаяшка.,ai,,27A853FD4BE7EA74F5BF20B0F7F5CA85
@@ -322,7 +322,7 @@ Larry,"The worst. Just like you, you nerd.","Хуже всех. Прямо ка�
 Howard,Just like both of us.,Прямо как мы оба.,ai,,FE0C442241182E9D155D09A9A4ED5E52
 Larry,...What?,...Что?,ai,,7659B3774E8A2EB4867BA6B8EA5BB2B0
 Howard,"I'm just saying, don't worry so much.",Я просто говорю: не переживай так сильно.,ai,,124897CF45BC46372A28CCB2234CEBF0
-Howard,"...Look, if you compare today by tomorrow, you're not going to enjoy either.","...Слушай, если сравнивать сегодня с завтра, не получится насладиться ни тем, ни другим.",ai,,9131BAD64AF6196424E9C5AFE09EEA9C
+Howard,"...Look, if you compare today by tomorrow, you're not going to enjoy either.","...Слушай, если сравнивать сегодня с завтра, ни тем, ни другим не насладишься.",ai,,9131BAD64AF6196424E9C5AFE09EEA9C
 Larry,"Oh. Yeah, no, I get that. That's fair. I'm just...bummed out about it. Worried.","А. Да нет, я понимаю. Справедливо. Просто мне... грустно от этого. Тревожно.",ai,,C5F75C6F4F7A8EB678260792AB03FEBE
 Howard,"Yeah. Me too. That's just part of it, I think.","Ага. Мне тоже. Это просто часть всего этого, думаю.",ai,,14A923D14334313CAED9688A94459551
 Howard,Don't worry. It'll get easier.,Не волнуйся. Станет легче.,ai,,D212C2C544082D42CC836DAC633284E0
@@ -333,7 +333,7 @@ Howard,Pfft. I'm just glad to be out of here. Some of these people drove me nuts
 Larry,Deal.,Договорились.,ok,,671D409C4DBF8303F987BBA46C50495C
 Howard,Anyway - I'm stoked to be out of here. This place is a dump. These people are losers.,"В общем, я рад свалить отсюда. Это место - дыра. Эти люди - лохи.",ai,,68A3E4EC48D24FCD1CC2C287B50D2BBB
 Howard,"You know, I'm going to miss everyone. Shit, I feel like I'm going to miss people I didn't even know.","Знаешь, я буду скучать по всем. Чёрт, кажется, буду скучать даже по тем, кого не знал.",ai,,F0D030AB4B1B5400C843BEBA9299FD20
-Larry,"Eh, I'm just in a dramatic mood today. Everything feels so...final. Like it's over now.",Да я просто сегодня в драматичном настроении. Всё как-то так... окончательно. Будто всё уже кончено.,ai,,372D9995448085875207BD86B6342E95
+Larry,"Eh, I'm just in a dramatic mood today. Everything feels so...final. Like it's over now.",Да я просто сегодня в драматичном настроении. Всё кажется таким... окончательным. Будто всё уже кончено.,ai,,372D9995448085875207BD86B6342E95
 Howard,"Eh. Come tomorrow, we'll have better things.",Да ладно. Завтра у нас найдётся дело получше.,ai,,302304A54020103DCDABD78745D3EDED
 Howard,The end of an era.,Конец эпохи.,ai,,B55054084B54D59D2D55C5AE9AEF3D91
 Howard,Yeah - the dorm's almost empty. Did you see anyone else leave?,"Ага, общага почти опустела. Ты видел, как кто-то ещё уезжал?",ai,,8D8D5AE14B524B7FE306269AC9A5E1AD
@@ -345,8 +345,8 @@ Howard,"Oh, daily.","О, каждый день.",ai,,AF4DD4324E1C383801D046AC2E5
 Larry,"Oh, I must have just told everyone else. They agree, by the way.","А, наверное, я говорил всем остальным. Они, кстати, согласны.",ai,,B2B6A2CF42830D93966CE29A40830442
 Howard,[Hold back tears] T-they do?,[Сдержать слёзы] О-они согласны?,ai,,4CD0FB6E4432775CBF3AA49CB3027ED8
 Howard,Sure they do.,Конечно.,ai,,D37CDFED42872CFD041029A7446BFBC5
-Larry,"Clearly not enough, though. Everyone agrees, too - the entire dorm thinks you're just a big old massive dork nerd loser.","Видимо, всё равно недостаточно. Все согласны: вся общага считает тебя здоровенным чудилой, ботаном и лузером.",ai,,EA07D139415820D04DCAB4B8FA881201
-Howard,"No, you. And all of them. You're the dork nerd losers.","Нет, это вы. И они все. Вы - чудилы, ботаны и лузеры.",ai,,2C8CDB55421B396C943BE3A5EE376043
+Larry,"Clearly not enough, though. Everyone agrees, too - the entire dorm thinks you're just a big old massive dork nerd loser.","Видимо, всё равно недостаточно. Все тоже согласны: вся общага считает тебя здоровенным чудилой, ботаном и лузером.",ai,,EA07D139415820D04DCAB4B8FA881201
+Howard,"No, you. And all of them. You're the dork nerd losers.","Нет, это вы. И все они. Вы - чудилы, ботаны и лузеры.",ai,,2C8CDB55421B396C943BE3A5EE376043
 Howard,They're all my friends. Of course they think so.,"Они все мои друзья. Конечно, они так думают.",ai,,5CCCDB64490A81762C0670813AFA1F4F
 Larry,"Oh I know, smooth talker. Chasing tail rather than hanging out with your pal Larry. What a guy.","О, знаю, сладкоречивый. Гоняешься за хвостами вместо того, чтобы потусить с приятелем Ларри. Ну и тип.",ai,,69A5857447E7DCF5AA0A858CD580C580
 Howard,Have I not always asked you if you wanted to come along?,Разве я не всегда звал тебя с собой?,ai,,BEAABF414BA8540930B8DA99FBE5BC42
@@ -370,7 +370,7 @@ Howard,"Smoking catnip on the couch every night gets old too, man.","Курит�
 Howard,"Loud and exhausting are two of my best qualities, Larry.","Шумный и выматывающий - два моих лучших качества, Ларри.",ai,,77FFD74341A4D1E164A2C69090170FC5
 Larry,"Yeah, undeniable charm. Just look at this guy. All the charisma of a dressed-up wet rag.","Ага, неотразимое обаяние. Ты только глянь на него. Харизма как у наряженной мокрой тряпки.",ai,,49B4594248CE33083F6018A7E93ED007
 Howard,Yeah. I'm a rag-time guy.,"Ага. Тряпка, зато под регтайм.",ai,,D0B91DA547CB6C6CDF26A4B687DD5A1A
-Howard,At least I'm wet.,Зато я влажный.,ai,,9A196F7644129E811EF478B334670602
+Howard,At least I'm wet.,Зато я мокрый.,ai,,9A196F7644129E811EF478B334670602
 Howard,"Thanks. Anyway, aren't we supposed to be packing?","Спасибо. Кстати, нам разве не надо собираться?",ai,,9086EEE0450D752542FDD1B74E6D5B57
 Larry,Gross.,Фу.,ai,,7FCC025D41BEC98491D9ED84F8185715
 Howard,Thank you. So - what do you need me to take care of in here?,"Спасибо. Так что тебе нужно, чтобы я здесь сделал?",ai,,55F80589481AFD3584F702A0FA60A3DB
@@ -390,14 +390,14 @@ Howard,Very well. I shall part to obtain my stuff.,"Что ж, прекрасн�
 Larry,"...Why yes, Howard. It certainly does sound like that, Howard. I wonder why that is, Howard.","...О да, Говард. Звучит именно так, Говард. Интересно, почему так, Говард.",ai,,2ACCD7804D4AC6B8F2FD6785F0A75540
 Howard,I was doing important stuff.,Я занимался важными делами.,ai,,6F02963A4EDB1E5A84DFF486375E4BB2
 Howard,"One of life's great mysteries, I suppose. Anyway, I'll start packing.","Одна из великих тайн жизни, наверное. Ладно, начну собираться.",ai,,E9AE0E2C45A3D531FA3814ABAC4CD796
-Larry,"Anything is better than nothing, man. By that logic, you're a technical engineer compared to me just because you know how to use a camera.","Что-то лучше, чем ничего, чувак. По этой логике, ты по сравнению со мной технический инженер, просто потому что умеешь пользоваться камерой.",ai,,BAAC9FC049BE155D866B64B54724E4DB
+Larry,"Anything is better than nothing, man. By that logic, you're a technical engineer compared to me just because you know how to use a camera.","Хоть что-то лучше, чем ничего, чувак. По этой логике рядом со мной ты технический инженер, просто потому что умеешь пользоваться камерой.",ai,,BAAC9FC049BE155D866B64B54724E4DB
 Howard,...You don't know how to use a camera?,...Ты не умеешь пользоваться камерой?,ai,,BA38A729407F43CE9CE9F49AB2A469F7
 Howard,...I'm a technical engineer?,...Я технический инженер?,ai,,9A78064D48A8C4366523638DE4E39835
 Howard,"Sure, sure. I'll get started with the stuff you listed.","Ага, ага. Начну с того, что ты перечислил.",ai,,F1D0BE9441F5DD30AE764AA6970F8A77
 Larry,"Oh, no. I'm just the guy who's been packing up our room all day. You must be the other guy.","О, нет. Я просто тот, кто весь день собирает нашу комнату. Ты, должно быть, другой.",ai,,D8C9BC714B4BEB541453518F7D2CBD5B
 Howard,"Why yes, I am. My name is Howard.","Да, он самый. Меня зовут Говард.",ai,,F350E20447250CC8865F3C9432676D72
 Howard,"...Point taken, Larry. You need help packing?","...Принято, Ларри. Помочь тебе собраться?",ai,,E92BC73B4DD2866B9085818E4C55977E
-Larry,"As long as I'm the one setting the bets, they don't get out of hand. You're like the third person to tell me that exact thing, Howard - I'm fine.","Пока я сам назначаю ставки, они не выходят из-под контроля. Ты уже третий, кто говорит мне это, Говард, - я в порядке.",ai,,56CB9EEB445970C16C4E0695876573BB
+Larry,"As long as I'm the one setting the bets, they don't get out of hand. You're like the third person to tell me that exact thing, Howard - I'm fine.","Пока я сам назначаю ставки, они не выходят из-под контроля. Ты уже третий, кто говорит мне это, Говард. Я в порядке.",ai,,56CB9EEB445970C16C4E0695876573BB
 Howard,Alright. Just saying.,Ладно. Я просто говорю.,ai,,016AF4A748A53FD5DE35FD817C2D8FBB
 Howard,"Larry, I mean it. Seriously.","Ларри, я серьёзно. Правда.",ai,,E121A3C544DCC72CA1F6ECB3EF13D1B5
 Howard,"Fine, I won't nag. How far along are you with the packing?","Ладно, не буду зудеть. Как у тебя со сборами?",ai,,CCC266E44DAF42B2C80C828DDF9DCF6A
@@ -443,7 +443,7 @@ Larry,"Not much, honestly. I stacked some of your books off to the side. Not tha
 Howard,"Sounds like you did most of the work already, then.","Похоже, ты уже сделал почти всю работу.",ai,,4C7E9D8746952E21C702C09DBFE357EB
 Howard,...That's it?,...И всё?,ai,,3FFA48E64071A1F326E35FAE36AE0BF4
 Howard,"Alright, I'll start packing.","Ладно, начну собирать.",ai,,5F1452BE4460A3FEFFF3B191CA0D5920
-Larry,Cool. I've got everything else.,Круто. Остальное на мне.,ai,,46F05B4A4B7D73ACA47EC68873BFFDB9
+Larry,Cool. I've got everything else.,Круто. Остальное беру на себя.,ai,,46F05B4A4B7D73ACA47EC68873BFFDB9
 Howard,...The rest is your stuff?,...Остальное - твоё?,ai,,049848104795B69BDEABAD820E89CE97
 Howard,Cool. You can keep it.,Круто. Оставь себе.,ai,,D256176947FD2C390E093095B29BACBD
 Howard,"...Well, hand it over.","...Ну, давай сюда.",ai,,DE90F58B40B7B0B1B06FE28A3CB6A4F6
@@ -460,7 +460,7 @@ Larry,True. I am honour personified. In a red flower-patterned shirt.,Верно
 Howard,"You got it, babe.","Как скажешь, детка.",ai,,2FB4097E4E83B81D88C8859049DB7AE9
 Howard,Such dashing honour.,Какое лихое благородство.,ai,,46E97A054F0775FFE7673ABB24BCA6E8
 Howard,"Anyway, I'm off to see what else you've stolen. Be right back.","Ладно, пойду гляну, что ты ещё украл. Скоро вернусь.",ai,,4650E7BE4EC110446A7502B732F89835
-Larry,Nothing I haven't taken already.,"Ничего такого, что я уже не прибрал.",ai,,67C394EC47AC563D6BBF3089A110A1E1
+Larry,Nothing I haven't taken already.,"Ничего, чего я ещё не прибрал.",ai,,67C394EC47AC563D6BBF3089A110A1E1
 Howard,Classic Larry.,Типичный Ларри.,ai,,D672A66643687548D71847919F5757A0
 Howard,Good ol' thievin' Larry.,Старый добрый Ларри-воришка.,ai,,BB13EA0C4C3290025AF92EA24CA6A3CF
 Howard,Iconic Larry.,Легендарный Ларри.,ai,,5A6D59974E73FDBCA1DB85BAB3F5E506
@@ -526,7 +526,7 @@ Howard,"And you were like ""oh I'm such a smart little lad, I'd love to pay for 
 Larry,You don't even know what's in there.,"Ты даже не знаешь, что там внутри.",ai,,5FBBA4BE43033B501F0923940A88502D
 Howard,"Honestly, man? If we've owned it, it's probably actual trash.","Честно, чувак? Если оно было у нас, то, скорее всего, это самый настоящий мусор.",ai,,864544004B00B5B9C616E3B2074DC6B6
 Howard,...Fair enough. Show me.,...Справедливо. Покажи.,ai,,7C5985654A87736C47F2F4AAEAA12EC3
-Howard,"I don't need to - you know already, so you can take it.","Не нужно - ты и так знаешь, так что можешь забрать.",ai,,44C9FAD74E129CEA782B00811BD27D5E
+Howard,"I don't need to - you know already, so you can take it.","Не надо. Ты и так знаешь, так что можешь забрать.",ai,,44C9FAD74E129CEA782B00811BD27D5E
 Larry,"Oh man, how'd you know? Why yes, Howard, I do! Who'd have thunk it, huh?","Ого, чувак, откуда ты знал? Да, Говард, именно так! Кто бы мог подумать, а?",ai,,DA36B93F411AF31F3B24D3A8E715FA45
 Howard,You're hilarious. How far done are you?,Ты просто умора. Много уже сделано?,ai,,4F8B7F574BC215E66C8ADDB851A7E50C
 Howard,Uh-huh. I see you've packed a bunch already. What's left?,"Ага. Вижу, ты уже много собрал. Что осталось?",ai,,8052E7F346DC1A1E546D9B8952254C05
@@ -537,7 +537,7 @@ Larry,I'm just...lightening the mood. You know? Didn't mean anything by it. Sorr
 Howard,"It's okay, just...let's get on with the packing, yeah?","Ничего, просто... давай продолжим собираться, да?",ai,,06AA55FD46DDD6D86B06E583542CCE97
 Howard,"You okay, man?","Ты в порядке, чувак?",ai,,FBA994174A2C20AFB3479DBCCBB7F8AC
 Larry,"That's what he likes to think, at least. And say. Over and over.","По крайней мере, он любит так думать. И говорить. Снова и снова.",ai,,4413E8894A29D4056DB69CB43BC370AD
-Howard,"...So, how's the progress with packing down the room, man?","...Так как продвигается сбор комнаты, чувак?",ai,,A9C5693A4EAB203A2450F9ABADFF20AB
+Howard,"...So, how's the progress with packing down the room, man?","...Как продвигается сбор комнаты, чувак?",ai,,A9C5693A4EAB203A2450F9ABADFF20AB
 Howard,"Uh-huh, he must be very cool and successful and have great things in store for him.","Ага, он, должно быть, очень крутой и успешный, и впереди у него большие дела.",ai,,0065B3E34DD9497A0BEFDABA973C7ED4
 Howard,"Hey, for real. You okay, man?","Эй, серьёзно. Ты в порядке, чувак?",ai,,996D934645DCBABA4C21BAB46642D4FE
 Larry,"Funny. So funny, this guy. A real riot.","Смешно. Так смешно, этот парень. Просто умора.",ai,,A13FB036435A727573CEB6AF4891CEC5
@@ -556,7 +556,7 @@ Larry,"Not for me it doesn't. Life's about expectations, man. You get ready for 
 Howard,"Whatever, man. What do you need me to pack?","Как скажешь, чувак. Что тебе нужно, чтобы я собрал?",ai,,9BA13E11446F14E1B7AFB7810637BFA0
 Howard,"Let's get this quiet night underway, then - what's left to pack?",Тогда начнём этот тихий вечер: что осталось собрать?,ai,,41A92601436703ADE0DA9A898F2811CA
 Larry,"Eh, you know. Couldn't hurt your pride too much.","Да ладно, знаешь. Твоей гордости это вряд ли сильно повредит.",ai,,C38CCB6B4E00E3B76C075A9FAB62CB76
-Howard,That's the story you're going with?,"Это та версия, на которой ты стоишь?",ai,,E63E1FEE497473511408D4B4EA405BF7
+Howard,That's the story you're going with?,"Значит, будешь придерживаться этой версии?",ai,,E63E1FEE497473511408D4B4EA405BF7
 Howard,I'll miss our little bets.,Буду скучать по нашим маленьким спорам.,ai,,21FD6BEA4EC30CA482899DADC1727FBE
 Howard,"You're starting to sound mighty salty there, bud.","Что-то ты начинаешь слишком уж дуться, дружок.",ai,,624BC9EF46438CC8B9BBD2843CE0B197
 Larry,"Nah, man. It's all done. Everything we had - it's yours or mine now.","Не-а, чувак. Всё сделано. Всё, что у нас было, теперь твоё или моё.",ai,,0E4535C3408CF9A041E7ED85F9025D0D
@@ -630,7 +630,7 @@ Howard,"...She did? Man, she is the most sympathetic person in the world.","...�
 Larry,Pff. You're just trying to cope with it. You'll miss everyone as much as me.,Пф. Ты просто пытаешься с этим справиться. Ты будешь скучать по всем не меньше меня.,ai,,389E284C45D1AD7CE69F3D90D5852314
 Howard,"No way. Besides, everyone's gone already.",Ни за что. К тому же все уже уехали.,ai,,42A9D8BE444623BE510593BAE241B2CD
 Howard,"...Yeah, maybe. Did you see anyone on the way out?","...Ага, может быть. Ты видел кого-нибудь на выходе?",ai,,A705139A43BF0CE3976881A379638A69
-Larry,"I see why you like him, man. He gets so excited about stuff going his way - you can tell it's not what he's used to.","Понимаю, чем он тебе нравится, чувак. Он так радуется, когда всё идёт ему на руку, - сразу видно, что не привык.",ai,,0320E7D9417F0AA6E791D88CA53BC5A2
+Larry,"I see why you like him, man. He gets so excited about stuff going his way - you can tell it's not what he's used to.","Понимаю, чем он тебе нравится, чувак. Он так радуется, когда всё идёт ему на руку. Сразу видно, что не привык.",ai,,0320E7D9417F0AA6E791D88CA53BC5A2
 Howard,Wisconsin deserves good things. He's great.,Висконсин заслуживает хорошего. Он классный.,ai,,9A4788BE4477FC06285DACA11F62914E
 Howard,Good for him.,Рад за него.,ai,,A15AD47B4EE43500000D3485A1F11BD5
 Howard,"...Man, I hate Wisconsin. Well, not really, but kind of.","...Чувак, ненавижу Висконсина. Ну, не то чтобы, но вроде того.",ai,,A9F88FF642EDD11AAE8E528FFFDE72E9
@@ -639,13 +639,13 @@ Howard,"Eh, you can have it. You were always the music guy anyway.","Да лад
 Howard,"...Wait a minute, how do I know you haven't taken something of mine already?","...Погоди-ка, откуда мне знать, что ты уже не стащил что-то моё?",ai,,A3B547854F7E7A802356F2BB890E35B0
 Howard,"Right, right - taking care of it now.","Ага, ага, уже занимаюсь.",ai,,791EC89942327CA1CF19EEA76C06933F
 Larry,There you go. Saturday night at Foxy Burger. She said it was your type of music.,"Вот так. В субботу вечером в «Фокси Бургер». Она сказала, что это твоя музыка.",ai,,BB3231384342CAB7F0C09BAC232C7AF7
-Howard,Fuck yeah - who's playing?,"Чёрт, да! Кто играет?",ai,,6C6162194CA5278A11486CABFBB478C9
+Howard,Fuck yeah - who's playing?,"Ебать, да! Кто играет?",ai,,6C6162194CA5278A11486CABFBB478C9
 Howard,...My type of music?,...В моём вкусе?,ai,,642B6C7F49EE52B6EA2102B6AFEA7B66
 Howard,"...Nah, I'm good.","...Не, я пас.",ai,,3B2AEDA94534C1E6A1EFFE96CF618736
 Larry,"Apparently people need statues more than anyone could have guessed. In other news, people apparently need Wisconsin more than me or you, too.","Оказывается, людям нужны статуи больше, чем кто-либо мог подумать. А ещё, оказывается, людям нужен Висконсин больше, чем я или ты.",ai,,9E3A153544042350A358E3BFC859C8D4
 Howard,"Well, Wisconsin is amazing. Of course they want to hang out with him.","Ну, Висконсин потрясающий. Конечно, с ним хотят тусоваться.",ai,,CADF2E194DEC71B6940BB4ACD44DE3A2
 Howard,Good for him.,Рад за него.,ai,,7187473E4FE7874B02915FB690673A8F
-Howard,"...Fucking Wisconsin, man.","...Вот же Висконсин, чувак.",ai,,99D2542A4906723512EC2185576002C7
+Howard,"...Fucking Wisconsin, man.","...Ебаный Висконсин, чувак.",ai,,99D2542A4906723512EC2185576002C7
 Larry,"Right, right, I remember now. Well, if you're curious, he got a position as an apprentice sculptor at the Bureau of Architecture.","Ага, ага, теперь вспомнил. Если тебе интересно, он получил место стажёра-скульптора в Бюро архитектуры.",ai,,01C9A2A642DBC38D34BC3D8B8563A8F6
 Howard,"Good, good. He deserves everything good in this world.","Хорошо, хорошо. Он заслуживает всего хорошего в этом мире.",ai,,9CD8E90D46C486F9D4703A8FBBAA5413
 Howard,Good for him.,Рад за него.,ai,,3155FABF48BD822EB2B3A599F5946EE3
@@ -654,17 +654,17 @@ Larry,"I don't know. I don't really feel like going just yet. These years here, 
 Howard,Better than being a couple of anxious teens in a dorm full of equally anxious teens?,"Лучше, чем быть парой тревожных подростков в общаге, полной таких же тревожных подростков?",ai,,7E08BB744394484AFF1868A5196658B9
 Howard,"Maybe it won't, but we'll always have it as a great memory.","Может, и не станет, но у нас навсегда останется это прекрасное воспоминание.",ai,,D9F49A074B94E8D621F5348F88ABE94A
 Howard,"No clue. No point in having expectations, either. Why not just live it day by day?",Без понятия. Да и ждать чего-то нет смысла. Почему бы просто не жить день за днём?,ai,,A2E98141412E988BC3860FBBDE94FBAE
-Larry,"I don't know, I don't think it was that bad. All of us, together... figuring shit out in this dump. We all had each other. And now we're all leaving.","Не знаю, по-моему, было не так уж плохо. Мы все вместе... разбирались со всем в этой дыре. Мы были друг у друга. А теперь все уезжаем.",ai,,9195FF354B320D3809878DAB23B771F0
+Larry,"I don't know, I don't think it was that bad. All of us, together... figuring shit out in this dump. We all had each other. And now we're all leaving.","Не знаю, по-моему, было не так уж плохо. Мы все вместе... разбирались во всём этом дерьме в этой дыре. Мы были друг у друга. А теперь все уезжаем.",ai,,9195FF354B320D3809878DAB23B771F0
 Howard,"Everyone's still around, man. We're just further apart.","Все по-прежнему рядом, чувак. Мы просто стали дальше друг от друга.",ai,,EB8AF483480B10BC5BE117B20341F926
 Howard,"Leaving these dorms is a pretty good thing in my book, Larry.","По мне, так уйти из этих общаг - вполне неплохо, Ларри.",ai,,7479B52046D1C4E4CEA403986BC861FE
 Larry,"I don't want to live through memories, Howard. I want to make them. This...this all feels like a reset. I'm worried it won't be as good the second time around.","Я не хочу жить воспоминаниями, Говард. Я хочу создавать их. Это... всё это похоже на перезагрузку. Боюсь, во второй раз будет не так хорошо.",ai,,D5B3C7A64EC21B5F6D660D9C6C9C686D
 Howard,"Everyone's still around, man. We're just further apart.","Все по-прежнему рядом, чувак. Мы просто стали дальше друг от друга.",ai,,1446287B422E0EC2072D53BE20A7F7C5
 Howard,A reset doesn't sound so bad to me.,Перезагрузка мне не кажется такой уж плохой.,ai,,8D0FCFC04FBB2FB79A8095BB281D65BA
 Howard,"Of course it will, dude.","Конечно будет, чувак.",ai,,7D16DC6348E3D37413EA7C99263A8453
-Larry,"I don't know, Howard. I've had some shit days in my life, but they weren't here. What if the next couple years are back to being shit? What if this was it? The one time in my life when things just...worked?","Не знаю, Говард. В моей жизни бывали паршивые дни, но не здесь. А что, если следующие пару лет снова будут дерьмом? Что, если это был мой шанс? Единственный раз в жизни, когда всё просто... работало?",ai,,6FAFA93244E38964BD3AFC8AF82BD5DC
+Larry,"I don't know, Howard. I've had some shit days in my life, but they weren't here. What if the next couple years are back to being shit? What if this was it? The one time in my life when things just...worked?","Не знаю, Говард. В моей жизни бывали дерьмовые дни, но не здесь. А что, если следующие пару лет снова будут дерьмом? Что, если это был мой шанс? Единственный раз в жизни, когда всё просто... работало?",ai,,6FAFA93244E38964BD3AFC8AF82BD5DC
 Howard,"You worry too much, man. Things will work.","Ты слишком много переживаешь, чувак. Всё сложится.",ai,,719B9EF1448B707920DEBFBED41839D2
 Howard,"It's not the one time, man.","Это не единственный раз, чувак.",ai,,78455AD5491D2FBBA2F2198FF2219BD7
-Howard,"Alright, let's say it was - so what?","Ладно, допустим, единственный - и что?",ai,,0B7D68E8462231738FE338876CB03C76
+Howard,"Alright, let's say it was - so what?","Ладно, допустим, единственный. И что?",ai,,0B7D68E8462231738FE338876CB03C76
 Larry,"Easy for you to say, you're moving in with someone. Me? I'm just crashing on someone's couch until I've got things figured out. I don't really...have someone.","Тебе легко говорить, ты переезжаешь к кому-то. А я? Я просто кантуюсь на чужом диване, пока не разберусь, что к чему. У меня как бы... нет никого.",ai,,6D2F12324B59D1423EAB76AB0A2D4148
 Howard,"What are you talking about, man? You have me, you idiot.","Ты о чём, чувак? У тебя есть я, балбес.",ai,,48D4286D4609BC19D4FF06A67DBFAC3D
 Howard,What about the people in the apartment you're crashing at?,"А что насчёт тех, у кого ты кантуешься?",ai,,4521D4254F806D1343F97F9BF8094E84

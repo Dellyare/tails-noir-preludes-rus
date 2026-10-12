@@ -29,10 +29,10 @@ Howard,What charity?,На какую благотворительность?,ai,
 Lincoln,"I don't know, kid. I don't even know if charities accept gift certificates. How about this, instead: I'll take whatever silly photo you want, so long as you keep this between us.","Не знаю, парень. Я даже не знаю, берут ли благотворительные фонды подарочные сертификаты. Давай лучше вот как: я соглашусь на любое дурацкое фото, какое ты захочешь, только пусть это останется между нами.",ai,,BD3E90914DD930D24E96D69FBCE65613
 Howard,That's all you needed to say.,Так бы сразу и сказал.,ai,,77DE9C2D4D3B22F0CF9292936B075A86
 Howard,"Hmm. I'd rather not get involved in something this sordid, but if you insist...","Хм. Не хотелось бы впутываться в такую грязь, но если ты настаиваешь...",ai,,32E096C04390B8D6C32479867A47FBCD
-Lincoln,"Y-you did? Thanks, kiddo. I appreciate it. Just let me know if you ever have a clock that needs fixing, or something.","Т-ты правда это сделал? Спасибо, малец. Ценю. Если когда-нибудь понадобится что-то починить - часы или что угодно, - обращайся.",ai,,6116F31346D7470534DCC4AB125BC348
+Lincoln,"Y-you did? Thanks, kiddo. I appreciate it. Just let me know if you ever have a clock that needs fixing, or something.","Т-ты правда это сделал? Спасибо, малец. Ценю. Если когда-нибудь понадобится что-то починить, часы или что угодно, обращайся.",ai,,6116F31346D7470534DCC4AB125BC348
 Howard,"No problem. Can I ask you something else, by the way?","Без проблем. Кстати, можно спросить у тебя ещё кое-что?",ai,,95B1B8464375B09FA423FE9CE6191463
 Howard,"Sure, man. I'll see you later. [Leave]","Конечно, чувак. Увидимся. [Уйти]",ai,,535EB68E435F6D80B8B745A5D04730C6
-Lincoln,"Ah, one of the tenants was getting up in my face about the nose of my repairs waking him up and it got kind of...heated.","А, один из жильцов лез мне в лицо из-за шума от моего ремонта - разбудил его, видите ли, - и всё как-то... накалилось.",ai,,3B1E83564BB325AF0DA770AA9BFACEA0
+Lincoln,"Ah, one of the tenants was getting up in my face about the nose of my repairs waking him up and it got kind of...heated.","А, один из жильцов лез мне в лицо: шум от моего ремонта разбудил его, видите ли, и всё как-то... накалилось.",ai,,3B1E83564BB325AF0DA770AA9BFACEA0
 Howard,What happened?,Что произошло?,ok,,67B3178740FD64475E59F4B23B16B1BB
 Howard,What time were you working on it?,Во сколько ты этим занимался?,ai,,760BA4C842EF7F823A6B759FF82993FB
 Lincoln,"Now don't be doing anything weird with that, alright?","Только не делай с этим ничего странного, ладно?",ai,,F8235E624F71450F0E8B70BCDBE6133A
@@ -43,7 +43,7 @@ Howard,Relax. I'm a good boy. [Leave],Расслабься. Я хороший м
 Howard,So am I.  [Wink],Я тоже.  [Подмигнуть],ai,,F3FBA0AE4401537E9A67AB88C51AFD28
 Lincoln,"You're a good kid. Unlike those greasy geezers. Here you go. It should slot right in, no problem.",Ты хороший парень. Не то что эти сальные гусяры. Держи. Должна встать как влитая.,ai,,122F9F644B1F592C722F51B731D4F4EB
 Howard,Appreciate it.,Ценю.,ok,,33652A6F44899C6EEFEBEF82954932CD
-Howard,"Don't talk shit about geezers, man. The City is theirs as much as it is ours. Later.","Не говори гадостей про гусяров, чувак. Город принадлежит им не меньше, чем нам. Пока.",ai,,591EB69A4A9C4BEB42C7959AAE65D81F
+Howard,"Don't talk shit about geezers, man. The City is theirs as much as it is ours. Later.","Не гони на гусяров, чувак. Город принадлежит им не меньше, чем нам. Пока.",ai,,591EB69A4A9C4BEB42C7959AAE65D81F
 Lincoln,You better be kidding!,"Ты, надеюсь, шутишь!",ai,,E825C8784CB8D37AE74E32A931B568C9
 Howard,I guess time will tell. [Leave],Время покажет. [Уйти],ai,,0D4DA4E14B62FD3EA4CF6DB773588161
 Howard,"Totally had you, didn't I?","Ловко я тебя, а?",ai,,1D7952E04F716A0A98BF27BA2CF0BF2A
@@ -96,7 +96,7 @@ Howard,Just kind of curious why you picked Raccoon. No real reason?,"Прост�
 Lincoln,"Something like that. Also, it's harder for the residents to complain about you when you're wearing a disguise.","Вроде того. К тому же жильцам труднее на тебя жаловаться, когда ты в маске.",ai,,1BFED5E242D0DE010DAAFF8CA8F3D70D
 Howard,Interesting. Let's talk a bit more about you.,Интересно. Давай ещё немного поговорим о тебе.,ai,,CC5FABE346745906F5F2058E90144562
 Howard,"If you say so. See you later, man.","Как скажешь. Увидимся, чувак.",ai,,773618DA4E6B6EDE129E52BF1EB2D9D8
-Lincoln,No joke! No joke! I love raccoons. Raccoons are the coolest. My son's friends with a raccoon and I think that's great! Better than great!,"Не шутка! Не шутка! Я обожаю енотов. Еноты - самые классные. Друг моего сына - енот, и это здорово! Лучше, чем здорово!",ai,,D58BC97441556A7B9A2DF5AE502EC527
+Lincoln,No joke! No joke! I love raccoons. Raccoons are the coolest. My son's friends with a raccoon and I think that's great! Better than great!,"Не шутка! Не шутка! Я обожаю енотов. Еноты - самые классные. Мой сын дружит с енотом, и, по-моему, это здорово! Лучше, чем здорово!",ai,,D58BC97441556A7B9A2DF5AE502EC527
 Howard,"Great? What, better than everyone else?","Здорово? Что, лучше всех остальных?",ai,,B38F80A54D2FEDE34C1600A7FB23219E
 Howard,"Hah! Man, you are too easy!","Ха! Чувак, тебя так легко развести!",ai,,337606F24F8D12F95648B6AFCC0842C8
 Lincoln,Wait. Were you messing with me?,Погоди. Ты меня разыгрывал?,ai,,3461A1B843CCD0B5AC81C7BF80DA1FA5
@@ -105,7 +105,7 @@ Howard,[Continue laughing],[Продолжать смеяться],ai,,EEAA0B5D4
 Lincoln,"Come on, kid. I was actually worried I offended you.","Да ладно, парень. Я правда испугался, что тебя обидел.",ai,,1C3340AF4F4E6C3B5D46549A1174AF70
 Howard,"Oh, you did.",Обидел.,ai,,4C24009C453731F75C66BAB239C024E3
 Howard,Nah man. I'm jealous I don't have a mask of your Kind.,"Не-а, чувак. Я завидую, что у меня нет маски твоего Вида.",ai,,7B6D5B2D46C9C65391688F805BD60763
-Lincoln,"Hmmm. Well, there is one thing you could do. Here, this envelope - I need you to destroy this for me.","Хмм. Ну, есть одна вещь, которую ты мог бы сделать. Вот, этот конверт - мне нужно, чтобы ты его для меня уничтожил.",ai,,BD8681C846AD4C4EB83BF0991F2B808C
+Lincoln,"Hmmm. Well, there is one thing you could do. Here, this envelope - I need you to destroy this for me.","Хмм. Ну, есть одна вещь, которую ты мог бы сделать. Вот, этот конверт: мне нужно, чтобы ты его для меня уничтожил.",ai,,BD8681C846AD4C4EB83BF0991F2B808C
 Howard,[Take envelope] What is it and why?,[Взять конверт] Что это и зачем?,ai,,0A4821E2442BE6862742AB96A5DE1F38
 Lincoln,Why I picked it? I don't know... I guess it just looked the most fun. I like the colours.,"Почему выбрал? Не знаю... Наверное, просто выглядел самым весёлым. Мне нравятся цвета.",ai,,4741D5944705732A4CED4FA673ADBA6F
 Howard,I like your colours too.,Мне твои цвета тоже нравятся.,ai,,3E4CEE1A4C6843811BB741985AEF8130
@@ -147,7 +147,7 @@ Lincoln,"Yeah. Guess I let my paranoia get the best of me. Embarrassing. You'll 
 Howard,"We'll see. I want to know a bit more about you first, though.",Посмотрим. Но сначала я хочу узнать о тебе побольше.,ai,,57E5FD994FB3B883CDE11AA3C674DA37
 Howard,Still mulling that one over. Let's change the subject.,Я всё ещё думаю. Давай сменим тему.,ai,,EA6E3FAF40018400629FD880425B698A
 Howard,I'll get back to you on that. [Leave],Я вернусь к этому вопросу. [Уйти],ai,,EBEDFCAB405193EE74FC36BFB1145146
-Lincoln,"The work itself's nothing to sneeze at. I love coming in, seeing something busted to shit and getting to turn it into something good as new. You feel useful. Important.","Сама работа - это не шутки. Мне нравится приходить, видеть что-то убитое в хлам и превращать это в как новое. Чувствуешь себя нужным. Важным.",ai,,395001B448EC8A2D15EAC9BA3087456D
+Lincoln,"The work itself's nothing to sneeze at. I love coming in, seeing something busted to shit and getting to turn it into something good as new. You feel useful. Important.","Сама работа - это не шутки. Мне нравится приходить, видеть что-то убитое в хлам и возвращать это к жизни. Чувствуешь себя нужным. Важным.",ai,,395001B448EC8A2D15EAC9BA3087456D
 Howard,Sounds wonderful.,Звучит чудесно.,ai,,19ED7958455548EA46B8409389B243EE
 Howard,What don't you like?,А что не нравится?,ai,,D3448F1C482B68B7921125912757449E
 Lincoln,Only downside is that it's not really steady work. You have to save your money when it's going well. And learn how to scare up customers when it's not.,"Единственный минус - работа нестабильная. Когда дела идут хорошо, надо копить. А когда нет - учиться выискивать клиентов.",ai,,F03CE99643EDB42D5D341C8644C810D9
@@ -191,10 +191,10 @@ Howard,"I'm an artist. Photography, mostly.",Я художник. В основ�
 Lincoln,"Well, if you want that picture, you're the one who's going to have to get rid of it. Any other questions?","Ну, если хочешь то фото, тебе самому придётся от него избавиться. Ещё вопросы?",ai,,1BC360774CEF58BB8420A4AA5CA7824E
 Howard,"Nah, I'm good. [Leave]","Не, всё. [Уйти]",ai,,CCD9E560464A68B1F423C89A5AAA790C
 Howard,"Yeah, let's talk about something else.","Да, давай о чём-нибудь другом.",ai,,038AAEB74CAE03E9D4EC28B46D6885CC
-Lincoln,"I like doing quality work, kid. And this is one of the few areas where people are willing to pay for that.  You should see the rush jobs the slumlords on the West End try to force on you. Shortcuts like those always backfire, I don't want that on my head.","Мне нравится делать качественно, парень. А это одна из немногих сфер, где за это готовы платить. Видел бы ты халтуру, которую пытаются всучить домовладельцы-трущобники из Уэст-Энда. Такие срезанные углы всегда боком выходят, а мне такого на совесть не надо.",ai,,44F0221C4FCB2BCE35BA118538E9FE50
+Lincoln,"I like doing quality work, kid. And this is one of the few areas where people are willing to pay for that.  You should see the rush jobs the slumlords on the West End try to force on you. Shortcuts like those always backfire, I don't want that on my head.","Мне нравится работать качественно, парень. А это одна из немногих сфер, где за это готовы платить. Видел бы ты халтуру, которую пытаются всучить домовладельцы-трущобники из Уэст-Энда. Такие срезанные углы всегда боком выходят, а такой грех мне ни к чему.",ai,,44F0221C4FCB2BCE35BA118538E9FE50
 Howard,Couldn't you just report them to the City? Force them to do the right thing?,А нельзя пожаловаться в Город? Заставить их поступать правильно?,ai,,31E482E442E35D3CD48FED9DC4B7E320
 Howard,Wouldn't it be better to have someone skilled like you?,Разве не лучше нанять кого-то умелого вроде тебя?,ai,,A4DB10584991ED6CF5E3CAAFCBAE716A
-Lincoln,"I'm really sorry about that business with the clock, kid. I guess I just let my desperation get the best of me. Won't happen again.","Мне правда жаль за эту историю с часами, парень. Видно, отчаяние взяло верх. Больше не повторится.",ai,,BDF650AB43FB89FCE50F37B53505E9B3
+Lincoln,"I'm really sorry about that business with the clock, kid. I guess I just let my desperation get the best of me. Won't happen again.","Мне правда жаль из-за этой истории с часами, парень. Видно, отчаяние взяло верх. Больше не повторится.",ai,,BDF650AB43FB89FCE50F37B53505E9B3
 Howard,It's fine. I fixed it.,Ничего. Я всё починил.,ai,,04FD19F042EDE723971CB08D9FD5F895
 Howard,It's okay. You're just doing what you can to get by.,"Всё нормально. Ты просто делаешь, что можешь, чтобы выжить.",ai,,208FE07549F8143F94E95090307162A3
 Howard,Sure. See ya. [Leave],Ага. Бывай. [Уйти],ai,,E8BA14664D209570552CE69A780EBB1D
@@ -238,7 +238,7 @@ Lincoln,"Come to think of it, I did see those punk kids snickering around it ear
 Howard,"Thanks, I'll look into it.","Спасибо, разберусь.",ai,,B710758E45C5D87F1C9A939614CDB05D
 Howard,What punks?,Какие шпанята?,ai,,BC108BA34A0F7B3F62C0DEAF079E586F
 Howard,Can't you just fix it?,А ты не можешь просто это починить?,ai,,F94A0C48459963D5FF0E73BA3AEA5385
-Lincoln,"I saw you found that missing hand! Good work, kid.","Слышал, ты нашёл пропавшую стрелку! Молодец, парень.",ai,,572255614076AF59250227A36DD004CD
+Lincoln,"I saw you found that missing hand! Good work, kid.","Вижу, ты нашёл пропавшую стрелку! Молодец, парень.",ai,,572255614076AF59250227A36DD004CD
 Howard,What can I say? I have a way with people.,Что сказать? Я умею находить подход к людям.,ai,,2DBF15434495497E41466BAE88464982
 Howard,No thanks to you.,Не благодаря тебе.,ai,,2437469B4A6DAA1824CC30835E67220E
 Lincoln,"Like I said, the only one I saw touching the clock is that mother and her kid.","Как я и говорил, единственные, кого я видел у часов, - это мамаша с ребёнком.",ai,,95659DB64583AA391E3D59A7775C58D6
@@ -285,7 +285,7 @@ Lincoln,I guess I just panicked. This is one of the last gigs I have lined up fo
 Howard,Didn't you realize people would see you?,"Ты не понимал, что тебя увидят?",ai,,E85B6AD14979B903FC824A8F5E2CAC3D
 Howard,"Not cool, man. Not cool at all.","Нехорошо, чувак. Совсем нехорошо.",ai,,496954604DBCCFA2EE3AEDBDC29F7737
 Howard,I don't want to hear your excuses. Just give me back the part you stole.,"Не хочу слушать оправдания. Просто верни деталь, которую украл.",ai,,C820600C4AFC5D7B007F92A19D9BE9CD
-Lincoln,"I'm sorry, kid. This is so awful. It's just... Everyday I'm surrounded by these people who have everything. I guess I just got thinking that this might be a way to get a little something for myself.","Прости, парень. Это ужасно. Просто... Каждый день вокруг эти люди, у которых есть всё. Наверное, я подумал, что так могу получить хоть что-то для себя.",ai,,7769AF3B4BDA0919190773B54D7B99A3
+Lincoln,"I'm sorry, kid. This is so awful. It's just... Everyday I'm surrounded by these people who have everything. I guess I just got thinking that this might be a way to get a little something for myself.","Прости, парень. Это ужасно. Просто... Каждый день я окружён людьми, у которых есть всё. Наверное, я подумал, что так могу получить хоть что-то для себя.",ai,,7769AF3B4BDA0919190773B54D7B99A3
 Howard,Didn't you realize people would see you?,"Ты не понимал, что тебя увидят?",ai,,582D85AD4041745327D9BCABCD215B0B
 Howard,Get a hold of yourself.,Возьми себя в руки.,ai,,40478BDE4B4CE06D3E308DB96C5213B5
 Howard,Now it's time to give that little something back.,Теперь пора вернуть это «хоть что-то».,ai,,C21C07BD4D82D081807E3ABF3294A29E
@@ -304,7 +304,7 @@ Howard,"And what's your business, friend?","А какое у тебя дело, 
 Lincoln,"Normally I would, but the building manager's on the warpath and that's the first place she'd look.","Обычно да, но управляющая вышла на тропу войны, и это первое место, где она будет искать.",ai,,DC148D0349163AD54AA2FFA4D520FDA5
 Howard,"Always the way, isn't it?","Всегда так, да?",ai,,27EC408A498286F14D174FB3D8A7CDFB
 Howard,What'd you do?,Что ты натворил?,ai,,1A41F93947212EBE63726C8DE3F0B11A
-Lincoln,"We are as far as the Apes are concerned. At least until we land enough dough that we give them a reason to pretend otherwise. So, if you're not here for work what are you doing here?","Для Обезьян - одного. По крайней мере, пока не накопим достаточно бабла, чтобы у них появилась причина делать вид, что нет. Так что, если ты не по работе, что ты здесь делаешь?",ai,,BCD0E05B4230E1BC517EC784B35D6515
+Lincoln,"We are as far as the Apes are concerned. At least until we land enough dough that we give them a reason to pretend otherwise. So, if you're not here for work what are you doing here?","Для Обезьян мы одного поля ягоды. По крайней мере, пока не накопим достаточно бабла, чтобы у них появилась причина делать вид, что нет. Так что, если ты не по работе, что ты здесь делаешь?",ai,,BCD0E05B4230E1BC517EC784B35D6515
 Howard,Recon for the revolution.,Разведка для революции.,ai,,92C3B9D74AD69BDADB7B188209FC8B0A
 Howard,Taking pictures. School project.,Фотографирую. Учебный проект.,ai,,9652701F420D2A1649AED5AF64F9B42E
 Lincoln,"Mechanic. All kinds. You bust it, I'll fix it. Name's Lincoln. What's your line?",Механик. Всякий. Ты сломаешь - я починю. Зовут Линкольн. А ты чем занимаешься?,ai,,5B675CF943C8161379AF459506E07F0B
@@ -348,7 +348,7 @@ Howard,Bingo. Photography major.,Бинго. Учусь на фотографа.
 Lincoln,Yeah... I've been thinking and that's not really the kind of stuff I want to put out there.,"Да... Я подумал, и это не то, что мне хочется выставлять напоказ.",ai,,223183DA498AF0E584448FA8B291C5DA
 Howard,"Oh, it'll be very tasteful.","О, всё будет очень со вкусом.",ai,,E971331A434D454B7EAE60A2B56176C8
 Howard,I was joking. I just want to an ordinary picture. Exactly like you are now.,"Я пошутил. Мне нужна обычная фотография. Прямо такая, как сейчас.",ai,,5A46EC0949746BED3194B49F7331D8ED
-Lincoln,"She's trying to rush the job. Keeps threatening to bring in some general mechanics that handle her West End properties. Says they work half as cheap and works twice as fast. It's all bullshit to get me to lower my rate, but the less I see of her, the better.","Она торопит с работой. Всё грозится нанять обычных мастеров, которые чинят ей недвижимость в Уэст-Энде. Говорит, они берут вдвое дешевле и работают вдвое быстрее. Всё это чушь, чтобы сбить мне расценки, но чем реже я её вижу, тем лучше.",ai,,6991F87042FDD569163304BC807EA943
+Lincoln,"She's trying to rush the job. Keeps threatening to bring in some general mechanics that handle her West End properties. Says they work half as cheap and works twice as fast. It's all bullshit to get me to lower my rate, but the less I see of her, the better.","Она торопит с работой. Всё грозится нанять обычных мастеров, которые чинят ей недвижимость в Уэст-Энде. Говорит, они берут вдвое дешевле и работают вдвое быстрее. Всё это дерьмо, чтобы сбить мне расценки, но чем реже я её вижу, тем лучше.",ai,,6991F87042FDD569163304BC807EA943
 Howard,How can you be sure she's bluffing?,"Как ты можешь быть уверен, что она блефует?",ai,,B1D6C38D4588F139821E048F369281E1
 Howard,Why don't you just tell her off?,Почему бы просто не послать её?,ai,,89011B0D40529EA8320F3296C44A96A5
 Lincoln,"We all are, kid. We all are.","Мы все, парень. Все мы.",ai,,F2C2F77B4E01039641F6EEA2CD87313A
@@ -376,13 +376,13 @@ Howard,Mind if I ask you a few questions?,Можно задать пару во�
 Lincoln,"Well, I guess we all have to work for somebody. But I say, do what you want until they start paying you.","Что ж, всем приходится на кого-то работать. А я говорю: делай что хочешь, пока не начнут платить.",ai,,F6D1A06D4207E18231AA3EB1253FC89C
 Howard,"I just want the diploma, man.","Мне просто нужен диплом, чувак.",ai,,F46DBA9B4EB6C36B257D1BB6A92639AF
 Howard,"Yeah, well being ""serious"" is where the big money is.","Ну, «серьёзность» - вот где большие деньги.",ai,,DDCE788F49E71C92DBDFA4A898EC9FF0
-Lincoln,No. I mean... I don't know. Maybe they just lose their jobs. Maybe they just get sent away for something else. It's just...it's smart to watch what you're saying. That's all.,"Нет. В смысле... не знаю. Может, просто теряют работу. Может, их отправляют куда-то за другое. Просто... разумно следить за тем, что говоришь. Вот и всё.",ai,,8E4870BB4E49A17D9D92EE86B4427362
+Lincoln,No. I mean... I don't know. Maybe they just lose their jobs. Maybe they just get sent away for something else. It's just...it's smart to watch what you're saying. That's all.,"Нет. В смысле... не знаю. Может, просто теряют работу. Может, их ссылают за что-нибудь другое. Просто... разумно следить за тем, что говоришь. Вот и всё.",ai,,8E4870BB4E49A17D9D92EE86B4427362
 Howard,(SARCASTIC) Hail Apes.,(САРКАЗМ) Слава Обезьянам.,ai,,6CF25AE8484EB7465E140086051C741D
 Howard,Hail Apes.,Слава Обезьянам.,ai,,5DDA1832420487601CAD7DB7FAD795A0
 Lincoln,"See that's better, but try to put a little less stink on it. Rich folks are really particular about tone. So what are you doing around here?","Вот так лучше, но поменьше желчи. Богатые очень чувствительны к тону. Так что ты здесь делаешь?",ai,,CBC532B24DB976D731B9C68358891DC9
 Howard,I'm a photographer.,Я фотограф.,ai,,F0E14C25440E50358DBBB8BE0FE38518
 Howard,I'm working on a photography project for University.,Я делаю фотопроект для университета.,ai,,6EAB63034322F3B82662D2A049EBC2D3
-Lincoln,"I wouldn't go that far, but that should keep you out of harm's way, at least. So what are you doing around here if you're not working?","Я бы так далеко не заходил, но хоть из-под удара себя выведешь. Так что ты здесь делаешь, если не работаешь?",ai,,BD6F67ED4A4A96A2766675B5FD7BAD49
+Lincoln,"I wouldn't go that far, but that should keep you out of harm's way, at least. So what are you doing around here if you're not working?","Я бы так далеко не заходил, но от неприятностей это тебя, по крайней мере, убережёт. Так что ты здесь делаешь, если не работаешь?",ai,,BD6F67ED4A4A96A2766675B5FD7BAD49
 Howard,I'm a photographer.,Я фотограф.,ai,,5C51AC964081970FAC41F580EF9281BE
 Howard,I'm working on a photography project for University.,Я делаю фотопроект для университета.,ai,,7610195D4D2EAE7D0E2568BC2AD45939
 Lincoln,"Lousy geezers. I should've known. Those pests have no respects for the things that make this City great, you know?","Паршивые гусяры. Мог бы догадаться. Этим вредителям плевать на то, что делает Город великим, понимаешь?",ai,,12B37DC14BB84E66B07B20A6772E17BF
@@ -397,7 +397,7 @@ Howard,"Sorry, assignment's due tomorrow.","Прости, задание сда�
 Lincoln,"The clock I'm working on is an antique. Very rare. Very expensive. The jokers she's talking about wouldn't know how to adjust the time, let alone how to fix it. But enough of my bellyaching. What kind of line are you in, kid?","Часы, над которыми я работаю, - антиквариат. Очень редкий. Очень дорогой. Те клоуны, о которых она говорит, не знают, как время-то поставить, не то что починить. Но хватит ныть. А ты чем занимаешься, парень?",ai,,DC4DE8B24A2F15BD49E6CDA52FAB5E73
 Howard,I'm a Photography major at Thaddeus Rock.,Я учусь фотографии в Таддеусе Роке.,ai,,7A331176452FDFFF7E5DFE81B805ED99
 Howard,"I'm an artist. Photography, mostly.",Я художник. В основном фотограф.,ai,,A8D2D874494E098A866E928DDB94CC88
-Lincoln,"Oh...you mean the kinda photos people actually pay for! And here I was, thinking you were just doing artsy crap! Lemme ask you, how do you find folks who are willing to take their clothes off?","О... ты про такие фото, за которые люди реально платят! А я-то думал, ты занимаешься какой-то пафосной мазнёй! Скажи, а как ты находишь тех, кто готов раздеться?",ai,,D8C5967644E7A55B09DC528A6F45C2EF
+Lincoln,"Oh...you mean the kinda photos people actually pay for! And here I was, thinking you were just doing artsy crap! Lemme ask you, how do you find folks who are willing to take their clothes off?","О... ты про такие фото, за которые люди реально платят! А я-то думал, ты занимаешься какой-то пафосной хренью! Скажи, а как ты находишь тех, кто готов раздеться?",ai,,D8C5967644E7A55B09DC528A6F45C2EF
 Howard,"(SOCIAL) I just approach them on the street. Usually while they're on their smoke break. ","(ОБЩИТЕЛЬНОСТЬ) Просто подхожу к ним на улице. Обычно во время перекура. ",ai,,880ABAFC48FA70DC07D12EAD74699340
 Howard,I haven't yet.,Пока никак.,ai,,3F36220C4879D2627E212AAA6353DF5B
 Howard,"I meant beautiful in an abstract sense. Composition, lighting...that sort of thing?","Я имел в виду «красивые» в абстрактном смысле. Композиция, свет... что-то в этом роде.",ai,,057A02BD45BCABF6DE270B8DBD77379C
@@ -453,7 +453,7 @@ Howard,If anything she's holding back. Doesn't want you to get cocky.,"Если 
 Lincoln,That's fair. So long as you're enjoying it.,Справедливо. Лишь бы тебе нравилось.,ai,,A0BF69DB41BF0DB24D67159A4C66ADC3
 Howard,I'll try to keep that in mind. [Leave],Постараюсь помнить об этом. [Уйти],ai,,BA0787F84C8E2A8D0E3756BFC3B18797
 Howard,Hmm. Mind if I ask you a few questions?,Хм. Можно задать пару вопросов?,ai,,DFCE9EE145D58761B6ADA197EC1F65BE
-Lincoln,"No need to be ashamed, kid. School's important. Might not lead to anything, but you have to respect a guy for giving it a shot. What kind of photos you take?","Не стоит стыдиться, парень. Учёба важна. Может, ни к чему не приведёт, но парня за попытку уважать надо. А какие фото ты снимаешь?",ai,,573801D04B8676E4DB9596BF01F43207
+Lincoln,"No need to be ashamed, kid. School's important. Might not lead to anything, but you have to respect a guy for giving it a shot. What kind of photos you take?","Не стоит стыдиться, парень. Учёба важна. Может, ни к чему не приведёт, но попытку-то уважать надо. А какие фото ты снимаешь?",ai,,573801D04B8676E4DB9596BF01F43207
 Howard,I'm more of a generalist.,Я скорее универсал.,ai,,295A9CBA47DD62A49A07828919FF7E55
 Howard,Sad ones.,Грустные.,ai,,D724012E42DBDC387A1E40BF7467D969
 Howard,Beautiful ones.,Красивые.,ai,,307979274E64BA7815380F965FD63D7F

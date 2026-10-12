@@ -1,10 +1,10 @@
 ﻿speaker,source,translation,status,namespace,key
 Notification,Clemence just wants you to be okay.,"Клеменс просто хочет, чтобы у тебя всё было хорошо.",ai,,44A99AE14CCBDB7B46A4A18089B477DF
-Notification,"Clemence thinks, respectfully, that you're an angry kid.","Клеменс считает - при всём уважении, - что ты озлобленный ребёнок.",ai,,F7E0B06C4F939549D35F97B2EEF4F30E
+Notification,"Clemence thinks, respectfully, that you're an angry kid.","Клеменс считает, при всём уважении, что ты озлобленный ребёнок.",ai,,F7E0B06C4F939549D35F97B2EEF4F30E
 Notification,You made Clemence believe things can change.,"Ты заставила Клеменса поверить, что всё может измениться.",ai,,1620E1F74D72C8685BFE6BBB827E043D
 Notification,You convinced Clemence you're right.,Ты убедила Клеменса в своей правоте.,ai,,CE78304E41C894C3DCD9CA97988A37AD
 Notification,Clemence seems happy. Well done.,"Клеменс, кажется, доволен. Отлично.",ai,,03FBAF4541BF1BDCB46014912307A754
-Notification,You made Clemence consider that something needs to change.,"Ты заставила Клеменса задуматься о том, что что-то должно измениться.",ai,,7B8024254BC1BA2DF9E12A8806DB9D1C
+Notification,You made Clemence consider that something needs to change.,Ты заставила Клеменса задуматься: что-то нужно менять.,ai,,7B8024254BC1BA2DF9E12A8806DB9D1C
 Notification,You gave Clemence something to think about.,Ты дала Клеменсу пищу для размышлений.,ai,,0A2701B742CC20FC0C2EE58251A0E5C6
 Notification,You told Clemence you would speak up to your father.,"Ты сказала Клеменсу, что выскажешь всё отцу.",ai,,E93C9BE5472CA920BF0FC1BC26C7BE17
 Notification,You swore to kill your father.,Ты поклялась убить отца.,ai,,921CA7CB42793ED33C0DA7BB7998B97C
@@ -22,7 +22,7 @@ Clarissa,Don't tell me what to do. We're in this together now.,Не указыв
 Clarissa,"You need my help, uncle. Face it.","Тебе нужна моя помощь, дядя. Признай.",ai,,1BC68F404C6C58D0DB9065AB3C161307
 Uncle,"...Well, sometimes deals go sour. Or someone needs taking care of. There are rules, and when those rules are broken, well...they need to be enforced.","...Ну, иногда сделки срываются. Или кем-то нужно заняться. Есть правила, и когда их нарушают, ну... приходится напоминать о них силой.",ai,,D52D72DF47951EE154B22C89708ED96E
 Clarissa,Speak plainly.,Говори прямо.,ai,,F27C11754E2DFFD84CD9BBA8B4A06237
-Clarissa,"And that's ""cleanup""?",И это - «уборка»?,ai,,C09548314FE8945B0A6B26B5ECA3AAB2
+Clarissa,"And that's ""cleanup""?",И это «уборка»?,ai,,C09548314FE8945B0A6B26B5ECA3AAB2
 Clarissa,So it's killing.,"Значит, это убийство.",ai,,13A0272E45BEF18A81F197836EEBBA9B
 Uncle,"It wasn't like this. There was a sense of honour to what we did. A sense of tradition, of respect. Now it's...profit.","Раньше было не так. В том, что мы делали, была честь. Традиция, уважение. А теперь это... нажива.",ai,,5B8E897A44D2F9BC2E1260ADDF558760
 Clarissa,Now it's my father running things. That's the real issue.,А теперь всем заправляет мой отец. Вот в чём настоящая беда.,ai,,3389ACB04A6D6913BA66858321039549
@@ -30,21 +30,21 @@ Clarissa,Grandpa wouldn't be very happy about it.,Дедушка был бы н�
 Clarissa,"It doesn't have to be like this, you know. Things could change.","Знаешь, так не обязательно должно быть. Всё может измениться.",ai,,3368E63B4FFE5B9B9157BFB0BD75E3F2
 Uncle,"So do I, Clarissa. A lot has has changed. Some for the worse, some for the better.","Я тоже, Кларисса. Многое изменилось. Что-то к худшему, что-то к лучшему.",ai,,339C13E94170D8AD07FAC3AB76A5260C
 Clarissa,"And among the ""worse"", my father.",И среди «худшего» - мой отец.,ai,,3C542B20410DA36C81A0338CF7C3DCA8
-Clarissa,"Mostly for the worse, it seems.","По большей части к худшему, похоже.",ai,,A835AFB248C6BB1BE5233E84069B3097
+Clarissa,"Mostly for the worse, it seems.","Похоже, по большей части к худшему.",ai,,A835AFB248C6BB1BE5233E84069B3097
 Clarissa,It doesn't have to be like that. Not all change is for the better.,Так не обязательно должно быть. Не все перемены к лучшему.,ai,,C88168554BBC327680D2B5B0A5BB8B36
-Uncle,"...Come on. Let's get up on the dam - if nothing else, the view is nice. It'll cheer us right up.",...Пойдём. Поднимемся на плотину - там хотя бы вид красивый. Сразу настроение поднимет.,ai,,B5894FCF4CC7FD73642EEDA2C3FB5216
+Uncle,"...Come on. Let's get up on the dam - if nothing else, the view is nice. It'll cheer us right up.",...Пойдём. Поднимемся на плотину: там хотя бы вид красивый. Сразу настроение поднимет.,ai,,B5894FCF4CC7FD73642EEDA2C3FB5216
 Clarissa,[Keep walking],[Идти дальше],ai,,0BDEFC934772D0267FB70AA55086BC6B
 Uncle,...What do you mean?,...Что ты имеешь в виду?,ai,,36B1C2704F6820F0B064E18E5EAA0024
-Clarissa,(AMBITIOUS) This all started with my father's leadership. A rotten kingdom is only as rotten as its ruler. Maybe there's hope in the line of succession.,"(АМБИЦИОЗНОСТЬ) Всё началось, когда власть взял мой отец. Королевство гниёт ровно настолько, насколько гнил его правитель. Может, вся надежда - на наследника.",ai,,4174C77B431AAA8A1DE1079DCDCC4C2C
-Clarissa,"(CUNNING) Things are the way they are because it's easy. No one's put any thought in it - no one that matters, anyway. Not yet.","(ХИТРОСТЬ) Всё так, как есть, потому что так проще. Никто над этим не задумывался - по крайней мере, никто из тех, кто что-то решает. Пока.",ai,,AA9ED8AB4215B057C090D2B05D40025E
-Clarissa,(POWERFUL) I'm saying nothing's eternal - change just comes about when you bring it to the table. I can do that.,"(ВЛАСТНОСТЬ) Я к тому, что ничто не вечно - перемены приходят, когда кто-то выкладывает их на стол. И я могу это сделать.",ai,,89E3C116448B88B564DE36AC05D02782
-Uncle,"I know you have your differences, kid. We...you may not agree with everything he does, but he does what he can. Now come on, let's get up these stairs. The view's nice.","Я знаю, что у вас с ним разногласия, малая. Мы... ты можешь быть не согласна со всем, что он делает, но он делает, что может. Ну же, давай поднимемся по лестнице. Вид там хороший.",ai,,B65BBEBF4658018DB74F87AB1471EB5B
+Clarissa,(AMBITIOUS) This all started with my father's leadership. A rotten kingdom is only as rotten as its ruler. Maybe there's hope in the line of succession.,"(АМБИЦИОЗНОСТЬ) Всё началось, когда власть взял мой отец. Королевство гниёт ровно настолько, насколько гнил его правитель. Может, вся надежда на наследника.",ai,,4174C77B431AAA8A1DE1079DCDCC4C2C
+Clarissa,"(CUNNING) Things are the way they are because it's easy. No one's put any thought in it - no one that matters, anyway. Not yet.","(ХИТРОСТЬ) Всё так, как есть, потому что так проще. Никто над этим не думал. По крайней мере, никто из тех, кто что-то решает. Пока.",ai,,AA9ED8AB4215B057C090D2B05D40025E
+Clarissa,(POWERFUL) I'm saying nothing's eternal - change just comes about when you bring it to the table. I can do that.,"(ВЛАСТНОСТЬ) Я к тому, что ничто не вечно: перемены приходят, когда кто-то выкладывает их на стол. И я могу это сделать.",ai,,89E3C116448B88B564DE36AC05D02782
+Uncle,"I know you have your differences, kid. We...you may not agree with everything he does, but he does what he can. Now come on, let's get up these stairs. The view's nice.","Я знаю, что у вас с ним разногласия, малая. Мы... ты можешь не соглашаться с ним во всём, но он делает, что может. Ну же, давай поднимемся по лестнице. Вид там хороший.",ai,,B65BBEBF4658018DB74F87AB1471EB5B
 Clarissa,[Keep walking],[Идти дальше],ai,,EF5CBF3549F58C576F4C31943FE5A367
 Uncle,You think...you'd do things differently?,Ты думаешь... ты бы всё делала иначе?,ai,,01A21F22465A18967BE01DA501119614
 Clarissa,I'm sure as shit not as rotten as him.,"Уж я-то, чёрт возьми, не такая гнилая, как он.",ai,,F0CD4FC74026A0304B7401968BB1867F
-Clarissa,I don't know. I'd just try to be more like grandpa than my father.,"Не знаю. Я бы просто старалась быть больше похожей на дедушку, чем на отца.",ai,,CEAEE1794FF7E934E416C782A3C02CDC
+Clarissa,I don't know. I'd just try to be more like grandpa than my father.,"Не знаю. Я бы просто старалась быть похожей на дедушку, а не на отца.",ai,,CEAEE1794FF7E934E416C782A3C02CDC
 Clarissa,"You and me both, uncle. People who care about the old days.","Как и ты, дядя. Мы с тобой оба из тех, кому дороги старые времена.",ai,,5A74F9F240369BE05FFF37A81F39B1AA
-Uncle,...And you'd be the one to bring about that change? Am I hearing that correctly?,...И это ты принесёшь эти перемены? Я правильно расслышал?,ai,,B60537E947A551DA90728DBA2BD51611
+Uncle,...And you'd be the one to bring about that change? Am I hearing that correctly?,"...И, значит, перемены принесёшь ты? Я правильно расслышал?",ai,,B60537E947A551DA90728DBA2BD51611
 Clarissa,All I know is that anything is better than what my father is doing.,"Я знаю одно: что угодно лучше того, что творит мой отец.",ai,,06E8D9B64744CB531F690D9252583629
 Clarissa,I just want things to be done the way grandpa did them.,"Я просто хочу, чтобы всё делалось так, как при дедушке.",ai,,AA850FAE46E8119D12765CA66F8D5A0D
 Clarissa,"Not just me, uncle. You as well. And everyone else who cares about the old ways.","Не только я, дядя. И ты тоже. И все, кому дороги старые порядки.",ai,,A3B779A349C0F7E77395E88C90C9A666
@@ -52,41 +52,41 @@ Uncle,"...Clarissa, your father is a powerful man. You don't just tell powerful 
 Clarissa,"He's a coward in big, ill-fitting shoes. Nothing powerful about him.","Он трус в чужих, слишком больших для него ботинках. Ничего влиятельного в нём нет.",ai,,7CF59D6F468495291FB59F8649E35447
 Clarissa,Why the fuck not?,А какого хрена нет?,ai,,67A2102C4C16FEBE2BAC8BA946C80554
 Clarissa,No. All you need to do is to be better than them. Do it like they did back in the day.,"Нет. Нужно просто быть лучше них. Делать всё так, как делали раньше.",ai,,44E6EA4945E3F2C3F5CF6599CADA8EC7
-Uncle,"That...does sound nice. But before you go on changing the world, kid, how about we get up to the top of this dam? The view's real nice. Come on.","Это... звучит заманчиво. Но прежде чем менять мир, малая, может, сначала поднимемся на верх плотины? Вид там просто отличный. Пойдём.",ai,,5AFFC968403853024F91268A01A899EA
+Uncle,"That...does sound nice. But before you go on changing the world, kid, how about we get up to the top of this dam? The view's real nice. Come on.","Это... звучит заманчиво. Но прежде чем менять мир, малая, может, сначала поднимемся на самый верх плотины? Вид там просто отличный. Пойдём.",ai,,5AFFC968403853024F91268A01A899EA
 Clarissa,[Keep walking],[Идти дальше],ai,,8BC21A444FF43C147A4CF0B5BBD95738
 Uncle,"...She was just a kid. We don't do that, we don't just dump...kids. That's not who we are.","...Она же была совсем ребёнком. Мы так не делаем, мы не выбрасываем... детей. Мы не такие.",ai,,61CC9ABA48969017C62891AA5F2307DF
 Clarissa,"It is now, apparently.","Теперь, видимо, такие.",ai,,1D3841A8426047C5C2D8D289119AD2AC
 Clarissa,"Not you and me, no. But my father. Some of our people, perhaps.","Не мы с тобой, нет. А мой отец. И, возможно, кое-кто из наших.",ai,,4EE0901647901F2C0CD384827FD50C68
 Clarissa,You're right. It's not. But some seem to have forgotten that.,"Ты прав. Не такие. Но кое-кто, похоже, об этом забыл.",ai,,798710D8421036BCABC10482C9E88189
-Uncle,"So - we usually refer to these things as...well, cleanup. Or a sweep. 'Course, back in the day, we called it a ""touch-up"". Changing terms is good, though. Little confusing for old heads like mine, but you make do.","Так вот - обычно мы называем такие дела... ну, «уборкой». Или «зачисткой». А в моё время, конечно, говорили «навести марафет». Хорошо, что слова меняются. Старой голове вроде моей немного путано, но ничего, справляемся.",ai,,8B7C5900401AEB3F742675A20E6D915A
+Uncle,"So - we usually refer to these things as...well, cleanup. Or a sweep. 'Course, back in the day, we called it a ""touch-up"". Changing terms is good, though. Little confusing for old heads like mine, but you make do.","Так вот, обычно мы называем такие дела... ну, «уборкой». Или «зачисткой». А в моё время, конечно, говорили «навести марафет». Хорошо, что слова меняются. Старой голове вроде моей немного путано, но ничего, справляемся.",ai,,8B7C5900401AEB3F742675A20E6D915A
 Clarissa,"So the terminology changed, but the work remained the same?","Значит, слова поменялись, а работа осталась прежней?",ai,,B6F396CA4B1633CF36F0C4912F4E6C03
 Clarissa,"You seem to be doing fine, old man.","По-моему, ты отлично справляешься, старик.",ai,,0B183EB94F31CBAE1679219C8A1916E5
 Clarissa,"So what is a cleanup, exactly?","И что такое «уборка», если точнее?",ai,,20AC93A0464E763F121E1EB76D77C641
-Uncle,"Perspective. I suppose that's one of the few good things about coming here, eh? Can't get much further out than this.","Взгляд со стороны. Пожалуй, это одна из немногих хороших вещей в поездках сюда, а? Дальше отсюда уже не забраться.",ai,,4D8BBF1C4C516788827C63B4D31DA96B
+Uncle,"Perspective. I suppose that's one of the few good things about coming here, eh? Can't get much further out than this.","Взгляд со стороны. Пожалуй, это один из немногих плюсов таких поездок, а? Дальше отсюда уже не забраться.",ai,,4D8BBF1C4C516788827C63B4D31DA96B
 Clarissa,I wish I could.,А я бы хотела забраться дальше.,ai,,0E7740764DE86499A42A4EB1E42C3141
 Clarissa,"Doesn't make it any less depressing, nor more beautiful.","Ни менее тоскливым, ни более красивым это его не делает.",ai,,7A16574A484F5A917DCFEAAB94E2A4CB
 Clarissa,[Look at the view] You're right. It is nice.,[Посмотреть на вид] Ты прав. Действительно красиво.,ai,,0DB9D77F48CAA6E81164C18E17EE168B
-Uncle,"Almost there. Might as well enjoy a moment of respite until then. This place, it ain't pretty - the view helps you remember that it isn't all this bad.","Почти пришли. А пока можно и передохнуть минутку. Местечко тут неприглядное - а вид напоминает, что не всё так плохо.",ai,,E7F639114B127A14D5ABA0A06FE64194
-Clarissa,"Sometimes I wish I could escape - not just this place, but the City. Everything.","Иногда мне хочется сбежать - не только отсюда, но и из Города. От всего.",ai,,4214955049446FBB9BB49AB554FB1D3D
+Uncle,"Almost there. Might as well enjoy a moment of respite until then. This place, it ain't pretty - the view helps you remember that it isn't all this bad.","Почти пришли. А пока можно и передохнуть минутку. Местечко тут неприглядное, зато вид напоминает, что не всё так плохо.",ai,,E7F639114B127A14D5ABA0A06FE64194
+Clarissa,"Sometimes I wish I could escape - not just this place, but the City. Everything.","Иногда мне хочется сбежать не только отсюда, но и из Города. От всего.",ai,,4214955049446FBB9BB49AB554FB1D3D
 Clarissa,"I'm not so sure, uncle. The City doesn't look much more appealing from here.","Не уверена, дядя. Отсюда Город выглядит ничуть не привлекательнее.",ai,,D85FA346450E0329462398BE5578F365
 Clarissa,"[Look at the view] Maybe not, after all.","[Посмотреть на вид] А может, и нет.",ai,,AF2843CE4D93D72616A4019B6ADF886D
 Uncle,"It's there, make no mistake. You just need to look for it. See past the clouds, past the grey.","Красота там есть, не сомневайся. Просто её надо искать. Смотреть сквозь облака, сквозь серость.",ai,,21998261446EAF611F73429191114569
-Clarissa,"Nevermind seeing - I'd like to go there. Far out, beyond the wall.","Да что там смотреть - я бы хотела туда отправиться. Далеко, за Стену.",ai,,61C1ED6C4D4E2794082620A9D3194DC7
+Clarissa,"Nevermind seeing - I'd like to go there. Far out, beyond the wall.","Да что там смотреть, я бы хотела туда отправиться. Далеко, за Стену.",ai,,61C1ED6C4D4E2794082620A9D3194DC7
 Clarissa,"The City looks the same. Gray, foggy. Dark.","Город выглядит как всегда. Серый, туманный. Мрачный.",ai,,11AF386C489DA637F0D472895F7F4EAC
 Clarissa,"[Look out at the City] I suppose it is out there, somewhere. I guess that's comforting.","[Посмотреть на Город] Наверное, она где-то там всё-таки есть. Это даже утешает.",ai,,F18A159F4CE8F29DAD1AABAC9F83D75D
-Uncle,"Hah. Well, even if you did, there isn't much out there. Wastes, I'm told - far as the eye can see. Nothing.","Ха. Ну, даже если бы ты туда попала, там почти ничего нет. Пустоши, говорят, - насколько хватает глаз. Пустота.",ai,,F135FD7D44901BEE66BEE88B1838A735
+Uncle,"Hah. Well, even if you did, there isn't much out there. Wastes, I'm told - far as the eye can see. Nothing.","Ха. Ну, даже если бы ты туда попала, там почти ничего нет. Говорят, пустоши, насколько хватает глаз. Пустота.",ai,,F135FD7D44901BEE66BEE88B1838A735
 Clarissa,You're not curious?,Тебе не любопытно?,ai,,71622E2040378B45D506BB8DB7A25189
 Clarissa,"There goes that dream, I suppose.","Вот и конец мечте, видимо.",ai,,EBB0B5404E863439EB7A03AC245484F4
 Uncle,"Not at all. Plenty of trouble inside the Wall as it is. Plenty of beauty, too. You just need to learn to see it.",Ничуть. И внутри Стены бед хватает. И красоты тоже. Нужно только научиться её видеть.,ai,,EB8A172447D2C35F57BF9DA1EC97B32A
 Clarissa,"That sounds like a distraction from reality, more than anything else.",Звучит скорее как способ отвлечься от реальности.,ai,,F339E90240BCB5E79BD418984E876788
 Clarissa,"Maybe. You might be right, uncle.","Может быть. Может, ты и прав, дядя.",ai,,45C8C70741A8945AC93EEF9CBE2DFE17
 Uncle,"Don't take it too hard, Clarissa. Plenty of discoveries to be made inside the Wall, too. Just need to look for it.","Не принимай близко к сердцу, Кларисса. Внутри Стены тоже полно открытий. Нужно только их искать.",ai,,04878B7B4A5B1CF78A5E5B865A14EF91
-Clarissa,"That's not enough - a distraction, at best.",Этого мало - в лучшем случае способ отвлечься.,ai,,C01F0B9B4000E1FD4358B3A4B0E0A657
+Clarissa,"That's not enough - a distraction, at best.",Этого мало. В лучшем случае это способ отвлечься.,ai,,C01F0B9B4000E1FD4358B3A4B0E0A657
 Clarissa,Yeah. You might be right about that.,"Да. Может, ты и прав.",ai,,E1A62A2A4AE2722AB960C6855EFA7030
 Uncle,"But that doesn't make your home any less real, does it? Doesn't make a warm meal or a soft bed any less comforting.","Но твой дом от этого не становится менее настоящим, правда? И горячий ужин или мягкая постель не становятся менее уютными.",ai,,E4B3EC694FEC65E399E0D99450CA0E8A
 Clarissa,Nor does it make the prospect of leaving the City any less interesting.,Как и мысль покинуть Город не становится менее заманчивой.,ai,,8D8B13C946878385829A7CA888959F1D
 Clarissa,Be happy for the smaller things. That's what you're saying?,Радоваться мелочам. Ты это хочешь сказать?,ai,,EBA09EC844B8E99C034DF69AE38429AA
-Uncle,"That's what keeps you going - that's what I've found, at least.","Это и держит на плаву - по крайней мере, я так понял.",ai,,3D27D34A474EA8C86E745E81FE23B575
+Uncle,"That's what keeps you going - that's what I've found, at least.","Это и держит на плаву. По крайней мере, я так понял.",ai,,3D27D34A474EA8C86E745E81FE23B575
 Clarissa,Maybe. Or maybe it's just a convenient distraction.,"Может быть. А может, это просто удобный способ отвлечься.",ai,,C893E51C478D1E56DBAE03B78E21D404
 Clarissa,"I'm not so sure. I'd rather look forward, at what could be.","Не уверена. Я лучше буду смотреть вперёд, на то, что может быть.",ai,,CB402BFE4394EE2EF290A7B95D9D24CE
 Clarissa,"You might be right about that, uncle.","Может, ты и прав, дядя.",ai,,63D367B944BAE863DD4FFB885A9040EA
@@ -113,7 +113,7 @@ Clarissa,"...Nothing. Maybe this is the distraction I need. Maybe you are right.
 Uncle,"Quite right. Come on, then. Not much further, if my instinct proves correct.","Вот именно. Ну, пойдём. Если чутьё меня не подводит, осталось недалеко.",ai,,E20E5C4940D7F1F15580369D1BCD2123
 Clarissa,[Keep walking],[Идти дальше],ai,,A2947A8542A909C39A080FA60E41864E
 Clarissa,"Let's take our time. I'd like to enjoy this moment, if only a little longer.",Давай не будем спешить. Хочу насладиться этим моментом ещё хоть немного.,ai,,33DE47AF4F58FF91A68286A7525E9DD8
-Uncle,"That I can get behind. You're a good kid, Clarissa. You remind me of your grandfather.","Вот это я поддерживаю. Хорошая ты девочка, Кларисса. Напоминаешь мне своего деда.",ai,,27F14983495682E495C51384FB766999
+Uncle,"That I can get behind. You're a good kid, Clarissa. You remind me of your grandfather.","Вот это я поддерживаю. Хорошая ты девочка, Кларисса. Напоминаешь мне деда.",ai,,27F14983495682E495C51384FB766999
 Clarissa,...You remind me of him.,...А ты напоминаешь мне его.,ai,,776ADC394AB7BA9BE1DBC08F1F1F4FA9
 Clarissa,[Take your time],[Не торопиться],ai,,9B8B844E4502D182EB4DF1A49C506882
 Uncle,...,...,ai,,8BBC329642B962BFEEB07FBFD947C5ED
@@ -132,7 +132,7 @@ Clarissa,Grandpa taught it to me. I can't believe I still remember it.,"Меня
 Uncle,"That's always the case with the things that matter most. You don't forget, even if you tried.","Так всегда бывает с тем, что важнее всего. Не забудешь, даже если захочешь.",ai,,EF5CE0C14E5E3D32F6D46AAC0C0382A1
 Clarissa,[Keep walking],[Идти дальше],ai,,82689D934BD86A454EC8ECBB14AFEE2C
 Clarissa,You're right. You don't.,Ты прав. Не забудешь.,ai,,4E2C2E074D7FC40206F066A51A333898
-Uncle,"Mhm. Me and the other capos use this place for all sorts of things - deals, arguments, meetings...and disposal.","Угу. Мы с другими капо используем это место для всякого - сделок, разборок, встреч... и утилизации.",ai,,0611C02D425046FA797B7AB99C5D6536
+Uncle,"Mhm. Me and the other capos use this place for all sorts of things - deals, arguments, meetings...and disposal.","Угу. Мы с другими капо используем это место для всякого: сделок, разборок, встреч... и утилизации.",ai,,0611C02D425046FA797B7AB99C5D6536
 Clarissa,Meetings?,Встреч?,ai,,1F0AA24944FCCD4E507B4CAA2C4F8DD6
 Clarissa,Deals?,Сделок?,ai,,D16B60CC4DA9F126675761BC164C1F8C
 Clarissa,Arguments?,Разборок?,ai,,1F194179475C30D56B048A8508317F3F
@@ -143,30 +143,30 @@ Clarissa,[Keep walking],[Идти дальше],ai,,17420BE648182EDA75C91BA20A56
 Uncle,"Ambitions are fickle things, kid. Same as dreams, same as fantasy.","Амбиции - штука переменчивая, малая. Как и мечты, как и фантазии.",ai,,EC8EE488439193DA477AE88115A8B587
 Clarissa,Only if you lack the conviction to realize them.,Только если не хватает решимости их воплотить.,ai,,7B513CB3461D16080C13448C10646C31
 Clarissa,"Don't you have any ambition, uncle?","А у тебя что, совсем нет амбиций, дядя?",ai,,48F30A4C4CD94F792A40E3B420079C73
-Clarissa,Fine - then all I dream of now is to get across this dam.,Ладно - тогда сейчас я мечтаю только об одном: перейти эту плотину.,ai,,2B3F1C6648F22B664C8E979C525D61F4
-Uncle,"That may be - but you spend your whole life thinking of tomorrow, and today will never matter.","Может, и так - но если всю жизнь думать о завтрашнем дне, сегодняшний так ничего и не будет значить.",ai,,E8542DA24639457262CDA3B541A14C11
+Clarissa,Fine - then all I dream of now is to get across this dam.,"Ладно, тогда сейчас я мечтаю только об одном: перейти эту плотину.",ai,,2B3F1C6648F22B664C8E979C525D61F4
+Uncle,"That may be - but you spend your whole life thinking of tomorrow, and today will never matter.","Может, и так. Но если всю жизнь думать о завтрашнем дне, сегодняшний так ничего и не будет значить.",ai,,E8542DA24639457262CDA3B541A14C11
 Clarissa,"Today already matters little. Not the way it is, anyway.","Сегодняшний и так мало что значит. По крайней мере, такой, какой он есть.",ai,,1C26FF0E4478BEFC9C496180C08FC098
 Clarissa,"Don't you ever think about tomorrow? What you want, the things you aspire to?","Ты никогда не думаешь о завтрашнем дне? О том, чего хочешь, к чему стремишься?",ai,,24A587E646DEB048E12DC993AF2485E0
 Clarissa,Then let's get today over with. How much further?,Тогда давай покончим с сегодняшним. Сколько ещё идти?,ai,,ABBC839248A70593D8E343A540F0400D
 Uncle,"And what about now? What about what you want, in this moment? Not in a day, or a week, or a year - but now?","А как насчёт «сейчас»? Чего ты хочешь в этот самый момент? Не через день, не через неделю или год - а сейчас?",ai,,FECE053B41B7E3139B8042A76D0E0BD0
-Clarissa,Not this - that's all I know. This isn't enough.,"Не этого - вот всё, что я знаю. Этого мало.",ai,,55853C0A4A5916CBD21B57A8F7A873D1
+Clarissa,Not this - that's all I know. This isn't enough.,Знаю одно: не этого. Этого мало.,ai,,55853C0A4A5916CBD21B57A8F7A873D1
 Clarissa,"You don't understand, uncle. Don't you have any dreams? Aspirations for tomorrow?","Ты не понимаешь, дядя. Неужели у тебя нет мечты? Стремлений на завтра?",ai,,51C85B404C74D4B16EC01795EE6B5440
 Clarissa,...Fine. Getting across this dam would be a good start.,...Ладно. Перейти эту плотину было бы неплохим началом.,ai,,64AA8C1B4A34A63256D1939BC0F2337B
-Uncle,I...it shouldn't have gone like this. You shouldn't have seen that. I told you that it wasn't going to be pretty. I shouldn't have brought you here.,"Я... всё должно было пойти не так. Тебе не стоило этого видеть. Я же говорил, что зрелище будет не из приятных. Не надо было тебя сюда привозить.",ai,,54C2875C4FFACC8C1C7879A6B676C874
+Uncle,I...it shouldn't have gone like this. You shouldn't have seen that. I told you that it wasn't going to be pretty. I shouldn't have brought you here.,"Я... не так всё должно было выйти. Тебе не стоило этого видеть. Я же говорил, что зрелище будет не из приятных. Не надо было тебя сюда привозить.",ai,,54C2875C4FFACC8C1C7879A6B676C874
 Clarissa,"No, you should have. This is the catalyst. This is what will wake you up.","Нет, надо было. Это катализатор. Это то, что наконец тебя разбудит.",ai,,F4EA477748CD2E7143934399D16E1433
 Clarissa,"Maybe not. But you did, and now we live with it. We move forward.","Может, и не стоило. Но ты привёз, и теперь нам с этим жить. Надо двигаться дальше.",ai,,3BCB94F7410AC2CBF2507883C059C888
 Clarissa,Who cares what I see or don't see? What happened to that girl - that's what matters.,"Какая разница, что я вижу, а чего нет? Важно то, что случилось с этой девочкой.",ai,,AB85697A442C26791430238059A00CB5
-Uncle,"I know you want...change, Clarissa. But you can't force that. If you do, you end up changing nothing.","Я знаю, ты хочешь... перемен, Кларисса. Но их нельзя навязать силой. Если попытаешься - в итоге ничего не изменишь.",ai,,5DDF80534F3C5B17BC18E89A99EEA44A
+Uncle,"I know you want...change, Clarissa. But you can't force that. If you do, you end up changing nothing.","Я знаю, ты хочешь... перемен, Кларисса. Но их нельзя навязать силой. Если попытаешься, в итоге ничего не изменишь.",ai,,5DDF80534F3C5B17BC18E89A99EEA44A
 Clarissa,Doesn't mean I won't try.,"Это не значит, что я не попробую.",ai,,1479B844497F597AF6266B96EE5BA5D9
 Clarissa,"So the lesson is to never try? Not very inspiring, uncle.","Значит, мораль в том, чтобы никогда не пытаться? Не очень-то вдохновляет, дядя.",ai,,C57B3B1B46E38FC8A3FE57B8B10B6427
 Clarissa,"That's easy for you to say, uncle. Not everyone's lot in life is as agreeable as yours.","Легко тебе говорить, дядя. Не всем в жизни досталась такая сладкая доля, как тебе.",ai,,7B75D386475CE007D07AA48FFB575EAB
 Uncle,"I've learned to settle, to be happy with my lot. It makes life a lot easier, a lot more enjoyable.","Я научился довольствоваться тем, что есть, радоваться своей доле. Так жить гораздо проще и приятнее.",ai,,35EA424146164C800F31518B695AA779
 Clarissa,"I can't settle, uncle. I won't.","Я не могу довольствоваться тем, что есть, дядя. И не стану.",ai,,D9E7413B4F2759229776F8B03FA2544D
-Clarissa,So you're content to wallow in mediocrity? I see.,"Значит, тебя устраивает погрязнуть в посредственности? Понятно.",ai,,9D0D1A974763A85E9091A189FA9F8E69
+Clarissa,So you're content to wallow in mediocrity? I see.,"Значит, тебя устраивает прозябать в посредственности? Понятно.",ai,,9D0D1A974763A85E9091A189FA9F8E69
 Clarissa,"That's easy for you to say, uncle. Not everyone's lot is as agreeable as yours.","Легко тебе говорить, дядя. Не всем досталась такая сладкая доля, как тебе.",ai,,9683157848877745962340909C42666A
-Uncle,Not to worry - we're almost there.,Не волнуйся - мы почти пришли.,ai,,6AE9B9354A8058DA88EF08A71ECFC95B
+Uncle,Not to worry - we're almost there.,"Не волнуйся, мы почти пришли.",ai,,6AE9B9354A8058DA88EF08A71ECFC95B
 Clarissa,[Keep walking],[Идти дальше],ai,,6D9E00C543E6785C2DEE088ABB91B0E5
-Uncle,"I see that. Come on - we're almost there. Just down these stairs, now.",Вижу. Пойдём - мы почти на месте. Осталось только спуститься по этой лестнице.,ai,,335688A642D1958A99FAA4AABE6A5200
+Uncle,"I see that. Come on - we're almost there. Just down these stairs, now.","Вижу. Пойдём, мы почти на месте. Осталось только спуститься по этой лестнице.",ai,,335688A642D1958A99FAA4AABE6A5200
 Clarissa,[Keep walking],[Идти дальше],ai,,25BB9B87499DC75A6B33399D4E6E5618
 Uncle,"...We're almost there. Keep your chin up, Clarissa. Just down these stairs, now.","...Мы почти на месте. Выше нос, Кларисса. Осталось только спуститься по этой лестнице.",ai,,8F4B7F6848FC6BB6CB3506B8D176F69B
 Clarissa,[Keep walking],[Идти дальше],ai,,7A10E0E74A36172D40A3BDADFF7AA9F5
@@ -174,8 +174,8 @@ Uncle,Clarissa. Stay. By. The. Car.,Кларисса. Оставайся. У. М
 Clarissa,No. This is exactly what I mean. It doesn't have to be like this.,Нет. Именно об этом я и говорю. Так не должно быть.,ai,,ED579C0743EF8B8596B4EB93FCAC3A0E
 Clarissa,"What will it take, uncle? You know I'm right!","Что для этого нужно, дядя? Ты же знаешь, что я права!",ai,,E11D648B492EA898529B0385BF9D7810
 Clarissa,"Wake up, Clemence! These aren't the good old days anymore!","Очнись, Клеменс! Старые добрые времена давно прошли!",ai,,8B82584F4617EA354B86F2839B173770
-Clarissa,"...Fine. If you can't stomach me being part of this, fine.","...Ладно. Если тебе невыносимо, что я в этом участвую, - ладно.",ai,,45C2F6F54EB0FDE8A85925BC0CB6A241
-Uncle,"No, I...I suppose not. Hm. Ah - look. We're almost there. Just down these stairs, and we've arrived.","Нет, я... пожалуй, нет. Хм. А - смотри. Мы почти на месте. Спустимся по этой лестнице - и пришли.",ai,,FBB7E2BE49FB4B6DC656A9B9BE01A183
+Clarissa,"...Fine. If you can't stomach me being part of this, fine.","...Ладно. Если тебе невыносимо, что я в этом участвую, пусть так.",ai,,45C2F6F54EB0FDE8A85925BC0CB6A241
+Uncle,"No, I...I suppose not. Hm. Ah - look. We're almost there. Just down these stairs, and we've arrived.","Нет, я... пожалуй, нет. Хм. А, смотри. Мы почти на месте. Спустимся по этой лестнице, и пришли.",ai,,FBB7E2BE49FB4B6DC656A9B9BE01A183
 Clarissa,[Keep walking],[Идти дальше],ai,,20E5629544F85E8D45AA8B8DF53D7404
 Uncle,She's...I...Shepherd save us.,"Она... я... Пастырь, спаси нас.",ai,,437C1054454B39539FC8F2A52BE36139
 Clarissa,...Shit. Let's get to work.,...Чёрт. Давай за работу.,ai,,50EEE1BD4413840B3F0EC685BF17FF05
@@ -185,7 +185,7 @@ Clarissa,This is...that's a body. Dead. She's dead.,Это... это тело. �
 Uncle,Just...look away. We'll head back to the car.,Просто... отвернись. Мы вернёмся к машине.,ai,,C19E9CA748C65B6F95E119961EC16E9D
 Clarissa,...Not yet.,...Ещё нет.,ai,,287D216A4B4D82386EB305ADDD8A34E5
 Clarissa,This is what our people do? The people we're supposed to trust?!,"Вот чем занимаются наши? Те, кому мы должны доверять?!",ai,,1FE3BBBA407CB4E4DF82A0B09B54E47F
-Clarissa,"Wait - we need to find out what happened, don't we?","Подожди - нам ведь нужно выяснить, что произошло, разве нет?",ai,,6FF0847349A0BEA2C1438CBE3E16C4BA
+Clarissa,"Wait - we need to find out what happened, don't we?","Подожди, нам ведь нужно выяснить, что произошло, разве нет?",ai,,6FF0847349A0BEA2C1438CBE3E16C4BA
 Clarissa,This is...that's a body. Dead. She's dead.,Это... это тело. Мёртвое. Она мертва.,ai,,415074AA45A1AE12AA672EACF2155ED5
 Uncle,...Just a...kid...just a little girl.,...Совсем... ребёнок... совсем маленькая девочка.,ai,,26FCB9B94B5531FEC1DC3EA134C10E42
 Clarissa,...Shit. Let's get to work.,...Чёрт. Давай за работу.,ai,,CE5E7D5041099E33C539C0820AFC74E5
@@ -204,19 +204,19 @@ Uncle,...Good. It might be long over due. Do you think he'll listen?,"...Хор�
 Clarissa,I'll make him listen.,Я заставлю его прислушаться.,ai,,686045014E68FD8855EC1FA2ADA02C87
 Clarissa,Not without your help.,Не без твоей помощи.,ai,,C4D2B7484E8AD116348F80BAB08E1A87
 Uncle,"...Clarissa, take a deep breath. Compose yourself. You're not...you wouldn't kill your own father, would you?","...Кларисса, сделай глубокий вдох. Возьми себя в руки. Ты же не... ты ведь не убьёшь родного отца?",ai,,B271964A463A893180F862B6D66817C5
-Clarissa,"Not under ordinary circumstances, no. He forced my hand.",В обычных обстоятельствах - нет. Он не оставил мне выбора.,ai,,E814CBB64A8FFE3A5A4E3CADEBDDE614
+Clarissa,"Not under ordinary circumstances, no. He forced my hand.","Нет, не в обычных обстоятельствах. Он не оставил мне выбора.",ai,,E814CBB64A8FFE3A5A4E3CADEBDDE614
 Clarissa,I would. Gladly.,Убью. С радостью.,ai,,1F29C6234976D4E52483B7B16D60EF56
 Clarissa,What other choice is there? He is the source of all this...rot.,А какой ещё выход? Он источник всей этой... гнили.,ai,,F5295A0142F610DA7D6685A7773E78A9
 Uncle,...You're thinking of leaving the family? Your name?,...Ты думаешь уйти из семьи? Отказаться от фамилии?,ai,,1132F6F0499B9C20D7D2D49499302473
 Clarissa,Yes. And I need your help.,Да. И мне нужна твоя помощь.,ai,,F2207E2B4E2BE95412943699B75653E9
 Clarissa,The name means nothing anymore. That much is clear.,Фамилия больше ничего не значит. Это уже ясно.,ai,,C23C412649C51B37C33A2AA3E8769CFB
-Uncle,I'm...I'll think on it. I've always been a Bloodworth. Never thought that would change - could change.,"Я... я подумаю. Я всегда был Бладвортом. Никогда не думал, что это изменится - что это вообще может измениться.",ai,,F05E8CD04268B5CE69E66982121E423B
+Uncle,I'm...I'll think on it. I've always been a Bloodworth. Never thought that would change - could change.,"Я... я подумаю. Я всегда был Бладвортом. Никогда не думал, что это изменится, что вообще может измениться.",ai,,F05E8CD04268B5CE69E66982121E423B
 Clarissa,You won't have to. I just need your help to find a way out.,"Тебе и не придётся. Мне просто нужна твоя помощь, чтобы найти выход.",ai,,F45AA9B34B9A6860B7A3AA88C4273BEF
 Clarissa,Just think about it. That's all I ask.,Просто подумай об этом. Больше я ни о чём не прошу.,ai,,9108726043122C873DDC62BFBAE20E1E
 Uncle,...We're going back to the car. Now.,...Мы возвращаемся к машине. Сейчас же.,ai,,28B9A8A24CACEA4B0CA96A8B5992C6B2
 Clarissa,"Uncle, listen to me.","Дядя, послушай меня.",ai,,AD9497F049D3C649A5951F998EC76C9F
 Clarissa,...Yeah. Alright.,...Да. Ладно.,ai,,E0AA4FC642F4B1AD729862857B23A24A
-Clarissa,What - NOW you don't have the stomach for it?!,Что - а ТЕПЕРЬ у тебя кишка тонка?!,ai,,D269E5CC44D97A00149EAE850DDCE33F
+Clarissa,What - NOW you don't have the stomach for it?!,"Что, а ТЕПЕРЬ у тебя кишка тонка?!",ai,,D269E5CC44D97A00149EAE850DDCE33F
 Uncle,"That...that I could do. Perhaps. I'll need to think about it. For now, there's still...the body. I need to take care of it.","Это... это я, пожалуй, мог бы сделать. Может быть. Мне нужно подумать. А пока ещё есть... тело. Мне нужно им заняться.",ai,,4861C76E4BDF53218F30ACAA9D41F0B2
 Clarissa,Don't worry. I'll stay here.,Не волнуйся. Я останусь здесь.,ai,,154F039046FA7BD5370D9EB3C07FB791
 Clarissa,I'm coming with you.,Я иду с тобой.,ai,,859492C641384E16680AFDB8E92FD030
@@ -226,7 +226,7 @@ Clarissa,I can handle it. I've been waiting for it.,Я справлюсь. Я д
 Uncle,"Just give it some thought. Something like that would require a lot of planning, thinking, and backing from the family. Otherwise, everything would fall apart.","Просто подумай об этом. Такое требует серьёзного планирования, размышлений и поддержки семьи. Иначе всё развалится.",ai,,4716B1F24ABCF616FFF246B7D64208B2
 Clarissa,That's why I need you.,Поэтому ты мне и нужен.,ai,,CE717BB04D40279605EBD988BEC35286
 Clarissa,I can handle it. I've been waiting for it.,Я справлюсь. Я давно этого ждала.,ai,,B96C550841A60791D7E10383A05EBF38
-Uncle,"No, I...I understand. I only ask that you consider this seriously before you do anything. You'd need to plan it. You'd need the backign of the family - otherwise, it'd all fall apart.","Нет, я... я понимаю. Прошу лишь об одном: подумай как следует, прежде чем что-то делать. Это нужно спланировать. Тебе понадобится поддержка семьи - иначе всё развалится.",ai,,DEB5D6C640A20549584D50A174CDC821
+Uncle,"No, I...I understand. I only ask that you consider this seriously before you do anything. You'd need to plan it. You'd need the backign of the family - otherwise, it'd all fall apart.","Нет, я... я понимаю. Прошу лишь об одном: подумай как следует, прежде чем что-то делать. Это нужно спланировать. Тебе понадобится поддержка семьи, иначе всё развалится.",ai,,DEB5D6C640A20549584D50A174CDC821
 Clarissa,That's why I need you.,Поэтому ты мне и нужен.,ai,,FC6668F64E427A7713A21C98957D9A77
 Clarissa,I can handle it. I've been waiting for it.,Я справлюсь. Я давно этого ждала.,ai,,828505FA41CE8A00F99865B95A6C6C26
 Uncle,"We...we'll talk about this later. For now, I need to deal with the body.",Мы... мы поговорим об этом позже. А сейчас мне нужно разобраться с телом.,ai,,B0DB96D34F6A928BEBA2D484F5B6A364
@@ -237,7 +237,7 @@ Clarissa,I'll stay here.,Я останусь здесь.,ai,,42727F01418E2C99302
 Clarissa,I'm coming with you.,Я иду с тобой.,ai,,4F46E5E8437E524C161C7D9466FB808D
 Uncle,"...Thank you. I'm just...going to grab some tools from the trunk, and then head to the pier. I'll be right back.",...Спасибо. Я только... возьму инструменты из багажника и пойду к пирсу. Скоро вернусь.,ai,,A5B286BE487493524784EF9967809ED8
 Clarissa,Good luck.,Удачи.,ok,,25C1774D4E2D58BE580E74ACDD4EAC24
-Uncle,...I see. Alright. There's some rope and tools in the trunk - go grab them. No need to drag this out.,...Понятно. Ладно. В багажнике есть верёвка и инструменты - принеси их. Не будем тянуть.,ai,,CB4DFDFC4417E00B726E2888B5CEE105
+Uncle,...I see. Alright. There's some rope and tools in the trunk - go grab them. No need to drag this out.,...Понятно. Ладно. В багажнике есть верёвка и инструменты. Принеси их. Не будем тянуть.,ai,,CB4DFDFC4417E00B726E2888B5CEE105
 Clarissa,[Get to it],[Взяться за дело],ai,,88751D9540CAB5E232C2A9BB9E2A6494
 Uncle,Right. I'll be over soon. I promise.,Хорошо. Я скоро подойду. Обещаю.,ai,,A743801D434DF6BA80313DA2A017CAFA
 Clarissa,[Stay by the car],[Остаться у машины],ai,,808D46E84719A37960C9E49DDFC12DB5
@@ -260,22 +260,22 @@ Clarissa,"This whole thing, our ""family"" - it's over. I want to start over, cr
 Clarissa,"...It's simple, really. Carlo is the source of this rot, and I'm going to kill him.","...Всё очень просто. Карло - источник этой гнили, и я его убью.",ai,,3E6DEB02424D861A95F92CA90E555E03
 Uncle,...And just what do you propose to do? Waltz into your father's office and ask nicely?,...И что же ты предлагаешь? Вальяжно зайти к отцу в кабинет и вежливо попросить?,ai,,3E13C5D34DC4A729DDF3D79AAB0290FB
 Clarissa,"Yes, in fact. It's high time someone confronted him.","Да, представь себе. Давно пора, чтобы кто-то высказал ему всё в лицо.",ai,,2AFB39554E972CDF4F24608ACEBD7944
-Clarissa,No. I'm going to leave. Start my own syndicate - do things right.,Нет. Я уйду. Создам свой синдикат - и буду делать всё правильно.,ai,,7A502D0949C7D34059647FA28FAFFCBC
+Clarissa,No. I'm going to leave. Start my own syndicate - do things right.,Нет. Я уйду. Создам свой синдикат и буду делать всё правильно.,ai,,7A502D0949C7D34059647FA28FAFFCBC
 Clarissa,"No, I'm going to waltz into his office and kill the son of a bitch.","Нет, я вальяжно зайду к нему в кабинет и убью этого сукина сына.",ai,,B2BECE48466FF5475FE6E2BEC0FC57CC
 Uncle,"Decision 1, huh? Cool.","Решение 1, да? Круто.",ai,,77D40300444E8D286B2672B2D1165465
 Uncle,"...He's not exactly known for taking advice, Clarissa. And, frankly, especially not from you.","...Он не особо славится тем, что прислушивается к советам, Кларисса. И, честно говоря, уж точно не к твоим.",ai,,5E90BE514A5B02F6D15687AF41BFAB2E
 Clarissa,"That's why I need your backing, uncle. I can't do this without you.","Поэтому мне и нужна твоя поддержка, дядя. Без тебя я не справлюсь.",ai,,CAA993C94248267E9DB3BAA48AA24705
 Clarissa,"Trust me. This time, he'll have no choice.",Поверь мне. На этот раз у него не будет выбора.,ai,,610FA10940BA40737F39AD87221FBE62
-Uncle,"...Clarissa, you're not thinking straight. You're all worked up - seeing a dead body, it does that to you. Let it go.","...Кларисса, ты не в себе. Ты на взводе - вид мёртвого тела, он так действует. Отпусти это.",ai,,BD3AD3A143B680C3E07D828D6AB31A34
+Uncle,"...Clarissa, you're not thinking straight. You're all worked up - seeing a dead body, it does that to you. Let it go.","...Кларисса, ты не в себе. Ты на взводе: от вида мёртвого тела такое бывает. Отпусти это.",ai,,BD3AD3A143B680C3E07D828D6AB31A34
 Clarissa,"I need your help, uncle. I need your backing.","Мне нужна твоя помощь, дядя. Твоя поддержка.",ai,,C9CCD0E643AD573D1318798062EEAF22
 Clarissa,I can't let it go. I won't.,Я не могу это отпустить. И не стану.,ai,,FB04FF7F429F1194A8D155A9AEDA3497
 Clarissa,"Yes. Come with me. It'll be like back in the day, when our name did mean something.","Да. Пойдём со мной. Будет как в старые времена, когда наша фамилия действительно что-то значила.",ai,,5DF37AA441DBFFAB3302FF82A2C9A374
 Clarissa,Yes. Our name means nothing now anyway.,Да. Наша фамилия всё равно больше ничего не значит.,ai,,7B9474AA49E216FFA967C5BCC5B5F71B
 Uncle,"I can't...listen, kid. I've been doing this my whole life. I can't just up and...well, what you're asking me.","Я не могу... послушай, малая. Я занимаюсь этим всю жизнь. Я не могу просто взять и... ну, сделать то, о чём ты просишь.",ai,,549868CD41B6A1794500719416AC04BB
 Clarissa,"Please, uncle. You know all this has to stop. It has to change.","Прошу тебя, дядя. Ты же знаешь, что всё это нужно прекратить. Всё должно измениться.",ai,,B6D464114B50441FD31053803B1BB17A
-Clarissa,"It's going to happen, with or without your help. Better be on the right side of history.",Это случится - с твоей помощью или без. Лучше оказаться на правильной стороне истории.,ai,,BF7B20154C55CC53EDC78E9B1EE30F99
+Clarissa,"It's going to happen, with or without your help. Better be on the right side of history.","Это случится, с твоей помощью или без. Лучше оказаться на правильной стороне истории.",ai,,BF7B20154C55CC53EDC78E9B1EE30F99
 Uncle,"You...give it time. Compose yourself. Don't let your temper get the best of you. ","Ты... дай этому время. Возьми себя в руки. Не позволяй гневу взять верх. ",ai,,A989AAA14E6A568755DDC2B102AACE5C
-Clarissa,"All I ask is that you think about it. You know I'm right - if not now, then with time.","Я прошу лишь, чтобы ты подумал. Ты знаешь, что я права - если не сейчас, то со временем поймёшь.",ai,,9F83EE7E4D9C4495DD71D8887E795906
+Clarissa,"All I ask is that you think about it. You know I'm right - if not now, then with time.","Я прошу лишь, чтобы ты подумал. Ты знаешь, что я права. Если не сейчас, то со временем поймёшь.",ai,,9F83EE7E4D9C4495DD71D8887E795906
 Clarissa,Fuck that. You're with me or against me. That's all it is.,"Да пошло оно. Ты либо со мной, либо против меня. Вот и всё.",ai,,23E73C2F44E4C5BCC9FACE9267718A99
 Uncle,"...I'll think about it. I can't, won't promise anything. But I'll think about it. For now, we...I need to take care of that body.","...Я подумаю. Не могу, не стану ничего обещать. Но я подумаю. А пока нам... мне нужно заняться этим телом.",ai,,D943FF874F1976966FA2C8B4E1880001
 Clarissa,I'm coming with you.,Я иду с тобой.,ai,,27DB82324318E900C373E795E47CD72B
@@ -289,7 +289,7 @@ Clarissa,...Fine.,...Ладно.,ai,,11E780B54EC8533D3EEECB8541DE7E40
 Uncle,"...Good. Just...take a deep breath. Think about this, properly. It'll be over soon. I promise.",...Хорошо. Просто... сделай глубокий вдох. Обдумай всё как следует. Скоро всё закончится. Обещаю.,ai,,E5289DB343F34829BC1F51A345E8D82F
 Clarissa,It better.,Уж надеюсь.,ai,,042A19F6408F6BE6634D8F9D27FED115
 Clarissa,I know it will. You'll see.,"Я знаю, что так и будет. Вот увидишь.",ai,,A10D96984C50B258060A46A77164B8C5
-Uncle,"That doesn't matter. You don't need this right now - shit, I don't need this right now - and you have to cool down. End of discussion.","Это неважно. Тебе сейчас это не нужно - чёрт, мне сейчас это не нужно, - и тебе надо остыть. Разговор окончен.",ai,,65ED899D4139CC5165CE2787096AE873
+Uncle,"That doesn't matter. You don't need this right now - shit, I don't need this right now - and you have to cool down. End of discussion.","Это неважно. Тебе сейчас это не нужно. Чёрт, мне тоже сейчас не нужно. И тебе надо остыть. Разговор окончен.",ai,,65ED899D4139CC5165CE2787096AE873
 Clarissa,If it's so important to you...fine.,Если это так важно для тебя... ладно.,ai,,214BC1C94F46A0A252BBA3A748297661
 Clarissa,"Alright. Enjoy your ""touch-up"", old man.","Ладно. Удачно тебе «навести марафет», старик.",ai,,26B7F1BC42D3F52C703299B6E3D61487
 Clarissa,...Whatever.,...Как скажешь.,ai,,87B4E3304982DCA6FF210C8798EE202D
@@ -353,7 +353,7 @@ Clarissa,"I don't care about 'nice'. I'm not a child, uncle.","Мне плева
 Uncle,"This is no place for a...you. It's rough, filthy and unpleasant. The sooner we get back to the city, the better.","Это не место для... тебя. Здесь грубо, грязно и мерзко. Чем скорее мы вернёмся в Город, тем лучше.",ai,,2BB74793466AFF9D15AD13BE0DCCD76B
 Clarissa,"You don't need to protect me, uncle.","Тебе не нужно меня защищать, дядя.",ai,,E9D482A049DE8D47F576EE90DFE93126
 Uncle,"But it's better if he doesn't. For both of us, Clarissa. That's why I'm asking you to stay here. Let's not take any risks.","Но лучше, чтобы он не узнал. Для нас обоих, Кларисса. Поэтому я и прошу тебя остаться здесь. Не будем рисковать.",ai,,7F8200F3429D89D5C0870CB6A57AE651
-Clarissa,"What risks, exactly? What are you afraid I'll see?","Каким риском, если точнее? Чего ты боишься, что я увижу?",ai,,672E826A4F5DBC3A84A161B5CFBB2C2B
+Clarissa,"What risks, exactly? What are you afraid I'll see?","О каком риске речь? Чего ты боишься, что я увижу?",ai,,672E826A4F5DBC3A84A161B5CFBB2C2B
 Clarissa,"We'll be careful, uncle. Trust me.","Мы будем осторожны, дядя. Поверь мне.",ai,,36DD504247134F7A980114811AE86757
 Uncle,"...And he'd be even more furious if you'd come back asking questions. Not just at you, but at me as well. Let's not take that risk.","...А он будет в ещё большей ярости, если ты вернёшься с вопросами. Не только на тебя, но и на меня тоже. Не будем так рисковать.",ai,,BEE36C174F3C62C51403D98F29A4A936
 Clarissa,"And what is that risk, exactly? What would I be asking questions about?",И в чём именно риск? О чём бы я стала спрашивать?,ai,,B094F9C84A9D7F167A89BD935EB18F9C
@@ -376,19 +376,19 @@ Clarissa,I promise. Now lead on.,Обещаю. А теперь веди.,ai,,7C4
 Uncle,"I don't like it - but I know that look in your eye. Arguing with you now is useless. Just don't...touch anything, alright?","Мне это не нравится, но я знаю этот твой взгляд. Спорить с тобой сейчас бесполезно. Только... ничего не трогай, ладно?",ai,,855D30524CC22F279D6F8E9DDBDE7EE2
 Clarissa,"We'll see. What happens, happens.","Посмотрим. Что будет, то будет.",ai,,3E6E79C1445E162A3AE998875B9BD695
 Clarissa,What look? All I want is to see things clearly.,Какой взгляд? Я просто хочу видеть всё ясно.,ai,,E865A35E4F2E9530E220CAB5DE535D66
-Clarissa,"I will if I have to - and that will be my choice, uncle.","Если придётся - трону. И это будет мой выбор, дядя.",ai,,9666C27740211E4C2CC912AFA73366C3
+Clarissa,"I will if I have to - and that will be my choice, uncle.","Если придётся, трону. И это будет мой выбор, дядя.",ai,,9666C27740211E4C2CC912AFA73366C3
 Uncle,"...No. Let's get a move on, then.",...Нет. Тогда пойдём.,ai,,F2E1A7904D43D56C1D710DA85FD51B19
 Clarissa,Finally.,Наконец-то.,ok,,220A55844216C8551F14AB80FA2898DA
 Clarissa,Lead the way.,Веди.,ai,,974F500644A62B42812D9EA61656C53A
 Uncle,"...You've never been out this far, have you?",...Ты ведь никогда не забиралась так далеко?,ai,,B0C18A4847E661A554837BA974E75B48
-Clarissa,"No. I know you have, though.","Нет. А вот ты - забирался, я знаю.",ai,,5EFF487D4BB04545922BF094D7D92190
+Clarissa,"No. I know you have, though.","Нет. А вот ты забирался, я знаю.",ai,,5EFF487D4BB04545922BF094D7D92190
 Clarissa,I'm usually not allowed to.,Мне обычно не разрешают.,ai,,D4F08D2C4D396D6FCD4374BF48517145
 Clarissa,Only once.,Только раз.,ai,,4C509CF24E65AC8C367BDAA1C4828272
 Uncle,"I think I knew that, too. If only it weren't so. Come on, then. Let's get the job done.","Это я, пожалуй, тоже знал. Жаль, что так. Ну, пойдём. Закончим дело.",ai,,591826D947A23F96065A51AA65D90788
 Clarissa,Thank you.,Спасибо.,ok,,B7F5B0F14DFC6BD983BCF78B3A8B14EE
 Clarissa,Lead on.,Веди.,ai,,A2B629E742E790E2633999B99A93E3EA
 Uncle,Carlo is old-fashioned. You know that. Having a...capable daughter isn't exactly one of his aspirations.,"Карло - человек старой закалки. Ты знаешь. Дочь, которая... способна на дело, - это не совсем то, о чём он мечтал.",ai,,4EE4AB9F45AC789F67030BAEF4657F79
-Clarissa,Neither was having a daughter in the first place.,Как и дочь вообще.,ai,,78191C5E4BE4FC7572F994ADC9768345
+Clarissa,Neither was having a daughter in the first place.,Дочь он вообще-то тоже не планировал.,ai,,78191C5E4BE4FC7572F994ADC9768345
 Clarissa,"It will be, once he sees what I can do for the family.","Станет, когда он увидит, что я могу сделать для семьи.",ai,,0BAE327344122A51DB06BAB68857C2A3
 Uncle,"...You know how he deals with things, Clarissa.","...Ты же знаешь, как он поступает, Кларисса.",ai,,F55A6D7D414FBA55393627BC02AA0425
 Clarissa,Leave him to me. I can handle it.,Предоставь его мне. Я справлюсь.,ai,,EC2CFFC24761B513AB6F4893173DF6D9
@@ -420,7 +420,7 @@ Clarissa,We'll see. Lead on.,Посмотрим. Веди.,ai,,B2DC510247190ECB9
 Uncle,"...No. Very well, then. Let's get this over with.",...Нет. Ну что ж. Покончим с этим.,ai,,8F7102E449CC32D2AB4A74954266DE97
 Clarissa,[Lead on],[Веди],ai,,4F1C37B14A0EE1E683DD99A3BBAE6264
 Clarissa,Finally.,Наконец-то.,ok,,D3362D0B428D6DC60412C395B964E402
-Uncle,"That's about right, yes. Of course, some things always change - they get more difficult. Experience counts for a lot nowadays.","Примерно так, да. Конечно, кое-что меняется всегда - становится сложнее. Сейчас опыт решает многое.",ai,,BE93B262491E65B95A332495E8F9EE42
+Uncle,"That's about right, yes. Of course, some things always change - they get more difficult. Experience counts for a lot nowadays.","Примерно так, да. Конечно, кое-что всегда меняется: становится сложнее. Сейчас опыт решает многое.",ai,,BE93B262491E65B95A332495E8F9EE42
 Clarissa,You're saying you've got plenty of experience?,"Хочешь сказать, опыта у тебя хватает?",ai,,83FC405C4959C2BFAC4BB5B316F22BDE
 Clarissa,So what is it exactly that needs doing?,Так что именно нужно сделать?,ai,,A4FBA14D4F50EB09820536A609D75C10
 Uncle,"I've been doing this for decades, Clarissa. Circumstances change, but the work itself remains the same.","Я занимаюсь этим десятилетиями, Кларисса. Обстоятельства меняются, а работа остаётся прежней.",ai,,2886B0724E3EE2402B14E3BCBFFA5986
@@ -438,7 +438,7 @@ Uncle,"...Yes. It's not a pretty job, Clarissa. That's why I wanted you to stay 
 Clarissa,"Not an option. You know that. Speaking of knowing, what do we know about this particular cleanup?",Не вариант. Ты же знаешь. Раз уж о знании: что нам известно об этой конкретной уборке?,ai,,77DC14034D17BD2B69248AA7B4265FDC
 Uncle,"No. There are others, and...well, possibly. Truth be told, I wasn't told a lot about this one. Usually don't need much of a briefing with my expertise.","Нет. Есть и другие, и... ну, возможно. По правде, об этом деле мне рассказали немного. С моим опытом брифинг обычно не нужен.",ai,,276AB51E483168673ACC5086D8BCA14E
 Clarissa,Alright - so what DO we know?,Ладно. Так что нам ИЗВЕСТНО?,ai,,7618D55644358AE26EF47A9F7B1C58CE
-Uncle,"Usually, the don. Maybe his advisor, maybe a capo or two - and the ones responsible for the mess. Sometimes a pocket cop will ask for a bribe, other than that, these affairs are taken care of quietly.","Обычно дон. Может, его консильери, может, пара капо - и те, кто напортачил. Иногда какой-нибудь прикормленный коп попросит взятку, а в остальном такие дела решаются тихо.",ai,,CF3ABC594A626D7A7CB039991FBDA3AC
+Uncle,"Usually, the don. Maybe his advisor, maybe a capo or two - and the ones responsible for the mess. Sometimes a pocket cop will ask for a bribe, other than that, these affairs are taken care of quietly.","Обычно дон. Может, его консильери, может, пара капо и те, кто напортачил. Иногда какой-нибудь прикормленный коп попросит взятку, а в остальном такие дела решаются тихо.",ai,,CF3ABC594A626D7A7CB039991FBDA3AC
 Clarissa,And you? What do you know about this one?,А ты? Что ты знаешь об этом деле?,ai,,D12B1F4C418F01A207237789795B40E0
 Uncle,"No. No, of course not. All I'm saying is that I'd rather not take any additional risks.","Нет. Нет, конечно. Я лишь хочу сказать, что не хотел бы лишнего риска.",ai,,0AC2CADC41820A23D1D7888A00544184
 Clarissa,"What risks, exactly? Me seeing something I shouldn't?","Какого риска? Что я увижу то, чего не следует?",ai,,44089A4744BC8CD6349572A3CFDEBFC3
@@ -448,7 +448,7 @@ Clarissa,You're not curious?,Тебе не любопытно?,ai,,E194FC9B41901
 Clarissa,"""Go to this address and clean our mess"" is enough?",«Езжай по этому адресу и убери за нами» - этого достаточно?,ai,,A7C64989444CBEF42B160F8C50EBCB73
 Clarissa,That can't be everything. There's something you're not telling me.,Это не всё. Ты что-то недоговариваешь.,ai,,C477FD3F46CE387A3BAC4098B58900D4
 Uncle,"Sometimes I am - but usually, the scene is pretty self-explanatory.","Иногда любопытно, но обычно на месте всё и так понятно.",ai,,210795EF4FBE290565FBBFB3A8E084BA
-Clarissa,"What happened, maybe. What about how and why?",Что случилось - возможно. А как и почему?,ai,,8638260D4DB7CDF1615DC78E86B9D7EB
+Clarissa,"What happened, maybe. What about how and why?","Что случилось, возможно. А как и почему?",ai,,8638260D4DB7CDF1615DC78E86B9D7EB
 Clarissa,That's it? No questions asked?,И всё? Без вопросов?,ai,,2CD8514A40377A9101AFA997E66F8880
 Clarissa,This other capo - who is he?,Что за капо? Кто он?,ai,,4B33254940C9C707F8D325B2ADF5122E
 Uncle,"Trust me - the fewer questions you ask, the easier it is. Besides, I'm usually the one sending a crew to deal with it. It's rare for me to be personally assigned to a touch-up...I mean cleanup.","Поверь, чем меньше вопросов, тем проще. К тому же обычно я сам отправляю бригаду. Мне редко поручают лично навести марафет... то есть сделать уборку.",ai,,CAC30FA84ED377B2BD0173A7CED94496
@@ -462,7 +462,7 @@ Clarissa,This other capo - who is he?,Что за капо? Кто он?,ai,,36C
 Uncle,"There are rules. A hierarchy, a system. Once you've been in the business as long as I have, you learn to trust that process. Trust that people are doing their best.","Есть правила. Иерархия, система. Когда проработаешь в деле столько, сколько я, учишься доверять этому порядку. Доверять, что люди стараются как могут.",ai,,F13ACD0E433A3562E5D3BE90A1855F81
 Clarissa,"What if someone isn't doing their best? Doing the opposite, even?",А если кто-то не старается? Делает даже наоборот?,ai,,91DA3E4A4005ED66F66DA49EE426840F
 Clarissa,And that's what you're doing?,И ты так и поступаешь?,ai,,148599F34F812A293FCEA9912277A2AC
-Uncle,They're talked to. Set straight. Reprimanded by someone in charge - whatever's deemed necessary.,"С ними говорят. Ставят на место. Выговор делает тот, кто главный, - что сочтут нужным.",ai,,9A1716D74DCBCAEA729E9C88C1711E70
+Uncle,They're talked to. Set straight. Reprimanded by someone in charge - whatever's deemed necessary.,"С ними говорят. Ставят на место. Выговор делает тот, кто главный, как сочтут нужным.",ai,,9A1716D74DCBCAEA729E9C88C1711E70
 Clarissa,And if that person is the one in charge?,А если этот человек и есть главный?,ai,,E402994E484FA8B89D526B89FE79CBBD
 Clarissa,And who decides that?,А кто это решает?,ai,,F9CA5A3F4D2E818BEA8CB687E5CB25BF
 Clarissa,Right. I suppose that makes sense.,"Ясно. Пожалуй, логично.",ai,,6AA7A1004C25DB506F535899471FD39C
@@ -509,7 +509,7 @@ Clarissa,And how well do you know him?,А насколько хорошо ты �
 Clarissa,Why?,Почему?,ok,,0E9A02A6403874511C9792B47190450F
 Uncle,Once?,Один раз?,ai,,505A929542857B33E8AA539CE8E43423
 Clarissa,"Yeah. But you've been out here more than a few times, haven't you?","Да. Но ты-то бывал здесь не раз, ведь так?",ai,,3630852648E2B357963FC4BEDDEBDE75
-Clarissa,Stole dad's car. I wasn't driving anywhere - I was just leaving.,Угнала отцовскую машину. Я никуда не ехала - я просто уезжала.,ai,,8593EDA04BFC85608E705EB7E2BEB530
+Clarissa,Stole dad's car. I wasn't driving anywhere - I was just leaving.,Угнала отцовскую машину. Я никуда не ехала. Я просто уезжала.,ai,,8593EDA04BFC85608E705EB7E2BEB530
 Uncle,"...Is there something you want to say, Clarissa?","...Ты хочешь что-то сказать, Кларисса?",ai,,4E99CC8947498D05B1338B8DF78913C2
 Clarissa,You're getting played. You must see that.,Тебя используют. Ты не можешь этого не видеть.,ai,,8D27C0734255F9AB3BA577ACBB85DEF5
 Clarissa,They know you don't tend to ask questions. What kind of work does that leave you with?,"Они знают, что ты не задаёшь вопросов. Какая работа тебе тогда достаётся?",ai,,9678EFE443A142F4A7DA95A396EA5F7D
@@ -547,20 +547,20 @@ Uncle,"Yes. Back in the day, it was mostly about territory. Drawing lines, settl
 Clarissa,Deals - out here?,Сделки - здесь?,ai,,234E2B5D4A0019FF0E652E9B69ADEFFB
 Clarissa,And now?,А теперь?,ai,,5BDA8AD2498BB69896ED919D46DB6183
 Clarissa,And the arguments?,А споры?,ai,,2F9D8E4B45260D6E27E13F87F8852C83
-Uncle,"There's always going to be arguments. Earners, capos, crew - happens to the best of us. Usually it's resolved, easily, but sometimes it takes a little bit more...finesse. Or, well, finality.","Споры будут всегда. Добытчики, капо, бригады - случается и с лучшими. Обычно всё улаживается легко, но иногда нужно чуть больше... тонкости. Или, ну, окончательности.",ai,,53C02AA642C99DB18A4730843BA2082A
+Uncle,"There's always going to be arguments. Earners, capos, crew - happens to the best of us. Usually it's resolved, easily, but sometimes it takes a little bit more...finesse. Or, well, finality.","Споры будут всегда. Добытчики, капо, бригады: такое случается и с лучшими. Обычно всё улаживается легко, но иногда нужно чуть больше... тонкости. Или, ну, окончательности.",ai,,53C02AA642C99DB18A4730843BA2082A
 Clarissa,You mentioned deals as well.,Ты упоминал и сделки.,ai,,FC21B9E641E75818BEC5F5AA5EFB3A7A
 Clarissa,Right. You also mentioned deals.,Верно. Ты ещё говорил про сделки.,ai,,6AA2B5734A6E93D759BCF0B69077D913
 Clarissa,"Which means what, uncle?","Что это значит, дядя?",ai,,C49C227C4FC973058196F1B70F31C6F9
 Clarissa,"Finality. Like the ""disposals""?",Окончательности. Вроде «утилизации»?,ai,,8E96986047D3A4045CB089B8E02665E9
 Uncle,...Yes.,...Да.,ai,,A7F1000140AA27CFF0BD20B11D4EBA48
-Clarissa,"So what does that mean, exactly?","И что это значит, если точнее?",ai,,00F668914EB60BFC79F2EDAD95ED7B51
+Clarissa,"So what does that mean, exactly?","И что это значит, конкретно?",ai,,00F668914EB60BFC79F2EDAD95ED7B51
 Clarissa,"We're talking about dumping bodies, aren't we?","Мы говорим о сбросе тел, так?",ai,,E459333742099318FB3D0084203F899D
 Uncle,"...Well, your father insisted we get into some new...venues. The money is good, but it's a lot of trouble.","...Ну, твой отец настоял, чтобы мы вышли на новые... направления. Деньги хорошие, но хлопот много.",ai,,014BDA3B4CB48C3717B9029035D538AF
 Clarissa,What kind of trouble?,Каких хлопот?,ai,,76B8C1A54E412A813050AB96236CD934
 Clarissa,Venues such as drugs.,Направления вроде наркотиков.,ai,,E95320FC44D5D6262350D286E8E9CBE6
 Uncle,"...Well, yes. Not necessarily by choice, but some things just need doing. You pick it up as you go. Figure out how to do it quickly and thoroughly.","...Ну да. Не всегда по собственному выбору, но кое-что надо делать. Всему учишься по ходу дела. Понимаешь, как делать это быстро и чисто.",ai,,A2F81CED4AFC2E12CF0AE3ADDACF4933
 Clarissa,Do what quickly? Cleaning bloodstains? Hiding bodies?,Делать что быстро? Отмывать кровь? Прятать тела?,ai,,7CF3ABA542C86E65DE8F0BB4FB21A209
-Clarissa,You can't be the only one on cleanup detail. You're an expert - is this a particularly delicate job?,"Не может же быть, чтобы уборкой занимался только ты. Ты эксперт - это особенно тонкая работа?",ai,,8B95480748287C2C94F2199A01089DF2
+Clarissa,You can't be the only one on cleanup detail. You're an expert - is this a particularly delicate job?,"Не может же быть, чтобы уборкой занимался только ты. Ты эксперт. Это особенно тонкая работа?",ai,,8B95480748287C2C94F2199A01089DF2
 Uncle,"It means that sometimes, we drive back to the city with an empty seat in the car. Been more rides like that lately than I'd care to admit. Didn't use to be like that.","Это значит, что иногда мы возвращаемся в Город с пустым сиденьем в машине. В последнее время таких поездок было больше, чем мне хотелось бы признать. Раньше такого не было.",ai,,F85DEBE6410E8C04047DB7B530FAF43F
 Clarissa,"So what changed? ","Так что изменилось? ",ai,,621340F64FA618714A0B339BC837E701
 Clarissa,"Don't you ever worry you'll be the one to stay behind, some day?","А ты не боишься, что однажды останешься там сам?",ai,,B1ADE4C542C7D70F5BFAB0B140BF1C25
@@ -570,7 +570,7 @@ Clarissa,You're talking about drugs.,Ты говоришь о наркотика
 Uncle,Yes.,Да.,ok,,F7FEC2B8455F26D9F5982ABAA200D094
 Clarissa,...You mentioned deals as well?,...Ты упоминал и сделки?,ai,,6829D48248A91FF155DAEE92BC2EC790
 Clarissa,"Right. You said something about arguments, too.",Верно. Ты ещё говорил про споры.,ai,,42D54FF8442191FF127A1DB178F6BDAF
-Clarissa,And that's what we're here to clean up.,И вот за этим мы сюда и приехали - убирать.,ai,,BE8E8D46470507C95482CAAA375039DA
+Clarissa,And that's what we're here to clean up.,И вот зачем мы сюда приехали: убирать.,ai,,BE8E8D46470507C95482CAAA375039DA
 Uncle,It might be.,Возможно.,ai,,47801E6C4029854AE7FD88830867D326
 Clarissa,...I'm not sure I like this place.,...Мне не нравится это место.,ai,,25F0525D44978735156423AA69188485
 Clarissa,"Right. And this spot is distant, isolated, and safe from prying eyes. Seems very useful.","Ясно. А место далёкое, глухое и скрытое от лишних глаз. Очень удобно.",ai,,38E6F1134D554026866453BBDF472877
@@ -588,7 +588,7 @@ Uncle,It used to be...nicer. Back in the day. Maybe that's just nostalgia talkin
 Clarissa,You mentioned dad brought on a lot of new people. Do you trust them?,"Ты говорил, папа привёл много новых людей. Ты им доверяешь?",ai,,98B90A6A4F389384D6A18EBC151CA083
 Clarissa,"Be real, uncle. Things were just as brutal back in the day.","Будь честен, дядя. В старые времена было так же жестоко.",ai,,4F72A34D46F9081378AB2887CAAC8E55
 Clarissa,Wish we could back to the way things were.,"Хотелось бы вернуться к тому, как было раньше.",ai,,4689E3F84F2E38674FD01EA228785264
-Uncle,"I suppose so. This is about as ugly as our business gets, so I'm glad to see you're not...well, I'm glad you've got stomach. Just don't get too used to it - even I try not to. It used to be cleaner, back in the day.","Наверное, так. Хуже в нашем деле почти не бывает, так что я рад, что ты не... ну, рад, что у тебя крепкий желудок. Только не привыкай - я и сам стараюсь не привыкать. Раньше всё было чище.",ai,,7D6453814C2321EF372501A835B1ACA6
+Uncle,"I suppose so. This is about as ugly as our business gets, so I'm glad to see you're not...well, I'm glad you've got stomach. Just don't get too used to it - even I try not to. It used to be cleaner, back in the day.","Наверное, так. Хуже в нашем деле почти не бывает, так что я рад, что ты не... ну, рад, что у тебя крепкий желудок. Только не привыкай, я и сам стараюсь не привыкать. Раньше всё было чище.",ai,,7D6453814C2321EF372501A835B1ACA6
 Clarissa,You mentioned dad brought on a lot of new people. Do you trust them?,"Ты говорил, папа привёл много новых людей. Ты им доверяешь?",ai,,AC90879F4BCE241D63564A85E9922FAB
 Clarissa,"Be real, uncle. Things were just as brutal back in the day.","Будь честен, дядя. В старые времена было так же жестоко.",ai,,65F8D589450BF2850D7ED8A87DAD8DDC
 Clarissa,Wish we could back to the way things were.,"Хотелось бы вернуться к тому, как было раньше.",ai,,FDE94F674C8FBABEA1416AAE9AB48A22

@@ -2,7 +2,7 @@
 Notification,Andrina claims she didn't see anything.,"Андрина утверждает, что ничего не видела.",ai,,7450E8A745FF849A639DD2A90DC3DAD6
 Notification,Andrina claims a mechanic was doing something to the clock.,"Андрина утверждает, что у часов возился какой-то механик.",ai,,BC722A144E75AD0AFA8F1ABD58E0363E
 Notification,Andrina claims she saw a mother and her daughter hanging around the clock.,"Андрина утверждает, что видела возле часов мать с дочерью.",ai,,235602FA4B080D1B22DDF580C130FC48
-Notification,"You got a felt pen, whether you want it or not.",Ты получил фломастер - хочешь ты того или нет.,ai,,33E077364BCCD74306AEA8B752733D1C
+Notification,"You got a felt pen, whether you want it or not.","Ты получил фломастер, хочешь ты того или нет.",ai,,33E077364BCCD74306AEA8B752733D1C
 Notification,You gave Andrina the cigarettes.,Ты отдал Андрине сигареты.,ai,,15E1E1E7480602DF2DEA5AB4D221ADC2
 Andrina,"Ah, I knew you were a creep! Called it the second you walked by with that hophead. ","А, я так и знала, что ты извращенец! Поняла это в ту же секунду, как ты прошёл мимо с этим торчком. ",ai,,8542B1824FDEF237AE6D0696150BC3C0
 Howard,"I'm not a creep. ","Я не извращенец. ",ai,,C69AEB0044EACF6B70462298A4407B07
@@ -12,7 +12,7 @@ Andrina,"What, you think we're gonna let you take a picture of us now? AFTER the
 Howard,"(FLIRT) How about just a selfie, then? Just the two of us?",(ФЛИРТ) А как насчёт просто селфи? Только мы вдвоём?,ai,,C27B675B44114E9D2068A289E238254E
 Howard,"(SOCIAL) C'mon, I'm not going to do anything with it. I just want something to remember this feeling. That rush you get from commiting your first crime.","(ОБЩИТЕЛЬНОСТЬ) Да ладно, я ничего с ним не сделаю. Просто хочу сохранить это ощущение. Тот кураж, который накрывает, когда совершаешь своё первое преступление.",ai,,103E964A47EC48E3B10D0795E708DB1E
 Howard,"(FLIRT) How about just a selfie, then? Just the two of us?",(ФЛИРТ) А как насчёт просто селфи? Только мы вдвоём?,ai,,3B8F54B8445A1F19DA48C39CE61FB177
-Howard,Alright...thanks for nothing.,Ладно... спасибо за ничего.,ai,,D69034914F022FC026977F8FB3EAC53B
+Howard,Alright...thanks for nothing.,Ладно... ну спасибо и на этом.,ai,,D69034914F022FC026977F8FB3EAC53B
 Andrina,"That's low, man. Real low. ","Это низко, чувак. Реально низко. ",ai,,33426BD742093E15E4D23FA57F455714
 Howard,Sorry. Let's go back to talk about you.,Прости. Давай вернёмся к разговору о тебе.,ai,,449C5462428778F26DA636986CFC1EBB
 Howard,"Yeah, um...let's change the subject.","Ага, э-э... давай сменим тему.",ai,,2F8C517846EE49914A44519057829089
@@ -27,7 +27,7 @@ Howard,My name's Howard.,Меня зовут Говард.,ai,,BF39D7814FD4F5444
 Howard,Sounds made up.,Звучит как выдумка.,ai,,A53FB6CE4CB52F2A7AAE6DA420301FDF
 Andrina,"Man, you really are a busybody, aren't you? Why would we want to waste our time in that propaganda factory when we could be out here messing shit up?","Ну ты и любопытный, да? С чего бы нам тратить время в этой фабрике пропаганды, когда можно быть здесь и творить всякую хрень?",ai,,6887A7BF49FA5943D6F56684BA5CD8F9
 Howard,"What do you mean, messing shit up?",В смысле - творить хрень?,ai,,68F8BC1E4E52E2493AAB43A491EDA04D
-Andrina,"Phone books go by your last name, dork. But yeah, we chose them together.","Телефонные книги по фамилиям идут, чудила. Но да, мы выбирали их вместе.",ai,,FA25A2A2426AD0243711629728E6ABEC
+Andrina,"Phone books go by your last name, dork. But yeah, we chose them together.","Телефонные книги сортируют по фамилиям, чудила. Но да, мы выбирали их вместе.",ai,,FA25A2A2426AD0243711629728E6ABEC
 Howard,Then what are your real names?,Тогда как вас зовут на самом деле?,ai,,231DC0A2453042DFC0379E8CCAFB2BE3
 Howard,"Is that, like, a gang thing? The Triple As?","Это что, типа банда? Эти «Три А»?",ai,,DCE5FCCD45617C9BBBED5AB6DAD10499
 Andrina,"As far as I'm concerned, they don't exist. ","Для меня их не существует. ",ai,,AB7D4F664B9071D093AED4B7F6DA7EA4
@@ -57,9 +57,9 @@ Howard,Nothing. [Leave],Ничего. [Уйти],ai,,454B800E4D699A8AF413298DAE0
 Andrina,Hanging out where they don't want us. Making fun of losers like you. Breaking shit. Whatever we want.,"Тусуемся там, где нас не хотят. Стебёмся над лузерами вроде тебя. Ломаем всякое. Что захотим.",ai,,17E2C22E4FEE9C1FD7C4DBA4D7255944
 Howard,Sounds kind of meaningless.,Звучит как-то бессмысленно.,ai,,BF3797C949F28461DB72B6BE62B8143A
 Andrina,"Each other. ","Друг друга. ",ai,,AE5C3811428F8B197889A1A305D282FA
-Howard,(FLIRT) Room for one more?,(ФЛИРТ) Для ещё одного место найдётся?,ai,,618EA96D4A4A7165BA66C38EDFB508DB
+Howard,(FLIRT) Room for one more?,(ФЛИРТ) Найдётся место для ещё одного?,ai,,618EA96D4A4A7165BA66C38EDFB508DB
 Howard,Sounds messy.,Звучит неопрятно.,ai,,76ABA8F34E25FBF706B7428626B59307
-Howard,(FLIRT) Room for one more?,(ФЛИРТ) Для ещё одного место найдётся?,ai,,840E27524492F558017A7185FA0B2FC6
+Howard,(FLIRT) Room for one more?,(ФЛИРТ) Найдётся место для ещё одного?,ai,,840E27524492F558017A7185FA0B2FC6
 Andrina,"Pfft. Not when you say it like that. ","Пф. Не когда ты так это говоришь. ",ai,,9AF7126742186E7F05A1AEA8AC1866CB
 Howard,Let's get back to talking about you.,Давай вернёмся к разговору о тебе.,ai,,DB0699BD4CC833D6CCC3BDA9C77DF38A
 Howard,Let's change the subject.,Давай сменим тему.,ok,,8180C61E49F1BD5F299EF38EFBD19599
@@ -73,13 +73,13 @@ Howard,Sounds kinda pleasant.,Звучит довольно приятно.,ai,,
 Howard,Sounds unpleasant.,Звучит неприятно.,ai,,7776A62744CAC6B63DCAF2AD6B28CA50
 Howard,Good luck with that. [Leave],Удачи с этим. [Уйти],ai,,9E209D364EF46AC23F2F46B1942131B7
 Andrina,Huh. I'm not sure you could handle it.,"Хм. Не уверена, что ты справишься.",ai,,CE6DD5F349A3D6876EF66D84417B0602
-Howard,I'll do whatever it takes. New haircut. New wardrobe. Whatever you want.,Я готов на всё. Новая стрижка. Новый гардероб. Что скажешь.,ai,,D9BA66444B7CB81BA866B7B08C0DC3AC
+Howard,I'll do whatever it takes. New haircut. New wardrobe. Whatever you want.,"Я готов на всё. Новая стрижка. Новый гардероб. Всё, что захочешь.",ai,,D9BA66444B7CB81BA866B7B08C0DC3AC
 Howard,"I don't think you could either, but that's your decision, not mine.","Я тоже сомневаюсь, но это твоё решение, не моё.",ai,,25D845444BAFE701EA1F23BCC6AF21B0
 Andrina,"Your 'first crime'? Damn, dude, that's actually kinda...cute. Alright Howie, make it quick.","Твоё «первое преступление»? Блин, чувак, это даже как-то... мило. Ладно, Говчик, только быстро.",ai,,01F525B14C5B4F75148C089AB3FE661A
 Howard,I can take the picture?,Можно фотографировать?,ai,,F00C49EA44E543202193B8BA36ECAE6C
 Andrina,"...Oh wow, you're so attractive and hot when you get weird and needy.","...О, вау, ты такой привлекательный и горячий, когда становишься странным и прилипчивым.",ai,,DD8CCB0244845E586DE92EBD3E12E895
 Howard,"...Okay, but consider...","...Ладно, но подумай...",ai,,650B14414B8AE753731E929ADC33BC55
-Howard,...Fair point. [Leave},...Справедливо. [Уйти},ai,,FD85FC8D4373E5F3B9909D8059C15873
+Howard,...Fair point. [Leave},...Справедливо. [Уйти],ai,,FD85FC8D4373E5F3B9909D8059C15873
 Andrina,...,,,,04567D7E41E1F909B385608E00663F10
 Howard,Let's talk a bit more about you.,Давай ещё немного поговорим о тебе.,ai,,D2F6925747CE056776ACE6BF476AA450
 Howard,[Walk away while you're still on top],"[Уйти, пока ещё на коне]",ai,,137DE5604C28A8AFC87975886CCA8C12
@@ -93,7 +93,7 @@ Howard,Let's talk about something else.,Давай поговорим о чём-
 Andrina,"Because they're my friends, not yours. Next question.","Потому что они мои друзья, а не твои. Следующий вопрос.",ai,,7C721AF54D643B78946813ADCB06E042
 Howard,I have another personal question.,У меня есть ещё один личный вопрос.,ai,,DC679D3347729433CF5CD9AD0F083D0F
 Howard,Let's change the subject.,Давай сменим тему.,ok,,FEC4E658427E610C0CC69B89E78D6CD0
-Andrina,Beats whatever you're up to.,"Всё лучше, чем то, чем занимаетесь вы.",ai,,5632A5944260361C3830C19FD3368430
+Andrina,Beats whatever you're up to.,"Лучше, чем ваши делишки.",ai,,5632A5944260361C3830C19FD3368430
 Howard,At least I'm trying to make things instead of just trying to tear shit down.,"По крайней мере, я пытаюсь что-то создавать, а не просто всё ломать.",ai,,7B01362D41D0F38844363388294730CF
 Howard,"Hey, I'm making art. Art is important.","Эй, я делаю искусство. Искусство важно.",ai,,82A0AF2045325B5AF80F3CB3050107C8
 Howard,"...Okay, yeah, maybe.","...Ладно, да, может быть.",ai,,9F1A60444E7423FCCD6D818F974697D0
@@ -162,7 +162,7 @@ Andrina,There he is! Did you do it? Did the ink stick?,"А вот и он! Ну 
 Howard,"Oh, it stuck.","О, ещё как схватились.",ai,,3365F1084862950596642CA32FDA15DF
 Howard,"The hand's back in place, but I'm not going to vandalize the clock.","Стрелка на месте, но портить часы я не буду.",ai,,789A951B48FEF022DE15B6B90AD4FFED
 Howard,Not yet. Be right back.,Пока нет. Сейчас вернусь.,ai,,EC7CD4D94ABD0D3D930231914994B155
-Andrina,"We ain't got no ""youthful beauty"". Stop fucking with us. ","Никакой у нас нет «юной красоты». Хватит нас дурачить. ",ai,,2755138C461F2A7FA9338A9C7E733C94
+Andrina,"We ain't got no ""youthful beauty"". Stop fucking with us. ","Никакой «юной красоты» у нас нет. Хватит нас дурачить. ",ai,,2755138C461F2A7FA9338A9C7E733C94
 Howard,"I'm not ""fucking"" with you. Obviously, the three of you possess this superficially tough exterior, but there's also this undercurrent of compelling, genuine aesthetic beauty. That's the tension I want to capture, and the cigarettes don't do anything for it.","Я вас не «дурачу». Очевидно, что у вас троих такой напускной крутой вид, но под ним есть и какая-то завораживающая, подлинная эстетическая красота. Вот это напряжение я и хочу поймать, а сигареты тут ничем не помогут.",ai,,FFD21DCA4694E3329FA0B5B1F98A2D08
 Howard,"Almost fell for it though, didn't you?","А ведь чуть не купилась, да?",ai,,252ECBD9445B0B1168D7CC80D370D7CE
 Andrina,"Yeah, alright. Do whatever you need to.","Ладно, ладно. Делай что надо.",ai,,0D46C4854E60976F285B89995B7CD88C
@@ -324,7 +324,7 @@ Andrina,"Ugh. You're an artist? I liked you better when you were a creep. Alrigh
 Howard,[Lie] All the time.,[Соврать] Постоянно.,ai,,88C4B9C04D9A3986D5A17D966344A96A
 Howard,Nope.,Нет.,ai,,8495FCD4436D096629E25AAFE369CD95
 Howard,"No, I'm studying it.","Нет, я только учусь.",ai,,79E69F0C455D88FC515D8987E6193CE3
-Andrina,"Well, at least you're honest. Tell you what: you hook us up with some smokes, we'll take whatever creep photo you want. Deal?","Ну, по крайней мере, честно. Вот что: достанешь нам курева, и мы снимемся в любую извращенскую фотку, какое захочешь. Идёт?",ai,,32F70DDB466D48A11A96CCA0D794E99F
+Andrina,"Well, at least you're honest. Tell you what: you hook us up with some smokes, we'll take whatever creep photo you want. Deal?","Ну, по крайней мере, честно. Вот что: достанешь нам курева, и мы снимемся в любую извращенскую фотку, какую захочешь. Идёт?",ai,,32F70DDB466D48A11A96CCA0D794E99F
 Howard,Here you go. [Hand over smokes],Держи. [Отдать сигареты],ai,,F1EBF3BA48AF67C927A6BD995ECC11A3
 Howard,Where am I supposed to get smokes?,"Где мне, по-твоему, взять курево?",ai,,850BED104FD16766698E7D83B7D6D394
 Andrina,"You really are a dork, aren't you?","Ты и правда чудила, да?",ai,,57267265490A461EBB6C9F850734820F
@@ -372,7 +372,7 @@ Howard,A brick!?,Кирпичом!?,ai,,74387E674E9B6F1311D4359F52437C58
 Andrina,"The hand on the clock, narc. Isn't that the dumb job you decided to give yourself instead of doing actual cool shit?","Про стрелку на часах, стукач. Разве не эту тупую работёнку ты себе выбрал вместо реально крутых дел?",ai,,407660B34CE321114B734CA49A52CF6E
 Howard,Solving crimes is actual cool shit.,Раскрывать преступления - это реально крутое дело.,ai,,3D45DB684AE511EB2C074AAB6B53122E
 Andrina,"""I'm not a creep."" That's the creep catchphrase. Either that or, ""Can I take a picture of you?""","«Я не извращенец». Это коронная фраза извращенцев. Либо она, либо «Можно тебя сфотографировать?».",ai,,C892AEC7425EFB6619E401A82ECDF2C0
-Howard,It's not for anything creepy. It's for art.,Это ничего извращённого. Это ради искусства.,ai,,FB4787C745247A3DBF5A5ABF39C16492
+Howard,It's not for anything creepy. It's for art.,Тут ничего извращённого. Это ради искусства.,ai,,FB4787C745247A3DBF5A5ABF39C16492
 Howard,Fine. I'm a creep.,Ладно. Я извращенец.,ai,,3B979B964C79A64167F01794D2ECD874
 Andrina,"We're here exactly because it isn't our neighbourhood. The bougie shitheads who live here hate dealing with anyone who isn't one of them, especially when they look like us. And since we've got to hang out somewhere, why not kill two geezers with one brick?","Мы здесь именно потому, что это не наш район. Буржуйские ублюдки, что тут живут, терпеть не могут иметь дело с теми, кто не из их круга, особенно если те выглядят как мы. А раз нам где-то надо тусоваться, почему бы не убить двух гусяров одним кирпичом?",ai,,0A15B9A7402C42612955CF8A84387470
 Howard,You shouldn't throw things at geezers.,Нельзя бросаться вещами в гусяров.,ai,,7001D979449184A890F35CB7A80A9CD6

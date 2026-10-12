@@ -80,7 +80,7 @@ Howard,Not sure. What do you think?,Не уверен. А ты что думае
 Howard,You doing okay?,"Ты как, нормально?",ai,,F938121148C0679E091E46B4F0E556D5
 Howard,There's something I want to talk to you about.,Мне нужно с тобой кое о чём поговорить.,ai,,0EE3DE404929A990560783ACBCFE10FE
 Howard,"Let's keep asking around, I guess.","Давай, наверное, продолжим расспрашивать.",ai,,D647DFDB464E603E93BEFE884FA9E977
-Larry,"Uh-huh. Come on, you nerd. Let's get those portraits taken. Anything else we should look out for?","Ага. Давай, ботаник, снимем эти портреты. Что-нибудь ещё нам нужно иметь в виду?",ai,,03BE1A764B744F0FC3794EB19CFB4D1D
+Larry,"Uh-huh. Come on, you nerd. Let's get those portraits taken. Anything else we should look out for?","Ага. Давай, ботаник, снимем эти портреты. Ещё что-нибудь стоит учесть?",ai,,03BE1A764B744F0FC3794EB19CFB4D1D
 Howard,"I want to take a picture of Grandfather Steam, too. For the cover.",Я хочу ещё сфотографировать Дедушку Пара. Для обложки.,ai,,0C27F3D44376D4149D309F88B88CE248
 Howard,"My professor told me to take a picture of the clock here, so I guess we're doing that, too.","Мой профессор велел сфотографировать здешние часы, так что, видимо, этим мы тоже займёмся.",ai,,C082284346C5671CF823E08A439E826F
 Larry,"Uh-huh. Well, come on then, genius. Snap a few portraits, and then we're done?","Ага. Ну давай тогда, гений. Щёлкнем пару портретов - и всё?",ai,,20D73D5D4197080516A0FBA3943E2C6F
@@ -121,7 +121,7 @@ Howard,"[Shrug] I don't know, portraits?","[Пожать плечами] Не з
 Howard,"Let's talk to them, and then take some pictures.","Поговорим с ними, а потом сделаем пару снимков.",ai,,DFEA2C6A42D448000EFF8CB0581D240B
 Larry,"You? I don't I've ever thought that, Howie. I do think that you're forgetting something, though.","Ты? Не думаю, что я когда-нибудь так считал, Говчик. Но, по-моему, ты кое о чём забываешь.",ai,,1233D5EE4F899495C50BD79C63EB7548
 Howard,"Like taking other pictures? What, are you out of your mind?","Вроде съёмки чего-то ещё? Что, ты с ума сошёл?",ai,,2F8C70DD4A9EF240C0E294BF64930D50
-Howard,"I know, I know. We're taking other shots, too.","Знаю, знаю. Мы будем снимать и другое.",ai,,960F67F64D78FA89B3291F82E6C17EFD
+Howard,"I know, I know. We're taking other shots, too.","Знаю, знаю. Другие кадры тоже снимем.",ai,,960F67F64D78FA89B3291F82E6C17EFD
 Howard,[Gasp] No.,[Ахнуть] Нет.,ai,,2EC089F94AC3EBEDDA3B188C221200BB
 Larry,What did you have in mind?,Что ты задумал?,ai,,8EAECC594CC458A84EB2DFAA72A07EC2
 Howard,Plenty of characters here. Stories they can tell. Would make for great pictures.,Здесь полно колоритных персонажей. У них есть что рассказать. Из этого выйдут отличные снимки.,ai,,0D1376624131FCFC346C4486FD09C1B8
@@ -179,7 +179,7 @@ Larry,"You think? What a...weird thing to steal. What now, then?","Думаеш�
 Howard,Let's investigate.,Давай расследовать.,ai,,5D035E5F479F3343555CC5B035477B96
 Howard,Let's ask around.,Давай поспрашиваем.,ai,,0CA21DA1425C1D530E2C9A968D816D75
 Howard,Time to do some detective work.,Пора поработать сыщиками.,ai,,7CFDB9564E329209BF598ABD516AD1B2
-Larry,"I can't see it anywhere on the ground, so chances are someone made off with it. We should ask around.","Нигде на земле я её не вижу, так что, скорее всего, кто-то её унёс. Надо поспрашивать.",ai,,96C60DB94B91531112CA3F97C63FD5ED
+Larry,"I can't see it anywhere on the ground, so chances are someone made off with it. We should ask around.","На земле её нигде не вижу, так что, скорее всего, кто-то её унёс. Надо поспрашивать.",ai,,96C60DB94B91531112CA3F97C63FD5ED
 Howard,Yeah. Someone must have seen something.,Ага. Кто-нибудь наверняка что-то видел.,ai,,F2E14E3E411C3B066EC06BBABF4B7512
 Howard,[Groan] Do we have to?,[Застонать] Обязательно?,ai,,1336C6A947CE6FCEFB62F2AF80311E8C
 Howard,"Oh man, do we get to play detective?","Ого, мы поиграем в сыщиков?",ai,,ADD25A374842338569A5E9B77EBD8ADB
@@ -233,7 +233,7 @@ Larry,...Yeah? What's up?,...Да? В чём дело?,ai,,B36E92EE40DCA2AC95CB8
 Howard,I think I want to get more serious about dating.,"Кажется, я хочу относиться к отношениям серьёзнее.",ai,,3FD16EF84EE218A71EBCD593C6B2B4B4
 Howard,University is over soon. I guess I'm not 100% on what the plan is.,"Университет скоро закончится. Я, кажется, не на сто процентов понимаю, что будет дальше.",ai,,DB10A1664A9906E466CF34BD71D23A93
 Howard,"...What do we do once all this is over, man?","...Что мы будем делать, когда всё это закончится, чувак?",ai,,A11E083A4AE17CED237A719AF46ACD1E
-Larry,"Step one? Find an apartment. Step two? We move in. The next steps are a fucking dance, my dude.","Шаг первый? Находим квартиру. Шаг второй? Переезжаем. Дальше - просто, мать его, танец, мужик.",ai,,5E0BD7504B11C1434A011881A2FD44F3
+Larry,"Step one? Find an apartment. Step two? We move in. The next steps are a fucking dance, my dude.","Шаг первый? Находим квартиру. Шаг второй? Переезжаем. Дальше всё пойдёт как по маслу, мать его, мужик.",ai,,5E0BD7504B11C1434A011881A2FD44F3
 Howard,What if step two ends up...not happening?,А если шаг второй... не случится?,ai,,821DA9264CD7ED9062DE5C9DC8F7E21F
 Howard,...And if they aren't?,...А если нет?,ai,,2A2F35244A6FAD3294A5EBB88454BFF1
 Howard,"I'm being serious, man.","Я серьёзно, чувак.",ai,,D960E589461196752881BF9DAE26BFC0
@@ -260,7 +260,7 @@ Larry,"Yeah! I'll be fine! Whatever happens, man, it's not going to break us up.
 Larry,"Hah! About time, too. You've been fumbling in the dark for, like, years now.","Ха! Давно пора. Ты уже, как бы, годами топчешься в потёмках.",ai,,01E2FEB54A20918EB6B9F2B27D580F64
 Howard,"Years? More like, uh, long periods of, um, days and weeks.","Годами? Скорее, э-э, долгими периодами, ну, дней и недель.",ai,,CB111B484CC84B27E56BA3AC6726457F
 Howard,That was my plan all along. Until now.,Это и был мой план с самого начала. До сих пор.,ai,,2C01C2FC420E8860E3F97CBBBD961B4B
-Howard,"I'm serious, Larry. I think I want a relationship.","Я серьёзно, Ларри. Кажется, я хочу отношений.",ai,,2531320F4B46B586238171B3539879C8
+Howard,"I'm serious, Larry. I think I want a relationship.","Я серьёзно, Ларри. Кажется, мне нужны отношения.",ai,,2531320F4B46B586238171B3539879C8
 Larry,"What's there to get serious about? I thought we already covered this, man. You're doing weirdly okay. Somehow, deep inside that nerdy, dorky exterior, there's a smooth-talking, flirty Howard.","О чём тут серьёзничать? Мы же уже это проходили, чувак. У тебя всё удивительно нормально. Каким-то образом внутри этой ботанской, дурацкой оболочки сидит обаятельный, умеющий флиртовать Говард.",ai,,80CE9383428FA77347FA91A2BCE27226
 Howard,"Please, contain your jealousy.","Пожалуйста, сдерживай свою зависть.",ai,,7458359B4BDD7B73ABDF1EAEEB12E8CE
 Howard,"And my weirdly okay ass wants something more, Larry.","А моя удивительно нормальная задница хочет большего, Ларри.",ai,,FC8D36DA4036B5ED47A56C8B79A1546E
@@ -272,7 +272,7 @@ Howard,"...Honestly, Larry? Everything.","...Если честно, Ларри? 
 Larry,The future? Easy. Can't control what happens. Best thing to do is to just run with it. Anything else?,"Будущее? Проще простого. Ты не можешь контролировать, что будет. Лучше всего просто плыть по течению. Что-нибудь ещё?",ai,,48AE42FF48966020390CFAAB9015C75C
 Howard,"I'm being serious, man.","Я серьёзно, чувак.",ai,,433A01DE474016D07BD152BC0CEAA6CC
 Howard,"Oh, gee. Stellar advice, man.","О, ну надо же. Потрясающий совет, чувак.",ai,,61712D584BDDAFBEC06185A7407A6C7C
-Larry,"You don't know what will happen, man. Anything could, good or bad. Why worry?","Ты не знаешь, что будет, чувак. Может быть что угодно, хорошее или плохое. Зачем переживать?",ai,,944F8F124DC19737B4A9ED9A8C8B73F1
+Larry,"You don't know what will happen, man. Anything could, good or bad. Why worry?","Ты не знаешь, что будет, чувак. Может случиться что угодно, хорошее или плохое. Зачем переживать?",ai,,944F8F124DC19737B4A9ED9A8C8B73F1
 Larry,"As am I. You don't think I'm worried, too? But that's how this works, man - when I stress out, you pull me back down. And right now, I'm doing the same to you.","Я тоже. Думаешь, я не переживаю? Но так это и работает, чувак: когда я психую, ты возвращаешь меня на землю. А сейчас я делаю то же самое для тебя.",ai,,1071C03D4E112419261753B62A7CAF59
 Howard,"Okay, but like...what if one of us isn't around for the other?","Ладно, но... а что, если кого-то из нас не окажется рядом?",ai,,3E66B98E4189B6B9E037B8BB0BA9AF70
 Larry,Why...why wouldn't we be?,Почему... почему не окажется?,ai,,9FA2A8BC4BB2BA5077B78281391F7AAF
@@ -300,14 +300,14 @@ Larry,Nothing? Certainly seemed like something.,"Ничего? Выглядел�
 Howard,"Yeah, I don't know. I had a bunch of thoughts buzzing around my head.","Да, не знаю. У меня в голове роилась куча мыслей.",ai,,D4B3F94B4E59BB0C576F36AC2E996D52
 Howard,"It was, but...I think I'd rather not worry.","Было, но... наверное, лучше не переживать.",ai,,813ED2A44C473DD5F02D19BEDF77F67E
 Larry,"Like what, man? Talk to me.","Например, о чём, чувак? Расскажи мне.",ai,,6FBEEB394CD145D133F4B8BE759AA84F
-Howard,"I just think of all these things I could say. If I chose to, wanted to. And they're making me nervous.","Я просто думаю обо всём, что мог бы сказать. Если бы выбрал это, захотел. И от этого нервничаю.",ai,,9ECF3ECD4BF5C133DDDB399989E75FE3
+Howard,"I just think of all these things I could say. If I chose to, wanted to. And they're making me nervous.","Я просто думаю обо всём, что мог бы сказать, если бы решился. И от этого нервничаю.",ai,,9ECF3ECD4BF5C133DDDB399989E75FE3
 Howard,"Nah, it's...fine. Don't worry about it.","Не, это... ничего. Не бери в голову.",ai,,A316E3D44C11B4FA68E3D894068598BA
 Larry,Worry? About what?,Переживать? О чём?,ai,,5C3BC02D4E1AB5161A9CCBAA5025C5A3
 Howard,I don't know. A lot of stuff.,Не знаю. О многом.,ai,,3BE46F4D44DA3FF2E4EF52AE01D8B6CB
 Howard,"Don't worry, man. It's nothing.","Не волнуйся, чувак. Это пустяки.",ai,,843759D043C753A7AAD2ADBCC407EE93
 Howard,"I literally just said I'd rather not worry, Larry.","Я же только что сказал, что лучше не переживать, Ларри.",ai,,3ECFFA7141AE4227E7DBF6AFD0A78BFB
 Larry,"Well, okay, but if there's something on your mind, you should say it.","Ну ладно, но если у тебя что-то на уме, лучше скажи.",ai,,7EA72841421D21A05184B68B61200F4C
-Howard,"It's not on my mind, it's more like...these things I could say. If I chose to. And they're making me nervous.","Это не у меня на уме, скорее... всё то, что я мог бы сказать. Если бы выбрал это. И от этого я нервничаю.",ai,,4062138C4C8E91A483C2869E1737F408
+Howard,"It's not on my mind, it's more like...these things I could say. If I chose to. And they're making me nervous.","Это не у меня на уме, скорее... всё то, что я мог бы сказать, если бы решился. И от этого я нервничаю.",ai,,4062138C4C8E91A483C2869E1737F408
 Howard,"Nah, man. We're good.","Не, чувак. У нас всё хорошо.",ai,,A88188FA4181FEF4A8CCBF8A4CCD1D1A
 Larry,"Me? Come on, man, you can take pictures of me whenever!","Меня? Да ладно, чувак, меня можешь фотографировать когда угодно!",ai,,874EA0B44D6584AAA1E91D8502E19A5C
 Howard,I mean it!,Я серьёзно!,ai,,C9A033BD4143A9E60CAE77916721FDF4
@@ -341,11 +341,11 @@ Howard,"I'm going, I'm going. [Go home]","Иду, иду. [Пойти домой
 Larry,"I mean, it's nice. Question is: is it too nice? Ya know? Some areas are just like... intimidatingly pleasant to be in.","В смысле, мило. Вопрос в другом: не слишком ли мило? Понимаешь? Есть районы, где пугающе приятно находиться.",ai,,57FBA9B54351A936B376FA90540E68AF
 Howard,So you wouldn't move here?,То есть ты бы сюда не переехал?,ai,,E686DE02405534D07DF72DA1187DD750
 Howard,"Yeah, not a fan either.","Ага, я тоже не фанат.",ai,,F33A4794490E6CB2DCA257939EF63E66
-Howard,"I kinda like it here, honestly.","Мне здесь, если честно, нравится.",ai,,E176E19B4625D35D2E1FB2A4C58E1A71
+Howard,"I kinda like it here, honestly.","Если честно, мне тут нравится.",ai,,E176E19B4625D35D2E1FB2A4C58E1A71
 Larry,"...You sure? Alright, I guess so. Fine. Do your worst, Howie.","...Уверен? Ладно, пожалуй. Хорошо. Давай, Говчик, делай худшее.",ai,,7D8B8C8B4A6C1D2D0A2234BE92A62464
 Howard,[Take a picture of Larry],[Сфотографировать Ларри],ai,,DA8EDDFA4E7E4B63FEB361A07B031B10
 Howard,"On second thought, let's see if we can find something else... [Leave]","Если подумать, давай поищем что-нибудь другое... [Выйти]",ai,,677389904B3832795FCDE4AECDFFB255
-Larry,"I know. Just don't - shit, don't stress so much about it. It's going to be okay. And even if it doesn't, we'll make that okay, too.","Знаю. Только не - чёрт, не стрессуй так из-за этого. Всё будет нормально. А если нет, мы и из этого сделаем нормально.",ai,,F0EB6B93418716A93B88BABFBF03F8CC
+Larry,"I know. Just don't - shit, don't stress so much about it. It's going to be okay. And even if it doesn't, we'll make that okay, too.","Знаю. Только не - чёрт, не накручивай себя так из-за этого. Всё будет нормально. А если нет, справимся и с этим.",ai,,F0EB6B93418716A93B88BABFBF03F8CC
 Howard,And if we end up getting separated? What does that mean?,А если нас всё-таки разделят? Что тогда?,ai,,49EA75C24A4608F59CB60093A6E6E189
 Larry,"It means you're not getting rid of me, alright? I care too damn much about you. If you move to the farthest end of the city, I'll still be your friend. You idiot.","Тогда ты от меня не избавишься, понял? Ты мне слишком дорог. Даже если ты переедешь на другой конец города, я всё равно останусь твоим другом. Идиот.",ai,,8D3826F54B7BA21B54120F88DA60F83B
 Howard,"I...yeah, that makes me feel a little better.","Я... ага, мне от этого чуть легче.",ai,,61107B92481A1364F79B72B7710055EF
@@ -371,7 +371,7 @@ Howard,"Uh, um, yeah. Great. Ahem.","Э-э, ага. Отлично. Кхм.",ai,
 Larry,"What are you getting at, man?","К чему ты клонишь, чувак?",ai,,732C614648F8883706B739BA91295AFC
 Howard,"The plans, man. Our plans.","Планы, чувак. Наши планы.",ai,,3C8D5FC74ABD90FAB86D71BF46DA4546
 Howard,...What if we don't end up living together?,...А если мы не станем жить вместе?,ai,,81ABE7164C9AAED4C88F5DBE67B0AF4E
-Larry,"Oh - right, getting serious about dating in that kind of way. I get it. Well, uh - did you, like, have someone in mind?","О - понятно, серьёзно относиться к свиданиям в этом смысле. Ясно. Ну, э-э, у тебя кто-то есть на примете?",ai,,B88429394079FECFAFB696A78F75D9ED
+Larry,"Oh - right, getting serious about dating in that kind of way. I get it. Well, uh - did you, like, have someone in mind?","О, понятно, серьёзно относиться к свиданиям в этом смысле. Ясно. Ну, э-э, у тебя кто-то есть на примете?",ai,,B88429394079FECFAFB696A78F75D9ED
 Howard,You don't know them.,Ты их не знаешь.,ai,,117B14F44901F3E4AC07279F4940C3AD
 Howard,You don't know her.,Ты её не знаешь.,ai,,A37DE7C04C2A999AE2599A9395AC531A
 Howard,You don't know him.,Ты его не знаешь.,ai,,994C55E24C3C762E0132BC887372D816
@@ -417,7 +417,7 @@ Howard,Is it?,Нормально?,ai,,FE11EA4440BAB99C1A899BA7C0270869
 Larry,"Yeah. If you find someone else you want to live with, that's fine. Great, even! I'm not going to stand in your way. Why would I?","Да. Если найдёшь кого-то другого, с кем хочешь жить, это нормально. Даже отлично! Я не встану у тебя на пути. С чего бы?",ai,,6473CD0943A9F2AF348CB6B54F432A0C
 Howard,"Yeah, but...what about you?","Да, но... а как же ты?",ai,,A8295E8E441A87D7B8D16A89183C79E1
 Howard,"Because we had a different plan, Larry. For a while.","Потому что у нас был другой план, Ларри. Какое-то время.",ai,,308248704956B35D3C04388C4B6F7A22
-Howard,"It's not about finding someone I'd rather live with, I'm just thinking about how we can keep our options open.","Дело не в том, что я нашёл, с кем хотел бы жить, я просто думаю о том, как оставить варианты открытыми.",ai,,FACC793140DFD5C428A339A9C2AF8B4B
+Howard,"It's not about finding someone I'd rather live with, I'm just thinking about how we can keep our options open.","Дело не в том, что я хочу жить с кем-то другим. Я просто думаю о том, как оставить варианты открытыми.",ai,,FACC793140DFD5C428A339A9C2AF8B4B
 Larry,"What about me? I'll move into the apartment next door! I'll come around every day, hang on your couch. You can come hang out on mine, too.","А что я? Я переберусь в квартиру по соседству! Буду заходить каждый день, валяться на твоём диване. А ты будешь приходить валяться на моём.",ai,,7B9785DD4D3285E3C1D1B8BA6E858625
 Howard,I don't think it's that easy.,"Не думаю, что всё так просто.",ai,,A593B25F4E8D9464DDCC6B995FFDD8F7
 Howard,That does seem pretty clear.,Звучит вполне ясно.,ai,,3B0DB91745A4FFFBF05275A3CC2987E0
@@ -432,15 +432,15 @@ Howard,I'm not putting it off.,Я не откладываю.,ai,,3E52AB6442C3D0A
 Howard,Maybe that's not the worst idea. We could save up some money and get a really nice place after a while.,"Может, это не такая уж плохая идея. Накопим денег и через какое-то время возьмём по-настоящему хорошее место.",ai,,20F920764FC392863E7AB8A1FA816D3C
 Larry,"...Bro, are you like...breaking up with me?","...Бро, ты что, как бы... расстаёшься со мной?",ai,,503DA20941DCEC483BFD25B72BB72CCE
 Howard,"No, I...Nevermind.","Нет, я... Забудь.",ai,,D3016BC94B50A75C14FCE28D53433773
-Howard,No! I'm just saying that thing have a way of getting complicated. Might as well plan for that.,"Нет! Я просто говорю, что всё имеет свойство усложняться. Лучше к этому подготовиться.",ai,,2042DCDB4BCD6DDB5D7A619705D7541E
+Howard,No! I'm just saying that thing have a way of getting complicated. Might as well plan for that.,"Нет! Я просто говорю, что всё склонно усложняться. Лучше к этому подготовиться.",ai,,2042DCDB4BCD6DDB5D7A619705D7541E
 Larry,"Don't worry. Everything's going to be fine. Whatever happens, I'll be around for you. And you'll be around for me, right?","Не волнуйся. Всё будет хорошо. Что бы ни случилось, я буду рядом. И ты будешь рядом со мной, да?",ai,,7E6E806E47C4BEAB14B49A99CD8425A0
 Howard,"Of course, man.","Конечно, чувак.",ai,,A2675C7F477CA79FAB65A1912ECFA773
 Howard,[Nod cautiously],[Осторожно кивнуть],ai,,AD42924C4D19B2262BDCD1ABBFE81B81
 Howard,I don't...want to make any promises if I'm not sure I can keep them.,"Я не... хочу давать обещания, если не уверен, что смогу их сдержать.",ai,,17BAFDEB4A5585D29876ECAE55C23198
-Larry,"Then let's not worry about what will and what won't happen, alright? Nothing's going to break us apart. Okay?","Тогда давай не будем переживать о том, что будет, а чего нет, ладно? Ничто нас не разлучит. Идёт?",ai,,AA68EC004BF80A6B302DBAAF4D42047E
+Larry,"Then let's not worry about what will and what won't happen, alright? Nothing's going to break us apart. Okay?","Тогда давай не будем переживать о том, что будет, а что не будет, ладно? Ничто нас не разлучит. Идёт?",ai,,AA68EC004BF80A6B302DBAAF4D42047E
 Howard,Howie and Larry. Forever.,Говчик и Ларри. Навсегда.,ai,,6B598AEF4AC010D607028F848E5A1656
 Howard,Yeah. Alright.,Ага. Ладно.,ai,,D7DF605D43B64D3F469C74A8E0FD2467
-Howard,...I guess I'm just concerned.,"...Наверное, я просто обеспокоен.",ai,,6034FC854BEFE99B9C50E38FEBAC6B87
+Howard,...I guess I'm just concerned.,"...Наверное, я просто переживаю.",ai,,6034FC854BEFE99B9C50E38FEBAC6B87
 Larry,"Well, then, shit...just be here. Be around, for now. Until you know. Yeah?","Ну тогда, чёрт... просто будь рядом. Пока что. Пока не поймёшь. Да?",ai,,0A4EF4C74A58697BD348E18938D9CD38
 Howard,Sure. I can do that.,Конечно. Это я могу.,ai,,8BDEE6EA4CE44B0BAC1382909A4FB41C
 Howard,I'll...try. Do my best.,"Я... постараюсь. Сделаю всё, что смогу.",ai,,D4864B874CA21CA1C09EADA0FB7A2947
@@ -449,7 +449,7 @@ Larry,What's next?,А что дальше?,ok,,CCB1C1A743B3BA126E024A89F696E80C
 Howard,That's what I was going to ask you.,Это я и хотел у тебя спросить.,ai,,891E435E42508E2A166F98A64680C4F4
 Howard,Just checking in on you.,"Просто проверяю, как ты.",ai,,4A1B886C45CB5F001AD956A5235A529C
 Howard,Not sure. Let's keep looking.,Не уверен. Давай продолжим искать.,ai,,CF69F5EF49D2175C381E0090D8274128
-Larry,"Don't worry. It'll be fine. Now, can we get off the street? I swear, it's getting colder and darker by the minute.","Не волнуйся. Всё будет нормально. А теперь, можем мы уйти с улицы? Клянусь, с каждой минутой становится всё холоднее и темнее.",ai,,611AEA0142EF7726A38C409D62FA0D8F
+Larry,"Don't worry. It'll be fine. Now, can we get off the street? I swear, it's getting colder and darker by the minute.","Не волнуйся. Всё будет нормально. Может, уйдём с улицы? Клянусь, с каждой минутой становится всё холоднее и темнее.",ai,,611AEA0142EF7726A38C409D62FA0D8F
 Howard,"...Hey, I love you, man. I hope you know that.","...Эй, я люблю тебя, чувак. Надеюсь, ты это знаешь.",ai,,BF754E3A4557D21ADEB0D5BFB99C6D6D
 Howard,"Alright. Come on, then. [Go home]",Ладно. Ну давай тогда. [Пойти домой],ai,,167A542A450583744C1307B3CB0C5758
 Larry,"Yeah. I do. Now move, jackass. I'm freezing.","Ага. Знаю. А теперь двигай, придурок. Я замерзаю.",ai,,67A8253448EA3957E05975B3F805924B
@@ -457,21 +457,21 @@ Howard,"Sure, man. [Go home]","Конечно, чувак. [Пойти домо�
 Larry,That's it. That's right. Feel any better?,Вот так. Правильно. Тебе уже лучше?,ai,,16BE81E14EF80C8A86CF3AA31433508B
 Howard,Do you?,А тебе?,ai,,6D6F57784B8C5307C2169685BB0E8F97
 Howard,"Yeah, I think so.","Да, кажется.",ai,,B7B68E7446000BF7888BD286E8D079A9
-Howard,Still a little concerned.,Всё ещё немного обеспокоен.,ai,,7ECF2DC84C4F884CA7725A9452F6008B
+Howard,Still a little concerned.,Всё ещё немного переживаю.,ai,,7ECF2DC84C4F884CA7725A9452F6008B
 Larry,"Yeah. Yeah, of course I do. I'm not worried. Wasn't worried in the first place, and I'm not worried now.","Ага. Ага, конечно, знаю. Я не волнуюсь. И с самого начала не волновался, и сейчас не волнуюсь.",ai,,E11A2D2F48884F5A02D8BAA97462DAD8
 Howard,"(SARCASTIC) ...But are you worried, though?",(САРКАЗМ) ...А ты точно не волнуешься?,ai,,24E92CD44EF1A1507A8C5EA8534E0406
-Howard,"(SARCASTIC) Man, you have a way with words.","(САРКАЗМ) Чувак, ты умеешь подбирать слова.",ai,,2281AD6B4C75D50FC2A2168B63A97A0B
+Howard,"(SARCASTIC) Man, you have a way with words.","(САРКАЗМ) Чувак, ты прям мастер подбирать слова.",ai,,2281AD6B4C75D50FC2A2168B63A97A0B
 Howard,"(INVESTIGATIVE) I can read you like an open book, man. You can be honest.","(ПЫТЛИВОСТЬ) Я вижу тебя насквозь, чувак. Можешь быть честным.",ai,,C48DE9CA4D5AFFA5D8DCC8AC879A55AB
 Howard,"(INVESTIGATIVE) ...Yeah. We'll be fine, and we both know it.","(ПЫТЛИВОСТЬ) ...Ага. У нас всё будет хорошо, и мы оба это знаем.",ai,,F6E6D1784372E9BDD619F6A751E2AEF3
 Howard,"(SOCIAL) Who knows, man. Maybe we end up forming a collective, or something.","(ОБЩИТЕЛЬНОСТЬ) Кто знает, чувак. Может, мы создадим какой-нибудь коллектив или вроде того.",ai,,06A4A50642B7DDF25B1E78AA1FB2C885
 Howard,"(SOCIAL) Worst case scenario, you get the apartment next door.",(ОБЩИТЕЛЬНОСТЬ) В худшем случае ты получишь квартиру по соседству.,ai,,BBE25C0E431FF6BA17BB3D814F68979F
-Larry,"Good. We'll be fine. Now, can we get off the street? I swear, it's getting colder and darker by the minute.","Хорошо. У нас всё будет нормально. А теперь, можем мы уйти с улицы? Клянусь, с каждой минутой становится всё холоднее и темнее.",ai,,D3B31EDD4DC4CB03F951A2BD5EBA8F27
+Larry,"Good. We'll be fine. Now, can we get off the street? I swear, it's getting colder and darker by the minute.","Хорошо. У нас всё будет нормально. Может, уйдём с улицы? Клянусь, с каждой минутой становится всё холоднее и темнее.",ai,,D3B31EDD4DC4CB03F951A2BD5EBA8F27
 Howard,"...Hey, I love you, man. I hope you know that.","...Эй, я люблю тебя, чувак. Надеюсь, ты это знаешь.",ai,,3BA0C26F4A5D02C487907F8A7E7756B6
 Howard,"Alright. Come on, then. [Go home]",Ладно. Ну давай тогда. [Пойти домой],ai,,39D34FE446078B722E07639EDE857670
 Larry,Shut up. I'm...unsure of what will happen. I just refuse to worry about it beyond that. What about you?,"Заткнись. Я... не знаю, что будет. Я просто отказываюсь переживать об этом сверх того. А ты как?",ai,,3737EDFD46C086CB39446394F7098514
 Howard,"I'm okay, I think.","Нормально, кажется.",ai,,BF65EF5B490B9800D69E4DB22786514E
 Howard,I'm...not sure.,Я... не уверен.,ai,,2791843A466BB4B7A66D19B4EA14DD50
-Larry,"Alright, let me rephrase: I refuse to be worried. I refuse to live in anything but the now. Right here, right now, with you. That's all. I hope that settles your concerns, Howard.","Ладно, скажу иначе: я отказываюсь переживать. Я отказываюсь жить в чём-либо, кроме настоящего. Здесь и сейчас, с тобой. Вот и всё. Надеюсь, это развеет твои тревоги, Говард.",ai,,4BDBF9934794AFECC75598981B477C8F
+Larry,"Alright, let me rephrase: I refuse to be worried. I refuse to live in anything but the now. Right here, right now, with you. That's all. I hope that settles your concerns, Howard.","Ладно, скажу иначе: я отказываюсь переживать. Я отказываюсь жить чем-то, кроме настоящего. Здесь и сейчас, с тобой. Вот и всё. Надеюсь, это развеет твои тревоги, Говард.",ai,,4BDBF9934794AFECC75598981B477C8F
 Howard,"I guess so, man.","Наверное, да, чувак.",ai,,D6FF37304F706BB673E6E99E6B15DB99
 Howard,I'm...not sure.,Я... не уверен.,ai,,806CBA9D42E566CDA2DAA0B548655C46
 Larry,"Shit, maybe. Something like that. I just don't want to swap quantity for quality. Know what I mean?","Чёрт, может быть. Что-то вроде того. Просто не хочу менять качество на количество. Понимаешь, о чём я?",ai,,FE5231F64F051E1AD828BC9D95D3059D
@@ -480,10 +480,10 @@ Howard,I'm not sure.,Я не уверен.,ai,,3D7BEE8A4B16A0218FF5D29A9B3E7F36
 Larry,Shut up. I'm...unsure of what will happen. I just refuse to worry about it beyond that. What about you?,"Заткнись. Я... не знаю, что будет. Я просто отказываюсь переживать об этом сверх того. А ты как?",ai,,6ABDCAE947DE36B43537C8BACE5AFBE7
 Howard,"I'm okay, I think.","Нормально, кажется.",ai,,EE59321A4CA615F5BAECC3B5AC85700F
 Howard,I'm...not sure.,Я... не уверен.,ai,,3329C9AE45EA0877870DBA9C732196B2
-Larry,"Fucking right, dude. Fucking right. Anyway - I hope that makes you a little less concerned.","Чертовски верно, мужик. Чертовски верно. В общем - надеюсь, ты теперь чуть меньше переживаешь.",ai,,B399B86641D56D3502F95CB0475DEC6B
+Larry,"Fucking right, dude. Fucking right. Anyway - I hope that makes you a little less concerned.","Блядь, точно, мужик. Блядь, точно. В общем - надеюсь, ты теперь чуть меньше переживаешь.",ai,,B399B86641D56D3502F95CB0475DEC6B
 Howard,It does.,Да.,ai,,1ECFFAFF41C7B1B8D6B1C5A8CAC40DA1
 Howard,I'm...not sure.,Я... не уверен.,ai,,B63952144CB8A9B5BEE5699F27200480
-Larry,Nah. Sabotaging your own work just so you can keep doing it? I can't decide if that's genius or completely idiotic.,"Не. Саботировать собственную работу, чтобы можно было продолжать её делать? Не могу решить, гениально это или полный идиотизм.",ai,,5478BC7A42D39A38B2D01998E4D9F584
+Larry,Nah. Sabotaging your own work just so you can keep doing it? I can't decide if that's genius or completely idiotic.,"Не. Саботировать собственную работу, чтобы продолжать её делать? Не могу решить, гениально это или полный идиотизм.",ai,,5478BC7A42D39A38B2D01998E4D9F584
 Howard,I don't think he's the sharpest tool in the shed.,"Не думаю, что он самый острый инструмент в сарае.",ai,,8A42313C46269E6AC91C388B9F7F40B3
 Howard,Man's gotta do what a man's gotta do.,"Мужчина должен делать то, что должен.",ai,,A9349A0945B1896F35648289B8B5AF41
 Howard,...Did he remind you of someone?,...Он напомнил тебе кого-то?,ai,,CB8A7E034A08EDE5516E7B8ACD045585
@@ -508,7 +508,7 @@ Howard,Wouldn't you rather be ready for something that might happen than pretend
 Howard,Doesn't that stress you out?,Тебя это не напрягает?,ai,,ADB1C5834F8DF119E4D7BDBAC33F15B1
 Larry,"..Right, right. Yeah. Yeah! That's cool. That's fine, Howie. Always good to have more options. I think.","..Ага, ага. Ага! Круто. Нормально, Говчик. Всегда хорошо иметь больше вариантов. Наверное.",ai,,85F268D24BE81C1841CAEDBFA7C3AD43
 Howard,...You sure that's cool?,"...Ты уверен, что это круто?",ai,,FE00AED64B3EA992A65BE68680D7B8FB
-Howard,"Yeah. For both of us. That's acceptable, right?","Ага. Для нас обоих. Это приемлемо, да?",ai,,05B6EA4546D2F98D17222EBF500C4769
+Howard,"Yeah. For both of us. That's acceptable, right?","Ага. Для нас обоих. Это устраивает, да?",ai,,05B6EA4546D2F98D17222EBF500C4769
 Howard,...But we wouldn't stop being friends. That's not an option.,...Но мы не перестанем быть друзьями. Это не обсуждается.,ai,,7BCAFE4A48E463120A40F89F962E415D
 Larry,"...Honestly, man? I don't know.","...Если честно, чувак? Не знаю.",ai,,E4EA76004E3238CD03F879B52BEE7087
 Howard,"Well, I'd like to consider all possibilities, I guess. All plans and contingencies.","Ну, я хотел бы рассмотреть все возможности, наверное. Все планы и запасные варианты.",ai,,89B63FE04A98E13760D772997E248316
@@ -597,7 +597,7 @@ Larry,"Yeah, of course. Let's wrap this whole photography business up first thou
 Howard,"Yeah, sure. There was something else, though...","Да, конечно. Но было ещё кое-что...",ai,,34D0E6AB4A815B3685B22E96B53301BD
 Howard,Can't we talk now? It's important.,Мы не можем поговорить сейчас? Это важно.,ai,,7AFAEE8A429BF411C881B6B2413F4162
 Howard,Alright. Let's get on with it.,Ладно. Давай продолжим.,ai,,3BE9742E4A9D882044F8B3A5122642D4
-Larry,"All the more reason to talk about it later. When we have more time, and preferably inside.",Тем более лучше поговорить об этом позже. Когда у нас будет больше времени и желательно в помещении.,ai,,55CBB741497A61842D10AA9DE51E97BB
+Larry,"All the more reason to talk about it later. When we have more time, and preferably inside.",Тем более повод поговорить об этом позже. Когда будет больше времени и желательно в помещении.,ai,,55CBB741497A61842D10AA9DE51E97BB
 Howard,"Alright, fine. Another thing, though...","Ладно, хорошо. Но ещё кое-что...",ai,,2A12F17348A1604D882F70807FBE609A
 Howard,...Alright.,...Ладно.,ai,,E63E6BF041EE288657289BA1E68F72BF
 Larry,"Taking pictures of people? I mean, that all depends on who we're taking pictures of, right?","Фотографировать людей? Ну, это зависит от того, кого мы будем фотографировать, так?",ai,,D0D7DEEC42805E76E7999FAAF143187C
@@ -637,7 +637,7 @@ Howard,"Fine. Hey, can I ask you something else?","Ладно. Слушай, м�
 Howard,[Look around] ...You do?,[Оглядеться] ...Правда?,ai,,47839FA44338ABA5086F049A8280AD29
 Howard,"Oh, uh, yeah. Me too. Let's go.","А, э-э, да. Я тоже. Пошли.",ai,,62DF955946FEEB1982F0BCB4B92DBB36
 Larry,"Pretty sure you're going to need more than that, man.","Уверен, тебе понадобится больше, чувак.",ai,,01F60A064E4DC34068230AA278FA5F37
-Howard,"Shit, don't I know it. Can I ask you something else, man?","Чёрт, знаю не хуже тебя. Можно спросить тебя ещё кое о чём, чувак?",ai,,F7D0275C475997298407DFBD96028FD7
+Howard,"Shit, don't I know it. Can I ask you something else, man?","Чёрт, ещё как знаю. Можно спросить тебя ещё кое о чём, чувак?",ai,,F7D0275C475997298407DFBD96028FD7
 Howard,Fair enough. Let's get back to it.,Справедливо. Вернёмся к делу.,ai,,94DC160546089A7B39C7C8A2C7B4434A
 Howard,"Sure, but that doesn't mean I can't take one of you, does it?","Конечно, но это не значит, что я не могу сфотографировать тебя, так?",ai,,7025EA6A485A5276F3E75CA3BC042851
 Larry,"Like, to have it over with? I guess so, yeah. I'm excited for what's next, more than anything.","Типа, чтобы поскорее покончить? Наверное, да. Меня больше всего радует то, что будет дальше.",ai,,B37FE1F54FFF065FD9C343BDE17E0A2E
@@ -660,7 +660,7 @@ Larry,"How about this: if you run out of other things to take pictures of, then 
 Howard,Deal. Let's go.,Договорились. Пошли.,ai,,96C8D17B42207512FAAE34BBBD107877
 Howard,We'll see.,Посмотрим.,ok,,E562639B43DCFA7DBCE3888011B7C8EB
 Larry,"""Early influences of lower Kinds in classical City sculpture.""",«Раннее влияние низших Видов на классическую городскую скульптуру».,ai,,41D7E37C4ACE941D2E41B1B83D18F5E4
-Howard,"Oh, uh, yeah. I knew that. Also, man - they let you write about that?","А, э-э, да. Я знал. А ещё, чувак, - они разрешили тебе писать об этом?",ai,,37B7169B4E28D1CE74DEA093FA03D3FD
+Howard,"Oh, uh, yeah. I knew that. Also, man - they let you write about that?","А, э-э, да. Я знал. А ещё, чувак, они разрешили тебе писать об этом?",ai,,37B7169B4E28D1CE74DEA093FA03D3FD
 Howard,Right. Do you need my help with it?,Ясно. Тебе нужна моя помощь?,ai,,BE8BF9964CC49A2E5621D4B09E1106D0
 Larry,"That whole thing with the clock? I mean, shit, it wasn't something I was expecting to be doing on Winter Solstice. But sure. It was kind of fun.","Вся эта история с часами? Ну, чёрт, не думал, что буду заниматься этим в зимнее солнцестояние. Но да. Было вроде весело.",ai,,BA15A1B546A821BC67F61B84B586F56B
 Howard,I was pretty sure who did it from the get-go. How about you?,"Я почти сразу догадывался, кто это сделал. А ты?",ai,,CC5DB7034272363F09CA8895A17CB8BA
@@ -683,15 +683,15 @@ Howard,How come?,Как так?,ok,,D7A05415465CE7597925748B967E979D
 Howard,Don't trust your professors?,Не доверяешь своим профессорам?,ai,,A6619806490CB40D32B2CCB6CB33DDFA
 Larry,"It's not like it's going to get published anywhere. They'll give me my diploma, send me off, and then destroy every copy of the thesis they have. Or just hide it away somewhere.","Его же нигде не опубликуют. Мне дадут диплом, отправят восвояси, а потом уничтожат все экземпляры диссертации, какие есть. Или просто спрячут где-нибудь.",ai,,85F8A78E49FBE51FEBE64EB09110E7EE
 Howard,"Good old Thaddeus Rock, watching over us.",Старина Таддеус Рок присматривает за нами.,ai,,D5B4C58F4338B43A1029C89354379D04
-Howard,"Well, on the plus side, at least there's no risk of public embarrassment.","Ну, зато есть плюс: риска публичного позора нет.",ai,,09D80E4C404AA3DD0C439BA8E6AFAC1E
-Larry,"Not sure about that - more like I trust them wanting to keep their jobs. I'll get my diploma, keep my copy, leave university, and then no one will ever read it again.","Не уверен - скорее, я доверяю тому, что они хотят сохранить свои должности. Я получу диплом, оставлю себе экземпляр, уйду из университета, и больше никто его не прочтёт.",ai,,4BA05560473ECF005B44AD9142629687
+Howard,"Well, on the plus side, at least there's no risk of public embarrassment.","Ну, зато публичного позора можно не бояться.",ai,,09D80E4C404AA3DD0C439BA8E6AFAC1E
+Larry,"Not sure about that - more like I trust them wanting to keep their jobs. I'll get my diploma, keep my copy, leave university, and then no one will ever read it again.","Не уверен - скорее, я доверяю их желанию сохранить должности. Я получу диплом, оставлю себе экземпляр, уйду из университета, и больше никто его не прочтёт.",ai,,4BA05560473ECF005B44AD9142629687
 Howard,"Good old Thaddeus Rock, watching over us.",Старина Таддеус Рок присматривает за нами.,ai,,79B50096432C0CD7757C68AB6A2D88B6
-Howard,"Well, on the plus side, at least there's no risk of public embarrassment.","Ну, зато есть плюс: риска публичного позора нет.",ai,,ADD12135476417F3C97CB5AC8E7B1B0B
+Howard,"Well, on the plus side, at least there's no risk of public embarrassment.","Ну, зато публичного позора можно не бояться.",ai,,ADD12135476417F3C97CB5AC8E7B1B0B
 Larry,Something like that. Ready to get back to your project?,Вроде того. Готов вернуться к своему проекту?,ai,,006C08DB4239F9A9DDD048964D73824A
 Howard,"...Actually, I wanted to ask you something else.","...Вообще-то, я хотел спросить тебя ещё кое о чём.",ai,,1C59EA8547E051E91AD362BB6FD2BBCA
 Howard,Yup. Let's go.,Ага. Пошли.,ai,,4BB18D1047EBFE5DE532CAAE94434288
 Larry,Does it matter?,Это вообще важно?,ok,,B3796A2F4E33EF22C81DEDB0FEC588B7
-Howard,"Like, in the grand scheme of things.",То есть в общем масштабе вещей.,ai,,0234717A4A4CDA7AEEB3D7943F6225CD
+Howard,"Like, in the grand scheme of things.",То есть в общей картине.,ai,,0234717A4A4CDA7AEEB3D7943F6225CD
 Howard,Yeah. Does it really matter?,Да. Это правда важно?,ai,,83AC7EA6405D6C4E8EECFF9B404DC419
 Howard,"...Wait, are you asking for clarification or whether or not the clarification matters?","...Погоди, ты просишь уточнить или спрашиваешь, важно ли уточнение?",ai,,9A26ECA74D81E94DB065609B893B54A7
 Larry,"What, so you can make fun of my grammar and sit around trying to poke holes in my arguments? Guess again, loser.","Что, чтобы ты мог придираться к моей грамматике и сидеть, выискивая дыры в моих аргументах? Попробуй ещё, неудачник.",ai,,859502EF4A1A215FF971B4A81BED3CD6
@@ -720,7 +720,7 @@ Larry,"I get that. It's going to be alright, man. Let's get back to work and pus
 Howard,"I guess the project doesn't really matter that much to me, and I'm struggling with that feeling.","Кажется, проект мне не так уж и важен, и я мучаюсь из-за этого чувства.",ai,,D9194E49420B159A1FB393A24867BA0A
 Howard,I just want it to turn out great. It matters to me a lot. I think.,"Я просто хочу, чтобы он получился отличным. Он очень важен для меня. Кажется.",ai,,B7325D2D436AB6247A0D2DAA5F611AE9
 Howard,"I'm just not sure what I want, man.","Я просто не уверен, чего хочу, чувак.",ai,,AD105D23490C0FDDBEF273BC2DC353C5
-Larry,"It is. But I got faith in you, man. And I'm here, by your side. Let's get back to work, yeah? In a few hours, it'll be done and you can chill.","Это так. Но я в тебя верю, чувак. И я рядом, с тобой. Давай вернёмся к работе, да? Через несколько часов всё будет готово, и ты сможешь расслабиться.",ai,,AE49A08B4706E3514B50529D4C719AF7
+Larry,"It is. But I got faith in you, man. And I'm here, by your side. Let's get back to work, yeah? In a few hours, it'll be done and you can chill.","Это так. Но я в тебя верю, чувак. И я рядом с тобой. Давай вернёмся к работе, да? Через несколько часов всё будет готово, и ты сможешь расслабиться.",ai,,AE49A08B4706E3514B50529D4C719AF7
 Howard,"I guess the project doesn't really matter that much to me, and I'm struggling with that feeling.","Кажется, проект мне не так уж и важен, и я мучаюсь из-за этого чувства.",ai,,D16D9B5B41C44B33C73A9E9440F22EEA
 Howard,I just want it to turn out great. It matters to me a lot. I think.,"Я просто хочу, чтобы он получился отличным. Он очень важен для меня. Кажется.",ai,,AA110F8E4BD8FB8B75950390E7CF8D2D
 Howard,"I'm just not sure what I want, man.","Я просто не уверен, чего хочу, чувак.",ai,,88747AD041F63DA34BC093993EB2970C
@@ -734,13 +734,13 @@ Howard,"Oof. No pressure, huh? [Leave]","Уф. Никакого давления
 Larry,"We're going to figure it out, Howie. I promise. You'd do the same for me, so quit worrying. Now, are we gonna take these pictures or what?","Мы разберёмся, Говчик. Обещаю. Ты бы сделал то же для меня, так что хватит переживать. Ну что, будем фоткать или как?",ai,,8E1EE0C149322AB9E5B963BB20E7AB7A
 Howard,Hang on. There was something else I wanted to ask you.,Погоди. Я хотел спросить тебя ещё кое о чём.,ai,,7EAD9DAD4A49DD86F8264382849A99F5
 Howard,Yeah. Let's go.,Ага. Пошли.,ai,,9B381F08450A326394300AB63F31A5CD
-Larry,"So fucking clever, huh? Dick. Come on, let's get those pictures taken. It's cold.","Такой чертовски умный, да? Гад. Давай, снимем эти кадры. Холодно.",ai,,517C9E0D4F1F3B0FEBC6FDA78C4ABCFD
+Larry,"So fucking clever, huh? Dick. Come on, let's get those pictures taken. It's cold.","Такой ёбаный умник, да? Мудак. Давай, снимем эти кадры. Холодно.",ai,,517C9E0D4F1F3B0FEBC6FDA78C4ABCFD
 Howard,"Wait, one more thing...","Погоди, ещё одно...",ai,,8FF5B7B84193EDFBF101DE86F46F2F7A
 Howard,"You got it, loser.","Как скажешь, неудачник.",ai,,68718AE24802C5B23D5E928D41C5F6C1
 Larry,"So, this final project of yours... Where do we start?","Итак, этот твой выпускной проект... С чего начнём?",ai,,56B47C534C31711508EC1B99505B1D9F
 Howard,"I was thinking of some taking some portraits, honestly.","Я, честно говоря, думал снять несколько портретов.",ai,,8C098ED04770C9F0803234B619F4A55C
 Howard,Right here. [Point to the clock],Прямо здесь. [Показать на часы],ai,,7F424BBF4B7FC17B9F1CB79E6633922C
-Larry,"I mean, we've got some idea of who the culprit might be. I say we go ask around, see if anyone can back up that story.","В смысле, мы кое-что представляем про то, кто мог это сделать. Предлагаю пойти поспрашивать, вдруг кто-то подтвердит эту версию.",ai,,1815373045D16F367F748BA8324D90B3
+Larry,"I mean, we've got some idea of who the culprit might be. I say we go ask around, see if anyone can back up that story.","В смысле, у нас есть кое-какие соображения, кто мог это сделать. Предлагаю пойти поспрашивать, вдруг кто-то подтвердит эту версию.",ai,,1815373045D16F367F748BA8324D90B3
 Howard,"Before we do that, can I ask you something?","Прежде чем мы это сделаем, можно тебя кое о чём спросить?",ai,,061FD9474857DD89015CE096D24508DD
 Howard,And what do you think?,А ты что думаешь?,ai,,4AA6F46F4ACA20D3F85AAFA507E6ED4D
 Howard,"Let's get to it, then. [Leave]",Тогда за дело. [Выйти],ai,,BCD5C7F84450E6F0936F78BE539BC762
@@ -831,7 +831,7 @@ Larry,Pff. So? What now?,Пф. Ну? Что теперь?,ai,,576B61604AB5CD345D
 Howard,That was the last one in the roll! We're done!,Это был последний кадр на плёнке! Мы закончили!,ai,,D3DC78994F7B1056FC4B54B5E022C759
 Howard,We're not quite done yet. Let's get to it.,Мы ещё не закончили. Давай займёмся.,ai,,517538EC4F19A621870784BC419BBBAF
 Larry,"...And I would like to not be cold, Howard.","...А я хотел бы не мёрзнуть, Говард.",ai,,8600F6714D72A42FCDA6758559A8C275
-Howard,"We just need to take these pictures, man. Shouldn't take too long.","Нам только надо сделать эти снимки, чувак. Это не должно занять много времени.",ai,,A010DD36409962748545CCBACCFA7D26
+Howard,"We just need to take these pictures, man. Shouldn't take too long.","Нам только надо сделать эти снимки, чувак. Много времени не займёт.",ai,,A010DD36409962748545CCBACCFA7D26
 Howard,"We'll get back inside soon enough, Larry.","Мы скоро вернёмся в тепло, Ларри.",ai,,B1D3E72D463F865F6FC114A756497281
 Howard,"...Are you actually not okay being out here, dude?","...Тебе правда так плохо здесь находиться, мужик?",ai,,C596672E4B63D83A8F2378A64ABF81FE
 Larry,"Better be. What are we doing out here, again?","Лучше бы так. Что мы тут делаем, напомни?",ai,,0BFB78CA4550B6C20190AE9C2B917BB4

@@ -1,9 +1,10 @@
-// Review tool for gender agreement in dialogue translations, built for an AI agent: compact chunks,
-// no text in shell arguments (fixes go through a file), progress kept between runs.
-//   node tools/loc/gender.mjs next              show the current chunk
-//   node tools/loc/gender.mjs done [fixes.txt]  apply fixes to the current chunk, then show the next one
-//   node tools/loc/gender.mjs status
-//   add --act <folder> (Act_I, Act_II, ...) to review one act with separate progress,
+// Review tool for dialogue translations, built for an AI agent: compact chunks with speakers and their
+// genders, no text in shell arguments (fixes go through a file), progress kept between runs.
+//   node tools/loc/review.mjs next              show the current chunk
+//   node tools/loc/review.mjs done [fixes.txt]  apply fixes to the current chunk, then show the next one
+//   node tools/loc/review.mjs status
+//   --task <name>  separate progress and log per review pass (gender by default, e.g. style)
+//   --act <folder> (Act_I, Act_II, ...) to review one act with separate progress,
 //   --only-ok to review the human-reviewed rows instead of the machine-translated ones
 // fixes.txt: one fix per line "N|new translation" (N = row number shown in the chunk; \n as in the chunk)
 import fs from 'fs';
@@ -13,9 +14,10 @@ import { check } from './batch.mjs';
 
 const ROOT = path.resolve(import.meta.dirname, '../..');
 const DIALOGUES = path.join(ROOT, 'translation/Data/Dialogues');
-const STATE_DIR = path.join(ROOT, 'workspace/gender');
+const opt = name => process.argv.includes(name) ? process.argv[process.argv.indexOf(name) + 1] : '';
+const STATE_DIR = path.join(ROOT, 'workspace', opt('--task') || 'gender');
 // --act Act_I limits the review to one folder of Data/Dialogues, with its own progress (agents can run in parallel)
-const ACT = process.argv.includes('--act') ? process.argv[process.argv.indexOf('--act') + 1] : '';
+const ACT = opt('--act');
 // --only-ok reviews just the human-reviewed rows (skipped by default), with its own progress
 const ONLY_OK = process.argv.includes('--only-ok');
 const PROGRESS = path.join(STATE_DIR, `progress${ACT ? '-' + ACT : ''}${ONLY_OK ? '-ok' : ''}.json`);
@@ -121,13 +123,13 @@ function status() {
     console.log(`Файл ${Math.min(s.file + 1, list.length)}/${list.length}, строка ${s.row}; исправлений всего: ${fixed}`);
 }
 
-if (process.argv[1]?.endsWith('gender.mjs')) {
-    const [cmd, arg] = process.argv.slice(2).filter((a, i, all) => !a.startsWith('--') && all[i - 1] !== '--act');
+if (process.argv[1]?.endsWith('review.mjs')) {
+    const [cmd, arg] = process.argv.slice(2).filter((a, i, all) => !a.startsWith('--') && !['--act', '--task'].includes(all[i - 1]));
     try {
         if (cmd === 'next') show();
         else if (cmd === 'done') done(arg);
         else if (cmd === 'status') status();
-        else console.log('usage: node tools/loc/gender.mjs next | done [fixes.txt] | status  [--act Act_I]');
+        else console.log('usage: node tools/loc/review.mjs next | done [fixes.txt] | status  [--task style] [--act Act_I] [--only-ok]');
     } catch (e) {
         console.log(`ОШИБКА: ${e.message}. Ничего не записано, исправь файл и повтори done.`);
         process.exitCode = 1;

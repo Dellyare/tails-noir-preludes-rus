@@ -38,7 +38,7 @@ Howard,"Honestly, man? I think you had me all figured out. Can I still take the 
 Bocco,"Hrm! Not a bad idea at all. I enjoy the symbolism immensely. All citizens, united, seeking out the guiding light of the Shepherd. Yes, very good.","Хм! Совсем неплохая мысль. Мне очень по душе этот символизм. Все граждане, единые, ищут путеводный свет Пастыря. Да, очень хорошо.",ai,,A15823214DF7822CD0EF5EBB63990CB9
 Howard,[Nod piously],[Благочестиво кивнуть],ai,,749E9D184CA4E880655D648BE369913B
 Howard,"So is that a yes, or...?",То есть это «да» или...?,ai,,D0C6DD584DE4E3B7F3948895995D3B57
-Howard,Sweet. Now scoot over - there's a particularly sad-looking lady coming up behind you.,Супер. А теперь подвиньтесь - за вами подходит какая-то особенно печальная дама.,ai,,117F16444B88E8B9EEFBB093DA3893F4
+Howard,Sweet. Now scoot over - there's a particularly sad-looking lady coming up behind you.,"Супер. А теперь подвиньтесь, за вами подходит какая-то особенно печальная дама.",ai,,117F16444B88E8B9EEFBB093DA3893F4
 Bocco,"That's very beautiful. Very beautiful, indeed.","Это очень красиво. Очень красиво, право слово.",ai,,EB33938040332C7EC06FA8A3DF8BC337
 Howard,[Wipe away a tear and nod],[Смахнуть слезу и кивнуть],ai,,A0006D7042828B854377F6B4B3C2828E
 Howard,Yes. I am religious boy.,Да. Я религиозный мальчик.,ai,,3135330F4DD10AFD2E9B96BCBD802ECB
@@ -122,7 +122,7 @@ Howard,"Yes, sir.","Да, сэр.",ai,,44C5C6D045247DD715398B9DA1CEFD98
 Howard,[Shrug],[Пожать плечами],ai,,57581EB849F6CEF02F363A892E467B59
 Bocco,"A project, eh? Hrm. Very well. Hard work should never be looked down upon. You'd better make it worth your while. Wasteful work, however, is a sin against both time and the Shepherd himself.","Проект, значит? Хм. Что ж, ладно. Тяжёлый труд никогда не должен вызывать презрения. Постарайся, чтобы он того стоил. Впустую потраченный труд - грех и против времени, и против самого Пастыря.",ai,,680D0FA942E91A450A8F5D80535B20E5
 Howard,"Oh, wasting time? Me? Never.","О, тратить время впустую? Я? Никогда.",ai,,E34DE0CA4449C5D760E0BD80862B878E
-Howard,"It will be worthwhile. Once I finish this, I get to graduate.",Он будет того стоить. Закончу его - и выпущусь.,ai,,F8B6C2204403FDBC51BD95901B37C573
+Howard,"It will be worthwhile. Once I finish this, I get to graduate.",Он будет того стоить. Закончу его и выпущусь.,ai,,F8B6C2204403FDBC51BD95901B37C573
 Bocco,"You might not be, but I saw your friend over there, shivering. A night like this is no time to trade warmth for fashion — a vanity I see repeated by many of the young people that come to warm themselves here.","Может, и нет, но я видел твоего друга там, он дрожит. В такую ночь не время менять тепло на моду — это тщеславие, которое я вижу у многих молодых, приходящих сюда погреться.",ai,,6221BD2A4C1831A5B6D9B3A907CDB395
 Howard,Larry? He's fine. Just tired.,Ларри? С ним всё нормально. Просто устал.,ai,,C0346B9E469711E0B3A98A9EE6AA1038
 Howard,Larry isn't vain. Neither am I.,Ларри не тщеславен. Я тоже.,ai,,ACFC622D46EBA509656BF1AD2FB285E2
@@ -270,7 +270,7 @@ Bocco,"Do you not know the story of the three nights of Winter Solstice, my boy?
 Howard,"This thing...tonight, you mean?","Это, что сегодня, вы имеете в виду?",ai,,AF69C76D4545C0EAF02E5FA26292535B
 Howard,"I do not, but I assume you're going to tell me.","Не знаю, но предполагаю, что вы мне расскажете.",ai,,75E365364DA4A190E7B845AC3E79B5E8
 Howard,[Lie] Uh...sure.,[Соврать] Э-э... конечно.,ai,,93DA881C42F41E858A1816A51C6A21F7
-Bocco,"Of course I do. It's right, and righteous. Even if it were only a parable, you would do well to listen to it. Learn something.","Конечно, знаю. Она правдива и праведна. Даже будь это лишь притчей, тебе бы стоило её послушать. Чему-нибудь научиться.",ai,,E4764B84403E0657E7C2209764521129
+Bocco,"Of course I do. It's right, and righteous. Even if it were only a parable, you would do well to listen to it. Learn something.","Конечно, знаю. Она правдива и праведна. Даже будь это лишь притчей, тебе бы стоило её послушать и чему-нибудь научиться.",ai,,E4764B84403E0657E7C2209764521129
 Howard,"I'll ask a better question, how's that?","Тогда я задам вопрос получше, как вам?",ai,,D0843D2542CBBDE45D2B65863D373A96
 Howard,What's the moral of a story where your god allows you to get spied on and lied to?,"В чём мораль истории, где ваш бог позволяет, чтобы за вами шпионили и вам лгали?",ai,,4B260BD64E083D3CD79F6499C82EEE92
 Bocco,...Yes?,...Да?,ai,,CA5DF2214FEA1AC013F969ABF41BE79E
@@ -285,7 +285,7 @@ Bocco,"Spare the rod, spoil the child.","Кто жалеет розгу, тот 
 Howard,"Fantastic. Let me ask you something else, instead.",Отлично. Тогда дайте спросить вас о другом.,ai,,5D5B3DD54461F2EF190C618F11E0CE0B
 Howard,"Well, I've had plenty of rod, and I'm still fucked up.","Ну, розги я получал вдоволь, а всё равно в голове каша.",ai,,20D112334E7D78D8364DFFBB68A1F5C7
 Howard,You're nuts. [Leave],Вы чокнутый. [Уйти],ai,,DD0144AE485F2E1D19FB98A9B2449B6C
-Bocco,Hrm. Language.,Хм. Выражения.,ai,,A2754C0A4F4D7E638D722AA051B0AD3E
+Bocco,Hrm. Language.,Хм. Следи за языком.,ai,,A2754C0A4F4D7E638D722AA051B0AD3E
 Howard,Fine. Let's talk about something else.,Ладно. Давайте поговорим о другом.,ai,,A659BFD34BCA9BE06F79B78421644FD9
 Howard,Fuck off. [Leave],Отвали. [Уйти],ai,,CBA0A4F94BB56DB03FBA04A50CC8700E
 Bocco,"Well, when the night Goddess comes crawling through the shadows, she spreads rumours and lies about each and all of us. She listens, and knows us all by name and face.","Что ж, когда ночная Богиня ползёт сквозь тени, она распускает слухи и ложь о каждом из нас. Она слушает и знает всех нас по имени и в лицо.",ai,,31ED5C3A410531180A3B3CA099886623
@@ -296,7 +296,7 @@ Bocco,"Every time a poor sinner complains, you see, she's there to listen and wo
 Howard,"Bottle it all up. Solid advice, father.","Держать всё в себе. Дельный совет, отец.",ai,,DEE0D8DD47A15C7E5EB43FAF35F09E12
 Howard,So we stay quiet so she doesn't know our names — and the masks are for our faces?,"То есть мы молчим, чтобы она не узнала наших имён, а маски — чтобы скрыть лица?",ai,,FD291647458823E830CB26B700EF2450
 Howard,Let me ask you something else.,Дайте спросить вас о другом.,ai,,043A919247EBF13CFB407AB1AD4C45BE
-Bocco,"We wear them to trick and confuse the Goddess. This way, she doesn't know who's who, and her lies fall flat.","Мы носим их, чтобы обмануть и запутать Богиню. Так она не знает, кто есть кто, и её ложь не находит цели.",ai,,6FE4A23E4A86CFDD79EB9088B3193C1A
+Bocco,"We wear them to trick and confuse the Goddess. This way, she doesn't know who's who, and her lies fall flat.","Мы носим их, чтобы обмануть и запутать Богиню. Так она не знает, кто есть кто, и её ложь пропадает впустую.",ai,,6FE4A23E4A86CFDD79EB9088B3193C1A
 Howard,"Right, right. I have another question for you.","Ясно, ясно. У меня к вам ещё один вопрос.",ai,,E783DFF94170F7B21B4D1BADA150794A
 Howard,So how come you aren't wearing a mask?,А почему вы сами не в маске?,ai,,8B23DACD45B7BF5FB919E3B176331586
 Howard,"Right. Thanks for the reminder, man. [Leave]","Ага. Спасибо, что напомнили, чувак. [Уйти]",ai,,F02086F54E9813C55E95BEB38E1EF57A

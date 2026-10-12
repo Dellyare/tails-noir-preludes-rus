@@ -17,6 +17,9 @@ export function check(source, text) {
     if (tokens(source, PLACEHOLDER) !== tokens(text, PLACEHOLDER)) throw new Error(`плейсхолдеры не совпадают: ${source.match(PLACEHOLDER)} / ${text.match(PLACEHOLDER)}`);
     if (tokens(source, TAG) !== tokens(text, TAG)) throw new Error('теги <...> не совпадают');
     if (TRAIT.test(source) && !/^\s*\(/.test(text)) throw new Error('пометка (ЧЕРТА) должна остаться в круглых скобках, как в оригинале');
+    const count = (s, c) => s.split(c).length - 1;
+    if (count(source, '[') !== count(text, '[') || count(source, ']') !== count(text, ']'))
+        throw new Error('квадратные скобки [...] должны остаться как в оригинале');
     if (!/[—–]/.test(source)) text = text.replace(/[—–]/g, '-'); // dashes follow the original: plain hyphen unless the source has a long dash
     if (source.includes('\r\n')) text = text.replace(/\r?\n/g, '\r\n'); // keep the source's line endings
     const lead = source.match(/^\s*/)[0], trail = source.match(/\s*$/)[0];

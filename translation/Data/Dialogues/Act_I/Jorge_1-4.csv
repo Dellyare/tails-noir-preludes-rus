@@ -1,7 +1,7 @@
 ﻿speaker,source,translation,status,namespace,key
 Notification,Jorge disliked that. A lot.,Джорджу это не понравилось. Совсем.,ai,,B64ADB3B4E709A5B871EFEBEA91184B4
 Notification,Jorge appreciates your concern.,Джордж ценит твою заботу.,ai,,C55BD8834188C0C4017AC7867E62F754
-Jorge,"You nearly froze my hand off, Eli. You fucking owe me.","Ты чуть не отморозил мне руку, Илай. Ты чертовски обязан мне.",ai,,74F263B24C34BD6ED96447B344BE02C4
+Jorge,"You nearly froze my hand off, Eli. You fucking owe me.","Ты чуть не отморозил мне руку, Илай. Ты мне чертовски должен.",ai,,74F263B24C34BD6ED96447B344BE02C4
 Eli,Fair enough.,Справедливо.,ai,,CD04FC3B4D416DA7117805A2E6505EFA
 Eli,[Nod respectfully],[Кивнуть с уважением],ai,,9DA69A44497AF1C76FAEDFBDD9650820
 Eli,What do you want me to say?,"Что ты хочешь, чтобы я сказал?",ai,,267C5AC141861523DB55D1A78436565A
@@ -11,7 +11,7 @@ Eli,Slithering? What the...what are you talking about?,Извивается? Ч�
 Eli,"...Okay, alright. That's bad. What do we do?","...Ладно, хорошо. Это плохо. Что нам делать?",ai,,B323CE5D4BE1CD55F7007283A1468E70
 Jorge,"What the fuck are you waiting for, Eli? Hurry up!","Какого хрена ты ждёшь, Илай? Давай быстрее!",ai,,44E3A63349509DAA68A9A0A12317C435
 Eli,"Here's the cooling spray, take it!","Вот охлаждающий спрей, возьми!",ai,,1DC941A4461FB83062AB3BAC22E4238D
-Eli,"What do you need, again?","Что тебе нужно, ещё раз?",ai,,4439F5A449F9D6133CE005BD1BCCC4F1
+Eli,"What do you need, again?","Повтори, что тебе нужно?",ai,,4439F5A449F9D6133CE005BD1BCCC4F1
 Eli,Give me a second! I'll be right back.,Дай мне секунду! Я сейчас вернусь.,ai,,D7DD8E2A45B4D4A7FD1FAAAA150A99C3
 Eli,Here! Take this container!,Вот! Возьми этот контейнер!,ai,,677216904EE5EFA0390A4782FE89F06A
 Jorge,"Okay, on the count of three, I'm going to twist the pod open a bit more. As soon as it splits, I want you to douse the fucker, alright?","Ладно, на счёт три я немного приоткрою капсулу. Как только она приоткроется, я хочу, чтобы ты обрызгал эту штуку, понял?",ai,,42B7704E45DFE2AB465B59BD0F49E4A0
@@ -22,7 +22,7 @@ Eli,"You twist it, drop it, and I shut it. Got it.","Ты приоткроешь
 Eli,Just do it.,Просто сделай это.,ai,,A32B55B14899241EF7DAFEA44953AF09
 Jorge,I don't know. I...need to gather my thoughts.,Я не знаю. Мне... нужно собраться с мыслями.,ai,,701382EE4F1342326717F4AF7B7BAD77
 Eli,What do you make of that thing?,Что ты думаешь об этой штуке?,ai,,050367B146B47B05356BDEA4D4E64207
-Eli,What's our next steps?,Каковы наши следующие шаги?,ai,,A7748C064AB5D964510F668F1C7DB180
+Eli,What's our next steps?,Что дальше?,ai,,A7748C064AB5D964510F668F1C7DB180
 Eli,Anything I can do to help?,Могу я чем-то помочь?,ai,,ABEE187943C608F3CA5B65A853BC096F
 Eli,I should go make the call. I'll talk to you later.,Мне нужно пойти сделать звонок. Поговорим позже.,ai,,AE78FD664637ADE0D931A6BF247DD71A
 Jorge,"Are you kidding me, Eli?! Either grab the spray and pacify it, or we risk it and pull it into a container. Just do SOMETHING!","Ты издеваешься, Илай?! Либо бери спрей и успокой её, либо рискни и затащи её в контейнер. Просто сделай ЧТО-НИБУДЬ!",ai,,5D76BF1044653FC18E3D679A7BD91808
@@ -45,7 +45,7 @@ Jorge,There! Got it! Got it. Let me check the pressure...good. It's in there.,В
 Eli,What was that?,Что это было?,ai,,FBAFA4BC4A00B632CDBC72A53B46675D
 Eli,You sure? It's completely contained?,Ты уверен? Оно полностью изолировано?,ai,,A600751E4A7058091AC09CB5A2D3296C
 Eli,Did...did you see that?,Ты... ты это видел?,ai,,52F53E4D4FA33C247C30579F74535F85
-Eli,"Good fucking work, Jorge.","Отличная работа, Джордж.",ai,,047ABF854C6112AF627BB38476D2BFE1
+Eli,"Good fucking work, Jorge.","Чертовски хорошая работа, Джордж.",ai,,047ABF854C6112AF627BB38476D2BFE1
 Jorge,Made the call yet?,Уже позвонил?,ai,,B8E675E0430BC22C844381B353019F69
 Eli,Is the spray doing anything?,Спрей хоть что-то делает?,ai,,857ECCFD408584D927E428862496D914
 Eli,Need any help with containment?,Нужна помощь с изоляцией?,ai,,6DEF5F37475F4F98BD3E28AC78BCC06B
@@ -81,7 +81,7 @@ Jorge,"What was that? What the actual fuck, Eli?","Что это было? Ка�
 Eli,I didn't see it. You tell me.,Я этого не видел. Ты скажи мне.,ai,,A1AEBF6B4A58BEFA4EBC818F9123248F
 Eli,...I guess that's what we're looking for.,"...Думаю, это то, что мы ищем.",ai,,50916F3148196CC6AC1D09AD0B3EE175
 Eli,"Are you okay, man? ","Ты в порядке, чувак?",ai,,2B670EFD473E82985A22DD89EF5882C4
-Jorge,"Sorry doesn't cut it. It's like you have no practical skills whatsoever. Fucking useless, man.","Извини не поможет. У тебя вообще нет практических навыков. Чёртово бессилие, чувак.",ai,,EC88DB7A47F2009A1D280697E1B38F08
+Jorge,"Sorry doesn't cut it. It's like you have no practical skills whatsoever. Fucking useless, man.","Извинениями тут не отделаешься. У тебя вообще нет практических навыков. Чертовски бесполезен, чувак.",ai,,EC88DB7A47F2009A1D280697E1B38F08
 Eli,"Sorry, Jorge. What do we do now?","Извини, Джордж. Что нам теперь делать?",ai,,F3FDB81543D4A88E49105FA98AEE4B57
 Eli,I said I was sorry. Can we move on now?,"Я сказал, что извинился. Можем двигаться дальше?",ai,,2047F3A9437ADE664463AF92A3B84792
 Eli,You know...you could have counted a little faster.,Знаешь... ты мог бы считать немного быстрее.,ai,,84975A4F4E5C5BA2F9314E9B4421721B
@@ -101,16 +101,16 @@ Jorge,"[With no answer, Jorge grabs onto the top of the container, aggressively 
 Eli,"Wait, not yet!","Подожди, ещё нет!",ai,,BACDFF954FE2AAF524FA2394F72F9F55
 Eli,Jorge?! What was that?!,Джордж?! Что это было?!,ai,,F716B6C745FAE6CCCE04CBA25D94A15A
 Jorge,"Shit, man. I don't know. You can tell HQ about this. You owe me one after that stunt you pulled.","Чёрт, чувак. Я не знаю. Ты можешь рассказать об этом штабу. Ты мне должен после этого твоего трюка.",ai,,DEB1DA2142922104DE21E8BD96095978
-Eli,"Wait, I need to tell HQ about this? You're the one who saw it!","Подожди, мне нужно рассказать об этом штабу? Это ты это видел!",ai,,AF5EEB0548B69DF95EE223812DB87846
+Eli,"Wait, I need to tell HQ about this? You're the one who saw it!","Подожди, мне нужно рассказать об этом штабу? Ты же его видел!",ai,,AF5EEB0548B69DF95EE223812DB87846
 Eli,"Sure. You rest, alright?","Конечно. Ты отдохни, ладно?",ai,,29FA0BA34767436F679DB0940C275724
 Eli,What should I tell them?,Что мне им сказать?,ai,,32F073294027E881C5CE06A9D188E667
-Jorge,Don't. Just. Fucking. Don't.,Не надо. Просто. Не надо.,ai,,88CBB1B34A6D4D842E05A994D631C5BF
+Jorge,Don't. Just. Fucking. Don't.,Не надо. Просто. Бля. Не надо.,ai,,88CBB1B34A6D4D842E05A994D631C5BF
 Eli,Chill. We're fine for now. What do we do about our little friend?,Успокойся. Пока всё в порядке. Что нам делать с нашим маленьким другом?,ai,,9CFC755949672D5AA23C08A06723ED77
 Eli,"Alright, alright. I'm sorry. What do we do now?","Ладно, ладно. Извини. Что нам теперь делать?",ai,,BC9FF0E54B5722499ACE71A131158450
 Jorge,"Ugh, fine. I...I guess it might be better to keep quiet 'til we've done some tests. If this is as big as I think it is, they could send in the cavalry to take credit before we can lay claim. But that would be against procedure, so...your call, not mine.","Эх, ладно. Думаю, может, лучше помолчать, пока мы не проведём несколько тестов. Если это настолько важно, как я думаю, они могут прислать подкрепление, чтобы присвоить заслуги, прежде чем мы успеем заявить о них. Но это будет против процедуры, так что... твой выбор, не мой.",ai,,67C90D6B4471A4FED15C5B9083265DA3
 Eli,"Okay, get some rest, Jorge.","Ладно, отдохни, Джордж.",ai,,8071A6D54194D66F67669A9761BDCFCB
 Eli,That doesn't really help me much.,Это мне не особо помогает.,ai,,3A81CEC1485D3A5FABFE98AF6BC2ADBF
-Jorge,Here goes. You better be ready...twisting it...now! Go!,Поехали. Ты лучше будь готов... приоткрываю... сейчас! Давай!,ai,,73D04BBC41E6CD2071C294B621979A99
+Jorge,Here goes. You better be ready...twisting it...now! Go!,Поехали. Будь наготове... приоткрываю... сейчас! Давай!,ai,,73D04BBC41E6CD2071C294B621979A99
 Eli,[Try to see what's inside the pod],"[Попытаться увидеть, что внутри капсулы]",ai,,392781A746B2AEEC1F2D45BAE9AA98CF
 Eli,[Drop the container and shut it],[Бросить контейнер и закрыть его],ai,,B4DC82AB4822484771B114BF70E049DB
 Jorge,"It...I'm not sure. It was dark. Soon as I saw something glisten and lash out at me, I twisted the pod shut as well as I could. It was still reaching for me.","Оно... я не уверен. Было темно. Как только я увидел, как что-то блеснуло и потянулось ко мне, я закрыл капсулу как можно быстрее. Оно всё ещё тянулось ко мне.",ai,,E4FB41C7466595E7AF514D9EB3034C5E
@@ -122,14 +122,14 @@ Eli,Are you hurt?,Ты ранен?,ai,,FA7743924EEB6281373FF89E45186E97
 Jorge,I'm not sure. Not really. I think I'm fine. I don't know. You good?,"Не уверен. Не совсем. Думаю, я в порядке. Я не знаю. Ты в порядке?",ai,,D71B918A4849EFD728E8EDA0AE54744D
 Eli,What do you think? What was that?,Что ты думаешь? Что это было?,ai,,7C61B72A4D098054375F0D909F7AF3FA
 Eli,"I'm alright. ",Я в порядке.,ai,,8A868C6D4CD6F5CE589EB59630794E2C
-Jorge,"I think so. We don't have any time to lose, though - I'll figure out our next steps. You go talk to HQ, alright?","Думаю, да. Но у нас нет времени терять - я разберусь с нашими следующими шагами. Ты иди поговори с штабом, ладно?",ai,,DD61385D4C3CB1EE466C62A6915417D2
+Jorge,"I think so. We don't have any time to lose, though - I'll figure out our next steps. You go talk to HQ, alright?","Думаю, да. Но времени терять нельзя. Я разберусь с нашими следующими шагами. Ты иди поговори со штабом, ладно?",ai,,DD61385D4C3CB1EE466C62A6915417D2
 Eli,You got it.,Понял.,ai,,2645E2514AEE30F6578186AD6506E35D
 Eli,"You doing okay, though?",Ты в порядке?,ai,,2036E3F84752DD2FC85ADA8174946284
 Jorge,We need to lock that thing up. Put it in one of our containment pods.,Нам нужно запереть эту штуку. Поместить её в один из наших изоляционных контейнеров.,ai,,3131181F4B5FF218883A0DA7037BBCBD
 Eli,And then what?,И что потом?,ai,,91180E5941E6ACBB153958B2E8C09A8C
 Jorge,I could say the same about you.,Я могу сказать то же самое о тебе.,ai,,BF061BBC4DD07BA85EE6C6927806CBA8
 Eli,[Leave],[Уйти],ok,,F81C43A3445432DDA0C2EE8BD6A28D59
-Jorge,"Shit, man. I don't know. I need a break. I need to catch my breath. You deal with HQ. I'm too frazzled to deal with their bullshit.","Чёрт, чувак. Я не знаю. Мне нужен перерыв. Мне нужно перевести дух. Ты разберись со штабом. Я слишком измотан, чтобы иметь дело с их ерундой.",ai,,8574438E46EC64D642A806ADA2F912BD
+Jorge,"Shit, man. I don't know. I need a break. I need to catch my breath. You deal with HQ. I'm too frazzled to deal with their bullshit.","Чёрт, чувак. Я не знаю. Мне нужен перерыв. Мне нужно перевести дух. Ты разберись со штабом. Я слишком измотан, чтобы разбираться с их ерундой.",ai,,8574438E46EC64D642A806ADA2F912BD
 Eli,You stay here and rest. I'll take care of it.,Ты останься здесь и отдохни. Я разберусь.,ai,,EB1608F74B318FBD592B58A77A022AA3
 Eli,Ugh. I hate talking to HQ. Fine.,Эх. Ненавижу разговаривать со штабом. Ладно.,ai,,D971BA154D7254DF5562BA9CE4E3343F
 Eli,What should I tell them?,Что мне им сказать?,ai,,92A1D0324CA5F03D2D996387BF8B926D
@@ -189,7 +189,7 @@ Eli,You opened the pod?!,Ты открыл капсулу?!,ai,,50125DB744D2A2B9
 Eli,What the...what are you talking about?,Что за... о чём ты говоришь?,ai,,5AF8369D465292DD349ECAA5456971B5
 Eli,"Alright, what do you need?","Ладно, что тебе нужно?",ai,,2B07DA6441F8E981BED3D498179175F8
 Jorge,"Tough luck. After that stunt you pulled, you owe me one.",Не повезло. После этого твоего трюка ты мне должен.,ai,,282DA3B84B0B14D99DE48EB8269A4C1A
-Eli,Alright - if you say so.,Ладно - если ты так говоришь.,ai,,8B21F10247CEC5CD330070A7A8C96D8F
+Eli,Alright - if you say so.,"Ладно, если ты так говоришь.",ai,,8B21F10247CEC5CD330070A7A8C96D8F
 Eli,Think that thing is what we're supposed to be looking for?,"Думаешь, эта штука - то, что мы должны были искать?",ai,,8A3CE68B4F45535455F635A52F3E57F4
 Jorge,"I don't know. If it was, I wonder if they would have sent just the two of us. Go on, give them a call. I need a breather.","Я не знаю. Если бы это было так, интересно, послали бы они только нас двоих. Давай, позвони им. Мне нужно перевести дух.",ai,,DEBCC7AE43832D5E009655AC3B0035BB
 Eli,Alright. I'll be right back.,Ладно. Я скоро вернусь.,ai,,8C5E7BD149B07A73CAC294BC49AB58B1

@@ -6,7 +6,7 @@ Renee,...We do need to talk about it. At some point.,...Нам всё-таки �
 Renee,Thanks for... keeping my mind off things.,"Спасибо, что... помог мне отвлечься.",ai,,3B2E176245336C19DCDFA1A4AF5B494E
 Renee,(CARING) You sure you don't need any help?,(ЗАБОТЛИВОСТЬ) Точно не нужна помощь?,ai,,0D6D0245467884E55151E792E0DECC3A
 Renee,"(DRIVEN) I'll be in my office, alright?","(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Я буду у себя в кабинете, хорошо?",ai,,C5C27A1E4002F455F424CBBC974410B8
-Renee,(LOGICAL) It's unlike you to offer to clean up after dinner.,(ЛОГИЧНОСТЬ) Это на тебя не похоже - самому вызываться убирать после ужина.,ai,,26F250954A9E692A9971E886F4633634
+Renee,(LOGICAL) It's unlike you to offer to clean up after dinner.,(ЛОГИЧНОСТЬ) Это на тебя не похоже: самому вызываться убирать после ужина.,ai,,26F250954A9E692A9971E886F4633634
 Lukas,"Alright, alright. Yes, miss.","Ладно, ладно. Есть, мэм.",ai,,5C6ABB4646C02437E0BCC7ABF1F0BC7B
 Renee,...I changed my mind. Drop it.,...Я передумала. Забудь.,ai,,92F825594B1D63626473B6B7262D3C62
 Renee,I could get used to this.,К такому я могла бы и привыкнуть.,ai,,F79BD4B6443773750091A49FCD46529D
@@ -65,12 +65,12 @@ Lukas,...You did? And what did you find?,...Правда? И что ты наш�
 Renee,Fires like this usually only occur in West End and the Village.,Такие пожары обычно случаются только в Уэст-Энде и Виллидже.,ai,,5310F3C44953A0590B14D1B3FBE208F0
 Renee,"They never affect...well, certain Kinds.","Они никогда не затрагивают... ну, определённые Виды.",ai,,345582A147E378583D5DD990DDA9226B
 Renee,Every report on these incidents has one thing in common: neglect.,У всех отчётов об этих происшествиях есть кое-что общее: пренебрежение.,ai,,6C687A38402D6696DD227D8C1E60ACF1
-Lukas,"The buildings there are older, aren't they? A little rougher around the edges - seems reasonable that they'd be more of a fire hazard. ","Там ведь здания постарше, да? Немного обшарпанные - логично, что пожароопасность у них выше. ",ai,,050246FF4D6ADFBA2FC2A3B3AF16CFE5
+Lukas,"The buildings there are older, aren't they? A little rougher around the edges - seems reasonable that they'd be more of a fire hazard. ","Там ведь здания постарше, да? Немного обшарпанные: логично, что пожароопасность у них выше. ",ai,,050246FF4D6ADFBA2FC2A3B3AF16CFE5
 Renee,Then why aren't there more fire stations in those areas?,Тогда почему в этих районах не больше пожарных частей?,ai,,4550951240921DE67D6D6F8FACC07EB7
 Renee,"Fires start everywhere, Lukas. But people only seem to die in the poor districts.","Пожары случаются везде, Лукас. Но гибнут люди, похоже, только в бедных районах.",ai,,05CBFBA741A665F6B0C398A34E019776
 Lukas,"Neglect? Renee, this again?","Пренебрежение? Рене, опять ты за своё?",ai,,D61FD5964B681DC7B457C58C631BC5D8
 Renee,"Fire hazards deemed ""not a threat"", literally days before erupting into flames.","Пожароопасные объекты, признанные «не представляющими угрозы», буквально за несколько дней до того, как они вспыхнули.",ai,,C44B35B94175121580C2D3A819861A24
-Renee,The officers always leave too early or arrive too soon.,Офицеры всегда уходят слишком рано или приезжают слишком быстро.,ai,,B93409134A99480A66A5CAB94858100B
+Renee,The officers always leave too early or arrive too soon.,Офицеры всегда то уходят слишком рано, то приезжают раньше времени.,ai,,B93409134A99480A66A5CAB94858100B
 Renee,You know how many footnote disclaimers I've seen to police reports in the past few days?,"Знаешь, сколько оговорок в сносках к полицейским отчётам я видела за последние несколько дней?",ai,,A4A7A54246DA26211EF44DBAA6F5C03F
 Lukas,"I'm sure fires don't care about what Kind you are, Renee.","Уверен, огню всё равно, какого ты Вида, Рене.",ai,,F644BF85473E4226D27DB2B71C1BEB3C
 Renee,"The Apes do, though. That's why they're rulers, right?","А вот Обезьянам - нет. Потому-то они и правят, верно?",ai,,9D9858F8412141985EE570A12F77D27A
@@ -80,18 +80,18 @@ Renee,"Lukas, it's clearly not covered. That's the point.","Лукас, очев
 Lukas,Renee...,Рене...,ai,,A873F81C43D90911AABE0690FD16F03D
 Renee,"It's hardly ever our Kinds, Lukas. And never Apes.","Почти никогда это не наши Виды, Лукас. И никогда - Обезьяны.",ai,,57EF0302455737CBC9A6DB8FFFE74A94
 Lukas,"I'm listening, Renee. Consider that maybe you just don't like my answers.","Я слушаю, Рене. А может, тебе просто не нравятся мои ответы?",ai,,177237D041B1FBCD9B1672A358E68B2E
-Renee,"Sure. It's fine - here, let me start clearing the table.",Конечно. Всё нормально - давай я начну убирать со стола.,ai,,3A4051724EB1EA8DE13D24AF52313D65
+Renee,"Sure. It's fine - here, let me start clearing the table.","Конечно. Всё нормально, давай я начну убирать со стола.",ai,,3A4051724EB1EA8DE13D24AF52313D65
 Renee,"No, your answers just make me worry about us.","Нет, просто от твоих ответов мне за нас тревожно.",ai,,C58418FE4594198F1621539DA5B7B00A
 Renee,"No, you're right. I don't.","Нет, ты прав. Не нравятся.",ai,,B5416F6F41E21B09B829A4B3EF6D1762
 Lukas,"What are you talking about, Renee? What do Apes have to do with this?","О чём ты, Рене? При чём тут Обезьяны?",ai,,CFC5B36A43A63C824E512199BA7B55BC
-Renee,Nothing is being done to stop these fires - these killings.,"Никто ничего не делает, чтобы остановить эти пожары - эти убийства.",ai,,267CB05342299AD180DD098F0459A690
+Renee,Nothing is being done to stop these fires - these killings.,"Никто ничего не делает, чтобы остановить эти пожары и эти убийства.",ai,,267CB05342299AD180DD098F0459A690
 Renee,"The Apes make the rules, Lukas. Follow that line of thought.","Правила устанавливают Обезьяны, Лукас. Додумай эту мысль до конца.",ai,,0EB419014343A498CE95B39C35E381AC
 Lukas,"...So what, the Apes hate half the population? Is that what you're saying? They just want them dead?","...И что, Обезьяны ненавидят половину населения? Ты это хочешь сказать? Просто хотят, чтобы они все умерли?",ai,,E10D32D84A787DFE68E6AEA6CC7D4B23
 Renee,"It's not hate, Lukas. It's indifference.","Дело не в ненависти, Лукас. Дело в безразличии.",ai,,CA795DF44FE71CB2C59642AA2331B632
 Renee,It's about power. That's all it is.,Дело во власти. Только и всего.,ai,,F654655E4CD081374F91AA9DD7F76DBB
 Renee,Yes. I think they do.,"Да. Думаю, хотят.",ai,,570E4B59465146162F356DA70EF20AD5
 Lukas,"Indifference? To the people of the City? You don't really believe that, do you?",Безразличие? К жителям Города? Ты ведь на самом деле так не думаешь?,ai,,87232F53488CF1C57A0B19A8E82F7479
-Renee,"Based on what I'm seeing, I can't help but believe that.","Судя по тому, что я вижу, - не могу думать иначе.",ai,,4E6020C649F5FFFE76FC44BDB0D98781
+Renee,"Based on what I'm seeing, I can't help but believe that.","Судя по тому, что я вижу, не могу думать иначе.",ai,,4E6020C649F5FFFE76FC44BDB0D98781
 Renee,I think comfort breeds apathy. That's all.,"Я думаю, сытая жизнь порождает равнодушие. Вот и всё.",ai,,5068D0DE4412F792E9BFB891B0D8D23C
 Lukas,Power over what? Life and death? So the Apes are evil? Twirling moustaches and burning buildings?,"Власть над чем? Над жизнью и смертью? Значит, Обезьяны - злодеи? Подкручивают усы и поджигают дома?",ai,,0758A6934973BFCCA146D9A0E0FA335D
 Renee,"Don't fucking patronize me, Lukas.","Не разговаривай со мной, блядь, как с ребёнком, Лукас.",ai,,3C7A9A1C4627E55489596E86195941DA
@@ -132,9 +132,9 @@ Renee,"It's a predator district, Lukas. A home for Apes.","Это район х�
 Lukas,"I don't get what you're talking about, Renee. What does this have to do with the fires?","Не понимаю, о чём ты, Рене. При чём тут пожары?",ai,,0BA5F38E4DAEE01C73F827BAF81F26DC
 Renee,"It means roughly half the population, in the eyes of the Apes, is expendable.","Это значит, что примерно половина населения в глазах Обезьян - расходный материал.",ai,,A936804E411FE2A7395E0C8D77055CB9
 Renee,"The Apes make the rules, Lukas. Follow that line of thought.","Правила устанавливают Обезьяны, Лукас. Следуй этой мысли.",ai,,388F8EC1495408B911C215ABF61F4177
-Lukas,"I don't see the problem. I have never felt a problem. I'm just going after my own life experience, Renee.","Я не вижу проблемы. Я никогда не сталкивался ни с какой проблемой. Я просто иду своим путём, Рене.",ai,,CE6E9CDA4FA454D0C7BEF5B890FACC31
+Lukas,"I don't see the problem. I have never felt a problem. I'm just going after my own life experience, Renee.","Я не вижу проблемы. Я никогда не сталкивался ни с какой проблемой. Я просто опираюсь на собственный опыт, Рене.",ai,,CE6E9CDA4FA454D0C7BEF5B890FACC31
 Renee,"Just because it doesn't affect us, doesn't mean it isn't there.","Если это не касается нас, это ещё не значит, что этого нет.",ai,,93B320924EE3D58AA385DE8D3CE645FB
-Renee,"What happened to Stone would never happen to us, Lukas. That's what I mean.","То, что случилось со Стоуном, с нами никогда бы не случилось, Лукас. Вот о чём я.",ai,,C090EADC4387D4BE30CC1991422853AF
+Renee,"What happened to Stone would never happen to us, Lukas. That's what I mean.","Такое, как со Стоуном, с нами никогда бы не случилось, Лукас. Вот о чём я.",ai,,C090EADC4387D4BE30CC1991422853AF
 Lukas,"But not for you, apparently.","Но, похоже, не с тобой.",ai,,D2627D564EAA756AF6EC69B5F62ADDC3
 Renee,"What's that supposed to mean, exactly?",И что это должно значить?,ai,,8A8EFE804A04EEDBAC6A7EB71FB5C0B4
 Renee,Why are you being so hostile about this?,Почему ты так враждебно настроен?,ai,,3091F0CA48475522DC535C88F0483612
@@ -174,7 +174,7 @@ Lukas,"We got this, okay? I'm sure we do. Here...I'll finish up here. Take care 
 Renee,I hope so.,Надеюсь.,ai,,234A9FFD496BBA046D24ACBC25DB3068
 Renee,Thank you.,Спасибо.,ok,,BE8EC4FE490B3E58330EFD8499B33131
 Renee,Will you manage?,Справишься?,ai,,2A4E95FD4A04558D7F5678B270223619
-Lukas,"No, I...here, let me take care of it. I'm not done yet. It was a long day - I think I'll have some more. It's delicious, by the way.","Нет, я... давай я этим займусь. Я ещё не доел. День был долгий - пожалуй, возьму добавки. Очень вкусно, кстати.",ai,,C225D5AE4698307A43BC4F8D6A31071B
+Lukas,"No, I...here, let me take care of it. I'm not done yet. It was a long day - I think I'll have some more. It's delicious, by the way.","Нет, я... давай я этим займусь. Я ещё не доел. День был долгий. Пожалуй, возьму добавки. Очень вкусно, кстати.",ai,,C225D5AE4698307A43BC4F8D6A31071B
 Renee,You sure you'll manage?,Точно справишься?,ai,,27396D8842450A3D385DAD94B105BBFB
 Renee,Alright. Thank you.,Ладно. Спасибо.,ai,,932286FA4F8DF0406336008C7B6BE077
 Renee,[Say nothing],[Промолчать],ai,,252433FA445E89820E8EFDB90DB91AC6
@@ -210,14 +210,14 @@ Renee,Yeah. Love you too.,Ага. Я тебя тоже люблю.,ai,,8BBC52BE4
 Renee,[Leave the table],[Выйти из-за стола],ai,,31D0761D4B9C00E0000EE2BDA0D1DB0B
 Renee,I know.,Я знаю.,ok,,6A63434A4A0C286663941AB27A0F7689
 Lukas,"Renee, you promised.","Рене, ты обещала.",ai,,584E6A754394045F00DAAD99D79B21AE
-Renee,"Well if not now, then when? When's a good time, Lukas?","А если не сейчас, то когда? Когда подходящее время, Лукас?",ai,,73CC26B74BFD2D5F642713814B5DBB28
+Renee,"Well if not now, then when? When's a good time, Lukas?","А если не сейчас, то когда? Когда же, Лукас, будет подходящее время?",ai,,73CC26B74BFD2D5F642713814B5DBB28
 Renee,I know. Fine. I'm sorry.,Знаю. Ладно. Прости.,ai,,6BBE78FB4807DE0EC4DD329F06177FE2
 Lukas,You keep saying that. And I keep telling you that you're imagining things.,"Ты всё время это повторяешь. А я всё время говорю, что тебе мерещится.",ai,,07618A20497C537E0C82C692C1B8F48F
 Renee,Fine. Whatever. I'll start clearing the table.,Ладно. Неважно. Я начну убирать со стола.,ai,,2F9B4EF148A3B4A0626677BE7F5D48CA
 Renee,"Yeah, our communication is great.","Да уж, общаемся мы отлично.",ai,,6E0E001D4EE5F3F907D7AD8684B0BFF1
 Renee,You're not listening to me. You don't listen.,Ты меня не слушаешь. Ты не умеешь слушать.,ai,,B36F69CD445F40390124D4A3A3439358
 Lukas,"I know. You keep saying that, too.",Знаю. Это ты тоже всё время повторяешь.,ai,,5A83499B4AC78FE4D267758299B01810
-Renee,You're right. I do.,Ты прав. Не умею.,ai,,3AFF27584A29360735E341B58F44713C
+Renee,You're right. I do.,Ты прав. Повторяю.,ai,,3AFF27584A29360735E341B58F44713C
 Renee,[Leave him alone],[Оставить его в покое],ai,,3DC10F924F5040F23202A88680FB2B13
 Lukas,"Hey, uh, Renee. Listen.","Слушай, э-э, Рене. Послушай.",ai,,4156517C4A67E243CE8CD0A34AB4AC7F
 Renee,...Mhm?,...Угу?,ai,,ED19DE384653D3663CFF48829427135E
@@ -228,7 +228,7 @@ Renee,[Say nothing],[Промолчать],ai,,BD6E9B054C24692F9053E383086046C3
 Lukas,"What? No, I - yes, I know. I just...need a moment to myself. Just to think over what was said, is all.","Что? Нет, я... да, знаю. Мне просто... нужно немного побыть одному. Просто обдумать всё, что было сказано.",ai,,7A7C8DCC44DD5EF365FEBBA18C6B6722
 Renee,"Alright, I can understand that.","Хорошо, я могу это понять.",ai,,89BC203244D040744DBC79A454ECDDA3
 Renee,[Leave him to it],[Оставить его в покое],ai,,204D485A48C8989C4AA696BAEB24873F
-Lukas,"I get it. You've had a rough, long day too. Here, I'll take care of the dishes and everything once I'm done. You go rest, okay? Love you.","Понимаю. У тебя тоже был тяжёлый, долгий день. Давай я закончу и сам помою посуду и всё остальное. А ты иди отдыхай, ладно? Люблю тебя.",ai,,FA5394C049D661E96286B0B54CA207E0
+Lukas,"I get it. You've had a rough, long day too. Here, I'll take care of the dishes and everything once I'm done. You go rest, okay? Love you.","Понимаю. У тебя тоже был тяжёлый, долгий день. Когда закончу, сам помою посуду и всё остальное. А ты иди отдыхай, ладно? Люблю тебя.",ai,,FA5394C049D661E96286B0B54CA207E0
 Renee,Love you too.,Я тебя тоже люблю.,ai,,CFF8C4AE489132CAB693569E4AD30E07
 Renee,Alright. Sure.,Ладно. Конечно.,ai,,3AEFF83F4FD5E692A401E2AB9F0B6FDA
 Renee,[Say nothing],[Промолчать],ai,,B2D39AC348675C5F41AAD2ACD8B42440
@@ -247,7 +247,7 @@ Lukas,"It's plates and glasses, Renee. I'll be fine.","Это всего лиш�
 Renee,[Nod],[Кивнуть],ai,,B9022C30408C471D83548DAC9BEDBE89
 Renee,"Alright, then.",Ну ладно.,ai,,8F01E9AE484DE62A8DEEA6AB515C6B67
 Renee,Okay. Love you too.,Хорошо. Я тебя тоже люблю.,ai,,F4992602468E984607E88CAFF180236F
-Lukas,"I'd like for it not to come to that. If I get a say in it. Anyway, let me finish up here. You've had a long day, you go rest. Love you.","Мне бы не хотелось, чтобы до этого дошло. Если мне дадут слово. В общем, дай я тут закончу. У тебя был долгий день, иди отдыхай. Люблю тебя.",ai,,AEB36671410784D37FAC6F97EE21EEDF
+Lukas,"I'd like for it not to come to that. If I get a say in it. Anyway, let me finish up here. You've had a long day, you go rest. Love you.","Мне бы не хотелось, чтобы до этого дошло. Если от меня что-то зависит. В общем, дай я тут закончу. У тебя был долгий день, иди отдыхай. Люблю тебя.",ai,,AEB36671410784D37FAC6F97EE21EEDF
 Renee,Do you need any help?,Вам чем-нибудь помочь?,ok,,B83BA63D47F2BF26B8F27DAB17D4A743
 Renee,Love you too.,Я тебя тоже люблю.,ai,,288B59E647FF6667AE00AC962A16E1B0
 Lukas,Alright. Off you go.,Хорошо. Иди.,ai,,B45A12EF41E9A8666ADCD1BEB5A8D881
@@ -280,7 +280,7 @@ Lukas,...Could you pass me the salt?,...Передашь мне соль?,ai,,07
 Renee,[Pass the salt],[Передать соль],ai,,04AB1CBB4F1C727A353C5BB55295F0BE
 Renee,It's closer to you.,Она ближе к тебе.,ai,,6910A7C740D0A1153A8091A37857A500
 Renee,"...The reports, the fire. I can't get it out of my head.","...Отчёты, пожар. Это не выходит у меня из головы.",ai,,2344546349C7E168384C8BB8B002B327
-Lukas,"I see. I suppose that makes sense. Listen, you've had a long day - go lay down. Rest. I'll clear the table. Love you.","Понимаю. Наверное, это естественно. Слушай, у тебя был долгий день - иди приляг. Отдохни. Я уберу со стола. Люблю тебя.",ai,,8CBDE4204213F66260506DB204861521
+Lukas,"I see. I suppose that makes sense. Listen, you've had a long day - go lay down. Rest. I'll clear the table. Love you.","Понимаю. Наверное, это естественно. Слушай, у тебя был долгий день, иди приляг. Отдохни. Я уберу со стола. Люблю тебя.",ai,,8CBDE4204213F66260506DB204861521
 Renee,Alright.,Хорошо.,ok,,F8B1DF0B4221639F900F7E8B5D731C7F
 Renee,Do you need any help?,Вам чем-нибудь помочь?,ok,,F031DCD54C13C3A273092F99856BC3D8
 Renee,Love you too.,Я тебя тоже люблю.,ai,,6C73CD044C06761DDEFBF1A62428207D
@@ -288,7 +288,7 @@ Lukas,"Yeah, I know. I guess that's what worries me. Here, let me clear the tabl
 Renee,Alright.,Хорошо.,ok,,0C777C194CC372DE465F428E30F360FB
 Renee,Do you need any help?,Вам чем-нибудь помочь?,ok,,0EE1AECE40A0713F834692A35AF40817
 Renee,Love you too.,Я тебя тоже люблю.,ai,,9B7AF9EC476D0603B2E8238DBB230F21
-Lukas,"I guess I just have a harder time doing it than you. Here, let me clear the table - you've had a long day. Go rest, okay? I love you.","Наверное, мне просто труднее, чем тебе. Давай я уберу со стола - у тебя был долгий день. Иди отдохни, хорошо? Я тебя люблю.",ai,,56D9CD51483ECA9CBB90C1AF540B0B1F
+Lukas,"I guess I just have a harder time doing it than you. Here, let me clear the table - you've had a long day. Go rest, okay? I love you.","Наверное, мне просто труднее, чем тебе. Давай я уберу со стола. У тебя был долгий день. Иди отдохни, хорошо? Я тебя люблю.",ai,,56D9CD51483ECA9CBB90C1AF540B0B1F
 Renee,Alright.,Хорошо.,ok,,085A30CF416CAFAE421D6BB22A516F46
 Renee,Do you need any help?,Вам чем-нибудь помочь?,ok,,247FE7B3495338591A8275B8C4B2159C
 Renee,Love you too.,Я тебя тоже люблю.,ai,,899EBAEE4BFA865E49EFDDA1C30B2B9F
@@ -355,7 +355,7 @@ Lukas,"I'm doing my best, Renee. I'm trying to help you stay sane and not spiral
 Renee,"Almost 30 people died, Lukas. Conspiracy or not, it was real to them.","Погибло почти тридцать человек, Лукас. Заговор или нет, для них всё было по-настоящему.",ai,,1F3F899E4CDDFEFF0224309263B1E7E3
 Renee,I'm not going to close my eyes and ignore it. I can't.,"Я не стану закрывать глаза и делать вид, что ничего не было. Не могу.",ai,,31E2D86D42389794AB22BFBAE15488E0
 Renee,"You tell me, then. What should I do?",Тогда скажи сам. Что мне делать?,ai,,96E8B24043DADEB267D3B9AFC08C9CBF
-Lukas,"I know what I know, Renee. No more, no less. I know the reports, and I know you. I know you're empathetic, and I know you care. But sometimes there really isn't much you can do.","Я знаю то, что знаю, Рене. Не больше и не меньше. Я знаю отчёты и знаю тебя. Знаю, что ты чуткая и тебе не всё равно. Но иногда сделать действительно ничего нельзя.",ai,,3E4B49E0440F00D252B19B891C65841D
+Lukas,"I know what I know, Renee. No more, no less. I know the reports, and I know you. I know you're empathetic, and I know you care. But sometimes there really isn't much you can do.","Я знаю то, что знаю, Рене. Не больше и не меньше. Я знаю отчёты и знаю тебя. Знаю, что ты чуткая и тебе не всё равно. Но иногда и правда мало что можно сделать.",ai,,3E4B49E0440F00D252B19B891C65841D
 Renee,What a comfortable way to look at life.,Какой удобный взгляд на жизнь.,ai,,241A215C44C900C0BD1661B1895A1A9A
 Renee,"There might be something, and that's enough for me.","Может быть, что-то есть, и мне этого достаточно.",ai,,1CC8AAAA4BDA9EB430AE2AB6B363CA75
 Renee,"So what are you suggesting I do, then?",И что ты предлагаешь мне делать?,ai,,B9EB36F646CB64C7ECAB3C93A7FE2149
@@ -417,13 +417,13 @@ Renee,"It's not just one villian, Lukas. It's an entire system of them.","Это
 Lukas,"Okay, so the system is bad. Same with everyone in it. What's the answer, then? Anarchy?  Move to a private island and hope everyone else does the same?","Ладно, система плоха. И все в ней тоже. Какой тогда ответ? Анархия? Уехать на частный остров и надеяться, что остальные сделают то же самое?",ai,,444C32DA4EC2DA86253E659B2C2F81EF
 Renee,All better ideas than ignoring it.,"Всё лучше, чем закрывать на это глаза.",ai,,A8718F74439E444CDD309A95438C365A
 Renee,[Stay silent],[Молчать],ai,,0FE1D9764DCAD344098438887AFB2EF2
-Renee,"Okay, now you're just being an asshole.","Так, теперь ты просто ведёшь себя как придурок.",ai,,8D851EC8433157301D66558DAFF42088
+Renee,"Okay, now you're just being an asshole.","Так, теперь ты просто ведёшь себя как мудак.",ai,,8D851EC8433157301D66558DAFF42088
 Renee,That's not what I'm saying and you know it.,"Я не это говорю, и ты это знаешь.",ai,,EF6630434B143BD5E042F8AA057BFAFC
 Lukas,And that's good. That's what you should be doing. But you're assuming the worst of people and I don't think you're stopping to consider that some of these people are just doing the best with some really terrible circumstances.,"И это хорошо. Так и надо. Но ты предполагаешь худшее о людях и, по-моему, не задумываешься, что некоторые из них просто делают всё, что могут, в ужасных обстоятельствах.",ai,,EB3F40444C6233738CB5F29EF9A33AD3
 Renee,And I want to fix those circumstances. Why don't you?,А я хочу изменить эти обстоятельства. Почему не хочешь ты?,ai,,E37A039D4C670D734E12519BD58244B0
 Renee,People are dead Lukas. It's a little too late to assume the best.,"Люди погибли, Лукас. Предполагать лучшее уже немного поздно.",ai,,4C19ADEB4EFEE41C486E39AD6F5DD60E
 Renee,[Stare at him],[Уставиться на него],ai,,B17F7ABE4E9E6894EB25D9B7E9D94F6D
-Lukas,"I'm not eating without you, babe! It's been a long, hard day - I need you around. You can tell me about your day, too. Alright?","Я не буду есть без тебя, дорогая! День был долгий, тяжёлый - мне нужно, чтобы ты была рядом. Ты тоже расскажешь о своём дне. Хорошо?",ai,,D6318A8D4E062A97091B06928E7985F6
+Lukas,"I'm not eating without you, babe! It's been a long, hard day - I need you around. You can tell me about your day, too. Alright?","Я не буду есть без тебя, дорогая! День был долгий, тяжёлый. Мне нужно, чтобы ты была рядом. Ты тоже расскажешь о своём дне. Хорошо?",ai,,D6318A8D4E062A97091B06928E7985F6
 Renee,"Alright, fine. Let's eat.","Ладно, хорошо. Давай есть.",ai,,83D3816C4555AC668515BEA7D4F2183F
 Renee,"Hold on, Lukas. I just need a moment.","Подожди, Лукас. Мне просто нужна минутка.",ai,,485C64B74B9B5F983A7B8BB8D012B0DA
 Lukas,"I know, I know. Tell me next time, okay? I'll be more mindful of it, I promise. Now, will you come sit down?","Знаю, знаю. В следующий раз скажи мне, ладно? Я буду внимательнее, обещаю. А теперь, сядешь за стол?",ai,,61FE81084A645239F05487B6F9B0E98B
@@ -449,7 +449,7 @@ Renee,It's what was in the fridge.,"Просто то, что нашлось в 
 Lukas,There will always be things that we don't see eye to eye on. We're different people. I think that's okay. Don't you?,"Всегда будут вещи, в которых мы не сходимся. Мы разные люди. По-моему, это нормально. Не находишь?",ai,,E0CA3D904125E6684B11D5B8D07AC59F
 Renee,"That doesn't mean we can't change, Lukas.","Это не значит, что мы не можем измениться, Лукас.",ai,,FC6A265B4B1AE5293F02DDA57D3D18C2
 Renee,"Not in this case, no. I don't think so.","Не в этом случае, нет. Не думаю.",ai,,37ABE4324EA52506F0A7C6B245ECBB2E
-Renee,I suppose so. Doesn't mean I have to like it.,"Пожалуй. Но это не значит, что мне должно это нравиться.",ai,,650CA7F949BBC826A0ED0DB5D63DEA15
+Renee,I suppose so. Doesn't mean I have to like it.,"Пожалуй. Но это не значит, что мне обязательно это нравиться.",ai,,650CA7F949BBC826A0ED0DB5D63DEA15
 Lukas,"Hey, hun. You all done? Come on, let's have dinner.","Эй, солнышко. Ты закончила? Идём ужинать.",ai,,1701B39C4576B6AD76ECB78BE48194F1
 Renee,Yeah. Let's eat.,Ага. Давай есть.,ai,,4452C2D648F529F72AD0E6B791E8849F
 Renee,"(CARING) It's okay, Lukas. Start without me. I'll join when I'm done.","(ЗАБОТЛИВОСТЬ) Ничего, Лукас. Начинай без меня. Я присоединюсь, когда закончу.",ai,,9CBDA655474FD2F0F49B7DA3CD70BAF7
@@ -470,7 +470,7 @@ Lukas,"Renee, please. It's just...I'm sorry, I know this is important to you. I 
 Renee,"It's not about the article, Lukas.","Дело не в статье, Лукас.",ai,,7F872C35497B7DCCB95244A592C0A077
 Renee,"I care about this, Lukas. I need you to understand that.","Мне это небезразлично, Лукас. Мне нужно, чтобы ты это понял.",ai,,FF8C655549CEC767524D8EA0E28C1291
 Renee,Why not?,Почему нет?,ok,,F2998A104DAB24BB6F4309AF62C672FF
-Renee,"Alright. How about I talk, and you listen?","Ладно. Давай я буду говорить, а ты слушать?",ai,,7DA6BA9C4BC913EAD0F735A2D7667B58
+Renee,"Alright. How about I talk, and you listen?","Ладно. Давай я буду говорить, а ты слушай?",ai,,7DA6BA9C4BC913EAD0F735A2D7667B58
 Lukas,"Yeah, no, I understand that. I get it. I didn't mean it like that. I just mean that this whole thing...you're obsessed with it.","Да нет, я понимаю. Понимаю. Я не это имел в виду. Я просто хочу сказать, что вся эта история... ты зациклилась на ней.",ai,,58B241AA4BE29B698A9C55AA00521268
 Renee,"Of course I am, Lukas. I feel like I'm seeing things clearly for the first time.","Конечно, Лукас. У меня такое чувство, будто я впервые вижу всё ясно.",ai,,FCCE80C144CE973A48B03589707B6AC9
 Renee,"(DRIVEN) I'm seeing this through, Lukas. End of discussion.","(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Я доведу это до конца, Лукас. Разговор окончен.",ai,,49650B024C0D05033D7A649ACBC0FE41
@@ -489,7 +489,7 @@ Renee,(LOGICAL) I can't help it. None of the pieces fit together in any reasonab
 Renee,"(CARING) It's just...all those people, and that fire. I can't stop thinking about it.",(ЗАБОТЛИВОСТЬ) Просто... все эти люди и этот пожар. Я не могу перестать об этом думать.,ai,,CFB343D34C30350E69C343A25E37FD2E
 Lukas,"Why? Why now? I'm sorry, Renee, but I can't help but feel like you're looking for something that isn't there. I don't know what you want me to tell you.","Почему? Почему сейчас? Прости, Рене, но мне кажется, ты ищешь то, чего нет. Не знаю, что ты хочешь от меня услышать.",ai,,8EB7509341451EA60FF5AF82F9D46491
 Renee,"I don't want you to tell me anything, Lukas. I just want you to listen.","Я не хочу, чтобы ты мне что-то говорил, Лукас. Я просто хочу, чтобы ты слушал.",ai,,1D67C9254355155935737C94952B9277
-Renee,"If not now, then when? When is a good time for you, Lukas?","А если не сейчас, то когда? Когда тебе подходит, Лукас?",ai,,8236149644D24D2208FCF29892D60E6A
+Renee,"If not now, then when? When is a good time for you, Lukas?","А если не сейчас, то когда? Когда тебе удобно, Лукас?",ai,,8236149644D24D2208FCF29892D60E6A
 Lukas,"Thank you. I know it's hard. I know you care about it. It's just...I'm here, too.","Спасибо. Я знаю, что это тяжело. Знаю, что для тебя это важно. Просто... я ведь тоже здесь.",ai,,757EA53B4D3AF31F672D77AACC349075
 Renee,"Let's just drop it, okay?","Давай просто оставим это, хорошо?",ai,,0B60228D41BAE879ACEFE5A2174DD630
 Renee,I know. It's fine.,Знаю. Всё в порядке.,ai,,F39EFF704AF71A44D2A8AB94E210073E
@@ -499,7 +499,7 @@ Renee,[Say nothing],[Промолчать],ai,,D5A0C64645F56DBB7B03E881724D2192
 Renee,Don't mention it.,Да не за что.,ok,,2E2F5C38479120CCB46E3887141C1237
 Renee,"Okay, then.",Ну ладно.,ai,,1D3D552F457DCFDB5E2E4B9E2D68CD24
 Lukas,"I'm sorry, hun, I'm just exhausted. Listen, leave the cleanup for later, and I'll take care of it. Okay?","Прости, дорогая, я просто вымотался. Слушай, оставь уборку на потом, я всё сделаю. Хорошо?",ai,,952D29D74928F0ABF23128BD39C48B35
-Renee,Alright. You better.,Ладно. Уж постарайся.,ai,,B38ACBF6486FEAF29F9F239819A2038F
+Renee,Alright. You better.,Ладно. Только сделай.,ai,,B38ACBF6486FEAF29F9F239819A2038F
 Renee,"I'm just about done already, Lukas.","Я уже почти закончила, Лукас.",ai,,059D97B64B50C683E43FA1A4C2535729
 Renee,Hold on. I just need a second.,Погоди. Мне нужна секунда.,ai,,07B3ED3F4F746417C5E54D91A4320A2B
 Lukas,Okay. Alright.,Хорошо. Ладно.,ai,,72DB25EB484FF8F445676B8AA5A0F254
@@ -531,7 +531,7 @@ Renee,"Yes, but this isn't about you.","Да, но речь сейчас не о
 Renee,That doesn't excuse it.,Это ничего не оправдывает.,ai,,D576A94042342F1579E027B4F238DC2A
 Lukas,"I'm sorry, Renee, but people die every day. I see it and I hear about it, every fucking day. I do my best, okay? I try to stop it. And I could do that without listening to you tell me how corrupt my job is.","Прости, Рене, но люди умирают каждый день. Я вижу это и слышу об этом каждый гребаный день. Я делаю всё, что могу, понятно? Я пытаюсь это остановить. И мог бы обойтись без твоих рассказов о том, насколько прогнила моя работа.",ai,,552FE40749E1C395AE51589A49104800
 Renee,"It's not just your job, Lukas. It's the whole government.","Дело не только в твоей работе, Лукас. Дело во всём правительстве.",ai,,532DE70A4A5C41E891309EA77C6FEDD0
-Renee,"It's not personal, Lukas. You aren't your job.","Это не личное, Лукас. Ты не равен своей работе.",ai,,00FD07F34D03126E04D0208E71C3A0BC
+Renee,"It's not personal, Lukas. You aren't your job.","Это не личное, Лукас. Ты не сводишься к своей работе.",ai,,00FD07F34D03126E04D0208E71C3A0BC
 Renee,That's not it. You're just not listening to me.,Дело не в этом. Просто ты меня не слушаешь.,ai,,C82D8FE3446743C00F04B29127F7C3A9
 Lukas,"Renee, I mean this in the nicest way I can - sometimes, it's best to understate.","Рене, я говорю это настолько мягко, насколько могу: иногда лучше преуменьшать.",ai,,BB86233640037DDC879B97A142DEC1D7
 Renee,"What, and ignore what happened?","Что, и закрыть глаза на то, что случилось?",ai,,AD3C523A4F6CCC34DD72119E346E74FD
@@ -574,7 +574,7 @@ Renee,(LOGICAL) I find that answer hard to believe.,(ЛОГИЧНОСТЬ) Мн�
 Lukas,"Gossip? Sure, but if I told you, I'm afraid I'd have to kill you.","Сплетни? Есть, но если я расскажу, боюсь, придётся тебя убить.",ai,,5359C6C5468850CB6210E08AE1C7C230
 Renee,You're much too lawful and valiant for that.,Ты слишком законопослушный и благородный для этого.,ai,,0E187BB544A1E5487CF354AC35229689
 Renee,"Little old me? You wouldn't. ","Меня, такую милую? Ты бы не стал. ",ai,,3A9C8F954DD329177E164296767E9AD3
-Lukas,"That's sweet, honey, but no - don't worry about it. Let's open a bottle and lay down on the couch. I think I just want to rest my legs.","Это мило, дорогая, но нет - не беспокойся. Давай откроем бутылку и поваляемся на диване. Мне просто хочется дать ногам отдохнуть.",ai,,754396F3456D9D092357C182F4448691
+Lukas,"That's sweet, honey, but no - don't worry about it. Let's open a bottle and lay down on the couch. I think I just want to rest my legs.","Это мило, дорогая, но нет, не беспокойся. Давай откроем бутылку и поваляемся на диване. Мне просто хочется дать ногам отдохнуть.",ai,,754396F3456D9D092357C182F4448691
 Renee,"You do that, honey. I still have work to wrap up.","Давай, дорогой. А у меня ещё осталась работа.",ai,,B69E946747A8B280B3E1989495E7A1D4
 Renee,"I could do that, sure.","Конечно, это можно.",ai,,C455986B4AB08431CCE60EBD84F6FB54
 Lukas,"I said, and I quote: ""My wife is pretty busy on Thursday evenings, on account of her deadlines.""","Я сказал, и цитирую: «Моя жена по вечерам в четверг очень занята из-за своих дедлайнов».",ai,,ED38E122418CABEF69533FB85AF33043
@@ -588,7 +588,7 @@ Renee,"He's a hammer, Lukas. So what did you tell him?","Он кувалда, Л
 Lukas,"He asked about Friday. I said the same. He said he had never really realized people have to write the newspaper every day. ""I suppose that's a job, too"", he said. Anyway, I talked us out of it.","Он спросил про пятницу. Я ответил то же самое. Он сказал, что никогда не задумывался, что газету приходится писать каждый день. «Наверное, это тоже работа», - сказал он. В общем, я нас от этого отговорил.",ai,,9D63B2F242E3B17005828F9B1695531D
 Renee,Until he figures out what weekends are.,"Пока он не узнает, что такое выходные.",ai,,A0E421694EDBAE19EEB0748775F6425F
 Renee,My hero.,Мой герой.,ai,,2C38A97F4C9611ABA0D40DB9976B8F42
-Lukas,"Your little quips. Same tone you use when talking about my colleagues - or, more specifically, when making fun of them.","Твои шуточки. Тем же тоном ты говоришь о моих коллегах - точнее, когда издеваешься над ними.",ai,,362F342641862486F741DAA9293920CA
+Lukas,"Your little quips. Same tone you use when talking about my colleagues - or, more specifically, when making fun of them.","Твои шуточки. Тем же тоном ты говоришь о моих коллегах, точнее, когда издеваешься над ними.",ai,,362F342641862486F741DAA9293920CA
 Renee,Should I not?,Не стоит?,ai,,0060BF0A446505E5C524AC9204673319
 Renee,"In my defense, they make it very easy for me. So what did you tell him?",В свою защиту скажу: они сами мне это очень облегчают. Так что ты ему сказал?,ai,,410CC3544B6302329CED18A8408B7DAE
 Lukas,Depends on whether or not they can hear you.,Смотря слышат ли они тебя.,ai,,4152EB0B448197BDB88E6198F872E8A6
@@ -597,10 +597,10 @@ Renee,I'll make sure to whisper. What did you tell him?,Буду шептать.
 Lukas,"Y-yes. I knew that, too.",Д-да. Это я тоже знал.,ai,,6045C6E842DCF3680C7599B1102B1F85
 Renee,"Of course, sweetie.","Конечно, милый.",ai,,5FF5043B44DAF85F30BA5D9AEBB81E13
 Renee,....Mhm.,....Угу.,ai,,99200B0F4004DFE90006C3BB2A787FD5
-Lukas,"Yes - you'll be very, very busy writing. You've got deadlines a-plenty.","Да - ты будешь очень, очень занята писаниной. У тебя дедлайнов хоть отбавляй.",ai,,E6F16D424EBA0740BC6CC6B8634DF3D1
+Lukas,"Yes - you'll be very, very busy writing. You've got deadlines a-plenty.","Да, ты будешь очень, очень занята писаниной. У тебя дедлайнов хоть отбавляй.",ai,,E6F16D424EBA0740BC6CC6B8634DF3D1
 Renee,"Shit, Lukas, don't remind me.","Чёрт, Лукас, не напоминай.",ai,,61628A9443608F17271050B45667D546
 Renee,"That's a relief. ","Какое облегчение. ",ai,,03EE1E684D496FC647555C8E0C361560
-Renee,"Look at you, thinking on your feet, making excuses.","Надо же, как быстро соображаешь - отговорки придумываешь.",ai,,08AA7ACB4AF0651A650EE3B9EFBD229B
+Renee,"Look at you, thinking on your feet, making excuses.","Надо же, как быстро соображаешь: отговорки придумываешь.",ai,,08AA7ACB4AF0651A650EE3B9EFBD229B
 Lukas,"Renee, I just worry. I feel like you're changing, and you're turning away from me. What if this, this whole thing, ends up driving us apart? What then?","Рене, я просто волнуюсь. Мне кажется, ты меняешься и отдаляешься от меня. Что если вся эта история в итоге нас разведёт? Что тогда?",ai,,555105DA42C9B876D182C998E6BD9E23
 Renee,(CARING) We'll talk about it. Figure it out.,(ЗАБОТЛИВОСТЬ) Мы поговорим об этом. Разберёмся.,ai,,813744DE4187F4C747E0509DB1E580E6
 Renee,"(DRIVEN) I can't stop chasing this, Lukas. You know that.","(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Я не могу перестать этим заниматься, Лукас. Ты же знаешь.",ai,,690F3F484AFDEA0C67F7DC89C1A74542
@@ -626,10 +626,10 @@ Lukas,"Be nice. It was nice of him to ask, at least. Even if he is kind of...you
 Renee,It's been a slow day. Not much progress.,День был вялый. Особых успехов нет.,ai,,FB3F7CC54ADAED99A257DF8151D2CDE2
 Renee,I'm glad you brought it up. I actually wanted to talk to you about it.,"Хорошо, что ты заговорил об этом. Я как раз хотела с тобой это обсудить.",ai,,D10436B340723E9F52FDCEA7E6C99BF0
 Renee,You sure you want to talk about it?,"Ты уверен, что хочешь об этом говорить?",ai,,B3F01891431E01F1C43D8A8B9FC90A68
-Lukas,"You should, you're a writer. And that's exactly what you'll be doing, every night of this week and the next - and you'll be much too busy for dinners.","Так и надо, ты же писательница. Именно этим ты и будешь заниматься каждый вечер на этой неделе и на следующей - и будешь слишком занята для ужинов.",ai,,B3129F8A451566AF70B07C9F5705FF32
+Lukas,"You should, you're a writer. And that's exactly what you'll be doing, every night of this week and the next - and you'll be much too busy for dinners.","Так и надо, ты же писательница. Именно этим ты и будешь заниматься каждый вечер на этой неделе и на следующей, и будешь слишком занята для ужинов.",ai,,B3129F8A451566AF70B07C9F5705FF32
 Renee,"Shit, Lukas, don't remind me.","Чёрт, Лукас, не напоминай.",ai,,5F02B70F4B98D24633CBBD9751AB0E28
-Renee,I'm relieved to hear it.,Мне стало легче от этих слов.,ai,,CF691E1B49F6B34872F7E89ACDFDCCE2
-Renee,"Look at you, thinking on your feet, making excuses.","Надо же, как быстро соображаешь - отговорки придумываешь.",ai,,4FD5040943E258F032224E82AB78BE89
+Renee,I'm relieved to hear it.,Рада это слышать.,ai,,CF691E1B49F6B34872F7E89ACDFDCCE2
+Renee,"Look at you, thinking on your feet, making excuses.","Надо же, как быстро соображаешь: отговорки придумываешь.",ai,,4FD5040943E258F032224E82AB78BE89
 Lukas,"I...no, I don't suppose it does. I just - I don't like the idea of this driving us apart.","Я... нет, наверное, нет. Просто мне не нравится мысль, что из-за этого мы отдалимся друг от друга.",ai,,37B04D2E4F2BCF7C4D088AA52C3D8D07
 Renee,(CARING) We'll talk about it. Figure it out.,(ЗАБОТЛИВОСТЬ) Мы поговорим об этом. Разберёмся.,ai,,E89C420D4E11E159C0D2A19B7BADEFA5
 Renee,"(DRIVEN) I can't stop chasing this, Lukas. You know that.","(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Я не могу перестать этим заниматься, Лукас. Ты же знаешь.",ai,,C96E921F407796E2A1597FA3DF4310B4
@@ -643,7 +643,7 @@ Lukas,"Come on, Renee. I'd burn the house down if even I tried boiling water for
 Renee,"(CARING) I know you're tired after work, Lukas. But maybe you could start cooking on the weekends?","(ЗАБОТЛИВОСТЬ) Я знаю, что ты устаёшь на работе, Лукас. Но, может, начнёшь готовить по выходным?",ai,,D53BE24343E46E79FE770D81B2F03C23
 Renee,"(LOGICAL) Honestly, that'd be more impressive than anything.","(ЛОГИЧНОСТЬ) Честно говоря, это впечатлило бы больше всего остального.",ai,,844DD635492471E103053BBC2A8A4F52
 Renee,(DRIVEN) You could teach yourself how to cook. That's what I had to do.,(ЦЕЛЕУСТРЕМЛЁННОСТЬ) Ты мог бы сам научиться готовить. Мне пришлось.,ai,,37FE8DA14310FB79B64A84AB6536C8CD
-Lukas,"If you want to take a chance on the slowest pupil in the City, then sure. Just tell me when class is in session.","Если готова рискнуть с самым бестолковым учеником в Городе - пожалуйста. Только скажи, когда начнутся занятия.",ai,,F8A200F4423B824E507CD99A4B36F6F0
+Lukas,"If you want to take a chance on the slowest pupil in the City, then sure. Just tell me when class is in session.","Если готова рискнуть с самым бестолковым учеником в Городе, пожалуйста. Только скажи, когда начнутся занятия.",ai,,F8A200F4423B824E507CD99A4B36F6F0
 Renee,"Sure, but you better pay attention. Or else.","Конечно, но ты уж слушай внимательно. А то хуже будет.",ai,,A60CA8C64E44656D7E81AE9A8AAFE0F2
 Renee,"As long as you call me Miss, you'll be fine.","Пока ты зовёшь меня «мисс», всё будет хорошо.",ai,,99982C2D4397F67FEAD98F9299DCA2EC
 Lukas,"Maybe not in the way you'd like them to. I'm sorry, Renee, but I think you're grasping at straws.","Может, и не так, как тебе хотелось бы. Прости, Рене, но мне кажется, ты хватаешься за соломинку.",ai,,FAF8FF74445E83ED2BCC08B8332D08AB
@@ -667,7 +667,7 @@ Renee,[Say nothing],[Промолчать],ai,,7770F1714582914DE82472A33E34A9C2
 Lukas,"I'll be honest, Renee. I really don't see it. I didn't even really believe you did, back when you first brought it up. It all seemed like a series of coincidences and guesswork, and I'm not sure anything has changed other than your growing obsession to make this...a thing.","Буду честен, Рене. Я правда этого не вижу. Я даже не особо верил, что ты видишь, когда ты только об этом заговорила. Всё выглядело как цепочка совпадений и догадок, и я не уверен, что что-то изменилось, кроме твоей растущей одержимости сделать из этого... событие.",ai,,08BB184E48F30A372AA9BDA9C63616E0
 Renee,"People died, Lukas. It's not just ""a thing"".","Люди погибли, Лукас. Это не просто «событие».",ai,,E590AF5744EA2312E2BCD4B8A569EE7B
 Renee,"Things change, Lukas. More things come to light.","Всё меняется, Лукас. Всплывает всё больше.",ai,,9BC79D1748EE11728A70D59CCA0CAE11
-Renee,You've certainly become more defensive about it.,Зато ты определённо стал занимать оборону.,ai,,B32A1F5D4F84F5A485AB0ABD65353100
+Renee,You've certainly become more defensive about it.,"А ты, похоже, определённо стал обороняться.",ai,,B32A1F5D4F84F5A485AB0ABD65353100
 Lukas,"I...look, Renee. When you brought this up a while ago, I agreed. Something was off. Something was weird. But every oddity I looked into had an answer. Maybe not the ones we hoped for, or expected, but all accounted for. It was unfortunate. Sometimes that's that.","Я... слушай, Рене. Когда ты заговорила об этом в первый раз, я согласился. Что-то было не так. Что-то было странное. Но у каждой странности, которую я проверил, нашлось объяснение. Может, не то, на которое мы надеялись или которое ожидали, но все они были объяснены. Это печально. Иногда так бывает.",ai,,87AE652B4D6494540B2D65A25B74A92A
 Renee,What's your point?,К чему ты ведёшь?,ai,,94122CFE41BFFBE4DDD4498B873671BD
 Renee,"Unfortunate is a fucking understatement, Lukas.","«Печально» - это, блядь, мягко сказано, Лукас.",ai,,F6DF82414F67B4B91086C49A88900C58
@@ -703,7 +703,7 @@ Renee,It's fine. Whatever. Let's just drop it.,Ладно. Неважно. Да�
 Lukas,"Okay, okay! I'll do my utmost, alright?","Ладно, ладно! Сделаю всё, что в моих силах, хорошо?",ai,,D22F980F4BDFB87BB699D38045E20247
 Renee,[Squint],[Прищуриться],ai,,BB2EE4EB4EA620E0BF200C80C09DD161
 Renee,I've heard that before.,Я это уже слышала.,ai,,99762E9942CA35582DB9F1AD5E8ACBF6
-Renee,Good. I'll hold you to it.,Хорошо. Я буду тебе об этом напоминать.,ai,,23E33ECF4CF6065A105585AC026C64FD
+Renee,Good. I'll hold you to it.,Хорошо. Я с тебя спрошу.,ai,,23E33ECF4CF6065A105585AC026C64FD
 Lukas,"I mean it, honey. Now, tell me about your day. What have you been up to?","Я серьёзно, дорогая. А теперь расскажи о своём дне. Чем ты занималась?",ai,,7A09612143662CA522C578BBC2CBF1BA
 Renee,It's been a slow day. Not much progress.,День был вялый. Особых успехов нет.,ai,,F54BBD434DD63E411245CFADCFFF8544
 Renee,I'm glad you brought it up. I actually wanted to talk to you about it.,"Хорошо, что ты заговорил об этом. Я как раз хотела с тобой это обсудить.",ai,,DB6486E6405451179687188002ECA72D
@@ -714,10 +714,10 @@ Renee,I'm glad you brought it up. I actually wanted to talk to you about it.,"Х
 Renee,You sure you want to talk about it?,"Ты уверен, что хочешь об этом говорить?",ai,,A5776B4A479839BAFE5652B95980B4D8
 Lukas,"I'm sure of it. Now, if you're done with your inquisition, why don't you tell me about your day?","Я в этом уверен. А теперь, если ты закончила свой допрос, почему бы тебе не рассказать о своём дне?",ai,,F1CD1C5B49E888D8FCD721B5F8A6AB9A
 Renee,It's been a slow day. Not much progress.,День был вялый. Особых успехов нет.,ai,,14E8B6584FB2883E56CC2BA846E415DE
-Renee,I'm glad you brought it up - I wanted to talk to you about it.,"Хорошо, что ты заговорил об этом - я как раз хотела с тобой это обсудить.",ai,,FA303B4F417DB809AC4048BC2D7C8724
+Renee,I'm glad you brought it up - I wanted to talk to you about it.,"Хорошо, что ты заговорил об этом. Я как раз хотела с тобой это обсудить.",ai,,FA303B4F417DB809AC4048BC2D7C8724
 Renee,You sure you want to talk about it?,"Ты уверен, что хочешь об этом говорить?",ai,,188F6DE948FAA8AA9E4C5D810AD60D23
 Lukas,"You'd like that, I bet.","Тебе бы это понравилось, готова поспорить.",ai,,9E231690454284CC4A832DA684E01591
-Renee,"Point is that you need to start pitching in more. Got it, buster?","Суть в том, что тебе нужно помогать больше. Понял, приятель?",ai,,3AD234F54985C68E5C74279196E6F5F1
+Renee,"Point is that you need to start pitching in more. Got it, buster?","Короче, тебе нужно больше помогать. Понял, приятель?",ai,,3AD234F54985C68E5C74279196E6F5F1
 Renee,Not as much as you would.,"Не так сильно, как тебе.",ai,,97FB4A6544510C8EA2B51EBBD823883C
 Renee,"""I bet, Miss.""","«Не сомневаюсь, мисс».",ai,,778B6A534FDBEABBA90405B6E5641B5B
 Lukas,You being serious?,Ты серьёзно?,ai,,BBCC34724C1261FE3CE5BDB444A5169A

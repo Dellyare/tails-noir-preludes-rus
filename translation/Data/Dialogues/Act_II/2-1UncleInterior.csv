@@ -105,7 +105,7 @@ Clarissa,"What, I should wait politely?","Что, мне надо вежливо
 Clarissa,It's Grandpa's funeral. Of course I'm a little on edge.,"Это похороны дедушки. Конечно, я немного на взводе.",ai,,DA6269794D87275B949F57A5516FAC4C
 Uncle Clemence,"You should. You don't have to like, or even respect them. But you should care. And know who they are. ","Стоит. Любить их или даже уважать не обязательно. Но считаться с ними нужно. И знать, кто они такие. ",ai,,1798568A4C6A1E8E1C1244B488F301BC
 Clarissa,And feed their egos? No thank you.,"И потакать их самолюбию? Нет, спасибо.",ai,,5B9066AD4C9AF182DFC4279E6DB674E4
-Clarissa,"When they return the favor, I will.",Когда они ответят тем же - потакну.,ai,,53B19A86449D9C9E11ADA2908AF1E012
+Clarissa,"When they return the favor, I will.","Когда они ответят тем же, потакну.",ai,,53B19A86449D9C9E11ADA2908AF1E012
 Clarissa,Fine. Doesn't mean I have to like it.,"Ладно. Но это не значит, что мне это должно нравиться.",ai,,50C8330C4E519A04E91ACA8D47B01945
 Uncle Clemence,I'm sure they'll take notice once you grow up. In more ways than one.,"Уверен, они тебя заметят, когда ты вырастешь. И не только в этом смысле.",ai,,1239C2EE481069F2B849C486851B4CA5
 Clarissa,How do you deal with all this?,Как ты справляешься со всем этим?,ai,,F24D615D435513FC3E376B8892C70468
@@ -113,7 +113,7 @@ Clarissa,Doesn't it get to you? All of this?,Тебя это не задевае
 Uncle Clemence,"No, it doesn't. And I'm sorry about that.","Нет, не задевает. И мне жаль, что так.",ai,,FFB9F4314291C7DA14EAE6BC30130DFB
 Clarissa,Not your fault. How do you deal with all this?,Это не твоя вина. Как ты справляешься со всем этим?,ai,,CB741F9F43FEE84BDDCDB29748172728
 Clarissa,Doesn't it get to you? All of this?,Тебя это не задевает? Всё это?,ai,,51DD28324150EDFE654197AC3E74B108
-Uncle Clemence,"The game is old as time, Clarissa. If you want to beat them, you have to play along.","Эта игра стара как мир, Кларисса. Хочешь победить - играй по правилам.",ai,,F00BF14049601ECA69559BB9E33957A5
+Uncle Clemence,"The game is old as time, Clarissa. If you want to beat them, you have to play along.","Эта игра стара как мир, Кларисса. Хочешь победить, играй по правилам.",ai,,F00BF14049601ECA69559BB9E33957A5
 Clarissa,Is that how you deal with all this?,Так ты со всем этим и справляешься?,ai,,BDE590B64E0B32E2D4D1C1A7295BBB77
 Clarissa,Doesn't it get to you? All of this?,Тебя это не задевает? Всё это?,ai,,3ADD774248A3F59D4F61A7A48DE9A6D9
 Uncle Clemence,"Listen, I don't want to lecture you, especially after a sermon like that. But standing your ground is not the same thing as enforcing your will.","Слушай, я не хочу читать тебе нотации, тем более после такой проповеди. Но стоять на своём - не то же самое, что навязывать свою волю.",ai,,E59FF2224514E6BFB233D08AD0503003
@@ -127,7 +127,7 @@ Clarissa,"Doesn't seem very fair, does it?","Несправедливо, пра�
 Uncle Clemence,"Don't you worry about me, sweetie. You've got plenty on your own plate. Keep a level head and focus on that.","Не волнуйся за меня, милая. У тебя и своих забот хватает. Сохраняй холодную голову и думай о них.",ai,,CEC680C74B36414872A2EE85F7C1BC3A
 Clarissa,So what's going to happen now?,Так что теперь будет?,ai,,7CA6FF9148632FC02F55A3AE11B5E5F4
 Clarissa,What did you think of the funeral?,Как тебе похороны?,ai,,E9421E5940A6B5FCACAD5FA183FA9D13
-Uncle Clemence,"Hah - if only it were as easy as you make it sound! No, Clarissa - myself and the family are synonymous. What the family does, I do. That's how it's always been.","Ха - если бы всё было так просто, как ты говоришь! Нет, Кларисса, я и семья - одно целое. Что делает семья, то делаю и я. Так было всегда.",ai,,E8672A114DFB75A4071DCF9581FCB99B
+Uncle Clemence,"Hah - if only it were as easy as you make it sound! No, Clarissa - myself and the family are synonymous. What the family does, I do. That's how it's always been.","Ха, если бы всё было так просто, как ты говоришь! Нет, Кларисса, я и семья - одно целое. Что делает семья, то делаю и я. Так было всегда.",ai,,E8672A114DFB75A4071DCF9581FCB99B
 Clarissa,So what's going to happen now?,Так что теперь будет?,ai,,C76D3A454845673B331314B205AAAA33
 Clarissa,What did you make of the funeral?,Что ты думаешь о похоронах?,ai,,4BFAC73240DD6279D32F8B90B7A64B18
 Uncle Clemence,I miss your grandfather. But things are about to change and very soon. Whether that will be for the better remains to be seen.,"Я скучаю по твоему дедушке. Но всё скоро изменится, и очень скоро. К лучшему ли - ещё посмотрим.",ai,,AEC4D37B441532045A16BD8E138CD260
@@ -172,7 +172,7 @@ Uncle Clemence,"It's not so bad, Clarissa. It's far from an easy life, but then 
 Clarissa,Where's my father?,Где мой отец?,ai,,BE4F4580495832FC5EED86AE07ABC23F
 Clarissa,(AMBITIOUS) I don't want an easy life. I just want a life of my own.,(АМБИЦИОЗНОСТЬ) Мне не нужна лёгкая жизнь. Мне нужна своя собственная.,ai,,B3A72217417B90DB7D4B728D9D7B6E70
 Clarissa,(CUNNING) Easy is as easy does. I'm sure I could combine the two.,"(ХИТРОСТЬ) Что легко даётся, то легко и берётся. Думаю, я сумею совместить одно с другим.",ai,,ECAE30E2419FA417F087FEBA5D2AC3EA
-Clarissa,"(POWERFUL) Damn right. If you want something out of life, you have to claim it yourself.",(ВЛАСТНОСТЬ) Чертовски верно. Хочешь чего-то от жизни - бери сама.,ai,,91E322514C6CBACC9A8D65A0594A358A
+Clarissa,"(POWERFUL) Damn right. If you want something out of life, you have to claim it yourself.","(ВЛАСТНОСТЬ) Чертовски верно. Хочешь чего-то от жизни, бери сама.",ai,,91E322514C6CBACC9A8D65A0594A358A
 Uncle Clemence,"Could be. He will be running the family, Clarissa. You'll need to...show him more respect.","Возможно. Он будет управлять семьёй, Кларисса. Тебе придётся... проявлять к нему больше уважения.",ai,,89064CA042E9F02D763522AF7B3CC499
 Clarissa,"Oh, I'll show him something.","О, я ему кое-что проявлю.",ai,,01A95BD14374181281A792B65D9C40CC
 Clarissa,And when did he leave?,А когда он ушёл?,ai,,8FFDAA6040E0748000ECFF84AAF85011

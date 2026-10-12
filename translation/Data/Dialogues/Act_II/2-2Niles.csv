@@ -169,7 +169,7 @@ Howard,[Do a little dance],[Станцевать небольшой танец],
 Niles,Smooth Nikki? Really? I didn't take you for the sort. I suppose it's decent background music.,"Смуф Никки? Серьёзно? Не думал, что ты из таких. Как фоновая музыка, пожалуй, сойдёт.",ai,,FFF1F47647FF85F1DE91E8AAC2837EF2
 Howard,I kinda like it.,Мне вроде нравится.,ai,,3128FD5C4D2B7C0C891055B065E2B235
 Howard,Agree to disagree.,Останемся при своём.,ai,,6AD88FCF40C982E37B118A9A4AC4F904
-Howard,"I just like chilling, man. You should try it.","Мне просто нравится расслабляться, чувак. Тебе тоже стоит попробовать.",ai,,7794D9914A0A7BE2D38B4692DBAB7312
+Howard,"I just like chilling, man. You should try it.","Мне просто нравится расслабляться, чувак. Тебе стоит попробовать.",ai,,7794D9914A0A7BE2D38B4692DBAB7312
 Howard,You know what? You're kind of right.,Знаешь что? Ты вроде как прав.,ai,,F6775DC14CABB9E12F08FDBF62515897
 Niles,"There it is! That's the kind of directness you so rarely see. Alright, Howard. A step in the right direction.","Вот оно! Вот такой прямоты так редко встретишь. Ну что ж, Говард. Шаг в правильном направлении.",ai,,7EF99287444F64DF2E0B6BAF73A5AAA0
 Howard,Really? It was that easy?,Правда? Всё так просто?,ai,,A20A5374428E707A62A927A19BF4D88B
@@ -177,7 +177,7 @@ Howard,[Wink],[Подмигнуть],ai,,7A54521E4363F6CE456CC08498BC00C6
 Niles,"Tell me, what's your follow-up? How do you plan to move things forward post-flirt?","Скажи, а что дальше? Как ты собираешься развивать события после флирта?",ai,,83364D7C462E6A1B46ABC683A992F18A
 Howard,I'll keep at it until it works. Perseverance is key.,"Буду стараться, пока не сработает. Главное - упорство.",ai,,927FB77D4FCC1CB6FBC419BCDAB37093
 Howard,How about dinner?,Как насчёт ужина?,ai,,293D3D6E45A2D132850D3CB6D2DF09C3
-Howard,"Oh, I'm done. Next step is that you come to me.",Я своё сделал. Следующий шаг - ты приходишь ко мне.,ai,,920D3C9249536F2F90B887AA75EA705F
+Howard,"Oh, I'm done. Next step is that you come to me.",Я своё сделал. Следующий шаг: ты приходишь ко мне.,ai,,920D3C9249536F2F90B887AA75EA705F
 Niles,So your plan is to wear people down. Charming.,То есть твой план - изматывать людей. Очаровательно.,ai,,87537C974FE87D2F950EAEA3969CBC69
 Howard,Should I back off?,Мне отступить?,ai,,84A0CC6549790DA55547088476BAD269
 Howard,No. Just showing that I'm committed.,"Нет. Просто показываю, что настроен серьёзно.",ai,,0AD9147F4CC982E4678EFD93A8C2D113
@@ -202,7 +202,7 @@ Howard,Maybe you will.,"Может, и согласишься.",ai,,9F1AB9ED44A1
 Howard,[Wink],[Подмигнуть],ai,,D2F3077943DFC8CBB188B9B192A4FCAB
 Howard,You most certainly will. I know it.,Ты определённо согласишься. Я знаю.,ai,,333CFC5C41026F28C18BD59B3B94C3E1
 Niles,"You're flirting with me? You sure about that, Howard? You don't think Larry or Freja are more your speed?","Ты со мной флиртуешь? Уверен, Говард? Не думаешь, что Ларри или Фрея тебе больше подходят?",ai,,7EB84E31408AF303A074C48F6F865153
-Howard,Freja's cool. But I'm interested in you.,Фрея классная. Но мне интересен ты.,ai,,6F20833943C346C89F7F6897E9E09CE5
+Howard,Freja's cool. But I'm interested in you.,Фрея классная. Но ты мне интересен.,ai,,6F20833943C346C89F7F6897E9E09CE5
 Howard,Hush. I'm into Niles.,Тсс. Мне нравится Найлс.,ai,,F92EF7C841D8C992024DFA9D28B85E7F
 Howard,"Larry doesn't do flirting. The question is, do you?","Ларри не флиртует. Вопрос в том, флиртуешь ли ты.",ai,,40ABBBE54CEE00F5395709BB44D41B61
 Niles,"Sure, then. Let's see what you've got.","Ну ладно. Посмотрим, что у тебя есть.",ai,,F47955A54D4AD7EB70E8FFA8E8B366E1
@@ -212,7 +212,7 @@ Howard,Have you been on any hot dates lately?,Ты в последнее вре�
 Niles,I can't quite tell what you're listening to. It's like you never put on a new record.,"Не пойму, что вы там слушаете. Такое ощущение, что вы никогда не ставите новых пластинок.",ai,,A281F2924B7F98D83FE6458502EF28AD
 Howard,Weird. Almost like I broke something.,Странно. Как будто я что-то сломал.,ai,,79E88DF1421DEEED7CFF5FBBD038C54C
 Niles,Yes. There's no money or care going into our programs - our faculty is here because it looks good on paper to have a cultural institution within the university. That's it.,"Да. В наши программы не вкладывают ни денег, ни заботы: преподаватели здесь только потому, что на бумаге хорошо смотрится культурное учреждение при университете. И всё.",ai,,FA86B5E14EFC6565CE41A285848757AB
-Howard,You're right - I can see that now.,Ты прав - теперь я это вижу.,ai,,2C92956748FC77A1BADE1E9365168F83
+Howard,You're right - I can see that now.,"Ты прав, теперь я это вижу.",ai,,2C92956748FC77A1BADE1E9365168F83
 Howard,"That's a really cynical perspective, Niles.","Очень циничный взгляд, Найлс.",ai,,92C0A09846709BD8BD3E37A43A4DBC3F
 Howard,And I'm just here because I want to make art.,"А я здесь просто потому, что хочу делать искусство.",ai,,3D831A9C4FCADE582066D1BAE7AE0EAF
 Niles,Because it's the way it is. There's no denying it.,Потому что так оно и есть. Не поспоришь.,ai,,E47D7311447426E9CDB4FA8E14DBF3D2
@@ -277,13 +277,13 @@ Howard,"Try what, exactly?",Что попробовать-то?,ai,,3D75E5E3420F
 Niles,You're trying too hard. Let it go and try something else.,Ты слишком стараешься. Брось это и попробуй что-нибудь другое.,ai,,840470BF4D1CD6E7A519899EA22DF6C8
 Howard,Sure. Try me.,Конечно. Проверь меня.,ai,,DE751A39481DCEC69F7F9D9271DC1607
 Howard,[Shrug],[Пожать плечами],ai,,56F5C7A948B11A8698C5E886A39CBD8B
-Niles,I see you don't assume things either - I can respect that. Among other things.,"Вижу, ты тоже не делаешь предположений - это я уважаю. Среди прочего.",ai,,9A94DAC143427B00DA5F3A89AEF91CE0
+Niles,I see you don't assume things either - I can respect that. Among other things.,"Вижу, ты тоже не делаешь предположений, и это я уважаю. Среди прочего.",ai,,9A94DAC143427B00DA5F3A89AEF91CE0
 Howard,[Wink],[Подмигнуть],ai,,898FC4F24BF824C08011E48D5D093535
 Howard,"I too, respect...uh, other things.","Я тоже уважаю... э-э, другие вещи.",ai,,9561458346EC8203242CA3A2F92AC2C6
 Niles,Loud and clear. Do you?,Принято чётко. А ты?,ai,,6EBB37934B39F73BC24FF9AC090E95BC
 Howard,"""LoUd aNd CleAr."" Fuck off.",«ПрИнЯто чЁтКо». Отвали.,ai,,0EF3879C4CE5EBF0C172CDA6318254B2
 Howard,Let's just drop it.,Давай просто забудем.,ai,,D1B704CD46D0CF6805D2A381F38DC160
-Niles,"Us freeing ourselves, in any and all ways. Starting with the individual and spreading to the collective. Nowhere is that clearer than leaving this institution behind.","Мы освобождаемся - всеми возможными способами. Начиная с личности и распространяясь на коллектив. Яснее всего это видно в том, чтобы оставить это учреждение позади.",ai,,C4DD34604C93CE313515B48C7357AE8D
+Niles,"Us freeing ourselves, in any and all ways. Starting with the individual and spreading to the collective. Nowhere is that clearer than leaving this institution behind.","Мы освобождаемся всеми возможными способами. Начиная с личности и распространяясь на коллектив. Яснее всего это видно в том, чтобы оставить это учреждение позади.",ai,,C4DD34604C93CE313515B48C7357AE8D
 Howard,You sound bitter.,Ты говоришь с горечью.,ai,,3D55DEB94DA75EAD0109F984AC8E54FD
 Howard,"...I don't know, man. I just like to create stuff.","...Не знаю, чувак. Мне просто нравится что-то создавать.",ai,,64C58528419EF8373013DFA63C9F3EED
 Howard,We go to art school to leave art school?,"Мы поступаем в художественный вуз, чтобы уйти из него?",ai,,4FC12438495D57A08C945BA679405EEE
@@ -363,7 +363,7 @@ Howard,"...Or, you know, it's whatever. It's fine.","...Или, ну, да ла�
 Niles,"Amazing. Let's drop this ridiculous cake thing, then.",Отлично. Тогда оставим эту нелепую историю с тортом.,ai,,A77644D5419B0000DE83D3BBBBA62A36
 Howard,"[Firm, serious, and mature nod.]","[Твёрдый, серьёзный и зрелый кивок.]",ai,,2F50D58846A83C1500A6CB95031F21F2
 Howard,[Sad nod],[Грустный кивок],ai,,AC26312B45DFCEEA7A1086920E708D01
-Niles,Evidently. Which makes the original suggestion even more confounding. Let's drop the whole thing.,Очевидно. Что делает первоначальное предложение ещё более непонятным. Забудем всё это.,ai,,675C12134D551651E768A1BFF427972B
+Niles,Evidently. Which makes the original suggestion even more confounding. Let's drop the whole thing.,Очевидно. От этого первоначальное предложение становится ещё непонятнее. Забудем всё это.,ai,,675C12134D551651E768A1BFF427972B
 Howard,It's your party...,Твоя вечеринка...,ai,,673B12EE4D8050FD25C5B38772CB9DDA
 Howard,Sure. Whatever.,Конечно. Как скажешь.,ai,,6818AEF84EAE76B829C116A1F58DF0C7
 Niles,"Not in my experience. Some are proficient, others are not.","По моему опыту, нет. Кто-то в этом силён, кто-то нет.",ai,,B1A30CE04AE92B5E8A8E3D8FDC69D5BD
@@ -394,7 +394,7 @@ Howard,"What's up, man?","Как дела, чувак?",ai,,7B0023C14873248DB21B
 Howard,"Later, Niles.","Пока, Найлс.",ai,,2127BE1D431DA8ADDBA81B98B9847DF6
 Niles,"That's the intended effect, yes.","Такой эффект и задуман, да.",ai,,9EEE9F3D4295AE2BA910AF95C2E6CBCC
 Howard,Great talk.,Отличный разговор.,ai,,8001C06E48DA811095C0B691264FD327
-Howard,And that's a weirdly cold way to look at it.,А это странно холодный взгляд на вещи.,ai,,1DD679CE42B9339B841402A74C62684E
+Howard,And that's a weirdly cold way to look at it.,А смотришь ты на это странно холодно.,ai,,1DD679CE42B9339B841402A74C62684E
 Howard,"Wow, okay. Let's talk about something else.","Ого, ладно. Давай поговорим о другом.",ai,,CBE31D8644FEFB45E9A4D9B87D6B3504
 Niles,"Because you called them ""spicy takes"". We're in university, Howard. Not second grade.","Потому что ты назвал их «острыми мнениями». Мы в университете, Говард. Не во втором классе.",ai,,7D7A8C1046B7F28E9490278C89CB76C8
 Howard,"But if I don't call them spicy, how will people know how smart and controversially groundbreaking I am?","Но если я не назову их острыми, как люди узнают, какой я умный и скандально новаторский?",ai,,28D274C94E50E1E3AE66789A67A3354E
@@ -633,15 +633,15 @@ Howard,A shared perspective is a new perspective.,Общий взгляд - эт
 Niles,"Makes sense to do photography, then.","Тогда понятно, почему фотография.",ai,,73DA309743DB5C35AEC476B38ED810AB
 Howard,Hold up...We're actually agreeing on something?,Погоди... Мы реально в чём-то согласны?,ai,,B531ED784CCFD260E698CD9EDC48EFD9
 Howard,It's a perfect blend of creativity and preservation.,Идеальное сочетание творчества и сохранения.,ai,,6CF90A5747471867B580C6BE4D7DA26D
-Niles,"No, Howard, I do not. We're chasing real art but the only thing we're catching up with is time. The building is dying -  decaying, much like the art being produced inside it.","Нет, Говард, не нравится. Мы гонимся за настоящим искусством, но единственное, что мы настигаем, - это время. Здание умирает - разрушается, как и искусство, которое в нём создают.",ai,,C933FAD048562726991B798E97C42D0F
+Niles,"No, Howard, I do not. We're chasing real art but the only thing we're catching up with is time. The building is dying -  decaying, much like the art being produced inside it.","Нет, Говард, не нравится. Мы гонимся за настоящим искусством, но единственное, что мы настигаем, - это время. Здание умирает, разрушается, как и искусство, которое в нём создают.",ai,,C933FAD048562726991B798E97C42D0F
 Howard,The building is dying?,Здание умирает?,ai,,9E49603C4490BB2BD757AABC20D3CD44
 Howard,So why are you still here?,Тогда почему ты всё ещё здесь?,ai,,B786A68D4CBB73E3FC577985CA3B183E
-Howard,"What's the endgame of being here, then?","А какова конечная цель того, что ты здесь?",ai,,1C95BD2D4E9B2E4066323E88B05DF849
+Howard,"What's the endgame of being here, then?","Так какая у тебя конечная цель, раз ты здесь?",ai,,1C95BD2D4E9B2E4066323E88B05DF849
 Niles,Because I care about the craft. The art itself. Location and circumstance are secondary to the purpose and potential effect of the process itself.,Потому что мне важно ремесло. Само искусство. Место и обстоятельства вторичны по сравнению с целью и потенциальным эффектом самого процесса.,ai,,750844114EB6DFCCC0E071A189744525
 Howard,So you're working under crappy circumstances?,То есть ты работаешь в паршивых условиях?,ai,,31033B05421EEB336AE84CB3C5DE0125
 Howard,That's a lot of words to say that you like to make art.,"Много слов, чтобы сказать, что ты любишь создавать искусство.",ai,,C4B87AD44240143D4F49FBAAA2DC449A
 Howard,And the goal of that process is?,А цель этого процесса?,ai,,4C1652B944C8855432789DB681525E17
-Niles,"Of course not. If anything, it makes us more aware of the impact we have as individuals and the gravity of our personal expression.","Конечно нет. Скорее, это делает нас осознаннее в отношении нашего влияния как личностей и весомости нашего самовыражения.",ai,,E4E624214A0D118ECDC055BDF4D41A5E
+Niles,"Of course not. If anything, it makes us more aware of the impact we have as individuals and the gravity of our personal expression.","Конечно нет. Скорее наоборот: мы лучше осознаём, какое влияние оказываем как личности и насколько весомо наше самовыражение.",ai,,E4E624214A0D118ECDC055BDF4D41A5E
 Howard,"So we make art despite this place, not because of it?","Значит, мы создаём искусство вопреки этому месту, а не благодаря ему?",ai,,03DD892E4D5D9FDCC66B74BEFFB284E3
 Howard,"And what is that impact, exactly?",И каково же это влияние?,ai,,BBC9BAED4532422AB273D9AEEFCDD10E
 Howard,"Uh, yeah. Rock on.","Э-э, ага. Давай, жги.",ai,,486806704EC54BB43AB28D87AF984D91
@@ -660,7 +660,7 @@ Howard,"So what do you mean, then? What's the process for art?",Тогда чт�
 Niles,I didn't think any of those words were long nor fancy.,"По-моему, ни одно из этих слов не было ни длинным, ни вычурным.",ai,,43D80F7049C27905342FB3BCEC4D7B31
 Howard,"...Oh, uh, me neither. Let's talk about something else now.","...А, э-э, я тоже так не думаю. Давай теперь поговорим о другом.",ai,,EDE9EC88489CF7CCC4984FA8F12DD1AB
 Howard,"Whatever, man. I'll see you later.","Да ладно, чувак. Увидимся.",ai,,1EF24DDF468D81AB685F929B9EC61784
-Howard,"No, I just meant in general. So you enjoy the psychology of design?","Нет, я просто в целом. Так тебе нравится психология дизайна?",ai,,60EF7A7D482C0E332BAF87AD0BC8A399
+Howard,"No, I just meant in general. So you enjoy the psychology of design?","Нет, я имел в виду в целом. Так тебе нравится психология дизайна?",ai,,60EF7A7D482C0E332BAF87AD0BC8A399
 Niles,Yes. It's like sanding something down to its core. Its purest essence. Without notions. You have to understand people to reach that point.,"Да. Это как зачищать что-то до самой сути. До чистейшей сущности. Без предубеждений. Чтобы дойти до этого, надо понимать людей.",ai,,4281E617489A4CA4AF043CB4215E7099
 Howard,Don't you just draw logos?,Разве ты не просто рисуешь логотипы?,ai,,602475C542EC766EF308ADA8AECFFCB5
 Howard,I think you're being a little too fancy about this.,"По-моему, ты слишком вычурно к этому подходишь.",ai,,B8A3FB3247634585E6D345AE2F27BC78
@@ -737,12 +737,12 @@ Niles,"That's unfortunate. I think you're interesting. Maybe I'll get the chance
 Howard,Don't count on it.,Не стоит на это рассчитывать.,ok,,5DFB66D2428AE565FD32F9ABEBA2E2C9
 Howard,Doubtful.You'd have to work for it.,Сомневаюсь. Тебе придётся потрудиться.,ai,,1B718EB34D7D26D9147192AE760558EE
 Howard,Maybe you will.,"Может, и представится.",ai,,635A866F4F7C8576D675739C2CDC85D4
-Niles,And does said hotness facilitate flirting? How do you think this has gone so far?,"И способствует ли эта самая сексуальность флирту? Как думаешь, как всё идёт до сих пор?",ai,,540524A741F5AF762F854B8B6C0BA508
+Niles,And does said hotness facilitate flirting? How do you think this has gone so far?,"И способствует ли эта самая сексуальность флирту? Как, по-твоему, всё идёт до сих пор?",ai,,540524A741F5AF762F854B8B6C0BA508
 Howard,You tell me.,Это уж вы мне скажите.,ok,,CDCDDA0D45FC185695DBA08E9A4E5FE3
 Howard,"Pretty well, I think.","Думаю, довольно неплохо.",ai,,3C5AF5F6457A1D8450F1268E85EE9F12
 Howard,"Not super great, I'll admit.","Не суперски, признаю.",ai,,135300514263BC8D32C1A0B50C383321
 Howard,"I'll be honest, man - I have no idea.","Честно, чувак, понятия не имею.",ai,,705D498545B976D985F9AEADA1179AD9
-Niles,"That's a no, Howard.","Это нет, Говард.",ai,,1D088E0B4D1F2D98D1D27A88C3B95423
+Niles,"That's a no, Howard.","Значит, нет, Говард.",ai,,1D088E0B4D1F2D98D1D27A88C3B95423
 Howard,"A hard no, or...?",Категорическое нет или...?,ai,,285DC32D4BBC9477C90DA683C435E4A9
 Howard,Got it.,Понял.,ai,,90C268D74675A98CF9AC05B767066530
 Niles,"Alright - I think I've humored you long enough. I've got plans for tonight, so you should leave me to it.","Ладно. По-моему, я потакал тебе достаточно. У меня планы на вечер, так что оставь меня.",ai,,3E88681A44C5295B98820D8426644618
@@ -766,12 +766,12 @@ Howard,Great. Thanks.,Отлично. Спасибо.,ai,,3541215C467F23856C1A1E
 Niles,"Tell Larry to drop ""Strike When Hot"" and play ""La Palourde"" instead. It's superior in every way.","Скажи Ларри, чтобы бросил «Strike When Hot» и поставил «La Palourde». Он лучше во всём.",ai,,116D68C94622E20D5C795098FA69A4B9
 Howard,"Whatever. See you later, Niles.","Ладно. Увидимся, Найлс.",ai,,1F7EC3C042518CB36B0ADE97EB024C3B
 Howard,"I don't know, I kind of like ""Strike When Hot"".","Не знаю, мне вроде нравится «Strike When Hot».",ai,,9D2DB60C4AB44F7E2B97039B4330A0FB
-Niles,"Not at all. It's realistic. I'm not going to kid myself about what this place is - any denial of the reality of the situation is just a step back for me, and anyone else, as artists.","Вовсе нет. Это реализм. Я не буду обманывать себя насчёт того, что это за место: любое отрицание реальности ситуации - шаг назад для меня и для всех остальных как художников.",ai,,281C21A743BC58736656E2AF17CD6472
+Niles,"Not at all. It's realistic. I'm not going to kid myself about what this place is - any denial of the reality of the situation is just a step back for me, and anyone else, as artists.","Вовсе нет. Это реализм. Я не буду обманывать себя насчёт того, что это за место: любое отрицание реального положения дел - шаг назад и для меня, и для всех остальных художников.",ai,,281C21A743BC58736656E2AF17CD6472
 Howard,You're right. We can't pretend this place is something it's not.,"Ты прав. Нельзя притворяться, что это место - не то, что оно есть.",ai,,4D50027940B461A68DDAC7AE30BADDE0
 Howard,"As long as both teachers and students care about the craft, the circumstances don't matter.","Пока и преподавателям, и студентам важно ремесло, обстоятельства не имеют значения.",ai,,5EAA59FC4170A0B27544859A445C094D
 Howard,I don't know. I just like being creative.,Не знаю. Мне просто нравится творить.,ai,,35321A024D6C06380256289988441F37
 Niles,"Of course you do. You just haven't realized why, yet.",Конечно. Ты просто ещё не осознал почему.,ai,,8E58EAEE4538D14EC720A4A512E0A5C6
-Howard,"There doesn't need to be a ""why.""",Никакое «почему» не обязательно.,ai,,62363E544C79C6095EE58591B0FC2962
+Howard,"There doesn't need to be a ""why.""",Не нужно никакого «почему».,ai,,62363E544C79C6095EE58591B0FC2962
 Howard,Intellectualization is the death of creativity.,Интеллектуализация - смерть творчества.,ai,,F0ECD9DA41482EDD72062EB1A0AE5C54
 Howard,Are you going to tell me why?,Ты собираешься сказать мне почему?,ai,,D257A36A4287EBC3688BBD98BD3F5C68
 Howard,Elaborate on that.,Развей мысль.,ai,,ABE373144278CB2F29F4BB8D64264C26

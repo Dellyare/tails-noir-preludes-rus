@@ -5,10 +5,10 @@ Notification,You informed HQ of your discovery.,Ты сообщил штабу �
 Eli,Next,Далее,ai,,C524A3A2487A1D45D6AA7FBA63B3542A
 Radio,"This is HQ. We read you, loud and clear. What's your status, over?","Это штаб. Мы вас слышим громко и чётко. Как ваше состояние, приём?",ai,,7F6A56C641F16BC75C3D70AD1E0B5235
 Eli,We've...found something.,Мы... кое-что нашли.,ai,,F28B13D0406C6D5DE13E4C892C758F83
-Eli,Excavation continues at a steady pace.,Раскопки продолжаются в стабильном темпе.,ai,,FAC9D2254132C7789D6452894A4DE432
+Eli,Excavation continues at a steady pace.,Раскопки идут ровным темпом.,ai,,FAC9D2254132C7789D6452894A4DE432
 Radio,Are you...sure?,Вы... уверены?,ai,,68EF2D084607970E801D6185C0FDB1E8
 Eli,Um. Do you know what we're dealing with here?,"Эм. Вы знаете, с чем мы здесь имеем дело?",ai,,54E488E243458319135F5386B7D075EB
-Eli,Not yet. We're only in the early phases of testing.,Пока нет. Мы только на начальных этапах тестирования.,ai,,6EF2B35741C681728155D1AD65918D54
+Eli,Not yet. We're only in the early phases of testing.,Пока нет. Мы только в самом начале тестирования.,ai,,6EF2B35741C681728155D1AD65918D54
 Radio,...,,,,37EB509646D6B0CDC22E898B7647489E
 Eli,...,,,,79F17566454F47CEA55025AE9F3E7F87
 Eli,Hello?,Алло?,ok,,363148794CD4ED9C922DA283F6FE57EB
@@ -38,8 +38,8 @@ Eli,"Eli reporting, Digsite 06. Scheduled status report, over.","Илай док
 Radio,"[You slide the paperweight onto the desk and pick up the stubby, dull pencil.]","[Ты сдвигаешь пресс-папье на стол и берёшь короткий, тупой карандаш.]",ai,,926A266843618A5D7CC6AF82A96F87FE
 Eli,"""August 14th. Major discovery. Radioing HQ.""","""14 августа. Крупное открытие. Связываюсь со штабом.""",ai,,E00E94524AF371D355A9369A7836AB0A
 Eli,"""Memo: Wipe off the solar panels""","""Заметка: Протереть солнечные панели.""",ai,,5426EAEF44FA4FBFAD56C3ADB03C45A2
-Eli,"""The sun is unbearable. Temperatures during the day are painfully high.""","""Солнце невыносимо. Дневные температуры мучительно высоки.""",ai,,B26BF9434354F7C37A8D7DA207D1F668
-Eli,"""Nothing out here remains, except decay - the lone and level sands stretch far away.""","""Здесь ничего не осталось, кроме разрушения - одинокие и ровные пески простираются далеко.""",ai,,A6A7134E4E70EA6329940CA728FD7BA6
+Eli,"""The sun is unbearable. Temperatures during the day are painfully high.""","""Солнце невыносимо. Днём жара мучительная.""",ai,,B26BF9434354F7C37A8D7DA207D1F668
+Eli,"""Nothing out here remains, except decay - the lone and level sands stretch far away.""","""Здесь ничего не осталось, кроме разрушения: одинокие и ровные пески простираются далеко.""",ai,,A6A7134E4E70EA6329940CA728FD7BA6
 Radio,"Thank you for the report, 06. Carry on with your work.","Спасибо за отчёт, 06. Продолжайте работу.",ai,,5C84CBA943F2BE1B89A021BF12C47B1E
 Eli,[End the call],[Завершить звонок],ai,,0911BE17459C54B6DE639EA217B1CC9C
 Radio,[The radio hums with gentle static.],[Радио гудит с лёгким статическим шумом.],ai,,6145F27E466B1222D84DC787B747C4C5
@@ -95,27 +95,27 @@ Radio,[You wipe your brow as you finish writing. It's getting hotter already.],"
 Eli,[Put down the pencil],[Положить карандаш],ai,,21A85BE14D3FCF82FCC8298E783626D0
 Radio,"[The storm eases temporarily as you scribble down your thoughts. You can hear Jorge moving things around, down in the pit.]","[Буря ненадолго стихает, пока ты записываешь свои мысли. Ты слышишь, как Джордж что-то передвигает внизу, в яме.]",ai,,1BE9E1E94CF1B760F48BF6B1CB3D1CFA
 Eli,[Put down the pencil],[Положить карандаш],ai,,F454D2D54A03EF8EE1F4EEA05CF3AD84
-Radio,"(CYNIC) [There's not much in the way of interesting reading. Frequencies, memos, and notes taken during radio calls. Those have become more infrequent lately - maybe the top scientists have given up on the expeditions.]","(ЦИНИК) [Здесь не так много интересного для чтения. Частоты, заметки и записи, сделанные во время радиозвонков. В последнее время они стали реже - возможно, ведущие учёные отказались от экспедиций.]",ai,,F4EBE62848C913CDCAD3CAA95E3E8509
+Radio,"(CYNIC) [There's not much in the way of interesting reading. Frequencies, memos, and notes taken during radio calls. Those have become more infrequent lately - maybe the top scientists have given up on the expeditions.]","(ЦИНИК) [Здесь не так много интересного для чтения. Частоты, заметки и записи, сделанные во время радиозвонков. В последнее время они стали реже. Возможно, ведущие учёные отказались от экспедиций.]",ai,,F4EBE62848C913CDCAD3CAA95E3E8509
 Eli,"Yesterday, I wouldn't have blamed them. Today has changed that, though.",Вчера я бы их не винил. Но сегодня всё изменилось.,ai,,776A1654409A61E9733F83B74FAC39AA
 Eli,[Insert the notes at the bottom of the stack],[Вложить записки в нижнюю часть стопки],ai,,E8A132704A891D78EF475FBDD9D50B44
 Radio,"(REALIST) [Your notes are plentiful, but, to be frank, boring. Almost mathematical. Notes from radio calls and tracking of the weather, alongside a few scribbles regarding your progress.]","(РЕАЛИСТ) [Твоих записей много, но, честно говоря, они скучные. Почти математические. Записи радиосеансов и наблюдения за погодой, а также несколько каракулей о твоём прогрессе.]",ai,,0839C77E4701AAD02DA495804BD3E650
 Eli,Slow and steady won the race.,Тише едешь - дальше будешь.,ai,,6E807A8C472D89B1BE03ADAEDEFDB51A
 Eli,[Put the notes away],[Убрать записки],ai,,51EB588D4BFFE810D21945A3C2709898
-Radio,"Copy that, Site 06. Please refrain from reporting non-essential findings in future reports.","Понял, объект 06. Пожалуйста, воздержитесь от сообщения о несущественных находках в будущих отчётах.",ai,,E4053F354996470442A3EDA0B3D19E72
+Radio,"Copy that, Site 06. Please refrain from reporting non-essential findings in future reports.","Понял, объект 06. Пожалуйста, не докладывайте о несущественных находках в будущих отчётах.",ai,,E4053F354996470442A3EDA0B3D19E72
 Eli,"Will do, HQ.","Будет сделано, штаб.",ai,,C7CE746348D2D22349F6F2A5D7C80043
 Eli,Just trying to be thorough.,Просто стараюсь быть тщательным.,ai,,6E5734CA463CC25B05668D81826B88CD
-Radio,"(IDEALIST) [There are hopeful scribbles and logs of your conquest of the wasteland. Not as personable as your journals, but your optimism shines through.]","(ИДЕАЛИСТ) [Здесь есть оптимистичные каракули и записи о твоём покорении пустоши. Не так лично, как твои дневники, но твой оптимизм заметен.]",ai,,07F7D3DA4EAEEFB2F3A02F941B6C6286
+Radio,"(IDEALIST) [There are hopeful scribbles and logs of your conquest of the wasteland. Not as personable as your journals, but your optimism shines through.]","(ИДЕАЛИСТ) [Здесь есть оптимистичные каракули и записи о твоём покорении пустоши. Не так живо, как твои дневники, но твой оптимизм заметен.]",ai,,07F7D3DA4EAEEFB2F3A02F941B6C6286
 Eli,"I always knew we'd strike gold, sooner or later.","Я всегда знал, что мы найдём золото, рано или поздно.",ai,,1B1D147A41AC0FAED53BA49BA3700D47
 Eli,[Draw a happy face on one of the notes],[Нарисовать смайлик на одной из записок],ai,,882D604C4FA42962814FCEABE63B7CD7
 Radio,"[The wind has picked up, and would most certainly blow away the papers were it not for the weight holding them down.]","[Ветер усилился и, несомненно, унёс бы бумаги, если бы не пресс-папье, удерживающее их.]",ai,,25A05A014A2E35E99CA623929774F421
 Eli,[Look at my notes],[Посмотреть мои записки],ai,,1E439EEA40FBF70C307D75BF7F249A06
 Eli,[Look at Jorge's notes],[Посмотреть записки Джорджа],ai,,C949F6D44EC39A4DFB8D78AF862712E3
 Eli,[Let the notes be],[Оставить записки],ai,,7DF3795341434BE7F02623A1D1F4418F
-Radio,"""- first contact\r\n- series of pods with numbers\r\n- metallic cover and casing\r\n- advice on how to proceed\r\n- ask for magazines or fuckin anything""","""- первый контакт\r\n- серия капсул с номерами\r\n- металлическое покрытие и корпус\r\n- совет, как действовать\r\n- попросить журналы или что угодно""",ai,,AA08BA2A460F28FFBD48F680556B9C20
+Radio,"""- first contact\r\n- series of pods with numbers\r\n- metallic cover and casing\r\n- advice on how to proceed\r\n- ask for magazines or fuckin anything""","""- первый контакт\r\n- серия капсул с номерами\r\n- металлическое покрытие и корпус\r\n- совет, как действовать\r\n- попросить журналы или, блядь, что угодно""",ai,,AA08BA2A460F28FFBD48F680556B9C20
 Eli,[Read something else],[Прочитать что-то ещё],ai,,3248B6814D48BCF3661533B19926284D
 Radio,"[The greater context of the note is missing, but it reads: ""high chance of radiation. Use NO corrosives (if need force) careful with the pods, nitrile gloves only""]","[Общий контекст записки отсутствует, но в ней говорится: ""высокая вероятность радиации. Не использовать коррозийные вещества (если нужно применить силу) осторожно с капсулами, только нитриловые перчатки""]",ai,,C449D0F54441BDC54EC34BAD51F3AADA
 Eli,[Read something else],[Прочитать что-то ещё],ai,,35F0BECC4DEB6B89D955D2829169745F
-Radio,"[You recognize the number as a frequency, but not for whom or what. Below is a doodle of a heart, and the bottom of the note reads: ""p.s. Eli, if you're reading this, mind your own business""]","[Ты узнаёшь в числе частоту, но не помнишь, чью и для чего. Внизу нарисовано сердечко, а в конце записки: ""P.S. Илай, если ты это читаешь, занимайся своим делом""]",ai,,D0CDC5D94ADF3BBE4AA0D8AF6C90981E
+Radio,"[You recognize the number as a frequency, but not for whom or what. Below is a doodle of a heart, and the bottom of the note reads: ""p.s. Eli, if you're reading this, mind your own business""]","[Ты узнаёшь в числе частоту, но не помнишь, чью и для чего. Внизу нарисовано сердечко, а в конце записки: ""P.S. Илай, если ты это читаешь, не лезь не в своё дело""]",ai,,D0CDC5D94ADF3BBE4AA0D8AF6C90981E
 Eli,[Read something else],[Прочитать что-то ещё],ai,,DE1E12C848A91E039A4E618BE5C2E94E
 Eli,[Pretend you didn't read that],"[Сделать вид, что ты этого не читал]",ai,,0C8E860049400E572A4C2D957559BC43
 Radio,"[You return Jorge's notes to the stack, making sure they don't try to escape on the breeze.]","[Ты возвращаешь записки Джорджа в стопку, следя, чтобы их не унесло ветром.]",ai,,F0D7D5294DCAFD9306B4048A94264B02
@@ -137,5 +137,5 @@ Eli,HQ? Do you read me?,Штаб? Вы меня слышите?,ai,,77E3C9594F0D
 Eli,...,,,,305A598C4A9D622039FCDD978BB5BAEF
 Radio,Does it...appear to be sentient?,Оно... кажется разумным?,ai,,DB69A6104047DB5E3A64A19BEFD79378
 Eli,Hard to say. It's behaviour is certainly...erratic.,Сложно сказать. Его поведение определённо... странное.,ai,,FAAC0E3042595CB20DAA9CB3A5B5197E
-Eli,"It...seems to react to stimuli in a way which goes beyond simply chemical. ","Оно... реагирует на стимулы так, что выходит за рамки простой химии.",ai,,7FED93584CE7A14828ABE1BE70A269A7
+Eli,"It...seems to react to stimuli in a way which goes beyond simply chemical. ","Оно... реагирует на стимулы так, будто это не просто химия. ",ai,,7FED93584CE7A14828ABE1BE70A269A7
 Eli,I don't think so.,Я так не думаю.,ai,,5E0965AF4FDAAD058083C78C3017476F

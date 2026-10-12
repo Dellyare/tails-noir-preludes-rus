@@ -15,7 +15,7 @@ Journal,"Never believed in that stuff, but this goes beyond mere luck. According
 Eli,Which will make our return a historic first. And that's not even factoring in the discovery of the Artifact.,Что сделает наше возвращение историческим событием. И это даже без учёта открытия Артефакта.,ai,,AB8CE0C54991BB216E508DAA592D3F93
 Eli,"I think he's just messing with me, though. There's no record of any expeditions outside the wall since Science City's formation.","Думаю, он просто издевается надо мной. Нет записей о каких-либо экспедициях за стену с момента основания Наукограда",ai,,31B7AD0841A2E299D495958A66066CE7
 Eli,"Best not to think about that, though.",Лучше не думать об этом.,ai,,0F228CFE4527CB7D15B6F1AE20885988
-Journal,"To be fair, that's to be expected. According to Jorge, no team HQ's sent outside the wall has ever returned, which means our research on the area is extremely limited.","Честно говоря, это ожидаемо. По словам Джорджа, ни одна команда Штаба, отправленная за стену, не вернулась, что означает, что наши знания об этой области крайне ограничены.",ai,,B169AE96480EDACA842A499C6C4D4F96
+Journal,"To be fair, that's to be expected. According to Jorge, no team HQ's sent outside the wall has ever returned, which means our research on the area is extremely limited.","Честно говоря, это ожидаемо. По словам Джорджа, ни одна команда Штаба, отправленная за стену, не вернулась, а значит, наши знания об этой области крайне ограничены.",ai,,B169AE96480EDACA842A499C6C4D4F96
 Eli,"I think he's just messing with me, though. There's no record of any expeditions outside the wall since Science City's formation.","Думаю, он просто издевается надо мной. Нет записей о каких-либо экспедициях за стену с момента основания Наукограда",ai,,736F5C3A488783596E7E33BA2F86655A
 Eli,It also means we're going to be pioneers. Even if we return empty handed.,"Это также означает, что мы будем первопроходцами. Даже если вернёмся с пустыми руками.",ai,,CC0E1E7E41B7FDD5827DFA9C6033DE70
 Eli,"Best not to think about that, though.",Лучше не думать об этом.,ai,,26C79C7643029A0F6D3D6C9B14FF290F
@@ -50,7 +50,7 @@ Eli,"I'd leave, if I could. Head back to the City.","Я бы ушёл, если 
 Journal,"Jorge's the silent type. We've been out here with only each other for company, and he's slow to warm up. ","Джордж - человек немногословный. Мы здесь только вдвоём, и он не спешит сближаться.",ai,,B90466384B542D1E78128E979E143FA8
 Eli,"I've warmed up to him, too. He's a good guy.",Я тоже к нему привык. Он хороший парень.,ai,,209BD214405E3B32713B0E930923C45D
 Eli,He's a good co-worker.,Он хороший коллега.,ai,,69716A1C471B3818491D018D44EC72F5
-Eli,"Warming up to him is slow, too.",Сближаться с ним тоже медленно.,ai,,5AFFAA6244D763D20DD394A725A16DA9
+Eli,"Warming up to him is slow, too.",Сближаться с ним тоже нелегко.,ai,,5AFFAA6244D763D20DD394A725A16DA9
 Journal,Me and Jorge have that in common. I'm not sure if it's because he thinks the work is pointless or if it's just that he misses his family.,"У нас с Джорджем это общее. Не знаю, думает ли он, что работа бессмысленна, или просто скучает по семье.",ai,,2BB0E43F4ADBE03E236F08B89D4087F1
 Eli,We don't talk much. But that might be for the best.,"Мы мало разговариваем. Но, возможно, это к лучшему.",ai,,0F055ABE4980FD14BAB16783A476FB57
 Eli,Maybe he's just sick of dealing with me.,"Может, он просто устал от меня.",ai,,945121C248E9D89863FC9884DD447D94
@@ -59,7 +59,7 @@ Journal,"He's out there right now. ""Today's the day,"" he told me this morning.
 Eli,"I've warmed up to him, too. He's a good guy.",Я тоже к нему привык. Он хороший парень.,ai,,9582587C490CA92A827870837F91CF04
 Eli,Not used to him being that optimistic.,"Не привык к тому, что он так оптимистичен.",ai,,0F4C65E74408AC9D53584CBF0069D470
 Eli,I really think the disappointment's starting to take its toll on him.,"Думаю, разочарование начинает сказываться на нём.",ai,,60DAF1B14DBA8F7CB3251EB80BB9203F
-Journal,"That said, he seems to see my academic background as a shortcut out of paying my dues.","Тем не менее, он считает моё академическое образование способом избежать оплаты своих долгов.",ai,,117C884349B8C8F4F6A155BB660B970D
+Journal,"That said, he seems to see my academic background as a shortcut out of paying my dues.","Тем не менее, он считает, что я через образование пытаюсь не отрабатывать положенное.",ai,,117C884349B8C8F4F6A155BB660B970D
 Eli,"He's been at this for decades and we're in the same role, so it's hard to argue with him.","Он занимается этим десятилетиями, и мы на одной должности, так что с ним сложно спорить.",ai,,C3819A404DAEC863F7B9E4960E577A69
 Eli,"But we all pay our dues in different ways. His with tools, mine with theory.","Но мы все платим свои долги по-разному. Он - инструментами, я - теорией.",ai,,D098115746325F04EA99B68780B528C6
 Eli,"I think he's just jealous. Maybe a little bitter, too.","Думаю, он просто завидует. Может, немного обижен.",ai,,3BB868B34989BE1CFF9256BEC54EB109
@@ -70,18 +70,18 @@ Eli,"I'm excited, thinking about it. I feel like we're getting close.","Я вз�
 Journal,I doubt Jorge and I would have given each other the time of day outside of work. But I'm grateful to have his expertise.,"Сомневаюсь, что мы с Джорджем общались бы вне работы. Но я благодарен за его опыт.",ai,,530A43F84CDC57A1099EB4814A1A1929
 Eli,"We're getting there. Together, slowly.","Мы приближаемся к цели. Вместе, медленно.",ai,,D9BE7D774E56D48E0D8A5DB7D000CDAE
 Eli,It's hard to tell if the feeling is mutual.,"Трудно сказать, взаимно ли это чувство.",ai,,68B485E6492B438845B77F82D2D7FEA6
-Eli,"His paranoia, on the other hand, I could do without.","Его паранойя, с другой стороны, мне не нужна.",ai,,5127FE2D436349553C076CBE948759F9
+Eli,"His paranoia, on the other hand, I could do without.",Вот без его паранойи я мог бы обойтись.,ai,,5127FE2D436349553C076CBE948759F9
 Journal,"He's pushing too hard, and I feel like he's expecting me to do the same.","Он слишком сильно давит, и, кажется, ожидает того же от меня.",ai,,BC9693754A3C32A55FECEF90CD5EA242
 Eli,I'm doing my best to keep up. We're getting there.,"Я делаю всё возможное, чтобы успевать. Мы справимся.",ai,,07422DD9429B3CD8246E7DB2AD12BAAA
 Eli,"I do what I can, but I won't overwork myself.","Я делаю, что могу, но не буду перерабатывать.",ai,,5B500AED4ED1EE9F3693B1BC990C636E
 Eli,"...I should talk to him about that, actually.","...Мне стоит поговорить с ним об этом, вообще-то.",ai,,D58A6DF54FA9AF389AB8D28E94A09A26
-Journal,The only redeeming factor is that we get to be autonomous. No oversight or endless paperwork. Just good old-fashioned science.,"Единственное утешение - это то, что мы автономны. Никакого контроля или бесконечной бумажной работы. Только старая добрая наука.",ai,,662FFC69410A33EC1AD00E95C06381F0
+Journal,The only redeeming factor is that we get to be autonomous. No oversight or endless paperwork. Just good old-fashioned science.,"Единственное утешение в том, что мы автономны. Никакого контроля или бесконечной бумажной работы. Только старая добрая наука.",ai,,662FFC69410A33EC1AD00E95C06381F0
 Eli,I suppose we'll see if the tone changes if we find something.,"Думаю, мы увидим, изменится ли тон, если мы что-то найдём.",ai,,74A7DE03463A3F92E6E0169B5239177E
 Eli,Woo-hoo.,Ура.,ai,,6226E3F749E5361863E7AF8FF3CD62AB
 Journal,"I did. It's just clear that our input isn't very interesting to the higher-ups. I'll bet that whoever is overseeing these expeditions never even set a foot in Science City. ","Я сделал это. Просто очевидно, что наше мнение не очень интересует начальство. Бьюсь об заклад, тот, кто курирует эти экспедиции, даже не ступал ногой в Научный Город.",ai,,1AFFD1B540889C02D01726B9D104E707
-Eli,They might be more inclined to listen once we come back with something good.,"Возможно, они станут более склонны слушать, когда мы вернёмся с чем-то стоящим.",ai,,FB3BA29C4568109B7C366CA7A57076BE
+Eli,They might be more inclined to listen once we come back with something good.,"Возможно, они охотнее станут слушать, когда мы вернёмся с чем-то стоящим.",ai,,FB3BA29C4568109B7C366CA7A57076BE
 Eli,A scientist should know better.,Учёный должен знать лучше.,ai,,33C9729C46FCB623FAB80BB8C38A51DC
-Journal,"I've been thinking a lot about this lately. Cram boxes upon boxes of expensive lab tech into a truck, drive it out into the wasteland, and dump all of it along with two scientists. And then? Nothing.","Я много думал об этом в последнее время. Загрузите ящики с дорогим лабораторным оборудованием в грузовик, вывезите его в пустошь, бросьте всё это вместе с двумя учёными. И что потом? Ничего.",ai,,16399CE44A8C1AE9019CD589AF394A49
+Journal,"I've been thinking a lot about this lately. Cram boxes upon boxes of expensive lab tech into a truck, drive it out into the wasteland, and dump all of it along with two scientists. And then? Nothing.","Я много думал об этом в последнее время. Набить грузовик ящиками с дорогим лабораторным оборудованием, вывезти в пустошь и бросить всё это вместе с двумя учёными. И что потом? Ничего.",ai,,16399CE44A8C1AE9019CD589AF394A49
 Eli,No support.,Никакой поддержки.,ai,,E02A14D04B2E73F96121E980C31ECE11
 Eli,No visits.,Никаких визитов.,ai,,55FBBB254F019EDA2CE010BA6185CEE5
 Eli,A single radio call every week. That's it.,Один радиозвонок в неделю. Вот и всё.,ai,,F5ABCC1C4BCAFBDCAEC605AE5CE3AF1A
@@ -91,7 +91,7 @@ Eli,At least journaling spares Jorge from all this complaining.,"По крайн
 Journal,"The sun is brutal, even when filtered through the dust clouds. No doubt it'd make you a little woozy.","Солнце беспощадно, даже сквозь пыльные облака. Несомненно, оно может вызвать лёгкое головокружение.",ai,,2B734F284D51F0A6F3365A9ECC15B564
 Eli,I need to start covering up more when out in the open.,"Мне нужно начать лучше прикрываться, когда нахожусь на открытом воздухе.",ai,,47C4A7DE44FF9E7CF22A6B93D923D2B0
 Eli,Can't let that get to me. Our work is too important.,Нельзя позволить этому повлиять на меня. Наша работа слишком важна.,ai,,5ED1AF254880A8AC623024B4F5B9E0F3
-Eli,What I wouldn't give for an air-conditioned office in Science City.,Что бы я ни отдал за кондиционируемый офис в Научном Городе.,ai,,EEC1B8594C6C23ADB3743AA76D52342C
+Eli,What I wouldn't give for an air-conditioned office in Science City.,Чего бы я только не отдал за офис с кондиционером в Наукограде.,ai,,EEC1B8594C6C23ADB3743AA76D52342C
 Journal,I almost forgot. I had a look at some of my previous journal entries today.,Я почти забыл. Сегодня я просмотрел некоторые из своих прошлых записей.,ai,,832214A64DDC7B0B471E94A5926058CA
 Eli,(CYNIC) I hate reading my old notes.,(ЦИНИК) Ненавижу читать свои старые записи.,ai,,0DBCA9CE4C40D4DDAF0B9EA742DDBA5E
 Eli,"(IDEALIST) We've come so far, and learned so much. I'm astounded by this place, to be frank.","(ИДЕАЛИСТ) Мы прошли такой долгий путь и узнали так много. Честно говоря, я поражён этим местом.",ai,,1A66C91642847954B1997AAB9C9566C0
@@ -100,7 +100,7 @@ Eli,I had no strong feelings about those notes. None whatsoever.,У меня н�
 Journal,Seems doable.,"Кажется, выполнимо.",ai,,16564CC749CAE6E7E7B8B09689915EC4
 Eli,"With science, anything is possible.",С наукой всё возможно.,ai,,9CBFBCC24ACC218B406DDC92B0E12308
 Eli,I could also wear a scarf over my head.,Я также мог бы надеть шарф на голову.,ai,,FA191D0F43417391CC0104B700EF0B3C
-Journal,"Jorge would agree with that. If nothing else, we could take breaks mid-day, when the sun is doing its worst.","Джордж согласился бы с этим. Если ничего больше, мы могли бы делать перерывы в середине дня, когда солнце наиболее активно.",ai,,9F5453134ED3B3053FE698A4F5CA3248
+Journal,"Jorge would agree with that. If nothing else, we could take breaks mid-day, when the sun is doing its worst.","Джордж согласился бы с этим. Хотя бы так мы могли бы делать перерывы в середине дня, когда солнце лютует.",ai,,9F5453134ED3B3053FE698A4F5CA3248
 Eli,Seems reasonable enough.,"Кажется, достаточно разумно.",ai,,06A030784DF246E108FBA6BF156DB42F
 Eli,Good luck convincing Jorge of a siesta.,Удачи убедить Джорджа в сиесте.,ai,,48CF5E13445278BE67868888BAD4125E
 Journal,"Elevators, vending machines, coffee machines... Newspapers.","Лифты, торговые автоматы, кофемашины... Газеты.",ai,,B8454B654728AF1A17705D9DCB54089D
@@ -117,7 +117,7 @@ Journal,"Time well spent going over research, at the very least.","Время, �
 Eli,I'm sure I can convince Jorge to do that.,"Уверен, что смогу убедить Джорджа сделать это.",ai,,796B07D9417D7BB5DEA443AE310B3CC6
 Eli,"Or taking a break, for once.","Или сделать перерыв, наконец.",ai,,BF73EFFA480305BBBB8BD69C940E4BAB
 Journal,There'll be other things. The dig isn't the only thing that needs doing.,"Есть и другие дела. Раскопки - не единственное, что нужно делать.",ai,,D9E647804AD05D59123801A0F8BCF7BC
-Eli,We've got experiments to run. Research to write down.,"У нас есть эксперименты, исследования, которые нужно записать.",ai,,EC89575844ADD2F35CDE78A0610C3260
+Eli,We've got experiments to run. Research to write down.,Нужно ставить эксперименты и вести записи.,ai,,EC89575844ADD2F35CDE78A0610C3260
 Eli,"Then again, a siesta doesn't sound so bad.","С другой стороны, сиеста звучит неплохо.",ai,,77B5C18849C15DB604D2D4B9D8D71FDA
 Journal,"I've even thought about just bailing and heading back to the city, but hiking through the desert is a death sentence. I swear, it's like they put no thought into this deployment. The equipment they gave us is so general it's left us prepared for everything and nothing at the same time.","Я даже думал о том, чтобы просто сбежать и вернуться в город, но поход через пустыню - это смертный приговор. Клянусь, они вообще не думали об этой командировке. Снаряжение, которое они нам дали, настолько общее, что оставило нас готовыми ко всему и ни к чему одновременно.",ai,,A3462F774301A011187515993BE45B0A
 Eli,This whole expedition's been poorly managed.,Вся эта экспедиция была плохо организована.,ai,,F68DF3714E1F55B90451AD8FF4B4C419
@@ -158,7 +158,7 @@ Eli,I should ask about it on the next call with HQ.,Мне стоит спрос
 Journal,"[Suddenly, a shiver runs up your spine, and you press the pen firmly against the journal page. Somewhere outside the tent, you swear you can hear Jorge calling out for you.]","[Внезапно дрожь пробегает по вашему телу, и вы с силой прижимаете ручку к странице дневника. Где-то за пределами палатки вам кажется, что вы слышите, как Джордж зовёт вас.]",ai,,E7DB87F84C3D57508F3D1C9E0C3C2922
 Eli,[Raise your voice] ...Jorge? Did you say something?,[Громче] ...Джордж? Ты что-то сказал?,ai,,6932A5CD47DC25B00CD47BBC5471D929
 Eli,[Listen closely],[Прислушайтесь],ai,,DEDC8CBB456C16C5439E8BB13D1D92A8
-Journal,I'm not sure how high in standing we'll be when we return - I suppose that hinges on what we bring back with us - but maybe we'll have enough sway to get to look into some of the more classified records in Science City.,"Не знаю, насколько высоким будет наш статус по возвращении - это зависит от того, что мы привезём с собой - но, возможно, у нас будет достаточно влияния, чтобы получить доступ к некоторым засекреченным записям в Научном Городе.",ai,,B5F703524230FE41616849AFAC2A154B
+Journal,I'm not sure how high in standing we'll be when we return - I suppose that hinges on what we bring back with us - but maybe we'll have enough sway to get to look into some of the more classified records in Science City.,"Не знаю, каким будет наш статус по возвращении: полагаю, это зависит от того, что мы привезём с собой. Но, возможно, у нас хватит влияния, чтобы добраться до засекреченных архивов Наукограда.",ai,,B5F703524230FE41616849AFAC2A154B
 Eli,Fingers crossed.,Скрестим пальцы.,ai,,06F68F294FA739431AAC5B8284B356FD
 Eli,They better let us.,Лучше бы они нам разрешили.,ai,,9602AF9E48B4652BE1E1AC8C2FC1B8E4
 Journal,"[There's another scream, more desperate this time. He sounds distressed.]","[Ещё один крик, на этот раз более отчаянный. Он звучит встревоженно.]",ai,,4BF4824146586FF6F7FD2499D940060B
@@ -180,6 +180,6 @@ Eli,"Promising, but slow.","Многообещающей, но медленно�
 Eli,"That said, it's hard to stay focused.","Тем не менее, трудно оставаться сосредоточенным.",ai,,4C9C64554FBD86F369EA66A624A22B13
 Eli,I get the feeling we're about to come across something big.,"У меня есть ощущение, что мы вот-вот наткнёмся на что-то важное.",ai,,972B8CF34312AE1FEEE6588284D8CFDF
 Journal,"We got here early spring, and back then, the temperatures were more bearable.","Мы приехали сюда ранней весной, и тогда температуры были более терпимыми.",ai,,D7E125B5445ED8A7F06920AD4A29A89A
-Eli,"The work's exciting, but sometimes it's just too damn hot.","Работа захватывающая, но иногда просто слишком жарко.",ai,,1D5F39394B2B2413DA046EB6556BB4E3
+Eli,"The work's exciting, but sometimes it's just too damn hot.","Работа захватывающая, но иногда просто чертовски жарко.",ai,,1D5F39394B2B2413DA046EB6556BB4E3
 Eli,I find myself spacing out more often than I used to.,Я всё чаще отключаюсь.,ai,,F492BC0D4540E07119C010BA0DA8BDD3
 Eli,I'm worried about winter. We're not equipped for that.,Я беспокоюсь о зиме. Мы не готовы к этому.,ai,,0A84FBDA4F6A467ECB526A818D8F5E9F

@@ -20,7 +20,7 @@ Howard,"That, you did. Alright, next item. Let's go.","Это точно. Лад
 Howard,Nah. You can have them.,"Не, забирай себе.",ai,,DAA243FB4367192322E14A8A04A64A5F
 Larry,"Thanks, dude. And, uh...even if these weren't from the concert, it's nice you and Freja put all that thought into it. Even if it was to mess with me.","Спасибо, чувак. И, э... даже если это не с концерта, приятно, что вы с Фреей так всё продумали. Пусть даже чтобы надо мной поприкалываться.",ai,,7799A03D42253B01C3AFB2AF933B032B
 Howard,"Glad you like it, man. Alright, what else have we got?","Рад, что тебе нравится, чувак. Ладно, что у нас ещё?",ai,,A03785A74B67BA9E08835B9FA7BF9416
-Howard,Enough sappy shit. What else is in here?,Хватит сопливой хрени. Что там ещё?,ai,,BD059C88435902E99BDD759AAAC427BD
+Howard,Enough sappy shit. What else is in here?,Хватит сопливого дерьма. Что там ещё?,ai,,BD059C88435902E99BDD759AAAC427BD
 Larry,Must have been news to him. This thing's nice. Gotta be worth at least a hundred dollars. You still want it?,"Для него это, наверное, была новость. Вещь классная. Стоит минимум сотню баксов. Всё ещё хочешь её?",ai,,5321351044D7158E248BBD8987E917DE
 Howard,Yeah. Hand it over.,Ага. Давай сюда.,ai,,95F9F356451F363F420F4E9B682F7882
 Howard,You want it?,Хочешь?,ai,,13C193C047CACFB9A4DBFBA6543EAB21
@@ -43,7 +43,7 @@ Howard,"(SARCASTIC) Oh, would that it were, Howard! Perhaps then I wouldn't have
 Larry,"Well, now that you got that out of your system, do you want this scarf, or should I take it?","Ну, раз ты выговорился, шарф хочешь или мне взять?",ai,,3E8A44094F7A7C2EDA64AFA558744F85
 Howard,I'll take it.,Я возьму.,ai,,F6D0FAC7413D2056B81C6A8430F76302
 Howard,You should take it.,Бери ты.,ai,,F6942AB44EC6D8522F9BEF8AD230E83C
-Larry,"Alright, fuck you too. You want this scarf, or should I take it?",Ну и пошёл ты тоже. Шарф хочешь или мне взять?,ai,,546C1C8A4ABA015903B3DCAF20F9DD89
+Larry,"Alright, fuck you too. You want this scarf, or should I take it?","Ладно, пошёл ты нахер тоже. Шарф хочешь или мне взять?",ai,,546C1C8A4ABA015903B3DCAF20F9DD89
 Howard,You can have it.,Можешь забрать.,ai,,0D1D3F03467B3AB1CFFB93925411CFE9
 Larry,"Aw. You actually have feelings for him, don't you?","Ах, как мило. У тебя к нему и правда чувства, да?",ai,,8C14F832492D2CCA298F679FBC1F4A75
 Howard,Don't be stupid. It's just a cool scarf. What else have we got?,Не глупи. Это просто классный шарф. Что у нас ещё?,ai,,D88275E045EDABECFD887195CDE785DC
@@ -68,7 +68,7 @@ Howard,Exactly. What's next?,Вот именно. Что дальше?,ai,,1A16F
 Larry,"Shepard's staff, Howard! Are you still wasted? Nah, we yanked this off some statue down in Yaletown. Don't you remember?","Посох Пастыря, Говард! Ты что, всё ещё не протрезвел? Не, мы сняли это с какой-то статуи в Йелтауне. Не помнишь?",ai,,57B179A747088AAAF0810B9CADDE73B6
 Howard,Not really...,Не особо...,ai,,080E9FBC4E30D1AFF062D4BBAB8E3BEF
 Howard,Oh yeah. What was his name again?,"А, точно. Как его звали-то?",ai,,47891E59431EAC3EC25A6DA90A6CB397
-Larry,"Tony-Roo and the Tricksters. Fuck, they don't make music like they used to. What do you say, my pile or yours?","«Тони-Ру и Трикстеры». Чёрт, такую музыку теперь не делают. Ну что, в мою кучу или в твою?",ai,,4950270B43D4F75A2D658FA5CB458BE8
+Larry,"Tony-Roo and the Tricksters. Fuck, they don't make music like they used to. What do you say, my pile or yours?","«Тони-Ру и Трикстеры». Бля, такую музыку теперь не делают. Ну что, в мою кучу или в твою?",ai,,4950270B43D4F75A2D658FA5CB458BE8
 Howard,Mine.,Мою.,ai,,106B563F46088CB3C670FABDD70049DA
 Howard,"You take it. ","Бери ты. ",ai,,351D402A4344022107BEEFB7939F021A
 Howard,Your call.,Тебе решать.,ai,,9076AB314ED076EF49190FACA8761339
@@ -92,7 +92,7 @@ Larry,Yeah...that's just stealing. So let's decide: whose pile should this go in
 Howard,Your call.,Тебе решать.,ai,,D49B24FE4719D0F171DC048A8CB4EEA0
 Howard,The weird little thief.,Странному воришке.,ai,,FBF609FC4AE4CD2AD32CDEB7CE01162E
 Howard,His morally upstanding friend can have it.,Его высокоморальный друг может забрать.,ai,,E7AFEEAB424F42D22CDCF98E1F262448
-Larry,"You proletariats are always leaving money on the table. But thanks, dude. I'm gonna wear the shit out of this thing.","Вы, пролетарии, вечно оставляете деньги на столе. Но спасибо, чувак. Буду носить эту штуку до дыр.",ai,,18C7ACD842E9524851B446993CD44A9E
+Larry,"You proletariats are always leaving money on the table. But thanks, dude. I'm gonna wear the shit out of this thing.","Вы, пролетарии, вечно оставляете деньги на столе. Но спасибо, чувак. Буду эту штуку, нахер, носить до дыр.",ai,,18C7ACD842E9524851B446993CD44A9E
 Howard,Glad you like it. What else is in this pile?,"Рад, что нравится. Что ещё в этой куче?",ai,,A1ACF3244CE171D6FA7E66B7D68209A3
 Larry,That's fair. But don't be surprised when me and my proletariat chums rise against you.,"Справедливо. Но не удивляйся, когда я и мои друзья-пролетарии восстанем против тебя.",ai,,11F905664689F49DCA26DEBB5524CE54
 Howard,"[Gulp nervously] Alright, let's...uh...let's move on to the next one.","[Нервно сглотнуть] Ладно, давай... э... давай к следующему.",ai,,0820D7FC4BF0809CAEDF28A19E54EB57
@@ -140,7 +140,7 @@ Howard,"C'mon, man. She's not that bad. Just moody.","Да ладно, чува�
 Howard,"I'll bring a hammer. ","Я принесу молоток. ",ai,,DC63ED0E443AC10C8D361BA4E92B3186
 Larry,"Yeah, I guess you're right. I'm just done with chasing sad vibes, you know?","Да, наверное, ты прав. Просто я устал гоняться за грустными вайбами, понимаешь?",ai,,6ED8A71140EA81EB4EE98B8AFCC1D3BC
 Howard,"Me too. Alright, enough about her. Let's keep digging.","Я тоже. Ладно, хватит о ней. Копаем дальше.",ai,,60056D1A4985DE2C486C059E921F512B
-Larry,"My man! Yeah, that'll be one cool-ass sendoff.","Мой человек! Да, это будут классные проводы.",ai,,27526DF84ED65A5ACB5A97BE3EC7D094
+Larry,"My man! Yeah, that'll be one cool-ass sendoff.","Мой человек! Да, это будут охрененные проводы.",ai,,27526DF84ED65A5ACB5A97BE3EC7D094
 Howard,"Alright, enough about Luna. Let's see what else we have in there.","Ладно, хватит про Луну. Посмотрим, что у нас там ещё.",ai,,8610CE9E4736B75D9DB4C28FE1BAD0F4
 Larry,You saw his name and thought it'd be the funniest thing in the world. Which it kinda was! At least at the time. Poor Gary Wood...,"Ты увидел его имя и решил, что это самая смешная штука на свете. Что отчасти так и было! По крайней мере тогда. Бедный Гэри Вуд...",ai,,0A090675418CBFA7246A1DBB6ECD5453
 Howard,"Oh, riiight... [laugh impishly]","А-а, ну да... [озорно рассмеяться]",ai,,B3933B0245F6DEC87E53BBA6B85C22BB
@@ -247,11 +247,11 @@ Howard,"Still salty about not becoming a gallery centerpiece, huh?","Всё ещ
 Howard,"My professor made me do it. You know that, Larry.","Меня заставил профессор. Ты же знаешь, Ларри.",ai,,F241BE3645054982EDE4D18D49DF3FB4
 Larry,"Of course I'm sure! Why would I need a photo of myself? I'm not going to forget what I look like. You, on the other hand...","Конечно уверен! Зачем мне моё фото? Я не забуду, как выгляжу. А вот ты, с другой стороны...",ai,,76293013488E70E5ABFA71A506888BD4
 Howard,Fine. I'll take it.,Ладно. Я возьму.,ai,,5D063AD04BB3A8FF33F2EEB2E9F9E9A0
-Larry,"Now we do. But that's my fault. I taught you how to dress, what music to listen to, how to flirt... you were so helpless with that one! Do you ever wonder who you'd be if we were assigned someone else?","Теперь да. Но это моя вина. Я научил тебя одеваться, какую музыку слушать, как флиртовать... ты в этом был такой беспомощный! Тебе не интересно, кем бы ты стал, если бы тебе подселили кого-то другого?",ai,,1435B8574BD5B19733ADFFA1B5230958
+Larry,"Now we do. But that's my fault. I taught you how to dress, what music to listen to, how to flirt... you were so helpless with that one! Do you ever wonder who you'd be if we were assigned someone else?","Теперь да. Но это моя вина. Я научил тебя одеваться, какую музыку слушать, как флиртовать... ты в этом был такой беспомощный! Ты никогда не задумывался, кем бы ты стал, если бы нам подселили кого-то другого?",ai,,1435B8574BD5B19733ADFFA1B5230958
 Howard,I try not to.,Стараюсь не думать.,ai,,6A6534324C72D6E5FA1286B14F8B46E5
 Howard,All the time.,Постоянно.,ok,,CDD55B1E4512FAF2AD4850AFEE507F40
 Howard,"No, because I'm not high.","Нет, я же не обкурен.",ai,,C4F003CE437ACC3A5C1273A6592634E3
-Larry,"Nah-uh. I look cool as shit. But now you do too, thanks to my influence. You ever wonder who you'd be if you were assigned someone else?","Не-а. Я выгляжу охренительно круто. А теперь и ты, благодаря моему влиянию. Тебе не интересно, кем бы ты стал, если бы тебе подселили кого-то другого?",ai,,00E12464405B31D3D5043B83C9A32DE8
+Larry,"Nah-uh. I look cool as shit. But now you do too, thanks to my influence. You ever wonder who you'd be if you were assigned someone else?","Не-а. Я выгляжу охренительно круто. А теперь и ты, благодаря моему влиянию. Ты никогда не задумывался, кем бы ты стал, если бы тебе подселили кого-то другого?",ai,,00E12464405B31D3D5043B83C9A32DE8
 Howard,"No, because I'm not high.","Нет, я же не обкурен.",ai,,80C3F4A54138B8053C9164B5DAAEAA66
 Howard,All the time.,Постоянно.,ok,,B5B99B9A4D09AAA3DC8DBD9ADFFAFC69
 Howard,...Not until now.,...До сих пор не интересовало.,ai,,9DB8896C49AB3F259599989BF51BE56B
@@ -264,7 +264,7 @@ Howard,"You'd definitely be a lot less cool, that's for sure.","Ты бы точ
 Howard,I think we'd both be way cooler if we wound up with Wisconsin.,"По-моему, мы оба были бы куда круче, если бы достались Висконсину.",ai,,27D568D7416EB416E75FE89EBF497B50
 Larry,"Huh. You know what? I think we should take turns. Like, every time we meet up, we'll swap. That way, whoever has it is responsible to make sure we hang out next.","Хм. Знаешь что? Давай по очереди. Каждый раз, когда встречаемся, меняемся. Так тот, у кого она есть, будет отвечать за то, чтобы мы увиделись снова.",ai,,D60F774C4615383286BD0590D676452C
 Howard,I like it.,Мне нравится.,ai,,AC9B623944E341A81788D6B90DAD1A15
-Howard,That sounds like a lot of work.,Звучит как куча работы.,ai,,F615F2A8435B868E2CBC899A049480E5
+Howard,That sounds like a lot of work.,"Похоже, работы много.",ai,,F615F2A8435B868E2CBC899A049480E5
 Larry,"Har-har. Too bad I wasn't able to make much of a dent on your sense of humour while we were together. Alright, who should get this one?","Ха-ха. Жаль, что мне не удалось хоть как-то повлиять на твоё чувство юмора, пока мы жили вместе. Ладно, кому достанется эта?",ai,,9544CF4E4085729255774BAD040216C1
 Howard,I'll take it.,Я возьму.,ai,,A67F5C5747EBEBCD327149AECB2982E9
 Howard,You can have it.,Можешь забрать.,ai,,13464B0A4A9D5631D174CCBEC0F4F59B
@@ -273,7 +273,7 @@ Larry,"Yeah. Maybe I'd be running around in a sweater, putting together little s
 Howard,You'd look great in a sweater.,Тебе бы пошёл свитер.,ai,,461805DE4ECCA9BE819B5FA773A2BD38
 Howard,"Man, you really missed out.","Чувак, ты многое упустил.",ai,,3087DD9F4C40A4367F5E48B4B3B66063
 Howard,"I said you'd be less cool, not more cool.","Я сказал, что ты был бы менее крут, а не более.",ai,,82F5711446ACE4A3A26D3888F5764616
-Larry,...I'm just messing with you. So - who gets this one? The artist or the subject?,...Да я просто прикалываюсь. Так - кому достанется эта? Художнику или модели?,ai,,7B9F8EB744112737D2D011A186323684
+Larry,...I'm just messing with you. So - who gets this one? The artist or the subject?,...Да я просто прикалываюсь. Так кому достанется эта? Художнику или модели?,ai,,7B9F8EB744112737D2D011A186323684
 Howard,The subject.,Модели.,ai,,A8878AAA4D6E5C5B8151CDA19A866C9B
 Howard,The artist.,Художнику.,ai,,F8B286A24C8D01C699143CBB98C12B5B
 Howard,You decide.,Решай ты.,ai,,CE07E319426F53FE45511FA238FA9CDA
@@ -319,7 +319,7 @@ Howard,I think I should.,"Думаю, я.",ai,,7D2D6F8149BDA9596AE0A28A432713CD
 Larry,"Seriously? You smoke like, way less than me. And can barely handle it when you do.","Серьёзно? Ты куришь куда меньше меня. И едва справляешься, когда куришь.",ai,,FAF6A7FE457344907A10BB961712EE72
 Howard,Fine. You have it.,Ладно. Забирай.,ai,,601DA56140BA331FB0BE1AAE3AF1FD1F
 Howard,Which means I'll make it last longer.,"А значит, мне хватит надолго.",ai,,2DEB8A074FC51BD925414CA0E598685B
-Larry,Pfft. Alright. You're lucky I have a backup stash. Otherwise this would be a total dick move.,"Пф. Ладно. Тебе повезло, что у меня есть запасная заначка. Иначе это был бы полный свинский поступок.",ai,,B3E08260443312E051071F9C5384EA43
+Larry,Pfft. Alright. You're lucky I have a backup stash. Otherwise this would be a total dick move.,"Пф. Ладно. Тебе повезло, что у меня есть запасная заначка. Иначе это был бы полный мудацкий ход.",ai,,B3E08260443312E051071F9C5384EA43
 Howard,Fair enough. What's next?,Справедливо. Что дальше?,ai,,95720FF7470432F89E23DF9C46F05DEA
 Larry,Nope. So let's decide: who gets to lay claim to these two beauties?,Не-а. Тогда решим: кто заявит права на этих двух красавцев?,ai,,AE31236442F23D0A49F79FB19C7B2680
 Howard,You can have it.,Можешь забрать.,ai,,03BCD6954E5F72C50C4EBA9EC4E918EB
@@ -333,7 +333,7 @@ Howard,Thanks. Now let's see what else is left.,"Спасибо. Теперь п
 Larry,Exactly! Now let's decide: who gets to lay claim to these two beauties?,Именно! А теперь решим: кто заявит права на этих двух красавцев?,ai,,6A33DE454D7A0504A549DC91982A1CBB
 Howard,You can have it.,Можешь забрать.,ai,,7DF3BF614BFF884B9931C3A08A3B7979
 Howard,Me.,Я.,ai,,82A2E3274D24A0ECF8A7EFB96316ED3D
-Larry,"And don't hide it away. I want you to put it in a prominent place where every day you'll be forced to look at it and think ""Shit, why can't I look that good?""","И не прячь её. Поставь на видное место, чтобы каждый день ты был вынужден на неё смотреть и думать: «Блин, почему я не могу так хорошо выглядеть?»",ai,,B112E1934231D96FD1BCFEA19DD97E93
+Larry,"And don't hide it away. I want you to put it in a prominent place where every day you'll be forced to look at it and think ""Shit, why can't I look that good?""","И не прячь её. Поставь на видное место, чтобы каждый день ты был вынужден на неё смотреть и думать: «Бля, почему я не могу так хорошо выглядеть?»",ai,,B112E1934231D96FD1BCFEA19DD97E93
 Howard,Deal.,Договорились.,ok,,BEB826134A117383541CCA9C159E2D6B
 Howard,I'll think about it.,Я об этом подумаю.,ok,,88348AEB4F36FAA588CAE3822A36D7D7
 Larry,"Well, I mean, considering you're a bit of a lightweight and can't handle it so well, I think it's better that I hold on to it. You know, for safekeeping.","Ну, в смысле, учитывая, что ты слабак и плохо это переносишь, лучше я пока подержу у себя. Ну, на сохранение.",ai,,CC809178432D57908DAE4E899B1CFC9F

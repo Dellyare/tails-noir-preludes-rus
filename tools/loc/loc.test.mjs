@@ -108,8 +108,8 @@ test('dialogue speech node: Text key and OwnerName from unversioned properties',
     assert.deepEqual(readSpeechNode(zero, names), { key: KEY, owner: 'MyCharacterName' });
 });
 
-test('gender tool: chunk skips reviewed rows, fixes must belong to the chunk', async () => {
-    const { chunkAt, parseFixes } = await import('./gender.mjs');
+test('review tool: chunk skips reviewed rows, fixes must belong to the chunk', async () => {
+    const { chunkAt, parseFixes } = await import('./review.mjs');
     const rows = [
         { translation: 'Ты пришёл', status: 'ai' },
         { translation: 'Ты пришла', status: 'ok' },
@@ -120,4 +120,10 @@ test('gender tool: chunk skips reviewed rows, fixes must belong to the chunk', a
     assert.deepEqual([...parseFixes('1|Ты пришла\n4|Я устала\\nвсё', [0, 3])], [[0, 'Ты пришла'], [3, 'Я устала\nвсё']]);
     assert.throws(() => parseFixes('2|x', [0, 3]), /нет в текущем куске/);
     assert.throws(() => parseFixes('Ты|x', [0, 3]), /N\|текст/);
+});
+
+test('batch check rejects lost square brackets', async () => {
+    const { check } = await import('./batch.mjs');
+    assert.throws(() => check('[You look around.]', 'Ты оглядываешься.'), /квадратные скобки/);
+    assert.equal(check('[You look around.]', '[Ты оглядываешься.]'), '[Ты оглядываешься.]');
 });

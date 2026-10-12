@@ -1,9 +1,9 @@
 ﻿speaker,source,translation,status,namespace,key
 Notification,You decided to destroy a section of the journals.,Ты решил уничтожить часть журналов.,ai,,C15321774D0C677979E66A8F30E6A7C3
-Journals,"This are your personal thoughts from the last six months. Every peaceful moment in the tent, captured here - every last doubt and worry, put down into words.","Это твои личные мысли за последние полгода. Каждая спокойная минута в палатке запечатлена здесь - каждое сомнение и тревога, облечённые в слова.",ai,,AA9AA0334BB31469387604A94D275305
+Journals,"This are your personal thoughts from the last six months. Every peaceful moment in the tent, captured here - every last doubt and worry, put down into words.","Это твои личные мысли за последние полгода. Каждая спокойная минута в палатке запечатлена здесь: каждое сомнение и тревога, облечённые в слова.",ai,,AA9AA0334BB31469387604A94D275305
 Eli,[Read them],[Прочесть],ai,,43B305D2494DA712C4D127A9EC91225A
 Eli,[Leave them be],[Оставить как есть],ai,,A94377324787880AAA66EF9E48081D8E
-Journals,A paragraph of the entry seems almost thankful to HQ - the wastes were clearly as hostile and lifeless as you were told they'd be.,"Один из абзацев записи звучит почти благодарно по отношению к штабу - пустоши и вправду оказались такими враждебными и безжизненными, как тебе говорили.",ai,,851311A1429C651EF80A50B6688D8C15
+Journals,A paragraph of the entry seems almost thankful to HQ - the wastes were clearly as hostile and lifeless as you were told they'd be.,"Один из абзацев записи звучит почти благодарно по отношению к штабу: пустоши и вправду оказались такими враждебными и безжизненными, как тебе говорили.",ai,,851311A1429C651EF80A50B6688D8C15
 Eli,[Keep reading],[Читать дальше],ok,,DEAFDE0048047F026CAD07BC2D3855BD
 Eli,[Tear out the page],[Вырвать страницу],ai,,0A6F1AEB4B9F501517525D9D334951CF
 Journals,"You rip the page from the journal, leaving a jagged strip of paper between the other pages. It's mostly unnoticeable, but who knows.","Ты вырываешь страницу из журнала, оставляя между остальными листами рваную полоску бумаги. Она почти незаметна, но кто знает.",ai,,F9C6F484477F8B0D276EFE84827C162B
@@ -12,34 +12,34 @@ Journals,"The next section was about your thoughts on the wastes, but the page h
 Eli,[Keep reading],[Читать дальше],ok,,661861004A6128D1FFDEA7B7B72ACC53
 Journals,"The following page specified which of you were the driving force behind the experiments, but you tore out that page moments ago.","На следующей странице было сказано, кто из вас двоих был движущей силой экспериментов, но ты вырвал её совсем недавно.",ai,,7F69E9C44D1451A73CB342AA1D0D47F0
 Eli,[Keep reading],[Читать дальше],ok,,41369EB4478634A9E7C7C387AC9FB524
-Journals,The next part of the same entry specifies which one of you were the driving force behind the experiments - Jorge.,"Следующая часть той же записи уточняет, кто из вас был движущей силой экспериментов - Джордж.",ai,,A54379AA42BD756876F18E98585BAB63
+Journals,The next part of the same entry specifies which one of you were the driving force behind the experiments - Jorge.,"Следующая часть той же записи уточняет, кто из вас был движущей силой экспериментов: Джордж.",ai,,A54379AA42BD756876F18E98585BAB63
 Eli,[Keep reading],[Читать дальше],ok,,DB8C55C84F4957903FF76FB205CA6F7B
 Eli,[Rip the page out],[Выдрать страницу],ai,,73B857B34CD76B52F0F366B5D2CD1474
-Journals,The next part of the same entry specifies which one of you were the driving force behind the experiments - you.,"Следующая часть той же записи уточняет, кто из вас был движущей силой экспериментов - ты.",ai,,4D4635114CB7F31F699127BF14A5A85A
+Journals,The next part of the same entry specifies which one of you were the driving force behind the experiments - you.,"Следующая часть той же записи уточняет, кто из вас был движущей силой экспериментов: ты.",ai,,4D4635114CB7F31F699127BF14A5A85A
 Eli,[Keep reading],[Читать дальше],ok,,3847376045F11256AD64BE81E52CACD0
 Eli,[Rip the page out],[Выдрать страницу],ai,,229B240048BA651A719D06B0655143A7
 Journals,"You carefully tear out the page, taking care to leave as little trace of it as possible. You cover it up fairly well.","Ты аккуратно вырываешь страницу, стараясь оставить как можно меньше следов. Получается довольно незаметно.",ai,,2F3E19CC433C4778D659C594D9A21D2F
 Eli,[Keep reading],[Читать дальше],ok,,2AEA729F4A2D7487D64A5C8832235B74
-Journals,You tore out the following page earlier - the one containing some of your thoughts on HQ.,"Следующую страницу ты вырвал ранее - ту, где были некоторые твои мысли о штабе.",ai,,945603D145755D18ABE8F894C884F983
+Journals,You tore out the following page earlier - the one containing some of your thoughts on HQ.,"Следующую страницу ты вырвал ранее, ту самую, где были некоторые твои мысли о штабе.",ai,,945603D145755D18ABE8F894C884F983
 Eli,[Keep reading],[Читать дальше],ok,,4C700FAF48F721C77EDCE0AF4F5BC5D4
 Journals,The first entry that catches your eye is the one you made the morning of the discovery. It describes your concerns and excitement about the future of your work.,"Первая запись, бросившаяся в глаза, - та, что ты сделал утром в день находки. В ней описаны твои тревоги и волнение по поводу будущего твоей работы.",ai,,815A67CC4522BF7C679CDD8301E464B1
 Eli,Seems so long ago now...,"Кажется, это было так давно...",ai,,62FF536E4F78AAF3A261D694D3E67425
 Eli,[Keep reading],[Читать дальше],ok,,2B5799794033F22006AF7EAAD8BC7638
-Journals,"The next page, still from the same entry, contains some choice words regarding HQ - mostly about their ineptitude.","Следующая страница, всё из той же записи, содержит несколько крепких выражений в адрес штаба - в основном о его некомпетентности.",ai,,4F735DC140E7916AF1E9E9950434B143
+Journals,"The next page, still from the same entry, contains some choice words regarding HQ - mostly about their ineptitude.","Следующая страница, всё из той же записи, содержит несколько крепких выражений в адрес штаба: в основном о его некомпетентности.",ai,,4F735DC140E7916AF1E9E9950434B143
 Eli,[Keep reading],[Читать дальше],ok,,8FB76B3B47007C40F76FDCAECA763C73
 Eli,[Rip it out],[Вырвать её],ai,,4EB8EC5649E8027E825B1E9D10A3BEA5
-Journals,"What follows are your thoughts on HQ - nothing too critical, and some of it even positive.","Далее идут твои мысли о штабе - ничего слишком критичного, а кое-что даже положительное.",ai,,6F5538694FD326C45A08159ACAC377A8
+Journals,"What follows are your thoughts on HQ - nothing too critical, and some of it even positive.","Далее идут твои мысли о штабе: ничего слишком критичного, а кое-что даже положительное.",ai,,6F5538694FD326C45A08159ACAC377A8
 Eli,[Keep reading],[Читать дальше],ok,,A62FBBE04803903A4922F58D76418DCC
 Eli,[Rip it out],[Вырвать её],ai,,1FD9A4384682E7770607729E9A2C1D85
 Journals,"Pressing your thumb against the gutter between the pages, you slowly tear out the page in question.","Прижав большой палец к сгибу между страницами, ты медленно вырываешь нужную страницу.",ai,,F9DE4DDE43418ED0291572BFB5CC44B6
 Eli,[Keep going],[Продолжить],ai,,6E4EA939449095BE13BA3BBF0B6982E6
-Journals,"The next few pages are blank. There's room for a few more entries - or at the very least, one for tomorrow morning.","Следующие несколько страниц пусты. Там есть место для нескольких записей - или, по крайней мере, для одной на завтрашнее утро.",ai,,CA9142DC48BDEBD2B023A399368289E0
+Journals,"The next few pages are blank. There's room for a few more entries - or at the very least, one for tomorrow morning.","Следующие несколько страниц пусты. Там есть место для нескольких записей, или, по крайней мере, для одной на завтрашнее утро.",ai,,CA9142DC48BDEBD2B023A399368289E0
 Eli,[Close the journal],[Закрыть журнал],ai,,95C454614123D4328AB1E3885992065C
-Journals,The next entry of note that you find is far more colorful - written in the morning before you began experimenting on the artifact.,"Следующая заметная запись куда красочнее - она написана утром, перед тем как ты начал эксперименты с Артефактом.",ai,,61570CE54498309093941486DB57715D
+Journals,The next entry of note that you find is far more colorful - written in the morning before you began experimenting on the artifact.,"Следующая заметная запись куда красочнее: она написана утром, перед тем как ты начал эксперименты с Артефактом.",ai,,61570CE54498309093941486DB57715D
 Eli,[Read it],[Прочитать],ok,,0BA314F8422FA2EC9F5809BA11DD13EB
 Journals,"You open up the journal again. It couldn't hurt to have another look, could it?","Ты снова открываешь журнал. Ещё один взгляд не повредит, верно?",ai,,C7FBCD7D48549625F90339B208B42E24
 Eli,[Leave them alone],[Оставить их в покое],ai,,E02A2BF54A68E14BF206C3BF4C8EC0F6
 Eli,[Review the journals again],[Ещё раз просмотреть журналы],ai,,98B25AD24ABC5407081C0A863379136D
-Journals,"A brief passage describes your disillusionment with what HQ told you - the wastes are clearly not as lifeless as you were led to believe, and your superiors lied.","Короткий отрывок описывает твоё разочарование в том, что рассказал штаб, - пустоши явно не такие безжизненные, как тебя заставляли верить, а начальство солгало.",ai,,91C264BF4A13711AF564B29C252FA250
+Journals,"A brief passage describes your disillusionment with what HQ told you - the wastes are clearly not as lifeless as you were led to believe, and your superiors lied.","Короткий отрывок описывает твоё разочарование в том, что рассказал штаб: пустоши явно не такие безжизненные, как тебя заставляли верить, а начальство солгало.",ai,,91C264BF4A13711AF564B29C252FA250
 Eli,[Keep reading],[Читать дальше],ok,,AC11A56B4529B7BBA224459B6D4133CF
 Eli,[Tear out the page],[Вырвать страницу],ai,,9961D5F149A4599FC871FA8DF5CC8052

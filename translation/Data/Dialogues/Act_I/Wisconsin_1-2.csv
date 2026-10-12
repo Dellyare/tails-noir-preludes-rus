@@ -29,7 +29,7 @@ Howard,Resident assistant?,Комендант?,ai,,C6B0BEE24E96B11E86FBDFBB2FFA7
 Howard,...Could you tell me where my room is?,"...Не подскажешь, где моя комната?",ai,,F3C99C8A461C0E99D83C028796AA5D50
 Wisconsin,"Oh dang, you're right. That thing looks like it's a real doozy. I'll, um, I'll need your name before I can tell you what room you're in, though!","О, черт, ты прав. Эта штука выглядит как настоящая головоломка. Но, эм, мне нужно твое имя, прежде чем я смогу сказать, в какой ты комнате!",ai,,0D8495AE423FADDFC496218FDDC4A2A0
 Howard,It's Howard. Howard Lotor.,Говард. Говард Лотор.,ai,,025CDD4D4FDE5B1854A4C7B4E72C4DC2
-Howard,I'm heavy-box-man.,Я - человек с тяжелой коробкой.,ai,,4E73715F4D56D708FCDD3EA88878E69C
+Howard,I'm heavy-box-man.,Я - Человек-с-тяжёлой-коробкой.,ai,,4E73715F4D56D708FCDD3EA88878E69C
 Wisconsin,Ah-ah-ah! Not just yet!,А-а-а! Еще не время!,ai,,5C612D11461CF868DFBA47B7946E4A8B
 Howard,Why not?,Почему нет?,ok,,966322EF4C195F4AAD02FA87B4D631F5
 Howard,"I'm really tired, man.","Я очень устал, чувак.",ai,,377586894EFDBAD367CC9784DDBAA361
@@ -39,7 +39,7 @@ Howard,"We're not best friends, dude.","Мы не лучшие друзья, ч�
 Wisconsin,"M-me? No! No, no, it's a riddle. It's not me. I wouldn't- Hm. Alright, so any ideas?","Я? Нет! Нет, нет, это загадка. Это не я. Я бы не... Хм. Ладно, есть идеи?",ai,,5D3B35C34D2B6632114DC89BDA64B066
 Howard,A thing?,Что-то?,ai,,C322839849B192E0F2A7EAAC4EB790D7
 Howard,A person?,Кто-то?,ai,,D2B9F36141B3BDFA2F55AD9504C90671
-Wisconsin,"Uh, well - not yet, anyway! There's still time! We have years to get to know each other! Hah.","Эх, ну - пока что нет! Но еще есть время! У нас есть годы, чтобы узнать друг друга! Хах.",ai,,406EF95B4C9DC410B0D5F18BC6EF0B60
+Wisconsin,"Uh, well - not yet, anyway! There's still time! We have years to get to know each other! Hah.","Эх, ну, пока что нет! Но еще есть время! У нас есть годы, чтобы узнать друг друга! Хах.",ai,,406EF95B4C9DC410B0D5F18BC6EF0B60
 Howard,I'm just messing with you. The name's Howard Lotor.,Я просто шучу. Меня зовут Говард Лотор.,ai,,41842B0C4AE6ECBEC0738A993C01B90E
 Howard,Let's not get ahead of ourselves.,Давай не будем забегать вперед.,ai,,778B1B6446DDA09E42B1C0AF94BD9C38
 Wisconsin,"Oh, right right - you want to know what your room number is! Well, mister, I'm still gonna need a name! Something better than heavy-mister-boxy, haha. Hah.","О, точно-точно - ты хочешь знать номер своей комнаты! Ну, мистер, мне все еще нужно имя! Что-то получше, чем мистер-тяжелая-коробка, ха-ха. Хах.",ai,,2840DA954634292030335C94BBF4CD8B
@@ -50,8 +50,8 @@ Howard,I give up. What's the answer?,Я сдаюсь. Какой ответ?,ai,
 Howard,Let me try again.,Дай мне еще попробовать.,ai,,DA80C6ED47BCE3C57832C0A5E78381D6
 Wisconsin,"I- That's, uh, that's not actually your name is it? Oh Shepherd, did I already make a fool out of myself? Oh no no no, Wisconsin - not again!","Я... Это, эм, это не твое настоящее имя, да? О Пастырь, я уже опозорился? О нет-нет-нет, Висконсин, только не снова!",ai,,666A5CDC48E8CC610BF1B39CF6FFAFC6
 Howard,I'm just messing with you. I'm Howard Lotor.,Я просто шучу. Я Говард Лотор.,ai,,8F097C2946CCD5A7F0CEAD8566A8AF95
-Wisconsin,"Well howdy ho, Howard! Hah - sorry, I'm a bit of a jokester. You'll get used to it!","Ну, привет, Говард! Хах - извини, я немного шутник. Ты привыкнешь!",ai,,6E90AC4A480AEC413C401B9403424623
-Howard,I hope not. Where am I staying?,"Надеюсь, нет. Где я остановлюсь?",ai,,126D9BAF491A07F93D911894F7BACFE6
+Wisconsin,"Well howdy ho, Howard! Hah - sorry, I'm a bit of a jokester. You'll get used to it!","Ну, привет, Говард! Хах, извини, я немного шутник. Ты привыкнешь!",ai,,6E90AC4A480AEC413C401B9403424623
+Howard,I hope not. Where am I staying?,"Надеюсь, нет. Где я буду жить?",ai,,126D9BAF491A07F93D911894F7BACFE6
 Howard,"If you say so. I'll see you later, man.","Как скажешь. Увидимся позже, чувак.",ai,,51366133496B653B118A39B852C9DFEF
 Howard,"Sure. Goodbye forever, Wisconsin.","Конечно. Прощай навсегда, Висконсин.",ai,,EDB49DBE4EEA4E46D1AC2793AC8A230E
 Wisconsin,"Hold on there, friendo! You don't know where your dorm room is yet!","Погоди-ка, дружище! Ты еще не знаешь, где твоя комната в общежитии!",ai,,F52FFEF3405994152AE364A075381F79
@@ -66,12 +66,12 @@ Howard,Why not?,Почему нет?,ok,,9D66F41D4A72E28C39EF229B9977E6B5
 Wisconsin,"Yeah! It's a mirror! Good job! Well? What did you think of the riddle? Pretty good, eh?","Да! Это зеркало! Отлично! Ну? Как тебе загадка? Неплохо, да?",ai,,31BA750E48DB02F6A29AD48EB44F912A
 Howard,Pretty easy.,Довольно легко.,ai,,3B82704945158423FF2795A30CF52BBF
 Howard,It was alright.,Нормально.,ai,,20F69093411C2311FCCB2E94364460F0
-Howard,Can you please tell me where I'm staying now?,"Можешь, пожалуйста, сказать, где я остановлюсь?",ai,,4AFC00224DD49F38E33F2F8CCE7D2B14
+Howard,Can you please tell me where I'm staying now?,"Можешь, пожалуйста, сказать, где я буду жить?",ai,,4AFC00224DD49F38E33F2F8CCE7D2B14
 Wisconsin,"I keep things running smoothly in the dorms! Like your dorm boss. But a fun boss! I also organize fun activities! You know, like a boss! Haha. Hah.","Я поддерживаю порядок в общежитии! Как ваш босс в общежитии. Но веселый босс! Я также организую веселые мероприятия! Ну, знаешь, как босс! Ха-ха. Хах.",ai,,C5E6DB2F4AF93C7BAC7E53817B41D05C
 Howard,Right. What's my room number?,Ладно. Какой номер моей комнаты?,ai,,BEC27F4846BD4BBD3B377787D8F12BC2
 Howard,"OK. I'll be running smoothly to my room now, if you don't mind.","ОК. Я сейчас пойду в свою комнату, если не возражаешь.",ai,,18F008DC47383B26094785B74463E328
 Howard,"Cool. Can you tell me where my room is, so I can put this box down first?","Круто. Можешь сказать, где моя комната, чтобы я мог поставить эту коробку?",ai,,BE772FBD49416949154C62A2213A83F6
-Wisconsin,"You see, I like to start things off fun with new students!","Видишь ли, я люблю начинать с веселья с новыми студентами!",ai,,D39AB23F422EE9EC7EDE10885C6ED29A
+Wisconsin,"You see, I like to start things off fun with new students!","Видишь ли, я люблю весело начинать с новичками!",ai,,D39AB23F422EE9EC7EDE10885C6ED29A
 Howard,...Which means?,...Что это значит?,ai,,DAFD5E16446941628ECFEEA638782065
 Howard,"Listen, this box is really heavy. Can we not have fun right now?","Слушай, коробка очень тяжелая. Может, не будем сейчас веселиться?",ai,,C9A65A3C48564A1035C5F5A7ABB55884
 Wisconsin,No no no! That goes against the rules!,Нет-нет-нет! Это против правил!,ai,,BEA6D03F4895D8B8F72F2C977B7C4628
@@ -102,7 +102,7 @@ Howard,"Maybe some other time, alright?","Может, в другой раз, л
 Wisconsin,"Yes. Yes, Howard. Please.","Да. Да, Говард. Пожалуйста.",ai,,F49413674B0E29C048F8109787E54372
 Howard,Fine. Go on. Tell me about it.,Ладно. Давай. Расскажи мне об этом.,ai,,9CC300C940EEF5952641518B61D73267
 Howard,I'm just not feeling it today. Sorry.,Я просто не в настроении сегодня. Извини.,ai,,CFDB4B5D4430A6AD139AEF9907B32881
-Wisconsin,But... I just want you to have a good time! Listen - we can do something else! How about a riddle?,"Но... Я просто хочу, чтобы ты хорошо провел время! Слушай - мы можем сделать что-то другое! Как насчет загадки?",ai,,E58035E9474BD2C62639398DCBD4B0BD
+Wisconsin,But... I just want you to have a good time! Listen - we can do something else! How about a riddle?,"Но... Я просто хочу, чтобы ты хорошо провел время! Слушай, мы можем сделать что-то другое! Как насчет загадки?",ai,,E58035E9474BD2C62639398DCBD4B0BD
 Howard,Nope. Room number. Gimme.,Нет. Номер комнаты. Давай.,ai,,BF42D194405EE9193AF6C0BBBD3BA6CB
 Howard,Would that make you happy?,Это сделает тебя счастливым?,ai,,96F8E1A54C58DC841BD668B42655F5BD
 Wisconsin,Some other time? But what about your reception! What about your first impression of university!,В другой раз? Но как насчет твоего приема? Как насчет первого впечатления об университете!,ai,,A308930C45033D48C76108B63EBE6311
@@ -120,12 +120,12 @@ Howard,Let me try again.,Дай мне еще попробовать.,ai,,20EE83
 Wisconsin,"No, no. No hard feelings. None at all. I'll, um, I'll see you around. Thanks for playing, Howard.","Нет, нет. Без обид. Совсем нет. Я, эм, увидимся. Спасибо за игру, Говард.",ai,,B291110B42781CC979EB68A0B93ED18F
 Howard,"See ya, Wisconsin.","Увидимся, Висконсин.",ai,,FA60A4EE4D377AFFB63F0CA6F9150CE0
 Howard,You got it.,Понял.,ai,,AD4613B04D10E5FE0FCA80906AFD4E14
-Wisconsin,"Alright! A riddle it is, then! Are you ready for it? ""If you give me a smile, I'll give you one back - but if you drop me and go, I'll instantly crack. What am I?""","Ладно! Тогда загадка! Готов? ""Если ты улыбнешься мне, я улыбнусь в ответ - но если ты уронишь меня и уйдешь, я мгновенно разобьюсь. Что я?""",ai,,F8A8CA794B7B2660CB9F10A5BB57C404
+Wisconsin,"Alright! A riddle it is, then! Are you ready for it? ""If you give me a smile, I'll give you one back - but if you drop me and go, I'll instantly crack. What am I?""","Ладно! Тогда загадка! Готов? ""Если ты улыбнешься мне, я улыбнусь в ответ, но если ты уронишь меня и уйдешь, я мгновенно разобьюсь. Что я?""",ai,,F8A8CA794B7B2660CB9F10A5BB57C404
 Howard,Crack? Something fragile?,Разобьюсь? Что-то хрупкое?,ai,,94BF13E04E6DCCE34DE4CC8CAE596DAE
 Howard,"...Is it you, Wisconsin?","...Это ты, Висконсин?",ai,,E8067E2D4BE416DC6E1915A64C743D7A
 Howard,"If it can smile, it must be a person, right?","Если оно может улыбаться, это должен быть человек, да?",ai,,712C815046B0F90B88A9A4BCA6C2B9EF
 Wisconsin,"I do have a riddle prepared too, if that sounds better?","У меня тоже есть загадка, если хочешь?",ai,,7801D2294985A33CEE4A8ABF10D4CBCD
-Howard,"Oof. Hard pass. Sorry, Wisconsin.","Уф. Твердый пас. Извини, Висконсин.",ai,,947DE8A4463E0FE18CCE6B8D376A8747
+Howard,"Oof. Hard pass. Sorry, Wisconsin.","Уф. Точно нет. Извини, Висконсин.",ai,,947DE8A4463E0FE18CCE6B8D376A8747
 Howard,"Alright, give me the riddle.","Ладно, давай загадку.",ai,,040558B146907D991E132D80FE948CDB
 Wisconsin,"Howard! That's awful! No, it's not!","Говард! Это ужасно! Нет, это не так!",ai,,0DA6315A4ADAD3E08BE0CE9FC84A1379
 Howard,I give up. What's the answer?,Я сдаюсь. Какой ответ?,ai,,AA70F4294716FC0B7704C594F5FE8974
@@ -136,13 +136,13 @@ Howard,"Alright, let me try again.","Ладно, дай мне еще попро
 Wisconsin,"I don't- No. No, not that. ","Я не... Нет. Нет, не это.",ai,,4BEBDDA14AA4D48D6E58C2B49DECE4C0
 Howard,I give up. What's the answer?,Я сдаюсь. Какой ответ?,ai,,2EC3556A4E15F2F9595E67A9A53B9BF9
 Howard,"Alright, let me try again.","Ладно, дай мне еще попробовать.",ai,,1795F3AB4E3F95A46CF0A1A7315740E0
-Wisconsin,"I'll get you a tougher one next time! Since you solved the riddle, I'll also tell you which room you're staying in! It's 304, all the way down the hall!","В следующий раз я дам тебе что-то посложнее! Раз ты отгадал загадку, я также скажу, в какой комнате ты остановишься! Это 304, в конце коридора!",ai,,87CB110D455C890733F7BAB45731B924
+Wisconsin,"I'll get you a tougher one next time! Since you solved the riddle, I'll also tell you which room you're staying in! It's 304, all the way down the hall!","В следующий раз я дам тебе что-то посложнее! Раз ты отгадал загадку, я также скажу, в какой комнате ты будешь жить! Это 304, в самом конце коридора!",ai,,87CB110D455C890733F7BAB45731B924
 Howard,Finally. See ya.,Наконец-то. Увидимся.,ai,,5B7235584DE984F1A23535AB283405FB
 Howard,"Sweet. Thanks, Wisconsin.","Круто. Спасибо, Висконсин.",ai,,C0A07E454211953F893A91AED336EB21
-Wisconsin,"I'm so glad you liked it! Oh, and before I forget - you're staying in room 304! It's all the way down the hall!","Я так рад, что тебе понравилось! О, и прежде чем я забуду - ты остановишься в комнате 304! Это в конце коридора!",ai,,3D3A14C3454C95EF685030B45F01C60E
+Wisconsin,"I'm so glad you liked it! Oh, and before I forget - you're staying in room 304! It's all the way down the hall!","Я так рад, что тебе понравилось! О, и прежде чем я забуду: ты будешь жить в комнате 304! Это в самом конце коридора!",ai,,3D3A14C3454C95EF685030B45F01C60E
 Howard,"Finally. Later, man.","Наконец-то. Пока, чувак.",ai,,0627F8AD4074A12BC3B8EB9346ED60CA
 Howard,"Great. See you, Wisconsin.","Отлично. Увидимся, Висконсин.",ai,,FCFAF2794B748FB8EF907785F83FD1FA
-Wisconsin,"Oh, right! You're staying in 304 - it's all the way down the hall!","О, точно! Ты остановишься в 304 - это в конце коридора!",ai,,7E911FA340C85D8D7E2D7E8A57B16B23
+Wisconsin,"Oh, right! You're staying in 304 - it's all the way down the hall!","О, точно! Ты будешь жить в 304 - это в конце коридора!",ai,,7E911FA340C85D8D7E2D7E8A57B16B23
 Howard,Down the hall. Got it.,В конце коридора. Понял.,ai,,7E6CCA81479D83E7CB05A4990524F4AB
 Howard,"Perfect. Thanks, Wisconsin.","Отлично. Спасибо, Висконсин.",ai,,03BC820B4ABA3A1B3134E69A12F7C070
 Wisconsin,"No problem! Oh, and your roommate is already there, so don't be surprised!","Не за что! О, и твой сосед уже там, так что не удивляйся!",ai,,CBB8374B4C5F4B0B0B636AB126D704F5
@@ -188,11 +188,11 @@ Wisconsin,"Howdy, partner! Did you have a chance to check out your room yet?","�
 Howard,"I did, and I met Larry. ","Да, и я встретил Ларри.",ai,,D01EAFD445CD5C88332C068708F228AE
 Howard,Not yet.,Еще нет.,ai,,BA9C0C8546FE0A013ECEB5B113FF0CFA
 Howard,I gotta go. See ya.,Мне пора. Увидимся.,ai,,C00BA4CE45B40E0771BBFBB88CCC832F
-Wisconsin,For now! You'll be staying in 304 - it's all the way down the hall.,Пока что! Ты остановишься в 304 - это в конце коридора.,ai,,19C8A14B48C074A86CCA3CA70108C72B
+Wisconsin,For now! You'll be staying in 304 - it's all the way down the hall.,Пока что! Ты будешь жить в 304 - это в конце коридора.,ai,,19C8A14B48C074A86CCA3CA70108C72B
 Howard,"Finally. I'll see you later, man.","Наконец-то. Увидимся позже, чувак.",ai,,D47AFB374F747BEFB093C8BDDE4CF458
 Wisconsin,"Aw shucks, thanks Howard! Now, I bet you want to get to your room, right? It's the one at the end of the hall, 304!","О, спасибо, Говард! Теперь, я уверен, ты хочешь попасть в свою комнату, да? Это та, что в конце коридора, 304!",ai,,797482BA4D3548550BBE009C89D1D822
 Howard,"Finally. I'll see you later, man.","Наконец-то. Увидимся позже, чувак.",ai,,214C016745254377EFD2AF8A7B39B4B9
-Wisconsin,"You- Ah, hah. Haha. That was a joke, right? You're just being a goofy goofer. Classic Howard! See the room all the way down the hall? That's where you're staying! 304!","Ты... Ах, ха-ха. Это была шутка, да? Ты просто шутишь. Классический Говард! Видишь комнату в конце коридора? Там ты остановишься! 304!",ai,,02922BDA4E863ED96CDF56ADBA8A2ADA
+Wisconsin,"You- Ah, hah. Haha. That was a joke, right? You're just being a goofy goofer. Classic Howard! See the room all the way down the hall? That's where you're staying! 304!","Ты... Ах, ха-ха. Это была шутка, да? Ты просто дурачишься. Классический Говард! Видишь комнату в конце коридора? Там ты и будешь жить! 304!",ai,,02922BDA4E863ED96CDF56ADBA8A2ADA
 Howard,"Finally. I'll see you later, man.","Наконец-то. Увидимся позже, чувак.",ai,,0A9404924561D02167B373B03BAECB11
 Wisconsin,"Sounds good! Oh, and your roommate is already there, so don't be surprised if you see a stranger in your room, haha!","Отлично! О, и твой сосед уже там, так что не удивляйся, если увидишь незнакомца в своей комнате, ха-ха!",ai,,19749B734090474BD85281897283D17D
 Howard,[Leave],[Уйти],ok,,C7A716EF41E0DCC680AC768E2F76E1D5

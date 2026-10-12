@@ -76,10 +76,10 @@ Clarissa,Give me a moment. I'm not done here yet.,Дай мне минуту. Я
 Uncle,It's the least I can do. Lots of emotions today.,"Это меньшее, что я могу сделать. Сегодня столько эмоций.",ai,,50D88DF3464DABEF01228E8DB5E76A4E
 Clarissa,...Are you fucking serious?,"...Ты, на хрен, серьёзно?",ai,,2991DD734AE1EC29A7648AA6CC7D4750
 Clarissa,That doesn't make it better.,Лучше от этого не становится.,ai,,C22E89704460264D43210E8CEF8E42C6
-Uncle,"Would it? Oh no, I see what you're doing. You knock that off, Clarissa. You try to play tricks like that on your uncle, and you'll see what happens.","Было бы? О нет, я вижу, что ты делаешь. Прекрати, Кларисса. Попробуешь так же играть со своим дядей - и увидишь, что будет.",ai,,87C541D548384CADCE2DEDB3CEFB38A8
+Uncle,"Would it? Oh no, I see what you're doing. You knock that off, Clarissa. You try to play tricks like that on your uncle, and you'll see what happens.","Было бы? О нет, я вижу, что ты делаешь. Прекрати, Кларисса. Попробуешь так же играть со своим дядей, и увидишь, что будет.",ai,,87C541D548384CADCE2DEDB3CEFB38A8
 Clarissa,Mm-hm.,Угу.,ai,,9EE5B4EB4E354FC81FA43FA3B198A9B0
 Clarissa,"[Shrug] Wow, you caught me this time. One out of three isn't bad, I guess.","[Пожать плечами] Ух ты, на этот раз ты меня раскусил. Один из трёх - неплохо, наверное.",ai,,22FEFF394BD45A7D8F39099C33EC3BC5
-Uncle,"What do you mean...hey! I see what you're doing, kid. Very funny. Come on - let's head to the reception.","Что ты имеешь в виду... эй! Вижу я, что ты творишь, малышка. Очень смешно. Пойдём - на поминки.",ai,,386E294F443BBEE71F13C495CF179C81
+Uncle,"What do you mean...hey! I see what you're doing, kid. Very funny. Come on - let's head to the reception.","Что ты имеешь в виду... эй! Вижу я, что ты творишь, малышка. Очень смешно. Пойдём на поминки.",ai,,386E294F443BBEE71F13C495CF179C81
 Clarissa,"Alright, let's go.","Ладно, поехали.",ai,,5A819A3A4454A2B2AEA566856F0F4D05
 Clarissa,Give me a moment. I'm not done here yet.,Дай мне минуту. Я здесь ещё не закончила.,ai,,436903674C5D2E04E0BEF9A5C580631D
 Uncle,"Now come on! Let's get us both to the reception. People are waiting for us, I'm sure.","А ну пойдём! Давай доберёмся до поминок вместе. Люди ждут нас, не сомневаюсь.",ai,,D32A083A4B10C7F55D4B439B95E7E853
@@ -87,7 +87,7 @@ Clarissa,"Alright, let's go.","Ладно, поехали.",ai,,31D6421048B53FF1
 Clarissa,"Give me a moment, I'm not done here yet.","Дай мне минуту, я здесь ещё не закончила.",ai,,FCD63B96484949D8617B8D8EA77C09F8
 Uncle,"Then you best get to asking nicely, don't you? For now, why don't we head to the reception?","Тогда тебе лучше научиться просить повежливее, не так ли? А пока давай-ка поедем на поминки?",ai,,C63A4DF8473D44CB76093BBBEBE941F2
 Clarissa,"Alright, let's go.","Ладно, поехали.",ai,,3F3E81E2454A71061F586D99963626DF
-Clarissa,Give me a moment - I'm not done here yet.,Дай мне минуту - я здесь ещё не закончила.,ai,,F7D1128F4C40AA424741B5BEE6BF0709
+Clarissa,Give me a moment - I'm not done here yet.,"Дай мне минуту, я здесь ещё не закончила.",ai,,F7D1128F4C40AA424741B5BEE6BF0709
 Uncle,"Strangers to you, certainly. They knew your grandfather, though. I know they're not family, but they have a right to be here. Some of them, at least.","Для тебя - безусловно, чужие. Но они знали твоего дедушку. Знаю, они не семья, но у них есть право быть здесь. По крайней мере, у некоторых.",ai,,C538DE81463315963E33FC9B5A1AC91C
 Clarissa,Doesn't mean I have to like it.,"Это не значит, что мне это должно нравиться.",ai,,F8B3AAC14D90F25ECE03CDA4A8C23A2C
 Uncle,I saw that. Very clever.,Я видел. Очень ловко.,ai,,15951ACA4933CA061897B2B6EF8A7FF9
@@ -98,7 +98,7 @@ Clarissa,I'd rather have enemies than these vultures for friends.,"Лучше в
 Clarissa,Just needed it out of my system.,Просто нужно было выпустить пар.,ai,,5A8479D24B4B3D1F0293B5B145870994
 Uncle,"Better to have any friend than an enemy, Clarissa. Someday, you'll see that.","Лучше любой друг, чем враг, Кларисса. Когда-нибудь поймёшь.",ai,,1CDE38704B9FCDC68F9AD0B80F5BB774
 Clarissa,I'm not in the mood for wisdom right now.,Сейчас мне не до мудрости.,ai,,E0BC890C4EDF787891D55F9A95F9508B
-Clarissa,"Speaking of enemies - what exactly is my father up to, uncle?","Раз уж о врагах - чем вообще занят мой отец, дядя?",ai,,C50D0BA64D2AA6EF26F3A491DEDD191D
+Clarissa,"Speaking of enemies - what exactly is my father up to, uncle?","Раз уж о врагах, чем вообще занят мой отец, дядя?",ai,,C50D0BA64D2AA6EF26F3A491DEDD191D
 Clarissa,"In the meantime, I see you've got a new car.","Кстати, у тебя новая машина, как я вижу.",ai,,DC9FFC03420015CA32924AAFD069A09F
 Uncle,"Sure. Could use some work, though.","Конечно. Правда, ей бы не помешала доработка.",ai,,34D850174400E10ECFF245B47BF009AD
 Clarissa,Tell me - what exactly is my father doing out here?,Скажи - чем конкретно мой отец здесь занимается?,ai,,CBA5AE304F44BFDCCA11B483381AA2DA

@@ -63,7 +63,7 @@ Howard,So a Great Ape.,То есть Великая Обезьяна.,ai,,3B559E
 Wisconsin,"As rich as they come! Not entirely sure what his field was, but apparently more than enough to earn a decent chunk of money.","Богаче некуда! Не совсем уверен, чем он занимался, но, видимо, достаточно, чтобы заработать приличную кучу денег.",ai,,C3099AEE4F351728E1DAACB4A4FA50E9
 Howard,Yeah. I saw the statue.,Ага. Я видел статую.,ai,,B0CD60EF45AB398EB332ECB35D9AECAC
 Howard,Mining money. If that's a field.,Деньги на добыче. Если это можно назвать сферой.,ai,,B6AAA9B14DD192D52D1DC29506E15B73
-Wisconsin,"Y-yes. You've seen the statue, right? You must have - it's right here in the hallway.","Д-да. Ты же видел статую, да? Наверняка - она прямо здесь, в коридоре.",ai,,A4766C0D4D52FB506DD39D8D1073BB03
+Wisconsin,"Y-yes. You've seen the statue, right? You must have - it's right here in the hallway.","Д-да. Ты же видел статую, да? Наверняка видел. Она прямо здесь, в коридоре.",ai,,A4766C0D4D52FB506DD39D8D1073BB03
 Howard,Couldn't miss it if I wanted to.,Не заметить её при всём желании невозможно.,ai,,D897A41145AEF6D1A0636C82F8A55221
 Howard,It's hideous.,Она ужасна.,ai,,3523C8B64F7FE7E7CB297C9E8C15C015
 Wisconsin,"I-I think it's nice, Howard.","М-мне кажется, она красивая, Говард.",ai,,719619E44CC83559B60B7DAACDCD4063
@@ -145,7 +145,7 @@ Howard,"Fine, sure. Slow on picking up signals, aren't you?","Ну ладно, �
 Wisconsin,"No, everyone's usually really quiet in this dorm. Freja's got her instruments, of course, but I don't mind them. They say classical music is good for you. Somehow.","Нет, в этой общаге обычно все очень тихие. У Фреи, конечно, её инструменты, но я не против. Говорят, классическая музыка полезна. Почему-то.",ai,,DE78C5964B5B6485CDA32B8CEE2E2AFF
 Howard,"Freja, huh?","Фрея, значит?",ai,,E9812B2B4933B09C7B4A1AA6AFF8BCB8
 Howard,Uh-huh. Sure.,Ага. Конечно.,ai,,BCB3787E465272AF9E8F25820F1C3C65
-Wisconsin,"Yeah? Okay, good! I mean, cool, cool. That could be fun. I'd like to hang around with you, too.","Да? Ну ладно, отлично! В смысле, круто, круто. Может быть весело. Я бы тоже с тобой потусил.",ai,,2BC4CF3149357947F7BF37A0189DB433
+Wisconsin,"Yeah? Okay, good! I mean, cool, cool. That could be fun. I'd like to hang around with you, too.","Да? Ну ладно, отлично! В смысле, круто, круто. Может, будет весело. Я бы тоже с тобой потусил.",ai,,2BC4CF3149357947F7BF37A0189DB433
 Howard,"It's a date, then.","Значит, свидание.",ai,,A49F6541484BED9E59EC718BC74035D6
 Howard,"I'll let you know, okay?","Дам тебе знать, ладно?",ai,,5B742EDA44A20926706E4A87082EE587
 Wisconsin,"So, uh - how come you're so talkative today?","Так, эм, а почему ты сегодня такой разговорчивый?",ai,,0E3D1763400FEF31F54060B258AB1C58
@@ -214,10 +214,10 @@ Wisconsin,"Oh! Uh, thank you! That. um, yeah. You too!","О! Эм, спасиб�
 Howard,"...Anyway, I'll let you get back to work.","...В общем, не буду отвлекать тебя от работы.",ai,,CA890BF04230B7CC4AF0BDB9CAC19DD0
 Howard,[Say nothing in disappointment],[Разочарованно промолчать],ai,,9535CBEC4A242E5F1681F6854038B6C1
 Wisconsin,"Yeah? I mean, that'd be nice! If you have time. And if I have time, I guess. I don't really feel like I get many moments to myself nowadays.","Да? В смысле, было бы здорово! Если у тебя будет время. И если у меня будет время, наверное. Мне в последнее время вообще кажется, что на себя времени почти не остаётся.",ai,,A5093DDE494FD02E3FDDD681E680FC9E
-Howard,"Same. If nothing else, we can be busy together.",Так же. Хотя бы будем заняты вместе.,ai,,DD3B75DB4F840A9C148272859C3B3EC3
+Howard,"Same. If nothing else, we can be busy together.",У меня тоже. Хотя бы будем заняты вместе.,ai,,DD3B75DB4F840A9C148272859C3B3EC3
 Howard,"Don't worry, man. I'll help you relax.","Не волнуйся, чувак. Я помогу тебе расслабиться.",ai,,DA77897B4C65FAB50F0A85BC54721666
-Howard,"Same. If nothing else, we can GET busy together.",Так же. Хотя бы будем ЗАНЯТЫ друг другом вместе.,ai,,6BF62EFC49C08DB42C860695C2423384
-Wisconsin,"Y-you could? How did you know? How can you tell? I mean, uh, good! We're like, on the same wavelength. We're just, you know. Um. Digging each other.","Т-ты можешь? Откуда ты знаешь? Как ты понял? В смысле, эм, хорошо! Мы на одной волне. Мы просто, ну, понимаешь. Эм. Друг друга чувствуем.",ai,,7D5798444247D0CFC8D2999ABD6312FC
+Howard,"Same. If nothing else, we can GET busy together.",У меня тоже. Хотя бы ЗАЙМЁМСЯ кое-чем вместе.,ai,,6BF62EFC49C08DB42C860695C2423384
+Wisconsin,"Y-you could? How did you know? How can you tell? I mean, uh, good! We're like, on the same wavelength. We're just, you know. Um. Digging each other.","Т-ты можешь? Откуда ты знаешь? Как ты понял? В смысле, эм, хорошо! Мы на одной волне. Мы просто, ну, понимаешь. Эм. Запали друг на друга.",ai,,7D5798444247D0CFC8D2999ABD6312FC
 Howard,"I can live with that, yeah. Sounds good.","С этим я могу жить, да. Звучит неплохо.",ai,,19B60FDC46B785C45DBF08A8024F29E0
 Howard,Wis - less is more.,"Вис, краткость - сестра таланта.",ai,,1E813F55405B1410B06C53B47FFBEDD2
 Wisconsin,"Oh, phew. Thank you. That's a relief.",Фух. Спасибо. Камень с души.,ai,,347524524C4AAA26AF10AA9656FD303C
@@ -273,7 +273,7 @@ Howard,"Yeah, actually. Would you want to come along, sometime?",Вообще-т
 Wisconsin,"Me? Oh! Yeah! That'd be great! I'd love that. That's - yeah! Thanks for inviting me, Howie.","Я? О! Да! Было бы здорово! Мне бы очень понравилось. Это... да! Спасибо, что пригласил, Говчик.",ai,,945D142647AE805774DAC7AB6B9D5BF3
 Howard,"Of course, cutie.","Конечно, милый.",ai,,2FAD5A774F7D0A9391FB689128323BD3
 Howard,"Of course, man.","Конечно, чувак.",ai,,9833BBC14D1ED10568F3399F75A9B6A9
-Wisconsin,"Oh! Sorry, I just - don't catch sarcasm. I'm bad at reading signs.","О! Прости, я просто... не улавливаю сарказм. Я плохо считываю знаки.",ai,,97BF1F6347780ECCCD15F2B5EFDD1403
+Wisconsin,"Oh! Sorry, I just - don't catch sarcasm. I'm bad at reading signs.","О! Прости, я просто... не улавливаю сарказм. Я плохо понимаю намёки.",ai,,97BF1F6347780ECCCD15F2B5EFDD1403
 Howard,"Evidently. I'll let you get back to work, Wis.","Это очевидно. Не буду отвлекать тебя от работы, Вис.",ai,,7DCB1056454090118CA4DC97EB7E27ED
 Howard,Don't worry about it.,Не бери в голову.,ai,,7D9752B94AAD4D895ACD9281E3EE0D82
 Wisconsin,Oh! Thanks,О! Спасибо.,ai,,071DBD31472735AC0009E996B45DB4D3
@@ -294,10 +294,10 @@ Wisconsin,Oh? What's that?,О? Что именно?,ai,,CF3415FE4E67D5A0FD131397
 Howard,...Nevermind.,...Неважно.,ai,,77E4C3AA449370A939E972AEF2BEB598
 Howard,"Y-you, Wis. Was that not clear?","Т-ты, Вис. Разве не ясно?",ai,,280E159E4D96A569F205F69EA7D279DF
 Howard,"It starts with ""win"", if that narrows it down for you.","Она начинается на «зи», если тебе это сужает круг.",ai,,2184261B449AA38A17E3E59A62C08266
-Wisconsin,"Oh, me? Um...there's this nice park a few blocks from here. It's kind of slanted, so you can see the waterfront from the benches. I like to, uh, go there and just relax. Or make notes.","О, я? Эм... в паре кварталов отсюда есть симпатичный парк. Он такой наклонный, так что со скамеек видно набережную. Я люблю, эм, ходить туда и просто расслабляться. Или делать заметки.",ai,,F399C18A4478AB463D85EDADA4E2377C
+Wisconsin,"Oh, me? Um...there's this nice park a few blocks from here. It's kind of slanted, so you can see the waterfront from the benches. I like to, uh, go there and just relax. Or make notes.","О, я? Эм... в паре кварталов отсюда есть симпатичный парк. Он немного под уклоном, так что со скамеек видно набережную. Я люблю, эм, ходить туда и просто расслабляться. Или делать заметки.",ai,,F399C18A4478AB463D85EDADA4E2377C
 Howard,Can I come with you sometime?,Можно как-нибудь с тобой?,ai,,47391D2C4729B93FEC3979AA650B44C1
 Howard,That sounds wonderful.,Звучит чудесно.,ai,,EB5FFC2346570E5115CA0C8D19AEE25D
-Howard,"I'll be honest, Wisconsin. That sounds super awful.","Скажу честно, Висконсин: звучит ужасно скучно.",ai,,7288EA2D4827504CD9F85F842266DD6E
+Howard,"I'll be honest, Wisconsin. That sounds super awful.","Скажу честно, Висконсин: звучит ужасно.",ai,,7288EA2D4827504CD9F85F842266DD6E
 Wisconsin,"Oh! Got it. Just, um, remember the dorm rules! Please live by those, hah! If you don't mind! And speaking of rules, I should probably get back to work.","О! Понял. Только, эм, помни про правила общежития! Пожалуйста, соблюдай их, хах! Если ты не против! А раз уж речь о правилах, мне, наверное, пора вернуться к работе.",ai,,767931D541EC3752B2E67BB31B3EFFAF
 Howard,Okay.,Ладно.,ok,,03329CB948D23EC22CC72190BB543760
 Howard,Sure. Whatever.,Ага. Как скажешь.,ai,,1D1D8D7C4B6BF15BE414ED942A907E62
@@ -381,7 +381,7 @@ Wisconsin,"Like a - no! Just, like, um, helping out! You know, getting things ba
 Howard,Sure. That's be nice.,Конечно. Было бы здорово.,ai,,CFB5F2894FF0C7143D3F9B860339D3ED
 Howard,"I wouldn't mind it being like a date, Wis.","Я был бы не против, чтобы это было похоже на свидание, Вис.",ai,,D8976FD54E23A767FA741084612F640A
 Wisconsin,"R-really? Well, uh, let's mark it down as a organising meeting and, like, um, take it from there?","П-правда? Ну, э-э, давай запишем это как организационную встречу и, ну, эм, там посмотрим?",ai,,ADC66C3F4557485859399D83C405627F
-Howard,"I'm happy to take it from there, then.",Тогда с радостью посмотрю.,ai,,9E3CD47248AB48013B5CEC9DE039D01B
+Howard,"I'm happy to take it from there, then.",Тогда с радостью там и посмотрим.,ai,,9E3CD47248AB48013B5CEC9DE039D01B
 Howard,It's alright. Let's just call it a meeting.,Ладно. Давай просто назовём это встречей.,ai,,A12748A14E6C286DC28C8B8BB144D0EE
 Wisconsin,"Okay! Yeah, sure! Alright! I'll - we'll do that! Anyway, I should probably get back to work for now. These notes won't take themselves!","Хорошо! Да, конечно! Отлично! Я... мы так и сделаем! В общем, мне, наверное, пора пока вернуться к работе. Эти заметки сами себя не сделают!",ai,,A764816C495DFB8F8558878D636F08BE
 Howard,"Go get 'em, tiger.","Покажи им, тигр.",ai,,1C05FBCB4A34FD36F3A602B1A1110CC0
@@ -545,7 +545,7 @@ Howard,Wait - how did I do?,Погоди - как у меня получилос
 Howard,...That's it?,...И всё?,ai,,303E84BF4EEF716832186EBF17FCDFB3
 Wisconsin,"One thing, actually - you feeling okay, Howard?","Кстати, один момент: ты в порядке, Говард?",ai,,F82E311C47A31DCC6615FAAAA521D187
 Howard,Just great. Peachy.,Отлично. Просто прекрасно.,ai,,42AF5DFF4737375671F57E9F49BB4348
-Howard,I certainly feel like this could have gone better.,"Я определённо чувствую, что могло пройти лучше.",ai,,0F98DA7D4C554CBB2AA032B5E78B6652
+Howard,I certainly feel like this could have gone better.,"Мне определённо кажется, что могло быть и лучше.",ai,,0F98DA7D4C554CBB2AA032B5E78B6652
 Howard,"Nah. I'll see you around, Wis.","Не-а. Увидимся, Вис.",ai,,9C6DD2294F67B12C40FDFAB2B97D122B
 Wisconsin,"Oh, and, um, Howard? You're being, hah, really charming today. Like, you're REALLY charismatic. Heh.","О, и, эм, Говард? Ты сегодня, хах, такой обаятельный. Ну, ты ПРАВДА очень харизматичный. Хех.",ai,,2229676641B20CB4964DF2AFE63097D4
 Howard,Yeah? Nice.,Да? Отлично.,ai,,25A0E47047849E871C3F8F9A07B0FE2A
@@ -627,7 +627,7 @@ Howard,Isn't this the only higher education in the city?,Разве это не 
 Howard,So what are you studying?,А что изучаешь ты?,ai,,A9E509B347A08657A91C04A223E27985
 Howard,"(INVESTIGATIVE) ...You study sculpture, right?","(ПЫТЛИВОСТЬ) ...Ты ведь учишься на скульптора, да?",ai,,33E90BEF431B60117638219A678D2EA9
 Howard,"Whatever you say, man.","Как скажешь, чувак.",ai,,9073553845F97F23D7D0C79C362CF0CA
-Wisconsin,"Well, I mean. Maybe. But there's plenty of private tutors out there, too - not everyone comes here, you know.","Ну, в смысле. Может быть. Но полно частных репетиторов - не все ходят сюда, знаешь ли.",ai,,B7227FC04B5BCA2AAEDA99A107996509
+Wisconsin,"Well, I mean. Maybe. But there's plenty of private tutors out there, too - not everyone comes here, you know.","Ну, в смысле. Может быть. Но полно частных репетиторов. Не все же ходят сюда, знаешь ли.",ai,,B7227FC04B5BCA2AAEDA99A107996509
 Howard,"You'd think the City would spend more money on it, though.","Можно было бы подумать, что Город тратит на это больше денег.",ai,,588B68794FBD5E439987DE8806604991
 Howard,"Yeah, I don't see many rich kids around.","Да, богатых детишек я тут не вижу.",ai,,2AB189D24CC2282814DFBE9B142AC902
 Howard,To the university? Or the Arts faculty?,На университет? Или на Факультет искусств?,ai,,216CF311480D66A08D9BE8B756795F53
