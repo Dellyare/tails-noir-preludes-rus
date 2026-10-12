@@ -7,7 +7,7 @@ Notification,The visitor enjoyed your confidence.,Гостю понравила�
 Notification,The visitor liked that.,Гостю это понравилось.,ai,,0EEFF3364CA5D75D2611ACB876616F83
 Notification,The visitor seems to think that your professionalism checks out.,"Гость, похоже, убедился в твоём профессионализме.",ai,,06C5BBE14764C4F1B97B4D81F4EA686B
 Notification,The visitor didn't seem to like that.,"Гостю это, кажется, не понравилось.",ai,,337AB9AF4E7B7B8DB22C23848066B30D
-Notification,The visitor seems to think you're on the same page. He likes that.,"Гость, похоже, считает, что вы с ним мыслите одинаково. Ему это нравится.",ai,,C43162E145346F2CE570B68E7FB4D038
+Notification,The visitor seems to think you're on the same page. He likes that.,"Гость, похоже, считает, что ты с ним на одной волне. Ему это нравится.",ai,,C43162E145346F2CE570B68E7FB4D038
 Notification,The visitor seems doubtful.,"Гость, похоже, сомневается.",ai,,5616B52743ED9CCAF12538882F0EDE6F
 Notification,The visitor seemed to take that seriously.,"Гость, кажется, воспринял это всерьёз.",ai,,3C0A70D446DEBAA2714DCBA9CDF381DE
 Notification,The visitor seems a little surprised.,"Гость, похоже, слегка удивлён.",ai,,4B3CD6BF4F86A6FAF14A0DBD19E08B6D
@@ -109,8 +109,8 @@ Notification,The visitor seems amused.,"Гостя это, похоже, поз�
 Notification,You and Jorge will live to see another day.,Вы с Джорджем доживёте до завтра.,ai,,42701AF748D9F9BCD0367891D865D582
 Notification,The visitor thinks you're full of shit.,"Гость считает, что ты гонишь.",ai,,AA210A4244990B008BAA6BA6BFC64E22
 Notification,The visitor took note of you asserting yourselves.,"Гость отметил, что вы стоите на своём.",ai,,54E90D84452967FD1214898E802DF823
-Notification,The visitor liked your confidence.,Гостю понравилась ваша уверенность.,ai,,AE9AA2EC493062CCF5BBCA89CEDB5311
-Notification,The visitor enjoyed your confidence.,Гостю понравилась ваша уверенность.,ai,,43308E05498940E85D4CFEB9A54C0075
+Notification,The visitor liked your confidence.,Гостю понравилась твоя уверенность.,ai,,AE9AA2EC493062CCF5BBCA89CEDB5311
+Notification,The visitor enjoyed your confidence.,Гостю понравилась твоя уверенность.,ai,,43308E05498940E85D4CFEB9A54C0075
 Notification,The visitor took note of your uncertainty.,Гость отметил твою неуверенность.,ai,,877940A9460DA8252CD8C1BBC7E24859
 Notification,The visitor seemed to enjoy the idea of that.,"Гостю, похоже, понравилась эта мысль.",ai,,9072A8C94FA883E364BC3CB3CB6F2767
 Notification,The visitor seems disappointed. Jorge looks annoyed.,"Гость, похоже, разочарован. Джордж выглядит раздражённым.",ai,,01563DED410250EE67E521898569A242
@@ -316,7 +316,7 @@ The Visitor,"Sure. I just saw some of the pages at the start. You know, it's fun
 Eli,"Oh, yes. We didn't actually know each other before this assignment - it just feels like it.","Да. На самом деле до этой командировки мы не были знакомы. Просто кажется, что были.",ai,,C027A39548B76871866862B370D97039
 Eli,...Moving on - should we review the journal now?,"...Идём дальше. Может, займёмся журналом?",ai,,6EE2D3F44D207867B40BDEA423E05BBF
 Eli,"...Yes, quite.","...Да, вполне.",ai,,5C318B1F4FA56667BD9CDD9B5454E635
-The Visitor,"Well, let's start from the top! Would you mind showing me around which time you fellas first dug up our little friend?","Что ж, начнём с начала! Не покажете, когда вы, ребята, впервые откопали нашего маленького друга?",ai,,6E7729274B01E4A26FD00E87D58950A4
+The Visitor,"Well, let's start from the top! Would you mind showing me around which time you fellas first dug up our little friend?","Что ж, начнём с начала! Не покажете, когда вы, ребята, впервые откопали нашу маленькую штуку?",ai,,6E7729274B01E4A26FD00E87D58950A4
 Eli,[Show him the page] Here. A little while back.,[Показать ему страницу] Вот. Некоторое время назад.,ai,,8CC0A1B449709C6A541D4A87873D8716
 Eli,You seem familiar enough with the journals already - I'm sure you can find it.,"Вы, похоже, уже неплохо знакомы с журналами. Уверен, вы найдёте сами.",ai,,5CB438C34ACC5DF3C32802A2203CA2AB
 The Visitor,"Ah, now that makes more sense! I was trying to put pieces together and they just didn't seem to fit - glad you could clear that up for me, bud.","А, вот теперь понятно! Я пытался сложить картинку, а кусочки не сходились. Спасибо, что прояснили, дружище.",ai,,C5A0F71E49E129F071777ABD8A0B28BF
@@ -332,17 +332,17 @@ The Visitor,"Hah! That's just like you, glasses. Always stand your ground, don't
 Eli,...Yes. I suppose.,...Да. Пожалуй.,ai,,BD137B004D2F94FB7C415B92F34C0230
 Eli,[Say nothing],[Промолчать],ai,,EB31006A4EF4F169A924B6A26086F210
 Eli,I'm glad someone finally sees things the same way.,"Рад, что кто-то наконец смотрит на вещи так же.",ai,,3F0C02F247E067A620F3D28B9AFAD27D
-The Visitor,"Not at all! Let's get on with the journals now, eh? Would you mind showing me around which time you fellas first dug up your little friend?","Нисколько! Давайте лучше займёмся журналами, а? Не покажете, когда вы, ребята, впервые откопали вашего маленького друга?",ai,,2469A793414DD705F72A5A91BA5E20E4
+The Visitor,"Not at all! Let's get on with the journals now, eh? Would you mind showing me around which time you fellas first dug up your little friend?","Нисколько! Давайте лучше займёмся журналами, а? Не покажете, когда вы, ребята, впервые откопали вашу маленькую штуку?",ai,,2469A793414DD705F72A5A91BA5E20E4
 Eli,[Show him the page] Here. A little while back.,[Показать ему страницу] Вот. Некоторое время назад.,ai,,7EBEA27243D134210AED2C94B8242A32
 Eli,You seem familiar enough with the journals already - I'm sure you can find it.,"Вы, похоже, уже неплохо знакомы с журналами. Уверен, вы найдёте сами.",ai,,6AFB49334DE0D45513BD7F91234B5C2D
-The Visitor,"Not at all! Let's get on with the journals now, eh? Would you mind showing me around which time you fellas first dug up your little friend?","Нисколько! Давайте лучше займёмся журналами, а? Не покажете, когда вы, ребята, впервые откопали вашего маленького друга?",ai,,AD3FF81C4A24CA34CFE6B28D773A265C
+The Visitor,"Not at all! Let's get on with the journals now, eh? Would you mind showing me around which time you fellas first dug up your little friend?","Нисколько! Давайте лучше займёмся журналами, а? Не покажете, когда вы, ребята, впервые откопали вашу маленькую штуку?",ai,,AD3FF81C4A24CA34CFE6B28D773A265C
 Eli,[Show him the page] Here. A little while back.,[Показать ему страницу] Вот. Некоторое время назад.,ai,,744B28074652227F32FF388333F29C70
 Eli,You seem familiar enough with the journals already - I'm sure you can find it.,"Вы, похоже, уже неплохо знакомы с журналами. Уверен, вы найдёте сами.",ai,,DCF94D89408797A7559F51B791A33F78
 The Visitor,"Hah! Man, it really is wild out here, huh? You two had the chance to call dibs on your own private kingdom, but you're ruling it like it's...I don't know, less fun than that. But hey, I'm not here to yuck anyone's yum. You guys do whatever works for you, that's what I say.","Ха! Дикое место, да? Вам двоим выпал шанс застолбить собственное королевство, а вы правите им так, будто это... не знаю, не так уж весело. Но я не лезу в чужой монастырь. Делайте, как вам удобно, вот что я говорю.",ai,,267B0ED54809118E1335E3A0EB273D2C
 Eli,"Sorry, I don't think I caught your name.","Простите, кажется, я не расслышал ваше имя.",ai,,1A1D874546124F351A0C8298D3A9A432
 Eli,"Who knows - maybe it would work for a lot of other people, too.","Кто знает, может, многим другим это тоже подошло бы.",ai,,4A04547048712B63872300847DB23DF8
 Eli,Noted. What can we do for you?,Принято. Чем мы можем вам помочь?,ai,,DBDBC0874A913BA9179382B735C3754A
-The Visitor,"Not at all! Let's get on with the journals now, eh? Would you mind showing me around which time you fellas first dug up your little friend?","Нисколько! Давайте лучше займёмся журналами, а? Не покажете, когда вы, ребята, впервые откопали вашего маленького друга?",ai,,0EF0DB874DD084652101BBAE286E3A15
+The Visitor,"Not at all! Let's get on with the journals now, eh? Would you mind showing me around which time you fellas first dug up your little friend?","Нисколько! Давайте лучше займёмся журналами, а? Не покажете, когда вы, ребята, впервые откопали вашу маленькую штуку?",ai,,0EF0DB874DD084652101BBAE286E3A15
 Eli,[Show him the page] Here. A little while back.,[Показать ему страницу] Вот. Некоторое время назад.,ai,,DBD40DE841349F92A98D4292BD3AA6AA
 Eli,You seem familiar enough with the journals already - I'm sure you can find it.,"Вы, похоже, уже неплохо знакомы с журналами. Уверен, вы найдёте сами.",ai,,0234324E449825D5451A12B2B74BB4F3
 The Visitor,"There we go, August 14th...I see your colleague mentioned something about a low hum. This turned out to be the scientific discovery of the century, I presume?","Вот оно, четырнадцатое августа... Ваш коллега упоминает какой-то низкий гул. Это и оказалось научным открытием века, надо полагать?",ai,,79B9741B47351CADFE244BB0D72650BA
@@ -376,7 +376,7 @@ Eli,Of course. We have to rely on HQ.,Конечно. Мы должны пола
 The Visitor,"Sure, sure. Now, let's have a look...well, I'm seeing some interesting scribbles here - you fellas figured HQ was lying about the wastes, huh? ""Lie"". That's a strong word, for sure - bet you didn't mean to sound that harsh, did you?","Ага, ага. Так, посмотрим... ого, тут любопытные каракули: вы, ребята, решили, что штаб лжёт насчёт пустошей, да? «Ложь». Сильное слово, конечно. Бьюсь об заклад, вы не хотели звучать так резко, а?",ai,,4A20306E4EE1973FF3A057875539B186
 Eli,I said what I said.,"Что написал, то написал.",ai,,B20790524ABEB74D0CF41EB173F3E901
 Eli,"Well, we found life, didn't we?","Ну, мы ведь нашли жизнь, разве нет?",ai,,0F50BB4042BF0FA91DB4E59768CC6181
-The Visitor,"No kidding. Now, let's see...oh, I like this - not only do you agree with HQ about the wastes not being able to sustain life, but you fellas went and proved it! No wonder your little friend died off - seems to me like everything out here is destined to die.","Ну надо же. Так, посмотрим... о, а вот это мне нравится: вы не только согласны со штабом, что пустоши не способны поддерживать жизнь, но и сами это доказали! Неудивительно, что ваш маленький друг умер. По-моему, всему здесь суждено умереть.",ai,,F801A7AE4C6801410DF5F99FE0882B56
+The Visitor,"No kidding. Now, let's see...oh, I like this - not only do you agree with HQ about the wastes not being able to sustain life, but you fellas went and proved it! No wonder your little friend died off - seems to me like everything out here is destined to die.","Ну надо же. Так, посмотрим... о, а вот это мне нравится: вы не только согласны со штабом, что пустоши не способны поддерживать жизнь, но и сами это доказали! Неудивительно, что ваша маленькая штука умерла. По-моему, всему здесь суждено умереть.",ai,,F801A7AE4C6801410DF5F99FE0882B56
 Eli,Of course. Who are we to argue with HQ?,"Конечно. Кто мы такие, чтобы спорить со штабом?",ai,,F66F38EA47A0670FBA3B60B1A5D93E0C
 Eli,"To be fair, it was alive at first. I believe they should reconsider their theories on the wastes.","Справедливости ради, сначала он был жив. Думаю, им стоит пересмотреть свои теории о пустошах.",ai,,D0F9EB834FEF5CA12FDA38A8AF52143F
 Eli,"...Not everything, but I see your point.","...Не всё, но я понимаю вашу мысль.",ai,,0B1681574B5E5333AE570480803A27AD
@@ -544,10 +544,10 @@ The Visitor,"I couldn't say. All I know is that I can't wait to get back to the 
 Eli,It's our work. Me and Jorge's.,Это наша работа. Моя и Джорджа.,ai,,20B700514F4C7523484101AC6793156A
 Eli,That is correct.,Всё верно.,ai,,1A258A0B422FC4A270ABF6A4617E09EC
 Eli,"I don't know about ""super-genious"", but yes.","Не знаю насчёт «сверхгения», но да.",ai,,9E7995DE48B9D7E7434310B013B8920E
-The Visitor,"...This is it, huh? This is our little guy?","...Так это он, да? Наш малыш?",ai,,C6ABAA254143EF8EC8D131A4D083724A
+The Visitor,"...This is it, huh? This is our little guy?","...Так это она, да? Наша маленькая штука?",ai,,C6ABAA254143EF8EC8D131A4D083724A
 Eli,"This is the specimen, yes.","Да, это образец.",ai,,52BAF96A46037DF04C2B43B96BA9557D
 Eli,...We try not to personify it.,...Мы стараемся его не очеловечивать.,ai,,0DED7DEB40D64D17D44ABABEB2074B1C
-Eli,Yes. This is our little guy.,Да. Это наш малыш.,ai,,E9EBCCCD4855793688FC7AAB1860D3EB
+Eli,Yes. This is our little guy.,Да. Это наша маленькая штука.,ai,,E9EBCCCD4855793688FC7AAB1860D3EB
 Eli,"...Actually, we call it Bobby. Sometimes.",...Вообще-то мы зовём его Бобби. Иногда.,ai,,93EA634F401A35594D9FE69C3A25E27E
 Eli,...We've actually named it Joshua.,...Вообще-то мы назвали его Джошуа.,ai,,B6FC5D22432F8656E1649199CCA6C71B
 The Visitor,4-4JorgeGotShot,,,,63E135A043276AA778429D8BADCF2CD8
@@ -687,7 +687,7 @@ The Visitor,"I don't know - should you? Hah! I'm just pulling your leg, glasses.
 Eli,...Much appreciated.,...Очень признателен.,ai,,FCD92BB042839EE3CF5549BD8D1A3BCA
 Eli,[Observe him and say nothing],[Понаблюдать за ним молча],ai,,CC0334D04F60B116CF9263A6D5435673
 Eli,So you brought supplies for us?,Вы привезли нам припасы?,ai,,6239A1A24CEF4F901380A49285082DF2
-The Visitor,"Don't mention it! Now, if you don't mind, I'm going to have a look at the rest of this camp of yours. And we need to have a look at our little friend too, don't we?","Не за что! Теперь, если не возражаете, я осмотрю остальную часть вашего лагеря. И на нашего маленького друга взглянуть надо, не так ли?",ai,,DBA6709D46AA7C2C65537D870758DEC7
+The Visitor,"Don't mention it! Now, if you don't mind, I'm going to have a look at the rest of this camp of yours. And we need to have a look at our little friend too, don't we?","Не за что! Теперь, если не возражаете, я осмотрю остальную часть вашего лагеря. И на нашу маленькую штуку взглянуть надо, не так ли?",ai,,DBA6709D46AA7C2C65537D870758DEC7
 Eli,Yes. Would you like to see the Artifact now?,Да. Хотите увидеть Артефакт прямо сейчас?,ai,,0C235C714C231F9554C9D38601F8A7B0
 Eli,"Of course, but take your time.","Конечно, но не торопитесь.",ai,,FFEA691D45624F9BDE5D44BC42DF0094
 The Visitor,"...Well, you said it yourself - the thing's different from anything you've seen before, so it's bound to have some surprises up its sleeves! I'll just, uh, make sure I'm careful when we have a look at it.","...Ну, вы же сами сказали: эта штука не похожа ни на что, что вы видели, так что неожиданностей у неё в запасе хватит! Я, э-э, постараюсь быть осторожным, когда мы к ней подойдём.",ai,,1CB030224C38E286C3496EAACB7FAFB0
@@ -702,7 +702,7 @@ The Visitor,"...Oh. This last part, here...I think you might've made a mistake, 
 Eli,...Yes?,...Да?,ai,,1AC2EA294EA0CBBA137E2BA60A06C4DD
 Eli,[Say nothing],[Промолчать],ai,,007EF6DC45B4345F9B9ECCAA09DBDA6A
 Eli,"Ah, uh, yes. I know what you're referring to - I was just scared of it this morning. Previous experiences, and all that.","А, э-э, да. Я понимаю, о чём вы. Просто сегодня утром я его боялся. Прошлый опыт и всё такое.",ai,,4B5054434D982A8360EAE9B6EC48118D
-The Visitor,"Oh, my backseat's full of stuff! I'll have you guys come take a look at it once we're done with this tour, how about that? Speaking of the tour, I'd like to keep looking around for a bit. And we also have to pay a visit to our little friend, don't we?","О, у меня на заднем сиденье полно всякого! Покажу вам, ребята, когда закончим экскурсию, идёт? Кстати, об экскурсии: хочу ещё немного осмотреться. И ещё нам надо навестить нашего маленького друга, не так ли?",ai,,8FE85B44465099C6CB27439398161718
+The Visitor,"Oh, my backseat's full of stuff! I'll have you guys come take a look at it once we're done with this tour, how about that? Speaking of the tour, I'd like to keep looking around for a bit. And we also have to pay a visit to our little friend, don't we?","О, у меня на заднем сиденье полно всякого! Покажу вам, ребята, когда закончим экскурсию, идёт? Кстати, об экскурсии: хочу ещё немного осмотреться. И ещё нам надо навестить нашу маленькую штуку, не так ли?",ai,,8FE85B44465099C6CB27439398161718
 Eli,Yes. Would you like to see the Artifact now?,Да. Хотите увидеть Артефакт прямо сейчас?,ai,,F4D698D34E54A196BBCA5E916D83723D
 Eli,"Of course, but take your time.","Конечно, но не торопитесь.",ai,,8E026D884F37A17C7B9F93B6E8551C72
 Jorge,"Oh, uh...you're probably done already. He's a real go-getter, this one. Great at his job.","О, э-э... вы, наверное, уже закончили. Он у нас настоящий добытчик. Отлично справляется с работой.",ai,,61451D1E43C6D0524E39F39C9534F272
@@ -781,14 +781,14 @@ The Visitor,"Right, right - how's your pal doing, by the way? Saw you two chatti
 Eli,He's just...admiring your car.,Он просто... любуется вашей машиной.,ai,,D66963054BCB7F8AA63895B474010B0C
 Eli,Jorge is...slow to warm up to people.,Джордж... не сразу привыкает к людям.,ai,,3C8D7F964437A7D5BAAE7E80D4FF8087
 Eli,No. He's not.,Нет. Не присоединится.,ai,,CE35A90740ECC6BC2AD75EBAD4BCA347
-The Visitor,"Excellent! I just can't get enough of this little camp of yours - just amazed at how you guys are doing. All I ask is that you come introduce me to our little friend - when you have time, of course!","Отлично! Не могу налюбоваться на ваш лагерь. Поражён, как у вас тут всё устроено. Прошу об одном: познакомьте меня с нашим маленьким другом, когда будет время, конечно!",ai,,E7D8B75649FE3AEBCA2562AC83C74808
+The Visitor,"Excellent! I just can't get enough of this little camp of yours - just amazed at how you guys are doing. All I ask is that you come introduce me to our little friend - when you have time, of course!","Отлично! Не могу налюбоваться на ваш лагерь. Поражён, как у вас тут всё устроено. Прошу об одном: познакомьте меня с нашей маленькой штукой, когда будет время, конечно!",ai,,E7D8B75649FE3AEBCA2562AC83C74808
 Eli,Sure thing.,Конечно.,ok,,9DECE42D470B451C495C7BB07396C506
 Eli,Take your time. We're in no rush.,Не торопитесь. Нам спешить некуда.,ai,,15C92DBB4996669CD79182B6615494DC
 The Visitor,"Hah, man! What a welcoming committee. Usually, these visits are dull, dull, dull. Bunch of nerds standing around, sweating stains into their lab coats and fumbling with paperwork! Breath of fresh air, you two.","Ха, дружище! Вот это встреча. Обычно такие визиты - скука, скука, скука. Куча ботаников стоит, потеет, пятна на халатах, путается в бумажках! Глоток свежего воздуха, вы двое.",ai,,4C9B16A0441F53CD105531AF9EAF1E26
 Eli,"Sorry, I don't think I caught your name.","Простите, кажется, я не расслышал ваше имя.",ai,,A691E83448B9B05BE38E70BE0B6FC8D1
 Eli,Doing what we can to keep the days interesting.,"Делаем, что можем, чтобы дни не были скучными.",ai,,29DA2D184948454A64B701B533F00938
 Eli,"...Thank you. So, where would you like to start?",...Спасибо. С чего хотите начать?,ai,,18A260CE4271CAAA0E19D58A21F78E47
-The Visitor,"Aw, come on, glasses! Lighten up a bit - I'm just fucking with you, is all. Now, if you don't mind, I'm going to have a look at the rest of this camp of yours. And we need to have a look at our little friend too, don't we?","Ну бросьте, очкарик! Расслабьтесь. Я просто, бля, прикалываюсь над вами, и всё. Теперь, если не возражаете, я осмотрю остальную часть вашего лагеря. И на нашего маленького друга взглянуть надо, не так ли?",ai,,7202DFE041CAAC5EE8AFDBB60B6740A1
+The Visitor,"Aw, come on, glasses! Lighten up a bit - I'm just fucking with you, is all. Now, if you don't mind, I'm going to have a look at the rest of this camp of yours. And we need to have a look at our little friend too, don't we?","Ну бросьте, очкарик! Расслабьтесь. Я просто, бля, прикалываюсь над вами, и всё. Теперь, если не возражаете, я осмотрю остальную часть вашего лагеря. И на нашу маленькую штуку взглянуть надо, не так ли?",ai,,7202DFE041CAAC5EE8AFDBB60B6740A1
 Eli,Yes. Would you like to see the Artifact now?,Да. Хотите увидеть Артефакт прямо сейчас?,ai,,541867AA4678F4F3C0CC48ACD754BFDC
 Eli,[Continue to say nothing],[По-прежнему молчать],ai,,B946C1684EFD69A415FF55A8E5A8C513
 Eli,"Of course, but take your time.","Конечно, но не торопитесь.",ai,,0C6B0F204430AC04F0AE0CBC940F28B5
@@ -938,7 +938,7 @@ Eli,What they do is out of our control - all we can do is advise on what we thin
 The Visitor,"...So, let's see. Well, ain't that something. Glad to see you two have calmed down since you wrote this, huh? Based on what I read here, you fellas were just about ready to bury this thing back in the ground! Let me guess - running a big lab back home in the City sounded too good to pass up on?","...Так, посмотрим. Ну надо же. Рад видеть, что вы двое успокоились с тех пор, как это писали, а? Судя по прочитанному, вы, ребята, чуть не закопали эту штуку обратно в землю! Дайте угадаю: руководить большой лабораторией дома, в Городе, звучало слишком заманчиво, чтобы отказаться?",ai,,F32F040444856EE7A3A66287C860C7B1
 Eli,We realized soon that HQ would never let us bury it. This was the next best option.,"Мы быстро поняли, что штаб никогда не позволит нам его закопать. Это был лучший из оставшихся вариантов.",ai,,FBD1B5404B1C778346FD769E786A6A5E
 Eli,"...The safety and security of a big lab back home took priority, but yes.","...Безопасность и надёжность большой лаборатории дома были в приоритете, но да.",ai,,391D35C04FAFBF2EE8B860B29033BB2B
-The Visitor,"...Right, let's see - well, well. Looks like this thing gave you two quite a scare before you...well, got it killed. I'll be honest, that raises a few questions.","...Так, посмотрим. Ну-ну. Похоже, эта штука порядком вас напугала, прежде чем вы его... ну, угробили. Скажу честно, это поднимает ряд вопросов.",ai,,01EDEACF43F8DDBF5A98DFB5EB03FBE2
+The Visitor,"...Right, let's see - well, well. Looks like this thing gave you two quite a scare before you...well, got it killed. I'll be honest, that raises a few questions.","...Так, посмотрим. Ну-ну. Похоже, эта штука порядком вас напугала, прежде чем вы её... ну, угробили. Скажу честно, это поднимает ряд вопросов.",ai,,01EDEACF43F8DDBF5A98DFB5EB03FBE2
 Eli,I'm certain I can settle any concerns HQ may have.,"Уверен, я смогу развеять любые опасения штаба.",ai,,C03E1DB240295FB94F84C0A8D4A3449A
 Eli,What kinds of questions do you mean?,Какие вопросы вы имеете в виду?,ai,,E74C619D4AF03DE4E91DF3833BAF6ED1
 Eli,"Trust us, we know. We can't control how HQ responds.","Поверьте, мы знаем. Мы не можем контролировать реакцию штаба.",ai,,7EBE6014423AC34B5E6CE6B72524067A
@@ -1225,11 +1225,11 @@ The Visitor,"I bet! Boredom breeds apathy, or at least so I'm told. A fella's li
 Eli,[Say nothing],[Промолчать],ai,,3408F6D54498D58FAA00C7B8450B4D7A
 Eli,Sure I do.,"Конечно, знаю.",ai,,3C2B2D0E4C1F7B40E59DB085F648D927
 Eli,...Can we get on with work?,...Можем мы вернуться к работе?,ai,,63608C7348CF436CAB1BA790FDC85012
-The Visitor,"...And there it is. There's the little guy. Not moving a lot, huh? What, is it sleeping? Looks pretty...harmless to me.","...Ага, вот он. Вот малыш. Почти не двигается, а? Что, спит? Выглядит вполне... безобидно.",ai,,6B0B1D4B46562E40F9E13983BB8A78F1
+The Visitor,"...And there it is. There's the little guy. Not moving a lot, huh? What, is it sleeping? Looks pretty...harmless to me.","...Ага, вот она. Вот наша маленькая штука. Почти не двигается, а? Что, спит? Выглядит вполне... безобидно.",ai,,6B0B1D4B46562E40F9E13983BB8A78F1
 Eli,Only because we made sure to pacify it beforehand.,"Только потому, что мы заранее его усмирили.",ai,,9BC314C745A9A5BDE8116CBFC2AC6962
 Eli,"Yes - remarkable, isn't it?","Да, поразительно, правда?",ai,,EE137ACC4878CDD429E85F93C6A0D76D
 Eli,It doesn't jump out at you. It's dangerous in a much more...insidious way.,Он не выпрыгивает на вас. Опасность в нём куда более... коварная.,ai,,594E6D094B2C9F2817DEB8938E949A75
-The Visitor,"...Now, would you look at that. Hello there, little...thing. You weird, bizarre little thing. Looks like it's moving a little bit - is that normal?","...Только поглядите. Здравствуй, малютка... штуковина. Странная, диковинная штуковина. Вроде бы чуть шевелится. Это нормально?",ai,,BF0249B24856322A5A74328F022909D5
+The Visitor,"...Now, would you look at that. Hello there, little...thing. You weird, bizarre little thing. Looks like it's moving a little bit - is that normal?","...Только поглядите. Здравствуй, маленькая... штука. Странная, диковинная маленькая штука. Вроде бы чуть шевелится. Это нормально?",ai,,BF0249B24856322A5A74328F022909D5
 Eli,"No, usually it's completely still - almost looks dead.","Нет, обычно он совершенно неподвижен, почти как мёртвый.",ai,,3C3085A74A7155B4211FD0B62B3AE82F
 Eli,Yes. This is how it normally is.,Да. Обычно он такой.,ai,,020E5A4A443C3D66111CF087A255144A
 Eli,"No, usually it's a lot more agitated.","Нет, обычно он гораздо беспокойнее.",ai,,33987A4C45BBD97E614042B8904104E6
@@ -1273,7 +1273,7 @@ The Visitor,"Sure it does. And then, when you least expect it...bang! You step i
 Eli,"I can assure you, you don't want to take this so lightly.","Уверяю вас, относиться к этому так легкомысленно не стоит.",ai,,787DB1C24B330CFFB04E39BC1C6FA0C6
 Eli,"For now, yes. That can and will change.","Пока да. Это может измениться, и изменится.",ai,,EBE1E36A457149896FC1F2A61170ED9E
 Eli,"...Perhaps we were mistaken, then.","...Тогда, возможно, мы ошибались.",ai,,C63B8DD143F6372BC78BE6AA4071C252
-The Visitor,"Oh, no. No, not at all! I'm just...well, point taken, I suppose. Still - chances are HQ are going to want to see it. That might mean a trip to the City for this little...whatever it is.","О, нет. Нет, что вы! Просто... ладно, принято. И всё же штабу наверняка захочется на него взглянуть. А значит, этой малютке... или что оно там, возможно, придётся съездить в Город.",ai,,87C74B584EF8464E8B9B2C91C424CAE4
+The Visitor,"Oh, no. No, not at all! I'm just...well, point taken, I suppose. Still - chances are HQ are going to want to see it. That might mean a trip to the City for this little...whatever it is.","О, нет. Нет, что вы! Просто... ладно, принято. И всё же штабу наверняка захочется на неё взглянуть. А значит, этой маленькой... что бы это ни было, возможно, придётся съездить в Город.",ai,,87C74B584EF8464E8B9B2C91C424CAE4
 Eli,I'd advise against that.,Я бы не советовал.,ai,,3BC235CE4BF63144796DAB9C650FCFB3
 Eli,Will me and Jorge be able to present it?,А мы с Джорджем сможем его представить?,ai,,3F4751F14BC336F4969AD99D3D1E659D
 Eli,...Excellent. We were hoping for a chance to get back soon.,...Отлично. Мы надеялись скоро вернуться.,ai,,218F257C41B7BCB4443FB986CAC2D7ED
@@ -1301,7 +1301,7 @@ The Visitor,"...Well, I hope it dies again later today, if it likes going from o
 Eli,...We're still taking it back to HQ? I'd advise against that.,...Вы всё равно повезёте его в штаб? Я бы не советовал.,ai,,1911BEBF46495A1831D45CB548B8859D
 Eli,"...Will Jorge and I still be able to present it to them, you think?","...Мы с Джорджем всё равно сможем представить его им, как думаете?",ai,,085A67864E58D468629B478BA6C8E375
 Eli,...We're going back to the City? Excellent.,...Мы возвращаемся в Город? Отлично.,ai,,1E7ED22F4DED85649E1F2A8693FF0609
-The Visitor,"Who knows, maybe it got better? Grew up, stopped acting out. Shit, I'd be cranky too, if I'd be comfortably napping underground and suddenly get dug up. I'm just happy I don't have to drive this thing back to HQ and worry about getting eaten.","Кто знает, может, ему стало лучше? Повзрослел, перестал капризничать. Чёрт, я бы тоже злился, если бы мирно дремал под землёй, а меня вдруг откопали. Главное, мне не придётся везти эту штуку в штаб и бояться, что меня сожрут.",ai,,497532A74F0D0F30A45ED4A884DBBD09
+The Visitor,"Who knows, maybe it got better? Grew up, stopped acting out. Shit, I'd be cranky too, if I'd be comfortably napping underground and suddenly get dug up. I'm just happy I don't have to drive this thing back to HQ and worry about getting eaten.","Кто знает, может, ей стало лучше? Повзрослела, перестала капризничать. Чёрт, я бы тоже злился, если бы мирно дремал под землёй, а меня вдруг откопали. Главное, мне не придётся везти эту штуку в штаб и бояться, что меня сожрут.",ai,,497532A74F0D0F30A45ED4A884DBBD09
 Eli,...Taking it to HQ? I'd advise against that.,...Везти в штаб? Я бы не советовал.,ai,,8EE945E445C81576EC599B8ED53A702D
 Eli,"As long as we come with you and are allowed to present it, you don't need to worry.","Пока мы едем с вами и можем его представить, вам не о чем беспокоиться.",ai,,A0426BBA4F1C2FB04806B9B0CD13DA62
 Eli,You're taking us back? Excellent.,Вы берёте нас с собой? Отлично.,ai,,87F53196410F3AB64625CAA641E06DE2
@@ -1317,7 +1317,7 @@ The Visitor,"I am, I am - don't worry about it. I'll make sure to pack it real s
 Eli,...I would advise against taking it anywhere.,...Я бы не советовал никуда его везти.,ai,,434E6F0C448E76C3DCE3EBB270E8A017
 Eli,Will me and Jorge be able to present it to HQ?,А мы с Джорджем сможем представить его штабу?,ai,,0D09796E4626AA1728A7AE9412E5980A
 Eli,We're going back to the City? Excellent.,Мы возвращаемся в Город? Отлично.,ai,,8D68EB4E49858954815CDF8AD6EDC0A2
-The Visitor,"What, this little thing? Now that it's been safely secured by you two? Nah, I'm good. After all, I'll be driving this thing back to the City soon enough.","Что, эта малютка? Теперь, когда вы двое её надёжно закрыли? Не, я в порядке. Всё равно скоро повезу её в Город.",ai,,A578E15446F0A9F96D96F8BC48DC6371
+The Visitor,"What, this little thing? Now that it's been safely secured by you two? Nah, I'm good. After all, I'll be driving this thing back to the City soon enough.","Что, эта маленькая штука? Теперь, когда вы двое её надёжно закрыли? Не, я в порядке. Всё равно скоро повезу её в Город.",ai,,A578E15446F0A9F96D96F8BC48DC6371
 Eli,"...I'd advise against that, however.",...Однако я бы не советовал.,ai,,2329F4464F02B6C7D6AE65B821DCD524
 Eli,Will me and Jorge be able to present it to HQ?,А мы с Джорджем сможем представить его штабу?,ai,,793EE0B949A87903759604AA26A0F080
 Eli,We're going back to the City? Excellent.,Мы возвращаемся в Город? Отлично.,ai,,E4B64DB04022F4B0BFFA31BB6A0A0495
@@ -1427,10 +1427,10 @@ Eli,"I'm sure we'll be able to transport it safely, with the right equipment.","
 Eli,"As long as me and Jorge are around, it'll be fine.","Пока мы с Джорджем рядом, всё будет в порядке.",ai,,E3EEF7FA4367C52E305025AB2E89280F
 The Visitor,"Yeah? I figured it'd be a lot more aggressive, for some reason. You fellas talked some sense into it, huh?","Да? Я почему-то думал, что он будет куда агрессивнее. Вы, ребята, вразумили его, а?",ai,,55B497824E27785A72CC41901A8D91BC
 Eli,Something like that. I meant it when I said we've become experts on this thing.,"Вроде того. Я не шутил, когда говорил, что мы стали экспертами по этой штуке.",ai,,2853C0DE469D803CAC6462AD8B25DA14
-Eli,"No, we just keep it under constant surveillance. We can't trust this thing.","Нет, мы просто держим его под постоянным наблюдением. Этой штуке доверять нельзя.",ai,,0160C1874EFCD240E1FE539892901481
+Eli,"No, we just keep it under constant surveillance. We can't trust this thing.","Нет, мы просто держим её под постоянным наблюдением. Этой штуке доверять нельзя.",ai,,0160C1874EFCD240E1FE539892901481
 The Visitor,"Well, shit - ain't I lucky. Did you guys have to do something to it? I don't know, cool it down? Give it some drugs or something?","Ну, чёрт, везёт же мне. Вы что-то с ним сделали? Не знаю, охладили? Накачали какой-нибудь дрянью?",ai,,182CF20C43DBEE59583E54B42798BFE7
 Eli,Something like that. I meant it when I said we've become experts on this thing.,"Вроде того. Я не шутил, когда говорил, что мы стали экспертами по этой штуке.",ai,,F06D36584A7DE1702C1165A1E1BADDD8
-Eli,"No, we just keep it under constant surveillance. We can't trust this thing.","Нет, мы просто держим его под постоянным наблюдением. Этой штуке доверять нельзя.",ai,,8497AC7C4F742D865708849A854F4627
+Eli,"No, we just keep it under constant surveillance. We can't trust this thing.","Нет, мы просто держим её под постоянным наблюдением. Этой штуке доверять нельзя.",ai,,8497AC7C4F742D865708849A854F4627
 The Visitor,"It's over! We're at the end. Ain't that nice? We got to do our jobs and came out better friends than ever. Warms the heart, don't it?","Всё кончено! Мы у цели. Славно, а? Мы сделали свою работу и стали друзьями лучше прежнего. Греет душу, верно?",ai,,B8E94648406FEA42EA0701B244FA2C92
 Eli,Nothing else you need us to answer? No more questions?,Вам больше ничего не нужно от нас? Вопросов больше нет?,ai,,60CC1F8F46CEBFC649D0F2B754981B38
 Eli,"...So, when do you plan on leaving?",...Так когда вы собираетесь уезжать?,ai,,6336FA324E26F4E3A48A4BB06F2336B1
@@ -1495,11 +1495,11 @@ The Visitor,"Right. Now, uh...cooperation's been fine. No denying that - it hasn
 Eli,[Look over at Jorge],[Взглянуть на Джорджа],ai,,6C08E18945A29945F5EEDDB21DC4C1E2
 Eli,...Engaging?,...Увлекательным?,ai,,FEDEDBFB447DF7E859B005A0C8408A56
 Eli,Our cooperation should suffice.,Нашего сотрудничества должно быть достаточно.,ai,,6A5420A94325B752494E56B034F33CCB
-The Visitor,"I will! Just over by the car, is all. Tell you what - I'll grab our little friend here, and we can have a good chat, all four of us!","Разумеется! Тут рядом, у машины. Знаете что: я возьму нашего маленького друга, и мы славно поболтаем вчетвером!",ai,,DCDA30E24472AFE8B1FAD6A9E810D905
+The Visitor,"I will! Just over by the car, is all. Tell you what - I'll grab our little friend here, and we can have a good chat, all four of us!","Разумеется! Тут рядом, у машины. Знаете что: я возьму нашу маленькую штуку, и мы славно поболтаем вчетвером!",ai,,DCDA30E24472AFE8B1FAD6A9E810D905
 Eli,"...No, you can leave the Artifact here.","...Нет, Артефакт можно оставить здесь.",ai,,E45A4DD546355F9B3E768DB65623CC94
 Eli,...I'll carry it.,...Я его понесу.,ai,,7BBBDEA34F3235C05E484CAF7E233BC9
 Eli,If you insist.,Если настаиваете.,ok,,180D8C2B47DF8FFB592E0DA71F163DC3
-The Visitor,"Stellar. Tell you what - I'll grab our little friend here, too. That way, no one's left out of the conversation. hah!",Великолепно. Знаете что: я и нашего маленького друга захвачу. Так никто не останется в стороне от разговора. Ха!,ai,,C3C0883F4F2756741933688CEA7845FE
+The Visitor,"Stellar. Tell you what - I'll grab our little friend here, too. That way, no one's left out of the conversation. hah!",Великолепно. Знаете что: я и нашу маленькую штуку захвачу. Так никто не останется в стороне от разговора. Ха!,ai,,C3C0883F4F2756741933688CEA7845FE
 Eli,"...No, you can leave the Artifact here.","...Нет, Артефакт можно оставить здесь.",ai,,F0D2F9CC45735628DA5053AA46A07A09
 Eli,...I'll carry it.,...Я его понесу.,ai,,23586B224C1F3778025614A2FDA75AA6
 Eli,If you insist.,Если настаиваете.,ok,,26FE3E0443365D212772EE8DF5D68AF2
@@ -1772,7 +1772,7 @@ The Visitor,"Now, I may not like that tone, but I can't say you're full of shit,
 Eli,Then you understand that it's imperative we get a lab for it.,"Тогда вы понимаете, что нам нужна для него лаборатория.",ai,,07783FE24393F3B80F333B9E5663AA37
 Eli,Then you understand that we're indispensable.,"Тогда вы понимаете, что мы незаменимы.",ai,,0C2C6B744F2EAF7FAB1E938C605BBFF6
 Eli,I'm glad we could convince you.,"Рад, что нам удалось вас убедить.",ai,,07B2A6A5453A695919D859A9744D2323
-The Visitor,"Now, I don't know about deserving things, but I'll admit that you two are the experts on your little friend. Even if that's because you're the only two people who's ever seen it, until today.","Насчёт того, кто чего заслуживает, не знаю, но признаю, что вы двое эксперты по вашему маленькому другу. Пусть даже потому, что до сегодняшнего дня вы были единственными, кто его видел.",ai,,3B8C258D41A69142EE114ABF831DA149
+The Visitor,"Now, I don't know about deserving things, but I'll admit that you two are the experts on your little friend. Even if that's because you're the only two people who's ever seen it, until today.","Насчёт того, кто чего заслуживает, не знаю, но признаю, что вы двое эксперты по вашей маленькой штуке. Пусть даже потому, что до сегодняшнего дня вы были единственными, кто её видел.",ai,,3B8C258D41A69142EE114ABF831DA149
 Eli,Then you understand that it's imperative we get a lab for it.,"Тогда вы понимаете, что нам нужна для него лаборатория.",ai,,45903511445D600C7ACE1E837854C842
 Eli,Then you understand that we're indispensable.,"Тогда вы понимаете, что мы незаменимы.",ai,,B04FE3B44BCB72EF3F4E42AD97306888
 Eli,I'm glad we could convince you.,"Рад, что нам удалось вас убедить.",ai,,E872A61645246D7439BA61B8D3A33BDD
@@ -2065,7 +2065,7 @@ Eli,...Fuck you.,...Пошёл ты нахуй.,ai,,DB1E4F6549E911DC996204B95D84
 The Visitor,"Nice try, glasses. You're riding up front.","Хорошая попытка, очкарик. Поедете спереди.",ai,,3023B344411874ECDA97A0B2FF277144
 Eli,Fine.,Хорошо.,ok,,7F16654547834CA153AB3AA2B32342B1
 Eli,Sure. Your funeral.,Ладно. Вам же хуже.,ai,,1D71334C43E4CA14497277BC48478AF2
-The Visitor,"Ah, sure. If our little friend gets hungry on the road, maybe it'll eat you first.","Ага, конечно. Если наш маленький друг проголодается в дороге, может, он сначала съест вас.",ai,,D572B5084FFFA2903CB1E79026CA0881
+The Visitor,"Ah, sure. If our little friend gets hungry on the road, maybe it'll eat you first.","Ага, конечно. Если наша маленькая штука проголодается в дороге, может, она сначала съест вас.",ai,,D572B5084FFFA2903CB1E79026CA0881
 Eli,Fine.,Хорошо.,ok,,1C48CE7542D123AF4D0355983027A9B1
 Eli,I'm certain I can keep it under control,"Уверен, я смогу держать его в узде",ai,,627BB6A24BA273C10B24BDAB744641F1
 The Visitor,"Love it. You know, glasses - you're not so bad after all. I think I kind of like you, even.","Обожаю. Знаете, очкарик, вы не так уж плохи. Даже, пожалуй, нравитесь мне.",ai,,25A361F94F3617EE7EEEAFB5FF76F596
@@ -2131,7 +2131,7 @@ Eli,...,,,,15DB518843825CE9392B9EAD03AE35A0
 The Visitor,Real inspiring.,Очень вдохновляет.,ai,,3C06B4AE4A2CCD59BB3D14A2F92DE6B4
 Eli,...,,,,2DB69433418B56BFB7037986E50F5536
 Eli,...,,,,4DA3C649433F1EA15F32058E487D4F11
-The Visitor,Well - don't let me talk your ears off. I should get going. Me and our little friend have got a long ride ahead of us.,"Что ж, не буду утомлять вас болтовнёй. Мне пора. Нам с нашим маленьким другом предстоит долгая дорога.",ai,,D7107827418741C0BDAC0AB4E2C224BE
+The Visitor,Well - don't let me talk your ears off. I should get going. Me and our little friend have got a long ride ahead of us.,"Что ж, не буду утомлять вас болтовнёй. Мне пора. Нам с нашей маленькой штукой предстоит долгая дорога.",ai,,D7107827418741C0BDAC0AB4E2C224BE
 Eli,...,,,,949D7DDE4B0EF933809E76A3B7390BEE
 The Visitor,"Adios, fellas. The pleasure was all mine.","Прощайте, парни. Было приятно.",ai,,001D88744A3CCA3B8184AFBACE2D442B
 Eli,[Die],[Умереть],ai,,C3AB0003440DE2A0A0963BB592EF46F4
@@ -2691,7 +2691,7 @@ The Visitor,"The right guys in the right place at the right time, you mean? Look
 Eli,You said it yourself - we don't have enough equipment out here.,Вы сами сказали - оборудования здесь не хватает.,ai,,0A6150A544711185E0F11EA555542A2F
 Eli,"We may be experts, but we need a team to lead to make sure this is done right.","Мы, может, и эксперты, но нам нужна команда под нашим руководством, чтобы всё сделать правильно.",ai,,99EBBC3040DDD16BC81A0EB8A164C3F5
 Eli,We don't know the exact effects of the Artifact just yet.,Мы пока не знаем точных эффектов Артефакта.,ai,,33D7D10A4C87B7CD8581B1B725FC4870
-The Visitor,"That's a strong word, glasses. Don't know about imperative, but I do know you really, really want it. We'll just have to see what the labcoats back home have to say about the matter, once we get our little friend back to the City.","Сильное слово, очкарик. Насчёт «необходимо» не знаю, но знаю, что вам очень, очень этого хочется. Посмотрим, что скажут дома белые халаты, когда мы доставим нашего маленького друга в Город.",ai,,03CFB0C94FAB74145269699F19D4B343
+The Visitor,"That's a strong word, glasses. Don't know about imperative, but I do know you really, really want it. We'll just have to see what the labcoats back home have to say about the matter, once we get our little friend back to the City.","Сильное слово, очкарик. Насчёт «необходимо» не знаю, но знаю, что вам очень, очень этого хочется. Посмотрим, что скажут дома белые халаты, когда мы доставим нашу маленькую штуку в Город.",ai,,03CFB0C94FAB74145269699F19D4B343
 Eli,I'm sure they'll see things our way. We can contain it safely here until then.,"Уверен, они согласятся с нами. До тех пор мы можем надёжно удерживать его здесь.",ai,,888A5F384FDEC587C889FFBCB5D02E0A
 Eli,It's not going to the City yet. We need to take precautionary measures.,В Город ему пока рано. Нужно принять меры предосторожности.,ai,,72A2B7814D8C444D7464588E9789E19E
 Eli,"If they want the artifact, they need to agree to our terms.","Если им нужен Артефакт, пусть принимают наши условия.",ai,,2150B5634888D8077EE5A491516E1780
@@ -2763,7 +2763,7 @@ The Visitor,"Sure sounds like being dead to me, but I'll bite. And how did that 
 Eli,"Yes. We're not sure how, but it might have been exposed to a too hazardous environment.","Да. Мы не уверены как, но, возможно, среда оказалась для него слишком опасной.",ai,,26A505204F83CB75F67BB9A5DA0C33C6
 Eli,We...don't know. It was just dead one morning.,Мы... не знаем. Однажды утром он просто оказался мёртв.,ai,,AB9E3A974D3168AF4C8F49A10E62595B
 Eli,It wouldn't feed on anything. No sustenance was enough to kill it.,Он ничем не питался. Никакое питание не смогло бы его убить.,ai,,6F0EEB664325FEEE5ACED7B903CA029F
-The Visitor,"Well I'll be a son of a bitch. Ain't that something. This level of discovery, and the thing just croaks. Speaking of, how exactly did that happen? You two were keeping eyes on it, weren't you?","Ну я буду... сукин сын. Вот это да. Такое открытие - и штука просто сдыхает. Кстати, как именно? Вы же за ним следили, так?",ai,,C3A5AD5543E607EA4413C8AB1B2B254B
+The Visitor,"Well I'll be a son of a bitch. Ain't that something. This level of discovery, and the thing just croaks. Speaking of, how exactly did that happen? You two were keeping eyes on it, weren't you?","Ну я буду... сукин сын. Вот это да. Такое открытие - и штука просто сдыхает. Кстати, как именно? Вы же за ней следили, так?",ai,,C3A5AD5543E607EA4413C8AB1B2B254B
 Eli,We think it might have been exposed to a too hazardous environment.,"Мы думаем, среда могла оказаться для него слишком опасной.",ai,,A692E356414423299F995EBBC19DE33E
 Eli,We...don't know. It was just dead one morning.,Мы... не знаем. Однажды утром он просто оказался мёртв.,ai,,284943C74308E87BE0AB83948955FA75
 Eli,It wouldn't feed on anything. No sustenance was enough to kill it.,Он ничем не питался. Никакое питание не смогло бы его убить.,ai,,C890EFAA4DC707A32546EE90F94332FD
@@ -2798,10 +2798,10 @@ Eli,Anything else you'd like to know?,Хотите узнать что-нибу�
 The Visitor,"I bet - couple of smart guys like you got to know what you're doing, right? Anything I should keep in mind when I see it?","Ещё бы, парочка умников вроде вас должна знать своё дело, да? Что мне стоит иметь в виду, когда я его увижу?",ai,,A983E69E4787A8E72AF8D2AD52BE4C45
 Eli,"It's secure, so no need to worry. Would you like to go see it now?","Он под надёжной защитой, так что беспокоиться не о чем. Хотите посмотреть на него сейчас?",ai,,AF310DD74B3B2BA830ACB9B4A30ADC4F
 Eli,Just be careful. Any other questions?,Только осторожнее. Есть ещё вопросы?,ai,,2933888148906272A33B84ADAE252C30
-The Visitor,"But no way to know for certain, huh? Hah! You two are flirting with some dangerous stuff here - hoping to get some kind of superpowers from this thing? I don't know, maybe it'll perch on your back and grow you wings!","Но наверняка не узнать, а? Ха! Вы двое играете с чем-то опасным - надеетесь получить от этой штуки какие-то суперсилы? Не знаю, может, он усядется вам на спину и отрастит крылья!",ai,,F0EBCBDC41DEC7EC0965C3BB652E87A2
+The Visitor,"But no way to know for certain, huh? Hah! You two are flirting with some dangerous stuff here - hoping to get some kind of superpowers from this thing? I don't know, maybe it'll perch on your back and grow you wings!","Но наверняка не узнать, а? Ха! Вы двое играете с чем-то опасным - надеетесь получить от этой штуки какие-то суперсилы? Не знаю, может, она усядется вам на спину и отрастит крылья!",ai,,F0EBCBDC41DEC7EC0965C3BB652E87A2
 Eli,"Unfortunately, that's probably impossible.","К сожалению, это, скорее всего, невозможно.",ai,,FD73C5E04819A81C14B0D0903205C366
 Eli,"...No, that seems highly unlikely.","...Нет, это крайне маловероятно.",ai,,16462CA041C197DE945705807A1D5DEA
-The Visitor,"Oh, the wastes? I can imagine that thing enjoying this scorching heat about as much as I do! I will level with you boys, however - taking it out in a dangerous environment? HQ ain't going to love that.","О, пустоши? Воображаю, что эта штука наслаждается здешним пеклом примерно так же, как я! Но скажу вам откровенно, парни: вынести его в опасную среду? Штабу это не понравится.",ai,,A3105EDC49D6260524E01496A0FAD35D
+The Visitor,"Oh, the wastes? I can imagine that thing enjoying this scorching heat about as much as I do! I will level with you boys, however - taking it out in a dangerous environment? HQ ain't going to love that.","О, пустоши? Воображаю, что эта штука наслаждается здешним пеклом примерно так же, как я! Но скажу вам откровенно, парни: вынести её в опасную среду? Штабу это не понравится.",ai,,A3105EDC49D6260524E01496A0FAD35D
 Eli,"Hopefully, they'll be understanding.","Надеюсь, они поймут.",ai,,928CE5AE47E5F3040A4DCE8CA4A7B9CE
 Eli,We just weren't sure how to treat it. We're as disappointed as you are.,"Мы просто не знали, как с ним обращаться. Мы разочарованы не меньше вас.",ai,,B6159E594053A005E9BDAB82BE6BE562
 Eli,[Say nothing],[Промолчать],ai,,B22B0B5C42187B7C94653E80F5A6F4D1

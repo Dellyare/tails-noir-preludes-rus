@@ -19,7 +19,7 @@ Howard,"So it's a thing, then.","Значит, это что-то.",ai,,9D3005AE
 Howard,A kid?,Ребенок?,ai,,DF50ED824AFDD552AE773489131DDACA
 Howard,A bad friend?,Плохой друг?,ai,,07E4AFD04C6155800F207B9BF9750FFC
 Howard,An overly attached RA?,Слишком привязчивый комендант?,ai,,A9C5038243339827B99D898B7AE9215D
-Wisconsin,"Well hello there, ""new""! I'm Wisconsin, your resident assistant - and potentially best friend!","Ну, привет, ""новенький""! Я Висконсин, ваш комендант - и потенциально лучший друг!",ai,,7F74AFDA443E1D59FE8895893CA90876
+Wisconsin,"Well hello there, ""new""! I'm Wisconsin, your resident assistant - and potentially best friend!","Ну, привет, ""новенький""! Я Висконсин, твой комендант - и потенциально лучший друг!",ai,,7F74AFDA443E1D59FE8895893CA90876
 Howard,"Hi, Wisconsin. I'm Howard Lotor.","Привет, Висконсин. Я Говард Лотор.",ai,,4DD08FD94B3DB766E9D55196C5120C6E
 Howard,"Right, well - see you around.","Ладно, увидимся.",ai,,3764FF0343EC563FD63C9CB4BA54111C
 Howard,Resident assistant?,Комендант?,ai,,9B58DBBA40B8FCAF26D30F9CB9B00031
@@ -67,7 +67,7 @@ Wisconsin,"Yeah! It's a mirror! Good job! Well? What did you think of the riddle
 Howard,Pretty easy.,Довольно легко.,ai,,3B82704945158423FF2795A30CF52BBF
 Howard,It was alright.,Нормально.,ai,,20F69093411C2311FCCB2E94364460F0
 Howard,Can you please tell me where I'm staying now?,"Можешь, пожалуйста, сказать, где я буду жить?",ai,,4AFC00224DD49F38E33F2F8CCE7D2B14
-Wisconsin,"I keep things running smoothly in the dorms! Like your dorm boss. But a fun boss! I also organize fun activities! You know, like a boss! Haha. Hah.","Я поддерживаю порядок в общежитии! Как ваш босс в общежитии. Но веселый босс! Я также организую веселые мероприятия! Ну, знаешь, как босс! Ха-ха. Хах.",ai,,C5E6DB2F4AF93C7BAC7E53817B41D05C
+Wisconsin,"I keep things running smoothly in the dorms! Like your dorm boss. But a fun boss! I also organize fun activities! You know, like a boss! Haha. Hah.","Я поддерживаю порядок в общежитии! Типа твой начальник по общаге. Но весёлый начальник! Я ещё и весёлые мероприятия устраиваю! Ну, знаешь, как начальник! Ха-ха. Хах.",ai,,C5E6DB2F4AF93C7BAC7E53817B41D05C
 Howard,Right. What's my room number?,Ладно. Какой номер моей комнаты?,ai,,BEC27F4846BD4BBD3B377787D8F12BC2
 Howard,"OK. I'll be running smoothly to my room now, if you don't mind.","ОК. Я сейчас пойду в свою комнату, если не возражаешь.",ai,,18F008DC47383B26094785B74463E328
 Howard,"Cool. Can you tell me where my room is, so I can put this box down first?","Круто. Можешь сказать, где моя комната, чтобы я мог поставить эту коробку?",ai,,BE772FBD49416949154C62A2213A83F6
