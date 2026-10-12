@@ -37,6 +37,7 @@ UninstallFilesDir={commonappdata}\TailsRUS
 #endif
 UninstallDisplayName=Русификатор: Tails Noir Preludes - Енотий Перевод
 SetupIconFile=icon.ico
+DisableWelcomePage=no
 InfoBeforeFile=info.txt
 WizardImageFile=wizard-164.bmp,wizard-246.bmp,wizard-328.bmp
 WizardSmallImageFile=wizard-small-55.bmp,wizard-small-83.bmp,wizard-small-110.bmp
@@ -55,7 +56,7 @@ Name: "russian"; MessagesFile: "compiler:Languages\Russian.isl"
 russian.GameNotFound=В выбранной папке не найдена игра: нет папки %1.%nУкажите папку, где установлена Tails Noir: Preludes (в Steam: «Управление» → «Просмотреть локальные файлы»).
 
 [Messages]
-russian.WelcomeLabel2=Мастер установит русский перевод игры Tails Noir: Preludes.%n%nДля работы необходима оригинальная игра. В процессе установки в папку игры будет добавлен один файл TailsRUS_P.pak; оригинальные файлы не изменяются, перевод удаляется через «Установку и удаление программ».%n%nВнимание: значительная часть перевода выполнена нейросетью и ещё не вычитана. Об ошибках можно сообщить на странице проекта на GitHub.%n%nВерсия {#AppVersion}, дата сборки {#GetDateTimeString('dd.mm.yyyy', '.', ':')}
+russian.WelcomeLabel2=Мастер установит русский перевод игры Tails Noir: Preludes.%nВерсия {#AppVersion}, дата сборки {#GetDateTimeString('dd.mm.yyyy', '.', ':')}.%n%nНужна оригинальная игра. В её папку добавится один файл TailsRUS_P.pak, оригинальные файлы не изменяются. Удалить перевод можно через «Приложения» в параметрах Windows.%n%nВнимание: значительная часть перевода выполнена нейросетью и ещё не вычитана.
 russian.FinishedLabelNoIcons=Русификатор установлен. Запустите игру: перевод подхватится автоматически.%n%nИллюстрация: Telegram @kaion_art
 russian.SelectDirLabel3=Мастер установит русификатор в папку игры.
 russian.SelectDirBrowseLabel=Выберите папку игры Tails Noir: Preludes (в ней должна лежать папка BackboneStories).
